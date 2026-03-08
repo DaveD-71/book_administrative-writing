@@ -69,6 +69,14 @@ Language support should explain the mechanism behind the target feature, not onl
 
 Every intervention should strengthen the goals already defined in the structural profiles. `N10` should not invent new unit goals or change the core unit structure unless a local correction is unavoidable.
 
+This means `N10` must actively confirm alignment across three levels:
+
+- module purpose
+- unit-level Can-Do statements
+- activity-level Can-Do statements
+
+If the current teaching in a unit does not clearly support that three-level alignment, the gap must be noted and the intervention should be designed to repair the teaching connection as far as possible without reopening the structural design.
+
 ### 3.3 Intervene where teaching actually happens
 
 The primary target is Section `C`.
@@ -241,6 +249,17 @@ Minimum expectation:
 
 For each unit, ask the following in order:
 
+### 7.0 Do the module, unit, and activity goals align clearly?
+
+Check whether:
+
+- the unit goals clearly support the module’s stated purpose
+- the activity-level goals clearly support the unit goals
+- the existing teaching in B/C/D visibly develops those goals
+
+If `No`, strengthen the explanation layer so that the intended progression becomes clearer in the unit.
+If the mismatch is structural rather than pedagogical, note it for later `N11` review.
+
 ### 7.1 Does the unit explicitly teach the principle behind its skill?
 
 If `No`, add conceptual framing.
@@ -273,7 +292,9 @@ For each unit, review the unit against the following questions:
 
 ### 8.1 Alignment
 
+- Does the unit’s teaching clearly support the module’s stated purpose?
 - Does the language instruction clearly support the unit-level Can-Do statements?
+- Do the activity-level goals clearly build toward the unit-level goals?
 - Do the B/C/D activities visibly build toward the unit’s main writing outcome?
 
 ### 8.2 Explicit Teaching
@@ -304,13 +325,14 @@ For each unit, review the unit against the following questions:
 
 A unit can only be treated as `N10-complete` if it includes, at minimum:
 
-1. A clear conceptual explanation in the main Language Focus area
-2. At least one explicit “why this works” element in model-text or language work
-3. Sufficient explanation of any key contrast or choice central to the unit
-4. At least one worked example where the target concept would otherwise remain implicit
-5. A visible bridge from explanation to later writing use
+1. Clear alignment between the module purpose, the unit goals, and the activity goals as reflected in the teaching sequence
+2. A clear conceptual explanation in the main Language Focus area
+3. At least one explicit “why this works” element in model-text or language work
+4. Sufficient explanation of any key contrast or choice central to the unit
+5. At least one worked example where the target concept would otherwise remain implicit
+6. A visible bridge from explanation to later writing use
 
-Not every unit must contain the same amount of new text, but every unit must meet all five requirements in some form.
+Not every unit must contain the same amount of new text, but every unit must meet all six requirements in some form.
 
 ---
 
@@ -335,11 +357,12 @@ For each module:
 
 1. Re-read the module introduction and unit Can-Do statements in `aw-adv_unit_structural_profiles_revised.md`
 2. Read the current `aw-adv_mod*_n9.md` file
-3. Assign each unit an intervention level (`1`, `2`, or `3`)
-4. Identify the missing teaching layer in B/C/D
-5. Add the minimum required N10 deliverables
-6. Check the revised unit against the review questions in Section 8
-7. Record any unit still needing deeper pedagogical repair for later QA attention
+3. Confirm module → unit → activity goal alignment
+4. Assign each unit an intervention level (`1`, `2`, or `3`)
+5. Identify the missing teaching layer in B/C/D
+6. Add the minimum required N10 deliverables
+7. Check the revised unit against the review questions in Section 8
+8. Record any unit still needing deeper pedagogical repair or structural follow-up for later QA attention
 
 ---
 

@@ -27,11 +27,24 @@
 
 ---
 
+## Alignment Requirement
+
+For every unit in this plan, `N10` must confirm and, where necessary, make more visible the alignment between:
+
+- the module goal or module purpose
+- the unit-level learning goal / Can-Do statements
+- the activity-level goals, especially across `B`, `C`, and `D`
+
+So each unit entry below includes an `Alignment focus` line. This identifies the goal connection that the strengthened language instruction must help make explicit to the learner.
+
+---
+
 ## Module 1 — Foundations
 
 ### Unit 1 — Controlling Sentence Complexity
 
 - `Level`: 3
+- `Alignment focus`: make clear that Module 1’s broader aim of structural control is realised here through sentence-level management of logical load, and that the B/C/D sequence all develops deliberate structural choice for clarity.
 - `Main gap`: the unit contains useful material, but the conceptual principle is still under-taught in places; key distinctions remain blurry.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add a short `D` note after the comparison prompts explaining that clarity depends on managing logical load, not simply making sentences shorter.
@@ -44,6 +57,7 @@
 ### Unit 2 — Tone for Agency-Level Communication
 
 - `Level`: 2
+- `Alignment focus`: make visible that Module 1’s structural-control foundation now extends to tone control, and that the unit’s B/C/D activities all develop audience-sensitive diplomatic phrasing rather than general “good tone”.
 - `Main gap`: the unit teaches softening through examples and phrase lists, but under-explains why phrasing choices work and how audience affects register decisions.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the revised version reduces blame, protects cooperation, and keeps the reader willing to respond.
@@ -55,6 +69,7 @@
 ### Unit 3 — Cohesion & Logical Flow
 
 - `Level`: 2
+- `Alignment focus`: make clear that this unit completes Module 1 by moving from sentence control to paragraph control, and that the B/C/D sequence all builds the unit goal of coherent information flow.
 - `Main gap`: cohesive devices and thematic progression are practised, but the unit needs clearer explanation of how coherence is built for a reader.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why the revised paragraph is easier to follow: clear topic movement, explicit sentence links, controlled reference.
@@ -70,6 +85,7 @@
 ### Unit 4 — Structuring High-Level Emails
 
 - `Level`: 2
+- `Alignment focus`: make explicit that Module 2’s purpose is purposeful document-level communication, and that the B/C/D activities all build the unit goal of structuring a professional email so the reader can act on it efficiently.
 - `Main gap`: the unit shows email parts clearly, but needs more explicit explanation of why structural separation helps the reader act efficiently.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how structure improves actionability, response speed, and reader orientation.
@@ -81,21 +97,24 @@
 ### Unit 5 — Clarification Requests
 
 - `Level`: 2
-- `Main gap`: the unit needs clearer explanation of precision as a reader-support strategy and of how multi-part clarification reduces back-and-forth.
+- `Alignment focus`: make visible that this unit narrows Module 2’s email-writing goal into precision and reader-support, and that the unit’s B/C/D/E chain all serves accurate clarification in a defined professional relationship.
+- `Main gap`: the unit needs clearer explanation of precision as a reader-support strategy, of how multi-part clarification reduces back-and-forth, and of how role/reader relationship shapes a clarification request.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why the revised request is easier to answer accurately.
 - `C1 Useful Phrases for Precise Clarification`: add `A` framing explaining what makes a clarification request precise rather than merely polite.
 - `C2 Structuring Multi-Part Questions`: add `B` explanation distinguishing a bundle of vague questions from a sequenced, answerable request set.
 - `Phrase Bank Building (C8)`: add `C` worked example showing how reference, question focus, and sequencing operate together in one message.
 - `D4 Two-Audience Version Task`: add `E` cue reminding learners that precision survives, even when audience tone changes.
+- `E3 Role-Based Writing Task`: add a short `E` cue reminding learners that the role relationship affects phrasing, level of explicitness, and how much background context is needed.
 
 ### Unit 6 — Diplomatic Error Notification
 
 - `Level`: 2
+- `Alignment focus`: make clear that this unit extends Module 2 from clarity and precision into sensitive diplomatic handling, and that the B/C/D activities all develop non-blaming problem communication.
 - `Main gap`: the unit has better explicit support than many others, but still needs more explanation of the rhetorical logic behind non-blaming language.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the revised version acknowledges the issue without escalating tension.
-- `B4 Annotated Model`: expand with one extra comment explaining the logic of separating error description, impact, and requested next step.
+- `B4 Annotated Model`: expand with one extra comment explaining the logic of separating error description, impact, and requested next step; use this as the unit’s main worked-example support.
 - `C1 Diplomatic Frames for Highlighting Errors`: add `A` framing explaining why writers depersonalise the problem.
 - `C2 Explaining Impact without Assigning Blame`: add `B` explanation distinguishing consequence language from blame language.
 - `D2 Scenario Writing`: add `E` cue telling learners to describe the problem, its impact, and the needed action as separate functions.
@@ -103,6 +122,7 @@
 ### Unit 7 — Multi-Part Request Messages
 
 - `Level`: 2
+- `Alignment focus`: make visible that the unit’s activities all support the Module 2 outcome of effective complex email communication by teaching prioritisation, dependency, and accountability in request structure.
 - `Main gap`: sequencing and prioritisation are present, but the unit needs stronger explanation of request logic and dependency management.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why prioritised requests reduce confusion and incomplete responses.
@@ -117,16 +137,19 @@
 ### Unit 8 — Writing Multi-Step Procedures
 
 - `Level`: 2
+- `Alignment focus`: make clear that Module 3 begins with procedural clarity, and that the B/C/D sequence all supports the unit goal of writing unambiguous, consistently structured procedures.
 - `Main gap`: procedural clarity is practised, but the unit needs more explicit explanation of consistency, sequencing, and ambiguity control.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why consistent instruction structure reduces reader error.
 - `C1 Sequencing / Ordering Task`: add `A` framing explaining how procedural readers rely on predictable order and signalling.
 - `C2 Sentence Rewriting`: add `B` explanation distinguishing procedural instruction from general explanatory prose.
+- `C2 Sentence Rewriting`: add `C` worked example showing how an ambiguous or uneven instruction sequence is rewritten into a clear procedural sequence.
 - `D5 Information Reorganisation`: add `E` cue reminding learners to keep action order and instruction form consistent.
 
 ### Unit 9 — Change Communication
 
 - `Level`: 2
+- `Alignment focus`: make visible that this unit adds reader-management to Module 3, and that the activities jointly develop the unit goal of explaining change with clarity, empathy, and reassurance.
 - `Main gap`: the unit needs clearer explanation of how change messages balance clarity, empathy, and reassurance.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the revised message manages reader concern while still communicating change clearly.
@@ -138,16 +161,19 @@
 ### Unit 10 — Breaking Down Complex Issues
 
 - `Level`: 2
+- `Alignment focus`: make clear that the B/C/D activities all develop the unit goal of accessible explanation, supporting Module 3’s broader aim of managing complex internal communication clearly.
 - `Main gap`: the unit teaches simplification, but needs more explicit explanation of chunking, reader knowledge, and accessible phrasing.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why the revised version is easier for a non-specialist to process.
 - `C1 Classification / Matching`: add `A` framing explaining that accessible explanation means controlling information load, not deleting content.
 - `C2 Sentence Rewriting`: add `B` explanation distinguishing simplification from oversimplification.
+- `C2 Sentence Rewriting`: add `C` worked example showing how one dense sentence is broken into a clearer explanation without losing necessary meaning.
 - `E2 Constrained Free Write`: add `E` cue linking the language principle to the writing constraint so the task feels purposeful, not arbitrary.
 
 ### Unit 11 — Executive Summaries from Meeting Content
 
 - `Level`: 2
+- `Alignment focus`: make visible that the unit’s B/C/D work all supports the unit goal of synthesis for senior readers, completing Module 3’s move from procedures to high-value internal summaries.
 - `Main gap`: the unit teaches structure and data use, but needs stronger explanation of synthesis, action focus, and summary logic.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why executive summaries group decisions, actions, and next steps rather than retell discussion.
@@ -163,6 +189,7 @@
 ### Unit 12 — Formal External Inquiries
 
 - `Level`: 2
+- `Alignment focus`: make clear that Module 4’s cross-border/interagency emphasis begins here through reader-oriented external inquiry writing, and that B/C/D all support the unit goal of formal external communication.
 - `Main gap`: the unit needs clearer teaching of how background context and clear questions work together in formal external inquiry writing.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the stronger version supports an external reader who lacks internal background.
@@ -175,6 +202,7 @@
 ### Unit 13 — Risk and Impact Assessment
 
 - `Level`: 3
+- `Alignment focus`: make visible that this unit’s B/C/D sequence all supports the unit goal of evidence-based conditional writing, not just “risk vocabulary”, within Module 4’s more formal interagency communication domain.
 - `Main gap`: the unit needs explicit teaching of conditionality, evidence-based risk language, and the difference between observed issue, possible impact, and mitigation.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the revised text separates evidence, risk, impact, and mitigation.
@@ -187,6 +215,7 @@
 ### Unit 14 — Adapting Messages for Different Audiences
 
 - `Level`: 2
+- `Alignment focus`: make clear that the unit’s activities all support the goal of audience adaptation without content loss, which is a central Module 4 skill for complex cross-boundary communication.
 - `Main gap`: the unit needs clearer explanation of audience knowledge, layered explanation, and what should remain constant across versions.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of what changes across audiences and what core content must remain stable.
@@ -199,6 +228,7 @@
 ### Unit 15 — Policy-Based Rationales
 
 - `Level`: 2
+- `Alignment focus`: make visible that the B/C/D sequence all supports the unit goal of policy-aligned reasoning, extending Module 4 from message adaptation into justification grounded in policy language.
 - `Main gap`: the unit needs more explicit teaching of how policy reference, reasoning, and benefits combine into a persuasive administrative rationale.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why the improved rationale is more persuasive: it connects policy, decision, and benefit.
@@ -214,17 +244,20 @@
 ### Unit 16 — Objective Evaluations
 
 - `Level`: 3
+- `Alignment focus`: make clear that Module 5 begins by shifting from document production to revision and judgement, and that the unit’s B/C/D work all supports balanced, evidence-based evaluation rather than subjective opinion.
 - `Main gap`: the unit needs strong explicit teaching of objectivity, hedging, evidence use, and the difference between evaluation and opinion.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of how the revised version becomes more credible by separating observation from judgement.
 - `B4 Annotated Model`: expand with one extra annotation on hedging as evidence-calibrated caution, not vagueness.
 - `C1 Sentence Rewriting — Objective, Neutral Language`: add `A` framing explaining what makes evaluation language objective.
 - `C2 Error Identification & Correction`: add `B` explanation distinguishing overclaiming from appropriately cautious evaluation.
+- `C2 Error Identification & Correction`: add `C` worked example showing how a subjective claim is revised into an evidence-based evaluation sentence.
 - `D6 Revision Chain`: add `E` cue directing learners to check claim strength against evidence strength.
 
 ### Unit 17 — Executive Briefs
 
 - `Level`: 2
+- `Alignment focus`: make visible that the unit’s B/C/D activities all support high-level synthesis and selection, which is central to Module 5’s advanced editing and revision focus.
 - `Main gap`: the unit needs clearer explanation of overview writing, selection, compression, and high-value synthesis from complex input.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why the improved brief foregrounds decision-relevant content rather than raw detail.
@@ -236,6 +269,7 @@
 ### Unit 18 — Multi-Source Integration
 
 - `Level`: 2
+- `Alignment focus`: make clear that this unit completes Module 5 by bringing together reading, synthesis, and document production, and that the B/C/D sequence all supports integration rather than source listing.
 - `Main gap`: the unit needs clearer teaching of synthesis, grouping, and relationship signalling across multiple sources.
 - `Planned insertions`:
 - `B1 Compare Two Versions`: add `D` explanation of why integrated writing is more useful than source-by-source reporting.
@@ -251,7 +285,8 @@
 ### Unit 19 — Explaining Policy to Non-Specialists
 
 - `Level`: 3
-- `Main gap`: this unit needs substantial conceptual explanation of adaptation, simplification, and audience-aware explanation without losing necessary precision.
+- `Alignment focus`: make visible that Module 6 begins with advanced audience adaptation, and that the B/C/D/E sequence all supports the unit goal of accurate but accessible policy explanation in a role-based context.
+- `Main gap`: this unit needs substantial conceptual explanation of adaptation, simplification, and audience-aware explanation without losing necessary precision; it also needs a clearer link between audience adaptation and role-based communication.
 - `Planned insertions`:
 - `B1 Compare the Versions`: add `D` explanation of why the improved version is more accessible while preserving accuracy.
 - `B6 Reading-to-Write Input`: add `A` framing explaining the adaptation problem: retain essential policy meaning while reducing specialist burden.
@@ -259,10 +294,12 @@
 - `C2 Explaining Purpose and Impact`: add `C` worked example showing technical statement → reader-facing explanation of purpose and effect.
 - `C3 Stating Required Actions Clearly`: add `A` framing connecting adapted explanation to clear action outcomes.
 - `D7 Format Conversion`: add `E` cue reminding learners to preserve what matters while changing how it is explained.
+- `E3 Role-Based Writing Task`: add a short `E` cue reminding learners that explanation depth and wording depend on both audience knowledge and the writer’s institutional role.
 
 ### Unit 20 — Writing Administrative Justifications
 
 - `Level`: 3
+- `Alignment focus`: make clear that the unit’s activities all support the unit goal of logically structured decision justification, a core Module 6 applied-writing competence.
 - `Main gap`: the unit needs strong explicit teaching of justification logic: decision, rationale, benefit, and structured support.
 - `Planned insertions`:
 - `B1 Compare the Versions`: add `D` explanation of why a strong justification makes the logic visible rather than implied.
@@ -275,6 +312,7 @@
 ### Unit 21 — Consolidated Administrative Reports
 
 - `Level`: 2
+- `Alignment focus`: make visible that the B/C/D sequence all supports the unit goal of synthesis into structured reporting, not merely section-filling, within Module 6’s applied multi-source writing.
 - `Main gap`: the unit needs stronger explanation of grouping logic, section function, and the difference between report synthesis and update listing.
 - `Planned insertions`:
 - `B1 Compare the Versions`: add `D` explanation of why structured sectioning improves decision-usefulness.
@@ -287,6 +325,7 @@
 ### Unit 22 — Integrated Scenario Response
 
 - `Level`: 2
+- `Alignment focus`: make clear that this unit’s activities all support the unit goal of integrated multi-document response, preparing directly for the capstone demands of Module 6.
 - `Main gap`: the unit needs explicit teaching of synthesis under complexity: choosing format, grouping issues, and maintaining neutral tone across multiple inputs.
 - `Planned insertions`:
 - `B6 Reading-to-Write Input`: add `A` framing explaining how to identify common issues across multiple source types.
@@ -298,10 +337,12 @@
 ### Unit 23 — Capstone
 
 - `Level`: 2
+- `Alignment focus`: make visible that the capstone’s B/C/D/F work consolidates the major skill strands of the whole book, so the learner can see how module and unit goals culminate in the final writing task.
 - `Main gap`: the capstone should reinforce transfer and self-diagnosis rather than introduce large amounts of new explanation, but the self-diagnosis logic must be made more explicit.
 - `Planned insertions`:
 - `B1 Compare Two Versions — Exemplar Analysis`: add `D` explanation of how the strong response integrates multiple unit-level skills at once.
 - `C1 Error Identification and Correction — Self-Diagnosis`: add `A` framing explaining how the five errors connect back to recurring book-wide writing problems.
+- `C1 Error Identification and Correction — Self-Diagnosis`: add `C` one worked example linking a sentence-level error to the broader writing principle it violates.
 - `D6 Revision Chain — Prior Work`: add `E` cue reminding learners to diagnose their own writing through the major course principles: synthesis, tone, justification, structure, and action clarity.
 - `F3 Self-Editing Checklist — Rubric-Based`: add a short `A` note explaining how the rubric categories reflect the book’s major skill strands.
 
