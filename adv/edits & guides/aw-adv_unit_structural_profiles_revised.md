@@ -7,7 +7,7 @@ Units are presented individually, grouped by module. Each unit block lists the a
 Each unit now includes:
 - **Can-Do Statements (unit level):** 3–5 learner-facing statements describing what the learner can do on completion of the unit. These are both planning tools and the basis for published unit objectives.
 - **Activity-level Can-Do statements:** One statement per activity presented as a table, connecting each activity's specific function to the unit's learning goals. These are recorded here for goal tracking and will inform unit outlines added in a later editing step. They do not currently appear in the module files.
-- **Content flags:** Issues identified during the goal-mapping analysis that require attention during Task B (unit editing). Flagged here for reference; not actioned in this document.
+- **Content flags:** Issues identified during the goal-mapping analysis for Task B (unit editing). They are retained here as planning and QA reference notes; some have now been addressed in the N9 module files, but they are not actioned inside this document itself.
 
 ---
 
@@ -982,4 +982,4 @@ Content flags (for Task B — do not action now):
 
 ---
 
-*Document version: Draft 7 — Step 15. All 23 units revised with Can-Do statements at unit and activity level (table format, numbered sub-goals), module introductions, and content flags. Activity Introduction Summary retained from Draft 5. Supersedes Draft 6 (Module 1 only) and earlier planning versions.*
+*Document version: Draft 7 — Step 15, retained as the planning source-of-truth after N9 completion. All 23 units were revised with Can-Do statements at unit and activity level (table format, numbered sub-goals), module introductions, and content flags. The content flags remain as planning / QA reference notes for the completed N9 files in `adv/md/revised_modules_n9`. Activity Introduction Summary retained from Draft 5. Supersedes Draft 6 (Module 1 only) and earlier planning versions.*
