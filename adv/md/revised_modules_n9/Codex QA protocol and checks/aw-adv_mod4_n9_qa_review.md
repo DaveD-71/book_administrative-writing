@@ -1,5 +1,5 @@
 # Module 4 N9 QA Review
-## File: `adv/md/revised_modules_n9/admin-writing-adv_mod4_n9.md`
+## File: `adv/md/revised_modules_n9/aw-adv_mod4_n9.md`
 
 ---
 
@@ -127,6 +127,7 @@ Next action:
 
 ## Validation Note
 
-`python scripts/n9_module_tool.py validate --path adv/md/revised_modules_n9/admin-writing-adv_mod4_n9.md`
+`python scripts/n9_module_tool.py validate --path adv/md/revised_modules_n9/aw-adv_mod4_n9.md`
 
 Result: structural validator passes, but this review confirms that structural validation alone is not sufficient for `N9` acceptance.
+

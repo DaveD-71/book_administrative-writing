@@ -11,25 +11,25 @@ This prompt covers all edits agreed since the Module 6 revised file was produced
 
 | Step | File | Purpose |
 |---|---|---|
-| Step 11 | `claudeai/admin-writing-adv_step11_jpo-scenario-variants.md` | JPO scenario variants to insert into 10 units |
-| Step 12 | `claudeai/admin-writing-adv_step12_P3-P5_edits.md` | Language Focus practice item additions (3 edits) |
-| Step 13 | `claudeai/admin-writing-adv_step13_P2-P6_content.md` | New B7 and B6 activity content (2 edits) |
+| Step 11 | `claudeai/aw-adv_step11_jpo-scenario-variants.md` | JPO scenario variants to insert into 10 units |
+| Step 12 | `claudeai/aw-adv_step12_P3-P5_edits.md` | Language Focus practice item additions (3 edits) |
+| Step 13 | `claudeai/aw-adv_step13_P2-P6_content.md` | New B7 and B6 activity content (2 edits) |
 
 **Files to edit:**
 
 | File | Edits from |
 |---|---|
-| `md/revised_modules/admin-writing-adv_mod2_revised.md` | Step 11 |
-| `md/revised_modules/admin-writing-adv_mod3_revised.md` | Steps 11, 12 |
-| `md/revised_modules/admin-writing-adv_mod4_revised.md` | Steps 11, 12 |
-| `md/revised_modules/admin-writing-adv_mod5_revised.md` | Step 11 |
-| `md/revised_modules/admin-writing-adv_mod6_revised.md` | Steps 11, 12, 13 |
+| `md/revised_modules/aw-adv_mod2_revised.md` | Step 11 |
+| `md/revised_modules/aw-adv_mod3_revised.md` | Steps 11, 12 |
+| `md/revised_modules/aw-adv_mod4_revised.md` | Steps 11, 12 |
+| `md/revised_modules/aw-adv_mod5_revised.md` | Step 11 |
+| `md/revised_modules/aw-adv_mod6_revised.md` | Steps 11, 12, 13 |
 
 ---
 
 ## IMPORTANT: Scope boundaries
 
-**The learning goals mapping document (`admin-writing-adv_step11_learning-goals-mapping.md`) is an analysis document only. It contains recommendations that have not been approved for implementation. Do not make any changes to unit learning goals in any file.**
+**The learning goals mapping document (`aw-adv_step11_learning-goals-mapping.md`) is an analysis document only. It contains recommendations that have not been approved for implementation. Do not make any changes to unit learning goals in any file.**
 
 ---
 
@@ -37,13 +37,13 @@ This prompt covers all edits agreed since the Module 6 revised file was produced
 
 # PART A — Step 11: JPO Scenario Variants
 
-Each JPO scenario variant is inserted as an additional numbered option within an existing Freer Writing or Homework task. **Do not remove any existing scenario options.** The JPO variant always becomes option 4 (or an alternative framing where indicated). All content to insert is quoted verbatim from `admin-writing-adv_step11_jpo-scenario-variants.md`.
+Each JPO scenario variant is inserted as an additional numbered option within an existing Freer Writing or Homework task. **Do not remove any existing scenario options.** The JPO variant always becomes option 4 (or an alternative framing where indicated). All content to insert is quoted verbatim from `aw-adv_step11_jpo-scenario-variants.md`.
 
 ---
 
 ## A1 — Unit 4 (mod2): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod2_revised.md`
+**File:** `md/revised_modules/aw-adv_mod2_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -83,7 +83,7 @@ Your email must include:
 
 ## A2 — Unit 5 (mod2): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod2_revised.md`
+**File:** `md/revised_modules/aw-adv_mod2_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section — E3 Role-Based Writing Task)
 
@@ -125,7 +125,7 @@ Write a clarification request of 190–220 words. Your message must include:
 
 ## A3 — Unit 6 (mod2): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod2_revised.md`
+**File:** `md/revised_modules/aw-adv_mod2_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -165,7 +165,7 @@ Your message must include:
 
 ## A4 — Unit 7 (mod2): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod2_revised.md`
+**File:** `md/revised_modules/aw-adv_mod2_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -204,7 +204,7 @@ Write a multi-part request message of 190–220 words. Your message must include
 
 ## A5 — Unit 11 (mod3): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod3_revised.md`
+**File:** `md/revised_modules/aw-adv_mod3_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -241,7 +241,7 @@ Your summary must include:
 
 ## A6 — Unit 12 (mod4): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod4_revised.md`
+**File:** `md/revised_modules/aw-adv_mod4_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section — E3 Role-Based Writing Task)
 
@@ -287,7 +287,7 @@ Write a formal external inquiry to the USPTO. Your inquiry must include:
 
 ## A7 — Unit 13 (mod4): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod4_revised.md`
+**File:** `md/revised_modules/aw-adv_mod4_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -327,7 +327,7 @@ Write a risk and impact assessment for internal circulation. Your assessment mus
 
 ## A8 — Unit 15 (mod4): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod4_revised.md`
+**File:** `md/revised_modules/aw-adv_mod4_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -367,7 +367,7 @@ Write a policy-aligned rationale of 180–220 words. Your rationale must include
 
 ## A9 — Unit 17 (mod5): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod5_revised.md`
+**File:** `md/revised_modules/aw-adv_mod5_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -404,7 +404,7 @@ Your brief must include:
 
 ## A10 — Unit 21 (mod6): Freer Writing + Homework
 
-**File:** `md/revised_modules/admin-writing-adv_mod6_revised.md`
+**File:** `md/revised_modules/aw-adv_mod6_revised.md`
 
 ### Insert 1 of 2: Freer Writing (E section)
 
@@ -444,13 +444,13 @@ Your report must include:
 
 # PART B — Step 12: Language Focus Practice Item Additions (P3)
 
-Three practice activities across three files need one additional item each, bringing them from 3 items to 4. All content is quoted verbatim from `claudeai/admin-writing-adv_step12_P3-P5_edits.md`.
+Three practice activities across three files need one additional item each, bringing them from 3 items to 4. All content is quoted verbatim from `claudeai/aw-adv_step12_P3-P5_edits.md`.
 
 ---
 
 ## B1 — Unit 9 (mod3): C7 Expansion Task
 
-**File:** `md/revised_modules/admin-writing-adv_mod3_revised.md`
+**File:** `md/revised_modules/aw-adv_mod3_revised.md`
 
 **Locate** this exact block in Unit 9, Language Focus section:
 
@@ -468,7 +468,7 @@ Three practice activities across three files need one additional item each, brin
 
 ## B2 — Unit 15 (mod4): C7 Expansion Task
 
-**File:** `md/revised_modules/admin-writing-adv_mod4_revised.md`
+**File:** `md/revised_modules/aw-adv_mod4_revised.md`
 
 **Locate** this exact block in Unit 15, Language Focus section:
 
@@ -486,7 +486,7 @@ Three practice activities across three files need one additional item each, brin
 
 ## B3 — Unit 21 (mod6): Practice A — Opening Sentences
 
-**File:** `md/revised_modules/admin-writing-adv_mod6_revised.md`
+**File:** `md/revised_modules/aw-adv_mod6_revised.md`
 
 **Locate** this exact block in Unit 21, Language Focus section:
 
@@ -506,13 +506,13 @@ Three practice activities across three files need one additional item each, brin
 
 # PART C — Step 13: New B7 and B6 Activity Content
 
-Two insertions in `admin-writing-adv_mod6_revised.md`. Full content from `claudeai/admin-writing-adv_step13_P2-P6_content.md`.
+Two insertions in `aw-adv_mod6_revised.md`. Full content from `claudeai/aw-adv_step13_P2-P6_content.md`.
 
 ---
 
 ## C1 — Unit 21 (mod6): Insert new B7 Data Interpretation activity
 
-**File:** `md/revised_modules/admin-writing-adv_mod6_revised.md`
+**File:** `md/revised_modules/aw-adv_mod6_revised.md`
 
 **Locate** this exact text in Unit 21, Section B:
 
@@ -555,7 +555,7 @@ Write in formal, complete sentences. Aim for 60–80 words across both sections 
 
 ## C2 — Unit 19 (mod6): Insert B6 writing task
 
-**File:** `md/revised_modules/admin-writing-adv_mod6_revised.md`
+**File:** `md/revised_modules/aw-adv_mod6_revised.md`
 
 **Locate** this exact text in Unit 19, Section B:
 
@@ -617,4 +617,5 @@ After completing all edits, confirm the following.
 - [ ] No existing activity headings, instructions, or model texts have been rewritten
 - [ ] Learning goals in all unit overviews are unchanged
 - [ ] All files are valid Markdown (no broken table syntax, no missing blank lines around headings)
-- [ ] `admin-writing-adv_step11_learning-goals-mapping.md` has not been used as a source for any edits
+- [ ] `aw-adv_step11_learning-goals-mapping.md` has not been used as a source for any edits
+

@@ -78,7 +78,7 @@ These documents exist in the project GitHub folder. Upload the relevant file at 
 |---|---|---|---|
 | To-Do List | `project_todo_list.md` | Active — update as tasks complete | Tracks all Now and Pinned tasks |
 | Master Activity Menu | `master_activity_menu.md` | Draft 1 — under review | 44 activity types across 8 sections; reference for all unit planning |
-| Unit content (all units) | `admin-writing-adv-all.md` | Original draft — not yet edited | Source file; will be split into module files once planning is complete |
+| Unit content (all units) | `aw-adv-all.md` | Original draft — not yet edited | Source file; will be split into module files once planning is complete |
 | Introduction | `adv_writing_text_intro.md` | Needs minor revision (level label fix) | Front matter for the book |
 
 ---
@@ -92,7 +92,7 @@ These documents exist in the project GitHub folder. Upload the relevant file at 
 2. Build the unit structural profiles planning table (one row per unit, specifying which activity types are assigned)
 3. Write the *How to Use This Book* section
 4. Fix the level label in the introduction file
-5. Split `admin-writing-adv-all.md` into one file per module
+5. Split `aw-adv-all.md` into one file per module
 
 **After planning is complete:** Edit and redraft units module by module, working from the structural profiles.
 
@@ -126,3 +126,4 @@ These are agreed improvements to be addressed during or after drafting. Do not a
 ---
 
 *Document version: 1.1 — module structure corrected to 6 modules; unit-module assignments verified against source file.*
+

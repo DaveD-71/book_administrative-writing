@@ -26,7 +26,7 @@ Before preparing new content, all targeted units were checked. The table below s
 
 ## ITEM 1 — B7 for Unit 21 (new activity)
 
-**File:** `admin-writing-adv_mod6_revised.md`
+**File:** `aw-adv_mod6_revised.md`
 **Unit:** Unit 21 — Drafting Consolidated Administrative Reports
 
 **Where to insert:**
@@ -65,7 +65,7 @@ Write in formal, complete sentences. Aim for 60–80 words across both sections 
 
 ## ITEM 2 — B6 writing task for Unit 19 (completing an incomplete activity)
 
-**File:** `admin-writing-adv_mod6_revised.md`
+**File:** `aw-adv_mod6_revised.md`
 **Unit:** Unit 19 — Writing Policy Summaries for Non-Expert Audiences
 
 **Current situation:**
@@ -109,3 +109,4 @@ Aim for 60–80 words. You will compare your version with the model text in the 
 | P6 — Reading-to-write tasks (B6) | At least 4–5 units | Units 15, 18, 19, 22 — **4 units ✅** |
 
 Both P2 and P6 can be marked as complete after this step.
+

@@ -15,9 +15,9 @@ This prompt authorises the deletion of those duplicate blocks. It is a **deletio
 
 All deletions are in the output files from the previous step:
 
-- `md/revised_modules_step13/admin-writing-adv_mod2_revised.md`
-- `md/revised_modules_step13/admin-writing-adv_mod3_revised.md`
-- `md/revised_modules_step13/admin-writing-adv_mod4_revised.md`
+- `md/revised_modules_step13/aw-adv_mod2_revised.md`
+- `md/revised_modules_step13/aw-adv_mod3_revised.md`
+- `md/revised_modules_step13/aw-adv_mod4_revised.md`
 
 No changes to `mod1`, `mod5`, or `mod6`.
 
@@ -235,3 +235,4 @@ After completing all deletions, confirm the following.
 - [ ] mod1, mod5, mod6: files unchanged
 - [ ] No other content has been removed from any file
 - [ ] All files are valid Markdown with no broken separators or missing blank lines around headings
+

@@ -26,11 +26,11 @@ If a revision is structurally tidy but weak as a learner-facing prompt, it is no
 
 Before editing a module, use the following source hierarchy:
 
-1. `adv/claudeai/admin-writing-adv_unit_structural_profiles_revised.md`
-2. `admin-writing_master_activity_menu.md`
-3. `adv/claudeai/admin-writing-adv_prompt-writing-policy.md`
+1. `adv/claudeai/aw-adv_unit_structural_profiles_revised.md`
+2. `aw-master_activity_menu.md`
+3. `adv/claudeai/aw-adv_prompt-writing-policy.md`
 4. Relevant files in `adv/claudeai/edits & guides`
-5. Strong benchmark wording already present in `adv/md/revised_modules_n9/admin-writing-adv_mod1_n9.md`
+5. Strong benchmark wording already present in `adv/md/revised_modules_n9/aw-adv_mod1_n9.md`
 
 This order matters.
 
@@ -71,7 +71,7 @@ Do not begin rewriting from the source module file alone.
 
 ### 2. Check the activity type before changing wording
 
-Use `admin-writing_master_activity_menu.md` to confirm what the activity is meant to do pedagogically.
+Use `aw-master_activity_menu.md` to confirm what the activity is meant to do pedagogically.
 
 This is required especially for:
 
@@ -126,7 +126,7 @@ Do not turn a narrow edit into a full rewrite unless the source documents clearl
 
 ### 5. Benchmark against strong existing prompts
 
-Use `adv/md/revised_modules_n9/admin-writing-adv_mod1_n9.md` as a quality benchmark for student-facing prompts.
+Use `adv/md/revised_modules_n9/aw-adv_mod1_n9.md` as a quality benchmark for student-facing prompts.
 
 Strong prompts in this project should be:
 
@@ -219,3 +219,4 @@ Before considering a unit complete for `N9`, ask:
 > Does this edited activity satisfy the unit goal, fit the activity type, address the content flag, comply with the prompt policy, and read naturally to the learner?
 
 If any one of those is missing, the edit is not finished.
+

@@ -1,5 +1,5 @@
 # Module 5 N9 QA Review
-## File: `adv/md/revised_modules_n9/admin-writing-adv_mod5_n9.md`
+## File: `adv/md/revised_modules_n9/aw-adv_mod5_n9.md`
 
 ---
 
@@ -130,6 +130,7 @@ Next action:
 
 ## Validation Note
 
-`python scripts/n9_module_tool.py validate --path adv/md/revised_modules_n9/admin-writing-adv_mod5_n9.md`
+`python scripts/n9_module_tool.py validate --path adv/md/revised_modules_n9/aw-adv_mod5_n9.md`
 
 Result: structural validator passes, and this review confirms the current Module 5 draft meets the `N9` requirements.
+

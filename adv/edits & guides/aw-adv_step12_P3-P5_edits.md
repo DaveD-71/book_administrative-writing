@@ -31,7 +31,7 @@ All Freer Writing and Homework tasks across Modules 1–6 already use word count
 
 ### Edit 1 — Module 3, Unit 9: C7 Expansion Task (3 items → 4 items)
 
-**File:** `admin-writing-adv_mod3_revised.md`
+**File:** `aw-adv_mod3_revised.md`
 
 **Location:** Unit 9 (Change Management Writing) → Language Focus → C7. Expansion Task
 
@@ -66,7 +66,7 @@ Each sentence below is a bare statement of fact. Expand each one into 2–3 sent
 
 ### Edit 2 — Module 4, Unit 15: C7 Expansion Task (3 items → 4 items)
 
-**File:** `admin-writing-adv_mod4_revised.md`
+**File:** `aw-adv_mod4_revised.md`
 
 **Location:** Unit 15 (Drafting Policy-Aligned Rationales) → Language Focus → C7. Expansion Task
 
@@ -101,7 +101,7 @@ Expand each bare sentence into 2–3 sentences that include a policy reference, 
 
 ### Edit 3 — Module 6, Unit 21: Practice A (3 items → 4 items)
 
-**File:** `admin-writing-adv_mod6_revised.md`
+**File:** `aw-adv_mod6_revised.md`
 
 **Location:** Unit 21 (Drafting Consolidated Administrative Reports) → Language Focus → section "1. Writing a Summary Opening" → Practice A
 
@@ -147,3 +147,4 @@ All other Language Focus practice activities across Modules 1–6 were found to 
 ---
 
 *Document prepared for Step 12 — ready for implementation unit by unit.*
+
