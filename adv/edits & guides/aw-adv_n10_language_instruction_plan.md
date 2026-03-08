@@ -71,12 +71,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add a short `D` note after the comparison prompts explaining that clarity depends on managing logical load, not simply making sentences shorter. | Added - review needed | Not yet checked | Not yet checked |
-| B2 Noticing Task | Revise/strengthen with a short `B` clarification that segmentation is a relationship across two sentences, not a property of one sentence. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Coordination | Add `A` framing explaining when equal-weight ideas should stay coordinated rather than subordinated. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Subordination | Add `B` explanation clarifying how subordinated contrast differs rhetorically from coordinated contrast. | Not started | Not yet checked | Not yet checked |
-| C3 Clarity Patterns for Administrative Writing | Add `C` worked example for Pattern 3 and tighten the explanatory labels; define the arrow notation explicitly. | Added - review needed | Not yet checked | Not yet checked |
-| D2 Write Your Own Complex Sentence | Add `E` cue reminding learners to choose the pattern based on idea relationship, not sentence length. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add a short `D` note after the comparison prompts explaining that clarity depends on managing logical load, not simply making sentences shorter. | Reviewed - pass | Yes | Yes |
+| B2 Noticing Task | Revise/strengthen with a short `B` clarification that segmentation is a relationship across two sentences, not a property of one sentence. | Reviewed - pass | Yes | Yes |
+| C1 Coordination | Add `A` framing explaining when equal-weight ideas should stay coordinated rather than subordinated. | Reviewed - pass | Yes | Yes |
+| C2 Subordination | Add `B` explanation clarifying how subordinated contrast differs rhetorically from coordinated contrast. | Reviewed - pass | Yes | Yes |
+| C3 Clarity Patterns for Administrative Writing | Add `C` worked example for Pattern 3 and tighten the explanatory labels; define the arrow notation explicitly. | Reviewed - pass | Yes | Yes |
+| D2 Write Your Own Complex Sentence | Add `E` cue reminding learners to choose the pattern based on idea relationship, not sentence length. | Reviewed - pass | Yes | Yes |
 
 ### Unit 2 — Tone for Agency-Level Communication
 
@@ -86,11 +86,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of how the revised version reduces blame, protects cooperation, and keeps the reader willing to respond. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Softening Strategies | Add `A` framing explaining softening as a pragmatic tool, not indirectness for its own sake. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Neutral Clarification Language | Add `B` explanation distinguishing neutral clarification from accusation or implied fault. | Added - review needed | Not yet checked | Not yet checked |
-| C3 Audience-Appropriate Tone | Add `C` worked mini-example showing how the same request shifts across internal, interagency, and foreign-office audiences. | Added - review needed | Not yet checked | Not yet checked |
-| D4 Tone Transformation | Add `E` cue linking audience choice to later freer writing. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of how the revised version reduces blame, protects cooperation, and keeps the reader willing to respond. | Reviewed - pass | Yes | Yes |
+| C1 Softening Strategies | Add `A` framing explaining softening as a pragmatic tool, not indirectness for its own sake. | Reviewed - pass | Yes | Yes |
+| C2 Neutral Clarification Language | Add `B` explanation distinguishing neutral clarification from accusation or implied fault. | Reviewed - pass | Yes | Yes |
+| C3 Audience-Appropriate Tone | Add `C` worked mini-example showing how the same request shifts across internal, interagency, and foreign-office audiences. | Reviewed - pass | Yes | Yes |
+| D4 Tone Transformation | Add `E` cue linking audience choice to later freer writing. | Reviewed - pass | Yes | Yes |
 
 ### Unit 3 — Cohesion & Logical Flow
 
@@ -100,11 +100,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of why the revised paragraph is easier to follow: clear topic movement, explicit sentence links, controlled reference. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Cohesive Devices | Add `A` framing explaining that connectors signal relationships, not decoration. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Reference and Continuity | Add `B` explanation of when repetition helps clarity and when reference improves flow. | Added - review needed | Not yet checked | Not yet checked |
-| C3 Thematic Progression | Add `C` worked example showing topic → support → implication movement in a short paragraph. | Added - review needed | Not yet checked | Not yet checked |
-| D5 Reorganise and Rewrite | Add `E` cue reminding learners to think in paragraph movement, not sentence list order. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of why the revised paragraph is easier to follow: clear topic movement, explicit sentence links, controlled reference. | Reviewed - pass | Yes | Yes |
+| C1 Cohesive Devices | Add `A` framing explaining that connectors signal relationships, not decoration. | Reviewed - pass | Yes | Yes |
+| C2 Reference and Continuity | Add `B` explanation of when repetition helps clarity and when reference improves flow. | Reviewed - pass | Yes | Yes |
+| C3 Thematic Progression | Add `C` worked example showing topic → support → implication movement in a short paragraph. | Reviewed - pass | Yes | Yes |
+| D5 Reorganise and Rewrite | Add `E` cue reminding learners to think in paragraph movement, not sentence list order. | Reviewed - pass | Yes | Yes |
 
 ---
 
@@ -118,11 +118,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of how structure improves actionability, response speed, and reader orientation. | Added - review needed | Not yet checked | Not yet checked |
-| B3 Structural Deconstruction | Add a short `A` frame explaining functional sections as reader-support tools, not formula for its own sake. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Structural Building Blocks | Add `A` framing explaining what each block does for the reader. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of how structure improves actionability, response speed, and reader orientation. | Reviewed - pass | Yes | Yes |
+| B3 Structural Deconstruction | Add a short `A` frame explaining functional sections as reader-support tools, not formula for its own sake. | Reviewed - pass | Yes | Yes |
+| C1 Structural Building Blocks | Add `A` framing explaining what each block does for the reader. | Reviewed - pass | Yes | Yes |
 | Useful Phrases | Add `C` one worked email excerpt showing how opening, purpose, explanation, request, and next step combine in sequence. | Added - cleanup needed | No | No |
-| D3 Template-Guided Writing | Add `E` cue linking each template part to its communicative job. | Added - review needed | Not yet checked | Not yet checked |
+| D3 Template-Guided Writing | Add `E` cue linking each template part to its communicative job. | Reviewed - pass | Yes | Yes |
 
 ### Unit 5 — Clarification Requests
 
@@ -132,12 +132,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of why the revised request is easier to answer accurately. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Useful Phrases for Precise Clarification | Add `A` framing explaining what makes a clarification request precise rather than merely polite. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Structuring Multi-Part Questions | Add `B` explanation distinguishing a bundle of vague questions from a sequenced, answerable request set. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of why the revised request is easier to answer accurately. | Reviewed - pass | Yes | Yes |
+| C1 Useful Phrases for Precise Clarification | Add `A` framing explaining what makes a clarification request precise rather than merely polite. | Reviewed - pass | Yes | Yes |
+| C2 Structuring Multi-Part Questions | Add `B` explanation distinguishing a bundle of vague questions from a sequenced, answerable request set. | Reviewed - pass | Yes | Yes |
 | Phrase Bank Building (C8) | Add `C` worked example showing how reference, question focus, and sequencing operate together in one message. | Added - cleanup needed | No | No |
-| D4 Two-Audience Version Task | Add `E` cue reminding learners that precision survives, even when audience tone changes. | Added - review needed | Not yet checked | Not yet checked |
-| E3 Role-Based Writing Task | Add a short `E` cue reminding learners that the role relationship affects phrasing, level of explicitness, and how much background context is needed. | Added - review needed | Not yet checked | Not yet checked |
+| D4 Two-Audience Version Task | Add `E` cue reminding learners that precision survives, even when audience tone changes. | Reviewed - pass | Yes | Yes |
+| E3 Role-Based Writing Task | Add a short `E` cue reminding learners that the role relationship affects phrasing, level of explicitness, and how much background context is needed. | Reviewed - pass | Yes | Yes |
 
 ### Unit 6 — Diplomatic Error Notification
 
@@ -147,11 +147,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of how the revised version acknowledges the issue without escalating tension. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of how the revised version acknowledges the issue without escalating tension. | Reviewed - pass | Yes | Yes |
 | B4 Annotated Model | Expand with one extra comment explaining the logic of separating error description, impact, and requested next step; use this as the unit’s main worked-example support. | Not started | Not yet checked | Not yet checked |
-| C1 Diplomatic Frames for Highlighting Errors | Add `A` framing explaining why writers depersonalise the problem. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Explaining Impact without Assigning Blame | Add `B` explanation distinguishing consequence language from blame language. | Added - review needed | Not yet checked | Not yet checked |
-| D2 Scenario Writing | Add `E` cue telling learners to describe the problem, its impact, and the needed action as separate functions. | Added - review needed | Not yet checked | Not yet checked |
+| C1 Diplomatic Frames for Highlighting Errors | Add `A` framing explaining why writers depersonalise the problem. | Reviewed - pass | Yes | Yes |
+| C2 Explaining Impact without Assigning Blame | Add `B` explanation distinguishing consequence language from blame language. | Reviewed - pass | Yes | Yes |
+| D2 Scenario Writing | Add `E` cue telling learners to describe the problem, its impact, and the needed action as separate functions. | Reviewed - pass | Yes | Yes |
 
 ### Unit 7 — Multi-Part Request Messages
 
@@ -161,10 +161,10 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | Add `D` explanation of why prioritised requests reduce confusion and incomplete responses. | Added - review needed | Not yet checked | Not yet checked |
-| C1 Sequencing and Prioritising Requests | Add `A` framing explaining that order signals importance and dependency. | Added - review needed | Not yet checked | Not yet checked |
-| C2 Paragraph-Level Transformation | Add `C` worked example showing how a flat list becomes a sequenced request paragraph. | Added - review needed | Not yet checked | Not yet checked |
-| D2 Scenario Writing | Add `E` cue instructing learners to make dependencies visible, not just list tasks. | Added - review needed | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | Add `D` explanation of why prioritised requests reduce confusion and incomplete responses. | Reviewed - pass | Yes | Yes |
+| C1 Sequencing and Prioritising Requests | Add `A` framing explaining that order signals importance and dependency. | Reviewed - pass | Yes | Yes |
+| C2 Paragraph-Level Transformation | Add `C` worked example showing how a flat list becomes a sequenced request paragraph. | Reviewed - pass | Yes | Yes |
+| D2 Scenario Writing | Add `E` cue instructing learners to make dependencies visible, not just list tasks. | Reviewed - pass | Yes | Yes |
 
 ---
 
@@ -175,6 +175,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that Module 3 begins with procedural clarity, and that the B/C/D sequence all supports the unit goal of writing unambiguous, consistently structured procedures.
 - `Main gap`: procedural clarity is practised, but the unit needs more explicit explanation of consistency, sequencing, and ambiguity control.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why consistent instruction structure reduces reader error. | Not started | Not yet checked | Not yet checked |
@@ -188,6 +189,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that this unit adds reader-management to Module 3, and that the activities jointly develop the unit goal of explaining change with clarity, empathy, and reassurance.
 - `Main gap`: the unit needs clearer explanation of how change messages balance clarity, empathy, and reassurance.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of how the revised message manages reader concern while still communicating change clearly. | Not started | Not yet checked | Not yet checked |
@@ -201,6 +203,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that the B/C/D activities all develop the unit goal of accessible explanation, supporting Module 3’s broader aim of managing complex internal communication clearly.
 - `Main gap`: the unit teaches simplification, but needs more explicit explanation of chunking, reader knowledge, and accessible phrasing.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why the revised version is easier for a non-specialist to process. | Not started | Not yet checked | Not yet checked |
@@ -214,6 +217,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that the unit’s B/C/D work all supports the unit goal of synthesis for senior readers, completing Module 3’s move from procedures to high-value internal summaries.
 - `Main gap`: the unit teaches structure and data use, but needs stronger explanation of synthesis, action focus, and summary logic.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why executive summaries group decisions, actions, and next steps rather than retell discussion. | Not started | Not yet checked | Not yet checked |
@@ -231,6 +235,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that Module 4’s cross-border/interagency emphasis begins here through reader-oriented external inquiry writing, and that B/C/D all support the unit goal of formal external communication.
 - `Main gap`: the unit needs clearer teaching of how background context and clear questions work together in formal external inquiry writing.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of how the stronger version supports an external reader who lacks internal background. | Not started | Not yet checked | Not yet checked |
@@ -245,6 +250,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 3
 - `Alignment focus`: make visible that this unit’s B/C/D sequence all supports the unit goal of evidence-based conditional writing, not just “risk vocabulary”, within Module 4’s more formal interagency communication domain.
 - `Main gap`: the unit needs explicit teaching of conditionality, evidence-based risk language, and the difference between observed issue, possible impact, and mitigation.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of how the revised text separates evidence, risk, impact, and mitigation. | Not started | Not yet checked | Not yet checked |
@@ -259,6 +265,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that the unit’s activities all support the goal of audience adaptation without content loss, which is a central Module 4 skill for complex cross-boundary communication.
 - `Main gap`: the unit needs clearer explanation of audience knowledge, layered explanation, and what should remain constant across versions.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of what changes across audiences and what core content must remain stable. | Not started | Not yet checked | Not yet checked |
@@ -273,6 +280,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that the B/C/D sequence all supports the unit goal of policy-aligned reasoning, extending Module 4 from message adaptation into justification grounded in policy language.
 - `Main gap`: the unit needs more explicit teaching of how policy reference, reasoning, and benefits combine into a persuasive administrative rationale.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why the improved rationale is more persuasive: it connects policy, decision, and benefit. | Not started | Not yet checked | Not yet checked |
@@ -290,6 +298,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 3
 - `Alignment focus`: make clear that Module 5 begins by shifting from document production to revision and judgement, and that the unit’s B/C/D work all supports balanced, evidence-based evaluation rather than subjective opinion.
 - `Main gap`: the unit needs strong explicit teaching of objectivity, hedging, evidence use, and the difference between evaluation and opinion.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of how the revised version becomes more credible by separating observation from judgement. | Not started | Not yet checked | Not yet checked |
@@ -304,6 +313,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that the unit’s B/C/D activities all support high-level synthesis and selection, which is central to Module 5’s advanced editing and revision focus.
 - `Main gap`: the unit needs clearer explanation of overview writing, selection, compression, and high-value synthesis from complex input.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why the improved brief foregrounds decision-relevant content rather than raw detail. | Not started | Not yet checked | Not yet checked |
@@ -317,6 +327,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that this unit completes Module 5 by bringing together reading, synthesis, and document production, and that the B/C/D sequence all supports integration rather than source listing.
 - `Main gap`: the unit needs clearer teaching of synthesis, grouping, and relationship signalling across multiple sources.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | add `D` explanation of why integrated writing is more useful than source-by-source reporting. | Not started | Not yet checked | Not yet checked |
@@ -334,6 +345,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 3
 - `Alignment focus`: make visible that Module 6 begins with advanced audience adaptation, and that the B/C/D/E sequence all supports the unit goal of accurate but accessible policy explanation in a role-based context.
 - `Main gap`: this unit needs substantial conceptual explanation of adaptation, simplification, and audience-aware explanation without losing necessary precision; it also needs a clearer link between audience adaptation and role-based communication.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare the Versions | add `D` explanation of why the improved version is more accessible while preserving accuracy. | Not started | Not yet checked | Not yet checked |
@@ -349,6 +361,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 3
 - `Alignment focus`: make clear that the unit’s activities all support the unit goal of logically structured decision justification, a core Module 6 applied-writing competence.
 - `Main gap`: the unit needs strong explicit teaching of justification logic: decision, rationale, benefit, and structured support.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare the Versions | add `D` explanation of why a strong justification makes the logic visible rather than implied. | Not started | Not yet checked | Not yet checked |
@@ -363,6 +376,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that the B/C/D sequence all supports the unit goal of synthesis into structured reporting, not merely section-filling, within Module 6’s applied multi-source writing.
 - `Main gap`: the unit needs stronger explanation of grouping logic, section function, and the difference between report synthesis and update listing.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare the Versions | add `D` explanation of why structured sectioning improves decision-usefulness. | Not started | Not yet checked | Not yet checked |
@@ -377,6 +391,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make clear that this unit’s activities all support the unit goal of integrated multi-document response, preparing directly for the capstone demands of Module 6.
 - `Main gap`: the unit needs explicit teaching of synthesis under complexity: choosing format, grouping issues, and maintaining neutral tone across multiple inputs.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B6 Reading-to-Write Input | add `A` framing explaining how to identify common issues across multiple source types. | Not started | Not yet checked | Not yet checked |
@@ -390,6 +405,7 @@ Use the tables below as the tracking control for `N10`.
 - `Level`: 2
 - `Alignment focus`: make visible that the capstone’s B/C/D/F work consolidates the major skill strands of the whole book, so the learner can see how module and unit goals culminate in the final writing task.
 - `Main gap`: the capstone should reinforce transfer and self-diagnosis rather than introduce large amounts of new explanation, but the self-diagnosis logic must be made more explicit.
+
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions — Exemplar Analysis | add `D` explanation of how the strong response integrates multiple unit-level skills at once. | Not started | Not yet checked | Not yet checked |
