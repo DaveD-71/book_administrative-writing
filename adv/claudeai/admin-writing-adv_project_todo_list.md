@@ -51,7 +51,7 @@ The following is the agreed order for completing the project:
 3. **Remaining P tasks** — P1 (structural variety check) during N9/N10, and P7 (Unit 23 rubric) after Unit 23 is finalised and before book sign-off
 4. **N11 — QA checklist** (book-wide standards check, after N9, N10, and relevant P tasks)
 5. **Full review** (final pass, after N11)
-5. **P4 — Answer key / sample responses** (after all content finalised)
+6. **P4 — Answer key / sample responses** (after all content finalised)
 
 ---
 
@@ -65,8 +65,13 @@ The following is the agreed order for completing the project:
 | Unit planning order | Structure and activity variety planned first (module by module, then unit by unit) before any editing begins |
 | Group vs. self-study | Dual-framing convention established once in *How to Use This Book*; not duplicated in every activity |
 | Activity menu | 44 activity types across 8 sections; 24 are new additions. Master Activity Menu document is the reference for all planning |
+| Structural profiles | The revised unit structural profiles document is now the primary source of truth for module editing and QA; module introductions, unit-level Can-Do statements, activity-level Can-Do statements, and content flags are planning commitments, not optional notes |
+| Prompt-writing policy | `admin-writing-adv_prompt-writing-policy.md` is a source-of-truth document for drafting and revision work, especially for D, E, and H tasks; prompt design must follow learning-goal alignment, professional verisimilitude, PAST-R, calibration, scenario-list parallelism, JPO option rules, and H-section ordering |
+| Revision model | Prompt/task design compliance and language-instruction strengthening are separate workstreams; fixing prompts alone does not resolve the book's pedagogical gaps |
+| Pedagogical issue | The book-wide issue of weak explicit language instruction has been identified as a structural problem: model texts and Language Focus sections must teach why forms work, not only present examples and practice |
 | JPO customisation | JPO scenario variants embedded as option 4 in E (Freer Writing) and H (Homework) sections across 10 units (Step 11); no separate supplement |
 | Learning goals mapping | 14 improvement recommendations identified (Step 11); deferred — requires sign-off before implementation |
+| QA scope | Final QA will be book-level and hierarchical, covering structural profile compliance, prompt-policy compliance, pedagogical quality, model-text quality, learner suitability, self-study accessibility, and formatting / instructional consistency |
 
 ---
 
