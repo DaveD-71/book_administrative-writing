@@ -44,6 +44,18 @@ This order matters.
 
 ## Required Workflow for Each Unit
 
+### 0. Complete the written checklist before and after editing
+
+Before editing any E or H prompt, and again before accepting it, complete the current `N9` QA checklist.
+
+This is mandatory.
+
+- Do not rely on memory for prompt-policy compliance.
+- Do not treat "validator passed" as evidence that the prompt is acceptable.
+- If a prompt has not been checked in writing against the checklist, it is not ready to return.
+
+---
+
 ### 1. Start from the structural profile
 
 Identify:
@@ -84,6 +96,16 @@ Check prompts for:
 - correct H ordering
 
 Do not flatten prompts into generic formulae just to satisfy the policy.
+
+For any task with a scenario list, the following are non-optional checks:
+
+- options are genuinely distinct in professional situation
+- options are not just branded variants of the same follow-up/problem/request
+- the JPO option is one option among equals, not a near-duplicate of another option
+- the JPO option uses the same target skill but a distinct context, role, or relationship
+- the JPO option does not reduce the total range of choice
+
+If any one of these fails, the prompt is not finished.
 
 ---
 
@@ -151,6 +173,16 @@ Before moving on, verify:
 - clear learner-facing instructions
 - consistency with the unit's content flags
 
+For E and H prompts, editorial QA must also verify explicitly:
+
+- activity-type fidelity against the master activity menu
+- prompt-policy compliance against the written checklist
+- no contextual overlap between options
+- correct JPO option handling under Sections 5.3 and 5.4 of the prompt-writing policy
+- no repeated role labels or near-identical professional relationships across options unless clearly justified
+
+The QA result should be written down. A mental check is not sufficient.
+
 ---
 
 ### 9. Run script validation last
@@ -175,6 +207,7 @@ It cannot confirm prompt quality, pedagogical fit, or activity-type fidelity.
 - Prompt-policy compliance does not justify weaker, vaguer, or flatter student-facing prompts.
 - `E1`, `E2`, `E3`, and `H3` are not interchangeable and must not be treated as if they were.
 - JPO options must be parallel to the other options, not over-specified special cases.
+- JPO options must also be contextually distinct from options 1–3. A JPO version of the same scenario is a failure, not a valid option.
 - If an earlier revision already reads better for the learner, preserve that quality rather than rewriting it into something more abstract.
 
 ---
