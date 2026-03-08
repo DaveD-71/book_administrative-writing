@@ -200,7 +200,7 @@ Choose one situation:
 1. You are an external liaison officer in a regional review office. Your team sent a revised applicant file and supporting documents to a partner agency three weeks ago, but no acknowledgement has been received and the next internal review meeting cannot proceed until the file status is confirmed.
 2. You are writing from an interagency coordination team. Earlier this month, your office submitted revised supporting documents for a case that is due to move to the next processing stage, but your records still do not show whether the documents have been reviewed or whether any further materials are required.
 3. You are a case coordination officer following up with an external counterpart. Two weeks ago, your office sent a clarification request about an applicant file, and your supervisor now needs an update before next week's internal review meeting.
-4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Three weeks ago, your office sent a formal request for information to a counterpart office regarding the status of an international filing, but no response has yet been received and your internal reporting deadline is approaching.
+4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office has received a short update from a counterpart office on an international filing, but the message does not confirm which reference number should be used in future correspondence, whether the reported status is final, or whether any additional documents are still required from your side. Your team needs these points clarified before this week's internal reporting note is completed.
 
 ---
 
@@ -269,7 +269,7 @@ Choose one situation:
 1. Your office submitted a revised document package to an interagency partner several weeks ago, but no acknowledgement has been received and the next internal review stage cannot proceed until the file status is confirmed.
 2. Your team sent a clarification request to a foreign office about a case that is due to be included in a coordination report, but no reply has yet been received and the report deadline is approaching.
 3. A partner agency reviewed an applicant file and was expected to confirm whether any additional materials are required before the next processing stage. Your office now needs a formal written inquiry because the internal deadline is approaching.
-4. *(JPO context)* Your office submitted documents or a formal request for information to a counterpart office at the USPTO, EPO, or WIPO several weeks ago and has not yet received a response. An internal reporting deadline now depends on clarification of the file's status and next steps.
+4. *(JPO context)* Your office has received a brief update from a counterpart office at the USPTO, EPO, or WIPO regarding an international filing, but the message does not confirm the current processing stage, the correct reference information for future correspondence, or whether any further materials are expected from your side. Your internal reporting deadline now depends on clarifying these points.
 
 #### H1. Extension Task
 
@@ -450,8 +450,8 @@ Write a risk and impact assessment of **200–240 words** for internal circulati
 Choose one situation:
 
 1. A revised submission procedure is due to be introduced across four regional offices next month, but several teams have not yet completed the preparation needed for implementation. Your supervisor has asked you to prepare a short internal risk note before the rollout meeting.
-2. An interagency guideline has been revised, but the updated version has not yet reached all partner organisations and some teams are still working from the earlier instructions. You have been asked to assess the operational risk before the next coordination call.
-3. A staff member responsible for applicant communication left unexpectedly before completing a formal handover, and several open cases are now being handled by colleagues with incomplete information. Your manager needs a risk and impact assessment before deciding on immediate follow-up action.
+2. An interagency guideline on document handling was revised last month, but the updated version has not yet reached all partner organisations and two recent submissions have already been processed using different instructions. You have been asked to assess the operational risk before the next coordination call.
+3. The officer responsible for applicant communication in a high-volume case stream left last week without completing handover notes, and several open files now contain unresolved queries and missing status updates. Your manager needs a risk and impact assessment before deciding how to reassign the work.
 4. *(JPO context)* The JPO is preparing to introduce a new international filing or reporting system within the next six weeks, but preparation across partner offices and internal teams is incomplete.
 
 ---
@@ -506,12 +506,6 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 ---
 
 ### H. Extension & Homework
-
-#### Extension Task — Choose One
-
-1. Find a risk assessment document from your workplace (or sector). Evaluate whether it uses specific risk identification, cause–effect structure, and mitigation proposals. Identify two improvements.
-2. Rewrite a vague risk or concern you have observed at work in the structured risk–cause–impact–mitigation format used in this unit.
-3. Using the data interpretation model from Section B, create your own simple table (3–4 rows, 3–4 columns) showing a trend in your work context, then write a risk assessment paragraph based on it.
 
 #### H3 — Homework Writing Task
 
