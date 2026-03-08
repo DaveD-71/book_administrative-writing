@@ -18,7 +18,7 @@ This unit develops learners' ability to write formal, diplomatic external inquir
 
 ### A. Opening & Activation
 
-#### Real Document Analysis
+#### Real Document Analysis (A5)
 
 Read the following external inquiry, then answer the questions below.
 
@@ -48,7 +48,7 @@ Read the following external inquiry, then answer the questions below.
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 ##### Original (Unclear and Imprecise)
 
@@ -67,7 +67,7 @@ Read the following external inquiry, then answer the questions below.
 
 ---
 
-#### B3 — Structural Deconstruction
+#### Structural Deconstruction (B3)
 
 Read the improved version again. Without using the labels below, divide the text into its functional parts. Assign a label to each section.
 
@@ -98,7 +98,7 @@ Useful expressions:
 - *With regard to the submission made on [date]…*
 - *In connection with [reference / process]…*
 
-#### C2 — Classification / Matching
+#### Classification / Matching (C2)
 
 Match each expression (1–8) to its function (A–D). Write the letter.
 
@@ -134,7 +134,7 @@ Useful structures:
 - *Could you advise if…?*
 - *We would appreciate confirmation of whether…*
 
-#### C8 — Phrase Bank Building
+#### Phrase Bank Building (C8)
 
 The phrases below are drawn from this unit's model texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
 
@@ -164,7 +164,7 @@ Keep this phrase bank for reference throughout Modules 4 and 5.
 
 ### D. Guided Writing
 
-#### D1 — Rewrite the Original Inquiry
+#### Rewrite the Original Inquiry (D1)
 
 Rewrite the original text from Section B using:
 
@@ -173,7 +173,7 @@ Rewrite the original text from Section B using:
 - diplomatic softening
 - next-step information or a timeline reference
 
-#### D4 — Two-Audience Version Task
+#### Two-Audience Version Task (D4)
 
 The following inquiry was written for an international partner office. Rewrite it as a shorter internal message for a colleague in your own office who is familiar with the case.
 
@@ -185,7 +185,7 @@ Discuss: What changes did you make for the internal audience? What did you remov
 
 ### E. Freer Writing
 
-#### E3 — Role-Based Writing Task
+#### Role-Based Writing Task (E3)
 
 Write a formal external inquiry of **180–220 words**. Your inquiry must include:
 
@@ -200,13 +200,13 @@ Choose one situation:
 1. You are an external liaison officer in a regional review office. Your team sent a revised applicant file and supporting documents to a partner agency three weeks ago, but no acknowledgement has been received and the next internal review meeting cannot proceed until the file status is confirmed.
 2. You are writing from an interagency coordination team. Earlier this month, your office submitted revised supporting documents for a case that is due to move to the next processing stage, but your records still do not show whether the documents have been reviewed or whether any further materials are required.
 3. You are a case coordination officer following up with an external counterpart. Two weeks ago, your office sent a clarification request about an applicant file, and your supervisor now needs an update before next week's internal review meeting.
-4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office has received a short update from a counterpart office on an international filing, but the message does not confirm which reference number should be used in future correspondence, whether the reported status is final, or whether any additional documents are still required from your side. Your team needs these points clarified before this week's internal reporting note is completed.
+4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office has received a short update from a counterpart office on an international filing, but several key points remain unconfirmed. Your team needs these points clarified before this week's internal reporting note is completed.
 
 ---
 
 ### F. Review & Self-Assessment
 
-#### F2 — Comparative Peer Review
+#### Comparative Peer Review (F2)
 
 In a group of three, exchange your freer writing tasks. Read both of your classmates' inquiries and answer the following:
 
@@ -217,7 +217,7 @@ In a group of three, exchange your freer writing tasks. Read both of your classm
 
 *Self-study note: Read your own inquiry as if you are the recipient. Answer questions 1–4 from the perspective of the reader.*
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check whether your inquiry:
 
@@ -232,7 +232,7 @@ Before submitting, check whether your inquiry:
 
 ### G. Editing
 
-#### G2 — Editing Workshop
+#### Editing Workshop — Paragraph-Level (G2)
 
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
@@ -250,11 +250,11 @@ Your edited version should:
 
 ### H. Extension & Homework
 
-#### H2 — Real-World Task
+#### Real-World Task (H2)
 
 Identify one situation in your current or recent work where a more clearly structured external inquiry would have improved communication outcomes. Draft the inquiry as it should have been written, or as it might be needed in a future situation.
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–250 word** external inquiry to an interagency or international partner. Include:
 
@@ -271,7 +271,7 @@ Choose one situation:
 3. A partner agency reviewed an applicant file and was expected to confirm whether any additional materials are required before the next processing stage. Your office now needs a formal written inquiry because the internal deadline is approaching.
 4. *(JPO context)* Your office has received a brief update from a counterpart office at the USPTO, EPO, or WIPO regarding an international filing, but the message does not confirm the current processing stage, the correct reference information for future correspondence, or whether any further materials are expected from your side. Your internal reporting deadline now depends on clarifying these points.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -299,7 +299,7 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 
 ### A. Opening & Activation
 
-#### A4 — Prediction Task
+#### Prediction Task (A4)
 
 Read the scenario below. Before you look at any model texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
@@ -312,7 +312,7 @@ Write your predictions. Then, as you work through this unit, compare your list a
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 ##### Original (Unclear and Vague)
 
@@ -331,7 +331,7 @@ Write your predictions. Then, as you work through this unit, compare your list a
 
 ---
 
-#### B7 — Data Interpretation Input
+#### Data Interpretation Input (B7)
 
 The table below shows processing delay data from the three months following the introduction of a revised applicant intake form.
 
@@ -368,7 +368,7 @@ Useful structures:
 - *A potential issue relates to…*
 - *This may result in…*
 
-#### C3 — Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each sentence to clearly express a specific, well-defined risk. Add a cause where one is not already present.
 
@@ -394,7 +394,7 @@ Useful patterns:
 - *To mitigate this issue…*
 - *A possible solution would be to…*
 
-#### C4 — Error Identification & Correction
+#### Error Identification & Correction (C4)
 
 Each sentence below contains one error: it may be vague, emotionally toned, grammatically imprecise, or poorly structured. Identify the error type, then rewrite the sentence.
 
@@ -409,7 +409,7 @@ Each sentence below contains one error: it may be vague, emotionally toned, gram
 
 ### D. Guided Writing
 
-#### D1 — Rewrite the Original Text
+#### Rewrite the Original Text (D1)
 
 Rewrite the vague original model from Section B using:
 
@@ -418,7 +418,7 @@ Rewrite the vague original model from Section B using:
 - neutral, analytical tone
 - a mitigation measure for each risk
 
-#### D2 — Scenario-Based Risk Assessment
+#### Scenario-Based Risk Assessment (D2)
 
 Choose one scenario and write a 6–8 sentence risk and impact assessment.
 
@@ -438,7 +438,7 @@ Your assessment must include:
 
 ### E. Freer Writing
 
-#### E1 — Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a risk and impact assessment of **200–240 words** for internal circulation. Your assessment must include:
 
@@ -458,7 +458,7 @@ Choose one situation:
 
 ### F. Review & Self-Assessment
 
-#### F1 — Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -467,7 +467,7 @@ Exchange your freer writing task with a partner and answer the following:
 3. Are the mitigation measures realistic and connected to the identified risk?
 4. Is the tone neutral and professional throughout? Identify any emotional or evaluative language.
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check whether your assessment:
 
@@ -482,7 +482,7 @@ Before submitting, check whether your assessment:
 
 ### G. Editing
 
-#### G4 — Grammar & Accuracy Focus: Conditional and Hedging Structures
+#### Editing Exercise — Conditional and Hedging Structures (G1)
 
 Risk and impact writing relies heavily on conditional and hedging language to express possibility without overstating certainty.
 
@@ -507,7 +507,7 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 
 ### H. Extension & Homework
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–260 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
@@ -523,7 +523,7 @@ Choose one situation:
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
 4. *(JPO context)* A procedural or systems change related to international IP office coordination is due to take effect soon, but preparation across internal teams and partner offices is incomplete.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -551,7 +551,7 @@ This unit develops learners' ability to write messages intended for multiple aud
 
 ### A. Opening & Activation
 
-#### A6 — Contrastive Warm-Up
+#### Contrastive Warm-Up (A6)
 
 Read both versions of the same message. Before any explanation, identify the differences.
 
@@ -570,7 +570,7 @@ Discuss:
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 ##### Original (Assumes Too Much Knowledge)
 
@@ -589,7 +589,7 @@ Discuss:
 
 ---
 
-#### B4 — Annotated Model
+#### Annotated Model (B4)
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
@@ -623,7 +623,7 @@ Read the improved version again. The following annotations explain specific deci
 - *For partner offices not involved in earlier discussions…*
 - *For agencies unfamiliar with the previous version, we note that…*
 
-#### C3 — Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each sentence so that it addresses a specific audience group and includes appropriate supporting context.
 
@@ -643,7 +643,7 @@ Rewrite each sentence so that it addresses a specific audience group and include
 - *This change responds to issues raised during the September review.*
 - *As background, the revision was introduced to address…*
 
-#### C5 — Paragraph-Level Transformation
+#### Paragraph-Level Transformation (C5)
 
 Rewrite the following paragraph so that it is accessible to a reader who has no prior knowledge of the situation. Add context, audience signals, and a clear explanation of the change.
 
@@ -655,7 +655,7 @@ Your rewritten version should be 5–7 sentences and address at least two differ
 
 ### D. Guided Writing
 
-#### D1 — Rewrite the Original Message
+#### Rewrite the Original Message (D1)
 
 Rewrite the original text from Section B using:
 
@@ -664,7 +664,7 @@ Rewrite the original text from Section B using:
 - layered explanation (core message first, then audience-specific detail)
 - clear next steps
 
-#### D4 — Two-Audience Version Task
+#### Two-Audience Version Task (D4)
 
 Write two versions of the following announcement:
 
@@ -679,7 +679,7 @@ Discuss: What did you change between the two versions? Which version required mo
 
 ### E. Freer Writing
 
-#### E4 — Multi-Part Portfolio Task
+#### Multi-Part Portfolio Task (E4)
 
 **Shared scenario:** A national coordination office has updated its interagency referral process. The changes affect both internal processing staff and external partner agencies. The new process launches in two weeks.
 
@@ -693,7 +693,7 @@ Together, your two pieces form a communication package for the same procedural c
 
 ### F. Review & Self-Assessment
 
-#### F1 — Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your freer writing tasks with a partner and answer the following:
 
@@ -702,7 +702,7 @@ Exchange your freer writing tasks with a partner and answer the following:
 3. Are the required actions clear in both versions?
 4. Is the tone appropriate to each audience?
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check whether your writing:
 
@@ -717,7 +717,7 @@ Before submitting, check whether your writing:
 
 ### G. Editing
 
-#### G2 — Editing Workshop
+#### Editing Workshop — Paragraph-Level (G2)
 
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
@@ -735,7 +735,7 @@ Your edited version should:
 
 ### H. Extension & Homework
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–260 word** multi-audience notice for a procedural or policy change. Include:
 
@@ -745,7 +745,7 @@ Write a **220–260 word** multi-audience notice for a procedural or policy chan
 - required actions and next steps
 - formal, inclusive tone
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -773,7 +773,7 @@ This unit develops learners' ability to write clear, well-reasoned rationales th
 
 ### A. Opening & Activation
 
-#### A5 — Real Document Analysis
+#### Real Document Analysis (A5)
 
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
@@ -795,7 +795,7 @@ Read the following excerpt from an internal policy proposal. Answer the question
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 ##### Original (Weak and Unsupported)
 
@@ -814,7 +814,7 @@ Read the following excerpt from an internal policy proposal. Answer the question
 
 ---
 
-#### B6 — Reading-to-Write Input
+#### Reading-to-Write Input (B6)
 
 Read the following extract from an interagency coordination guideline, then complete the writing task below.
 
@@ -827,12 +827,14 @@ Read the following extract from an interagency coordination guideline, then comp
 
 ---
 
-**Writing task:** Using the information in the extract, write a 4–5 sentence rationale for why your office should prioritise completing portal registration before the deadline. Your rationale should:
+**Writing task:** Using only the information in the extract above, write a plain-language rationale explaining why your office should prioritise completing portal registration before the deadline. Your rationale should:
 
-- reference the specific guideline requirement
+- reference the specific requirement
 - explain the reasons behind the policy change
 - identify the risks of non-compliance
 - state the benefit of early action
+
+Aim for **60–80 words**.
 
 ---
 
@@ -848,7 +850,7 @@ Read the following extract from an interagency coordination guideline, then comp
 - *Consistent with the agency's objective of…*
 - *As required by the revised coordination protocol…*
 
-#### C3 — Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each sentence to include a clear, specific policy or guideline reference.
 
@@ -868,7 +870,7 @@ Rewrite each sentence to include a clear, specific policy or guideline reference
 - *This will improve processing efficiency and reduce unnecessary delays.*
 - *This supports the agency's objective of standardising interagency communication.*
 
-#### C7 — Expansion Task
+#### Expansion Task (C7)
 
 Expand each bare sentence into 2–3 sentences that include a policy reference, reasoning, and a benefit statement.
 
@@ -881,7 +883,7 @@ Expand each bare sentence into 2–3 sentences that include a policy reference, 
 
 ### D. Guided Writing
 
-#### D1 — Rewrite the Original Rationale
+#### Rewrite the Original Rationale (D1)
 
 Rewrite the weak original from Section B. Your rationale should include:
 
@@ -889,7 +891,7 @@ Rewrite the weak original from Section B. Your rationale should include:
 - clear, objective reasoning
 - a benefit statement
 
-#### D3 — Template-Guided Writing
+#### Template-Guided Writing (D3)
 
 Use the structure below to draft a policy-aligned rationale for one of the following recommendations:
 
@@ -908,7 +910,7 @@ Adapt the template as needed. Your rationale should be 5–7 sentences.
 
 ### E. Freer Writing
 
-#### E1 — Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a policy-aligned rationale of **200–240 words**. Your rationale must include:
 
@@ -929,7 +931,7 @@ Choose one situation:
 
 ### F. Review & Self-Assessment
 
-#### F1 — Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -938,7 +940,7 @@ Exchange your freer writing task with a partner and answer the following:
 3. Are the reasons objective and evidence-based? Identify any that rely on opinion or preference.
 4. Are the benefits clearly stated? Are they linked directly to the recommendation?
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check whether your rationale:
 
@@ -953,7 +955,7 @@ Before submitting, check whether your rationale:
 
 ### G. Editing
 
-#### G3 — Track-Change Simulation
+#### Track-Change Simulation (G3)
 
 The following rationale has been reviewed by a colleague, who has proposed several edits. Read the original and the proposed changes. For each change, decide whether to **accept** or **reject** it. Write your decision and a brief reason.
 
@@ -976,7 +978,7 @@ For each decision: state whether you accept or reject the change, and explain in
 
 ### H. Extension & Homework
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
 
@@ -991,9 +993,9 @@ Choose one situation:
 1. Your office wants to revise an administrative process that has caused recurring delays, and a formal rationale is needed before approval can be given.
 2. A guideline or standard form has been updated following a policy change, and your team must write a rationale explaining why the revision should now be adopted.
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
-4. *(JPO context)* Your office is preparing a rationale to support the adoption of a shared terminology standard, the revision of a joint guideline, or the introduction of an additional coordination step before trilateral document submission.
+4. *(JPO context)* Your office is preparing a rationale to support the adoption of a shared terminology standard for trilateral examination work. The proposal must align with existing international guidelines before it can be submitted for approval.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 

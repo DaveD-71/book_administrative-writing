@@ -16,7 +16,7 @@ This unit develops learners' ability to summarise policy content for readers who
 
 ### A. Opening & Activation
 
-#### Contrastive Warm-Up
+#### Contrastive Warm-Up (A6)
 
 Read the two statements below. Both describe the same policy change.
 
@@ -36,7 +36,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Reading-to-Write Input
+#### Reading-to-Write Input (B6)
 
 Read the following extract from an internal policy circular.
 
@@ -57,7 +57,7 @@ Aim for 60–80 words. You will compare your version with the model text in the 
 
 ---
 
-#### Compare the Versions
+#### Compare the Versions (B1)
 
 **Original (Too Technical)**
 
@@ -155,7 +155,7 @@ Rewrite each sentence so the required action is clear and direct.
 
 ### D. Guided Writing
 
-#### Activity 1 — Rewrite the Model Text (D1)
+#### Rewrite the Model Text (D1)
 
 Using the improved version as your guide, rewrite the original technical text from Section B in your own words. Your version must include:
 
@@ -164,7 +164,7 @@ Using the improved version as your guide, rewrite the original technical text fr
 - the required actions and any deadlines
 - a professional, accessible tone throughout
 
-#### Activity 2 — Format Conversion (D7)
+#### Format Conversion (D7)
 
 Below is an extract from a policy bulletin written for specialists. Convert it into a short plain-language summary (approximately 80–100 words) suitable for a general staff briefing.
 
@@ -312,7 +312,7 @@ Discuss:
 
 > *"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
 
-#### Compare the Versions
+#### Compare the Versions (B1)
 
 Identify improvements in:
 
@@ -428,7 +428,7 @@ D. *"This revision aligns with the updated interagency style guidelines issued i
 
 ### D. Guided Writing
 
-#### Activity 1 — Rewrite the Original Justification (D1)
+#### Rewrite the Original Justification (D1)
 
 Using the improved model from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
 
@@ -437,7 +437,7 @@ Using the improved model from Section B as your guide, rewrite the original vagu
 - a description of expected benefits
 - formal, neutral tone
 
-#### Activity 2 — Draft a Justification for One Scenario (D2)
+#### Draft a Justification for One Scenario (D2)
 
 Choose one scenario and write a justification of approximately 60–80 words.
 
@@ -608,7 +608,7 @@ Discuss: Why does a predictable report structure help readers process informatio
 
 ---
 
-#### B7. Data Interpretation Input
+#### Data Interpretation Input (B7)
 
 The table below shows status update data submitted by five offices following the distribution of Circular 2024/09.
 
@@ -737,7 +737,7 @@ Rewrite each item to include a clear, time-bound next step.
 
 ### D. Guided Writing
 
-#### Activity 1 — Rewrite the Original Report (D1)
+#### Rewrite the Original Report (D1)
 
 Using the improved model as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
 
@@ -747,7 +747,7 @@ Using the improved model as your guide, rewrite the original vague text from Sec
 - Outstanding Questions
 - Next Steps
 
-#### Activity 2 — Information Reorganisation (D5)
+#### Information Reorganisation (D5)
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
 
@@ -760,7 +760,7 @@ The following sentences are drawn from several office updates but have not yet b
 7. *Several offices requested confirmation of which applicants fall under the revised processing sequence.*
 8. *A coordination meeting is proposed for 10 November.*
 
-#### Activity 3 — Format Conversion (D7)
+#### Format Conversion (D7)
 
 Below is a narrative email chain summary from a coordination officer. Convert it into a structured consolidated report using the five-section format.
 
@@ -970,7 +970,7 @@ Your rewritten paragraph must:
 
 ### D. Guided Writing
 
-#### Activity 1 — Model Rewriting (D1)
+#### Model Rewriting (D1)
 
 Using the integrated response in Section B as your guide, rewrite the inadequate version — the one that addresses each input separately without synthesis. Your version must:
 
@@ -979,7 +979,7 @@ Using the integrated response in Section B as your guide, rewrite the inadequate
 - include clear required actions and deadlines
 - maintain formal tone throughout
 
-#### Activity 2 — Revision Chain (D6)
+#### Revision Chain (D6)
 
 Locate the freer writing or homework task you produced for Unit 18 (Synthesising Information from Multiple Sources). Re-read it with the following questions in mind:
 

@@ -18,7 +18,7 @@ This unit develops learners' ability to write balanced, objective evaluations of
 
 ### A. Opening & Activation
 
-#### Sorting & Categorisation Task
+#### Sorting / Categorisation (A3)
 
 Below are eight evaluation statements. Sort each one into the correct column.
 
@@ -43,7 +43,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Unbalanced and Vague)**
 
@@ -70,7 +70,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 - balance (strengths + areas for improvement)
 - professionalism
 
-#### B4 — Annotated Model
+#### Annotated Model (B4)
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
@@ -87,7 +87,7 @@ Read the improved evaluation again. Match each annotation label (a–e) to the c
 
 ### C. Language Focus
 
-#### C3 — Sentence Rewriting: Objective, Neutral Language
+#### Sentence Rewriting — Objective, Neutral Language (C3)
 
 **Writing goal:** Describe strengths and weaknesses without judgmental language.
 
@@ -105,7 +105,7 @@ Read the improved evaluation again. Match each annotation label (a–e) to the c
 3. *The whole section needs to be redone.*
 4. *It's impossible to understand what they're asking.*
 
-#### C4 — Error Identification & Correction
+#### Error Identification & Correction (C4)
 
 Each sentence below contains a problem with tone, precision, or balance. Identify the problem, then rewrite the sentence professionally.
 
@@ -118,7 +118,7 @@ Each sentence below contains a problem with tone, precision, or balance. Identif
 
 ### D. Guided Writing
 
-#### D1 — Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original evaluation (from Section B) as a complete, balanced evaluation.
 
@@ -129,7 +129,7 @@ Your rewrite must include:
 - a specific, constructive recommendation
 - neutral, criterion-based language throughout
 
-#### D6 — Revision Chain
+#### Revision Chain (D6)
 
 Return to your Freer Writing task from Unit 15 (Homework or in-class writing).
 
@@ -152,7 +152,7 @@ Write a brief note (2–3 sentences) explaining what you changed and why.
 
 ### E. Freer Writing
 
-#### E1 — Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a **220–260 word** balanced evaluation. Choose one scenario:
 
@@ -171,7 +171,7 @@ Your evaluation must include:
 
 ### F. Peer Review & Self-Assessment
 
-#### F2 — Comparative Peer Review
+#### Comparative Peer Review (F2)
 
 Exchange your Freer Writing with a partner. Compare the two texts. For each criterion below, identify which text does this more effectively and explain why.
 
@@ -185,7 +185,7 @@ Exchange your Freer Writing with a partner. Compare the two texts. For each crit
 
 Discuss your findings with your partner.
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting your work, check each item below.
 
@@ -199,7 +199,7 @@ Before submitting your work, check each item below.
 
 ### G. Editing
 
-#### G3 — Track-Change Simulation
+#### Track-Change Simulation (G3)
 
 The text below is a draft evaluation. It includes five proposed edits, shown as strikethroughs (deleted text) and insertions (new text in brackets). For each change, decide: **Accept** or **Reject** — and give a brief reason.
 
@@ -223,7 +223,7 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 
 ### H. Extension & Homework
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–260 word** balanced evaluation of a document or process relevant to your work. Your evaluation must include:
 
@@ -233,7 +233,7 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 - recommendations
 - professional, neutral tone throughout
 
-#### H1 — Extension Task (Choose One)
+#### Extension Task (H1)
 
 1. Find a short evaluation from your workplace (or a public-facing review document). Identify whether it is balanced, and rewrite any unprofessional or vague sections.
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
@@ -258,7 +258,7 @@ Executive briefs summarise complex issues for decision-makers who require clarit
 
 ### A. Opening & Activation
 
-#### A4 — Prediction Task
+#### Prediction Task (A4)
 
 You are about to read an executive brief on a coordination issue between three regional offices. Before reading, predict:
 
@@ -272,7 +272,7 @@ Write your predictions, then compare with a partner after completing Section B.
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Overly General)**
 
@@ -297,7 +297,7 @@ Write your predictions, then compare with a partner after completing Section B.
 - level of detail
 - usefulness for decision-making
 
-#### B7 — Data Interpretation Input
+#### Data Interpretation Input (B7)
 
 Study the table below, then use the data to draft a Key Points section for an executive brief.
 
@@ -316,7 +316,7 @@ Study the table below, then use the data to draft a Key Points section for an ex
 
 ### C. Language Focus
 
-#### C3 — Sentence Rewriting: Writing Clear Overviews and Key Points
+#### Sentence Rewriting — Writing Clear Overviews and Key Points (C3)
 
 **Writing goal:** Provide immediate context and distil information to essentials.
 
@@ -339,7 +339,7 @@ Study the table below, then use the data to draft a Key Points section for an ex
 3. *There have been quite a few issues with delays lately and it's becoming a bigger problem.*
 4. *The staff are confused and nobody knows what the right procedure is anymore.*
 
-#### C5 — Paragraph-Level Transformation
+#### Paragraph-Level Transformation (C5)
 
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
@@ -349,7 +349,7 @@ The paragraph below is written as an informal meeting summary. Rewrite it as the
 
 ### D. Guided Writing
 
-#### D1 — Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original brief (from Section B) as a complete executive brief.
 
@@ -359,7 +359,7 @@ Your brief must include:
 - a statement of implications
 - a specific, actionable recommendation
 
-#### D7 — Format Conversion
+#### Format Conversion (D7)
 
 Below is a set of notes from an interagency coordination meeting. Convert them into a structured executive brief.
 
@@ -379,14 +379,14 @@ Write the executive brief in full, using the four-part structure: Overview / Key
 
 ### E. Freer Writing
 
-#### E1 — Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a **200–240 word** executive brief. Choose one scenario:
 
 1. A revised assessment procedure has been trialled across three offices for one month. Senior management now needs a brief on the main issues before deciding whether to adopt it more widely.
 2. Two partner agencies have reported inconsistent outcomes in a shared processing workflow. A director has asked for a brief before deciding whether a joint review should be launched.
 3. A new interagency data-sharing system has been piloted for six weeks. Early feedback shows both operational benefits and recurring implementation concerns, and a decision on full rollout is required.
-4. *(JPO context)* A senior JPO official needs a brief before an international meeting on a draft proposal to align document-exchange standards with a foreign IP office. Recent working-level exchanges show general support for the proposal, but there are unresolved concerns about timing, responsibilities, and implementation readiness.
+4. *(JPO context)* A senior JPO official needs a brief before an international meeting on a draft proposal to align document-exchange standards with a foreign IP office. Recent working-level exchanges show general support but have also raised concerns that need to be addressed before a decision can be made.
 
 Your brief must include:
 - overview
@@ -399,7 +399,7 @@ Your brief must include:
 
 ### F. Peer Review & Self-Assessment
 
-#### F1 — Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your Freer Writing with a partner. Use the questions below to give feedback.
 
@@ -409,7 +409,7 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 4. Is the recommendation specific and actionable?
 5. Is there any detail that an executive would not need? If so, which sentences?
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 - [ ] Does the overview establish context within one or two sentences?
 - [ ] Are key points concise — one idea per bullet point?
@@ -421,7 +421,7 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 
 ### G. Editing
 
-#### G2 — Editing Workshop
+#### Editing Workshop — Paragraph-Level (G2)
 
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
@@ -433,7 +433,7 @@ Your edited version should be a properly structured executive brief with all fou
 
 ### H. Extension & Homework
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **200–240 word** executive brief. Your brief must include:
 
@@ -448,9 +448,9 @@ Choose one scenario:
 1. A senior manager needs a brief on a delayed procedural update before deciding whether to approve the revised implementation schedule.
 2. A coordination issue between partner offices has created inconsistent handling of a recurring case type. A brief is needed before the next decision meeting.
 3. A pilot system has produced mixed results across several teams, and a recommendation is needed on whether to proceed, revise, or pause the rollout.
-4. *(JPO context)* A senior JPO official needs a brief before an international meeting on whether to endorse a draft proposal for aligning document-exchange standards with a foreign IP office. The brief should summarise the current position, the main implications, and whether immediate endorsement or further review is advisable.
+4. *(JPO context)* A senior JPO official needs a brief before an international meeting on whether to endorse a draft proposal for aligning document-exchange standards with a foreign IP office.
 
-#### H1 — Extension Task (Choose One)
+#### Extension Task (H1)
 
 1. Find a long report or meeting summary from your workplace and reduce it to a one-page executive brief using the four-part structure.
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
@@ -475,7 +475,7 @@ This unit develops learners' ability to combine information from several documen
 
 ### A. Opening & Activation
 
-#### A5 — Real Document Analysis
+#### Real Document Analysis (A5)
 
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
@@ -497,7 +497,7 @@ Read the three short extracts below. They come from three different sources on t
 
 ### B. Model Text
 
-#### B1 — Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Listing Without Synthesis)**
 
@@ -514,7 +514,7 @@ Read the three short extracts below. They come from three different sources on t
 - level of detail
 - tone and usefulness
 
-#### B6 — Reading-to-Write Input
+#### Reading-to-Write Input (B6)
 
 Read the three sources from Section A again carefully. Then complete the following task:
 
@@ -530,7 +530,7 @@ Keep this paragraph. You will return to it in Section D.
 
 ### C. Language Focus
 
-#### C3 — Sentence Rewriting: Grouping Information and Showing Relationships
+#### Sentence Rewriting — Grouping Information and Showing Relationships (C3)
 
 **Writing goal:** Combine information from multiple sources into thematic, coherent sentences.
 
@@ -559,7 +559,7 @@ Keep this paragraph. You will return to it in Section D.
 3. *Three offices reported delays.*
 4. *Office A: unclear instructions. Office B: outdated file version. Office C: unclear instructions. Office D: outdated file version.*
 
-#### C8 — Phrase Bank Building
+#### Phrase Bank Building (C8)
 
 Below are twelve phrases drawn from the model text and language focus. Organise them into a personal phrase bank under the four headings provided.
 
@@ -587,7 +587,7 @@ Keep this phrase bank — you will use it in the Freer Writing task and in futur
 
 ### D. Guided Writing
 
-#### D1 — Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original synthesis (from Section B) as a complete, integrated synthesis paragraph.
 
@@ -597,7 +597,7 @@ Your paragraph must include:
 - a concluding insight
 - appropriate synthesis language from Section C
 
-#### D2 — Scenario Writing (Revision Task)
+#### Scenario Writing (D2)
 
 Return to the paragraph you wrote in Section B (B6). Compare it with the Improved Version from Section B1. 
 
@@ -614,7 +614,7 @@ Write your revised paragraph, then compare with a partner.
 
 ### E. Freer Writing
 
-#### E1 — Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a **220–260 word** synthesis. Choose one scenario:
 
@@ -633,7 +633,7 @@ Your synthesis must include:
 
 ### F. Peer Review & Self-Assessment
 
-#### F2 — Comparative Peer Review
+#### Comparative Peer Review (F2)
 
 Exchange your Freer Writing with a partner. Compare the two syntheses. For each criterion, identify which text does this more effectively and explain why.
 
@@ -645,7 +645,7 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 | Uses appropriate synthesis language | | | |
 | Formal, neutral tone throughout | | | |
 
-#### F3 — Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 - [ ] Have I grouped information by theme rather than listing it source-by-source?
 - [ ] Have I shown at least one contrast or agreement between sources?
@@ -657,7 +657,7 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 
 ### G. Editing
 
-#### G2 — Editing Workshop
+#### Editing Workshop — Paragraph-Level (G2)
 
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
@@ -669,7 +669,7 @@ Your edited version should be a properly synthesised paragraph with grouped them
 
 ### H. Extension & Homework
 
-#### H2 — Real-World Task
+#### Real-World Task (H2)
 
 Find three real documents from your workplace that address the same issue or process. They may be emails, meeting notes, reports, or procedural instructions.
 
@@ -677,7 +677,7 @@ Write a 120–150 word synthesis paragraph that integrates information from all 
 
 If you do not have access to workplace documents, use three public or sample sources on the same administrative issue instead, such as a memo, a meeting summary, and a short report extract.
 
-#### H3 — Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **220–260 word** synthesis combining information from three or more sources. Your synthesis must include:
 

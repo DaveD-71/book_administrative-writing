@@ -15,9 +15,9 @@ This unit helps learners produce clear, precise, and unambiguous sentences in ad
 
 ---
 
-### Warm-Up
+### A. Opening & Activation
 
-#### Activity — Identifying Confusing Sentences (A2)
+#### Identifying Confusing Sentences (A2)
 
 Read the following sentences. Identify what makes each one difficult to follow, and underline the section where the sentence loses clarity.
 
@@ -35,7 +35,7 @@ Then discuss: **When does a long sentence become unclear?** What makes administr
 
 ---
 
-### Model Text (B1)
+### B. Model Text
 
 Below are two versions of an excerpt from an internal explanation memo.
 
@@ -47,7 +47,7 @@ Below are two versions of an excerpt from an internal explanation memo.
 
 > *"We were unable to verify the applicant's supporting documents during the initial review. The translation submitted last week contained several inconsistencies that require clarification, so we will request an updated version. Before doing so, we will confirm internally whether the missing information is essential at this stage. The team has also noted that some details may have been omitted unintentionally; if left uncorrected, this could affect the accuracy of further processing."*
 
-#### Activity — Compare the Two Versions
+#### Compare Two Versions (B1)
 
 Identify:
 
@@ -58,7 +58,7 @@ Identify:
 
 ---
 
-### Noticing Task (B2)
+#### Noticing Task (B2)
 
 In the revised version, highlight or underline:
 
@@ -71,7 +71,7 @@ Reflect: How do these features make the revised version easier to process?
 
 ---
 
-### Language Focus
+### C. Language Focus
 
 > **Key principle:** Sentence clarity is not primarily about length — it is about logical load. A sentence becomes unclear when the reader has to track too many competing relationships at once. The three tools below — coordination, subordination, and segmentation — each help manage logical load in a different way.
 
@@ -165,9 +165,9 @@ Rewrite each sentence below using the clarity pattern indicated.
 
 ---
 
-### Guided Writing
+### D. Guided Writing
 
-#### Activity 1 — Rewrite the Model Text (D1)
+#### Rewrite the Model Text (D1)
 
 Rewrite the **original** model text (the unclear version) as **three to four clear sentences**. Follow these steps:
 
@@ -176,7 +176,7 @@ Rewrite the **original** model text (the unclear version) as **three to four cle
 3. Remove unnecessary subordination.
 4. Add connectors to show clear relationships between sentences.
 
-#### Activity 2 — Write Your Own Complex Sentence (D2)
+#### Write Your Own Complex Sentence (D2)
 
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
 
@@ -190,9 +190,9 @@ Then explain which version would be most appropriate for an internal memo, and w
 
 ---
 
-### Freer Writing (E1)
+### E. Freer Writing
 
-#### Task — Explain a Multi-Cause Issue
+#### Scenario-Based Free Write (E1)
 
 Write approximately **150 words** explaining the cause of an administrative problem to an internal reader. Your explanation should:
 
@@ -206,7 +206,9 @@ Choose one situation:
 2. An applicant's file has been placed on hold because two pieces of required documentation were submitted in different versions. You need to explain the issue to a colleague who will follow up with the applicant.
 3. A joint interagency report was submitted late due to a series of internal delays. You have been asked to provide a written account of the contributing factors for inclusion in a project review note.
 
-#### Peer Review
+### F. Review / Self-Edit
+
+#### Peer Review (F1)
 
 Exchange drafts with a partner and answer:
 
@@ -218,9 +220,7 @@ Exchange drafts with a partner and answer:
 
 ---
 
-### Review / Self-Edit (F3)
-
-#### Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Check your writing for the following:
 
@@ -232,9 +232,9 @@ Check your writing for the following:
 
 ---
 
-### Editing (G1)
+### G. Editing
 
-#### Editing Exercise — Correct the Ambiguity
+#### Editing Exercise (G1)
 
 Rewrite the following sentences to eliminate ambiguity. For each one, identify the source of the problem before rewriting.
 
@@ -244,7 +244,7 @@ Rewrite the following sentences to eliminate ambiguity. For each one, identify t
 
 ---
 
-### Homework (H3)
+### H. Homework & Extension
 
 Write approximately **150 words** explaining a work situation that involves multiple related causes or factors. Your explanation should be appropriate for internal or interagency communication, and should use coordination, subordination, and segmentation to manage the logical relationships clearly.
 
@@ -255,8 +255,6 @@ Choose one situation:
 3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
 
 ---
-
-### Extension Task (H1)
 
 Choose one:
 
@@ -279,9 +277,9 @@ This unit develops learners' ability to use nuanced politeness, diplomatic phras
 
 ---
 
-### Warm-Up (A1)
+### A. Opening & Activation
 
-#### Discussion Questions
+#### Discussion Questions (A1)
 
 Reflect on your own professional writing experience:
 
@@ -294,7 +292,7 @@ Reflect on your own professional writing experience:
 
 ---
 
-### Model Text (B1)
+### B. Model Text
 
 #### Original Version (too direct)
 
@@ -304,7 +302,7 @@ Reflect on your own professional writing experience:
 
 > *"It appears that the submitted document may not match the version required for this stage. To ensure accuracy in our review, we would appreciate it if you could confirm whether an updated file is available. Once received, we will be able to proceed with the next steps of the examination."*
 
-#### Activity — Compare the Two Versions
+#### Compare Two Versions (B1)
 
 Identify the differences in:
 
@@ -315,7 +313,7 @@ Identify the differences in:
 
 ---
 
-### Noticing Task (B2)
+#### Noticing Task (B2)
 
 Highlight examples of the following in the revised text:
 
@@ -328,7 +326,7 @@ Reflect: How do these features change the reader's experience of the message?
 
 ---
 
-### Language Focus
+### C. Language Focus
 
 #### 1. Softening Strategies (C2)
 
@@ -405,9 +403,9 @@ C. Foreign IP office
 
 ---
 
-### Guided Writing
+### D. Guided Writing
 
-#### Activity 1 — Rewrite the Model Text (D1)
+#### Rewrite the Model Text (D1)
 
 Rewrite the original (direct) model text into a diplomatic version. Your rewrite must include:
 
@@ -416,7 +414,7 @@ Rewrite the original (direct) model text into a diplomatic version. Your rewrite
 - a shared-goal framing
 - a polite closing request
 
-#### Activity 2 — Tone Transformation (D4)
+#### Tone Transformation (D4)
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
 
@@ -428,9 +426,9 @@ After writing, compare the two versions. Identify at least two specific differen
 
 ---
 
-### Freer Writing (E1)
+### E. Freer Writing
 
-#### Task — Write a Diplomatic Request
+#### Scenario-Based Free Write (E1)
 
 Write approximately **150 words**. Your message must include:
 
@@ -445,7 +443,9 @@ Choose one situation:
 2. A domestic agency counterpart has not yet confirmed attendance at a coordination meeting scheduled for next week, and a decision on the agenda depends on knowing who will attend. Write a follow-up message that maintains a cooperative tone.
 3. A foreign IP office sent a response to your inquiry, but one section of their reply appears to refer to an earlier version of the relevant procedure rather than the current one. Write to the relevant contact to request clarification.
 
-#### Peer Review
+### F. Review / Self-Edit
+
+#### Peer Review (F1)
 
 Partners identify:
 
@@ -456,8 +456,6 @@ Partners identify:
 *Self-study learners: Use these questions to review your own draft before continuing.*
 
 ---
-
-### Review / Self-Edit
 
 #### Guided Peer Review (F1)
 
@@ -478,9 +476,9 @@ Check your writing for:
 
 ---
 
-### Editing (G1)
+### G. Editing
 
-#### Editing Exercise — Reduce Directness
+#### Editing Exercise (G1)
 
 Rewrite these sentences to make them more diplomatic. For each one, identify which softening strategy you have used.
 
@@ -491,7 +489,7 @@ Rewrite these sentences to make them more diplomatic. For each one, identify whi
 
 ---
 
-### Homework (H3)
+### H. Homework & Extension
 
 Write approximately **150 words**. Your message must use at least three softening strategies, include clear reason-giving, and close cooperatively. Choose one situation:
 
@@ -500,8 +498,6 @@ Write approximately **150 words**. Your message must use at least three softenin
 3. A domestic agency counterpart has twice submitted a form using an outdated template, causing delays each time. Write to explain that an updated version is required and to provide guidance on where it can be found.
 
 ---
-
-### Extension Task (H1)
 
 Choose one:
 
@@ -525,9 +521,9 @@ This unit develops learners' ability to construct clear, logically organised par
 
 ---
 
-### Warm-Up (A3)
+### A. Opening & Activation
 
-#### Activity — Sorting for Cohesion
+#### Sorting / Categorisation (A3)
 
 Below are eight short excerpts from administrative paragraphs. Sort them into two groups:
 
@@ -556,7 +552,7 @@ After sorting, discuss: What specific features make the cohesive examples easier
 
 ---
 
-### Model Text (B1)
+### B. Model Text
 
 #### Original (Disjointed)
 
@@ -566,7 +562,7 @@ After sorting, discuss: What specific features make the cohesive examples easier
 
 > *"The meeting was productive, but several issues were raised regarding the clarity of the guidelines. Because participants requested further clarification, the team agreed that the document requires revision. The next step will be to prepare a revised draft reflecting the discussion."*
 
-#### Activity — Compare the Two Versions
+#### Compare Two Versions (B1)
 
 Identify:
 
@@ -577,7 +573,7 @@ Identify:
 
 ---
 
-### Noticing Task (B2)
+#### Noticing Task (B2)
 
 In the revised model, highlight or underline examples of:
 
@@ -590,7 +586,7 @@ Reflect: How do these elements work together to improve readability?
 
 ---
 
-### Language Focus
+### C. Language Focus
 
 #### 1. Cohesive Devices (C6)
 
@@ -661,9 +657,9 @@ Add appropriate connectors to the following sentences. More than one answer may 
 
 ---
 
-### Guided Writing
+### D. Guided Writing
 
-#### Activity 1 — Rebuild the Disjointed Model (D1)
+#### Rebuild the Disjointed Model (D1)
 
 Rewrite the original (disjointed) model text as **one cohesive paragraph**. Include:
 
@@ -671,7 +667,7 @@ Rewrite the original (disjointed) model text as **one cohesive paragraph**. Incl
 - clear reference words
 - logical thematic progression (topic → support → next step)
 
-#### Activity 2 — Reorganise and Rewrite (D5)
+#### Reorganise and Rewrite (D5)
 
 Below are seven pieces of information presented without structure or logical order. Reorganise them into a coherent two-paragraph explanation. You may add connectors and reference words, but do not add new content.
 
@@ -685,9 +681,9 @@ Below are seven pieces of information presented without structure or logical ord
 
 ---
 
-### Freer Writing (E1)
+### E. Freer Writing
 
-#### Task — Write a Cohesive Paragraph
+#### Scenario-Based Free Write (E1)
 
 Write approximately **150 words**. Your paragraph should use cohesive devices, reference words, and clear thematic progression, and should close with an implication or next step.
 
@@ -697,7 +693,9 @@ Choose one situation:
 2. A recurring delay in applicant processing has been traced to an inconsistency between two versions of a guidance document currently in use across different teams. Write a paragraph explaining the situation and its impact for inclusion in an internal briefing note.
 3. A procedural update affecting how submissions are logged has been approved but not yet communicated to all staff. Write a paragraph explaining the reason for the update and what it requires of staff going forward.
 
-#### Peer Review
+### F. Review / Self-Edit
+
+#### Peer Review (F1)
 
 - Is the topic clear from the first sentence?
 - Are transitions logical and smooth?
@@ -707,8 +705,6 @@ Choose one situation:
 *Self-study learners: Use these questions to review your own draft before continuing.*
 
 ---
-
-### Review / Self-Edit
 
 #### Guided Peer Review (F1)
 
@@ -729,9 +725,9 @@ Check your writing for:
 
 ---
 
-### Editing (G1)
+### G. Editing
 
-#### Editing Exercise — Improve Logical Flow
+#### Editing Exercise (G1)
 
 Rewrite these paragraphs for better cohesion. Identify at least two specific changes you have made and explain why.
 
@@ -741,7 +737,7 @@ Rewrite these paragraphs for better cohesion. Identify at least two specific cha
 
 ---
 
-### Homework (H3)
+### H. Homework & Extension
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
@@ -752,8 +748,6 @@ Choose one situation:
 3. Your office has been using two different templates for the same type of submission — one issued in 2021 and one issued earlier this year. The inconsistency has caused processing delays. Write a note to staff explaining why the older template must no longer be used.
 
 ---
-
-### Extension Task (H1)
 
 Choose one:
 

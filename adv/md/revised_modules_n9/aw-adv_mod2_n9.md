@@ -186,9 +186,11 @@ Choose one scenario:
 1. Your office sent a document to a foreign partner office three weeks ago but has received no acknowledgement. The document requires a formal response before your team can proceed with the next stage of a joint review.
 2. A domestic agency has forwarded an approval document, but it is unclear whether it represents a final or provisional decision. Your team cannot submit a joint report until the status is confirmed.
 3. A procedural instruction issued six months ago may have been superseded by a recent policy update. Your office needs written confirmation of which version is currently in force before updating internal guidance.
-4. *(JPO context)* Your office has received a message from a counterpart at the USPTO International Affairs Division noting that two sections of a jointly produced procedural document may contain conflicting guidance. You need to respond to that message before the document can be circulated.
+4. *(JPO context)* Your office has received a message from a counterpart at the USPTO International Affairs Division noting that two sections of a jointly produced procedural document may contain conflicting guidance.
 
 ---
+
+### F. Review & Self-Assessment
 
 #### F1. Peer Review
 
@@ -242,7 +244,7 @@ Choose one scenario:
 1. A partner agency has submitted an incomplete set of documents for a joint review. Two items are missing, and the review cannot proceed without them.
 2. A foreign office sent a translation of a shared procedural document, but your team has identified a section that may differ from the source. You need to request confirmation before the document is distributed.
 3. A domestic counterpart asked your office to validate a set of figures included in a draft report. You have completed the check and need to communicate the outcome and request a revised version.
-4. *(JPO context)* A counterpart at a foreign IP office has notified your office that a jointly produced procedural document contains a section that may require revision. You need to respond, outline how your office will address the issue, and confirm next steps.
+4. *(JPO context)* A counterpart at a foreign IP office has notified your office that a jointly produced procedural document contains a section that may require revision.
 
 ---
 
@@ -430,9 +432,11 @@ Choose one scenario:
 1. A partner organisation has submitted a revised set of procedural guidelines. Your team has identified several points where the terminology differs from an earlier agreed version, and one timeline appears to have changed without explanation.
 2. A foreign office has sent an updated coordination protocol. Two definitions in the glossary appear inconsistent with how those terms are used in the main body of the document, and one deadline is missing from the implementation schedule.
 3. A domestic agency has forwarded a set of revised processing instructions. One section references an annex that does not appear to be attached, and two steps in the procedure are described differently in the summary and the main text.
-4. *(JPO context)* The EPO Search Division has sent a search report in which two prior art citations appear to reference the same technical disclosure but carry different international patent classification codes. Your office needs clarification before updating its internal records.
+4. *(JPO context)* The EPO Search Division has sent a search report that contains an apparent inconsistency in how two prior art citations have been classified. Your office needs to raise the matter before the report can be used to update internal records.
 
 ---
+
+### F. Review & Self-Assessment
 
 #### F1. Peer Review
 
@@ -675,9 +679,11 @@ Choose one scenario:
 1. An applicant's supporting document contains conflicting explanations across two sections — the discrepancy must be resolved before the file can be progressed.
 2. A translated version of an official notice differs from the source document in a way that may affect how recipients interpret their obligations.
 3. A collaborating office used an outdated version of a registration form; the current version contains updated eligibility criteria that affect how submissions are assessed.
-4. *(JPO context)* A joint search report prepared for trilateral circulation contains a classification code that does not appear to match the agreed terminology used by the partner offices. The document needs to be reviewed before it is distributed.
+4. *(JPO context)* A joint search report prepared for trilateral circulation contains a classification code that does not appear to match the agreed terminology used by the partner offices.
 
 ---
+
+### F. Review & Self-Assessment
 
 #### F1. Peer Review
 
@@ -749,7 +755,7 @@ Choose one scenario:
 1. A partner office submitted a set of supporting documents for a joint review, but one document uses a version of the application form that was replaced six months ago. The outdated form is missing two fields required for processing.
 2. A foreign office circulated a translated version of a shared procedural notice. One section of the translation appears to reverse the meaning of a key instruction in the source document, which could affect how recipients respond.
 3. An interagency colleague forwarded a draft coordination report to external partners before it had been approved for distribution. The report contained preliminary figures that have since been revised.
-4. *(JPO context)* A counterpart at a foreign IP office has circulated a shared search document in which a classification code in one section does not match the agreed terminology established in the offices' joint working framework. The document requires correction before it can be used for examination purposes.
+4. *(JPO context)* A counterpart at a foreign IP office has circulated a shared search document in which a classification code in one section does not match the agreed terminology established in the offices' joint working framework.
 
 ---
 
@@ -909,9 +915,11 @@ Choose one scenario:
 1. A joint procedural document is due for publication, but three unresolved points need to be addressed in sequence before your office can sign off. The first relates to a terminology inconsistency; the second depends on that clarification before a table can be updated; the third requires the updated table before a final check can be completed.
 2. A partner agency has agreed to co-author a briefing paper, but your office needs several things before drafting can begin: confirmation of the agreed scope, the relevant data set, and sign-off on the proposed structure — each of which depends on the previous step being resolved.
 3. Your office is preparing materials for an upcoming coordination meeting. Before the agenda can be finalised, you need a partner office to confirm attendance, provide a status update on two action points from the last meeting, and indicate whether any items need to be added.
-4. *(JPO context)* Your office is preparing a contribution to an upcoming trilateral technical meeting. Before drafting can begin, you need a counterpart at WIPO to confirm which version of a relevant procedural guideline is currently in force, and then — depending on that answer — to provide the sections relevant to examination result reporting.
+4. *(JPO context)* Your office is preparing a contribution to an upcoming trilateral technical meeting, but several points with a counterpart at WIPO need to be resolved before drafting can begin.
 
 ---
+
+### F. Review & Self-Assessment
 
 #### F1. Peer Review
 
@@ -962,7 +970,7 @@ Choose one scenario:
 1. Your office is reviewing a set of draft guidelines submitted by a partner agency. Before a response can be sent, three actions need to be completed in sequence: the legal team must confirm whether one clause is consistent with current policy; once confirmed, a revised draft must be requested; and once received, a final check must be completed before sign-off.
 2. A foreign office has invited your team to contribute to a joint publication. Before committing, your office needs to confirm the publication scope, review the draft framework, and receive written confirmation that your proposed section has been approved — each step depending on the previous one.
 3. A domestic agency has requested your office's input on a set of updated eligibility criteria. Your team needs to complete three things before responding: verify the criteria against current internal guidance; identify any conflicts; and, if conflicts exist, request a meeting before submitting written comments.
-4. *(JPO context)* Your office needs to prepare a formal response to a procedural query from a foreign IP office. Before drafting can begin, you need a counterpart at the relevant office to confirm the current version of the applicable guideline, provide the relevant sections, and confirm whether your office's current practice is consistent with theirs — in that order.
+4. *(JPO context)* Your office needs to prepare a formal response to a procedural query from a foreign IP office, but several points with the relevant counterpart office must be resolved before drafting can begin.
 
 ---
 
@@ -973,4 +981,3 @@ Choose one:
 1. Rewrite a multi-part request message you have previously sent — apply sequencing markers, dependency logic, and diplomatic softening. Write a brief note explaining what you changed and why.
 2. Take a disorganised request email you have received and convert it into a clearly layered version. Identify the implicit priority order, make dependencies explicit, and note what structural changes you made.
 3. Find a message in which the priority order of requests was not stated. Analyse what effect the missing sequencing had on the reader's ability to act, and write an improved version that makes the order and dependencies explicit.
-

@@ -18,7 +18,7 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 
 ### A. Opening & Activation
 
-#### A5. Real Document Analysis
+#### Real Document Analysis (A5)
 
 Read the following internal procedure notice.
 
@@ -41,7 +41,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Unclear and Disordered)**
 
@@ -65,7 +65,7 @@ Answer the following questions:
 - use of labels and formatting
 - how conditions are handled
 
-#### B2. Noticing Task
+#### Noticing Task (B2)
 
 Highlight or underline the following features in the improved version:
 
@@ -80,7 +80,7 @@ Highlight or underline the following features in the improved version:
 
 ### C. Language Focus
 
-#### C6. Sequencing / Ordering Task
+#### Sequencing / Ordering Task (C6)
 
 The following steps belong to a procedure for processing an applicant's corrected submission. They are not in the correct order. Number them 1–6 in the most logical sequence, then briefly explain your reasoning for two of your choices.
 
@@ -91,7 +91,7 @@ D. *Compare the corrected submission against the original to identify all change
 E. *If new discrepancies are found, return the file with a written explanation of the outstanding issues.*
 F. *Log the corrected submission in the internal tracking system upon receipt.*
 
-#### C3. Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each sentence using a more precise procedural verb. Replace the underlined word or phrase.
 
@@ -107,7 +107,7 @@ Rewrite each sentence using a more precise procedural verb. Replace the underlin
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original unclear procedure from Section B into a structured, formal version. Your rewrite must include:
 
@@ -116,7 +116,7 @@ Rewrite the original unclear procedure from Section B into a structured, formal 
 - precise procedural verbs
 - a final step that closes the procedure
 
-#### D5. Information Reorganisation
+#### Information Reorganisation (D5)
 
 The following information about an internal approval process has been written as a paragraph. It contains all the necessary content, but the sequence is unclear and some steps are buried inside other sentences.
 
@@ -128,7 +128,7 @@ Reorganise the information into a clearly numbered, logically sequenced procedur
 
 ### E. Freer Writing
 
-#### E1. Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a complete internal or interagency procedure of **180–220 words**. Your procedure must include:
 
@@ -148,7 +148,7 @@ Choose one situation:
 
 ### F. Review & Self-Edit
 
-#### F1. Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your procedure with a partner. Using the questions below, provide written feedback on their work.
 
@@ -157,7 +157,7 @@ Exchange your procedure with a partner. Using the questions below, provide writt
 3. Is the sequence logical? Would a new staff member be able to follow this without asking questions?
 4. Are there any vague verbs that should be replaced with more precise ones?
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check your procedure against the following:
 
@@ -172,7 +172,7 @@ Before submitting, check your procedure against the following:
 
 ### G. Editing
 
-#### G2. Editing Workshop — Paragraph-Level
+#### Editing Workshop — Paragraph-Level (G2)
 
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
@@ -192,7 +192,7 @@ Write your revised version as a numbered procedure with step labels.
 
 ### H. Homework
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **200–230 word** procedure for an internal or interagency audience. Your procedure must include:
 
@@ -208,7 +208,7 @@ Choose one situation:
 2. Two offices are conducting a joint review of a file, and your team needs a shared procedure covering document receipt, responsibility checks, follow-up on missing items, and final confirmation.
 3. A submission arrives after the official deadline, but the office must still determine whether it can be accepted under an exception. Write a procedure for the receiving team.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -234,7 +234,7 @@ This unit develops learners' ability to write clear, well-structured messages th
 
 ### A. Opening & Activation
 
-#### A4. Prediction Task
+#### Prediction Task (A4)
 
 Read the following scenario. Before turning to the model text, write down five elements you would expect a well-written change management notice to include.
 
@@ -262,7 +262,7 @@ After reading the model, return to your list and answer:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Incomplete and Unclear)**
 
@@ -279,7 +279,7 @@ After reading the model, return to your list and answer:
 - instructions for required actions
 - tone and reassurance
 
-#### B4. Annotated Model
+#### Annotated Model (B4)
 
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
 
@@ -295,7 +295,7 @@ Re-read the improved version. The annotations below explain the purpose of speci
 
 ### C. Language Focus
 
-#### C3. Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each sentence using a more formal and informative structure. The target language is given in brackets.
 
@@ -305,7 +305,7 @@ Rewrite each sentence using a more formal and informative structure. The target 
 4. *The process is longer.* [Explain the change and give a reason]
 5. *Use the new version from now on.* [Write a polite instruction with appropriate register]
 
-#### C7. Expansion Task
+#### Expansion Task (C7)
 
 Each sentence below is a bare statement of fact. Expand each one into 2–3 sentences by adding the missing elements indicated in brackets.
 
@@ -318,7 +318,7 @@ Each sentence below is a bare statement of fact. Expand each one into 2–3 sent
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original unclear message from Section B. Your version must include:
 
@@ -328,7 +328,7 @@ Rewrite the original unclear message from Section B. Your version must include:
 - polite but clear instructions for required action
 - an offer of support
 
-#### D3. Template-Guided Writing
+#### Template-Guided Writing (D3)
 
 Use the template below to draft a change management notice for one of the scenarios that follow.
 
@@ -358,7 +358,7 @@ Choose one situation:
 
 ### E. Freer Writing
 
-#### E1. Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a complete change management notice of **200–230 words**. Your notice must include:
 
@@ -378,7 +378,7 @@ Choose one situation:
 
 ### F. Review & Self-Edit
 
-#### F1. Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your change management notice with a partner and answer the following questions in writing:
 
@@ -387,7 +387,7 @@ Exchange your change management notice with a partner and answer the following q
 3. Are required actions easy to identify and follow?
 4. Does the tone feel appropriate for the intended audience — neither too informal nor unnecessarily bureaucratic?
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check your notice against the following:
 
@@ -402,7 +402,7 @@ Before submitting, check your notice against the following:
 
 ### G. Editing
 
-#### G2. Editing Workshop — Paragraph-Level
+#### Editing Workshop — Paragraph-Level (G2)
 
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
@@ -423,7 +423,7 @@ Write your full revised version as a coherent change management notice.
 
 ### H. Homework
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **200–230 word** change management notice for an internal or interagency audience. Your notice must include:
 
@@ -440,7 +440,7 @@ Choose one situation:
 2. Your office has introduced a new format for internal reports. The previous format will be withdrawn, and all teams must begin using the updated version from the start of the next reporting cycle.
 3. A new approval requirement has been introduced for outgoing correspondence to foreign offices. Messages must now be copied to the coordinating unit before they are sent, and staff need to be informed before the rule takes effect.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -466,7 +466,7 @@ This unit develops learners' ability to explain multi-factor issues clearly and 
 
 ### A. Opening & Activation
 
-#### A2. Problem Identification
+#### Problem Identification (A2)
 
 Read the following explanation.
 
@@ -483,7 +483,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Vague and Overgeneralised)**
 
@@ -500,7 +500,7 @@ Answer the following questions:
 - tone and neutrality
 - the clarity of the next-step statement
 
-#### B2. Noticing Task
+#### Noticing Task (B2)
 
 Highlight or underline the following features in the improved version:
 
@@ -516,7 +516,7 @@ Highlight or underline the following features in the improved version:
 
 ### C. Language Focus
 
-#### C2. Classification / Matching
+#### Classification / Matching (C2)
 
 Match each sentence (1–6) to its function in a complex explanation (A–D). Some functions may be used more than once.
 
@@ -534,7 +534,7 @@ Match each sentence (1–6) to its function in a complex explanation (A–D). So
 5. *A second challenge concerns the incomplete submission received from Office B.*
 6. *Once these points are resolved, we will be in a position to proceed with the final assessment.*
 
-#### C3. Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each vague sentence as a clear, professionally phrased statement. Add the missing information indicated in brackets.
 
@@ -548,7 +548,7 @@ Rewrite each vague sentence as a clear, professionally phrased statement. Add th
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original vague explanation from Section B. Your version must include:
 
@@ -558,7 +558,7 @@ Rewrite the original vague explanation from Section B. Your version must include
 - an impact statement
 - a next-step conclusion
 
-#### D2. Scenario-Based Writing
+#### Scenario-Based Writing (D2)
 
 Write a structured explanation of **100–130 words**. Your explanation must include:
 
@@ -577,7 +577,7 @@ Choose one situation:
 
 ### E. Freer Writing
 
-#### E2. Constrained Free Write
+#### Constrained Free Write (E2)
 
 Write a complete explanation of **180–210 words**.
 
@@ -595,7 +595,7 @@ Choose one situation:
 
 ### F. Review & Self-Edit
 
-#### F1. Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your explanation with a partner and answer the following questions in writing:
 
@@ -604,7 +604,7 @@ Exchange your explanation with a partner and answer the following questions in w
 3. Is the explanation logically structured? Could the reader act on this information?
 4. Is the tone neutral and professional throughout — no evaluative language, no implied blame?
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check your explanation against the following:
 
@@ -619,7 +619,7 @@ Before submitting, check your explanation against the following:
 
 ### G. Editing
 
-#### G1. Editing Exercise
+#### Editing Exercise (G1)
 
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
@@ -636,7 +636,7 @@ Your revised version must:
 
 ### H. Homework
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
 
@@ -653,7 +653,7 @@ Choose one situation:
 2. Two versions of an interagency guideline are currently in circulation, and the differences between them have caused confusion across several teams. You need to explain the issue and its operational effect to the coordinating unit.
 3. A backlog has developed because of a combination of staffing shortages, unclear instructions, and repeated follow-up on incomplete submissions. Your office has been asked to explain the situation in writing for an internal review note.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -679,7 +679,7 @@ This unit develops learners' ability to write clear, concise, and accurate execu
 
 ### A. Opening & Activation
 
-#### A2. Problem Identification
+#### Problem Identification (A2)
 
 Read the following meeting summary.
 
@@ -695,7 +695,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original (Incomplete and Unstructured)**
 
@@ -726,7 +726,7 @@ Answer the following questions:
 - clarity of decisions and responsibilities
 - usefulness for a manager who did not attend
 
-#### B7. Data Interpretation Input
+#### Data Interpretation Input (B7)
 
 The table below shows attendance and submission status from a recent interagency working group meeting. Study the data, then complete the task that follows.
 
@@ -747,7 +747,7 @@ Write in formal, complete sentences.
 
 ### C. Language Focus
 
-#### C3. Sentence Rewriting
+#### Sentence Rewriting (C3)
 
 Rewrite each informal or subjective sentence as a neutral, formal summary statement.
 
@@ -757,7 +757,7 @@ Rewrite each informal or subjective sentence as a neutral, formal summary statem
 4. *People weren't happy about the lack of communication from the coordinating office.*
 5. *We decided to check things again next week.*
 
-#### C5. Paragraph-Level Transformation
+#### Paragraph-Level Transformation (C5)
 
 The paragraph below is written as a narrative account. Rewrite it as a structured executive summary using the four standard sections: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -769,7 +769,7 @@ Do not add information that is not in the original — focus on reorganising and
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original incomplete summary from Section B as a full executive-level summary. Use the four-section structure: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -779,7 +779,7 @@ Your rewrite should include:
 - specific, attributed action items with deadlines
 - a brief next steps statement
 
-#### D7. Format Conversion
+#### Format Conversion (D7)
 
 The following notes were taken during an interagency meeting. They are written informally and without structure. Convert them into a professionally formatted executive-level meeting summary using the standard four sections.
 
@@ -809,7 +809,7 @@ Write the converted summary using formal, complete sentences. Attribute action i
 
 ### E. Freer Writing
 
-#### E1. Scenario-Based Free Write
+#### Scenario-Based Free Write (E1)
 
 Write a complete executive-level meeting summary of **200–230 words**. Your summary must include:
 
@@ -830,7 +830,7 @@ Choose one situation:
 
 ### F. Review & Self-Edit
 
-#### F1. Guided Peer Review
+#### Guided Peer Review (F1)
 
 Exchange your summary with a partner and answer the following questions in writing:
 
@@ -839,7 +839,7 @@ Exchange your summary with a partner and answer the following questions in writi
 3. Are all action items specific and attributed? Is it clear who must do what, and by when?
 4. Is there any subjective or informal language that should be replaced?
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check your summary against the following:
 
@@ -854,7 +854,7 @@ Before submitting, check your summary against the following:
 
 ### G. Editing
 
-#### G2. Editing Workshop — Paragraph-Level
+#### Editing Workshop — Paragraph-Level (G2)
 
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
@@ -874,7 +874,7 @@ Write your revised version as a complete, properly formatted executive summary.
 
 ### H. Homework
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **200–230 word** executive-level summary of a high-level meeting. Your summary must include:
 
@@ -892,7 +892,7 @@ Choose one situation:
 3. A coordination meeting was held to address a processing backlog affecting multiple offices. Some causes were identified, responsibilities were assigned, and further updates are required before the next review point.
 4. *(JPO context)* A high-level international IP meeting was held involving the JPO, USPTO, and EPO to review progress on a procedural harmonisation issue. Your summary should record the main discussion points, assigned actions, and next steps in a formal executive-summary format.
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
