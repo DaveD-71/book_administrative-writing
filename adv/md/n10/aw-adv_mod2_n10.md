@@ -49,10 +49,15 @@ Compare the two versions. Identify differences in:
 - clarity and sequencing of requests
 - tone and level of formality
 - how each version supports the reader
+> **Why this works:** The improved version helps the reader act efficiently because each part of the email has a clear job. Context, purpose, explanation, request, and next step are separated, so the reader can understand what matters and what action is needed without reconstructing the logic.
+
 
 ---
 
 #### B3. Structural Deconstruction ★
+
+High-level email structure is not just a format rule. Each section supports the reader in a different way: orienting them, explaining why the message matters, stating what action is needed, and making clear what will happen next.
+
 
 Read the improved email again. Without using the labels below, divide the text into functional sections and write a brief label for each part.
 
@@ -63,6 +68,9 @@ Once you have labelled the sections yourself, compare your labels with a partner
 ### C. Language Focus
 
 #### 1. Structural Building Blocks
+
+A strong professional email is organised around reader needs, not simply around the order in which the writer thought of the points. The structure below helps the reader move from context to action with minimal confusion.
+
 
 High-level professional emails typically follow this sequence:
 
@@ -93,6 +101,13 @@ High-level professional emails typically follow this sequence:
 
 **Next Steps**
 - *Once we receive the updated file, we will…*
+
+**Worked example:**
+
+*Thank you for your message regarding the revised file. We are writing to confirm whether the version received includes the latest terminology updates. Our team noted two terms that may differ from the version currently on record. We would appreciate it if you could confirm which version should be treated as final. Once confirmed, we will update our internal records and proceed with the review.*
+
+Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
+
 - *We plan to proceed with…*
 
 ---
@@ -139,6 +154,9 @@ Rewrite the original (informal) model email as a structured, diplomatic version.
 #### D3. Template-Guided Writing ★
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
+
+> **Transfer reminder:** Treat the template as a sequence of communicative jobs, not as a rigid formula. Each section should help the reader understand why you are writing, what you need, and what happens next.
+
 
 **Template:**
 
@@ -307,6 +325,8 @@ Identify differences in:
 - structure and sequencing
 - tone and diplomatic phrasing
 - reader support
+> **Why this works:** The improved version is easier to answer because each question is anchored to a specific place in the document and asks for one clear piece of clarification. The reader does not have to guess what is unclear or what kind of answer is needed.
+
 
 ---
 
@@ -326,6 +346,9 @@ Discuss: Why are specific references essential in administrative communication, 
 ### C. Language Focus
 
 #### 1. Useful Phrases for Precise Clarification
+
+Precision in clarification writing means reducing the reader's interpretive work. A strong clarification request identifies the exact point in question, limits the scope of each query, and makes clear why the clarification is needed.
+
 
 **Introducing clarification**
 - *For our confirmation, we would appreciate clarification on…*
@@ -365,6 +388,9 @@ Clear multi-part clarification requests typically follow this structure:
 3. **Document references** — point to the relevant section, term, or annex
 4. **Next step** — state what you will do once clarification is received
 
+When several questions appear in one message, the writer should still make each question answerable on its own. A useful sequence moves from context, to clearly separated points, to the action your office will take once the reply is received.
+
+
 ---
 
 #### Practice B — Phrase Bank Building (C8) ★
@@ -382,6 +408,10 @@ The phrases below are drawn from this unit's model text and language focus. Orga
 |   |   |
 
 Keep this phrase bank for reference throughout the module.
+
+**Worked example:**
+
+*For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term 
 
 ---
 
@@ -410,6 +440,9 @@ Using the scenario below, write two versions of the same clarification request.
 
 After writing both versions, compare:
 
+> **Transfer reminder:** Precision should stay constant across both versions. What changes is the level of diplomatic framing and the amount of background support the reader needs.
+
+
 - level of formality and softening
 - how references are introduced
 - the closing tone in each version
@@ -425,6 +458,9 @@ Write a clarification request of **190–220 words**. Your message must include:
 - a professional opening that establishes context
 - at least three structured clarification points, each with a specific document reference
 - diplomatic softening throughout
+
+> **Role reminder:** In a role-based clarification request, the relationship between writer and reader shapes how much background context, explicitness, and softening are needed. Your role should influence the phrasing, not the factual precision of the questions.
+
 - a next-step statement explaining what your office will do once clarification is received
 
 Choose one scenario:
@@ -561,6 +597,8 @@ Compare the two versions. Identify improvements in:
 - clarity of the issue
 - specific referencing
 - reader support
+> **Why this works:** The improved version identifies the problem without accusing the reader. It separates the issue itself, the evidence for noticing it, the shared goal behind the request, and the action needed next, which helps keep the exchange cooperative.
+
 - next-step logic
 
 ---
@@ -589,6 +627,9 @@ Read the improved version again with the annotations below. For each annotation,
 ### C. Language Focus
 
 #### 1. Diplomatic Frames for Highlighting Errors
+
+In diplomatic error notification, the writer's job is to make the issue visible without making the reader defensive. This usually means depersonalising the problem, signalling uncertainty where appropriate, and shifting attention toward correction and next steps.
+
 
 Use these openings to introduce an issue without assigning blame:
 
@@ -621,6 +662,9 @@ Show why the correction is needed using neutral, purpose-oriented language.
 - *This may affect how the next stage is processed…*
 - *In order to proceed with the timeline…*
 
+A neutral impact statement explains why the correction matters without presenting the reader as the cause of the problem. This keeps the message focused on resolution rather than blame.
+
+
 ---
 
 #### Practice B — Error Identification & Correction (C4) ★
@@ -633,6 +677,15 @@ Each sentence below contains one problem — either a tone issue, a missing refe
 4. *There is an inconsistency in the document and you need to fix it immediately.*
 5. *Your explanation in Section 2 is wrong.*
 6. *Please correct all of the errors before we can continue.*
+
+**Worked example:**
+
+*Direct:* *You used the wrong date in Section 3, and this has delayed our work.*
+
+*Diplomatic:* *Upon review, it appears that the date in Section 3 may differ from the revised timeline circulated on 12 July. To ensure consistency in the next stage of processing, we would appreciate your confirmation of the correct date.*
+
+The revised version removes accusation, adds a specific reference, and explains the impact in neutral terms.
+
 
 ---
 
@@ -659,6 +712,9 @@ Choose one scenario and write a diplomatic error-notification message of 5–7 s
 3. A colleague in another department forwarded an incorrect version of a procedural form to an applicant. The applicant has already begun completing it.
 
 Your message must include: a neutral identification of the issue, an impact statement, a specific reference, a polite correction request, and a next step.
+
+> **Transfer reminder:** Keep these functions separate in your draft: identify the issue, explain its impact, request the correction, and state the next step. When these functions are combined too heavily, the message often starts to sound blaming or unclear.
+
 
 ---
 
@@ -815,6 +871,8 @@ Identify differences in:
 - clarity of each individual action
 - how dependency between requests is communicated
 - tone and reader support
+> **Why this works:** The improved version reduces confusion by showing the reader which action comes first, which action depends on that first answer, and why the sequence matters. Priority and dependency are stated explicitly instead of being left for the reader to infer.
+
 
 ---
 
@@ -835,6 +893,9 @@ Discuss: Why does making dependency explicit reduce the risk of misunderstanding
 ### C. Language Focus
 
 #### 1. Sequencing and Prioritising Requests
+
+When a message contains several requests, order is part of the meaning. The sequence tells the reader what matters most, what can wait, and which actions depend on earlier confirmation.
+
 
 Use these phrases to establish a clear order:
 
@@ -871,6 +932,15 @@ Rewrite the paragraph as a structured, diplomatically phrased request. Your vers
 - use diplomatic phrasing throughout
 - maintain the same factual content
 
+**Worked example:**
+
+*Unsequenced:* *Please confirm the date, review the terminology, and send the updated file.*
+
+*Sequenced:* *As a first step, could you confirm whether the date in Section 2 should match the revision issued on 3 August? Once this point is confirmed, we would appreciate your review of the terminology used in the attached translation. Finally, if an updated file is available, kindly share it so that we can complete the review accurately.*
+
+The second version is easier to follow because the order, dependency, and reason for the sequence are made explicit.
+
+
 ---
 
 ### D. Guided Writing
@@ -895,6 +965,9 @@ Choose one scenario and write a structured multi-part request of 6–8 sentences
 2. An international office must confirm whether a previous procedural instruction remains valid *before* your team can finalise a joint document. If the instruction has changed, you will also need the updated version.
 
 Your message must include: a rationale, a clearly sequenced set of requests, dependency markers, diplomatic phrasing, and a next-step statement.
+
+> **Transfer reminder:** Do not just add sequence markers mechanically. Use them to show the reader which action unlocks the next stage and why that order matters.
+
 
 ---
 
