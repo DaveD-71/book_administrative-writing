@@ -238,12 +238,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of how the stronger version supports an external reader who lacks internal background. | Not started | Not yet checked | Not yet checked |
-| B3 Structural Deconstruction | add `A` framing explaining why external inquiries require more explicit reader orientation than internal messages. | Not started | Not yet checked | Not yet checked |
-| C1 Providing Background Context | add `A` conceptual framing on what context should do: orient the reader without overloading them. | Not started | Not yet checked | Not yet checked |
-| C2 Asking Clear, Answerable Questions | add `B` explanation distinguishing answerable inquiry questions from broad topic prompts. | Not started | Not yet checked | Not yet checked |
-| Phrase Bank Building (C8) | add `C` worked mini-inquiry showing context paragraph + targeted questions. | Not started | Not yet checked | Not yet checked |
-| D4 Two-Audience Version Task | add `E` cue showing how reader relationship changes explicitness. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of how the stronger version supports an external reader who lacks internal background. | Reviewed - pass | Yes | Yes |
+| B3 Structural Deconstruction | add `A` framing explaining why external inquiries require more explicit reader orientation than internal messages. | Reviewed - pass | Yes | Yes |
+| C1 Providing Background Context | add `A` conceptual framing on what context should do: orient the reader without overloading them. | Reviewed - pass | Yes | Yes |
+| C2 Asking Clear, Answerable Questions | add `B` explanation distinguishing answerable inquiry questions from broad topic prompts. | Reviewed - pass | Yes | Yes |
+| Phrase Bank Building (C8) | add `C` worked mini-inquiry showing context paragraph + targeted questions. | Reviewed - pass | Yes | Yes |
+| D4 Two-Audience Version Task | add `E` cue showing how reader relationship changes explicitness. | Reviewed - pass | Yes | Yes |
 
 ### Unit 13 — Risk and Impact Assessment
 
@@ -253,12 +253,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of how the revised text separates evidence, risk, impact, and mitigation. | Not started | Not yet checked | Not yet checked |
-| B7 Data Interpretation Input | add `A` framing explaining how to move from data to risk language without overstating certainty. | Not started | Not yet checked | Not yet checked |
-| C1 Describing Risk | add `A` conceptual framing on probability, uncertainty, and evidence. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting | add `B` explanation distinguishing factual status statements from projected risk statements. | Not started | Not yet checked | Not yet checked |
-| C2 Explaining Impact and Proposing Mitigation | add `C` worked example showing issue → possible impact → mitigation sequence. | Not started | Not yet checked | Not yet checked |
-| D2 Scenario-Based Risk Assessment | add `E` cue telling learners to keep evidence, impact, and response distinct. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of how the revised text separates evidence, risk, impact, and mitigation. | Reviewed - pass | Yes | Yes |
+| B7 Data Interpretation Input | add `A` framing explaining how to move from data to risk language without overstating certainty. | Reviewed - pass | Yes | Yes |
+| C1 Describing Risk | add `A` conceptual framing on probability, uncertainty, and evidence. | Reviewed - pass | Yes | Yes |
+| C3 Sentence Rewriting | add `B` explanation distinguishing factual status statements from projected risk statements. | Reviewed - pass | Yes | Yes |
+| C2 Explaining Impact and Proposing Mitigation | add `C` worked example showing issue → possible impact → mitigation sequence. | Reviewed - pass | Yes | Yes |
+| D2 Scenario-Based Risk Assessment | add `E` cue telling learners to keep evidence, impact, and response distinct. | Reviewed - pass | Yes | Yes |
 
 ### Unit 14 — Adapting Messages for Different Audiences
 
@@ -268,12 +268,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of what changes across audiences and what core content must remain stable. | Not started | Not yet checked | Not yet checked |
-| B4 Annotated Model | add one extra comment clarifying layered explanation for specialist vs non-specialist readers. | Not started | Not yet checked | Not yet checked |
-| C1 Audience Signals and Layered Explanation | add `A` framing explaining audience signals as cues about assumed knowledge. | Not started | Not yet checked | Not yet checked |
-| C2 Avoiding Assumed Knowledge | add `B` explanation distinguishing simplification from reader-aware explanation. | Not started | Not yet checked | Not yet checked |
-| C2 Paragraph-Level Transformation | add `C` worked example showing one message adapted for a less informed reader. | Not started | Not yet checked | Not yet checked |
-| D4 Two-Audience Version Task | add `E` cue reminding learners to preserve content while changing explanation density. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of what changes across audiences and what core content must remain stable. | Reviewed - pass | Yes | Yes |
+| B4 Annotated Model | add one extra comment clarifying layered explanation for specialist vs non-specialist readers. | Reviewed - pass | Yes | Yes |
+| C1 Audience Signals and Layered Explanation | add `A` framing explaining audience signals as cues about assumed knowledge. | Reviewed - pass | Yes | Yes |
+| C2 Avoiding Assumed Knowledge | add `B` explanation distinguishing simplification from reader-aware explanation. | Reviewed - pass | Yes | Yes |
+| C5 Paragraph-Level Transformation | add `C` worked example showing one message adapted for a less informed reader. | Reviewed - pass | Yes | Yes |
+| D4 Two-Audience Version Task | add `E` cue reminding learners to preserve content while changing explanation density. | Reviewed - pass | Yes | Yes |
 
 ### Unit 15 — Policy-Based Rationales
 
@@ -283,11 +283,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why the improved rationale is more persuasive: it connects policy, decision, and benefit. | Not started | Not yet checked | Not yet checked |
-| B6 Reading-to-Write Input | add `A` framing explaining that policy references support reasoning only when linked explicitly to the current decision. | Not started | Not yet checked | Not yet checked |
-| C1 Referencing Policy or Guidelines | add `B` explanation distinguishing name-dropping a policy from using it as reasoning support. | Not started | Not yet checked | Not yet checked |
-| C2 Building the Rationale: Reasoning and Benefits | add `C` worked example showing policy reference → reason → expected benefit. | Not started | Not yet checked | Not yet checked |
-| D3 Template-Guided Writing | add `E` cue prompting learners to treat the template as logic, not fill-in language only. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why the improved rationale is more persuasive: it connects policy, decision, and benefit. | Reviewed - pass | Yes | Yes |
+| B6 Reading-to-Write Input | add `A` framing explaining that policy references support reasoning only when linked explicitly to the current decision. | Reviewed - pass | Yes | Yes |
+| C3 Referencing Policy or Guidelines | add `B` explanation distinguishing name-dropping a policy from using it as reasoning support. | Reviewed - pass | Yes | Yes |
+| C7 Building the Rationale: Reasoning and Benefits | add `C` worked example showing policy reference → reason → expected benefit. | Reviewed - pass | Yes | Yes |
+| D3 Template-Guided Writing | add `E` cue prompting learners to treat the template as logic, not fill-in language only. | Reviewed - pass | Yes | Yes |
 
 ---
 
