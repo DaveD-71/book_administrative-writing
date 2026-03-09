@@ -1,7 +1,3 @@
-# MODULE 5. Advanced Editing & Revision Skills
-
----
-
 ## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
 
 *Homework target: ~250 words*

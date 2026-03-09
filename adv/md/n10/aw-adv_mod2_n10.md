@@ -1,7 +1,3 @@
-# MODULE 2 — Professional Email Writing for Interagency Contexts
-
----
-
 ## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
 
 *Homework target: ~200 words*

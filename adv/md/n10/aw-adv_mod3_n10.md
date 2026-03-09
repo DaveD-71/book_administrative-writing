@@ -1,7 +1,3 @@
-# MODULE 3. Writing Complex Procedures & Internal Explanations
-
----
-
 ## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
 
 *Homework target: ~200 words*

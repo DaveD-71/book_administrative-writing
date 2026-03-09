@@ -1,7 +1,3 @@
-# MODULE 4. Cross-Border & Interagency Communication
-
----
-
 ## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
 
 *Homework target: ~250 words*

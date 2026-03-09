@@ -1,7 +1,3 @@
-# MODULE 1 — Advanced Foundations for Administrative Writing
-
----
-
 ## Module 1 — Advanced Foundations for Administrative Writing (Units 1–3)
 
 *Homework target: ~150 words*
