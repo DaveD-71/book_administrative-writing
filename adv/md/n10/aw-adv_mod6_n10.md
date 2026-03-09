@@ -1,6 +1,6 @@
 ## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
 
-*Homework target: ~300–350 words*
+*Homework target: ~280–350 words, with the longest tasks in Units 22–23*
 
 ### Module Introduction
 
