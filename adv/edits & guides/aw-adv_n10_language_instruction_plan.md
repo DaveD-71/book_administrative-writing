@@ -121,7 +121,7 @@ Use the tables below as the tracking control for `N10`.
 | B1 Compare Two Versions | Add `D` explanation of how structure improves actionability, response speed, and reader orientation. | Reviewed - pass | Yes | Yes |
 | B3 Structural Deconstruction | Add a short `A` frame explaining functional sections as reader-support tools, not formula for its own sake. | Reviewed - pass | Yes | Yes |
 | C1 Structural Building Blocks | Add `A` framing explaining what each block does for the reader. | Reviewed - pass | Yes | Yes |
-| Useful Phrases | Add `C` one worked email excerpt showing how opening, purpose, explanation, request, and next step combine in sequence. | Added - cleanup needed | No | No |
+| Useful Phrases | Add `C` one worked email excerpt showing how opening, purpose, explanation, request, and next step combine in sequence. | Reviewed - pass | Yes | Yes |
 | D3 Template-Guided Writing | Add `E` cue linking each template part to its communicative job. | Reviewed - pass | Yes | Yes |
 
 ### Unit 5 — Clarification Requests
@@ -135,7 +135,7 @@ Use the tables below as the tracking control for `N10`.
 | B1 Compare Two Versions | Add `D` explanation of why the revised request is easier to answer accurately. | Reviewed - pass | Yes | Yes |
 | C1 Useful Phrases for Precise Clarification | Add `A` framing explaining what makes a clarification request precise rather than merely polite. | Reviewed - pass | Yes | Yes |
 | C2 Structuring Multi-Part Questions | Add `B` explanation distinguishing a bundle of vague questions from a sequenced, answerable request set. | Reviewed - pass | Yes | Yes |
-| Phrase Bank Building (C8) | Add `C` worked example showing how reference, question focus, and sequencing operate together in one message. | Added - cleanup needed | No | No |
+| Phrase Bank Building (C8) | Add `C` worked example showing how reference, question focus, and sequencing operate together in one message. | Reviewed - pass | Yes | Yes |
 | D4 Two-Audience Version Task | Add `E` cue reminding learners that precision survives, even when audience tone changes. | Reviewed - pass | Yes | Yes |
 | E3 Role-Based Writing Task | Add a short `E` cue reminding learners that the role relationship affects phrasing, level of explicitness, and how much background context is needed. | Reviewed - pass | Yes | Yes |
 
@@ -148,7 +148,7 @@ Use the tables below as the tracking control for `N10`.
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
 | B1 Compare Two Versions | Add `D` explanation of how the revised version acknowledges the issue without escalating tension. | Reviewed - pass | Yes | Yes |
-| B4 Annotated Model | Expand with one extra comment explaining the logic of separating error description, impact, and requested next step; use this as the unit’s main worked-example support. | Not started | Not yet checked | Not yet checked |
+| B4 Annotated Model | Expand with one extra comment explaining the logic of separating error description, impact, and requested next step; use this as the unit’s main worked-example support. | Reviewed - pass | Yes | Yes |
 | C1 Diplomatic Frames for Highlighting Errors | Add `A` framing explaining why writers depersonalise the problem. | Reviewed - pass | Yes | Yes |
 | C2 Explaining Impact without Assigning Blame | Add `B` explanation distinguishing consequence language from blame language. | Reviewed - pass | Yes | Yes |
 | D2 Scenario Writing | Add `E` cue telling learners to describe the problem, its impact, and the needed action as separate functions. | Reviewed - pass | Yes | Yes |
@@ -178,11 +178,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why consistent instruction structure reduces reader error. | Not started | Not yet checked | Not yet checked |
-| C1 Sequencing / Ordering Task | add `A` framing explaining how procedural readers rely on predictable order and signalling. | Not started | Not yet checked | Not yet checked |
-| C2 Sentence Rewriting | add `B` explanation distinguishing procedural instruction from general explanatory prose. | Not started | Not yet checked | Not yet checked |
-| C2 Sentence Rewriting | add `C` worked example showing how an ambiguous or uneven instruction sequence is rewritten into a clear procedural sequence. | Not started | Not yet checked | Not yet checked |
-| D5 Information Reorganisation | add `E` cue reminding learners to keep action order and instruction form consistent. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why consistent instruction structure reduces reader error. | Added - review needed | Not yet checked | Not yet checked |
+| C1 Sequencing / Ordering Task | add `A` framing explaining how procedural readers rely on predictable order and signalling. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Sentence Rewriting | add `B` explanation distinguishing procedural instruction from general explanatory prose. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Sentence Rewriting | add `C` worked example showing how an ambiguous or uneven instruction sequence is rewritten into a clear procedural sequence. | Added - review needed | Not yet checked | Not yet checked |
+| D5 Information Reorganisation | add `E` cue reminding learners to keep action order and instruction form consistent. | Added - review needed | Not yet checked | Not yet checked |
 
 ### Unit 9 — Change Communication
 
@@ -192,11 +192,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of how the revised message manages reader concern while still communicating change clearly. | Not started | Not yet checked | Not yet checked |
-| B4 Annotated Model | add one extra comment clarifying how reassurance works without sounding vague. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting | add `A` framing explaining the communicative functions in change messages: state change, explain impact, reassure. | Not started | Not yet checked | Not yet checked |
-| C2 Expansion Task | add `C` worked example showing how a bare announcement becomes a fuller reader-oriented message. | Not started | Not yet checked | Not yet checked |
-| D3 Template-Guided Writing | add `E` cue telling learners to preserve empathy and clarity together. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of how the revised message manages reader concern while still communicating change clearly. | Added - review needed | Not yet checked | Not yet checked |
+| B4 Annotated Model | add one extra comment clarifying how reassurance works without sounding vague. | Added - review needed | Not yet checked | Not yet checked |
+| C1 Sentence Rewriting | add `A` framing explaining the communicative functions in change messages: state change, explain impact, reassure. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Expansion Task | add `C` worked example showing how a bare announcement becomes a fuller reader-oriented message. | Added - review needed | Not yet checked | Not yet checked |
+| D3 Template-Guided Writing | add `E` cue telling learners to preserve empathy and clarity together. | Added - review needed | Not yet checked | Not yet checked |
 
 ### Unit 10 — Breaking Down Complex Issues
 
@@ -206,11 +206,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why the revised version is easier for a non-specialist to process. | Not started | Not yet checked | Not yet checked |
-| C1 Classification / Matching | add `A` framing explaining that accessible explanation means controlling information load, not deleting content. | Not started | Not yet checked | Not yet checked |
-| C2 Sentence Rewriting | add `B` explanation distinguishing simplification from oversimplification. | Not started | Not yet checked | Not yet checked |
-| C2 Sentence Rewriting | add `C` worked example showing how one dense sentence is broken into a clearer explanation without losing necessary meaning. | Not started | Not yet checked | Not yet checked |
-| E2 Constrained Free Write | add `E` cue linking the language principle to the writing constraint so the task feels purposeful, not arbitrary. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why the revised version is easier for a non-specialist to process. | Added - review needed | Not yet checked | Not yet checked |
+| C1 Classification / Matching | add `A` framing explaining that accessible explanation means controlling information load, not deleting content. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Sentence Rewriting | add `B` explanation distinguishing simplification from oversimplification. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Sentence Rewriting | add `C` worked example showing how one dense sentence is broken into a clearer explanation without losing necessary meaning. | Added - review needed | Not yet checked | Not yet checked |
+| E2 Constrained Free Write | add `E` cue linking the language principle to the writing constraint so the task feels purposeful, not arbitrary. | Added - review needed | Not yet checked | Not yet checked |
 
 ### Unit 11 — Executive Summaries from Meeting Content
 
@@ -220,11 +220,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why executive summaries group decisions, actions, and next steps rather than retell discussion. | Not started | Not yet checked | Not yet checked |
-| B7 Data Interpretation Input | add `A` framing explaining how writers convert raw meeting/status data into management-ready summary language. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting | add `B` explanation distinguishing action-focused summary wording from meeting-minute wording. | Not started | Not yet checked | Not yet checked |
-| C2 Paragraph-Level Transformation | add `C` worked example showing how notes become a concise executive-summary paragraph. | Not started | Not yet checked | Not yet checked |
-| D7 Format Conversion | add `E` cue reminding learners to group by action and significance, not chronology. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why executive summaries group decisions, actions, and next steps rather than retell discussion. | Added - review needed | Not yet checked | Not yet checked |
+| B7 Data Interpretation Input | add `A` framing explaining how writers convert raw meeting/status data into management-ready summary language. | Added - review needed | Not yet checked | Not yet checked |
+| C1 Sentence Rewriting | add `B` explanation distinguishing action-focused summary wording from meeting-minute wording. | Added - review needed | Not yet checked | Not yet checked |
+| C2 Paragraph-Level Transformation | add `C` worked example showing how notes become a concise executive-summary paragraph. | Added - review needed | Not yet checked | Not yet checked |
+| D7 Format Conversion | add `E` cue reminding learners to group by action and significance, not chronology. | Added - review needed | Not yet checked | Not yet checked |
 
 ---
 

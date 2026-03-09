@@ -101,14 +101,13 @@ High-level professional emails typically follow this sequence:
 
 **Next Steps**
 - *Once we receive the updated file, we will…*
+- *We plan to proceed with…*
 
 **Worked example:**
 
 *Thank you for your message regarding the revised file. We are writing to confirm whether the version received includes the latest terminology updates. Our team noted two terms that may differ from the version currently on record. We would appreciate it if you could confirm which version should be treated as final. Once confirmed, we will update our internal records and proceed with the review.*
 
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
-
-- *We plan to proceed with…*
 
 ---
 
@@ -411,7 +410,9 @@ Keep this phrase bank for reference throughout the module.
 
 **Worked example:**
 
-*For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term 
+*For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.*
+
+This example works because each question is tied to a specific reference, each point asks for one answerable clarification, and the next step shows why the reply matters.
 
 ---
 
@@ -618,6 +619,9 @@ Read the improved version again with the annotations below. For each annotation,
 
 > *"For consistency, we would appreciate it if you could confirm…"*
 > **[Annotation: The request is framed around a shared professional goal ("consistency") rather than a personal demand — this shifts the focus from fault to resolution.]**
+
+> *"…that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm…"*
+> **[Annotation: The message keeps three functions separate: it identifies the issue first, then signals why the difference matters, and only then asks for action. This separation makes the request easier to process and keeps the tone non-blaming.]**
 
 > *"Once clarified, we will be able to proceed…"*
 > **[Annotation: The next-step statement shows that the writer is ready to act — it frames the request as a necessary step, not a complaint.]**
