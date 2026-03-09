@@ -2,6 +2,20 @@
 
 ---
 
+## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
+
+*Homework target: ~200 words*
+
+### Module Introduction
+
+Module 2 moves from the foundational sentence and paragraph skills of Module 1 to the production of complete professional documents — specifically, high-level emails in interagency and international administrative contexts. Where Module 1 focused on how to construct and connect language at the sentence level, Module 2 focuses on what that language is for: communicating purposefully with colleagues, counterparts, and partners across offices, agencies, and borders.
+
+The four units address a progressively demanding set of email writing challenges. Unit 4 establishes the structural logic of professional emails — how to organise multi-part content so that readers can understand, act on, and respond to a message efficiently. Unit 5 deepens this by focusing on precision: the ability to ask specific, well-referenced questions and structure clarification requests that reduce back-and-forth. Unit 6 addresses one of the most diplomatically sensitive email writing tasks — communicating errors and discrepancies without assigning blame or escalating tension. Unit 7 extends the multi-part writing challenge further by introducing sequencing and dependency logic: the ability to manage requests that must be completed in a specific order.
+
+Together, these units develop the communicative repertoire that professional administrative writers need for day-to-day correspondence at agency level. By the end of Module 2, learners should be able to produce well-structured, diplomatically appropriate emails across a range of common professional scenarios.
+
+---
+
 ## Unit 4 — Structuring High-Level Emails
 
 ### Unit Overview

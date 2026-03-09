@@ -2,6 +2,20 @@
 
 ---
 
+## Module 1 — Advanced Foundations for Administrative Writing (Units 1–3)
+
+*Homework target: ~150 words*
+
+### Module Introduction
+
+Module 1 establishes the foundational writing skills that underpin all subsequent work in this book. Where earlier levels in this series focused on producing correct, clear sentences and basic professional documents, this module shifts the focus to control — the ability to make deliberate, informed choices about structure, tone, and organisation at the sentence and paragraph level.
+
+The three units address three interconnected dimensions of professional administrative writing. Unit 1 examines how sentence structure affects the reader's ability to process information, moving beyond length as a measure of clarity to focus on the logical relationships between ideas. Unit 2 addresses the register choices that shape how a message is received — the ability to calibrate tone precisely for different audiences and relationships. Unit 3 brings these skills together at the paragraph level, developing the use of cohesive devices and logical sequencing to build texts that are not just grammatically correct but genuinely easy to follow.
+
+Together, these three units provide the analytical and productive foundation on which Modules 2–6 build. Learners who complete Module 1 should be able to write with structural intentionality — choosing how to construct a sentence or paragraph based on what the reader needs, not just what feels natural.
+
+---
+
 ## Unit 1 — Controlling Sentence Complexity
 
 ### Unit Overview

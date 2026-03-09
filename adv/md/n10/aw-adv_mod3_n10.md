@@ -2,6 +2,20 @@
 
 ---
 
+## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
+
+*Homework target: ~200 words*
+
+### Module Introduction
+
+Module 3 shifts the focus from email correspondence to a different dimension of administrative writing: the production of structured internal documents. Where Module 2 was concerned with communicating with external and interagency counterparts, Module 3 addresses the challenge of writing clearly and precisely for audiences who depend on written documents to coordinate their work — colleagues following procedures, managers reading explanations, and partners acting on meeting summaries.
+
+The four units address distinct but related document types. Unit 8 focuses on procedural writing — the ability to organise multi-step processes into clearly sequenced, unambiguous instructions. Unit 9 develops a closely related skill: writing for change management, where the challenge is not just clarity but also tone — informing readers about change in a way that promotes compliance without creating resistance. Unit 10 moves to explanatory writing, developing the ability to decompose and communicate multi-factor issues with appropriate specificity and neutrality. Unit 11 brings these strands together in the context of meeting summaries — documents that must be accurate, structured, and action-oriented.
+
+A key theme across all four units is the relationship between structure and usability: documents in this module are not read for their own sake but to enable action. Learners who complete Module 3 should be able to produce internal documents that a reader can act on without having to seek further clarification.
+
+---
+
 ## Unit 8 — Writing Clear Procedures (Advanced)
 
 ### Unit Overview

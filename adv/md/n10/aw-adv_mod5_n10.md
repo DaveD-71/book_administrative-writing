@@ -2,6 +2,20 @@
 
 ---
 
+## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
+
+*Homework target: ~250 words*
+
+### Module Introduction
+
+Module 5 marks a shift in the book's pedagogical focus. The first four modules have developed learners' ability to produce professional documents across a range of genres and contexts. Module 5 adds a second layer to that competence: the ability to evaluate, revise, and critically improve written work — both their own and others'. This is the dimension of professional writing that separates competent writers from expert ones.
+
+The three units address three increasingly complex forms of this analytical and revisory work. Unit 16 develops balanced evaluation — the ability to assess a document or process objectively, acknowledging both strengths and weaknesses and framing criticism as constructive recommendation. Unit 17 develops executive brief writing, which demands a particular kind of analytical compression: identifying what a senior decision-maker needs to know and presenting it with maximum clarity and minimum noise. Unit 18 develops synthesis — arguably the most cognitively demanding skill in the module — the ability to draw on multiple sources, identify themes and relationships across them, and produce a coherent account that goes beyond listing.
+
+A key theme across Module 5 is the relationship between analytical judgement and written form. Learners are asked not just to produce but to think about what to include, what to omit, how to frame a finding, and how to connect disparate information. These skills underpin much of the highest-level administrative writing in professional life, and completing Module 5 should give learners a significant advantage in roles that require critical document work.
+
+---
+
 ## Unit 16 — Writing Balanced Evaluations
 
 ### Unit Overview

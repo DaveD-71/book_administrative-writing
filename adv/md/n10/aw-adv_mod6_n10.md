@@ -1,5 +1,19 @@
 # MODULE 6. Capstone & Applied Administrative Writing
 
+## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
+
+*Homework target: ~300–350 words*
+
+### Module Introduction
+
+Module 6 is the culmination of the book. The five units in this module do not introduce new writing genres so much as they demand that learners apply, integrate, and consolidate the full range of skills developed across Modules 1–5 — in progressively more demanding and realistic contexts.
+
+The module's trajectory is deliberately cumulative. Unit 19 opens with a genre — the plain-language policy summary — that requires learners to subordinate their knowledge of technical writing to the communicative needs of a non-expert audience: a form of audience awareness that draws on Module 2's tone work and Module 4's multi-audience skills. Unit 20 focuses on the concise justification — a document that synthesises the rationale-building of Unit 15 and the precise decision writing of earlier units into a short, high-stakes form. Unit 21 develops consolidated administrative reports, bringing together the synthesis skills of Unit 18 and the structural organisation of Unit 11 into a multi-source, multi-section document. Unit 22 integrates all of this in a complex scenario response that requires learners to analyse inputs, select a format, and produce a complete professional document under conditions close to real professional practice. Unit 23 is the capstone assessment itself — a reflective, diagnostic, and productive unit in which learners demonstrate their full range of competence.
+
+A key feature of Module 6 is that word counts increase substantially — homework targets of 280–350 words reflect the expectation that learners can now sustain quality over longer, more complex documents. The module also makes the most sustained use of multi-source input, portfolio tasks, and revision chains — activities that ask learners to work not just productively but reflectively.
+
+---
+
 ## Unit 19 — Writing Policy Summaries for Non-Expert Audiences
 
 ### Unit Overview

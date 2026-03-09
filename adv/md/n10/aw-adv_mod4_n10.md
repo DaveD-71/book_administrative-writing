@@ -2,6 +2,20 @@
 
 ---
 
+## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
+
+*Homework target: ~250 words*
+
+### Module Introduction
+
+Module 4 develops learners' ability to write in contexts where the stakes of communication are higher and the audiences more demanding. The module moves from the professional email writing of Module 2 and the internal document skills of Module 3 into the more complex territory of cross-border and interagency communication — correspondence with international partners, risk-sensitive writing, multi-audience documents, and policy-grounded justifications.
+
+The four units are distinct in document type but share a common concern: the ability to write with appropriate authority and precision in situations where the relationship between offices, the alignment with policy, and the potential impact of error all matter. Unit 12 develops the production of formal external inquiries — writing that must be simultaneously specific, diplomatic, and professionally credible. Unit 13 shifts to risk and impact writing, which requires analytical objectivity and the ability to calibrate certainty through appropriate hedging language. Unit 14 addresses one of the most practically demanding writing challenges in professional contexts: producing a single document that serves readers with different levels of knowledge and different informational needs. Unit 15 completes the module by developing the ability to write policy-aligned rationales — the kind of justified, evidence-grounded arguments that underpin proposals, recommendations, and procedural changes at agency level.
+
+Learners who complete Module 4 should be able to write across these four demanding contexts with professional confidence, maintaining appropriate tone, structural logic, and alignment with policy or guidelines throughout.
+
+---
+
 ## Unit 12 — High-Level External Inquiries
 
 ### Unit Overview
