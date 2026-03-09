@@ -301,12 +301,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of how the revised version becomes more credible by separating observation from judgement. | Not started | Not yet checked | Not yet checked |
-| B4 Annotated Model | expand with one extra annotation on hedging as evidence-calibrated caution, not vagueness. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting — Objective, Neutral Language | add `A` framing explaining what makes evaluation language objective. | Not started | Not yet checked | Not yet checked |
-| C2 Error Identification & Correction | add `B` explanation distinguishing overclaiming from appropriately cautious evaluation. | Not started | Not yet checked | Not yet checked |
-| C2 Error Identification & Correction | add `C` worked example showing how a subjective claim is revised into an evidence-based evaluation sentence. | Not started | Not yet checked | Not yet checked |
-| D6 Revision Chain | add `E` cue directing learners to check claim strength against evidence strength. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of how the revised version becomes more credible by separating observation from judgement. | Reviewed - pass | Yes | Yes |
+| B4 Annotated Model | expand with one extra annotation on hedging as evidence-calibrated caution, not vagueness. | Reviewed - pass | Yes | Yes |
+| C3 Sentence Rewriting — Objective, Neutral Language | add `A` framing explaining what makes evaluation language objective. | Reviewed - pass | Yes | Yes |
+| C4 Error Identification & Correction | add `B` explanation distinguishing overclaiming from appropriately cautious evaluation. | Reviewed - pass | Yes | Yes |
+| C4 Error Identification & Correction | add `C` worked example showing how a subjective claim is revised into an evidence-based evaluation sentence. | Reviewed - pass | Yes | Yes |
+| D6 Revision Chain | add `E` cue directing learners to check claim strength against evidence strength. | Reviewed - pass | Yes | Yes |
 
 ### Unit 17 — Executive Briefs
 
@@ -316,11 +316,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why the improved brief foregrounds decision-relevant content rather than raw detail. | Not started | Not yet checked | Not yet checked |
-| B7 Data Interpretation Input | add `A` framing explaining what an overview sentence does in a brief. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting — Writing Clear Overviews and Key Points | add `B` explanation distinguishing overview from detail listing. | Not started | Not yet checked | Not yet checked |
-| C2 Paragraph-Level Transformation | add `C` worked example showing detail-heavy notes converted into a concise executive paragraph. | Not started | Not yet checked | Not yet checked |
-| D7 Format Conversion | add `E` cue reminding learners to group information by significance, not source order. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why the improved brief foregrounds decision-relevant content rather than raw detail. | Reviewed - pass | Yes | Yes |
+| B7 Data Interpretation Input | add `A` framing explaining what an overview sentence does in a brief. | Reviewed - pass | Yes | Yes |
+| C3 Sentence Rewriting — Writing Clear Overviews and Key Points | add `B` explanation distinguishing overview from detail listing. | Reviewed - pass | Yes | Yes |
+| C5 Paragraph-Level Transformation | add `C` worked example showing detail-heavy notes converted into a concise executive paragraph. | Reviewed - pass | Yes | Yes |
+| D7 Format Conversion | add `E` cue reminding learners to group information by significance, not source order. | Reviewed - pass | Yes | Yes |
 
 ### Unit 18 — Multi-Source Integration
 
@@ -330,11 +330,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions | add `D` explanation of why integrated writing is more useful than source-by-source reporting. | Not started | Not yet checked | Not yet checked |
-| B6 Reading-to-Write Input | add `A` framing explaining how to look for common themes and relationships across inputs. | Not started | Not yet checked | Not yet checked |
-| C1 Sentence Rewriting — Grouping Information and Showing Relationships | add `B` explanation distinguishing grouping by theme from listing by source. | Not started | Not yet checked | Not yet checked |
-| C2 Phrase Bank Building | add `C` worked example showing several source points combined into one integrated paragraph. | Not started | Not yet checked | Not yet checked |
-| D2 Scenario Writing | add `E` cue reminding learners to synthesise, not stack separate mini-updates. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions | add `D` explanation of why integrated writing is more useful than source-by-source reporting. | Reviewed - pass | Yes | Yes |
+| B6 Reading-to-Write Input | add `A` framing explaining how to look for common themes and relationships across inputs. | Reviewed - pass | Yes | Yes |
+| C3 Sentence Rewriting — Grouping Information and Showing Relationships | add `B` explanation distinguishing grouping by theme from listing by source. | Reviewed - pass | Yes | Yes |
+| C8 Phrase Bank Building | add `C` worked example showing several source points combined into one integrated paragraph. | Reviewed - pass | Yes | Yes |
+| D2 Scenario Writing | add `E` cue reminding learners to synthesise, not stack separate mini-updates. | Reviewed - pass | Yes | Yes |
 
 ---
 
@@ -348,13 +348,13 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare the Versions | add `D` explanation of why the improved version is more accessible while preserving accuracy. | Not started | Not yet checked | Not yet checked |
-| B6 Reading-to-Write Input | add `A` framing explaining the adaptation problem: retain essential policy meaning while reducing specialist burden. | Not started | Not yet checked | Not yet checked |
-| C1 Simplifying Technical References | add `B` explanation distinguishing plain explanation from oversimplification. | Not started | Not yet checked | Not yet checked |
-| C2 Explaining Purpose and Impact | add `C` worked example showing technical statement → reader-facing explanation of purpose and effect. | Not started | Not yet checked | Not yet checked |
-| C3 Stating Required Actions Clearly | add `A` framing connecting adapted explanation to clear action outcomes. | Not started | Not yet checked | Not yet checked |
-| D7 Format Conversion | add `E` cue reminding learners to preserve what matters while changing how it is explained. | Not started | Not yet checked | Not yet checked |
-| E3 Role-Based Writing Task | add a short `E` cue reminding learners that explanation depth and wording depend on both audience knowledge and the writer’s institutional role. | Not started | Not yet checked | Not yet checked |
+| B1 Compare the Versions | add `D` explanation of why the improved version is more accessible while preserving accuracy. | Reviewed - pass | Yes | Yes |
+| B6 Reading-to-Write Input | add `A` framing explaining the adaptation problem: retain essential policy meaning while reducing specialist burden. | Reviewed - pass | Yes | Yes |
+| C1 Simplifying Technical References | add `B` explanation distinguishing plain explanation from oversimplification. | Reviewed - pass | Yes | Yes |
+| C2 Explaining Purpose and Impact | add `C` worked example showing technical statement → reader-facing explanation of purpose and effect. | Reviewed - pass | Yes | Yes |
+| C3 Stating Required Actions Clearly | add `A` framing connecting adapted explanation to clear action outcomes. | Reviewed - pass | Yes | Yes |
+| D7 Format Conversion | add `E` cue reminding learners to preserve what matters while changing how it is explained. | Reviewed - pass | Yes | Yes |
+| E3 Role-Based Writing Task | add a short `E` cue reminding learners that explanation depth and wording depend on both audience knowledge and the writer’s institutional role. | Reviewed - pass | Yes | Yes |
 
 ### Unit 20 — Writing Administrative Justifications
 
@@ -364,12 +364,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare the Versions | add `D` explanation of why a strong justification makes the logic visible rather than implied. | Not started | Not yet checked | Not yet checked |
-| C1 Stating the Decision Clearly | add `A` framing explaining why readers need the decision stated before the rationale unfolds. | Not started | Not yet checked | Not yet checked |
-| C2 Writing a Concise Rationale | add `B` explanation distinguishing rationale from background description. | Not started | Not yet checked | Not yet checked |
-| C3 Stating Expected Benefits | add `B` explanation distinguishing benefit from justification and from unsupported claim. | Not started | Not yet checked | Not yet checked |
-| C4 Structuring a Complete Justification | add `C` worked whole-example showing decision → rationale → benefit sequence. | Not started | Not yet checked | Not yet checked |
-| D2 Draft a Justification for One Scenario | add `E` cue telling learners to preserve logical sequence, not just include all pieces. | Not started | Not yet checked | Not yet checked |
+| B1 Compare the Versions | add `D` explanation of why a strong justification makes the logic visible rather than implied. | Reviewed - pass | Yes | Yes |
+| C1 Stating the Decision Clearly | add `A` framing explaining why readers need the decision stated before the rationale unfolds. | Reviewed - pass | Yes | Yes |
+| C2 Writing a Concise Rationale | add `B` explanation distinguishing rationale from background description. | Reviewed - pass | Yes | Yes |
+| C3 Stating Expected Benefits | add `B` explanation distinguishing benefit from justification and from unsupported claim. | Reviewed - pass | Yes | Yes |
+| C4 Structuring a Complete Justification | add `C` worked whole-example showing decision → rationale → benefit sequence. | Reviewed - pass | Yes | Yes |
+| D2 Draft a Justification for One Scenario | add `E` cue telling learners to preserve logical sequence, not just include all pieces. | Reviewed - pass | Yes | Yes |
 
 ### Unit 21 — Consolidated Administrative Reports
 
@@ -379,12 +379,12 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare the Versions | add `D` explanation of why structured sectioning improves decision-usefulness. | Not started | Not yet checked | Not yet checked |
-| B3 Structural Deconstruction | add `A` framing explaining the function of each report section. | Not started | Not yet checked | Not yet checked |
-| B7 Data Interpretation Input | add `C` mini-worked example showing how office-by-office data becomes grouped issue language. | Not started | Not yet checked | Not yet checked |
-| C1 Writing a Summary Opening | add `A` framing explaining what a summary opening should and should not do. | Not started | Not yet checked | Not yet checked |
-| C2 Writing Clear Issue Descriptions | add `B` explanation distinguishing neutral issue description from blame or narrative detail. | Not started | Not yet checked | Not yet checked |
-| C4 Writing Next Steps | add `E` cue reminding learners that next steps require action + responsibility + time. | Not started | Not yet checked | Not yet checked |
+| B1 Compare the Versions | add `D` explanation of why structured sectioning improves decision-usefulness. | Reviewed - pass | Yes | Yes |
+| B3 Structural Deconstruction | add `A` framing explaining the function of each report section. | Reviewed - pass | Yes | Yes |
+| B7 Data Interpretation Input | add `C` mini-worked example showing how office-by-office data becomes grouped issue language. | Reviewed - pass | Yes | Yes |
+| C1 Writing a Summary Opening | add `A` framing explaining what a summary opening should and should not do. | Reviewed - pass | Yes | Yes |
+| C2 Writing Clear Issue Descriptions | add `B` explanation distinguishing neutral issue description from blame or narrative detail. | Reviewed - pass | Yes | Yes |
+| C4 Writing Next Steps | add `E` cue reminding learners that next steps require action + responsibility + time. | Reviewed - pass | Yes | Yes |
 
 ### Unit 22 — Integrated Scenario Response
 
@@ -394,11 +394,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B6 Reading-to-Write Input | add `A` framing explaining how to identify common issues across multiple source types. | Not started | Not yet checked | Not yet checked |
-| B1 Compare the Versions | add `D` explanation of why a synthesised response is more useful than a source-by-source document. | Not started | Not yet checked | Not yet checked |
-| C1 Error Identification and Correction | add `B` explanation clarifying the recurring weaknesses this unit is trying to eliminate. | Not started | Not yet checked | Not yet checked |
-| C2 Paragraph-Level Transformation | add `C` worked example showing several source points fused into one integrated paragraph. | Not started | Not yet checked | Not yet checked |
-| D6 Revision Chain | add `E` cue telling learners which synthesis and tone questions to carry forward into the portfolio task. | Not started | Not yet checked | Not yet checked |
+| B6 Reading-to-Write Input | add `A` framing explaining how to identify common issues across multiple source types. | Reviewed - pass | Yes | Yes |
+| B1 Compare the Versions | add `D` explanation of why a synthesised response is more useful than a source-by-source document. | Reviewed - pass | Yes | Yes |
+| C4 Error Identification and Correction | add `B` explanation clarifying the recurring weaknesses this unit is trying to eliminate. | Reviewed - pass | Yes | Yes |
+| C5 Paragraph-Level Transformation | add `C` worked example showing several source points fused into one integrated paragraph. | Reviewed - pass | Yes | Yes |
+| D6 Revision Chain | add `E` cue telling learners which synthesis and tone questions to carry forward into the portfolio task. | Reviewed - pass | Yes | Yes |
 
 ### Unit 23 — Capstone
 
@@ -408,11 +408,11 @@ Use the tables below as the tracking control for `N10`.
 
 | Activity | What | Status | Framework matching | Goals alignment |
 |---|---|---|---|---|
-| B1 Compare Two Versions — Exemplar Analysis | add `D` explanation of how the strong response integrates multiple unit-level skills at once. | Not started | Not yet checked | Not yet checked |
-| C1 Error Identification and Correction — Self-Diagnosis | add `A` framing explaining how the five errors connect back to recurring book-wide writing problems. | Not started | Not yet checked | Not yet checked |
-| C1 Error Identification and Correction — Self-Diagnosis | add `C` one worked example linking a sentence-level error to the broader writing principle it violates. | Not started | Not yet checked | Not yet checked |
-| D6 Revision Chain — Prior Work | add `E` cue reminding learners to diagnose their own writing through the major course principles: synthesis, tone, justification, structure, and action clarity. | Not started | Not yet checked | Not yet checked |
-| F3 Self-Editing Checklist — Rubric-Based | add a short `A` note explaining how the rubric categories reflect the book’s major skill strands. | Not started | Not yet checked | Not yet checked |
+| B1 Compare Two Versions — Exemplar Analysis | add `D` explanation of how the strong response integrates multiple unit-level skills at once. | Reviewed - pass | Yes | Yes |
+| C4 Error Identification and Correction — Self-Diagnosis | add `A` framing explaining how the five errors connect back to recurring book-wide writing problems. | Reviewed - pass | Yes | Yes |
+| C4 Error Identification and Correction — Self-Diagnosis | add `C` one worked example linking a sentence-level error to the broader writing principle it violates. | Reviewed - pass | Yes | Yes |
+| D6 Revision Chain — Prior Work | add `E` cue reminding learners to diagnose their own writing through the major course principles: synthesis, tone, justification, structure, and action clarity. | Reviewed - pass | Yes | Yes |
+| F3 Self-Editing Checklist — Rubric-Based | add a short `A` note explaining how the rubric categories reflect the book’s major skill strands. | Reviewed - pass | Yes | Yes |
 
 ---
 
