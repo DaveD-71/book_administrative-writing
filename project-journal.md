@@ -111,6 +111,29 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
   - JPO prompt-load and scenario-clustering problems still active in Modules 2 and 4
 - Updated the to-do list so the current `N11` blockers are now stated in that narrower, more accurate form
 
+### 2026-03-15T20:05:00+09:00 - Round 3 Completed After Claude Checklist Verification
+
+- Read and cross-checked:
+  - `adv/edits & guides/aw-adv_n11_claude-fb_qa_checklist.md`
+  - `adv/edits & guides/aw-adv_n11_qa_checklist_v2_claude.md`
+  - `adv/edits & guides/aw-adv_n10_claude-fb_mod1-3_v2.md`
+  - `adv/edits & guides/aw-adv_n10_claude-fb_mod4-6_v2.md`
+  - `adv/edits & guides/aw-adv_step11_learning-goals-mapping.md`
+  - live active `n10` module files for the specific open blockers
+- Upgraded `adv/edits & guides/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
+- Created the new operative QA record:
+  - `adv/edits & guides/aw-adv_n11_qa_review_round3.md`
+- Round 3 outcome:
+  - kept the Modules 2 and 4 JPO prompt blockers as live
+  - confirmed the unresolved H1/profile mismatch in Units 2, 3, 4, 6, and 11 as a real sign-off blocker
+  - confirmed Module 1 structural cleanup remains live
+  - carried Unit 20 structural defects into the operative blocker list
+  - withdrew three older issues from the live blocker list:
+    - broader missing-H3 concern across Module 3
+    - Unit 21 word-count inconsistency as a current active-file defect
+    - Unit 19 Practice D placement problem as a current active-file defect
+- Updated the advanced to-do list so Round 3, not Round 2, is now the operative `N11` summary
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Codex Memory Scaffold Created
 
 - Workspace root confirmed from VS Code state as `C:\Dev\Code\book_administrative-writing`

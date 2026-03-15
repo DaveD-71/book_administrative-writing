@@ -116,6 +116,22 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Observation: the full Round 2 pass confirmed that the main live blockers are now limited to two areas: structural / activity-labelling inconsistency in Modules 1 and 3, and over-dense / over-clustered JPO scenario families in Modules 2 and 4; Modules 5 and 6 are broadly clear under the revised QA standard
 - Preferred behavior: treat `aw-adv_n11_qa_review_round2.md` as the operative N11 record and use it to drive the next correction pass, rather than relying on the earlier partial Round 1 / selective Round 2 notes
 
+### 2026-03-15T20:05:00+09:00 - Round 3 Replaces Round 2 As The Operative N11 Record
+
+- Status: `monitor`
+- Scope: project/state
+- Context: external checklist verification and Round 3 QA pass
+- Observation: `adv/edits & guides/aw-adv_n11_qa_review_round3.md` is now the operative `N11` record. It corrects two Round 2 distortions: Module 3 was overstated as a wider structural blocker, and Module 6 was understated because Unit 20 structural defects were not carried into the operative summary. The live blocker set is now: H1/profile decision in Units 2, 3, 4, 6, and 11; Module 1 structural cleanup; Modules 2 and 4 JPO prompt simplification and de-clustering; and Unit 20 structural cleanup.
+- Preferred behavior: use Round 3, not Round 2, as the current sign-off baseline for `N11`, and treat earlier round files as historical supporting records
+
+### 2026-03-15T20:05:00+09:00 - Claude v2 Checklist Upgrades Are Now Part Of The Main N11 Standard
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: checklist verification against external feedback
+- Observation: `adv/edits & guides/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
+- Preferred behavior: treat the main `aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
 
 - Status: `resolved`
