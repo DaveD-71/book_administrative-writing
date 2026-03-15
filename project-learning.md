@@ -92,6 +92,30 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Observation: four genuine JPO homework-option overlaps were confirmed and repaired in Units 4, 6, 13, and 15 of the active `n10` files; the revised prompts now remain skill-parallel while using more distinct professional contexts
 - Preferred behavior: treat the remaining sameness risk as a lighter book-level monitoring task rather than as a known unresolved defect in those four units
 
+### 2026-03-15T19:32:00+09:00 - N11 Now Explicitly Tests Prompt Readability And Scenario-Family Distribution
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: checklist tightening during `N11`
+- Observation: `adv/edits & guides/aw-adv_n11_qa_checklist.md` now explicitly tests whether prompt wording remains readable for B1+/B2 aspirational learners, whether revised prompts drift upward in linguistic sophistication or processing load, and whether scenario families are distributed broadly enough across the book; each new check is tied to named source documents
+- Preferred behavior: treat learner-level prompt readability and book-level scenario-family spread as explicit `N11` sign-off criteria, not as optional style preferences
+
+### 2026-03-15T19:32:00+09:00 - Modules 2 And 4 Still Carry A Narrow JPO Scenario Band
+
+- Status: `workaround`
+- Scope: project/state
+- Context: `N11` Round 2 focused pass
+- Observation: even after the earlier overlap repairs, some active JPO prompts in Modules 2 and 4 remain too dense and too clustered around trilateral or counterpart-office coordination, especially in Units 4, 6, 13, and 15
+- Preferred behavior: before treating those modules as clear under `N11`, run one more targeted prompt pass that shortens the affected JPO options and broadens their professional context range
+
+### 2026-03-15T19:32:00+09:00 - Full N11 Round 2 Pass Reframed The Remaining Blockers
+
+- Status: `monitor`
+- Scope: project/state
+- Context: full-book pass against the revised `N11` checklist
+- Observation: the full Round 2 pass confirmed that the main live blockers are now limited to two areas: structural / activity-labelling inconsistency in Modules 1 and 3, and over-dense / over-clustered JPO scenario families in Modules 2 and 4; Modules 5 and 6 are broadly clear under the revised QA standard
+- Preferred behavior: treat `aw-adv_n11_qa_review_round2.md` as the operative N11 record and use it to drive the next correction pass, rather than relying on the earlier partial Round 1 / selective Round 2 notes
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
 
 - Status: `resolved`

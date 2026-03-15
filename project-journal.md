@@ -82,6 +82,35 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
 - The revised prompts now preserve the target skill while using more distinct contexts from their paired freer-writing JPO options
 - Recorded the repaired-status finding in `adv/edits & guides/aw-adv_n11_qa_review_round1.md`
 
+### 2026-03-15T19:32:00+09:00 - N11 Checklist Tightened And Round 2 Findings Recorded
+
+- Updated `adv/edits & guides/aw-adv_n11_qa_checklist.md` so `N11` now explicitly tests:
+  - B1+/B2 prompt readability
+  - drift into over-dense or overly sophisticated prompt wording
+  - book-level scenario-family clustering, especially in JPO contexts
+- Added named requirement sources for those new checks using:
+  - `adv/edits & guides/aw-adv_project_context.md`
+  - `adv/edits & guides/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/aw-adv_project_todo_list.md`
+- Recorded the focused second-pass review at:
+  - `adv/edits & guides/aw-adv_n11_qa_review_round2.md`
+- Round 2 conclusion:
+  - the earlier overlap repairs improved local distinctness
+  - but Modules 2 and 4 still contain JPO prompts that are too dense and too clustered around trilateral / counterpart-office coordination
+  - the remaining `N11` correction target is now narrower and clearer than before
+
+### 2026-03-15T19:32:00+09:00 - Full Round 2 Pass Completed Across Units 1-23
+
+- Re-read all six active `n10` module files as a genuine full-book Round 2 pass after the checklist revision
+- Treated the earlier Round 1 note as historical background only, because the revised checklist changed the operative QA standard
+- Rewrote `adv/edits & guides/aw-adv_n11_qa_review_round2.md` so it now records:
+  - full-book coverage across Units 1-23 and all A-H sections
+  - broad passes in pedagogical support, learner-level scaffolding, progression, and activity-type variety
+  - structural / coding cleanup still needed in Modules 1 and 3
+  - JPO prompt-load and scenario-clustering problems still active in Modules 2 and 4
+- Updated the to-do list so the current `N11` blockers are now stated in that narrower, more accurate form
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Codex Memory Scaffold Created
 
 - Workspace root confirmed from VS Code state as `C:\Dev\Code\book_administrative-writing`

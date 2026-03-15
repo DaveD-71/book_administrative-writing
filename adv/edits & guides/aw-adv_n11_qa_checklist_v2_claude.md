@@ -1,4 +1,5 @@
 # N11 QA Checklist
+
 ## *Administrative Writing, Advanced*
 
 ---
@@ -7,6 +8,8 @@
 > This file defines the `N11` book-wide quality assurance framework for the advanced book after completion of `N9` and `N10`.
 >
 > `N11` is not a prompt-repair pass, not a language-instruction pass, and not a structural redesign pass. It is the final hierarchical quality check that tests whether the completed `N10` book now meets the agreed project standards at unit, module, and whole-book level before the full review stage.
+>
+> **Version note (v2):** This version corrects gaps identified after cross-checking the Round 2 review against the checklist. Additions include: a preliminary cross-check step against known open issues (Section 4.0); an explicit H1 Extension Task compliance check (5G.1); N10 minimum deliverables as the concrete standard for 5C; an activity heading format check (5L.1); explicit word-count targets in 5I.2 and 5D.3; a requirement source for 5B.2; and a named entry in 5M.2 for the deferred learning goals mapping issues.
 
 ---
 
@@ -94,16 +97,27 @@ Use `Deferred` only for items explicitly scheduled for a later stage, such as `P
 
 ## 4. Review Workflow
 
+### 4.0 Preliminary cross-check (before module review begins)
+
+Before beginning the module-by-module pass, complete the following:
+
+1. Read the current `N10` feedback reports (`aw-adv_n10_feedback_mod1-3_v2.md` and `aw-adv_n10_feedback_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
+2. Confirm the status of the H1 Extension Task structural decision for Units 2, 3, 4, 6, and 11. The structural profiles specify these units should not have H1; if the N10 files contain H1 Extension Tasks for these units, record as `Revise` pending the project owner's decision. Do not proceed past this point without a decision on record.
+3. Note any other open decisions logged in the project to-do list that affect content currently under review.
+
+These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
+
 ### 4.1 Review order
 
 Run `N11` in this sequence:
 
-1. confirm book-level source documents and standards
-2. review module by module using the active `n10` files
-3. capture unit-level findings
-4. summarise module-level findings
-5. consolidate book-level findings
-6. determine whether the book is ready for full review
+1. complete preliminary cross-check (Section 4.0)
+2. confirm book-level source documents and standards
+3. review module by module using the active `n10` files
+4. capture unit-level findings
+5. summarise module-level findings
+6. consolidate book-level findings
+7. determine whether the book is ready for full review
 
 ### 4.2 Review scale
 
@@ -185,6 +199,11 @@ If the failure is:
 - [ ] Documents asked for are plausible outputs in that professional world
 - [ ] The professional stakes feel real enough to motivate adult learners
 
+**Requirement sources:**
+
+- `adv/edits & guides/aw-adv_project_context.md` — the book targets interagency and international administrative contexts; scenarios must be drawn from recognisable situations in those environments
+- `adv/edits & guides/aw-adv_prompt-writing-policy.md` — prompts must be situation-anchored and professionally verisimilitudinous; the scenario is the vehicle, not the point
+
 ### 5B.3 Delivery-mode suitability
 
 - [ ] The unit can function in classroom use
@@ -196,9 +215,16 @@ If the failure is:
 
 ### 5C.1 Explicit teaching
 
-- [ ] The unit teaches the principle behind the target feature, not just the phrase or pattern
-- [ ] Key language points are explained sufficiently for transfer
-- [ ] The learner is shown why the improved form works, not only that it is better
+A unit meets this criterion only if all six N10 minimum deliverables are present in some form. Check each one:
+
+- [ ] Clear alignment between module purpose, unit goals, and activity goals is reflected in the teaching sequence
+- [ ] A clear conceptual explanation of the target feature is present in the main Language Focus area (not just a phrase bank or model text)
+- [ ] At least one explicit "why this works" element appears in model-text comparison work or Language Focus commentary
+- [ ] Any key contrast or choice central to the unit is explained, not just illustrated
+- [ ] At least one worked example demonstrates the target concept in a way that would otherwise remain implicit
+- [ ] A visible bridge from explanation to later writing use is present before the main production task
+
+**Requirement source:** `adv/edits & guides/aw-adv_n10_language_instruction_framework.md` Section 9 — these six items are the agreed minimum deliverables for a unit to be treated as N10-complete. Presence of explanation layer labels (`Why this works`, `Teaching point`, etc.) is necessary but not sufficient evidence of compliance; all six items must be confirmed.
 
 ### 5C.2 Conceptual clarity
 
@@ -238,7 +264,7 @@ If the failure is:
 - [ ] Guided tasks provide enough support without pre-solving the work
 - [ ] Freer writing tasks leave meaningful analysis and organisation to the learner
 - [ ] Homework tasks are appropriately independent
-- [ ] Word counts align with the agreed progression
+- [ ] Word counts align with the agreed progression: ~150w (Module 1) → ~200w (Modules 2–3) → ~250w (Modules 4–5) → ~300–350w (Module 6 / Units 22–23)
 - [ ] Revised prompts do not drift upward in linguistic sophistication or processing load beyond what the target learner can reasonably handle
 
 **Requirement sources:**
@@ -309,6 +335,8 @@ If the failure is:
 - [ ] The active unit matches the assigned activity codes and sequence in the structural profiles
 - [ ] First-use and special-profile exceptions are handled correctly where relevant
 - [ ] Any deliberate deviation from the profile is documented and justified
+- [ ] H1 Extension Tasks are present only in units where the structural profiles assign H1; units not assigned H1 (currently Units 2, 3, 4, 6, and 11) must not contain an H1 Extension Task unless the project owner has explicitly approved a profile change
+- [ ] Where H1 is correctly assigned, the Extension Task contains three genuinely varied options drawn from different activity types in the Master Activity Menu
 
 ### 5G.2 Can-Do architecture compliance
 
@@ -339,7 +367,7 @@ If the failure is:
 
 ### 5I.2 Book-level progression
 
-- [ ] Word-count progression is correct
+- [ ] Word-count progression is correct: ~150w (Module 1) → ~200w (Modules 2–3) → ~250w (Modules 4–5) → ~300–350w (Module 6 / Units 22–23)
 - [ ] The book moves from foundation to more complex applied writing in a believable arc
 - [ ] Module 6 functions as a capstone phase rather than just another content block
 
@@ -374,8 +402,10 @@ If the failure is:
 ### 5L.1 Markdown and structural hygiene
 
 - [ ] Heading hierarchy is correct
-- [ ] numbering and separators are clean
-- [ ] there are no obvious formatting artifacts or broken structure blocks
+- [ ] Numbering and separators are clean
+- [ ] There are no obvious formatting artifacts or broken structure blocks
+- [ ] Activity headings follow the correct format throughout: `#### Activity Name (Code)` — name first, code in parentheses; code-first formats such as `#### (C3) Activity Name` are errors
+- [ ] Activity sub-labelling under F and H sections is explicit and consistent: H3, H1, F1 etc. appear as `####`-level subheadings rather than being embedded in running text or omitted
 
 ### 5L.2 Production readiness
 
@@ -396,6 +426,7 @@ If the failure is:
 
 - [ ] `P4` answer key / sample responses is recorded as a later stage, not mistaken for a current failure
 - [ ] `P7` Unit 23 rubric requirement is explicitly tracked and not forgotten before sign-off
+- [ ] Learning goals mapping issues (14 improvement recommendations identified in `admin-writing-adv_learning-goals-mapping.md` across five categories) are recorded as a named deferred item; confirm they are tracked in the to-do list and will not be lost before book sign-off
 
 ---
 
@@ -439,4 +470,4 @@ Prioritise the first book-wide pass on:
 
 ---
 
-*Working status: Initial `N11` book-wide QA checklist prepared after completion of `N10`, using the Step 14 QA discussion, the revised structural profiles, the prompt-writing policy, and the active `n10` module files as primary sources.*
+*Working status: v2 — revised after cross-checking the Round 2 review against the original checklist. Gaps addressed: preliminary cross-check step added (Section 4.0); H1 Extension Task compliance check added (5G.1); N10 minimum deliverables made the concrete standard for 5C.1; activity heading format check added (5L.1); explicit word-count targets added to 5D.3 and 5I.2; requirement source added to 5B.2; learning goals mapping deferred item added to 5M.2.*
