@@ -52,6 +52,30 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Observation: `scripts/module_tool.py` is the repo-local utility for scaffolding new module files, scaffolding pass-to-pass copies, validating N9 structural conventions, summarising module structure, and making exact-match content edits
 - Preferred behavior: prefer `scripts/module_tool.py` when doing repetitive module-pass operations or literal Markdown edits related to advanced module workflow
 
+### 2026-03-15T00:59:14.7432774+09:00 - Advanced N11 QA Framework Started
+
+- Status: `monitor`
+- Scope: project/state
+- Context: advanced quality-assurance stage
+- Observation: `N11` has now started; the book-wide QA checklist framework was drafted at `adv/edits & guides/aw-adv_n11_qa_checklist.md` and the advanced to-do list now marks `N11` as in progress
+- Preferred behavior: use the new `N11` checklist as the authoritative QA framework for the next advanced review pass, rather than relying on the older `N9` QA controls
+
+### 2026-03-15T01:07:00+09:00 - Advanced N11 Round 1 Findings Recorded
+
+- Status: `monitor`
+- Scope: project/state
+- Context: initial `N11` execution
+- Observation: a first `N11` review note now exists at `adv/edits & guides/aw-adv_n11_qa_review_round1.md`; early evidence confirms `P2`, `P6`, and Module 2 Section H ordering in the active `n10` files, while portfolio-task E-word-count handling and final book-level structural-variety confirmation remain active QA items
+- Preferred behavior: continue `N11` from the recorded Round 1 findings rather than restarting book-wide checks from scratch
+
+### 2026-03-15T01:12:00+09:00 - Portfolio-Task Units Cleared In N11 Manual Pass
+
+- Status: `monitor`
+- Scope: project/state
+- Context: follow-up `N11` review on non-standard structures
+- Observation: manual review confirmed that Units 14 and 22 state clear `E4` portfolio-task lengths and that Unit 22's non-standard integrated-writing structure is well supported; the earlier uncertainty came from summary-tool limitations rather than from an actual content failure
+- Preferred behavior: treat portfolio-task units as manual-review cases in future QA rather than relying on automated summary output alone
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
 
 - Status: `resolved`
