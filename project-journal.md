@@ -64,6 +64,24 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
   - Unit 22 includes explicit fallback and transfer support rather than assuming prior saved work
 - Updated `adv/edits & guides/aw-adv_n11_qa_review_round1.md` so these items now record as `Pass`, with the tooling limitation noted separately
 
+### 2026-03-15T01:18:00+09:00 - N11 Broader Variety And Support Check
+
+- Counted explanation/support markers across the six active `n10` module files and confirmed the `N10` pedagogical layer is visibly embedded across the full book, though final sufficiency remains a qualitative QA question
+- Confirmed broad activity-type variety is present in the active files rather than only in the planning documents
+- Identified the remaining likely book-level variety risk as possible scenario-family / JPO-option overlap, especially in some Modules 2 and 4 interoffice coordination prompts
+- Updated `adv/edits & guides/aw-adv_n11_qa_review_round1.md` with these findings
+
+### 2026-03-15T15:16:24.7226107+09:00 - N11 Sameness Pass Prompt Repairs
+
+- Reviewed clustered prompt families in Modules 2 and 4 for real overlap rather than mere thematic similarity
+- Confirmed and repaired four genuine JPO homework-option overlaps in the active `n10` files:
+  - Unit 4 `H3`
+  - Unit 6 `H3`
+  - Unit 13 `H3`
+  - Unit 15 `H3`
+- The revised prompts now preserve the target skill while using more distinct contexts from their paired freer-writing JPO options
+- Recorded the repaired-status finding in `adv/edits & guides/aw-adv_n11_qa_review_round1.md`
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Codex Memory Scaffold Created
 
 - Workspace root confirmed from VS Code state as `C:\Dev\Code\book_administrative-writing`

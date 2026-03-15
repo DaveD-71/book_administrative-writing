@@ -565,7 +565,7 @@ Choose one situation:
 1. A procedural update is due to take effect across several offices within the next month, but some teams have not yet completed the preparation needed for implementation.
 2. A revised interagency guideline has been issued, but several partner organisations have not yet received training or updated documentation and may still be using the previous version.
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
-4. *(JPO context)* A procedural or systems change related to international IP office coordination is due to take effect soon, but preparation across internal teams and partner offices is incomplete.
+4. *(JPO context)* A revised cross-office verification checklist is due to replace the current version before the next reporting cycle, but training completion is uneven, one linked support tool has not yet been tested, and fallback guidance for offices unable to switch immediately has not been agreed.
 
 #### Extension Task (H1)
 
@@ -1072,7 +1072,7 @@ Choose one situation:
 1. Your office wants to revise an administrative process that has caused recurring delays, and a formal rationale is needed before approval can be given.
 2. A guideline or standard form has been updated following a policy change, and your team must write a rationale explaining why the revision should now be adopted.
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
-4. *(JPO context)* Your office is preparing a rationale to support the adoption of a shared terminology standard for trilateral examination work. The proposal must align with existing international guidelines before it can be submitted for approval.
+4. *(JPO context)* Your office is preparing a rationale to support the adoption of a shared template for recording trilateral examination comments. The proposal must align with existing international guidelines and current coordination practice before it can be submitted for approval.
 
 #### Extension Task (H1)
 

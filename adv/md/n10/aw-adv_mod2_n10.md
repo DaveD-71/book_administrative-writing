@@ -271,7 +271,7 @@ Choose one scenario:
 1. A partner agency has submitted an incomplete set of documents for a joint review. Two items are missing, and the review cannot proceed without them.
 2. A foreign office sent a translation of a shared procedural document, but your team has identified a section that may differ from the source. You need to request confirmation before the document is distributed.
 3. A domestic counterpart asked your office to validate a set of figures included in a draft report. You have completed the check and need to communicate the outcome and request a revised version.
-4. *(JPO context)* A counterpart at a foreign IP office has notified your office that a jointly produced procedural document contains a section that may require revision.
+4. *(JPO context)* A counterpart office has circulated a draft plan for a trilateral examiner exchange, but the update does not confirm which office will lead the next revision, what deadline applies for comments, or whether replies should be sent through one coordinating office or to all participants directly.
 
 ---
 
@@ -825,7 +825,7 @@ Choose one scenario:
 1. A partner office submitted a set of supporting documents for a joint review, but one document uses a version of the application form that was replaced six months ago. The outdated form is missing two fields required for processing.
 2. A foreign office circulated a translated version of a shared procedural notice. One section of the translation appears to reverse the meaning of a key instruction in the source document, which could affect how recipients respond.
 3. An interagency colleague forwarded a draft coordination report to external partners before it had been approved for distribution. The report contained preliminary figures that have since been revised.
-4. *(JPO context)* A counterpart at a foreign IP office has circulated a shared search document in which a classification code in one section does not match the agreed terminology established in the offices' joint working framework.
+4. *(JPO context)* A counterpart office has circulated a shared guidance note for trilateral search coordination, but one procedural step now appears to conflict with the currently agreed review sequence and could lead partner offices to apply different checking standards.
 
 ---
 

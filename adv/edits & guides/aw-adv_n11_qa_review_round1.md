@@ -165,6 +165,105 @@ Interpretation:
 
 ---
 
+### 9. The `N10` explanation layer is visibly embedded across the active module set
+
+**Category:** Language And Learning  
+**Result:** `Monitor`
+
+Evidence:
+
+- Counting the recurring explanation/support markers `Why this works`, `Worked example`, `Writing goal`, `Reflection:`, and `Transfer reminder` across the six active `n10` module files produced:
+  - Module 1: `7`
+  - Module 2: `12`
+  - Module 3: `12`
+  - Module 4: `20`
+  - Module 5: `12`
+  - Module 6: `25`
+
+Interpretation:
+
+- this is strong evidence that the `N10` pedagogical layer is now present book-wide rather than being limited to a few isolated units
+- however, marker presence alone does not prove sufficiency or quality in every unit
+
+Required action:
+
+- continue with qualitative unit-level review to confirm that the explanations are not merely present, but actually strong enough for transfer and conceptual clarity
+
+---
+
+### 10. Structural variety is clearly visible in the active `n10` files
+
+**Category:** Consistency And Cohesion / Variety  
+**Result:** `Pass`
+
+Evidence:
+
+- the active files visibly include a wide range of activity types beyond the baseline `B1/C3/D1/E1/H3` pattern, including:
+  - `A1`, `A2`, `A3`, `A4`, `A5`, `A6`
+  - `B4`, `B6`, `B7`
+  - `C4`, `C5`
+  - `D3`, `D4`, `D5`, `D6`, `D7`
+  - `E2`, `E3`, `E4`
+  - `F2`
+  - `G3`
+  - `H2`
+
+Interpretation:
+
+- book-level activity variety is no longer only a planning claim in the structural profiles; it is visibly reflected in the active module files
+
+---
+
+### 11. Scenario and JPO-option variety still need a tighter sameness check
+
+**Category:** Variety / Prompt And Task Design  
+**Result:** `Monitor`
+
+Evidence:
+
+- the active files contain many distinct JPO-context options and professional situations
+- however, several of those options cluster around similar interoffice clarification, terminology, or coordination scenarios, especially in Modules 2 and 4
+
+Interpretation:
+
+- this is not yet a confirmed failure
+- it does remain the area most likely to hide residual repetition after the major structural work has been completed
+
+Required action:
+
+- perform a focused sameness pass on scenario families and JPO-option differentiation before final `N11` sign-off
+
+---
+
+### 12. Four genuine JPO-option overlaps were confirmed and repaired
+
+**Category:** Prompt And Task Design / Variety  
+**Result:** `Pass`
+
+Evidence:
+
+The focused sameness pass confirmed that four JPO homework options were too close to their paired freer-writing JPO options in the same unit. These were revised directly in the active `n10` files:
+
+- Unit 4 `H3` in `adv/md/n10/aw-adv_mod2_n10.md`
+  - changed from another unconfirmed-document / revision-status case to a trilateral examiner-exchange planning inquiry
+- Unit 6 `H3` in `adv/md/n10/aw-adv_mod2_n10.md`
+  - changed from another classification-code / terminology mismatch case to a conflicting guidance-note / review-sequence case
+- Unit 13 `H3` in `adv/md/n10/aw-adv_mod4_n10.md`
+  - changed from another pre-rollout incomplete-preparation risk case to a verification-checklist implementation risk with training/tool/fallback issues
+- Unit 15 `H3` in `adv/md/n10/aw-adv_mod4_n10.md`
+  - changed from another terminology-standard rationale to a rationale for adopting a shared trilateral comment-recording template
+
+Interpretation:
+
+- these were real overlaps rather than merely thematic similarity
+- after revision, the JPO homework options now preserve the same target skill while offering more distinct professional contexts from their paired freer-writing tasks
+
+Follow-up:
+
+- continue monitoring scenario-family repetition at book level, but these specific JPO pairings no longer need correction
+
+---
+
 ## Immediate Next Steps
 
 1. Run a manual `N11` pass on portfolio-task units and other non-standard structures where summary tooling is insufficient.

@@ -76,6 +76,22 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Observation: manual review confirmed that Units 14 and 22 state clear `E4` portfolio-task lengths and that Unit 22's non-standard integrated-writing structure is well supported; the earlier uncertainty came from summary-tool limitations rather than from an actual content failure
 - Preferred behavior: treat portfolio-task units as manual-review cases in future QA rather than relying on automated summary output alone
 
+### 2026-03-15T01:18:00+09:00 - N10 Support Layer And Structural Variety Confirmed At Book Level
+
+- Status: `monitor`
+- Scope: project/state
+- Context: broader `N11` review
+- Observation: the active `n10` module files now visibly contain a strong spread of explicit teaching markers and a wide activity-type range beyond the original baseline pattern; the remaining open book-level risk is not structural monotony but residual scenario/JPO-option overlap in some interoffice coordination contexts
+- Preferred behavior: continue `N11` with a targeted sameness review on scenario families and JPO-option differentiation rather than re-checking whether structural variety exists at all
+
+### 2026-03-15T15:16:24.7226107+09:00 - Key JPO Option Overlaps Repaired In Active N10 Files
+
+- Status: `monitor`
+- Scope: project/state
+- Context: targeted `N11` sameness pass
+- Observation: four genuine JPO homework-option overlaps were confirmed and repaired in Units 4, 6, 13, and 15 of the active `n10` files; the revised prompts now remain skill-parallel while using more distinct professional contexts
+- Preferred behavior: treat the remaining sameness risk as a lighter book-level monitoring task rather than as a known unresolved defect in those four units
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
 
 - Status: `resolved`
