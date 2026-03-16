@@ -1,10 +1,20 @@
-# Project Agent Instructions
+# Codex Memory Bootstrap Instructions
+
+Bootstrap-Version: 2026-03-16T13:39:46.8020732+09:00
 
 Scope:
 
-- the current repository root containing this `AGENTS.md`
+- this file is a duplicated bootstrap instruction file
+- the duplicated copies are expected at `%USERPROFILE%\.codex\AGENTS.md` and `<repo-root>\AGENTS.md`
 
-This file defines the project-level Codex memory workflow for this repository.
+This file defines the shared bootstrap workflow for local and project memory.
+
+## Duplication Rule
+
+- `%USERPROFILE%\.codex\AGENTS.md` and `<repo-root>\AGENTS.md` must carry the same file contents
+- do not rewrite, summarize, or manually reconstruct one file from the other
+- when one `AGENTS.md` file is missing, create it by direct file copy from the existing one
+- treat differences in line endings or filesystem metadata as incidental; the instruction content itself should remain the same
 
 ## Workspace Authority
 
@@ -12,19 +22,24 @@ Use this authority order when deciding which project instructions apply:
 
 1. the user's explicit statement about the current workspace
 2. the current VS Code workspace or IDE context
-3. this repository-root `AGENTS.md`
+3. the repository-root `AGENTS.md` for the active workspace
 4. shell cwd only as a fallback when the higher-priority signals are absent
 
 Do not let stale shell cwd or prior-project context override the current workspace.
 
 ## Startup Read Order
 
-After the user-level startup files are read, read:
+At session start, read:
 
-1. `<repo-root>\AGENTS.md`
-2. `<repo-root>\user-learning-mirror.md`
-3. `<repo-root>\project-learning.md`
-4. `<repo-root>\project-journal.md`
+1. `%USERPROFILE%\.codex\AGENTS.md` if it exists
+2. `<repo-root>\AGENTS.md` if it exists
+3. `%USERPROFILE%\.codex\memories\user-learning.md` if it exists
+
+Then, if the active workspace has a repository root, read the repo companion files in this order when they exist:
+
+1. `<repo-root>\user-learning-mirror.md`
+2. `<repo-root>\project-learning.md`
+3. `<repo-root>\project-journal.md`
 
 Use recent journal entries by default. Read older archive segments only when needed.
 
@@ -39,9 +54,7 @@ In the first substantive reply of a new session or after a workspace switch, exp
 - whether project memory already existed
 - whether project memory was created or updated during startup handling
 
-Append CSV rows for instruction and memory file reads to:
-
-- `<repo-root>\instruction-read-log.csv`
+If the active workspace contains `<repo-root>\instruction-read-log.csv`, append CSV rows for instruction and memory file reads there.
 
 CSV columns:
 
@@ -57,46 +70,93 @@ At session start, do not treat missing memory files as a reason to skip the work
 
 Create as needed:
 
-- `%USERPROFILE%\.codex\AGENTS.md` as the canonical user-level instruction file
-- `%USERPROFILE%\.codex\memories\user-learning.md` as the canonical machine-local user memory file
-- `<repo-root>\user-learning-mirror.md` as the portable workspace mirror of cross-project user memory
-- `<repo-root>\project-learning.md` as the durable project-memory file
-- `<repo-root>\project-journal.md` as the chronological project log
-- `<repo-root>\instruction-read-log.csv` as the startup/read audit log with the required CSV header
+- `%USERPROFILE%\.codex\AGENTS.md`
+- `%USERPROFILE%\.codex\memories\user-learning.md`
+- `<repo-root>\AGENTS.md`
+- `<repo-root>\user-learning-mirror.md`
+- `<repo-root>\project-learning.md`
+- `<repo-root>\project-journal.md`
+- `<repo-root>\instruction-read-log.csv` with the required CSV header
 
-If a repo-root `AGENTS.md` exists but the companion memory files do not, create the companion files before continuing startup handling.
+Bootstrap rule for `AGENTS.md`:
+
+- if one `AGENTS.md` copy exists and the other does not, create the missing copy by direct file copy
+- if both copies are missing, create the first copy from the latest approved version-controlled bootstrap source, then direct-copy it to the second location when needed
+
+Bootstrap rule for user-learning:
+
+- if one of `%USERPROFILE%\.codex\memories\user-learning.md` or `<repo-root>\user-learning-mirror.md` exists and the other does not, create the missing file by direct file copy
+
+Bootstrap rule for repo companion files:
+
+- if `<repo-root>\project-learning.md`, `<repo-root>\project-journal.md`, or `<repo-root>\instruction-read-log.csv` is missing, create it at startup before continuing the repo-level workflow
+
+## AGENTS Versioning And Merge
+
+`AGENTS.md` uses versioned merge rules because source authority depends on the situation.
+
+Version rules:
+
+- `Bootstrap-Version` is the required version field for `AGENTS.md`
+- a file with no `Bootstrap-Version` is a legacy file
+- if both `AGENTS.md` files exist, do not use direct overwrite as the default behavior
+- read both `AGENTS.md` copies before deciding whether bootstrap, merge, or conflict handling is required
+
+When both `AGENTS.md` files exist:
+
+1. if one file is legacy and the other is versioned:
+   merge the legacy content into the versioned file carefully, then write the resolved result back to both files with a current `Bootstrap-Version`
+2. if both files are versioned and the versions differ:
+   perform a two-way merge; do not overwrite one side blindly
+3. if both files are versioned, the versions match, and the contents differ:
+   treat that as drift and perform a two-way merge
+4. after a successful merge:
+   write the merged result back to both `AGENTS.md` locations so the duplicated instruction files are identical again
+5. if the merge cannot be resolved confidently:
+   stop and surface the conflict instead of guessing
+
+Merge goal for `AGENTS.md`:
+
+- preserve one shared bootstrap specification
+- preserve the current `Bootstrap-Version` or advance it intentionally as part of the resolved merge
+- do not keep divergent user-level and repo-level instruction text after merge
 
 ## User-Learning Mirror Sync
 
-User-level memory in this repository uses:
+Canonical user-level memory uses:
 
-- portable mirror: `<repo-root>\user-learning-mirror.md`
 - machine-local canonical file: `%USERPROFILE%\.codex\memories\user-learning.md`
 
-At session start, when both files exist:
+Portable workspace mirror uses:
 
-- compare them
-- prefer the mirror as the portable source in this workspace
+- `<repo-root>\user-learning-mirror.md`
+
+When both files exist:
+
+- compare them at session start
+- prefer a merge over blind overwrite when both sides contain unique entries
 - dual-write new cross-project lessons to both files when both are available
 - merge duplicates instead of appending near-identical entries
 
-If only one exists in the current environment, keep using that one and sync later.
-
 What must be synced and where:
 
-- Cross-project user lessons belong in both `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md` when both files exist
-- The canonical machine-local copy lives at `%USERPROFILE%\.codex\memories\user-learning.md`
-- The portable workspace copy lives at `<repo-root>\user-learning-mirror.md`
-- Project-specific facts, decisions, and status do not go into the user-learning files; they belong in `<repo-root>\project-learning.md`
-- Chronological project events do not go into the user-learning files; they belong in `<repo-root>\project-journal.md`
-- Instruction-read audit rows do not go into markdown memory files; they belong in `<repo-root>\instruction-read-log.csv`
+- cross-project user lessons belong in both `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md`
+- `%USERPROFILE%\.codex\memories\user-learning.md` is the machine-local canonical working copy
+- `<repo-root>\user-learning-mirror.md` is the repo-tracked transport and mirror copy
 
-## Project Logging Rules
+## Repo-Tracked Memory Files
 
-Use:
+These repo files are managed for cross-device propagation through Git rather than through a second Codex-level duplication protocol:
 
-- `project-learning.md` for durable project facts, goals, constraints, decisions, conventions, and milestone state
-- `project-journal.md` for chronological events, actions, outcomes, and follow-up notes
+- `<repo-root>\project-learning.md`
+- `<repo-root>\project-journal.md`
+- `<repo-root>\instruction-read-log.csv`
+
+Use them as follows:
+
+- `<repo-root>\project-learning.md` for durable project facts, goals, constraints, decisions, conventions, and milestone state
+- `<repo-root>\project-journal.md` for chronological events, actions, outcomes, and follow-up notes
+- `<repo-root>\instruction-read-log.csv` for startup/read audit rows only
 
 Automatically log:
 
@@ -105,6 +165,12 @@ Automatically log:
 - durable decisions about tasks, content, structure, tooling, or direction
 - reusable constraints, risks, dependencies, or assumptions
 - rejected or replaced approaches and why
+
+## Portability
+
+- resolve user-level Codex paths from `%USERPROFILE%` on each machine rather than assuming a fixed Windows username
+- resolve project memory files from the active repository root rather than assuming a fixed local clone path
+- treat older absolute project-path references in memory as historical snapshots unless they explicitly claim to define the current workspace root
 
 ## Temporary Compatibility Rules
 

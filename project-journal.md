@@ -1,6 +1,11 @@
 # Project Journal
 
-Chronological project events for `C:\Dev\Code\book_administrative-writing`.
+Chronological project events for the active repository root.
+
+Historical note:
+
+- older entries may contain absolute paths from earlier machines or clone locations
+- treat those path values as historical snapshots unless an entry explicitly states it is defining the current workspace root
 
 ## Entries
 
@@ -214,3 +219,52 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
   - project facts and decisions belong in `<repo-root>\project-learning.md`
   - chronological project events belong in `<repo-root>\project-journal.md`
   - instruction-read audit rows belong in `<repo-root>\instruction-read-log.csv`
+
+### 2026-03-16T12:06:28.8563703+09:00 - Added The Missing Repo-Level AGENTS Creation Rule
+
+- Re-reviewed the explicit bootstrap rules and confirmed one omission remained:
+  - the instructions still did not explicitly require creating `<repo-root>\AGENTS.md` when a fresh clone lacks it
+- Updated both the repo `AGENTS.md` and the user-level `C:\Users\d-dobson\.codex\AGENTS.md` so they now state that:
+  - `<repo-root>\AGENTS.md` must be created from the user-level bootstrap when missing
+  - the shared bootstrap instructions must exist in both the user-level and repo-level `AGENTS.md` files
+  - those overlapping sections should be kept aligned, while the repo copy remains adapted to repo-local paths and project-specific additions
+- Historical note:
+  - this entry is now superseded by the later versioned shared-spec model
+
+### 2026-03-16T12:08:01.0802098+09:00 - Tightened The AGENTS Duplication Rule To Full Alignment
+
+- Re-reviewed the AGENTS duplication language after the user pointed out that partial alignment is still too weak
+- Updated both the repo `AGENTS.md` and the user-level `C:\Users\d-dobson\.codex\AGENTS.md` so they now require:
+  - full alignment between the duplicated `AGENTS.md` files
+  - `%USERPROFILE%\.codex\AGENTS.md` as the canonical source
+  - only deterministic repo-root path substitution and explicit project-specific additions as allowed differences in `<repo-root>\AGENTS.md`
+- Historical note:
+  - this entry is now superseded by the later versioned shared-spec model, which requires identical duplicated content after bootstrap or merge
+
+### 2026-03-16T13:36:04.9560756+09:00 - Replaced The AGENTS Sync Rules With A Versioned Bootstrap Spec
+
+- Reworked both `AGENTS.md` files into the same shared bootstrap specification instead of keeping two similar-but-different texts
+- Added explicit rules that now distinguish:
+  - direct file copy for missing-file bootstrap cases
+  - versioned two-way merge for cases where both `AGENTS.md` files already exist
+  - legacy handling for unversioned `AGENTS.md` files
+- Removed the earlier implication that repo-level project memory files require the same duplication protocol as the `AGENTS.md` pair
+- Clarified that:
+  - `project-learning.md`
+  - `project-journal.md`
+  - `instruction-read-log.csv`
+  are repo-tracked files managed across devices through Git, while `user-learning-mirror.md` still participates in semantic mirror sync with the local user-learning file
+
+### 2026-03-16T13:39:46.8020732+09:00 - Corrected The First Shared-Spec Rewrite
+
+- Re-reviewed the rewritten shared `AGENTS.md` spec before commit
+- Corrected three issues:
+  - startup read order now explicitly reads both `%USERPROFILE%\.codex\AGENTS.md` and `<repo-root>\AGENTS.md` when they exist
+  - `Bootstrap-Version` is now expressed as a stricter plain-text field rather than markdown-styled text
+  - the earlier clone/alignment memory entries are now marked as superseded so they do not compete with the current versioned merge model
+
+### 2026-03-16T13:39:46.8020732+09:00 - Bootstrap Version Format Tightened To Full Timestamp
+
+- Followed up on the `AGENTS.md` version field after noting that date-only same-day versioning would be ambiguous across home and work machines
+- Updated both live `AGENTS.md` copies so `Bootstrap-Version` now uses a full timestamp with timezone offset rather than a coarse same-day label
+- Kept the format aligned with the timestamp style already used throughout the memory files

@@ -1,6 +1,11 @@
 # Project Learning
 
-Durable project memory for `C:\Dev\Code\book_administrative-writing`.
+Durable project memory for the active repository root.
+
+Historical note:
+
+- older entries may contain absolute paths from earlier machines or clone locations
+- treat those path values as historical snapshots unless an entry explicitly states it is defining the current workspace root
 
 ## Entries
 
@@ -203,3 +208,51 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Context: follow-up review of the bootstrap instructions
 - Observation: describing compare/sync behavior is not sufficient by itself; the instructions must explicitly require creating missing user-memory, project-memory, and read-log files, and must state exactly which categories of information sync to which files
 - Preferred behavior: keep both the repo-level and user-level `AGENTS.md` files explicit about creating missing files immediately and about separating cross-project lessons, project facts, project chronology, and CSV read audits into their correct destinations
+
+### 2026-03-16T12:06:28.8563703+09:00 - The Shared Bootstrap Also Requires A Repo-Level AGENTS Clone
+
+- Status: `superseded`
+- Scope: project/workflow
+- Context: follow-up correction to the explicit bootstrap rules
+- Observation: creating the companion memory files is still insufficient if a fresh clone has no repo-level `AGENTS.md`; the shared bootstrap workflow itself must be duplicated between the canonical user-level `AGENTS.md` and the repo-level `AGENTS.md`, with the repo copy adapted to the active repository root
+- Preferred behavior: superseded by the later versioned shared-spec model; direct copy is now for missing-file bootstrap only, while existing paired `AGENTS.md` files follow versioned merge rules
+
+### 2026-03-16T12:08:01.0802098+09:00 - AGENTS Clones Must Be Fully Aligned
+
+- Status: `superseded`
+- Scope: project/workflow
+- Context: clarification of the duplication rule for user-level and repo-level instruction files
+- Observation: saying the files should align only in shared sections leaves too much room for drift; the duplicated `AGENTS.md` files must be treated as fully aligned clones, with only deterministic repo-root path substitution and explicit project-specific additions allowed to differ
+- Preferred behavior: superseded by the later shared-spec rule; the live requirement is now identical duplicated content after bootstrap or merge, not “aligned with allowed differences”
+
+### 2026-03-16T13:36:04.9560756+09:00 - AGENTS Now Uses A Shared Versioned Bootstrap Spec
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: full audit follow-through on reproducibility and sync behavior
+- Observation: the previous clone-and-align wording was still too loose and still contradicted the desired bootstrap behavior. The operative design is now a shared versioned bootstrap spec that is duplicated between `%USERPROFILE%\.codex\AGENTS.md` and `<repo-root>\AGENTS.md`
+- Preferred behavior: keep the duplicated `AGENTS.md` files text-identical, use direct file copy only when one side is missing, and use versioned two-way merge rules when both sides exist
+
+### 2026-03-16T13:36:04.9560756+09:00 - Repo Memory Files Are Git-Managed Rather Than Duplicated
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: audit clarification on which files need Codex-level sync logic
+- Observation: `project-learning.md`, `project-journal.md`, and `instruction-read-log.csv` propagate across devices through Git and do not need a second duplication protocol. `user-learning-mirror.md` remains special because it is both repo-tracked and a semantic mirror of local user memory
+- Preferred behavior: reserve Codex-level copy and merge rules for `AGENTS.md` and user-learning mirror sync, while treating the project memory files as Git-managed repo artifacts with content-usage rules only
+
+### 2026-03-16T13:39:46.8020732+09:00 - Versioned AGENTS Merge Requires Reading Both Copies
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: self-audit of the rewritten shared bootstrap spec
+- Observation: the first rewrite correctly unified the two live `AGENTS.md` files, but it weakened startup handling by naming only one active `AGENTS.md` copy in the read order and by leaving the version token in a less strict markdown form
+- Preferred behavior: read both `%USERPROFILE%\.codex\AGENTS.md` and `<repo-root>\AGENTS.md` whenever they exist before deciding merge behavior, keep `Bootstrap-Version` as a strict plain-text field, and mark the earlier clone/alignment entries as superseded
+
+### 2026-03-16T13:39:46.8020732+09:00 - Bootstrap Version Uses Full Timestamp Granularity
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: follow-up refinement of the shared `AGENTS.md` version field
+- Observation: date-only or coarse same-day versioning is insufficient because the bootstrap instructions can change multiple times on the same day across different machines
+- Preferred behavior: keep `Bootstrap-Version` in full timestamp form with timezone offset so version comparisons remain unambiguous and consistent with the timestamp style already used in the memory files
