@@ -195,3 +195,11 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Context: review of whether the work-PC local bootstrap was sufficient
 - Observation: a minimal user-level `AGENTS.md` is not enough for cross-device consistency; the user-level file must itself carry the startup-read order, startup audit, mirror-sync, and project-logging rules so a new machine can bootstrap local and project memory consistently before any repo-specific repair
 - Preferred behavior: keep the full memory-bootstrap workflow in `%USERPROFILE%\.codex\AGENTS.md` and ensure it stays aligned with the repo-level memory workflow rather than relying on a thin placeholder
+
+### 2026-03-16T11:55:43.6239833+09:00 - Memory Instructions Must Explicitly Require File Creation And Sync Targets
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: follow-up review of the bootstrap instructions
+- Observation: describing compare/sync behavior is not sufficient by itself; the instructions must explicitly require creating missing user-memory, project-memory, and read-log files, and must state exactly which categories of information sync to which files
+- Preferred behavior: keep both the repo-level and user-level `AGENTS.md` files explicit about creating missing files immediately and about separating cross-project lessons, project facts, project chronology, and CSV read audits into their correct destinations

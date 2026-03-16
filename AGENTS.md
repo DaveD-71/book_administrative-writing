@@ -51,6 +51,21 @@ CSV columns:
 - `file_path`
 - `reason`
 
+## Missing-File Bootstrap
+
+At session start, do not treat missing memory files as a reason to skip the workflow. Create the missing files immediately when they are expected for the active workspace.
+
+Create as needed:
+
+- `%USERPROFILE%\.codex\AGENTS.md` as the canonical user-level instruction file
+- `%USERPROFILE%\.codex\memories\user-learning.md` as the canonical machine-local user memory file
+- `<repo-root>\user-learning-mirror.md` as the portable workspace mirror of cross-project user memory
+- `<repo-root>\project-learning.md` as the durable project-memory file
+- `<repo-root>\project-journal.md` as the chronological project log
+- `<repo-root>\instruction-read-log.csv` as the startup/read audit log with the required CSV header
+
+If a repo-root `AGENTS.md` exists but the companion memory files do not, create the companion files before continuing startup handling.
+
 ## User-Learning Mirror Sync
 
 User-level memory in this repository uses:
@@ -66,6 +81,15 @@ At session start, when both files exist:
 - merge duplicates instead of appending near-identical entries
 
 If only one exists in the current environment, keep using that one and sync later.
+
+What must be synced and where:
+
+- Cross-project user lessons belong in both `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md` when both files exist
+- The canonical machine-local copy lives at `%USERPROFILE%\.codex\memories\user-learning.md`
+- The portable workspace copy lives at `<repo-root>\user-learning-mirror.md`
+- Project-specific facts, decisions, and status do not go into the user-learning files; they belong in `<repo-root>\project-learning.md`
+- Chronological project events do not go into the user-learning files; they belong in `<repo-root>\project-journal.md`
+- Instruction-read audit rows do not go into markdown memory files; they belong in `<repo-root>\instruction-read-log.csv`
 
 ## Project Logging Rules
 

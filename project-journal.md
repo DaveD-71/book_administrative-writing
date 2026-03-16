@@ -204,3 +204,13 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
   - mirror sync rules between `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md`
   - project-memory logging rules
   - portability and local-link compatibility rules
+
+### 2026-03-16T11:55:43.6239833+09:00 - Made File Creation And Sync Targets Explicit In The Instructions
+
+- Tightened both the repo `AGENTS.md` and the user-level `C:\Users\d-dobson\.codex\AGENTS.md`
+- Added an explicit missing-file bootstrap section that now requires creating expected memory files instead of silently skipping the workflow when they are absent
+- Added explicit sync-target rules that now state:
+  - cross-project user lessons sync between `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md`
+  - project facts and decisions belong in `<repo-root>\project-learning.md`
+  - chronological project events belong in `<repo-root>\project-journal.md`
+  - instruction-read audit rows belong in `<repo-root>\instruction-read-log.csv`
