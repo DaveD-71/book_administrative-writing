@@ -4,7 +4,7 @@ Portable mirror of user-level lessons relevant to this workspace.
 
 Sync rule:
 
-- compare this file with `C:\Users\daved\.codex\memories\user-learning.md` at session start when both exist
+- compare this file with `%USERPROFILE%\.codex\memories\user-learning.md` at session start when both exist
 - prefer this mirror as the portable source in this workspace
 - dual-write new cross-project lessons to both files when both are available
 - merge duplicates instead of appending near-identical entries
@@ -25,8 +25,8 @@ Sync rule:
 - Status: `workaround`
 - Scope: user/workflow
 - Context: global Codex instruction discovery
-- Observation: the canonical user-level instructions file must live at `C:\Users\daved\.codex\AGENTS.md`
-- Preferred behavior: do not treat `C:\Users\daved\AGENTS.md` as authoritative unless `CODEX_HOME` is explicitly changed
+- Observation: the canonical user-level instructions file must live at `%USERPROFILE%\.codex\AGENTS.md`
+- Preferred behavior: do not treat `%USERPROFILE%\AGENTS.md` as authoritative unless `CODEX_HOME` is explicitly changed
 
 ### 2026-03-15T00:34:37.9048369+09:00 - Workspace Scope Must Follow User Statement And VS Code Workspace
 

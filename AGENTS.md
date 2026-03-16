@@ -2,7 +2,7 @@
 
 Scope:
 
-- `C:\Dev\Code\book_administrative-writing`
+- the current repository root containing this `AGENTS.md`
 
 This file defines the project-level Codex memory workflow for this repository.
 
@@ -21,10 +21,10 @@ Do not let stale shell cwd or prior-project context override the current workspa
 
 After the user-level startup files are read, read:
 
-1. `C:\Dev\Code\book_administrative-writing\AGENTS.md`
-2. `C:\Dev\Code\book_administrative-writing\user-learning-mirror.md`
-3. `C:\Dev\Code\book_administrative-writing\project-learning.md`
-4. `C:\Dev\Code\book_administrative-writing\project-journal.md`
+1. `<repo-root>\AGENTS.md`
+2. `<repo-root>\user-learning-mirror.md`
+3. `<repo-root>\project-learning.md`
+4. `<repo-root>\project-journal.md`
 
 Use recent journal entries by default. Read older archive segments only when needed.
 
@@ -41,7 +41,7 @@ In the first substantive reply of a new session or after a workspace switch, exp
 
 Append CSV rows for instruction and memory file reads to:
 
-- `C:\Dev\Code\book_administrative-writing\instruction-read-log.csv`
+- `<repo-root>\instruction-read-log.csv`
 
 CSV columns:
 
@@ -55,8 +55,8 @@ CSV columns:
 
 User-level memory in this repository uses:
 
-- portable mirror: `C:\Dev\Code\book_administrative-writing\user-learning-mirror.md`
-- machine-local canonical file: `C:\Users\daved\.codex\memories\user-learning.md`
+- portable mirror: `<repo-root>\user-learning-mirror.md`
+- machine-local canonical file: `%USERPROFILE%\.codex\memories\user-learning.md`
 
 At session start, when both files exist:
 

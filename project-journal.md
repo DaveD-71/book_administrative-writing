@@ -160,3 +160,35 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
   - `project-journal.md`
   - `instruction-read-log.csv`
 - Seeded the scaffold with current user-level compatibility rules and initial repository context
+
+### 2026-03-16T11:07:11.6171964+09:00 - Work PC Local Codex Home Bootstrap
+
+- Read the repository-root memory files during startup handling:
+  - `AGENTS.md`
+  - `user-learning-mirror.md`
+  - `project-learning.md`
+  - `project-journal.md`
+- Confirmed the repo already contains the project memory scaffold and `instruction-read-log.csv`
+- Found that this work PC already has a local Codex home under `C:\Users\d-dobson`, but it did not have the user-level `AGENTS.md` or canonical `memories\user-learning.md` files that this repo expects; the weekend bootstrap had also hardcoded `C:\Users\daved`
+- Updated the repo-local memory instructions so repo paths resolve from the active repository root and user-level paths resolve from `%USERPROFILE%\.codex`
+- Created the local bootstrap under:
+  - `%USERPROFILE%\.codex\AGENTS.md`
+  - `%USERPROFILE%\.codex\memories\user-learning.md`
+- Read back the new local files and confirmed the canonical user-learning file matches the repo mirror in content
+- Noted an environment limitation for this machine session:
+  - `.git` exists in the workspace, but `git` is not available on `PATH`, so repo/sync status could not be verified with normal git commands
+
+### 2026-03-16T11:07:11.6171964+09:00 - Work PC Git Shell Access Repaired
+
+- Confirmed Git for Windows was already installed at:
+  - `C:\Users\d-dobson\AppData\Local\Programs\Git\cmd\git.exe`
+- Found the actual problem was shell environment setup:
+  - the user `Path` did not include the Git `cmd` directory
+  - PowerShell profile loading was blocked until `CurrentUser` execution policy was set to `RemoteSigned`
+- Repaired the local setup by:
+  - appending `C:\Users\d-dobson\AppData\Local\Programs\Git\cmd` to the user `Path`
+  - creating `C:\Users\d-dobson\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1` with a fallback Git path prepend
+  - setting the current-user execution policy to `RemoteSigned`
+- Verified from a fresh shell invocation that:
+  - `git --version` now succeeds
+  - `git status --short --branch` now succeeds in this repository
