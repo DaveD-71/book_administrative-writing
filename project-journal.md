@@ -134,6 +134,20 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
     - Unit 19 Practice D placement problem as a current active-file defect
 - Updated the advanced to-do list so Round 3, not Round 2, is now the operative `N11` summary
 
+### 2026-03-16T02:05:00+09:00 - Applied The Full Round 3 Correction Set To The Active Files
+
+- Implemented the H1 decision by updating the structural profiles for Units 2, 3, 4, 6, 11, and 19 and by adding the missing live-file H labels/content in Module 1 and Unit 19
+- Removed the duplicate loose `F1` blocks in Module 1 Units 2 and 3 and normalised explicit H3 / H1 sub-labelling across Units 1-3
+- Revised the flagged JPO prompts in Modules 2 and 4 so the active options are shorter, less clustered around the same trilateral/counterpart-office family, and more clearly separated within their units
+- Resolved Unit 20 structural defects by removing the duplicate `B1` heading and aligning the profile note with the current `D2` design rather than an obsolete `D3` expectation
+- Updated the operative checklist and to-do list so the Round 3 blocker set is now treated as corrected-in-source, with a targeted recheck as the next QA step
+
+### 2026-03-16T09:28:49.3778502+09:00 - Completed The Remaining Five-Unit H1 Rollout
+
+- Confirmed and preserved the live H1 additions for Unit 18 and Units 20-23 in the active `n10` files
+- Confirmed the corresponding structural-profile rows for Units 18 and 20-23, including Unit 23's capstone-appropriate reflection / transfer framing
+- Updated the operative checklist, Round 3 implementation note, and advanced to-do list so they now describe H1 as a book-wide feature rather than as a correction limited to the earlier mismatch set
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Codex Memory Scaffold Created
 
 - Workspace root confirmed from VS Code state as `C:\Dev\Code\book_administrative-writing`

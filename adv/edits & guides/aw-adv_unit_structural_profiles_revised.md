@@ -107,6 +107,7 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own writing for (1) unnecessary directness, (2) missing softening, (3) implied blame, (4) insufficient audience adaptation, and (5) unclear purpose. |
 | G. Editing — Editing Exercise (G1) | rewrite direct or aggressive sentences using named softening strategies and (2) identify which strategy has been applied in each case. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a ~150-word diplomatic request to a foreign office incorporating (1) at least three softening strategies, (2) clear reason-giving, and (3) a cooperative closing. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) rewrite a recent professional message applying softening strategies from this unit, (2) compare tone across three real examples of the same request type written for different audiences, or (3) build a personal softening phrase bank organised by communicative function. |
 
 Content flags (for Task B — do not action now):
 - The unit goal ("Select and sustain appropriate register") is broader than the content, which focuses on softening and diplomatic phrasing — a subset of register. Consider revising to: "Apply diplomatic phrasing and softening strategies appropriate to different professional audiences."
@@ -143,6 +144,7 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own writing for (1) missing or incorrect connectors, (2) repeated nouns, (3) unexplained topic shifts, (4) unclear sentence relationships, and (5) weak or missing topic sentences. |
 | G. Editing — Editing Exercise (G1) | (1) identify specific cohesion problems in a short paragraph and (2) rewrite it with improvements, (3) naming the changes made and explaining why. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a ~150-word cohesive administrative explanation incorporating (1) at least five cohesive devices, (2) four reference words, and (3) clear paragraph structure (topic → support → implication). |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) find and rewrite a poorly cohesive paragraph from a recent work document, (2) annotate the homework paragraph for cohesive devices and thematic progression, or (3) write a short plain-language guide explaining thematic progression with before-and-after examples. |
 
 Content flags (for Task B — do not action now):
 - The Language Focus C3 activities cover two distinct skills (reference words and connector insertion) that are not differentiated in the current profile entry. The profile records only "Sentence Rewriting (C3)" — consider whether sub-labelling is warranted.
@@ -192,12 +194,13 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own email against five structural and tonal criteria before submission. |
 | G. Editing — Editing Exercise (G1) | rewrite a poorly structured email by (1) adding context, (2) separating and explaining requests, (3) sequencing content appropriately, (4) improving diplomatic tone, and (5) adding a next-step statement. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 190–220 word structured professional email with (1) a professional opening, (2) clear purpose, (3) at least two separately stated requests, (4) next-step information, and (5) a diplomatic closing. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) find and rewrite a real professional email that contains multiple requests, assessing it against the six-part structural sequence from this unit, (2) convert a workplace email into a structural template identifying where each section maps onto the six-part sequence, or (3) write a phrase bank of at least twelve expressions organised under the six structural headings with two alternatives per heading. |
 
 Content flags (for Task B — do not action now):
 - D2 (Scenario Writing) specifies "5–7 sentences" — sentence count rather than word count. This is Guided Writing (Section D) so it is outside P5 scope, but the sentence count may be unnecessarily restrictive given the more flexible word count in E and H.
 - The Freer Writing task (E) does not follow the Prompt & Task Writing Policy: option 4 (JPO scenario) is over-specified and pre-identifies content the learner should generate. Also, the task requirements bullet list is currently duplicated inside the JPO scenario rather than stated once at task level. Needs revision per the policy.
 - The Homework task (H3) has the JPO option appended as a numbered item (4) directly after the requirements list, rather than separated as a context choice. Needs restructuring per the policy.
-- H section ordering: Extension Task is absent from this unit (correct per the profile — only H3 is listed). ✅
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -263,12 +266,14 @@ Activity-level Can-Do statements:
 | G. Editing — Editing Exercise (G1) | rewrite four direct or vague sentences by (1) adding diplomatic framing, (2) adding specific references, (3) adding impact explanations where relevant, and (4) adding next-step markers. |
 | H. Homework & Extension — Real-World Task (H2) ★ | (1) assess a real or realistic professional message against the unit's criteria and (2) rewrite it applying the diplomatic techniques from this unit. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 190–220 word diplomatic error-notification email incorporating (1) at least three diplomatic framing expressions, (2) one impact explanation, (3) at least two specific references, and (4) a next-step statement. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) find and rewrite a real error-notification message from professional experience, assessing it against this unit's criteria, (2) write a reply from the receiving office acknowledging the issue and confirming correction, or (3) create a self-editing guide for diplomatic error notifications listing at least eight criteria to apply before sending. |
 
 Content flags (for Task B — do not action now):
 - The E1 Freer Writing task option 4 (JPO scenario) is over-specified: it names the section, the type of discrepancy, and the partner office, removing much of the analytical work from the learner. Needs calibrating per the Prompt & Task Writing Policy.
 - The H3 JPO option (item 4) is appended directly after the requirements list rather than presented as a context choice. Needs restructuring per the policy.
 - D2 specifies "5–7 sentences" — same note as Unit 4 regarding sentence count in Guided Writing.
 - C4 (Practice B) has 6 items. ✅
+- H section ordering: H2 Real-World Task → H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -453,12 +458,13 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own summary against six criteria: (1) all four sections present and labelled, (2) overview complete, (3) Key Points neutral and objective, (4) action items attributed with deadlines, (5) Next Steps actionable, and (6) no informal language. |
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a poorly written meeting summary (absent structure, vague references, subjective language, unattributed action items, unprofessional tone) and (2) rewrite it as a complete, properly formatted executive summary. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 200–240 word executive summary incorporating (1) all four standard sections, (2) an overview with date, participants, and purpose, (3) key issues with brief supporting detail, (4) specific attributed action items with deadlines, (5) clear next steps, and (6) formal neutral tone. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) find a real meeting summary from your workplace and evaluate it against this unit's four-section structure, rewriting one weak section, (2) take your H3 summary and convert it into a one-paragraph briefing note for a senior official who was not present, or (3) write a style guide for meeting summaries listing eight features of executive-level tone and structure with one original example for each. |
 
 Content flags (for Task B — do not action now):
 - The B7 Data Interpretation task asks learners to write two sections of a summary (Decisions / Action Items and Next Steps) from a data table. The instruction notes "you do not need to invent what was discussed" — a sensible constraint. However, the task does not specify how to handle the deferred items shown in the table (e.g. Office B has two deferred items). A brief note on how to treat deferred items in a summary would strengthen the task.
 - The JPO variant (option 4 in E1 and H3) is over-specified: it names the exact topic, the three offices, three specific key issues, and the outcome of one agenda item. Needs calibrating per the Prompt & Task Writing Policy.
 - H3 word count is 200–240 — slightly wider range than the 200–230 in E1. Consider whether these should be aligned.
-- No Extension Task (H1 or H2) is present in this unit — profile lists only H3. ✅
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -741,12 +747,14 @@ Activity-level Can-Do statements:
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a source-listing draft synthesis (listing, informal language, missing insight, weak structure) and (2) rewrite it as a properly synthesised paragraph with grouped themes, contrast or agreement, and a concluding insight in 60–80 words. |
 | H. Homework & Extension — Real-World Task (H2) | (1) find three real workplace documents addressing the same issue and (2) write a 120–150 word synthesis paragraph integrating all three sources. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 220–260 word synthesis incorporating (1) clear grouped themes, (2) contrasts or agreements between sources, (3) a concluding insight, and (4) formal neutral tone. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) rewrite a synthesis for a different reader, (2) create a comparison grid before drafting a synthesis, or (3) build a synthesis phrase bank organised by communicative function. |
 
 Content flags (for Task B — do not action now):
 - Unit 18 has no JPO variant assigned in the Step 11 document, but has H2 (Real-World Task) as well as H3. The H2 specifies "three real documents from your workplace" — this is appropriate for the unit's multi-source focus, but learners in self-study or non-workplace contexts may find this difficult. A fallback option would improve accessibility.
 - The B6 Reading-to-Write Input task asks learners to write a paragraph in Section B and then return to it in Section D. This is a strong revisory loop. However, the instruction in D2 ("Return to the paragraph you wrote in Section B") assumes learners have kept it. This should be flagged for layout — the instruction in B6 should tell learners explicitly to keep the paragraph for use in D.
 - D2 (Scenario Writing) in this unit functions more as a revision and comparison task than a writing-from-scratch task. The code D2 is used for scenario-based writing across the book, but here the scenario is the B6 paragraph itself. This is an unusual use of D2 and may be worth recoding or relabelling during Task B.
 - No E word count specified in the freer writing task preamble — the word count (220–260 words) appears only in the scenario list. Should be moved to the task instruction level for consistency.
+- H section ordering: H2 Real-World Task → H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -794,13 +802,14 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own summary against six criteria: (1) all technical references replaced or explained, (2) purpose clearly stated, (3) required actions and deadlines explicit, (4) no assumed specialised knowledge, (5) neutral professional accessible tone, and (6) word count within range. |
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a technically dense paragraph written for a general audience (unnecessary references, vague purpose, absent required action, tone problems) and (2) rewrite it as a clear, accessible plain-language summary. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 280–320 word plain-language policy summary incorporating (1) what has changed and when, (2) the reason for the change, (3) who is affected and how, (4) the required action, and (5) simple professional language throughout. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) find a real policy notice from your workplace and rewrite two technically dense passages in plain language, noting what you changed and why, (2) take your H3 summary and rewrite it as a two-sentence executive overview for a senior official, explaining what you cut or restructured, or (3) build a plain-language revision guide listing eight common features of technical policy writing that reduce accessibility, with one before-and-after example and one explanatory sentence for each. |
 
 Content flags (for Task B — do not action now):
 - Unit 19 has no JPO variant assigned in the Step 11 document. ✅
 - The Language Focus has three distinct C3 sub-sections (Simplifying Technical References, Explaining Purpose and Impact, Stating Required Actions Clearly) plus a fourth Practice D (Organise the Justification — which belongs to Unit 20, not Unit 19). The profile records only "Sentence Rewriting (C3)" — the three-way sub-structure is richer than the profile reflects and warrants attention in Task B.
 - Wait — Practice D in the content file appears to have been placed inside Unit 19's Language Focus but belongs to Unit 20 (it is the "Structuring a Complete Justification" exercise). This is a content placement error that needs correcting in Task B. The four-sentence sorting exercise (A–D) reads as Unit 20 content and is present in both units in the current file.
 - The B section has an unusual structure: B reads as a Reading-to-Write Input task followed by a Compare Two Versions task — this is the reverse of the typical B1 → B2/B3/B4/B6 sequence. The profile should record B6 before B1 for this unit to reflect the actual pedagogical order. ✅ (Profile updated accordingly.)
-- No Extension Task (H1 or H2) in this unit — profile lists only H3. ✅
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -831,12 +840,14 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own justification against six criteria: (1) decision in the first sentence, (2) policy or procedural rationale, (3) problem identified, (4) benefits stated specifically, (5) no emotional or informal language, and (6) word count within range. |
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a vague, poorly justified administrative decision (absent decision statement, no policy basis, vague language, missing benefit) and (2) rewrite it as a concise policy-aligned justification. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 230–270 word justification incorporating (1) a clear decision statement, (2) a specific rationale grounded in policy or evidence, (3) identification of the problem addressed, (4) expected benefits, and (5) formal neutral tone. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) evaluate a real workplace justification, (2) produce shorter versions of the same justification for different readers, or (3) create a workplace justification checklist. |
 
 Content flags (for Task B — do not action now):
 - Unit 20 has no JPO variant assigned in the Step 11 document. ✅
 - As noted under Unit 19: Practice D ("Organise the Justification" — sequencing task on sentences A–D) appears to be misplaced in Unit 19's Language Focus. It belongs to Unit 20 and should be moved there. In the current profiles, C6 (Sequencing/Ordering Task) is listed for Unit 20 — suggesting the intent was correct but the placement in the module file needs fixing.
-- The Language Focus has three distinct C3 sub-sections plus a C6 task. The profile records "Sentence Rewriting (C3) · Template-Guided Writing (D3)" — Template-Guided Writing (D3) is not present in the current module file content. Either D3 was dropped in an earlier revision or is missing from the file. Needs checking against earlier drafts.
+- The Language Focus has three distinct C3 sub-sections plus a C6 task. The active module file now uses D2 for the concise scenario-based guided writing stage rather than the earlier D3 expectation. Treat D2 as the current intended design unless a later planning decision reopens the template-guided version.
 - D2 specifies 60–80 words — this is the shortest Guided Writing target in the book and is appropriate given the "concise" focus of the unit.
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -870,12 +881,14 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own report against seven criteria: (1) summary states coverage and source count, (2) issues grouped and blame-free, (3) actions specific and attributed, (4) outstanding questions precise, (5) next steps with responsibilities and deadlines, (6) neutral formal tone, and (7) word count within range. |
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a vague, unstructured report attempt and (2) rewrite it as a structured, professional consolidated report. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 270–310 word consolidated administrative report using the five-section format with (1) formal neutral tone throughout and (2) all required elements present in each section. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) rewrite selected sections of a report for a shorter senior-reader version, (2) convert a real update text into the five-section report format, or (3) create a report-planning template for workplace use. |
 
 Content flags (for Task B — do not action now):
 - Unit 21 has a D section with three activities (D1, D5, D7) — the most heavily loaded D section in the book. This is likely intentional given the document-conversion focus of the unit, but the sequencing D1 → D5 → D7 should be checked to ensure all three are achievable within a single session without excessive time pressure.
 - The E4 Multi-Part Portfolio Task contains two conflicting word count specifications: the main task instruction states 250–300 words, while a separate line reads "Word count: 220–260 words." These need reconciling. The three-part breakdown (80–100 + 80–100 + 40–50) totals approximately 200–250 words, which is more consistent with 220–260 than with 250–300. The higher figure should probably be retained and the three-part ranges adjusted upward slightly.
 - The JPO option (E4 item 4) is relatively well-framed compared to other units: it provides a context and three team descriptions with clear roles, but pre-assigns the status of each team (Team A on track, Team B has a specific problem, Team C has a specific question). This constrains the analytical challenge. The issue descriptions are acceptable as context but should not pre-state what sections of the report should say.
 - H3 JPO option (item 4) uses a suggested word count of 250–300 words, which is below the stated unit range of 270–310 words. Needs reconciling.
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -905,12 +918,14 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own document against six criteria: (1) all key issues addressed, (2) synthesised not listed, (3) actions clearly stated with deadlines, (4) appropriate audience and format, (5) formal neutral tone, and (6) word count within range. |
 | G. Editing — Track-Change Simulation (G3) | (1) mark a draft document using deletion, replacement, and addition conventions, and (2) write a clean revised version incorporating all marked changes. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 300–340 word integrated administrative document for the unit's scenario incorporating (1) synthesis of all four inputs, (2) grouped key issues, (3) required actions with responsibilities and deadlines, (4) appropriate format for the purpose, and (5) formal neutral tone. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) rewrite the opening section for a different audience, (2) create a planning sheet for the scenario inputs and required actions, or (3) revise an earlier unit text using this unit's integrated-response standard. |
 
 Content flags (for Task B — do not action now):
 - Unit 22 has no JPO variant assigned in the Step 11 document. ✅
 - The B section lists B6 (Reading-to-Write Input) before B1 (Compare Two Versions) — the same structural reversal noted in Unit 19. This is intentional in both units: the B6 task activates reading before the comparison, rather than following it. The profile should reflect this ordering. ✅ (Profile records B6 before B1.)
 - The D6 Revision Chain references Unit 18 writing — which is two modules back. This is a significant reach-back and may be difficult in non-linear or self-study contexts. A fallback option or alternative text for learners who no longer have their Unit 18 work would improve robustness.
 - The E4 Part A planning note (60 words, not submitted) is an unusual element — a planning task with no assessment value. Its inclusion is pedagogically sound (planning before writing) but the "not submitted" instruction should be clearly visible to both teacher and learner.
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 
@@ -936,6 +951,7 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist — rubric-based (F3) | (1) evaluate my capstone document against ten rubric criteria using a three-point scale (Strong / Developing / Needs work), (2) identify my two lowest-rated criteria, and (3) revise the document to address them before submitting. |
 | G. Editing — Track-Change Simulation (G3) | (1) mark a weak draft response to the capstone scenario using deletion, replacement, and addition conventions, and (2) write a clean revised version. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 300–350 word capstone administrative document using the format that best represents my full range of writing ability, incorporating (1) synthesis of all five inputs, (2) thematic presentation of key issues, (3) specific time-bound actions and next steps, (4) formal neutral diplomatic tone, and (5) mastery of structure, cohesion, justification, and audience awareness across all skills practised in Units 1–22. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) reflect on strengths and weaknesses in the capstone response, (2) produce a shorter executive version of the capstone document, or (3) build a final self-study revision plan based on Units 1–23. |
 
 Content flags (for Task B — do not action now):
 - Unit 23 is a deliberate structural exception: one activity per section, assessment rather than instructional function. The profiles document already notes this. ✅
@@ -943,6 +959,7 @@ Content flags (for Task B — do not action now):
 - The F3 Self-Editing Checklist is rubric-based — a ten-criterion table with a three-point scale. This is the most elaborate self-assessment instrument in the book and is appropriate for a capstone unit. However, it should be checked for alignment with the unit-level Can-Do statements and the learning goals across Units 1–22 to ensure all major competences are represented.
 - The C4 Self-Diagnosis task asks learners to identify patterns in their own previous writing. This requires learners to have access to their own work across Units 19–22, which may not be reliable in all delivery contexts. A teacher-facing note about how to manage this in class would be helpful.
 - No JPO variant is present in Unit 23. This is appropriate for a capstone unit — the scenario is sufficiently open that JPO learners can apply their context freely within the portfolio task. ✅
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 

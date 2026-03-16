@@ -300,6 +300,16 @@ Your summary must include:
 - what action the reader is required to take
 - simple, professional language throughout
 
+---
+
+#### Extension Task (H1)
+
+Choose one:
+
+1. Find a real policy notice from your workplace and rewrite two technically dense passages in plain language, noting what you changed and why.
+2. Take your H3 summary and rewrite it as a two-sentence executive overview for a senior official. Then explain what you cut or restructured to make it suitable for that reader.
+3. Build a plain-language revision guide listing eight common features of technical policy writing that reduce accessibility. For each one, include a before-and-after example and one sentence explaining the improvement.
+
 
 
 ---
@@ -345,8 +355,6 @@ Discuss:
 **Improved (Concise, Policy-Aligned Justification)**
 
 > *"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
-
-#### Compare the Versions (B1)
 
 Identify improvements in:
 
@@ -582,6 +590,14 @@ Your justification must include:
 - identification of the problem the decision addresses
 - a description of expected benefits
 - formal, neutral tone throughout
+
+#### Extension Task (H1)
+
+Choose one:
+
+1. Find a real justification from your workplace and assess whether it clearly states the decision, gives a policy- or evidence-based rationale, and explains the expected benefit. Rewrite one weak part.
+2. Take your H3 justification and produce two shorter alternatives: a one-sentence decision statement plus rationale, and a two-sentence version adding the expected benefit. Then explain which version would suit which reader.
+3. Create a justification checklist for your own workplace. Include at least eight criteria covering decision clarity, policy grounding, problem definition, expected benefit, and tone.
 
 
 
@@ -928,6 +944,14 @@ Write a **270–310 word** consolidated administrative report. Choose one scenar
 
 Your report must use the five-section format (Summary / Issues Identified / Actions Taken / Outstanding Questions / Next Steps) and maintain a formal, neutral tone throughout.
 
+#### Extension Task (H1)
+
+Choose one:
+
+1. Take your H3 report and rewrite only the Summary and Next Steps sections for a senior reader who wants a shorter version. Then note what you removed and why.
+2. Find a real update email or meeting summary from your workplace and convert it into the five-section consolidated-report format used in this unit.
+3. Create a report-planning template for your own workplace with headings for Summary, Issues Identified, Actions Taken, Outstanding Questions, and Next Steps. Under each heading, list the information a writer must collect before drafting.
+
 
 
 ---
@@ -1163,6 +1187,14 @@ Your document must:
 - demonstrate appropriate structure for the chosen format
 - maintain formal, neutral tone throughout
 
+#### Extension Task (H1)
+
+Choose one:
+
+1. Take your H3 document and rewrite the opening section for a different audience: either all offices, a direct supervisor, or a partner agency. Then explain how the audience change affected your choices.
+2. Create a planning sheet for this unit's scenario package. List the four inputs, the key issue from each, the shared theme across them, and the actions that need to appear in the final document.
+3. Find one earlier piece of writing from Units 19–21 and revise it using the integrated-response standard from this unit. Aim to improve synthesis, action clarity, and document structure.
+
 
 
 ---
@@ -1364,6 +1396,14 @@ Your document must:
 - propose specific, time-bound actions and next steps
 - maintain formal, neutral, diplomatic tone throughout
 - demonstrate mastery of structure, cohesion, justification, and audience awareness as practised across Units 1–22
+
+#### Extension Task (H1)
+
+Choose one:
+
+1. Re-read your H3 capstone response and write a short reflection identifying two strongest features and two areas you would still improve before final submission.
+2. Take your capstone document and produce a shorter executive version for a senior reader, keeping only the essential issues, actions, and deadlines. Then explain what you removed and why.
+3. Build a final self-study revision plan based on Units 1–23. List the three administrative-writing skills you most need to strengthen, one example task for each, and one practical next step you can take in your workplace writing.
 
 ---
 

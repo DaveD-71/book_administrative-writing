@@ -746,4 +746,12 @@ Write a **220–260 word** synthesis combining information from three or more so
 - a concluding insight
 - formal, neutral tone
 
+#### Extension Task (H1)
+
+Choose one:
+
+1. Take the synthesis you wrote for H3 and rewrite it for a different reader: either a senior manager who needs only the overall finding and the main implication, or a colleague who needs a fuller thematic explanation. Then note what you changed and why.
+2. Find three short workplace texts on the same issue and create a comparison grid showing what each source adds, where they agree, and where they differ. Then write a brief synthesis opening sentence based on that grid.
+3. Build a personal synthesis phrase bank organised under four headings: introducing a shared theme, showing agreement, showing contrast, and drawing a conclusion. Add two original example sentences under each heading.
+
 ---

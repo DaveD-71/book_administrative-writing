@@ -132,6 +132,22 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Observation: `adv/edits & guides/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
 - Preferred behavior: treat the main `aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
 
+### 2026-03-16T02:05:00+09:00 - Round 3 Source Fixes Preserve The Existing Section-H House Standard
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: implementation of the Round 3 correction set
+- Observation: the H1 decision was applied to the affected units, but the implementation deliberately preserved the repo's established Section H order (`H2 → H3 → H1` where relevant) rather than importing the alternate ordering proposed in Claude's Step 19 note; Module 1 structural cleanup, Module 2/4 JPO prompt diversification, and Unit 20 structural cleanup were applied in the same correction pass
+- Preferred behavior: treat the repo's existing H-ordering convention as authoritative unless a future project decision explicitly replaces it
+
+### 2026-03-16T09:28:49.3778502+09:00 - H1 Is Now A Book-Wide Feature In The Active Advanced Baseline
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: post-Round-3 follow-through on the accepted H1 policy
+- Observation: the active advanced baseline now treats H1 Extension Task as a consistent book-wide feature, including Unit 18 and Units 20-23, while preserving the established Section H order (`H2 → H3 → H1` where H2 is present, otherwise `H3 → H1`)
+- Preferred behavior: future QA and editing passes should assess H1 as a book-wide requirement and should not treat the old six-unit mismatch set as the governing scope any longer
+
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
 
 - Status: `resolved`

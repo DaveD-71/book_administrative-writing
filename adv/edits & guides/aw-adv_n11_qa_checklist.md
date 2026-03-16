@@ -99,7 +99,7 @@ Use `Deferred` only for items explicitly scheduled for a later stage, such as `P
 Before beginning the module-by-module pass, complete the following:
 
 1. Read the current `N10` feedback reports (`aw-adv_n10_claude-fb_mod1-3_v2.md` and `aw-adv_n10_claude-fb_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
-2. Confirm the status of the H1 Extension Task structural decision for Units 2, 3, 4, 6, and 11. The structural profiles specify these units should not have H1; if the `N10` files contain H1 Extension Tasks for these units, record as `Revise` pending the project owner's decision. Do not proceed past this point without a decision on record.
+2. Confirm the recorded H1 decision now in force for the active book files: H1 Extension Task is retained as a consistent book-wide feature. If any active file or structural-profile entry still omits H1 or contradicts that decision, record as `Revise`.
 3. Note any other open decisions logged in the project to-do list that affect content currently under review.
 
 These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
@@ -325,8 +325,9 @@ If the failure is:
 - [ ] The active unit matches the assigned activity codes and sequence in the structural profiles
 - [ ] First-use and special-profile exceptions are handled correctly where relevant
 - [ ] Any deliberate deviation from the profile is documented and justified
-- [ ] H1 Extension Tasks are present only in units where the structural profiles assign H1; units not assigned H1 (currently Units 2, 3, 4, 6, and 11) must not contain an H1 Extension Task unless the project owner has explicitly approved a profile change
-- [ ] Where H1 is correctly assigned, the Extension Task contains three genuinely varied options drawn from different activity types in the Master Activity Menu
+- [ ] H1 Extension Task is implemented consistently across the active files and structural profiles as a book-wide feature
+- [ ] Each H1 Extension Task contains three genuinely varied options drawn from different activity types in the Master Activity Menu — not three versions of the same task type
+- [ ] Where H2 is also present, section H ordering follows the current project standard: H2 → H3 → H1
 
 ### 5G.2 Can-Do architecture compliance
 

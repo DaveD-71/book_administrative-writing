@@ -226,18 +226,6 @@ Choose one situation:
 
 ### F. Review / Self-Edit
 
-#### Peer Review (F1)
-
-Exchange drafts with a partner and answer:
-
-- Which sentence was the clearest? Why?
-- Where could segmentation improve readability?
-- Did any sentence contain ambiguous references?
-
-*Self-study learners: Write your responses to these questions before continuing.*
-
----
-
 #### Self-Editing Checklist (F3)
 
 Check your writing for the following:
@@ -264,6 +252,8 @@ Rewrite the following sentences to eliminate ambiguity. For each one, identify t
 
 ### H. Homework & Extension
 
+#### Homework Writing Task (H3)
+
 Write approximately **150 words** explaining a work situation that involves multiple related causes or factors. Your explanation should be appropriate for internal or interagency communication, and should use coordination, subordination, and segmentation to manage the logical relationships clearly.
 
 Choose one situation:
@@ -273,6 +263,8 @@ Choose one situation:
 3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
 
 ---
+
+#### Extension Task (H1)
 
 Choose one:
 
@@ -479,18 +471,6 @@ Choose one situation:
 
 ### F. Review / Self-Edit
 
-#### Peer Review (F1)
-
-Partners identify:
-
-- tone strengths
-- any overly direct expressions
-- opportunities to add softening or clarification
-
-*Self-study learners: Use these questions to review your own draft before continuing.*
-
----
-
 #### Guided Peer Review (F1)
 
 - Is the tone appropriate for the intended audience?
@@ -525,6 +505,8 @@ Rewrite these sentences to make them more diplomatic. For each one, identify whi
 
 ### H. Homework & Extension
 
+#### Homework Writing Task (H3)
+
 Write approximately **150 words**. Your message must use at least three softening strategies, include clear reason-giving, and close cooperatively. Choose one situation:
 
 1. A partner agency has been sending correspondence to a contact who left your office three months ago. Important messages have gone unanswered as a result. Write to the agency's liaison officer to explain the situation and provide updated contact details.
@@ -532,6 +514,8 @@ Write approximately **150 words**. Your message must use at least three softenin
 3. A domestic agency counterpart has twice submitted a form using an outdated template, causing delays each time. Write to explain that an updated version is required and to provide guidance on where it can be found.
 
 ---
+
+#### Extension Task (H1)
 
 Choose one:
 
@@ -745,17 +729,6 @@ Choose one situation:
 
 ### F. Review / Self-Edit
 
-#### Peer Review (F1)
-
-- Is the topic clear from the first sentence?
-- Are transitions logical and smooth?
-- Does each sentence connect to the previous one?
-- Are connectors overused, underused, or misused?
-
-*Self-study learners: Use these questions to review your own draft before continuing.*
-
----
-
 #### Guided Peer Review (F1)
 
 - Does the paragraph have a clear topic sentence?
@@ -789,6 +762,8 @@ Rewrite these paragraphs for better cohesion. Identify at least two specific cha
 
 ### H. Homework & Extension
 
+#### Homework Writing Task (H3)
+
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
 Choose one situation:
@@ -798,6 +773,8 @@ Choose one situation:
 3. Your office has been using two different templates for the same type of submission — one issued in 2021 and one issued earlier this year. The inconsistency has caused processing delays. Write a note to staff explaining why the older template must no longer be used.
 
 ---
+
+#### Extension Task (H1)
 
 Choose one:
 

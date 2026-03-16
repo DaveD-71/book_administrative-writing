@@ -295,7 +295,7 @@ Choose one situation:
 1. Your office submitted a revised document package to an interagency partner several weeks ago, but no acknowledgement has been received and the next internal review stage cannot proceed until the file status is confirmed.
 2. Your team sent a clarification request to a foreign office about a case that is due to be included in a coordination report, but no reply has yet been received and the report deadline is approaching.
 3. A partner agency reviewed an applicant file and was expected to confirm whether any additional materials are required before the next processing stage. Your office now needs a formal written inquiry because the internal deadline is approaching.
-4. *(JPO context)* Your office has received a brief update from a counterpart office at the USPTO, EPO, or WIPO regarding an international filing, but the message does not confirm the current processing stage, the correct reference information for future correspondence, or whether any further materials are expected from your side. Your internal reporting deadline now depends on clarifying these points.
+4. *(JPO context)* Your office sent comments on a draft international workshop agenda, but the latest update does not confirm whether your proposed session has been included, which version of the agenda is current, or when final materials are due.
 
 #### Extension Task (H1)
 
@@ -565,7 +565,7 @@ Choose one situation:
 1. A procedural update is due to take effect across several offices within the next month, but some teams have not yet completed the preparation needed for implementation.
 2. A revised interagency guideline has been issued, but several partner organisations have not yet received training or updated documentation and may still be using the previous version.
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
-4. *(JPO context)* A revised cross-office verification checklist is due to replace the current version before the next reporting cycle, but training completion is uneven, one linked support tool has not yet been tested, and fallback guidance for offices unable to switch immediately has not been agreed.
+4. *(JPO context)* A revised cross-office verification checklist is due before the next reporting cycle, but training has not yet been completed in all teams and one support tool is still pending testing.
 
 #### Extension Task (H1)
 
@@ -1072,7 +1072,7 @@ Choose one situation:
 1. Your office wants to revise an administrative process that has caused recurring delays, and a formal rationale is needed before approval can be given.
 2. A guideline or standard form has been updated following a policy change, and your team must write a rationale explaining why the revision should now be adopted.
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
-4. *(JPO context)* Your office is preparing a rationale to support the adoption of a shared template for recording trilateral examination comments. The proposal must align with existing international guidelines and current coordination practice before it can be submitted for approval.
+4. *(JPO context)* Your office is preparing a rationale to support the adoption of a common progress-tracking sheet for joint review projects. The proposal must align with existing coordination guidance before it can be submitted for approval.
 
 #### Extension Task (H1)
 

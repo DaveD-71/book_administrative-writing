@@ -1,5 +1,20 @@
-# N11 QA Review - Round 3
+# N11 QA Review — Round 3
 ## *Administrative Writing, Advanced*
+
+## Implementation Update — 2026-03-16
+
+The source-file corrections triggered by this Round 3 review have now been applied:
+
+- the H1/profile conflict has been resolved and the book-wide H1 rollout has now been applied in the active files and profiles, including Units 2, 3, 4, 6, 11, 18, 19, 20, 21, 22, and 23 while preserving the current Section H house order (`H2 → H3 → H1` where relevant)
+- Module 1 structural cleanup has been applied:
+  - duplicate loose `F1` openers removed in Units 2 and 3
+  - explicit H3 / H1 sub-labelling added in Units 1-3
+- the flagged JPO options in Modules 2 and 4 have been rewritten to reduce density and broaden scenario range
+- Unit 20 structural cleanup has been applied:
+  - duplicate `B1` heading removed
+  - the old `D3` expectation has been resolved in favour of the current `D2` design already used in the live file
+
+This document remains the historical record of what Round 3 identified before the correction pass. The next step after this implementation is a targeted recheck of the affected `N11` items, not a re-opening of the same blocker list as if no edits had been made.
 
 ---
 
@@ -250,7 +265,7 @@ What now looks secure:
 - progression
 - most pinned-item completion
 
-What still blocks `N11` completion:
+What still blocked `N11` completion at the close of Round 3:
 
 - unresolved H1/profile decision in Units 2, 3, 4, 6, and 11
 - Module 1 structural cleanup:
@@ -269,7 +284,7 @@ What is withdrawn from the live blocker list:
 
 ---
 
-## Immediate Next Steps
+## Immediate Next Steps Recorded At The End Of Round 3
 
 1. Resolve the H1 decision for Units 2, 3, 4, 6, and 11.
 2. Repair Module 1 structural labelling and duplicate F1 headings.
