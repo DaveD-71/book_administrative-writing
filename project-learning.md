@@ -187,3 +187,11 @@ Durable project memory for `C:\Dev\Code\book_administrative-writing`.
 - Context: first Codex startup on this work PC
 - Observation: Git for Windows is installed under `%LOCALAPPDATA%\Programs\Git`, but Codex shell sessions on this machine may not resolve `git` unless the user `Path` includes `...\Git\cmd` and PowerShell can load the current-user profile
 - Preferred behavior: keep `C:\Users\d-dobson\AppData\Local\Programs\Git\cmd` on the user `Path`; if PowerShell-hosted sessions lose `git`, verify `CurrentUser` execution policy still allows the profile fallback
+
+### 2026-03-16T11:46:18.7935300+09:00 - User-Level AGENTS Must Carry The Memory Bootstrap Workflow
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: review of whether the work-PC local bootstrap was sufficient
+- Observation: a minimal user-level `AGENTS.md` is not enough for cross-device consistency; the user-level file must itself carry the startup-read order, startup audit, mirror-sync, and project-logging rules so a new machine can bootstrap local and project memory consistently before any repo-specific repair
+- Preferred behavior: keep the full memory-bootstrap workflow in `%USERPROFILE%\.codex\AGENTS.md` and ensure it stays aligned with the repo-level memory workflow rather than relying on a thin placeholder

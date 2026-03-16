@@ -192,3 +192,15 @@ Chronological project events for `C:\Dev\Code\book_administrative-writing`.
 - Verified from a fresh shell invocation that:
   - `git --version` now succeeds
   - `git status --short --branch` now succeeds in this repository
+
+### 2026-03-16T11:46:18.7935300+09:00 - Expanded The User-Level AGENTS Bootstrap
+
+- Re-reviewed whether the local `C:\Users\d-dobson\.codex\AGENTS.md` created during work-PC setup was sufficient
+- Confirmed it was too thin for the intended cross-device workflow because it did not itself carry the startup-read order, startup audit, mirror-sync, and project-logging rules
+- Replaced it with a fuller user-level bootstrap that now includes:
+  - workspace authority order
+  - user-level and project-level startup read order
+  - startup audit requirements
+  - mirror sync rules between `%USERPROFILE%\.codex\memories\user-learning.md` and `<repo-root>\user-learning-mirror.md`
+  - project-memory logging rules
+  - portability and local-link compatibility rules
