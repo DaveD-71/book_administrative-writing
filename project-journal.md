@@ -158,6 +158,13 @@ Historical note:
 - Workspace root confirmed from VS Code state as `C:\Dev\Code\book_administrative-writing`
 - Verified this workspace is a git repository with root `C:\Dev\Code\book_administrative-writing`
 - Verified `main...origin/main` and no pending remote update from `git fetch --dry-run origin`
+
+### 2026-03-17T18:58:15.2116200+09:00 - Archived Mixed-Encoding Instruction Read Log And Reset UTF-8 CSV
+
+- Confirmed that `instruction-read-log.csv` was no longer valid UTF-8 because older rows contained CP932/Shift-JIS-era path bytes while newer rows had been appended in UTF-8
+- Archived the mixed-encoding log in the repo root rather than continuing to append to it
+- Recreated `instruction-read-log.csv` as a clean UTF-8 file with the required header and current-session startup rows only
+- Updated the bootstrap instructions and user-learning mirror so future startup logging treats mixed-encoding audit CSVs as repair-and-reset cases rather than append-in-place cases
 - Created repository-root memory scaffold:
   - `AGENTS.md`
   - `user-learning-mirror.md`

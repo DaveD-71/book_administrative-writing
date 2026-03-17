@@ -43,3 +43,11 @@ Sync rule:
 - Context: auditing instruction-file reads
 - Observation: read-confirmation events should be kept in `instruction-read-log.csv`, not mixed into narrative memory
 - Preferred behavior: use CSV for lightweight read audits and markdown for durable lessons
+
+### 2026-03-17T18:58:15.2116200+09:00 - Mixed-Encoding Audit CSVs Must Be Archived And Reset
+
+- Status: `workaround`
+- Scope: user/workflow
+- Context: repairing `instruction-read-log.csv` after mixed UTF-8 and CP932/Shift-JIS content was detected
+- Observation: appending new rows to a mixed-encoding audit CSV makes patching, decoding, and path verification unreliable
+- Preferred behavior: keep `instruction-read-log.csv` as UTF-8 text only; if the file is not valid UTF-8, archive the old file, create a new UTF-8 log with the required header, and resume logging there

@@ -1,6 +1,6 @@
 # Codex Memory Bootstrap Instructions
 
-Bootstrap-Version: 2026-03-16T13:39:46.8020732+09:00
+Bootstrap-Version: 2026-03-17T18:58:15.2116200+09:00
 
 Scope:
 
@@ -63,6 +63,13 @@ CSV columns:
 - `scope`
 - `file_path`
 - `reason`
+
+CSV encoding rule:
+
+- `<repo-root>\instruction-read-log.csv` must be maintained as UTF-8 text
+- if the existing log is not valid UTF-8 or is mixed-encoding, do not keep appending to it
+- archive the old log file as-is, create a new UTF-8 `instruction-read-log.csv` with the required header, and continue logging in the new file
+- when repairing the log, note the rule in bootstrap memory so the encoding issue is not silently reintroduced
 
 ## Missing-File Bootstrap
 
