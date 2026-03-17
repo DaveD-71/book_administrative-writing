@@ -1,11 +1,11 @@
-# N11 QA Review — Round 3
+# N11 QA Review - Round 3
 ## *Administrative Writing, Advanced*
 
-## Implementation Update — 2026-03-16
+## Implementation Update - 2026-03-16
 
 The source-file corrections triggered by this Round 3 review have now been applied:
 
-- the H1/profile conflict has been resolved and the book-wide H1 rollout has now been applied in the active files and profiles, including Units 2, 3, 4, 6, 11, 18, 19, 20, 21, 22, and 23 while preserving the current Section H house order (`H2 → H3 → H1` where relevant)
+- the H1/profile conflict has been resolved and the book-wide H1 rollout has now been applied in the active files and profiles, including Units 2, 3, 4, 6, 11, 18, 19, 20, 21, 22, and 23 while preserving the current Section H house order (`H2 -> H3 -> H1` where relevant)
 - Module 1 structural cleanup has been applied:
   - duplicate loose `F1` openers removed in Units 2 and 3
   - explicit H3 / H1 sub-labelling added in Units 1-3
@@ -15,6 +15,54 @@ The source-file corrections triggered by this Round 3 review have now been appli
   - the old `D3` expectation has been resolved in favour of the current `D2` design already used in the live file
 
 This document remains the historical record of what Round 3 identified before the correction pass. The next step after this implementation is a targeted recheck of the affected `N11` items, not a re-opening of the same blocker list as if no edits had been made.
+
+## Targeted Recheck Update - 2026-03-17
+
+The targeted recheck of the corrected Round 3 items has now been completed against the live `n10` files and the revised structural profiles.
+
+Recheck result: `Intermediate pass - corrected named Round 3 blockers now clear, but this recheck was too narrow for final N11 sign-off`
+
+What was rechecked and confirmed:
+
+- the H1/profile conflict is now resolved in the active files and profiles, including the earlier mismatch set (Units 2, 3, 4, 6, and 11) and the later book-wide rollout set (Units 18 and 20-23)
+- Module 1 structural cleanup is now live in source:
+  - duplicate loose `F1` openers are no longer present in Units 2 and 3
+  - explicit `H3` / `H1` sub-labelling is now present and consistent in Units 1-3
+- the previously flagged JPO prompts in Modules 2 and 4 are materially improved relative to the earlier blocker state, but this targeted recheck did not test all grouped-option sets rigorously enough to close the broader choice-list and calibration criteria
+- Unit 20 structural cleanup is now clear in source:
+  - the duplicate `B1` heading is no longer present
+  - the live design uses `D2` rather than the old `D3` expectation, and the profile / live-file relationship no longer presents as an active blocker
+- Unit 11's `H3` label is explicitly present and the earlier wider Module 3 H-labelling concern remains withdrawn
+
+Interpretation:
+
+- the named Round 3 blocker set no longer blocks `N11` in the narrow sense used for this targeted recheck
+- the earlier Round 1 / Round 2 / Round 3 findings remain useful as historical QA evidence, and some of the grouped-option concerns from those earlier rounds are still operative
+- this targeted recheck should now be treated as an intermediate recheck, not final `N11` sign-off
+
+## Reopening Note - 2026-03-17
+
+`N11` is reopened.
+
+Reason:
+
+- a broader grouped-option audit of the live `n10` files found that the earlier targeted recheck was too narrow
+- several grouped-option parallelism and JPO-calibration issues identified in earlier QA rounds were not closed rigorously enough before `N11` was treated as complete
+- additional live-file outliers were also found in Module 6
+
+Working issue list:
+
+- `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+
+Required next step before full review:
+
+1. work through the grouped-option issue list in the live `n10` files
+2. recheck each revised choice set explicitly against:
+   - `5B.1 Level appropriacy`
+   - `5D.3 Calibration`
+   - `5D.4 Choice-list quality`
+   - `5E.3 Variety without chaos`
+3. only then decide whether `N11` can be signed off
 
 ---
 
@@ -30,9 +78,9 @@ This document remains the historical record of what Round 3 identified before th
 
 ---
 
-## Overall Status
+## Historical Round 3 Pre-Correction Status
 
-Does the advanced book pass `N11` at this stage? `No - further revision required before full review`
+Historical Round 3 verdict before the source fixes: `No - further revision required before full review`
 
 Current position:
 
@@ -79,9 +127,9 @@ Evidence:
 
 - `adv/edits & guides/aw-adv_n10_claude-fb_mod1-3_v2.md` identifies H1/profile mismatches in Units 2, 3, 4, 6, and 11
 - live active files confirm those H1 tasks are still present:
-  - `adv/md/n10/aw-adv_mod1_n10.md` — Units 2 and 3 contain H1 alongside profile-exempt H sections
-  - `adv/md/n10/aw-adv_mod2_n10.md` — Units 4 and 6 contain `#### H1. Extension Task`
-  - `adv/md/n10/aw-adv_mod3_n10.md` — Unit 11 contains `#### Extension Task (H1)`
+  - `adv/md/n10/aw-adv_mod1_n10.md` - Units 2 and 3 contain H1 alongside profile-exempt H sections
+  - `adv/md/n10/aw-adv_mod2_n10.md` - Units 4 and 6 contain `#### H1. Extension Task`
+  - `adv/md/n10/aw-adv_mod3_n10.md` - Unit 11 contains `#### Extension Task (H1)`
 - the structural profiles remain the higher source and still treat these units as non-H1 cases
 
 Interpretation:
@@ -220,7 +268,7 @@ Evidence:
     - Part C `70-90` words
     - total `250-300` words
   - this is internally coherent in the active file
-- the earlier Unit 19/20 Practice D duplication / placement problem does not appear as a live duplicated task in the current active file set; the visible `Practice D — Organise the Justification` instance is in Unit 20, where the profile says it belongs
+- the earlier Unit 19/20 Practice D duplication / placement problem does not appear as a live duplicated task in the current active file set; the visible `Practice D - Organise the Justification` instance is in Unit 20, where the profile says it belongs
 
 Interpretation:
 

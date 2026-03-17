@@ -51,3 +51,11 @@ Sync rule:
 - Context: repairing `instruction-read-log.csv` after mixed UTF-8 and CP932/Shift-JIS content was detected
 - Observation: appending new rows to a mixed-encoding audit CSV makes patching, decoding, and path verification unreliable
 - Preferred behavior: keep `instruction-read-log.csv` as UTF-8 text only; if the file is not valid UTF-8, archive the old file, create a new UTF-8 log with the required header, and resume logging there
+
+### 2026-03-17T21:45:00+09:00 - Preserve Existing File Encoding Before Rewriting, And Restore Baseline If Corruption Occurs
+
+- Status: `workaround`
+- Scope: user/workflow
+- Context: repairing files after a shell-driven text rewrite corrupted existing non-ASCII punctuation across the file
+- Observation: shell-driven whole-file rewrites can silently transcode an existing file and corrupt non-ASCII punctuation or text if the file's current encoding is not preserved explicitly
+- Preferred behavior: before rewriting an existing text file, preserve its current encoding explicitly; avoid whole-file shell rewrites when encoding safety is uncertain and prefer minimal patch edits instead; if corruption has already occurred, restore the clean baseline first and then reapply only the intended minimal edits

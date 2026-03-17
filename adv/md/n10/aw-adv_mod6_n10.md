@@ -1352,24 +1352,24 @@ Your document must:
 
 ### F. Review / Self-Edit
 
-#### Self-Editing Checklist — Rubric-Based (F3)
+#### Self-Assessment Rubric (F3)
+
+> **Rubric note:** These categories reflect the book's major skill strands: meeting the brief, handling source material, synthesising information, showing judgment, proposing actions, controlling tone, structuring ideas, and writing precisely. Use the rubric to diagnose how well your capstone response brings those strands together.
 
 Evaluate your capstone document against each criterion. Rate yourself: **Strong / Developing / Needs work**.
 
-| Criterion | Your rating | Notes |
-|---|---|---|
-| All five input sources are addressed | | |
-| Information is synthesised, not listed | | |
-| Issues are presented clearly and neutrally | | |
-| Recommended actions are specific and realistic | | |
-| Next steps include deadlines and responsibilities | | |
-| Document format is appropriate for the purpose | | |
-| Tone is formal, neutral, and diplomatic throughout | | |
-| Cohesion and paragraph flow are strong | | |
-| No vague, informal, or emotional language is present | | |
-| Word count is within the specified range | | |
+| Criterion | Strong | Developing | Needs work | Your rating | Notes |
+|---|---|---|---|---|---|
+| Task Fulfillment | Meets the brief and uses a suitable format for the purpose and audience | Meets most of the brief, but the format or focus is uneven | Misses part of the brief or uses an unsuitable format | | |
+| Source Coverage | Uses all five input sources accurately | Uses most inputs, but some details are blurred or omitted | Omits, misreads, or underuses key inputs | | |
+| Synthesis | Integrates sources thematically rather than listing them | Shows some synthesis, but parts still read source by source | Mostly lists source information separately | | |
+| Issue Analysis and Judgment | Identifies the real issues and shows sound administrative judgment | Identifies the main issues, but analysis is partial or uneven | Issues are vague, shallow, or poorly judged | | |
+| Actions and Next Steps | Recommends specific, realistic, time-bound actions | Recommends partly useful actions, but some are not specific or time-bound | Actions are vague, unrealistic, or missing | | |
+| Audience, Tone, and Register | Maintains a formal, neutral, diplomatic tone suited to the reader | Tone is mostly appropriate, but inconsistent in places | Tone is informal, vague, emotional, or poorly matched to the reader | | |
+| Structure and Cohesion | Organises information clearly and makes the document easy to follow | Organisation is generally clear, but grouping or flow is uneven | Structure is hard to follow or poorly grouped | | |
+| Language Precision | Uses clear, specific, controlled language throughout | Meaning is mostly clear, but some phrasing is loose or imprecise | Vague or imprecise language weakens the document | | |
 
-Identify your two lowest-rated criteria and revise your document to address them before submitting.
+Identify your two weakest criteria and revise your document to address them before submitting.
 
 ---
 

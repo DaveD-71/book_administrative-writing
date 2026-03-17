@@ -22,7 +22,7 @@
 | N8 | Task A: Rewrite unit structural profiles with Can-Do statements | Rewrite all 23 unit profiles with: module introductions, unit-level Can-Do statements, activity-level Can-Do statement tables (numbered sub-goals), and content flags for Task B. | ✅ Done — all 23 units complete (Steps 14–15); file: `aw-adv_unit_structural_profiles_revised.md` |
 | N9 | Task B: Unit-level editing of module files (content flags + prompt policy compliance) | Work through content flags identified during N8, module by module. For each module, address: (1) all unit-specific content flags listed in the revised profiles document; (2) JPO option over-specification and calibration; (3) compliance with `aw-adv_prompt-writing-policy.md` across all D, E, and H writing tasks, including learning-goal alignment, professional verisimilitude, PAST-R recoverability, calibration by activity type, scenario-list parallelism, JPO option rules, tight requirement lists, and correct Section H ordering; (4) H1 Extension Task — present in every unit with three varied options drawn from the full range of activity types in the Master Activity Menu; (5) section order within H — H2 (where assigned) → H3 → H1 Extension Task; (6) scenario variety — no two adjacent activities (D, E, H) in the same unit should use near-identical situations. Before presenting any revised module file, verify all standards are met across every unit in the module. | ✅ Done — Modules 1–6 revised in `adv/md/revised_modules_n9` as `aw-adv_mod1_n9.md` to `aw-adv_mod6_n9.md`; Step 17 heading/code corrections applied; all six files structurally validate |
 | N10 | Task C: Language instruction strengthening | Address the book-wide pedagogical gap identified after Step 14/Step 16. Strengthen actual teaching, not just exposure and practice. For each unit, especially Section C and selected B sections: (1) add concise conceptual framing explaining what the language feature is, why it matters, and when to use it; (2) ensure model-text comparison work explains why the improved version works, not only what changed; (3) add or expand worked examples where a structure, register feature, or rhetorical pattern risks remaining implicit; (4) check that the unit teaches the conceptual principle behind the skill, not just phrase lists or noticing tasks. Apply during module editing and confirm before module sign-off. | ✅ Done — Modules 1–6 revised and reviewed in `adv/md/n10` as `aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`; framework and execution tracking files completed in `adv/edits & guides` |
-| N11 | QA checklist | Complete book-wide quality assurance check against agreed standards before full review. Checklist must integrate: design for purpose / learning-goal alignment, learner suitability, language and learning, prompt and task design, consistency and cohesion, model-text quality, structural profile compliance, activity-type fidelity, progression, self-study accessibility, answer-key supportability, formatting, and remaining pinned-item checks. The broader QA discussion is captured in `adv/edits & guides/excerpt from Step14 thread.md`. | 🔄 In progress — `aw-adv_n11_qa_review_round3.md` remains the operative `N11` QA record, but the Round 3 blocker set has now been addressed in the source files: the H1 decision has been implemented as a book-wide feature, including the later rollout to Unit 18 and Units 20–23; Module 1 structural cleanup has been applied; the flagged Modules 2 and 4 JPO prompts have been revised; and Unit 20 structural cleanup has been completed. The next `N11` action is a targeted recheck of those corrected items before final sign-off. `aw-adv_n11_qa_review_round1.md` and `aw-adv_n11_qa_review_round2.md` remain historical earlier-pass records. |
+| N11 | QA checklist | Complete book-wide quality assurance check against agreed standards before full review. Checklist must integrate: design for purpose / learning-goal alignment, learner suitability, language and learning, prompt and task design, consistency and cohesion, model-text quality, structural profile compliance, activity-type fidelity, progression, self-study accessibility, answer-key supportability, formatting, and remaining pinned-item checks. The broader QA discussion is captured in `adv/edits & guides/excerpt from Step14 thread.md`. | 🔄 Reopened — `aw-adv_n11_qa_review_round3.md` remains the operative `N11` QA record, but the 2026-03-17 targeted recheck is now treated as an intermediate pass rather than final sign-off. `N11` remains open pending the grouped-option / JPO-calibration pass tracked in `aw-adv_n11_grouped-option_issue_list_2026-03-17.md`. Recheck against `aw-adv_n11_qa_checklist.md` before sign-off. `aw-adv_n11_qa_review_round1.md` and `aw-adv_n11_qa_review_round2.md` remain historical earlier-pass records. |
 
 ---
 
@@ -38,7 +38,7 @@ These items are agreed and will be addressed after content is planned and drafte
 | P4 | Develop answer key / sample responses | One answer key document per module, or an integrated teacher's guide. Written after all content is finalised. | All content finalised | ⏳ Deferred |
 | P5 | Replace sentence-count targets with word counts | All Freer Writing and Homework tasks use word count targets. Word count progression: ~150w (Module 1) → ~200w (Modules 2–3) → ~250w (Modules 4–5) → ~300–350w (Module 6 / Units 22–23). | Drafting | ✅ Done — all Freer Writing and Homework tasks use word counts (Step 12; D2 sentence counts retained as appropriate scaffold) |
 | P6 | Add reading-to-write tasks | At least 4–5 units should include source document(s) that learners read before writing a response. Activity type B6. | N5, drafting | ✅ Done — B6 present in Units 15, 18, 19, 22 (Step 13) |
-| P7 | Write Unit 23 capstone assessment rubric | The capstone functions as a final assessment but currently has no rubric or marking criteria. A rubric for both self-assessment and teacher use is needed. | N9, N10, Unit 23 finalised | ⏳ Deferred |
+| P7 | Write Unit 23 capstone assessment rubric | The capstone functions as a final assessment but currently has no rubric or marking criteria. A rubric for both self-assessment and teacher use is needed before full review and book sign-off. | N9, N10, Unit 23 finalised | Done - dual-use rubric pair completed: learner-facing rubric embedded in `adv/md/n10/aw-adv_mod6_n10.md` and companion rubric created at `adv/md/n10/aw-adv_unit23_capstone_rubric.md` |
 
 ---
 
@@ -46,10 +46,17 @@ These items are agreed and will be addressed after content is planned and drafte
 
 The following is the agreed order for completing the project:
 
-1. **Remaining P tasks** — P1 (final structural variety confirmation during N11), and P7 (Unit 23 rubric) after Unit 23 is finalised and before book sign-off
-2. **N11 — QA checklist** (book-wide standards check, now that N9 and N10 are complete)
-3. **Full review** (final pass, after N11)
-4. **P4 — Answer key / sample responses** (after all content finalised)
+1. **Complete N11** — work through `aw-adv_n11_grouped-option_issue_list_2026-03-17.md` in the live `n10` files, then rerun the recheck against `aw-adv_n11_qa_checklist.md`
+2. **Full review** — final pass only after `N11` is genuinely complete
+3. **P4 — Answer key / sample responses** — after all content is finalised
+
+Reference files for the reopened `N11` pass:
+
+- `aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- `aw-adv_n11_qa_review_round3.md`
+- `aw-adv_n11_qa_checklist.md`
+- `aw-adv_n11_qa_review_round1.md`
+- `aw-adv_n11_qa_review_round2.md`
 
 ---
 

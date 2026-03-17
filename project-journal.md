@@ -275,3 +275,49 @@ Historical note:
 - Followed up on the `AGENTS.md` version field after noting that date-only same-day versioning would be ambiguous across home and work machines
 - Updated both live `AGENTS.md` copies so `Bootstrap-Version` now uses a full timestamp with timezone offset rather than a coarse same-day label
 - Kept the format aligned with the timestamp style already used throughout the memory files
+
+### 2026-03-17T19:48:30.4465385+09:00 - Implemented The Unit 23 Dual-Use Capstone Rubric
+
+- Replaced the old ten-item checklist-style `F3` table in `adv/md/n10/aw-adv_mod6_n10.md` with an eight-criterion learner-facing self-assessment rubric
+- Added a framing note in Unit 23 explaining that the rubric categories map to the book's major cumulative skill strands
+- Created the companion Unit 23 rubric at `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
+- Kept the learner and teacher rubrics aligned to the same eight analytic criteria:
+  - Task Fulfillment
+  - Source Coverage
+  - Synthesis
+  - Issue Analysis and Judgment
+  - Actions and Next Steps
+  - Audience, Tone, and Register
+  - Structure and Cohesion
+  - Language Precision
+- Kept the shared three-band model with no numeric scoring:
+  - `Strong`
+  - `Developing`
+  - `Needs work`
+- Updated the advanced to-do list so `P7` now records as complete and the remaining sequence now moves to full review, then `P4`
+
+### 2026-03-17T21:20:00+09:00 - Created A Formal N11 Grouped-Option Issue List
+
+- Re-audited the live `adv/md/n10` files for grouped-option parallelism before moving into full review
+- Confirmed that earlier Round 2 / Round 3 findings on JPO-option calibration and within-set parallelism were not sufficiently closed by the later targeted recheck
+- Created `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- The issue list:
+  - carries forward the earlier grouped-option findings from the Round 1 / Round 2 / Round 3 QA history
+  - records current live-file evidence for the still-open Module 2 and Module 4 issues
+  - adds newly surfaced Module 6 grouped-option outliers
+- Treat this issue list as the working basis for reopening the grouped-option portion of `N11` before full review
+
+### 2026-03-17T21:35:00+09:00 - Updated The Live QA Files For Tomorrow's Restart
+
+- Rewrote the `N11` row in `adv/edits & guides/aw-adv_project_todo_list.md` so it now clearly shows as reopened
+- Updated the remaining-work sequence in the to-do list so the next order is:
+  - complete `N11`
+  - full review
+  - `P4`
+- Added direct restart references in the to-do list pointing to:
+  - `aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `aw-adv_n11_qa_review_round3.md`
+  - `aw-adv_n11_qa_checklist.md`
+  - `aw-adv_n11_qa_review_round1.md`
+  - `aw-adv_n11_qa_review_round2.md`
+- Updated `adv/edits & guides/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off

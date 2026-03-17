@@ -142,7 +142,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: implementation of the Round 3 correction set
-- Observation: the H1 decision was applied to the affected units, but the implementation deliberately preserved the repo's established Section H order (`H2 → H3 → H1` where relevant) rather than importing the alternate ordering proposed in Claude's Step 19 note; Module 1 structural cleanup, Module 2/4 JPO prompt diversification, and Unit 20 structural cleanup were applied in the same correction pass
+- Observation: the H1 decision was applied to the affected units, but the implementation deliberately preserved the repo's established Section H order (`H2 -> H3 -> H1` where relevant) rather than importing the alternate ordering proposed in Claude's Step 19 note; Module 1 structural cleanup, Module 2/4 JPO prompt diversification, and Unit 20 structural cleanup were applied in the same correction pass
 - Preferred behavior: treat the repo's existing H-ordering convention as authoritative unless a future project decision explicitly replaces it
 
 ### 2026-03-16T09:28:49.3778502+09:00 - H1 Is Now A Book-Wide Feature In The Active Advanced Baseline
@@ -150,7 +150,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/decision
 - Context: post-Round-3 follow-through on the accepted H1 policy
-- Observation: the active advanced baseline now treats H1 Extension Task as a consistent book-wide feature, including Unit 18 and Units 20-23, while preserving the established Section H order (`H2 → H3 → H1` where H2 is present, otherwise `H3 → H1`)
+- Observation: the active advanced baseline now treats H1 Extension Task as a consistent book-wide feature, including Unit 18 and Units 20-23, while preserving the established Section H order (`H2 -> H3 -> H1` where H2 is present, otherwise `H3 -> H1`)
 - Preferred behavior: future QA and editing passes should assess H1 as a book-wide requirement and should not treat the old six-unit mismatch set as the governing scope any longer
 
 ### 2026-03-15T00:34:37.9048369+09:00 - Project Memory Scaffold Initialized
@@ -223,8 +223,7 @@ Historical note:
 - Scope: project/workflow
 - Context: clarification of the duplication rule for user-level and repo-level instruction files
 - Observation: saying the files should align only in shared sections leaves too much room for drift; the duplicated `AGENTS.md` files must be treated as fully aligned clones, with only deterministic repo-root path substitution and explicit project-specific additions allowed to differ
-- Preferred behavior: superseded by the later shared-spec rule; the live requirement is now identical duplicated content after bootstrap or merge, not “aligned with allowed differences”
-
+- Preferred behavior: superseded by the later shared-spec rule; the live requirement is now identical duplicated content after bootstrap or merge, not "aligned with allowed differences"
 ### 2026-03-16T13:36:04.9560756+09:00 - AGENTS Now Uses A Shared Versioned Bootstrap Spec
 
 - Status: `monitor`
@@ -256,3 +255,27 @@ Historical note:
 - Context: follow-up refinement of the shared `AGENTS.md` version field
 - Observation: date-only or coarse same-day versioning is insufficient because the bootstrap instructions can change multiple times on the same day across different machines
 - Preferred behavior: keep `Bootstrap-Version` in full timestamp form with timezone offset so version comparisons remain unambiguous and consistent with the timestamp style already used in the memory files
+
+### 2026-03-17T19:48:30.4465385+09:00 - P7 Now Uses A Dual-Use Unit 23 Rubric Pair
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: completion of the remaining pre-full-review content item for the advanced book
+- Observation: `P7` is now implemented as a dual-use rubric pair for Unit 23: a learner-facing self-assessment rubric embedded in the live `adv/md/n10/aw-adv_mod6_n10.md` file and a companion rubric at `adv/md/n10/aw-adv_unit23_capstone_rubric.md`, both aligned to the same eight analytic criteria and using the same three performance bands (`Strong`, `Developing`, `Needs work`)
+- Preferred behavior: treat the teacher rubric as the authoritative marking reference, keep the learner rubric aligned to the same criterion architecture, and begin the advanced full review from this completed `P7` baseline rather than treating the Unit 23 self-edit table alone as sufficient
+
+### 2026-03-17T21:20:00+09:00 - N11 Needs A Dedicated Grouped-Option Parallelism Pass Before Sign-Off
+
+- Status: `monitor`
+- Scope: project/state
+- Context: broader post-`P7` audit of the live advanced `n10` files before entering full review
+- Observation: the earlier `N11` targeted recheck was too narrow to close the prompt-calibration and choice-list-quality criteria fully. The new issue list at `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` carries forward unresolved Round 2 / Round 3 grouped-option findings and adds new live-file outliers in Module 6.
+- Preferred behavior: do not treat `N11` as complete until the grouped-option issue list has been worked through and the affected choice sets have been rechecked explicitly against level appropriacy, calibration, choice-list quality, and variety
+
+### 2026-03-17T21:35:00+09:00 - Reopened N11 Files Now Define The Next Restart Point Explicitly
+
+- Status: `monitor`
+- Scope: project/workflow
+- Context: end-of-day handoff preparation after reopening the grouped-option portion of `N11`
+- Observation: the live restart path is now explicitly defined in `adv/edits & guides/aw-adv_project_todo_list.md`, `adv/edits & guides/aw-adv_n11_qa_review_round3.md`, and `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Preferred behavior: when work resumes, start from the grouped-option issue list, edit the live `adv/md/n10` files, and use the Round 3 note plus the main `N11` checklist as the recheck reference set
