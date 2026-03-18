@@ -52,7 +52,7 @@ Reason:
 
 Working issue list:
 
-- `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 
 Required next step before full review:
 
@@ -71,7 +71,7 @@ Required next step before full review:
 >
 > Round 3 does two things:
 >
-> - adopts the stronger checklist standard confirmed in `aw-adv_n11_claude-fb_qa_checklist.md` and `aw-adv_n11_qa_checklist_v2_claude.md`
+> - adopts the stronger checklist standard confirmed in `adv/edits & guides/n11/aw-adv_n11_claude-fb_qa_checklist.md` and `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
 > - re-checks the live `n10` files against the newly explicit preliminary cross-check items and the Round 2 blocker list
 >
 > This is now the operative `N11` review record.
@@ -101,15 +101,15 @@ Current position:
 
 Evidence:
 
-- `adv/edits & guides/aw-adv_n11_claude-fb_qa_checklist.md` correctly identified missing checklist coverage around:
+- `adv/edits & guides/n11/aw-adv_n11_claude-fb_qa_checklist.md` correctly identified missing checklist coverage around:
   - preliminary cross-check against open issues
   - H1 structural compliance
   - explicit N10 six-deliverable checking
   - activity-heading format
   - explicit word-count targets
   - learning-goals mapping as a named deferred item
-- `adv/edits & guides/aw-adv_n11_qa_checklist_v2_claude.md` provides a stronger corrected version
-- `adv/edits & guides/aw-adv_n11_qa_checklist.md` has now been updated to include those operative additions
+- `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md` provides a stronger corrected version
+- `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` has now been updated to include those operative additions
 
 Interpretation:
 
@@ -125,7 +125,7 @@ Interpretation:
 
 Evidence:
 
-- `adv/edits & guides/aw-adv_n10_claude-fb_mod1-3_v2.md` identifies H1/profile mismatches in Units 2, 3, 4, 6, and 11
+- `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md` identifies H1/profile mismatches in Units 2, 3, 4, 6, and 11
 - live active files confirm those H1 tasks are still present:
   - `adv/md/n10/aw-adv_mod1_n10.md` - Units 2 and 3 contain H1 alongside profile-exempt H sections
   - `adv/md/n10/aw-adv_mod2_n10.md` - Units 4 and 6 contain `#### H1. Extension Task`
@@ -155,7 +155,7 @@ Evidence:
 - `adv/md/n10/aw-adv_mod1_n10.md`
   - Units 2 and 3 still contain both `#### Peer Review (F1)` and `#### Guided Peer Review (F1)`
   - Units 1-3 still use `### H. Homework & Extension` without explicit `####`-level H sub-labelling
-- this matches the earlier structural concerns in `aw-adv_n10_claude-fb_mod1-3_v2.md`
+- this matches the earlier structural concerns in `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md`
 
 Interpretation:
 
@@ -235,7 +235,7 @@ Required action:
 
 Evidence:
 
-- `adv/edits & guides/aw-adv_n10_claude-fb_mod4-6_v2.md` flagged:
+- `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md` flagged:
   - duplicated `B1` heading in Unit 20
   - possible missing `D3`
 - live file check of `adv/md/n10/aw-adv_mod6_n10.md` confirms:
@@ -290,7 +290,7 @@ Required action:
 Evidence:
 
 - `P4` and `P7` remain explicitly tracked in the to-do list
-- `Learning goals mapping` is explicitly recorded in `adv/edits & guides/aw-adv_project_todo_list.md` as 14 deferred recommendations
+- `Learning goals mapping` is explicitly recorded in `adv/edits & guides/planning/aw-adv_project_todo_list.md` as 14 deferred recommendations
 - the operative checklist now names the learning-goals mapping issue explicitly under deferred pinned items
 
 Interpretation:

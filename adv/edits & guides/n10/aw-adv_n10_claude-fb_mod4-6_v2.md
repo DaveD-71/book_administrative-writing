@@ -377,4 +377,4 @@ Once the cleanup pass is complete, all twelve units can be confirmed as `Reviewe
 
 ---
 
-*Document version 2. Produced after close reading of `aw-adv_mod4_n10.md`, `aw-adv_mod5_n10.md`, and `aw-adv_mod6_n10.md`, cross-checked against `aw-adv_unit_structural_profiles_revised.md` and `aw-adv_project_todo_list.md`.*
+*Document version 2. Produced after close reading of `aw-adv_mod4_n10.md`, `aw-adv_mod5_n10.md`, and `aw-adv_mod6_n10.md`, cross-checked against `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` and `adv/edits & guides/planning/aw-adv_project_todo_list.md`.*

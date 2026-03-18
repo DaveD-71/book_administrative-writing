@@ -24,10 +24,10 @@ Important note:
 
 | Historical item | Earlier QA reference | Earlier finding | Current status |
 |---|---|---|---|
-| H-01 | `adv/edits & guides/aw-adv_n11_qa_review_round1.md:219-236` | Scenario and JPO-option variety still needed a tighter sameness check before final `N11` sign-off. | Still relevant. The broader 2026-03-17 scan confirms that grouped-option parallelism was not fully rechecked before `N11` was treated as complete. |
-| H-02 | `adv/edits & guides/aw-adv_n11_qa_review_round2.md:151-186` | Module 2 remained over-clustered around trilateral and counterpart-office coordination scenarios; some options were longer and more processing-heavy than the parallel non-JPO choices. | Still relevant. Multiple Module 2 choice sets still show residual parallelism and calibration issues. |
-| H-03 | `adv/edits & guides/aw-adv_n11_qa_review_round2.md:190-219` | Module 4 still contained JPO prompts that were too dense, too close to paired tasks, or too specialised relative to the non-JPO options. | Still relevant. Unit 12, Unit 13, and Unit 15 still need explicit re-evaluation. |
-| H-04 | `adv/edits & guides/aw-adv_n11_qa_review_round3.md:176-202` | Round 3 still treated Modules 2 and 4 as `Revise` for learner suitability, calibration, choice-list quality, and variety. | Still relevant. The later targeted recheck did not close these issues rigorously enough. |
+| H-01 | `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md:219-236` | Scenario and JPO-option variety still needed a tighter sameness check before final `N11` sign-off. | Still relevant. The broader 2026-03-17 scan confirms that grouped-option parallelism was not fully rechecked before `N11` was treated as complete. |
+| H-02 | `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md:151-186` | Module 2 remained over-clustered around trilateral and counterpart-office coordination scenarios; some options were longer and more processing-heavy than the parallel non-JPO choices. | Still relevant. Multiple Module 2 choice sets still show residual parallelism and calibration issues. |
+| H-03 | `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md:190-219` | Module 4 still contained JPO prompts that were too dense, too close to paired tasks, or too specialised relative to the non-JPO options. | Still relevant. Unit 12, Unit 13, and Unit 15 still need explicit re-evaluation. |
+| H-04 | `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md:176-202` | Round 3 still treated Modules 2 and 4 as `Revise` for learner suitability, calibration, choice-list quality, and variety. | Still relevant. The later targeted recheck did not close these issues rigorously enough. |
 
 ---
 
@@ -86,16 +86,16 @@ Primary working files:
   - `adv/md/n10/aw-adv_mod4_n10.md`
   - `adv/md/n10/aw-adv_mod6_n10.md`
 - issue tracker for this pass:
-  - `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - operative QA record:
-  - `adv/edits & guides/aw-adv_n11_qa_review_round3.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
 - checklist to recheck against:
-  - `adv/edits & guides/aw-adv_n11_qa_checklist.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md`
 
 Historical reference files:
 
-- `adv/edits & guides/aw-adv_n11_qa_review_round1.md`
-- `adv/edits & guides/aw-adv_n11_qa_review_round2.md`
+- `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
+- `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
 
 Most relevant checklist criteria:
 

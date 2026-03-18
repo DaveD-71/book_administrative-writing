@@ -40,15 +40,15 @@ Current position:
 
 Evidence:
 
-- `adv/edits & guides/aw-adv_n11_qa_checklist.md` now explicitly includes checks for:
+- `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` now explicitly includes checks for:
   - B1+/B2 prompt readability
   - drift into over-dense or overly sophisticated prompt wording
   - scenario-family clustering across the book
 - each of those checks now names its governing source:
-  - `adv/edits & guides/aw-adv_project_context.md`
-  - `adv/edits & guides/aw-adv_prompt-writing-policy.md`
-  - `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md`
-  - `adv/edits & guides/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/aw-adv_project_context.md`
+  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
 
 Interpretation:
 

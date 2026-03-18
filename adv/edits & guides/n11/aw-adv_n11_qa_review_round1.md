@@ -6,7 +6,7 @@
 > **Purpose of this document**
 > This file records the first working findings from `N11` after the checklist framework was drafted. It is not the final sign-off review. It captures the initial book-wide controls that could be verified quickly and reliably from the active `n10` files and related project documents.
 >
-> This file should now be treated as a historical partial-review note only. The operative full-pass Round 2 record is `adv/edits & guides/aw-adv_n11_qa_review_round2.md`.
+> This file should now be treated as a historical partial-review note only. The operative full-pass Round 2 record is `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`.
 
 ---
 

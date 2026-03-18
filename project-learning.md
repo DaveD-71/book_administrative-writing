@@ -22,7 +22,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: advanced planning and status audit
-- Observation: `adv/edits & guides/aw-adv_project_todo_list.md` shows N1-N10 complete, N11 not started, and identifies book-wide QA as the next major workstream; the active edited content set is the six `adv/md/n10/aw-adv_mod*_n10.md` files
+- Observation: `adv/edits & guides/planning/aw-adv_project_todo_list.md` shows N1-N10 complete, N11 not started, and identifies book-wide QA as the next major workstream; the active edited content set is the six `adv/md/n10/aw-adv_mod*_n10.md` files
 - Preferred behavior: treat the advanced N10 module set and the N11 QA step as the current highest-maturity content baseline for project planning and review work
 
 ### 2026-03-15T00:46:14.1210166+09:00 - Advanced Planning Source Of Truth
@@ -30,7 +30,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: advanced documentation hierarchy
-- Observation: `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md` identifies itself as the planning source of truth, and the advanced to-do list treats it and the N10 module files as the authoritative references for editing and QA
+- Observation: `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` identifies itself as the planning source of truth, and the advanced to-do list treats it and the N10 module files as the authoritative references for editing and QA
 - Preferred behavior: when working on advanced content, use the revised structural profiles, the advanced to-do list, and the N10 module files ahead of older context summaries
 
 ### 2026-03-15T00:46:14.1210166+09:00 - Advanced Context Document Is Historically Useful But Stale
@@ -38,8 +38,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: comparison of advanced status documents
-- Observation: `adv/edits & guides/aw-adv_project_context.md` still describes the project as being in structural planning and lists pre-N9 next steps, which no longer matches the current N10-complete state in `aw-adv_project_todo_list.md`
-- Preferred behavior: treat `aw-adv_project_context.md` as historical background only unless it is refreshed; do not use it as the primary status source for current advanced work
+- Observation: `adv/edits & guides/planning/aw-adv_project_context.md` still describes the project as being in structural planning and lists pre-N9 next steps, which no longer matches the current N10-complete state in `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+- Preferred behavior: treat `adv/edits & guides/planning/aw-adv_project_context.md` as historical background only unless it is refreshed; do not use it as the primary status source for current advanced work
 
 ### 2026-03-15T00:46:14.1210166+09:00 - Intermediate Track Appears Earlier-Stage Than Advanced
 
@@ -62,7 +62,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: advanced quality-assurance stage
-- Observation: `N11` has now started; the book-wide QA checklist framework was drafted at `adv/edits & guides/aw-adv_n11_qa_checklist.md` and the advanced to-do list now marks `N11` as in progress
+- Observation: `N11` has now started; the book-wide QA checklist framework was drafted at `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` and the advanced to-do list now marks `N11` as in progress
 - Preferred behavior: use the new `N11` checklist as the authoritative QA framework for the next advanced review pass, rather than relying on the older `N9` QA controls
 
 ### 2026-03-15T01:07:00+09:00 - Advanced N11 Round 1 Findings Recorded
@@ -70,7 +70,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: initial `N11` execution
-- Observation: a first `N11` review note now exists at `adv/edits & guides/aw-adv_n11_qa_review_round1.md`; early evidence confirms `P2`, `P6`, and Module 2 Section H ordering in the active `n10` files, while portfolio-task E-word-count handling and final book-level structural-variety confirmation remain active QA items
+- Observation: a first `N11` review note now exists at `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`; early evidence confirms `P2`, `P6`, and Module 2 Section H ordering in the active `n10` files, while portfolio-task E-word-count handling and final book-level structural-variety confirmation remain active QA items
 - Preferred behavior: continue `N11` from the recorded Round 1 findings rather than restarting book-wide checks from scratch
 
 ### 2026-03-15T01:12:00+09:00 - Portfolio-Task Units Cleared In N11 Manual Pass
@@ -102,7 +102,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: checklist tightening during `N11`
-- Observation: `adv/edits & guides/aw-adv_n11_qa_checklist.md` now explicitly tests whether prompt wording remains readable for B1+/B2 aspirational learners, whether revised prompts drift upward in linguistic sophistication or processing load, and whether scenario families are distributed broadly enough across the book; each new check is tied to named source documents
+- Observation: `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` now explicitly tests whether prompt wording remains readable for B1+/B2 aspirational learners, whether revised prompts drift upward in linguistic sophistication or processing load, and whether scenario families are distributed broadly enough across the book; each new check is tied to named source documents
 - Preferred behavior: treat learner-level prompt readability and book-level scenario-family spread as explicit `N11` sign-off criteria, not as optional style preferences
 
 ### 2026-03-15T19:32:00+09:00 - Modules 2 And 4 Still Carry A Narrow JPO Scenario Band
@@ -119,14 +119,14 @@ Historical note:
 - Scope: project/state
 - Context: full-book pass against the revised `N11` checklist
 - Observation: the full Round 2 pass confirmed that the main live blockers are now limited to two areas: structural / activity-labelling inconsistency in Modules 1 and 3, and over-dense / over-clustered JPO scenario families in Modules 2 and 4; Modules 5 and 6 are broadly clear under the revised QA standard
-- Preferred behavior: treat `aw-adv_n11_qa_review_round2.md` as the operative N11 record and use it to drive the next correction pass, rather than relying on the earlier partial Round 1 / selective Round 2 notes
+- Preferred behavior: treat `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md` as the operative N11 record and use it to drive the next correction pass, rather than relying on the earlier partial Round 1 / selective Round 2 notes
 
 ### 2026-03-15T20:05:00+09:00 - Round 3 Replaces Round 2 As The Operative N11 Record
 
 - Status: `monitor`
 - Scope: project/state
 - Context: external checklist verification and Round 3 QA pass
-- Observation: `adv/edits & guides/aw-adv_n11_qa_review_round3.md` is now the operative `N11` record. It corrects two Round 2 distortions: Module 3 was overstated as a wider structural blocker, and Module 6 was understated because Unit 20 structural defects were not carried into the operative summary. The live blocker set is now: H1/profile decision in Units 2, 3, 4, 6, and 11; Module 1 structural cleanup; Modules 2 and 4 JPO prompt simplification and de-clustering; and Unit 20 structural cleanup.
+- Observation: `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` is now the operative `N11` record. It corrects two Round 2 distortions: Module 3 was overstated as a wider structural blocker, and Module 6 was understated because Unit 20 structural defects were not carried into the operative summary. The live blocker set is now: H1/profile decision in Units 2, 3, 4, 6, and 11; Module 1 structural cleanup; Modules 2 and 4 JPO prompt simplification and de-clustering; and Unit 20 structural cleanup.
 - Preferred behavior: use Round 3, not Round 2, as the current sign-off baseline for `N11`, and treat earlier round files as historical supporting records
 
 ### 2026-03-15T20:05:00+09:00 - Claude v2 Checklist Upgrades Are Now Part Of The Main N11 Standard
@@ -134,8 +134,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: checklist verification against external feedback
-- Observation: `adv/edits & guides/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
-- Preferred behavior: treat the main `aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
+- Observation: `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
+- Preferred behavior: treat the main `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
 
 ### 2026-03-16T02:05:00+09:00 - Round 3 Source Fixes Preserve The Existing Section-H House Standard
 
@@ -269,7 +269,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: broader post-`P7` audit of the live advanced `n10` files before entering full review
-- Observation: the earlier `N11` targeted recheck was too narrow to close the prompt-calibration and choice-list-quality criteria fully. The new issue list at `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` carries forward unresolved Round 2 / Round 3 grouped-option findings and adds new live-file outliers in Module 6.
+- Observation: the earlier `N11` targeted recheck was too narrow to close the prompt-calibration and choice-list-quality criteria fully. The new issue list at `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` carries forward unresolved Round 2 / Round 3 grouped-option findings and adds new live-file outliers in Module 6.
 - Preferred behavior: do not treat `N11` as complete until the grouped-option issue list has been worked through and the affected choice sets have been rechecked explicitly against level appropriacy, calibration, choice-list quality, and variety
 
 ### 2026-03-17T21:35:00+09:00 - Reopened N11 Files Now Define The Next Restart Point Explicitly
@@ -277,5 +277,13 @@ Historical note:
 - Status: `monitor`
 - Scope: project/workflow
 - Context: end-of-day handoff preparation after reopening the grouped-option portion of `N11`
-- Observation: the live restart path is now explicitly defined in `adv/edits & guides/aw-adv_project_todo_list.md`, `adv/edits & guides/aw-adv_n11_qa_review_round3.md`, and `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Observation: the live restart path is now explicitly defined in `adv/edits & guides/planning/aw-adv_project_todo_list.md`, `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`, and `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - Preferred behavior: when work resumes, start from the grouped-option issue list, edit the live `adv/md/n10` files, and use the Round 3 note plus the main `N11` checklist as the recheck reference set
+
+### 2026-03-18T00:00:00+09:00 - Advanced Edit Guides Now Use Functional Subfolders
+
+- Status: `monitor`
+- Scope: project/structure
+- Context: repo cleanup before resuming the reopened `N11` pass
+- Observation: `adv/edits & guides` is now organized into `planning`, `n10`, `n11`, `steps`, and `references` subfolders, and internal repo references have been updated to the new locations
+- Preferred behavior: place new advanced planning docs in `adv/edits & guides/planning`, `N10` framework or feedback docs in `adv/edits & guides/n10`, `N11` QA and review docs in `adv/edits & guides/n11`, step-by-step working notes in `adv/edits & guides/steps`, and excerpt/reference material in `adv/edits & guides/references`

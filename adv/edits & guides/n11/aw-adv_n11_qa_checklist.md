@@ -1,5 +1,4 @@
 # N11 QA Checklist
-
 ## *Administrative Writing, Advanced*
 
 ---
@@ -8,8 +7,6 @@
 > This file defines the `N11` book-wide quality assurance framework for the advanced book after completion of `N9` and `N10`.
 >
 > `N11` is not a prompt-repair pass, not a language-instruction pass, and not a structural redesign pass. It is the final hierarchical quality check that tests whether the completed `N10` book now meets the agreed project standards at unit, module, and whole-book level before the full review stage.
->
-> **Version note (v2):** This version corrects gaps identified after cross-checking the Round 2 review against the checklist. Additions include: a preliminary cross-check step against known open issues (Section 4.0); an explicit H1 Extension Task compliance check (5G.1); N10 minimum deliverables as the concrete standard for 5C; an activity heading format check (5L.1); explicit word-count targets in 5I.2 and 5D.3; a requirement source for 5B.2; and a named entry in 5M.2 for the deferred learning goals mapping issues.
 
 ---
 
@@ -43,11 +40,11 @@
 
 Use the following source order:
 
-1. `adv/edits & guides/aw-adv_project_todo_list.md`
-2. `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md`
+1. `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+2. `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
 3. `aw-master_activity_menu.md`
-4. `adv/edits & guides/aw-adv_prompt-writing-policy.md`
-5. `adv/edits & guides/aw-adv_n10_language_instruction_framework.md`
+4. `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+5. `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
 6. active module files in `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
 7. relevant implementation or review guides in `adv/edits & guides`
 8. earlier `N9` QA files only as narrow precedent, not as the final QA standard
@@ -101,8 +98,8 @@ Use `Deferred` only for items explicitly scheduled for a later stage, such as `P
 
 Before beginning the module-by-module pass, complete the following:
 
-1. Read the current `N10` feedback reports (`aw-adv_n10_feedback_mod1-3_v2.md` and `aw-adv_n10_feedback_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
-2. Confirm the status of the H1 Extension Task structural decision for Units 2, 3, 4, 6, and 11. The structural profiles specify these units should not have H1; if the N10 files contain H1 Extension Tasks for these units, record as `Revise` pending the project owner's decision. Do not proceed past this point without a decision on record.
+1. Read the current `N10` feedback reports (`adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md` and `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
+2. Confirm the recorded H1 decision now in force for the active book files: H1 Extension Task is retained as a consistent book-wide feature. If any active file or structural-profile entry still omits H1 or contradicts that decision, record as `Revise`.
 3. Note any other open decisions logged in the project to-do list that affect content currently under review.
 
 These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
@@ -189,9 +186,9 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/aw-adv_project_context.md` — target learners are B1+/B2 workplace learners in an aspirational, scaffolded context
-- `adv/edits & guides/aw-adv_project_context.md` — instructions should remain direct and professional
-- `adv/edits & guides/aw-adv_prompt-writing-policy.md` — prompts must be calibrated, concrete, and parallel in length/detail
+- `adv/edits & guides/planning/aw-adv_project_context.md` — target learners are B1+/B2 workplace learners in an aspirational, scaffolded context
+- `adv/edits & guides/planning/aw-adv_project_context.md` — instructions should remain direct and professional
+- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — prompts must be calibrated, concrete, and parallel in length/detail
 
 ### 5B.2 Workplace relevance
 
@@ -201,8 +198,8 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/aw-adv_project_context.md` — the book targets interagency and international administrative contexts; scenarios must be drawn from recognisable situations in those environments
-- `adv/edits & guides/aw-adv_prompt-writing-policy.md` — prompts must be situation-anchored and professionally verisimilitudinous; the scenario is the vehicle, not the point
+- `adv/edits & guides/planning/aw-adv_project_context.md` — the book targets interagency and international administrative contexts; scenarios must be drawn from recognisable situations in those environments
+- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — prompts must be situation-anchored and professionally verisimilitudinous; the scenario is the vehicle, not the point
 
 ### 5B.3 Delivery-mode suitability
 
@@ -215,16 +212,9 @@ If the failure is:
 
 ### 5C.1 Explicit teaching
 
-A unit meets this criterion only if all six N10 minimum deliverables are present in some form. Check each one:
-
-- [ ] Clear alignment between module purpose, unit goals, and activity goals is reflected in the teaching sequence
-- [ ] A clear conceptual explanation of the target feature is present in the main Language Focus area (not just a phrase bank or model text)
-- [ ] At least one explicit "why this works" element appears in model-text comparison work or Language Focus commentary
-- [ ] Any key contrast or choice central to the unit is explained, not just illustrated
-- [ ] At least one worked example demonstrates the target concept in a way that would otherwise remain implicit
-- [ ] A visible bridge from explanation to later writing use is present before the main production task
-
-**Requirement source:** `adv/edits & guides/aw-adv_n10_language_instruction_framework.md` Section 9 — these six items are the agreed minimum deliverables for a unit to be treated as N10-complete. Presence of explanation layer labels (`Why this works`, `Teaching point`, etc.) is necessary but not sufficient evidence of compliance; all six items must be confirmed.
+- [ ] The unit teaches the principle behind the target feature, not just the phrase or pattern
+- [ ] Key language points are explained sufficiently for transfer
+- [ ] The learner is shown why the improved form works, not only that it is better
 
 ### 5C.2 Conceptual clarity
 
@@ -264,14 +254,14 @@ A unit meets this criterion only if all six N10 minimum deliverables are present
 - [ ] Guided tasks provide enough support without pre-solving the work
 - [ ] Freer writing tasks leave meaningful analysis and organisation to the learner
 - [ ] Homework tasks are appropriately independent
-- [ ] Word counts align with the agreed progression: ~150w (Module 1) → ~200w (Modules 2–3) → ~250w (Modules 4–5) → ~300–350w (Module 6 / Units 22–23)
+- [ ] Word counts align with the agreed progression
 - [ ] Revised prompts do not drift upward in linguistic sophistication or processing load beyond what the target learner can reasonably handle
 
 **Requirement sources:**
 
-- `adv/edits & guides/aw-adv_project_context.md` — internal framing targets B1+/B2 learners in an aspirational, scaffolded context
-- `adv/edits & guides/aw-adv_prompt-writing-policy.md` — the scenario is the vehicle, not the point; prompts must be calibrated so the writing work stays with the learner
-- `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md` — learner-facing Can-Do architecture and module-by-module workload progression govern what the learner is being asked to process and produce
+- `adv/edits & guides/planning/aw-adv_project_context.md` — internal framing targets B1+/B2 learners in an aspirational, scaffolded context
+- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — the scenario is the vehicle, not the point; prompts must be calibrated so the writing work stays with the learner
+- `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` — learner-facing Can-Do architecture and module-by-module workload progression govern what the learner is being asked to process and produce
 
 ### 5D.4 Choice-list quality
 
@@ -304,9 +294,9 @@ A unit meets this criterion only if all six N10 minimum deliverables are present
 
 **Requirement sources:**
 
-- `adv/edits & guides/aw-adv_project_context.md` — scenarios were already identified as over-reliant on a narrow set of recurring situation types and were meant to be diversified across modules
-- `adv/edits & guides/aw-adv_prompt-writing-policy.md` — options should represent meaningfully different professional situations and avoid contextual overlap
-- `adv/edits & guides/aw-adv_project_todo_list.md` — scenario variety and prompt-policy compliance remain explicit QA concerns in the active workstream
+- `adv/edits & guides/planning/aw-adv_project_context.md` — scenarios were already identified as over-reliant on a narrow set of recurring situation types and were meant to be diversified across modules
+- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — options should represent meaningfully different professional situations and avoid contextual overlap
+- `adv/edits & guides/planning/aw-adv_project_todo_list.md` — scenario variety and prompt-policy compliance remain explicit QA concerns in the active workstream
 
 ## 5F. Model Text Quality
 
@@ -335,8 +325,9 @@ A unit meets this criterion only if all six N10 minimum deliverables are present
 - [ ] The active unit matches the assigned activity codes and sequence in the structural profiles
 - [ ] First-use and special-profile exceptions are handled correctly where relevant
 - [ ] Any deliberate deviation from the profile is documented and justified
-- [ ] H1 Extension Tasks are present only in units where the structural profiles assign H1; units not assigned H1 (currently Units 2, 3, 4, 6, and 11) must not contain an H1 Extension Task unless the project owner has explicitly approved a profile change
-- [ ] Where H1 is correctly assigned, the Extension Task contains three genuinely varied options drawn from different activity types in the Master Activity Menu
+- [ ] H1 Extension Task is implemented consistently across the active files and structural profiles as a book-wide feature
+- [ ] Each H1 Extension Task contains three genuinely varied options drawn from different activity types in the Master Activity Menu — not three versions of the same task type
+- [ ] Where H2 is also present, section H ordering follows the current project standard: H2 → H3 → H1
 
 ### 5G.2 Can-Do architecture compliance
 
@@ -426,7 +417,7 @@ A unit meets this criterion only if all six N10 minimum deliverables are present
 
 - [ ] `P4` answer key / sample responses is recorded as a later stage, not mistaken for a current failure
 - [ ] `P7` Unit 23 rubric requirement is explicitly tracked and not forgotten before sign-off
-- [ ] Learning goals mapping issues (14 improvement recommendations identified in `admin-writing-adv_learning-goals-mapping.md` across five categories) are recorded as a named deferred item; confirm they are tracked in the to-do list and will not be lost before book sign-off
+- [ ] Learning goals mapping issues (14 improvement recommendations identified in `aw-adv_step11_learning-goals-mapping.md` across five categories) are recorded as a named deferred item; confirm they are tracked in the to-do list and will not be lost before book sign-off
 
 ---
 
@@ -470,4 +461,4 @@ Prioritise the first book-wide pass on:
 
 ---
 
-*Working status: v2 — revised after cross-checking the Round 2 review against the original checklist. Gaps addressed: preliminary cross-check step added (Section 4.0); H1 Extension Task compliance check added (5G.1); N10 minimum deliverables made the concrete standard for 5C.1; activity heading format check added (5L.1); explicit word-count targets added to 5D.3 and 5I.2; requirement source added to 5B.2; learning goals mapping deferred item added to 5M.2.*
+*Working status: Initial `N11` book-wide QA checklist prepared after completion of `N10`, using the Step 14 QA discussion, the revised structural profiles, the prompt-writing policy, and the active `n10` module files as primary sources.*

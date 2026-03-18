@@ -51,11 +51,11 @@ Use the tables below as the tracking control for `N10`.
   - `Added - cleanup needed` = something has been inserted, but the placement or wording is currently unsatisfactory
   - `Reviewed - pass` = the insertion has been added and checked satisfactorily
 - `Framework matching`:
-  - `Yes` = the current insertion matches the requirement type and expectations in `aw-adv_n10_language_instruction_framework.md`
+  - `Yes` = the current insertion matches the requirement type and expectations in `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
   - `No` = the current insertion does not satisfactorily meet the framework requirement
   - `Not yet checked` = no rigorous framework check has been completed yet
 - `Goals alignment`:
-  - `Yes` = the current insertion clearly supports the relevant module purpose, unit goal, and activity goal in `aw-adv_unit_structural_profiles_revised.md`
+  - `Yes` = the current insertion clearly supports the relevant module purpose, unit goal, and activity goal in `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
   - `No` = the current insertion does not clearly align with those goals
   - `Not yet checked` = no rigorous goals-alignment check has been completed yet
 
@@ -436,4 +436,4 @@ Reason:
 
 ---
 
-*Working status: Initial unit-by-unit N10 implementation plan prepared from `excerpt from Step14 thread.md`, `aw-adv_unit_structural_profiles_revised.md`, and the current `aw-adv_mod*_n9.md` files.*
+*Working status: Initial unit-by-unit N10 implementation plan prepared from `excerpt from Step14 thread.md`, `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`, and the current `aw-adv_mod*_n9.md` files.*

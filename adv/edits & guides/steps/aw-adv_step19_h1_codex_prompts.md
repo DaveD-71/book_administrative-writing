@@ -12,7 +12,7 @@
 
 ## Prompt 1 of 3 — Update structural profiles: add H1 to Units 2, 3, 4, 6, 11, and 19
 
-**File:** `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md`
+**File:** `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
 
 **What this prompt does:**
 Six units currently have no H1 in their activity-level Can-Do tables and carry content flags marking H1 absence as correct. This prompt adds H1 to each unit's table and removes the incorrect absence notes.
@@ -376,7 +376,7 @@ After completing all three changes, confirm:
 
 ## Prompt 3 of 3 — Update checklist v2: revise 5G.1 H1 check item
 
-**File:** `adv/edits & guides/aw-adv_n11_qa_checklist_v2.md`
+**File:** `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
 
 **What this prompt does:**
 Section 5G.1 currently contains a check item that names Units 2, 3, 4, 6, and 11 as non-H1 units. Now that H1 is a consistent book-wide feature, that check item needs to be rewritten as a positive compliance check.

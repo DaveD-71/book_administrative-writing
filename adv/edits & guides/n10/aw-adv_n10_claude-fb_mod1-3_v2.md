@@ -277,4 +277,4 @@ Unit 10 is the only unit that can be confirmed as `Reviewed — pass ✅` withou
 
 ---
 
-*Document version 2. Produced after full reading of `aw-adv_mod1_n10.md`, `aw-adv_mod2_n10.md`, and `aw-adv_mod3_n10.md`, cross-checked against `aw-adv_unit_structural_profiles_revised.md` and `aw-adv_project_todo_list.md`.*
+*Document version 2. Produced after full reading of `aw-adv_mod1_n10.md`, `aw-adv_mod2_n10.md`, and `aw-adv_mod3_n10.md`, cross-checked against `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` and `adv/edits & guides/planning/aw-adv_project_todo_list.md`.*

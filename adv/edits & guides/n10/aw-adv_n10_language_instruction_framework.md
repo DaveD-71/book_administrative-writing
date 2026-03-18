@@ -18,7 +18,7 @@
    - Defines the pedagogical gap and the wider QA logic behind it.
    - Confirms that the missing layer is explicit teaching, not more prompt refinement.
 
-2. `aw-adv_unit_structural_profiles_revised.md`
+2. `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
    - Defines the intended learning architecture:
    - module purpose
    - unit-level Can-Do statements
@@ -29,7 +29,7 @@
 
 Secondary reference:
 
-4. `aw-adv_project_todo_list.md`
+4. `adv/edits & guides/planning/aw-adv_project_todo_list.md`
    - Confirms scope, sequencing, and project status.
 
 `N10` should not be driven primarily by abstract theory, generic ELT preferences, or the prompt-writing policy. It should be derived from what this book says it intends to teach, what the current units actually do, and what the Step 14 discussion identified as missing.
@@ -355,7 +355,7 @@ The following patterns should trigger stronger intervention:
 
 For each module:
 
-1. Re-read the module introduction and unit Can-Do statements in `aw-adv_unit_structural_profiles_revised.md`
+1. Re-read the module introduction and unit Can-Do statements in `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
 2. Read the current `aw-adv_mod*_n9.md` file
 3. Confirm module → unit → activity goal alignment
 4. Assign each unit an intervention level (`1`, `2`, or `3`)
@@ -388,4 +388,4 @@ Module 1 already points to the right model for the kind of conceptual strengthen
 
 ---
 
-*Working status: Initial N10 framework prepared after completion of N9, based primarily on `excerpt from Step14 thread.md`, `aw-adv_unit_structural_profiles_revised.md`, and the current module content.*
+*Working status: Initial N10 framework prepared after completion of N9, based primarily on `excerpt from Step14 thread.md`, `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`, and the current module content.*

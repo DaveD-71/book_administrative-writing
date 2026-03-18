@@ -35,14 +35,14 @@ Historical note:
 ### 2026-03-15T00:59:14.7432774+09:00 - N11 QA Workstream Started
 
 - Read the advanced N11 source set:
-  - `adv/edits & guides/aw-adv_project_todo_list.md`
-  - `adv/edits & guides/excerpt from Step14 thread.md`
-  - `adv/edits & guides/aw-adv_n10_language_instruction_framework.md`
-  - `adv/edits & guides/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/references/excerpt from Step14 thread.md`
+  - `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
+  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
   - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_module_editing_protocol.md`
   - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_qa_checklist_template.md`
 - Drafted the new book-wide QA framework:
-  - `adv/edits & guides/aw-adv_n11_qa_checklist.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md`
 - Updated the advanced to-do list so `N11` is now marked `In progress`
 - Recorded in project memory that the new `N11` checklist is the authoritative next-stage QA framework for the advanced track
 
@@ -50,7 +50,7 @@ Historical note:
 
 - Ran initial structured checks against the active `n10` module files and supporting project docs
 - Recorded the first review note at:
-  - `adv/edits & guides/aw-adv_n11_qa_review_round1.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
 - Confirmed in the active `n10` files:
   - `P2` B7 tasks are present in Units 11, 13, 17, and 21
   - `P6` B6 tasks are present in Units 15, 18, 19, and 22
@@ -67,14 +67,14 @@ Historical note:
   - Unit 14 `E4` clearly defines `Task 1` and `Task 2` word-count ranges
   - Unit 22 `E4` clearly defines planning-note and full-document ranges
   - Unit 22 includes explicit fallback and transfer support rather than assuming prior saved work
-- Updated `adv/edits & guides/aw-adv_n11_qa_review_round1.md` so these items now record as `Pass`, with the tooling limitation noted separately
+- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md` so these items now record as `Pass`, with the tooling limitation noted separately
 
 ### 2026-03-15T01:18:00+09:00 - N11 Broader Variety And Support Check
 
 - Counted explanation/support markers across the six active `n10` module files and confirmed the `N10` pedagogical layer is visibly embedded across the full book, though final sufficiency remains a qualitative QA question
 - Confirmed broad activity-type variety is present in the active files rather than only in the planning documents
 - Identified the remaining likely book-level variety risk as possible scenario-family / JPO-option overlap, especially in some Modules 2 and 4 interoffice coordination prompts
-- Updated `adv/edits & guides/aw-adv_n11_qa_review_round1.md` with these findings
+- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md` with these findings
 
 ### 2026-03-15T15:16:24.7226107+09:00 - N11 Sameness Pass Prompt Repairs
 
@@ -85,21 +85,21 @@ Historical note:
   - Unit 13 `H3`
   - Unit 15 `H3`
 - The revised prompts now preserve the target skill while using more distinct contexts from their paired freer-writing JPO options
-- Recorded the repaired-status finding in `adv/edits & guides/aw-adv_n11_qa_review_round1.md`
+- Recorded the repaired-status finding in `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
 
 ### 2026-03-15T19:32:00+09:00 - N11 Checklist Tightened And Round 2 Findings Recorded
 
-- Updated `adv/edits & guides/aw-adv_n11_qa_checklist.md` so `N11` now explicitly tests:
+- Updated `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` so `N11` now explicitly tests:
   - B1+/B2 prompt readability
   - drift into over-dense or overly sophisticated prompt wording
   - book-level scenario-family clustering, especially in JPO contexts
 - Added named requirement sources for those new checks using:
-  - `adv/edits & guides/aw-adv_project_context.md`
-  - `adv/edits & guides/aw-adv_prompt-writing-policy.md`
-  - `adv/edits & guides/aw-adv_unit_structural_profiles_revised.md`
-  - `adv/edits & guides/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/aw-adv_project_context.md`
+  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
 - Recorded the focused second-pass review at:
-  - `adv/edits & guides/aw-adv_n11_qa_review_round2.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
 - Round 2 conclusion:
   - the earlier overlap repairs improved local distinctness
   - but Modules 2 and 4 still contain JPO prompts that are too dense and too clustered around trilateral / counterpart-office coordination
@@ -109,7 +109,7 @@ Historical note:
 
 - Re-read all six active `n10` module files as a genuine full-book Round 2 pass after the checklist revision
 - Treated the earlier Round 1 note as historical background only, because the revised checklist changed the operative QA standard
-- Rewrote `adv/edits & guides/aw-adv_n11_qa_review_round2.md` so it now records:
+- Rewrote `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md` so it now records:
   - full-book coverage across Units 1-23 and all A-H sections
   - broad passes in pedagogical support, learner-level scaffolding, progression, and activity-type variety
   - structural / coding cleanup still needed in Modules 1 and 3
@@ -119,15 +119,15 @@ Historical note:
 ### 2026-03-15T20:05:00+09:00 - Round 3 Completed After Claude Checklist Verification
 
 - Read and cross-checked:
-  - `adv/edits & guides/aw-adv_n11_claude-fb_qa_checklist.md`
-  - `adv/edits & guides/aw-adv_n11_qa_checklist_v2_claude.md`
-  - `adv/edits & guides/aw-adv_n10_claude-fb_mod1-3_v2.md`
-  - `adv/edits & guides/aw-adv_n10_claude-fb_mod4-6_v2.md`
-  - `adv/edits & guides/aw-adv_step11_learning-goals-mapping.md`
+  - `adv/edits & guides/n11/aw-adv_n11_claude-fb_qa_checklist.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
+  - `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md`
+  - `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`
+  - `adv/edits & guides/steps/aw-adv_step11_learning-goals-mapping.md`
   - live active `n10` module files for the specific open blockers
-- Upgraded `adv/edits & guides/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
+- Upgraded `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
 - Created the new operative QA record:
-  - `adv/edits & guides/aw-adv_n11_qa_review_round3.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
 - Round 3 outcome:
   - kept the Modules 2 and 4 JPO prompt blockers as live
   - confirmed the unresolved H1/profile mismatch in Units 2, 3, 4, 6, and 11 as a real sign-off blocker
@@ -300,7 +300,7 @@ Historical note:
 
 - Re-audited the live `adv/md/n10` files for grouped-option parallelism before moving into full review
 - Confirmed that earlier Round 2 / Round 3 findings on JPO-option calibration and within-set parallelism were not sufficiently closed by the later targeted recheck
-- Created `adv/edits & guides/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Created `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - The issue list:
   - carries forward the earlier grouped-option findings from the Round 1 / Round 2 / Round 3 QA history
   - records current live-file evidence for the still-open Module 2 and Module 4 issues
@@ -309,15 +309,27 @@ Historical note:
 
 ### 2026-03-17T21:35:00+09:00 - Updated The Live QA Files For Tomorrow's Restart
 
-- Rewrote the `N11` row in `adv/edits & guides/aw-adv_project_todo_list.md` so it now clearly shows as reopened
+- Rewrote the `N11` row in `adv/edits & guides/planning/aw-adv_project_todo_list.md` so it now clearly shows as reopened
 - Updated the remaining-work sequence in the to-do list so the next order is:
   - complete `N11`
   - full review
   - `P4`
 - Added direct restart references in the to-do list pointing to:
-  - `aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
-  - `aw-adv_n11_qa_review_round3.md`
-  - `aw-adv_n11_qa_checklist.md`
-  - `aw-adv_n11_qa_review_round1.md`
-  - `aw-adv_n11_qa_review_round2.md`
-- Updated `adv/edits & guides/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off
+  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
+- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off
+
+### 2026-03-18T00:00:00+09:00 - Reorganized Advanced Edit Guides Into Functional Subfolders
+
+- Created functional subfolders under `adv/edits & guides`:
+  - `planning`
+  - `n10`
+  - `n11`
+  - `steps`
+  - `references`
+- Moved the existing advanced guide files into those subfolders by document role
+- Updated repo references to the new relative paths so the moved files remain discoverable from the to-do list, QA notes, planning docs, and project memory
+- This cleanup is structural only; it does not change the active `adv/md/n10` content baseline or the reopened `N11` task scope
