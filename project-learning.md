@@ -303,3 +303,11 @@ Historical note:
 - Context: clean-sheet Round 4 full-book QA pass after the earlier Round 1 -> Round 3 scope drift was explicitly identified
 - Observation: Round 4 did not inherit sign-off from the earlier review files. It re-ran the full `N11` checklist across all six live `adv/md/n10` module files, found one remaining cross-module formatting/structural-consistency family in the active files, corrected it in the same pass, and then cleared the book through the final sign-off gate. The authoritative record is now `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`.
 - Preferred behavior: treat Round 4 as the final `N11` control document, keep Round 1 to Round 3 plus the grouped-option issue list as historical support only, and begin the next stage from the Round 4 verdict rather than from earlier closure language
+
+### 2026-03-18T18:04:43+09:00 - Intermediate Book Now Has A Saved Development Plan Baseline
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: preparation for repeating the advanced-book development process on the intermediate draft set
+- Observation: the intermediate track now has a saved source-of-truth planning document at `int/edits & guides/planning/aw-int_development_plan.md`. The chosen model is a rigorous adaptation of the advanced workflow rather than a one-to-one clone: keep the simpler intermediate identity, use limited JPO contextualization, treat `int/md` plus the intro as the live source set, and build planning, language-instruction, and QA layers before major content rewriting.
+- Preferred behavior: when intermediate-book execution begins, use the saved development plan as the governing baseline, create the intermediate control stack described there, and avoid treating `int/aw-int-all.md` as the live source of truth until the split-unit files have been revised and intentionally recombined

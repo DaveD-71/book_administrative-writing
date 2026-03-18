@@ -406,3 +406,18 @@ Historical note:
   - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
 - Next stage after Round 4:
   - full review
+
+### 2026-03-18T18:04:43+09:00 - Saved The Intermediate Development Plan For Later Execution
+
+- Reviewed the actual intermediate draft shape in `int`, the advanced planning and QA artifacts, and the relevant project-memory lessons before drafting the intermediate workflow
+- Confirmed the current intermediate baseline:
+  - full 23-unit split draft set in `int/md`
+  - intro at `int/int_writing_text_intro.md`
+  - combined file `int/aw-int-all.md` present but better treated as a reference snapshot until the split-unit files are revised
+- Created the first intermediate planning artifact:
+  - `int/edits & guides/planning/aw-int_development_plan.md`
+- Locked the current project defaults for the intermediate book:
+  - rigorous adaptation of the advanced workflow, not full architectural cloning
+  - limited JPO contextualization only where it clearly improves realism
+  - whole-book planning first, then module-by-module execution
+- The saved plan requires the intermediate project to add its own planning, language-instruction, and QA control layers before heavy revision, rather than trying to edit the existing draft set ad hoc
