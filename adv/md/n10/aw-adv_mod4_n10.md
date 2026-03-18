@@ -226,7 +226,7 @@ Choose one situation:
 1. You are an external liaison officer in a regional review office. Your team sent a revised applicant file and supporting documents to a partner agency three weeks ago, but no acknowledgement has been received and the next internal review meeting cannot proceed until the file status is confirmed.
 2. You are writing from an interagency coordination team. Earlier this month, your office submitted revised supporting documents for a case that is due to move to the next processing stage, but your records still do not show whether the documents have been reviewed or whether any further materials are required.
 3. You are a case coordination officer following up with an external counterpart. Two weeks ago, your office sent a clarification request about an applicant file, and your supervisor now needs an update before next week's internal review meeting.
-4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office has received a short update from a counterpart office on an international filing, but several key points remain unconfirmed. Your team needs these points clarified before this week's internal reporting note is completed.
+4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office recently sent comments on an international filing to a counterpart office, but the reply does not confirm whether those comments have been reflected in the current file or whether any further clarification is needed. Your team needs this status confirmed before this week's internal reporting note is completed.
 
 ---
 
@@ -496,7 +496,7 @@ Choose one situation:
 1. A revised submission procedure is due to be introduced across four regional offices next month, but several teams have not yet completed the preparation needed for implementation. Your supervisor has asked you to prepare a short internal risk note before the rollout meeting.
 2. An interagency guideline on document handling was revised last month, but the updated version has not yet reached all partner organisations and two recent submissions have already been processed using different instructions. You have been asked to assess the operational risk before the next coordination call.
 3. The officer responsible for applicant communication in a high-volume case stream left last week without completing handover notes, and several open files now contain unresolved queries and missing status updates. Your manager needs a risk and impact assessment before deciding how to reassign the work.
-4. *(JPO context)* The JPO is preparing to introduce a new international filing or reporting system within the next six weeks, but preparation across partner offices and internal teams is incomplete.
+4. *(JPO context)* The JPO is preparing to introduce a new international filing system next month, but several partner offices have not yet completed the training needed for implementation.
 
 ---
 
@@ -565,7 +565,7 @@ Choose one situation:
 1. A procedural update is due to take effect across several offices within the next month, but some teams have not yet completed the preparation needed for implementation.
 2. A revised interagency guideline has been issued, but several partner organisations have not yet received training or updated documentation and may still be using the previous version.
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
-4. *(JPO context)* A revised cross-office verification checklist is due before the next reporting cycle, but training has not yet been completed in all teams and one support tool is still pending testing.
+4. *(JPO context)* A revised cross-office verification checklist is due before the next reporting cycle, but training has not yet been completed in all teams, creating a risk of inconsistent use during implementation.
 
 #### Extension Task (H1)
 
@@ -1072,7 +1072,7 @@ Choose one situation:
 1. Your office wants to revise an administrative process that has caused recurring delays, and a formal rationale is needed before approval can be given.
 2. A guideline or standard form has been updated following a policy change, and your team must write a rationale explaining why the revision should now be adopted.
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
-4. *(JPO context)* Your office is preparing a rationale to support the adoption of a common progress-tracking sheet for joint review projects. The proposal must align with existing coordination guidance before it can be submitted for approval.
+4. *(JPO context)* Your office is preparing a rationale to support the introduction of a common progress-reporting timetable for joint review projects involving partner offices. The proposal must align with existing coordination guidance before it can be submitted for approval.
 
 #### Extension Task (H1)
 

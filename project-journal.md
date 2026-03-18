@@ -333,3 +333,54 @@ Historical note:
 - Moved the existing advanced guide files into those subfolders by document role
 - Updated repo references to the new relative paths so the moved files remain discoverable from the to-do list, QA notes, planning docs, and project memory
 - This cleanup is structural only; it does not change the active `adv/md/n10` content baseline or the reopened `N11` task scope
+
+### 2026-03-18T00:25:00+09:00 - Began The Reopened N11 Source Pass On Grouped-Option Issues
+
+- Started the live source-edit pass for the known grouped-option issue list in:
+  - `adv/md/n10/aw-adv_mod2_n10.md`
+  - `adv/md/n10/aw-adv_mod4_n10.md`
+  - `adv/md/n10/aw-adv_mod6_n10.md`
+- Revised all ten `GO-01` to `GO-10` items listed in `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- The edits focused on:
+  - improving within-set option parallelism
+  - reducing JPO-option load where it was inflated
+  - making dependency chains explicit where the JPO option had been flatter than its peers
+  - separating overly similar JPO `E` / `H3` pairings more clearly
+- `N11` remains open after this pass because the revised option sets still need an explicit recheck against:
+  - `5B.1 Level appropriacy`
+  - `5D.3 Calibration`
+  - `5D.4 Choice-list quality`
+  - `5E.3 Variety without chaos`
+
+### 2026-03-18T00:45:00+09:00 - Completed The Explicit Recheck Of The Known Grouped-Option Issue Set
+
+- Rechecked the revised `GO-01` to `GO-10` items against:
+  - `5B.1 Level appropriacy`
+  - `5D.3 Calibration`
+  - `5D.4 Choice-list quality`
+  - `5E.3 Variety without chaos`
+- Recorded the recheck result in:
+  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+- Current state:
+  - the known grouped-option issue list is now clear at unit level
+  - `N11` remains open because the broader six-module book-level recheck has not yet been completed
+
+### 2026-03-18T00:55:00+09:00 - Completed The Broader N11 Full-Book Recheck
+
+- Ran the broader recheck across all six live `adv/md/n10/aw-adv_mod*_n10.md` files against:
+  - `5B.1 Level appropriacy`
+  - `5D.3 Calibration`
+  - `5D.4 Choice-list quality`
+  - `5E.3 Variety without chaos`
+- Identified and tightened two additional book-level outliers during the wider pass:
+  - `adv/md/n10/aw-adv_mod2_n10.md` Unit 6 `E1`
+  - `adv/md/n10/aw-adv_mod4_n10.md` Unit 13 `E1`
+- Reviewed the remaining JPO option sets in Modules 3 and 5 and retained them as acceptable rather than as active blockers
+- Updated the live QA/control files so they now reflect `N11` completion:
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+- Current stage after this pass:
+  - `N11` is now complete
+  - the next project stage is full review

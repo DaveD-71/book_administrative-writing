@@ -64,6 +64,53 @@ Required next step before full review:
    - `5E.3 Variety without chaos`
 3. only then decide whether `N11` can be signed off
 
+## Grouped-Option Recheck Close-Out - 2026-03-18
+
+The known grouped-option issue set has now been revised in the live source files and explicitly rechecked.
+
+Recheck result: `Clear at known-item level - N11 still open pending full-book recheck`
+
+What is now clear:
+
+- `GO-01` to `GO-10` in `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` have been revised and rechecked against:
+  - `5B.1 Level appropriacy`
+  - `5D.3 Calibration`
+  - `5D.4 Choice-list quality`
+  - `5E.3 Variety without chaos`
+- the previously carried-forward Module 2 and Module 4 grouped-option blockers are no longer active in the specific unit/task locations that were reopened
+- the two newly surfaced Module 6 outliers are also now clear at unit level
+
+What remains:
+
+- `N11` is still not complete
+- the next stage is the broader book-level recheck across all six live `adv/md/n10/aw-adv_mod*_n10.md` files
+- full review still must not begin until that broader pass is complete
+
+## Full-Book Recheck Close-Out - 2026-03-18
+
+The broader book-level recheck has now been completed across all six live `adv/md/n10/aw-adv_mod*_n10.md` files.
+
+Recheck result: `Pass - N11 now clear for completion`
+
+What was confirmed:
+
+- the known grouped-option issue set remained clear after the wider scan
+- two additional book-level outliers found during the wider pass were tightened in source:
+  - `adv/md/n10/aw-adv_mod2_n10.md` Unit 6 `E1`
+  - `adv/md/n10/aw-adv_mod4_n10.md` Unit 13 `E1`
+- no additional active blockers remain under:
+  - `5B.1 Level appropriacy`
+  - `5D.3 Calibration`
+  - `5D.4 Choice-list quality`
+  - `5E.3 Variety without chaos`
+- the reviewed JPO option sets in Modules 3 and 5 are acceptable and do not currently require reopening
+
+Final interpretation:
+
+- the grouped-option / JPO-calibration issue family is now clear at book level
+- `N11` no longer needs to remain reopened on this basis
+- the next project stage is full review
+
 ---
 
 > **Purpose of this document**

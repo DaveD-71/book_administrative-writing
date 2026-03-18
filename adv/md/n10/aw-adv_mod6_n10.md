@@ -869,7 +869,7 @@ Choose one scenario:
 1. Implementation status of revised applicant communication guidelines across four partner offices
 2. Progress on action points from the previous interagency coordination meeting, as reported by five units
 3. Summary of feedback received on a proposed new interagency data-sharing protocol
-4. *(JPO context)* Implementation feedback received from three JPO regional examination teams following the rollout of an updated international filing procedure. The updates indicate a mix of completed actions, operational concerns, and unresolved questions that now need to be consolidated for internal review.
+4. *(JPO context)* Implementation feedback received from three JPO regional examination teams following the rollout of an updated international filing procedure
 
 **Part A:** Write the Summary and Issues Identified sections (approximately 90-100 words combined).
 
@@ -940,7 +940,7 @@ Write a **270–310 word** consolidated administrative report. Choose one scenar
 1. Implementation updates from four offices following the introduction of a new interagency communication standard
 2. Progress reports on five outstanding action points from a coordination meeting held six weeks ago
 3. Feedback from three offices on a proposed revision to the applicant processing timeline
-4. *(JPO context)* Feedback from multiple JPO teams or partner offices following a procedural update related to international examination or PCT processing
+4. *(JPO context)* Feedback from four JPO teams following a procedural update related to international examination or PCT processing
 
 Your report must use the five-section format (Summary / Issues Identified / Actions Taken / Outstanding Questions / Next Steps) and maintain a formal, neutral tone throughout.
 

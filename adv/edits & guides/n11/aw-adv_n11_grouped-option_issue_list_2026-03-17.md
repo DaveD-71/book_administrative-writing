@@ -53,31 +53,89 @@ Legend:
 
 ---
 
-## 3. Follow-Up Recommendation
+## 3. 2026-03-18 Source-Edit Pass
 
-Before `N11` can be signed off, the next pass should:
+The live `n10` files have now been revised for the known grouped-option issue set.
 
-1. work through `GO-01` to `GO-10` in the live `n10` files
-2. recheck each edited choice set against:
-   - `5B.1 Level appropriacy`
-   - `5D.3 Calibration`
-   - `5D.4 Choice-list quality`
-   - `5E.3 Variety without chaos`
-3. explicitly record, for each issue:
-   - whether it was revised
-   - what changed
-   - why the revised option is now parallel to its peers
-4. avoid broad closure language such as "Modules 2 and 4 are now sufficiently differentiated" unless every carried-forward issue has been rechecked at unit level
+| ID | Live action taken on 2026-03-18 | Recheck status |
+|---|---|---|
+| GO-01 | JPO option tightened so the consequence and required follow-up action are explicit. | Recheck against `5D.4` and `5D.3` still required |
+| GO-02 | JPO option simplified to one main uncertainty family: whether further materials are needed before the next stage. | Recheck against `5B.1` and `5D.4` still required |
+| GO-03 | JPO option replaced with a document-consistency scenario involving a date mismatch and a missing attachment. | Recheck against `5D.4` and `5E.3` still required |
+| GO-04 | JPO option rewritten so the requests now follow a clearer step-by-step dependency chain. | Recheck against `5D.3` still required |
+| GO-05 | JPO option rewritten so the actions now proceed in a genuinely sequential order. | Recheck against `5D.3` still required |
+| GO-06 | Unit 12 `E3` JPO option separated more clearly from `H3` by shifting it toward file-status confirmation rather than agenda logistics. | Pair-level recheck against `5D.4` and `5E.3` still required |
+| GO-07 | Unit 13 `H3` JPO option reduced to one main operational-risk frame. | Recheck against `5B.1` and `5D.3` still required |
+| GO-08 | Unit 15 `H3` JPO option broadened from a narrow shared artefact rationale to a wider progress-reporting rationale. | Pair-level recheck against `5D.4` and `5E.3` still required |
+| GO-09 | Unit 21 `E4` JPO option trimmed to the same descriptive load as the peer options. | Recheck against `5D.4` still required |
+| GO-10 | Unit 21 `H3` JPO option narrowed to a single source-set logic (`JPO teams` only). | Recheck against `5D.4` still required |
 
-Current conclusion:
+Current status after the source-edit pass:
 
-- this issue list is sufficient to block final `N11` sign-off
-- `P7` may remain complete
-- full review should not begin until these grouped-option issues have been addressed and rechecked
+- all `GO-01` to `GO-10` items have now been revised in the live source files
+- the issue list still blocks final `N11` sign-off until the revised sets are explicitly rechecked against the operative criteria
 
 ---
 
-## 4. Start Here Tomorrow
+## 4. 2026-03-18 Explicit Recheck Result
+
+The revised grouped-option set has now been rechecked against:
+
+- `5B.1 Level appropriacy`
+- `5D.3 Calibration`
+- `5D.4 Choice-list quality`
+- `5E.3 Variety without chaos`
+
+Result:
+
+- the known `GO-01` to `GO-10` issue set is now clear at the unit level
+- the revised JPO options now function as peer options rather than as over-specialised or over-expanded special cases
+- the carried-forward Module 2 and Module 4 problems no longer remain active blockers in their previously flagged locations
+
+Item-by-item recheck note:
+
+| ID | Recheck result | Why this is now clear |
+|---|---|---|
+| GO-01 | Clear | The JPO option now states both the consequence and the required follow-up action, making it parallel in task pressure and detail level with the other three options. |
+| GO-02 | Clear | The JPO option has been reduced to one main uncertainty family, which brings it back into line with the bounded administrative clarification frame used by the peer options. |
+| GO-03 | Clear | The JPO option now uses the same document-consistency / missing-information skill frame as the other choices and no longer depends on specialist citation knowledge. |
+| GO-04 | Clear | The JPO option now encodes an explicit step-by-step dependency chain rather than a flat grouped request list. |
+| GO-05 | Clear | The JPO option now builds genuine sequence and dependency, matching the structural demand of the other options in the set. |
+| GO-06 | Clear | The Unit 12 JPO pair is now more clearly separated: `E3` is a file-status / comment-reflection inquiry, while `H3` is an agenda-status inquiry with different communicative pressure. |
+| GO-07 | Clear | The Unit 13 `H3` JPO option now centres on one implementation risk rather than compressing multiple operational variables into a single option. |
+| GO-08 | Clear | The Unit 15 JPO pair no longer sits in the same narrow rationale family: `E1` remains terminology-framework adoption, while `H3` now addresses progress-reporting coordination. |
+| GO-09 | Clear | The Unit 21 `E4` JPO option now matches the short descriptive load of the peer report-source options. |
+| GO-10 | Clear | The Unit 21 `H3` JPO option now uses one clear source-set logic (`JPO teams`), making it parallel with the other source-defined options. |
+
+Current conclusion after the explicit recheck:
+
+- the grouped-option issue list no longer blocks `N11` at the known-item level
+- `N11` still remains open because a full-book recheck across all six `n10` modules has not yet been completed
+- the next stage is the broader book-level recheck, not full review
+
+---
+
+## 5. 2026-03-18 Broader Book-Level Recheck Result
+
+The broader recheck has now been run across all six live `adv/md/n10/aw-adv_mod*_n10.md` files.
+
+Book-level recheck result:
+
+- no additional active blockers remain outside the revised `GO-01` to `GO-10` set
+- two further book-level outliers were identified during the wider scan and tightened during the same pass:
+  - `adv/md/n10/aw-adv_mod2_n10.md` Unit 6 `E1`
+  - `adv/md/n10/aw-adv_mod4_n10.md` Unit 13 `E1`
+- the remaining reviewed JPO option sets in Modules 3 and 5 were retained as acceptable and do not currently block `N11`
+
+Current conclusion:
+
+- the grouped-option / JPO-calibration issue family is now clear at book level
+- this issue list is now historical QA support rather than an active blocker file
+- `N11` can now be closed at the QA-record level, subject to the main project records being updated accordingly
+
+---
+
+## 6. Historical Working References
 
 Primary working files:
 
@@ -104,12 +162,8 @@ Most relevant checklist criteria:
 - `5D.4 Choice-list quality`
 - `5E.3 Variety without chaos`
 
-Definition of done for the next pass:
+Definition of done for the broader recheck:
 
-- each `GO-*` item in this file has been reviewed against the live source
-- each affected option set has either been revised or explicitly retained with a stated reason
-- the recheck note explains why the final option set is now parallel in:
-  - scope
-  - detail level
-  - difficulty
-  - professional framing
+- all six live `n10` module files were checked against the operative criteria
+- any remaining outliers beyond `GO-01` to `GO-10` were either revised or explicitly retained with a stated reason
+- the final `N11` note now records that the book clears the grouped-option, calibration, and scenario-variety criteria at full-book level

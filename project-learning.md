@@ -287,3 +287,11 @@ Historical note:
 - Context: repo cleanup before resuming the reopened `N11` pass
 - Observation: `adv/edits & guides` is now organized into `planning`, `n10`, `n11`, `steps`, and `references` subfolders, and internal repo references have been updated to the new locations
 - Preferred behavior: place new advanced planning docs in `adv/edits & guides/planning`, `N10` framework or feedback docs in `adv/edits & guides/n10`, `N11` QA and review docs in `adv/edits & guides/n11`, step-by-step working notes in `adv/edits & guides/steps`, and excerpt/reference material in `adv/edits & guides/references`
+
+### 2026-03-18T00:55:00+09:00 - N11 Is Now Clear And The Next Stage Is Full Review
+
+- Status: `monitor`
+- Scope: project/state
+- Context: completion of the reopened grouped-option / JPO-calibration QA work
+- Observation: the known `GO-01` to `GO-10` issue set was revised and explicitly rechecked, two additional book-level outliers were tightened during the broader six-module scan, and the book now clears the relevant `N11` criteria for level appropriacy, calibration, choice-list quality, and variety
+- Preferred behavior: treat `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` as the final operative `N11` record, keep `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` as historical QA support, and move next to full review rather than reopening `N11` unless new evidence appears
