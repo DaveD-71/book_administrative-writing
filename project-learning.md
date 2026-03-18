@@ -295,3 +295,11 @@ Historical note:
 - Context: completion of the reopened grouped-option / JPO-calibration QA work
 - Observation: the known `GO-01` to `GO-10` issue set was revised and explicitly rechecked, two additional book-level outliers were tightened during the broader six-module scan, and the book now clears the relevant `N11` criteria for level appropriacy, calibration, choice-list quality, and variety
 - Preferred behavior: treat `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` as the final operative `N11` record, keep `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md` as historical QA support, and move next to full review rather than reopening `N11` unless new evidence appears
+
+### 2026-03-18T02:05:00+09:00 - Round 4 Replaced Round 3 As The Authoritative N11 Record
+
+- Status: `monitor`
+- Scope: project/state
+- Context: clean-sheet Round 4 full-book QA pass after the earlier Round 1 -> Round 3 scope drift was explicitly identified
+- Observation: Round 4 did not inherit sign-off from the earlier review files. It re-ran the full `N11` checklist across all six live `adv/md/n10` module files, found one remaining cross-module formatting/structural-consistency family in the active files, corrected it in the same pass, and then cleared the book through the final sign-off gate. The authoritative record is now `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`.
+- Preferred behavior: treat Round 4 as the final `N11` control document, keep Round 1 to Round 3 plus the grouped-option issue list as historical support only, and begin the next stage from the Round 4 verdict rather than from earlier closure language

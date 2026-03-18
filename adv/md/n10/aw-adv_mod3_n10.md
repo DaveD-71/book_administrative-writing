@@ -216,7 +216,7 @@ Write your revised version as a numbered procedure with step labels.
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -463,7 +463,7 @@ Write your full revised version as a coherent change management notice.
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -692,7 +692,7 @@ Your revised version must:
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -946,7 +946,7 @@ Write your revised version as a complete, properly formatted executive summary.
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 

@@ -43,7 +43,7 @@ Consider:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original Version** — Too informal and disorganised
 
@@ -64,7 +64,7 @@ Compare the two versions. Identify differences in:
 
 ---
 
-#### B3. Structural Deconstruction ★
+#### Structural Deconstruction (B3) ★
 
 High-level email structure is not just a format rule. Each section supports the reader in a different way: orienting them, explaining why the message matters, stating what action is needed, and making clear what will happen next.
 
@@ -147,7 +147,7 @@ Rewrite each sentence to match the function indicated. Keep the same core inform
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original (informal) model email as a structured, diplomatic version. Your rewrite must include:
 
@@ -160,7 +160,7 @@ Rewrite the original (informal) model email as a structured, diplomatic version.
 
 ---
 
-#### D3. Template-Guided Writing ★
+#### Template-Guided Writing (D3) ★
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
@@ -185,7 +185,7 @@ Use the template below to write a high-level email. Fill in each section using t
 
 ---
 
-#### D2. Scenario Writing
+#### Scenario Writing (D2)
 
 Choose one scenario and write a structured email of 5–7 sentences.
 
@@ -219,7 +219,7 @@ Choose one scenario:
 
 ### F. Review & Self-Assessment
 
-#### F1. Peer Review
+#### Peer Review (F1)
 
 Partners respond to the following:
 
@@ -230,7 +230,7 @@ Partners respond to the following:
 
 ---
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check that your email:
 
@@ -244,7 +244,7 @@ Before submitting, check that your email:
 
 ### G. Editing Skills
 
-#### G1. Editing Exercise
+#### Editing Exercise (G1)
 
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
@@ -254,9 +254,9 @@ Your rewrite must add: context, a clear explanation for each request, appropriat
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **190–220 word** high-level email to an interagency counterpart. Your email must include:
 
@@ -275,7 +275,7 @@ Choose one scenario:
 
 ---
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -317,7 +317,7 @@ Consider:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original Version** — Vague
 
@@ -339,7 +339,7 @@ Identify differences in:
 
 ---
 
-#### B2. Noticing Task
+#### Noticing Task (B2)
 
 Highlight the following in the improved version:
 
@@ -428,7 +428,7 @@ This example works because each question is tied to a specific reference, each p
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original (vague) model text as a precise, structured clarification request. Your rewrite must include:
 
@@ -440,7 +440,7 @@ Rewrite the original (vague) model text as a precise, structured clarification r
 
 ---
 
-#### D4. Two-Audience Version Task
+#### Two-Audience Version Task (D4)
 
 Using the scenario below, write two versions of the same clarification request.
 
@@ -485,7 +485,7 @@ Choose one scenario:
 
 ### F. Review & Self-Assessment
 
-#### F1. Peer Review
+#### Peer Review (F1)
 
 Partners identify:
 
@@ -496,7 +496,7 @@ Partners identify:
 
 ---
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check that your writing:
 
@@ -510,7 +510,7 @@ Before submitting, check that your writing:
 
 ### G. Editing Skills
 
-#### G1. Editing Exercise
+#### Editing Exercise (G1)
 
 Rewrite the following clarification requests. Each is too vague, too direct, or missing a reference. Provide the improved version and note what you changed.
 
@@ -524,9 +524,9 @@ For each rewrite, add: a specific reference, a clearly scoped question, softenin
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **190–220 word** clarification request to a partner office regarding inconsistencies found in a shared document. Your message must include:
 
@@ -544,7 +544,7 @@ Choose one scenario:
 
 ---
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -592,7 +592,7 @@ Discuss:
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original Version** — Too direct
 
@@ -614,7 +614,7 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### B4. Annotated Model ★
+#### Annotated Model (B4) ★
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
@@ -705,7 +705,7 @@ The revised version removes accusation, adds a specific reference, and explains 
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original (too direct) model using the diplomatic techniques from this unit. Your version must include:
 
@@ -717,7 +717,7 @@ Rewrite the original (too direct) model using the diplomatic techniques from thi
 
 ---
 
-#### D2. Scenario Writing
+#### Scenario Writing (D2)
 
 Choose one scenario and write a diplomatic error-notification message of 5–7 sentences.
 
@@ -755,7 +755,7 @@ Choose one scenario:
 
 ### F. Review & Self-Assessment
 
-#### F1. Peer Review
+#### Peer Review (F1)
 
 Partners respond to the following:
 
@@ -766,7 +766,7 @@ Partners respond to the following:
 
 ---
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check that your writing:
 
@@ -780,7 +780,7 @@ Before submitting, check that your writing:
 
 ### G. Editing Skills
 
-#### G1. Editing Exercise
+#### Editing Exercise (G1)
 
 Rewrite the following sentences. Each is too direct, too vague, or missing a key diplomatic element. For each rewrite, note what you changed and why.
 
@@ -793,9 +793,9 @@ Your rewrites must add: diplomatic framing, a specific reference, an impact expl
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
-#### H2. Real-World Task ★
+#### Real-World Task (H2) ★
 
 Find an email or written message from your own professional experience (or a realistic example from your workplace context) that involves communicating a problem, error, or discrepancy to a colleague or external partner.
 
@@ -810,7 +810,7 @@ Rewrite the message applying the techniques from this unit. If you cannot use a 
 
 ---
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **190–220 word** diplomatic error-notification message to a domestic or foreign office. Your message must include:
 
@@ -829,7 +829,7 @@ Choose one scenario:
 
 ---
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 
@@ -869,7 +869,7 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 
 ### B. Model Text
 
-#### B1. Compare Two Versions
+#### Compare Two Versions (B1)
 
 **Original Version** — Unstructured
 
@@ -890,7 +890,7 @@ Identify differences in:
 
 ---
 
-#### B2. Noticing Task
+#### Noticing Task (B2)
 
 Highlight the following in the improved version:
 
@@ -959,7 +959,7 @@ The second version is easier to follow because the order, dependency, and reason
 
 ### D. Guided Writing
 
-#### D1. Model Rewriting
+#### Model Rewriting (D1)
 
 Rewrite the original (unstructured) model into a layered, prioritised request message. Include:
 
@@ -971,7 +971,7 @@ Rewrite the original (unstructured) model into a layered, prioritised request me
 
 ---
 
-#### D2. Scenario Writing
+#### Scenario Writing (D2)
 
 Choose one scenario and write a structured multi-part request of 6–8 sentences.
 
@@ -1008,7 +1008,7 @@ Choose one scenario:
 
 ### F. Review & Self-Assessment
 
-#### F1. Peer Review
+#### Peer Review (F1)
 
 Partners respond to the following:
 
@@ -1019,7 +1019,7 @@ Partners respond to the following:
 
 ---
 
-#### F3. Self-Editing Checklist
+#### Self-Editing Checklist (F3)
 
 Before submitting, check that your message:
 
@@ -1033,7 +1033,7 @@ Before submitting, check that your message:
 
 ### G. Editing Skills
 
-#### G1. Editing Exercise
+#### Editing Exercise (G1)
 
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
@@ -1041,9 +1041,9 @@ Rewrite the following message. It contains unsequenced requests, missing depende
 
 ---
 
-### H. Homework
+### H. Homework & Extension
 
-#### H3. Homework Writing Task
+#### Homework Writing Task (H3)
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
 
@@ -1061,7 +1061,7 @@ Choose one scenario:
 
 ---
 
-#### H1. Extension Task
+#### Extension Task (H1)
 
 Choose one:
 

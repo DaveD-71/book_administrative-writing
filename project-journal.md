@@ -384,3 +384,25 @@ Historical note:
 - Current stage after this pass:
   - `N11` is now complete
   - the next project stage is full review
+
+### 2026-03-18T02:05:00+09:00 - Completed Clean-Sheet N11 Round 4 And Repointed The Final Record
+
+- Ran a new clean-sheet `N11` Round 4 full-book QA pass using `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` as the operative standard and treating the earlier round files as historical evidence only
+- Created the standalone Round 4 artifact:
+  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+- During the live-file pass, found one remaining cross-module structural-consistency family that had not been fully closed earlier:
+  - Module 2 still had code-first activity headings and mixed Section H labels
+  - Modules 3, 4, and 5 still used inconsistent Section H labels
+- Corrected that formatting family in the live files:
+  - `adv/md/n10/aw-adv_mod2_n10.md`
+  - `adv/md/n10/aw-adv_mod3_n10.md`
+  - `adv/md/n10/aw-adv_mod4_n10.md`
+  - `adv/md/n10/aw-adv_mod5_n10.md`
+- Final Round 4 state:
+  - the structural-consistency family was cleared in the same pass
+  - no unresolved `Revise` blocker remained after correction
+  - Round 4 therefore passed and now replaces Round 3 as the authoritative final `N11` record
+- Updated the project control file:
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+- Next stage after Round 4:
+  - full review

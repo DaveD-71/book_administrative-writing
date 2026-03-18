@@ -274,7 +274,7 @@ Your edited version should:
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Real-World Task (H2)
 
@@ -549,7 +549,7 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -796,7 +796,7 @@ Your edited version should:
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -1055,7 +1055,7 @@ For each decision: state whether you accept or reject the change, and explain in
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 

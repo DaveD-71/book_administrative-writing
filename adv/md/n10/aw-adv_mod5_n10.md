@@ -249,7 +249,7 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -475,7 +475,7 @@ Your edited version should be a properly structured executive brief with all fou
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Homework Writing Task (H3)
 
@@ -727,7 +727,7 @@ Your edited version should be a properly synthesised paragraph with grouped them
 
 ---
 
-### H. Extension & Homework
+### H. Homework & Extension
 
 #### Real-World Task (H2)
 
