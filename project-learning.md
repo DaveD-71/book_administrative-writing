@@ -590,4 +590,13 @@ Historical note:
 - Preferred behavior: use this worklist during the next `INT-5A` passes so activity-level deepening follows an explicit diagnosis rather than scattered judgment
 
 
+### 2026-03-23T12:55:00+09:00 - Intermediate Module Files Now Use The Same Unit-Heading Format As The Advanced Book
+
+- Status: `monitor`
+- Scope: project/control
+- Context: cross-book formatting normalization during the intermediate intervention stage
+- Observation: the live intermediate module files now use the advanced-style unit heading format `## Unit X — Title` instead of the earlier draft-style `## X. Title`. The intermediate wording remains simpler and level-appropriate, but the structural heading format is now aligned across both books.
+- Preferred behavior: keep the normalized `Unit X — Title` heading format in future intermediate module edits unless a later project-level formatting decision intentionally replaces it
+
+
 

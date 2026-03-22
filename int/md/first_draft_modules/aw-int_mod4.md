@@ -19,7 +19,7 @@ Use this module carefully:
 - complete the editing practice so you can repair weak audience control
 - use the transfer extension to move the unit skill into a related external or team context
 
-## 12. Writing Simple External Inquiries
+## Unit 12 — Writing Simple External Inquiries
 
 ### Focus
 
@@ -270,7 +270,7 @@ Write your paragraph:
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 ---
 
-## 13. Providing Simple Explanations
+## Unit 13 — Providing Simple Explanations
 
 ### Focus
 
@@ -500,7 +500,7 @@ Write your paragraph:
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 ---
 
-## 14. Responding to Confusion
+## Unit 14 — Responding to Confusion
 
 ### Focus
 
@@ -724,7 +724,7 @@ Write your paragraph:
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 ---
 
-## 15. Maintaining Consistent Email Style
+## Unit 15 — Maintaining Consistent Email Style
 
 ### Focus
 

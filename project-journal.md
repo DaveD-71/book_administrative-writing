@@ -889,4 +889,20 @@ Historical note:
 - Updated the project to-do list so the new worklist is now part of the active `INT-5A` control layer
 
 
+### 2026-03-23T12:55:00+09:00 - Normalized Intermediate Unit Headings To The Advanced Structural Format
+
+- Revised the live intermediate module files:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Changed the unit heading format from draft-style:
+  - `## 1. Title`
+- to the advanced-aligned structural format:
+  - `## Unit 1 — Title`
+- Kept the intermediate title wording itself unchanged so the learner-facing naming remains simpler than the advanced book while the cross-book structural format is now consistent
+
+
 

@@ -19,7 +19,7 @@ Use the module support in this order:
 - complete the editing practice so you explain the revision, not only produce it
 - use the transfer extension to turn the editing skill into a repeatable workplace habit
 
-## 16. Editing for Accuracy
+## Unit 16 — Editing for Accuracy
 
 ### Focus
 
@@ -241,7 +241,7 @@ Use your own wording, but make it a routine you could really use at work.
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 ---
 
-## 17. Editing for Clarity
+## Unit 17 — Editing for Clarity
 
 ### Focus
 
@@ -460,7 +460,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today’s strategies.
 ---
 
-## 18. Editing for Tone
+## Unit 18 — Editing for Tone
 
 ### Focus
 

@@ -18,7 +18,7 @@ Use this module in the same way each time:
 - use the editing practice to repair common reader problems
 - finish the transfer extension so the skill moves beyond one exercise type
 
-## 1. Clear Sentence Structure
+## Unit 1 — Clear Sentence Structure
 
 ### Focus
 
@@ -275,7 +275,7 @@ Then answer:
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3–4 clear English sentences using S–V–O structure.
 ---
 
-## 2. Professional Tone Basics
+## Unit 2 — Professional Tone Basics
 
 ### Focus
 
@@ -531,7 +531,7 @@ Find one real English email you received that had a **very polite** or **not pol
 - How would you rewrite it in a more professional way?
 ---
 
-## 3. Paragraph Structure
+## Unit 3 — Paragraph Structure
 
 ### Focus
 

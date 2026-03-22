@@ -19,7 +19,7 @@ When you use this module, do not skip the support layer:
 - complete the editing practice so you separate reader needs clearly
 - use the transfer extension to show that the skill can move to a new multi-document context
 
-## 19. Integrated Task 1: Combined Email + Internal Explanation
+## Unit 19 — Integrated Task 1: Combined Email + Internal Explanation
 
 ### Focus
 
@@ -260,7 +260,7 @@ Write your extended tasks:
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external → internal, or internal → external).
 ---
 
-## 20. Integrated Task 2: Revision + Notice Writing
+## Unit 20 — Integrated Task 2: Revision + Notice Writing
 
 ### Focus
 
@@ -514,7 +514,7 @@ A) a revision email, or
 B) an internal notice.
 ---
 
-## 21. Writing for Consistency Across a Team
+## Unit 21 — Writing for Consistency Across a Team
 
 ### Focus
 
@@ -748,7 +748,7 @@ Treat them as messages your team may send to colleagues or external contacts abo
 Find one email you wrote and one written by a colleague. Rewrite both so they follow the same writing standard.
 ---
 
-## 22. Multi-Document Communication Task
+## Unit 22 — Multi-Document Communication Task
 
 ### Focus
 
@@ -997,7 +997,7 @@ Write your communication pack:
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 ---
 
-## 23. Portfolio Writing & Final Revision
+## Unit 23 — Portfolio Writing & Final Revision
 
 ### Focus
 

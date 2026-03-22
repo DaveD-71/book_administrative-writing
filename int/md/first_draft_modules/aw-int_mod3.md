@@ -19,7 +19,7 @@ Work through the module with these habits:
 - complete the editing practice so you can repair structure, not only create it
 - use the transfer extension to move the skill into a new internal-writing context
 
-## 8. Writing Simple Procedures
+## Unit 8 — Writing Simple Procedures
 
 ### Focus
 
@@ -311,7 +311,7 @@ This helps you turn short instructions into a more usable manual-style section.
 Choose a routine task from your job. Write a 6–8 step procedure explaining how to complete it.
 ---
 
-## 9. Internal Notices
+## Unit 9 — Internal Notices
 
 ### Focus
 
@@ -555,7 +555,7 @@ Write your bulletin section:
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 ---
 
-## 10. Explaining Problems Clearly
+## Unit 10 — Explaining Problems Clearly
 
 ### Focus
 
@@ -812,7 +812,7 @@ Write your paragraph:
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 ---
 
-## 11. Writing Simple Meeting Summaries
+## Unit 11 — Writing Simple Meeting Summaries
 
 ### Focus
 

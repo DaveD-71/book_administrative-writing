@@ -19,7 +19,7 @@ Use the module support actively:
 - use the editing tasks to repair weak requests and unclear email structure
 - finish the transfer extension so the skill works in a new email situation
 
-## 4. Email Layout and Standard Phrases
+## Unit 4 — Email Layout and Standard Phrases
 
 ### Focus
 
@@ -337,7 +337,7 @@ This helps you separate the job of the subject line from the job of the opening 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 ---
 
-## 5. Requesting Clarification
+## Unit 5 — Requesting Clarification
 
 ### Focus
 
@@ -632,7 +632,7 @@ Write your paragraph:
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 ---
 
-## 6. Communicating Delays or Changes
+## Unit 6 — Communicating Delays or Changes
 
 ### Focus
 
@@ -900,7 +900,7 @@ Write your paragraph:
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 ---
 
-## 7. Making Requests Politely
+## Unit 7 — Making Requests Politely
 
 ### Focus
 
