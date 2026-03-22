@@ -37,7 +37,7 @@ Reopen earlier stages only if new evidence shows that a significant issue remain
 
 The object under review is the live intermediate source set:
 
-- `int/int_writing_text_intro.md`
+- `int/edits & guides/planning/supporting/int_writing_text_intro.md`
 - `int/md/aw-int-01.md` to `int/md/aw-int-23.md`
 
 ### 3.2 Supporting control references

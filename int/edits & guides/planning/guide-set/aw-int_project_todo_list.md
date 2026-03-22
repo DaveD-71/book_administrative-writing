@@ -12,7 +12,7 @@
 
 | # | Task | Detail | Status |
 |---|---|---|---|
-| INT-0 | Freeze live source set | Treat `int/int_writing_text_intro.md` plus `int/md/aw-int-01.md` to `aw-int-23.md` as the live working source. Treat `int/aw-int-all.md` as reference-only until intentional regeneration. | Done |
+| INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/aw-int-01.md` to `aw-int-23.md` as the live working source. Treat `int/md/aw-int-all.md` as reference-only until intentional regeneration. | Done |
 | INT-1 | Establish planning control stack | Create the intermediate `guide-set` / `supporting` planning structure and seed the core control documents. | Done |
 | INT-2 | Run baseline audit | Record current unit patterns, section logic, output-length behavior, repeated scenario families, and obvious cleanup classes before broad revision. | Next |
 | INT-3 | Build revised structural profiles | Create all 23 unit profiles with Can-Do statements, activity-purpose mapping, output expectations, and revision flags. | Pending |
@@ -30,7 +30,7 @@
 | P1 | Add Unit 23 learner-facing rubric | The intermediate capstone/portfolio needs a simpler but explicit learner rubric before final sign-off. | INT-5 | Deferred |
 | P2 | Add companion teacher-facing rubric or marking note | The final portfolio stage needs supportable assessment logic for later QA and answer-key work. | INT-5 | Deferred |
 | P3 | Develop answer key / sample responses | Write answer-key and sample-response support after content and full review are stable. | INT-7 | Deferred |
-| P4 | Regenerate combined draft | Rebuild `int/aw-int-all.md` only after the split-unit source set is revised and signed off. | INT-7 | Deferred |
+| P4 | Regenerate combined draft | Rebuild `int/md/aw-int-all.md` only after the split-unit source set is revised and signed off. | INT-7 | Deferred |
 | P5 | Defer Word-formatting work until Markdown sign-off | Production formatting should follow content sign-off, not compete with revision control. | Late-stage | Deferred |
 
 ---
@@ -53,8 +53,8 @@
 
 | Decision | Detail |
 |---|---|
-| Live source set | `int/int_writing_text_intro.md` plus the 23 split unit files in `int/md` |
-| Combined draft status | `int/aw-int-all.md` is reference-only until intentional regeneration |
+| Live source set | `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus the 23 split unit files in `int/md` |
+| Combined draft status | `int/md/aw-int-all.md` is reference-only until intentional regeneration |
 | Workflow model | rigorous adaptation of the advanced workflow, not direct cloning |
 | Book identity | keep a simpler intermediate structure and voice than the advanced book |
 | Learner level | A2-B1+ workplace learners |

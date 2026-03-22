@@ -8,10 +8,10 @@ The intermediate book should be developed as a **rigorous adaptation** of the ad
 
 The active working source should be:
 
-- `int/int_writing_text_intro.md`
+- `int/edits & guides/planning/supporting/int_writing_text_intro.md`
 - `int/md/aw-int-01.md` to `int/md/aw-int-23.md`
 
-For now, `int/aw-int-all.md` should be treated as a reference snapshot rather than the live source of truth. It can be regenerated later after the split-unit files have been revised and signed off.
+For now, `int/md/aw-int-all.md` should be treated as a reference snapshot rather than the live source of truth. It can be regenerated later after the split-unit files have been revised and signed off.
 
 Project defaults already chosen:
 

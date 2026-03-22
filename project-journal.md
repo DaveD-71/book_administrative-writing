@@ -433,4 +433,14 @@ Historical note:
 - Added a resolution note to the Round 1 full-review findings file to mark the Unit 23 planning/live mismatch as addressed
 
 
+### 2026-03-22T20:20:00+09:00 - Closed The Remaining Round 1 Full-Review Items
+
+- Strengthened the Unit 18 `B6` instruction so learners are explicitly told to keep the paragraph for reuse in `D2`:
+  - `adv/md/n10/aw-adv_mod5_n10.md`
+- Made the editorial decision to keep Unit 12 `E3` shorter as an intentional bounded exception and recorded that decision in the planning layer:
+  - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
+- Updated the Round 1 full-review record so the remaining two findings now include resolution notes and the round is treated as cleanup-complete:
+  - `adv/edits & guides/full-review/aw-adv_full-review_round1.md`
+
+
 

@@ -333,4 +333,13 @@ Historical note:
 - Preferred behavior: treat the eight-criterion rubric pair as the authoritative Unit 23 assessment model, and use the linked units as the required retrieval path when students or teachers diagnose a weak capstone criterion
 
 
+### 2026-03-22T20:20:00+09:00 - Full Review Round 1 Cleanup Is Now Closed
+
+- Status: `monitor`
+- Scope: project/state
+- Context: follow-through after the first advanced full-review pass
+- Observation: the remaining Round 1 issues have now been addressed. Unit 18 now explicitly tells learners to keep the `B6` paragraph for reuse in `D2`, and Unit 12's shorter `E3` output range is now recorded in the planning layer as an intentional bounded exception rather than unexplained drift.
+- Preferred behavior: treat the Round 1 findings as resolved, use the updated live advanced baseline for the next full-review pass, and record any further issues as a new round rather than reopening the completed Round 1 items
+
+
 

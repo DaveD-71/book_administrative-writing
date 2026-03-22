@@ -63,6 +63,10 @@
 **Recommended action:**
 - Add a short forward-link note in `B6` telling learners to keep the paragraph for reuse in `D2`, so the revision chain is explicit at the point of production rather than only at the point of reuse.
 
+**Resolution note (2026-03-22):**
+- Completed in the live source.
+- `B6` now explicitly tells learners to keep the paragraph because it will be reused in `D2`, making the revision chain visible at the point of first production.
+
 ---
 
 ### 3. Unit 12 freer writing still sits noticeably below the surrounding Module 4 output range, creating a progression dip inside the live advanced baseline
@@ -85,28 +89,32 @@
 **Recommended action:**
 - Make an explicit editorial decision: either keep the shorter `E3` as an intentional bounded exception and note that in the planning layer, or bring it into closer alignment with the module's surrounding output range.
 
+**Resolution note (2026-03-22):**
+- Decision made: keep the shorter `E3` as an intentional bounded exception.
+- The planning layer now records that Unit 12 `E3` stays shorter because it is a tightly bounded inquiry task rather than a broader Module 4 output.
+
 ---
 
 ## Review Summary
 
-Round 1 full review did not surface a new `N11`-level structural blocker in the live advanced book. The main issues are:
+Round 1 full review did not surface a new `N11`-level structural blocker in the live advanced book. The issues recorded in this round have now been addressed as targeted cleanup / editorial-decision items:
 
-- one real planning/live mismatch in the Unit 23 capstone controls
-- one usability gap in Unit 18's revision chain
-- one unresolved calibration question in Unit 12's freer-writing length
+- the Unit 23 planning/live mismatch in the capstone controls
+- the Unit 18 usability gap in the `B6 -> D2` revision chain
+- the Unit 12 output-length calibration question
 
 Current judgment:
 
 - the book remains broadly full-review ready
-- these items are best treated as targeted cleanup / editorial decision points before or alongside the next full-review pass, not as grounds to reopen `N11`
+- these Round 1 items were targeted cleanup / editorial decision points, not grounds to reopen `N11`
+- the next step is the next full-review pass rather than further Round 1 cleanup
 
 ---
 
 ## Next Suggested Actions
 
-1. Correct the Unit 23 structural-profile capstone rubric description so planning and live source stay aligned.
-2. Add the Unit 18 `B6 -> D2` carry-forward instruction.
-3. Decide whether Unit 12 `E3` remains a justified shorter exception or should be normalized.
+1. Run the next full-review pass against the updated live advanced baseline.
+2. Record any newly discovered issues as Round 2 findings rather than reopening already resolved Round 1 items.
 
 ---
 

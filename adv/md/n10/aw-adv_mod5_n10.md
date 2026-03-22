@@ -572,7 +572,7 @@ Write a synthesis paragraph (80–100 words) that combines the key information f
 - show where sources agree and where they differ
 - end with a concluding insight or implication
 
-Keep this paragraph. You will return to it in Section D.
+Keep this paragraph. You will return to it in Section D2 and revise it, so do not treat this first version as disposable.
 
 ---
 

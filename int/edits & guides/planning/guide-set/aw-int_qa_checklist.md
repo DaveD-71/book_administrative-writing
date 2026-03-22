@@ -37,8 +37,8 @@ Use this source order:
 3. `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
 4. `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
 5. live source files in `int/md`
-6. `int/int_writing_text_intro.md`
-7. `int/aw-int-all.md` only as historical/reference support when needed
+6. `int/edits & guides/planning/supporting/int_writing_text_intro.md`
+7. `int/md/aw-int-all.md` only as historical/reference support when needed
 
 ---
 

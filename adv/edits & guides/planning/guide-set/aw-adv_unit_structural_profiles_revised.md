@@ -508,7 +508,7 @@ Activity-level Can-Do statements:
 | C. Language Focus — Phrase Bank Building (C8) | (1) organise twelve professional phrases into a personal phrase bank under four functional headings and (2) extend the bank with additional phrases from the unit. |
 | D. Guided Writing — Model Rewriting (D1) | rewrite an imprecise original inquiry incorporating (1) clear background context, (2) two to three specific answerable questions, (3) diplomatic softening throughout, and (4) a next-step or timeline reference. |
 | D. Guided Writing — Two-Audience Version Task (D4) | (1) rewrite a formal external inquiry as a shorter internal message and (2) identify and explain specific differences in what was removed, simplified, or rephrased for the internal audience. |
-| E. Freer Writing — Role-Based Writing Task (E3) | write a role-anchored formal external inquiry (160–200 words) incorporating (1) a stated or implied role and office, (2) background context and reference information, (3) two to three clear answerable questions, (4) diplomatic softening throughout, and (5) a timeline or next-step reference. |
+| E. Freer Writing — Role-Based Writing Task (E3) | write a role-anchored formal external inquiry (180–220 words) incorporating (1) a stated or implied role and office, (2) background context and reference information, (3) two to three clear answerable questions, (4) diplomatic softening throughout, and (5) a timeline or next-step reference. |
 | F. Review / Self-Edit — Comparative Peer Review (F2) ★ | (1) read two peers' inquiries and evaluate each against four criteria (context clarity, question precision, diplomatic softening, next-step clarity), (2) compare which is more effective on each criterion, and (3) identify one question from each that could be improved. |
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own inquiry against six criteria before submission. |
 | G. Editing — Editing Workshop — Paragraph-Level (G2) | (1) identify all problems in a poorly structured inquiry (missing context, vague questions, informal tone, structural problems) and (2) rewrite it as a professionally structured version meeting all six checklist criteria. |
@@ -518,7 +518,7 @@ Activity-level Can-Do statements:
 
 Content flags (for Task B — do not action now):
 - Unit 12 is the only unit with both an H1 (Extension Task) and an H2 (Real-World Task) before H3. This is an unusually heavy H section — three homework/extension options. Consider whether H1 and H2 serve sufficiently distinct purposes, or whether one could be consolidated or dropped.
-- The E3 word count (160–200 words) is below the module's stated homework target of ~250 words and also below the 190–220 words of Module 2 freer writing. This may be intentional given the focused task scope, but the downward shift should be flagged for consistency review.
+- The E3 word count (180–220 words) is intentionally below the surrounding Module 4 output band because this task is a tightly bounded inquiry rather than a broader multi-part output. Treat this as a deliberate bounded exception, not as uncontrolled progression drift.
 - The JPO E3 option follows the "Alternatively, use the following scenario" format with a duplicated requirements list — needs restructuring per the Prompt & Task Writing Policy.
 - H3 JPO option (item 4) appended after requirements list — needs restructuring per the policy.
 
