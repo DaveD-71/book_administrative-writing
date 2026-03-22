@@ -572,4 +572,22 @@ Historical note:
 - Preferred behavior: keep `INT-5A` active, use the current two-wave rebuild as the new baseline, and focus the next deepening work on the still-thin outward-facing and capstone modules before attempting QA restart
 
 
+### 2026-03-23T12:25:00+09:00 - Advanced Activity Wordcount Averages Are Now Saved As An Intermediate Parity Reference
+
+- Status: `monitor`
+- Scope: project/control
+- Context: support-parity calibration for the intermediate intervention stage
+- Observation: a new reference file now exists at `int/edits & guides/planning/guide-set/aw-int_advanced_activity_wordcount_reference.md`. It records the activity-level wordcount averages from the live advanced `n10` files, including the overall coded-activity average of `118.72` words and the per-activity-type averages from `A1` to `H3`.
+- Preferred behavior: use this file as a calibration benchmark during `INT-5A` when judging whether intermediate activity support remains materially thinner than the advanced book, but do not treat it as a direct copying template
+
+
+### 2026-03-23T12:40:00+09:00 - The Intermediate Intervention Now Has A Saved Activity-Level Gap Worklist
+
+- Status: `monitor`
+- Scope: project/control
+- Context: translating the advanced activity reference into a live intermediate execution aid
+- Observation: a new file now exists at `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md`. It turns the advanced-reference comparison into a prioritized intermediate activity-level worklist and confirms that the heaviest remaining underdevelopment is concentrated in Modules 4 and 6, then Modules 3 and 5.
+- Preferred behavior: use this worklist during the next `INT-5A` passes so activity-level deepening follows an explicit diagnosis rather than scattered judgment
+
+
 

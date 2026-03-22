@@ -863,4 +863,30 @@ Historical note:
   - `INT-6` still remains blocked because the project has not yet entered the required parity band
 
 
+### 2026-03-23T12:25:00+09:00 - Saved The Advanced Activity Wordcount Reference For Intermediate Support-Parity Work
+
+- Added a new guide-set reference file:
+  - `int/edits & guides/planning/guide-set/aw-int_advanced_activity_wordcount_reference.md`
+- Recorded the advanced activity-level averages from the live `adv/md/n10` source set:
+  - overall coded-activity average: `118.72` words
+  - per-activity-type averages from `A1` to `H3`
+- Purpose:
+  - provide a stable activity-level calibration reference for `INT-5A`
+  - support later judgments about whether the intermediate book remains materially thinner than the advanced book at the activity level
+
+
+### 2026-03-23T12:40:00+09:00 - Saved The Intermediate Activity-Level Gap Worklist For INT-5A
+
+- Added a new guide-set worklist file:
+  - `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md`
+- Converted the advanced activity-reference comparison into a saved intermediate execution aid
+- Recorded:
+  - the activity-family matching method
+  - the module priority order
+  - the highest-priority individual activity gaps
+  - the repeated gap patterns
+  - the recommended next-pass use of the worklist during `INT-5A`
+- Updated the project to-do list so the new worklist is now part of the active `INT-5A` control layer
+
+
 

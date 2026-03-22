@@ -77,6 +77,7 @@ Current active point in that sequence:
 | Activity / section control | `int/edits & guides/planning/guide-set/aw-int_activity_framework.md` |
 | Prompt / task control | `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` |
 | Support-parity intervention | `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` |
+| Activity-gap worklist | `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md` |
 | QA stage definition | `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` |
 | Full-review stage definition | `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` |
 | Live editing source | `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` |
@@ -112,20 +113,21 @@ The immediate revision priorities are:
 
 1. treat `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` as the blocking source of truth for the current stage
 2. revise the planning stack so support-depth parity and module-volume parity are binding rather than implied
-3. continue the live rebuild beyond the second whole-book support wave, with the heaviest remaining expansion focus on Modules 4 and 6, then Modules 3 and 5
-4. keep the first rebuild-wave gains stable:
+3. use `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md` as the activity-level diagnosis for the next intervention passes
+4. continue the live rebuild beyond the second whole-book support wave, with the heaviest remaining expansion focus on Modules 4 and 6, then Modules 3 and 5
+5. keep the first rebuild-wave gains stable:
    - explicit model/example support
    - why-this-works teaching notes
    - self-check routines
    - editing-practice routines
    - module guides and module review workshops
-5. keep the second rebuild-wave gains stable:
+6. keep the second rebuild-wave gains stable:
    - module strategy maps
    - module revision labs
    - module-level transfer and carry-forward tasks
-6. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
-7. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
-8. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
+7. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
+8. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
+9. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
 
 ---
 
