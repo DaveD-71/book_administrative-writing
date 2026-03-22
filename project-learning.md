@@ -251,3 +251,12 @@ Historical note:
 - Observation: the intermediate track now has a saved source-of-truth planning document at `int/edits & guides/planning/aw-int_development_plan.md`. The chosen model is a rigorous adaptation of the advanced workflow rather than a one-to-one clone: keep the simpler intermediate identity, use limited JPO contextualization, treat `int/md` plus the intro as the live source set, and build planning, language-instruction, and QA layers before major content rewriting.
 - Preferred behavior: when intermediate-book execution begins, use the saved development plan as the governing baseline, create the intermediate control stack described there, and avoid treating `int/aw-int-all.md` as the live source of truth until the split-unit files have been revised and intentionally recombined
 
+
+### 2026-03-22T18:04:57.9320799+09:00 - E3 Role Definition Standard Is Now Encoded In Series Source Documents
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: follow-through after the advanced-book E3 role-clarity corrections
+- Observation: the series source-of-truth documents now encode an explicit E3 role-definition standard in `aw-master_activity_menu.md` and `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`. The standard requires E3 roles to be written as functional descriptions of what the writer does, who they write to, and why they are the appropriate writer, rather than as unexplained job titles.
+- Preferred behavior: when drafting, revising, or QA-checking any E3 task in this repo, evaluate role wording against the encoded functional-description standard rather than relying on local prompt fixes or memory alone
+

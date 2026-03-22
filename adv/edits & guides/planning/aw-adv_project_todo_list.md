@@ -74,6 +74,7 @@ Reference files for the completed `N11` pass:
 | N9 outputs | The active Task B outputs are the six `aw-adv_mod*_n9.md` files in `adv/md/revised_modules_n9`; heading/code normalization and Step 17 correction notes have been applied across the set |
 | N10 outputs | The active Task C outputs are the six `aw-adv_mod*_n10.md` files in `adv/md/n10`; all six modules have been edited and reviewed against the N10 framework and revised structural-profile goals |
 | Prompt-writing policy | `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` is a source-of-truth document for drafting and revision work, especially for D, E, and H tasks; prompt design must follow learning-goal alignment, professional verisimilitude, PAST-R, calibration, scenario-list parallelism, JPO option rules, and H-section ordering |
+| E3 role-definition standard | E3 role prompts now use a documented series-level standard encoded in `aw-master_activity_menu.md` and `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`: roles must be written as functional descriptions of what the writer does and who they write to, not as unexplained job titles |
 | Revision model | Prompt/task design compliance and language-instruction strengthening are separate workstreams; fixing prompts alone does not resolve the book's pedagogical gaps |
 | Pedagogical issue | The book-wide issue of weak explicit language instruction has been identified as a structural problem: model texts and Language Focus sections must teach why forms work, not only present examples and practice |
 | JPO customisation | JPO scenario variants embedded as option 4 in E (Freer Writing) and H (Homework) sections across 10 units (Step 11); no separate supplement |
@@ -82,4 +83,4 @@ Reference files for the completed `N11` pass:
 
 ---
 
-*Document version: Updated after completion of N9 and N10 across Modules 1–6. The active revised module sets are `adv/md/revised_modules_n9/aw-adv_mod1_n9.md` to `aw-adv_mod6_n9.md` and `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`. Step 17 heading/code corrections are incorporated in the N9 set. The existing QA artifacts in `adv/md/revised_modules_n9/Codex QA protocol and checks` are N9 controls, not the final N11 book-wide QA framework.*
+*Document version: Updated after final `N11` closure, `P7` completion, the Unit 5 / 12 / 19 E3 role-clarity revisions, and the encoding of the E3 role-definition standard in the series source-of-truth documents. The active revised module sets remain `adv/md/revised_modules_n9/aw-adv_mod1_n9.md` to `aw-adv_mod6_n9.md` and `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`; `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md` is the authoritative final `N11` record.*

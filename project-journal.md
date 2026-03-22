@@ -294,3 +294,20 @@ Historical note:
   - whole-book planning first, then module-by-module execution
 - The saved plan requires the intermediate project to add its own planning, language-instruction, and QA control layers before heavy revision, rather than trying to edit the existing draft set ad hoc
 
+
+### 2026-03-22T18:04:57.9320799+09:00 - Applied E3 Role-Clarity Follow-Through And Locked It In On Main
+
+- Implemented the Unit 5, Unit 12, and Unit 19 E3 role-clarity rewrites in the live advanced `n10` source files:
+  - `adv/md/n10/aw-adv_mod2_n10.md`
+  - `adv/md/n10/aw-adv_mod4_n10.md`
+  - `adv/md/n10/aw-adv_mod6_n10.md`
+- Updated the Unit 5 planning / QA follow-through so the planning layer now reflects the live fix:
+  - `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Encoded the E3 role-definition standard in the series source-of-truth documents:
+  - `aw-master_activity_menu.md`
+  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+- Updated the advanced control layer so the to-do list now reflects the current post-`N11` / post-E3-standard state:
+  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+- Locked the current repo state in commit `c900c2d` and pushed it to `origin/main`
+
