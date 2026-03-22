@@ -23,7 +23,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: advanced planning and status audit
-- Observation: `adv/edits & guides/planning/aw-adv_project_todo_list.md` shows N1-N10 complete, N11 not started, and identifies book-wide QA as the next major workstream; the active edited content set is the six `adv/md/n10/aw-adv_mod*_n10.md` files
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md` shows N1-N10 complete, N11 not started, and identifies book-wide QA as the next major workstream; the active edited content set is the six `adv/md/n10/aw-adv_mod*_n10.md` files
 - Preferred behavior: treat the advanced N10 module set and the N11 QA step as the current highest-maturity content baseline for project planning and review work
 
 
@@ -32,7 +32,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: advanced documentation hierarchy
-- Observation: `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` identifies itself as the planning source of truth, and the advanced to-do list treats it and the N10 module files as the authoritative references for editing and QA
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md` identifies itself as the planning source of truth, and the advanced to-do list treats it and the N10 module files as the authoritative references for editing and QA
 - Preferred behavior: when working on advanced content, use the revised structural profiles, the advanced to-do list, and the N10 module files ahead of older context summaries
 
 
@@ -41,8 +41,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: comparison of advanced status documents
-- Observation: `adv/edits & guides/planning/aw-adv_project_context.md` still describes the project as being in structural planning and lists pre-N9 next steps, which no longer matches the current N10-complete state in `adv/edits & guides/planning/aw-adv_project_todo_list.md`
-- Preferred behavior: treat `adv/edits & guides/planning/aw-adv_project_context.md` as historical background only unless it is refreshed; do not use it as the primary status source for current advanced work
+- Observation: `adv/edits & guides/planning/supporting/aw-adv_project_context.md` still describes the project as being in structural planning and lists pre-N9 next steps, which no longer matches the current N10-complete state in `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
+- Preferred behavior: treat `adv/edits & guides/planning/supporting/aw-adv_project_context.md` as historical background only unless it is refreshed; do not use it as the primary status source for current advanced work
 
 
 ### 2026-03-15T00:46:14.1210166+09:00 - Intermediate Track Appears Earlier-Stage Than Advanced
@@ -68,7 +68,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: advanced quality-assurance stage
-- Observation: `N11` has now started; the book-wide QA checklist framework was drafted at `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` and the advanced to-do list now marks `N11` as in progress
+- Observation: `N11` has now started; the book-wide QA checklist framework was drafted at `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` and the advanced to-do list now marks `N11` as in progress
 - Preferred behavior: use the new `N11` checklist as the authoritative QA framework for the next advanced review pass, rather than relying on the older `N9` QA controls
 
 
@@ -113,7 +113,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: checklist tightening during `N11`
-- Observation: `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` now explicitly tests whether prompt wording remains readable for B1+/B2 aspirational learners, whether revised prompts drift upward in linguistic sophistication or processing load, and whether scenario families are distributed broadly enough across the book; each new check is tied to named source documents
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` now explicitly tests whether prompt wording remains readable for B1+/B2 aspirational learners, whether revised prompts drift upward in linguistic sophistication or processing load, and whether scenario families are distributed broadly enough across the book; each new check is tied to named source documents
 - Preferred behavior: treat learner-level prompt readability and book-level scenario-family spread as explicit `N11` sign-off criteria, not as optional style preferences
 
 
@@ -149,8 +149,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/conventions
 - Context: checklist verification against external feedback
-- Observation: `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
-- Preferred behavior: treat the main `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` now includes the stronger v2 controls validated through Claude feedback: preliminary cross-check against earlier review files, explicit H1 structural compliance, explicit word-count progression, activity-heading / sub-labelling checks, requirement sources for workplace relevance, and named deferral of the learning-goals mapping issues
+- Preferred behavior: treat the main `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` file as the single operative checklist and do not rely on the looser earlier Round 2 standard
 
 
 ### 2026-03-16T02:05:00+09:00 - Round 3 Source Fixes Preserve The Existing Section-H House Standard
@@ -212,7 +212,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/workflow
 - Context: end-of-day handoff preparation after reopening the grouped-option portion of `N11`
-- Observation: the live restart path is now explicitly defined in `adv/edits & guides/planning/aw-adv_project_todo_list.md`, `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`, and `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Observation: the live restart path is now explicitly defined in `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`, `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`, and `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - Preferred behavior: when work resumes, start from the grouped-option issue list, edit the live `adv/md/n10` files, and use the Round 3 note plus the main `N11` checklist as the recheck reference set
 
 
@@ -257,6 +257,62 @@ Historical note:
 - Status: `monitor`
 - Scope: project/decision
 - Context: follow-through after the advanced-book E3 role-clarity corrections
-- Observation: the series source-of-truth documents now encode an explicit E3 role-definition standard in `aw-master_activity_menu.md` and `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`. The standard requires E3 roles to be written as functional descriptions of what the writer does, who they write to, and why they are the appropriate writer, rather than as unexplained job titles.
+- Observation: the series source-of-truth documents now encode an explicit E3 role-definition standard in `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md` and `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`. The standard requires E3 roles to be written as functional descriptions of what the writer does, who they write to, and why they are the appropriate writer, rather than as unexplained job titles.
 - Preferred behavior: when drafting, revising, or QA-checking any E3 task in this repo, evaluate role wording against the encoded functional-description standard rather than relying on local prompt fixes or memory alone
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Full Review Has Now Started On The Advanced N10 Baseline
+
+- Status: `monitor`
+- Scope: project/state
+- Context: first post-`N11` editorial review pass on the completed advanced book
+- Observation: the advanced full review has now started, with the first findings recorded at `adv/edits & guides/full-review/aw-adv_full-review_round1.md`. Round 1 did not reopen `N11`, but it did surface three follow-up points: a Unit 23 planning/live mismatch around the capstone rubric description, a Unit 18 usability gap in the `B6 -> D2` revision chain, and a Unit 12 output-length calibration question.
+- Preferred behavior: treat the new `full-review` folder as the active location for post-`N11` editorial review findings, work through the Round 1 cleanup items there, and keep `P4` deferred until the full-review findings are resolved or explicitly accepted
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Full Review Protocol Now Defines The Post-N11 Editorial Stage
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: formalizing the full-review stage after its first findings round
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md` now defines the full-review stage as a post-`N11` whole-book editorial pass on the live `adv/md/n10` baseline, distinct from QA reruns and distinct from drafting. It also defines the source hierarchy, finding types, severity labels, recording rules, and done criteria for moving on to `P4`.
+- Preferred behavior: use the new full-review protocol as the source-of-truth definition for this stage, record each review pass in the `full-review` folder, and update the project control files whenever full review materially changes state
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Master Activity Menu Now Lives Under Planning
+
+- Status: `monitor`
+- Scope: project/structure
+- Context: repo organization change during the new full-review stage
+- Observation: the active Master Activity Menu file has been moved from the repo root to `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`. The planning area now separates into a current `guide-set` subfolder for authoritative planning/control documents and a `supporting` subfolder for background material that should not drive current project-state decisions.
+- Preferred behavior: use the planning-path copy as the authoritative activity-menu reference in current project work, and update active control documents to reference the planning location rather than the old repo-root path
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Planning Guide Set Now Defines The Current Development Reference Bundle
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: planning-folder consolidation after the start of full review
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_development_guide.md` now defines the authoritative current planning-and-cross-check bundle for advanced-book work. The guide set contains the to-do list, activity menu, prompt-writing policy, structural profiles, `N11` checklist, and full-review protocol; `planning/supporting` now holds background documents that are informative but not authoritative.
+- Preferred behavior: start future development and cross-checking from `adv/edits & guides/planning/guide-set/aw-adv_development_guide.md`, and treat files outside the guide set as supporting or historical unless a guide-set document explicitly points to them
+
+
+### 2026-03-22T19:05:00+09:00 - Advanced Planning System Is Transfer-Shaped But Not Template-Equivalent
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: audit of the planning-folder consolidation for reuse in the intermediate track
+- Observation: `adv/edits & guides/planning/guide-set/aw-adv_transfer-readiness_audit.md` now classifies the advanced planning set by role and transferability. The audit conclusion is that the `guide-set` plus `supporting` architecture is the right reusable system shape, but the advanced project to-do list and structural profiles remain advanced-specific instances rather than direct intermediate templates.
+- Preferred behavior: reuse the document-role system for `int`, but adapt the project-state and structural-planning content as intermediate-specific files rather than cloning advanced-book control content verbatim
+
+
+### 2026-03-22T19:25:00+09:00 - Intermediate Planning Now Uses The Same Guide-Set / Supporting Control Pattern
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: transferring the cleaned planning architecture from the advanced track to the intermediate track
+- Observation: the intermediate planning layer now uses `int/edits & guides/planning/guide-set` for current control documents and `int/edits & guides/planning/supporting` for background documents. The intermediate guide set now includes an index, project to-do list, activity framework, prompt-writing policy, structural-profile scaffold, QA checklist scaffold, and full-review protocol scaffold.
+- Preferred behavior: treat the new intermediate guide set as the authoritative planning/control layer for future intermediate work, and use the supporting folder only for background/setup context
+
+
 

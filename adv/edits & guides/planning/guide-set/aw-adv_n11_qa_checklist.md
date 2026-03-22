@@ -40,10 +40,10 @@
 
 Use the following source order:
 
-1. `adv/edits & guides/planning/aw-adv_project_todo_list.md`
-2. `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
-3. `aw-master_activity_menu.md`
-4. `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+1. `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
+2. `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
+3. `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
+4. `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
 5. `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
 6. active module files in `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
 7. relevant implementation or review guides in `adv/edits & guides`
@@ -186,9 +186,9 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/planning/aw-adv_project_context.md` — target learners are B1+/B2 workplace learners in an aspirational, scaffolded context
-- `adv/edits & guides/planning/aw-adv_project_context.md` — instructions should remain direct and professional
-- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — prompts must be calibrated, concrete, and parallel in length/detail
+- `adv/edits & guides/planning/supporting/aw-adv_project_context.md` — target learners are B1+/B2 workplace learners in an aspirational, scaffolded context
+- `adv/edits & guides/planning/supporting/aw-adv_project_context.md` — instructions should remain direct and professional
+- `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md` — prompts must be calibrated, concrete, and parallel in length/detail
 
 ### 5B.2 Workplace relevance
 
@@ -198,8 +198,8 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/planning/aw-adv_project_context.md` — the book targets interagency and international administrative contexts; scenarios must be drawn from recognisable situations in those environments
-- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — prompts must be situation-anchored and professionally verisimilitudinous; the scenario is the vehicle, not the point
+- `adv/edits & guides/planning/supporting/aw-adv_project_context.md` — the book targets interagency and international administrative contexts; scenarios must be drawn from recognisable situations in those environments
+- `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md` — prompts must be situation-anchored and professionally verisimilitudinous; the scenario is the vehicle, not the point
 
 ### 5B.3 Delivery-mode suitability
 
@@ -259,9 +259,9 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/planning/aw-adv_project_context.md` — internal framing targets B1+/B2 learners in an aspirational, scaffolded context
-- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — the scenario is the vehicle, not the point; prompts must be calibrated so the writing work stays with the learner
-- `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md` — learner-facing Can-Do architecture and module-by-module workload progression govern what the learner is being asked to process and produce
+- `adv/edits & guides/planning/supporting/aw-adv_project_context.md` — internal framing targets B1+/B2 learners in an aspirational, scaffolded context
+- `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md` — the scenario is the vehicle, not the point; prompts must be calibrated so the writing work stays with the learner
+- `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md` — learner-facing Can-Do architecture and module-by-module workload progression govern what the learner is being asked to process and produce
 
 ### 5D.4 Choice-list quality
 
@@ -294,9 +294,9 @@ If the failure is:
 
 **Requirement sources:**
 
-- `adv/edits & guides/planning/aw-adv_project_context.md` — scenarios were already identified as over-reliant on a narrow set of recurring situation types and were meant to be diversified across modules
-- `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md` — options should represent meaningfully different professional situations and avoid contextual overlap
-- `adv/edits & guides/planning/aw-adv_project_todo_list.md` — scenario variety and prompt-policy compliance remain explicit QA concerns in the active workstream
+- `adv/edits & guides/planning/supporting/aw-adv_project_context.md` — scenarios were already identified as over-reliant on a narrow set of recurring situation types and were meant to be diversified across modules
+- `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md` — options should represent meaningfully different professional situations and avoid contextual overlap
+- `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md` — scenario variety and prompt-policy compliance remain explicit QA concerns in the active workstream
 
 ## 5F. Model Text Quality
 
@@ -462,3 +462,4 @@ Prioritise the first book-wide pass on:
 ---
 
 *Working status: Initial `N11` book-wide QA checklist prepared after completion of `N10`, using the Step 14 QA discussion, the revised structural profiles, the prompt-writing policy, and the active `n10` module files as primary sources.*
+

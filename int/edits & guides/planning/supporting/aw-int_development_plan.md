@@ -1,0 +1,34 @@
+# Intermediate Textbook Development Plan
+
+## Summary
+
+This plan sets the development model for the intermediate book in `int`.
+
+The intermediate book should be developed as a **rigorous adaptation** of the advanced workflow, not as a direct clone of the advanced book's architecture. The goal is to reach the same overall level of editorial quality, pedagogical usefulness, and QA control while preserving the simpler, lower-level identity of the intermediate draft set.
+
+The active working source should be:
+
+- `int/int_writing_text_intro.md`
+- `int/md/aw-int-01.md` to `int/md/aw-int-23.md`
+
+For now, `int/aw-int-all.md` should be treated as a reference snapshot rather than the live source of truth. It can be regenerated later after the split-unit files have been revised and signed off.
+
+Project defaults already chosen:
+
+- workflow model: rigorous adaptation
+- JPO scope: limited JPO contextualization only where it clearly improves realism
+- rollout model: whole-book planning first, then module-by-module execution
+
+## Planning And Control Layer
+
+This document is now a supporting bootstrap/reference note.
+
+The active planning source-of-truth documents live under:
+
+- `int/edits & guides/planning/guide-set`
+
+Use this file as background for why the intermediate control stack was created, not as the day-to-day authority for current stage decisions.
+
+---
+
+*Document status: supporting setup note retained after the intermediate guide-set was created.*

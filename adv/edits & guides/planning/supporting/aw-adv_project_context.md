@@ -83,9 +83,9 @@ These documents exist in the project GitHub folder. Upload the relevant file at 
 
 ---
 
-## 5. Current Phase & Next Steps
+## 5. Historical Phase Snapshot
 
-**Current phase:** Structural planning — activity menu review, then unit-by-unit structural profiling.
+**Historical phase at time of writing:** Structural planning — activity menu review, then unit-by-unit structural profiling.
 
 **Immediate next steps (in order):**
 1. Owner reviews and approves the Master Activity Menu (Draft 1)
@@ -94,7 +94,7 @@ These documents exist in the project GitHub folder. Upload the relevant file at 
 4. Fix the level label in the introduction file
 5. Split `aw-adv-all.md` into one file per module
 
-**After planning is complete:** Edit and redraft units module by module, working from the structural profiles.
+**Planned next step at time of writing:** Edit and redraft units module by module, working from the structural profiles.
 
 ---
 
@@ -125,5 +125,5 @@ These are agreed improvements to be addressed during or after drafting. Do not a
 
 ---
 
-*Document version: 1.1 — module structure corrected to 6 modules; unit-module assignments verified against source file.*
+*Document status: historical supporting context note retained for background only. Current authoritative planning/control documents now live in `adv/edits & guides/planning/guide-set`.*
 

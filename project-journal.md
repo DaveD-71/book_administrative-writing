@@ -12,14 +12,14 @@ Historical note:
 ### 2026-03-15T00:59:14.7432774+09:00 - N11 QA Workstream Started
 
 - Read the advanced N11 source set:
-  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
   - `adv/edits & guides/references/excerpt from Step14 thread.md`
   - `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
-  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
   - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_module_editing_protocol.md`
   - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_qa_checklist_template.md`
 - Drafted the new book-wide QA framework:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md`
 - Updated the advanced to-do list so `N11` is now marked `In progress`
 - Recorded in project memory that the new `N11` checklist is the authoritative next-stage QA framework for the advanced track
 
@@ -71,15 +71,15 @@ Historical note:
 
 ### 2026-03-15T19:32:00+09:00 - N11 Checklist Tightened And Round 2 Findings Recorded
 
-- Updated `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` so `N11` now explicitly tests:
+- Updated `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` so `N11` now explicitly tests:
   - B1+/B2 prompt readability
   - drift into over-dense or overly sophisticated prompt wording
   - book-level scenario-family clustering, especially in JPO contexts
 - Added named requirement sources for those new checks using:
-  - `adv/edits & guides/planning/aw-adv_project_context.md`
-  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
-  - `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
-  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/supporting/aw-adv_project_context.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Recorded the focused second-pass review at:
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
 - Round 2 conclusion:
@@ -109,7 +109,7 @@ Historical note:
   - `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`
   - `adv/edits & guides/steps/aw-adv_step11_learning-goals-mapping.md`
   - live active `n10` module files for the specific open blockers
-- Upgraded `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
+- Upgraded `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
 - Created the new operative QA record:
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
 - Round 3 outcome:
@@ -175,7 +175,7 @@ Historical note:
 
 ### 2026-03-17T21:35:00+09:00 - Updated The Live QA Files For Tomorrow's Restart
 
-- Rewrote the `N11` row in `adv/edits & guides/planning/aw-adv_project_todo_list.md` so it now clearly shows as reopened
+- Rewrote the `N11` row in `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md` so it now clearly shows as reopened
 - Updated the remaining-work sequence in the to-do list so the next order is:
   - complete `N11`
   - full review
@@ -183,7 +183,7 @@ Historical note:
 - Added direct restart references in the to-do list pointing to:
   - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md`
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
 - Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off
@@ -250,7 +250,7 @@ Historical note:
 - Updated the live QA/control files so they now reflect `N11` completion:
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
   - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
-  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Current stage after this pass:
   - `N11` is now complete
   - the next project stage is full review
@@ -258,7 +258,7 @@ Historical note:
 
 ### 2026-03-18T02:05:00+09:00 - Completed Clean-Sheet N11 Round 4 And Repointed The Final Record
 
-- Ran a new clean-sheet `N11` Round 4 full-book QA pass using `adv/edits & guides/n11/aw-adv_n11_qa_checklist.md` as the operative standard and treating the earlier round files as historical evidence only
+- Ran a new clean-sheet `N11` Round 4 full-book QA pass using `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` as the operative standard and treating the earlier round files as historical evidence only
 - Created the standalone Round 4 artifact:
   - `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 - During the live-file pass, found one remaining cross-module structural-consistency family that had not been fully closed earlier:
@@ -274,7 +274,7 @@ Historical note:
   - no unresolved `Revise` blocker remained after correction
   - Round 4 therefore passed and now replaces Round 3 as the authoritative final `N11` record
 - Updated the project control file:
-  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Next stage after Round 4:
   - full review
 
@@ -302,12 +302,107 @@ Historical note:
   - `adv/md/n10/aw-adv_mod4_n10.md`
   - `adv/md/n10/aw-adv_mod6_n10.md`
 - Updated the Unit 5 planning / QA follow-through so the planning layer now reflects the live fix:
-  - `adv/edits & guides/planning/aw-adv_unit_structural_profiles_revised.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
   - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - Encoded the E3 role-definition standard in the series source-of-truth documents:
-  - `aw-master_activity_menu.md`
-  - `adv/edits & guides/planning/aw-adv_prompt-writing-policy.md`
+  - `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
 - Updated the advanced control layer so the to-do list now reflects the current post-`N11` / post-E3-standard state:
-  - `adv/edits & guides/planning/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Locked the current repo state in commit `c900c2d` and pushed it to `origin/main`
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Started Full Review And Recorded Round 1 Findings
+
+- Created the new post-`N11` review folder:
+  - `adv/edits & guides/full-review`
+- Added the first full-review findings file:
+  - `adv/edits & guides/full-review/aw-adv_full-review_round1.md`
+- Round 1 findings recorded there:
+  - Unit 23 structural-profile controls still describe the old ten-criterion capstone rubric rather than the live eight-criterion rubric pair
+  - Unit 18 `D2` depends on reuse of the earlier `B6` paragraph, but that carry-forward requirement is not signalled clearly enough at the point of first writing
+  - Unit 12 `E3` remains shorter than the surrounding Module 4 output band and needs an explicit editorial decision rather than silent drift
+- Updated the advanced to-do list so full review now shows as in progress with a direct reference to the Round 1 findings file
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Added A Source-Of-Truth Protocol For Full Review
+
+- Created the stage-definition file:
+  - `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md`
+- The new protocol now defines:
+  - what full review is and is not
+  - the live source baseline and control-document hierarchy
+  - finding categories and severity levels
+  - how full-review rounds must be recorded
+  - when the stage is considered complete and ready to move to `P4`
+- Updated the advanced to-do list and project memory so the full-review protocol is now treated as the authoritative definition of the post-`N11` review stage
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Repointed Active References After The Master Activity Menu Move
+
+- Confirmed that the active Master Activity Menu file now lives at:
+  - `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
+- Updated the current control / source-of-truth references that still pointed at the old repo-root path:
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md`
+  - `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md`
+  - `project-learning.md`
+- Recorded the move in project memory so future review and planning work uses the planning-path copy rather than the old root location
+
+
+### 2026-03-22T18:16:20.9526981+09:00 - Split Planning Into Guide-Set And Supporting Layers
+
+- Created the current authoritative planning-and-cross-check subfolder:
+  - `adv/edits & guides/planning/guide-set`
+- Moved the current control documents into that guide set:
+  - `aw-adv_project_todo_list.md`
+  - `aw-master_activity_menu.md`
+  - `aw-adv_prompt-writing-policy.md`
+  - `aw-adv_unit_structural_profiles_revised.md`
+  - `aw-adv_n11_qa_checklist.md`
+  - `aw-adv_full-review_protocol.md`
+- Added the index document:
+  - `adv/edits & guides/planning/guide-set/aw-adv_development_guide.md`
+- Moved non-authoritative background material into:
+  - `adv/edits & guides/planning/supporting`
+  - including `aw-adv_project_context.md` and `aw-adv_intro.md`
+- Updated active references so future development and cross-checking can start from the guide-set index instead of treating the entire planning folder as one flat current workspace
+
+
+### 2026-03-22T19:05:00+09:00 - Audited Transfer Readiness And Reduced Consolidation Drift
+
+- Added the transfer-readiness audit:
+  - `adv/edits & guides/planning/guide-set/aw-adv_transfer-readiness_audit.md`
+- The audit classified the planning files into:
+  - reusable system components
+  - advanced-specific instances
+  - supporting-only documents
+- Main conclusion:
+  - the new `guide-set` / `supporting` split is the correct reusable architecture for future intermediate development
+  - the current advanced content still needs to be treated as advanced-specific where appropriate
+- Reduced drift from the consolidation by restoring historical and stage-artifact files outside the active planning layer so they were not left with unnecessary path rewrites
+- Restored the moved supporting files to their original internal wording so they remain relocated documents rather than silently repurposed rewritten ones
+
+
+### 2026-03-22T19:25:00+09:00 - Built The Intermediate Planning Guide Set From The Advanced Template Pattern
+
+- Created the intermediate planning subfolders:
+  - `int/edits & guides/planning/guide-set`
+  - `int/edits & guides/planning/supporting`
+- Added the intermediate guide-set control files:
+  - `aw-int_development_guide.md`
+  - `aw-int_project_todo_list.md`
+  - `aw-int_activity_framework.md`
+  - `aw-int_prompt-writing-policy.md`
+  - `aw-int_unit_structural_profiles_revised.md`
+  - `aw-int_qa_checklist.md`
+  - `aw-int_full-review_protocol.md`
+- Added supporting context files:
+  - `aw-int_development_plan.md`
+  - `aw-int_project_context.md`
+- The intermediate planning system was adapted by document role rather than copied wholesale from the advanced content
+- Current intermediate next step after the scaffold build:
+  - `INT-2` baseline audit
+
+
 
