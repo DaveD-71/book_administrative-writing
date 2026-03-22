@@ -61,6 +61,14 @@ Compare the two versions. Choose the clearer one.
 
 **Discussion:** Why is Version B better?
 
+**Good procedures usually**
+
+- use one clear action in each step
+
+- follow the real order of the task
+
+- stay consistent in format and wording
+
 ### Language 1 – Clear Instruction Verbs
 
 Common verbs used in procedures:
@@ -139,7 +147,9 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
 Write a short procedure (4–6 steps) based on the situation.
 
-**Situation:** You need to explain how to save a document in the correct folder for your team.
+**Situation:** A new team member needs to know how to save a document in the correct folder for your team.
+
+Write the procedure for that team member. Use numbered steps only.
 
 Write your procedure:
 1.
@@ -156,10 +166,12 @@ Choose any two situations below:
 
 #### Options
 
-A. How to prepare a file for internal review.
-B. How to rename and save scanned documents.
-C. How to check and update applicant information.
-D. How to submit a form to another department.
+A. A new colleague needs to know how to prepare a file for internal review.
+B. A team member needs instructions for renaming and saving scanned documents.
+C. A new staff member needs to know how to check and update applicant information.
+D. A colleague needs to know how to submit a form to another department.
+
+For each procedure, make clear who will use it and what task it helps them complete.
 
 Procedure 1:
 1.
@@ -181,17 +193,31 @@ Procedure 2:
 
 ### Extended Writing Task – Write a Section of a Simple Manual
 
-Write a **short manual section** (6–8 sentences + optional steps) explaining:
+Write a **short manual section** using this fixed format:
 
-- What the task is
+- a short title (optional)
 
-- Why it is important
+- **1-2 opening sentences** explaining the task and who the section is for
 
-- Who uses this procedure
+- a **numbered procedure** with **4-6 steps**
 
-- The steps required
+- **1 closing sentence** explaining what happens after the steps are completed
 
-- What happens after the steps are completed
+This means the task has **two clear parts**:
+
+1. a short explanation
+
+2. a numbered step sequence
+
+Your manual section should explain:
+
+- what the task is
+
+- why it is important
+
+- who uses this procedure
+
+- what happens after the steps are completed
 
 Write your manual section:
 
@@ -253,6 +279,16 @@ System Notice – Temporary Error
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
 **Discussion:** Why is Notice B clearer and more useful?
+
+**Quick notice check**
+
+- Is the topic clear in the heading or first line?
+
+- Does the reader understand what is happening?
+
+- Is the message neutral and factual?
+
+- Does the notice show what happens next?
 
 ### Language 1 – Structure of an Internal Notice
 
@@ -333,7 +369,7 @@ Rewrite each notice so it is clearer and more professional.
 
 Write a notice based on the situation below.
 
-**Situation:** A system update will occur tomorrow between 9:00–12:00. Users may not be able to access certain functions.
+**Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00–12:00. Users may not be able to access certain functions.
 
 Write your notice:
 
@@ -348,19 +384,22 @@ Write your notice:
 ### Freer Practice – Write Two Notices
 
 Choose two situations and write two internal notices.
+Write each notice for colleagues inside your organisation.
 
 #### Options
 
-A. A scheduled meeting time has changed.  
-B. A new internal rule will begin next month.  
-C. An external office will conduct a short audit next week.  
-D. Monthly reports will be reviewed later than usual.
+A. A scheduled meeting time has changed for your team.  
+B. A new internal rule will begin next month in your department.  
+C. An external office will conduct a short audit next week at your section.  
+D. Monthly reports will be reviewed later than usual this month.
+
+Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
 
 Write your notices:
 
 ### Extended Writing Task – Internal Bulletin Section
 
-Write a section for an internal bulletin (6–8 sentences). Include:
+Write a section for an internal bulletin (6–8 sentences) read by staff in your department. Include:
 
 - Main topic
 
@@ -434,6 +473,18 @@ Write what information is missing:
 2.
 3.
 4.
+
+**Before you explain a problem, ask**
+
+1. What was supposed to happen?
+
+2. What went wrong?
+
+3. Why did it happen?
+
+4. What is the effect?
+
+5. What is the current status?
 
 ### Language 1 – Useful Phrases
 
@@ -510,7 +561,7 @@ Add **two additional sentences** to explain the situation more clearly.
 
 Write a short explanation (4–6 sentences).
 
-**Situation:** A system error has stopped reviewers from accessing several files.
+**Situation:** You are updating your supervisor about a system error that has stopped reviewers from accessing several files.
 
 Include:
 
@@ -529,6 +580,7 @@ Write your explanation:
 ### Freer Practice – Write Two Problem Descriptions
 
 Choose two situations and write clear explanations.
+For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
 
 #### Options
 
@@ -537,11 +589,13 @@ B. A document uploaded by an applicant is corrupted.
 C. Two systems are giving different results.  
 D. A shared drive is not accessible this morning.
 
+In each explanation, include the issue, the effect, and the current status. Add the cause if it is known.
+
 Write your explanations:
 
 ### Extended Writing Task – Report-Style Description
 
-Write a paragraph (6–8 sentences) describing a problem as part of a formal internal report.
+Write a paragraph (6–8 sentences) describing a problem as part of a formal internal report for your manager or team lead.
 
 Your paragraph should:
 
@@ -613,6 +667,14 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 
 **Discussion:** Why is Summary B clearer?
 
+**A useful meeting summary**
+
+- records only the important points
+
+- separates decisions from general discussion
+
+- tells the reader what happens next
+
 ### Language 1 – Key Elements of a Meeting Summary
 
 A clear summary usually includes:
@@ -672,13 +734,14 @@ Rewrite each summary to make it clearer.
 
 Write a short paragraph (4–6 sentences) summarising the meeting.
 
-**Situation:** The team met to discuss the April schedule. Two tasks need more time. IT must finish a system update before the review. The next meeting is planned for next Tuesday.
+**Situation:** You are sending a short internal summary to a colleague who missed the meeting. The team met to discuss the April schedule. Two tasks need more time. IT must finish a system update before the review. The next meeting is planned for next Tuesday.
 
 Write your summary:
 
 ### Freer Practice – Write Two Summaries
 
 Choose two situations and write meeting summaries.
+For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
 
 #### Options
 
@@ -687,11 +750,13 @@ B. Planning meeting for the next internal audit.
 C. Review of applicant files before submission.  
 D. Discussion about solving a system access issue.  
 
+Include the topic, the main point or decision, and one next step in each summary.
+
 Write your summaries:
 
 ### Extended Writing Task – Meeting Report Section
 
-Write a 6–8 sentence section for a formal report summarising a meeting.
+Write a 6–8 sentence section for a formal internal report summarising a meeting for your team or manager.
 Include:
 
 - Purpose of the meeting

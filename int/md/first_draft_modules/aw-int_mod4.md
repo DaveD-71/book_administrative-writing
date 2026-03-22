@@ -52,6 +52,14 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 
 **Discussion:** Why is Email B more appropriate?
 
+**A good external inquiry**
+
+- tells the reader why you are asking
+
+- gives only the background they need
+
+- asks one clear question at a time
+
 ### Language 1 – Structure of an External Inquiry
 
 A clear inquiry email usually includes:
@@ -127,7 +135,7 @@ Add **one sentence of background** before each question.
 
 Write a complete inquiry email.
 
-**Situation:** Your office received updated instructions, but the explanation of the new submission process is unclear.
+**Situation:** Your office received updated instructions from another office, but the explanation of the new submission process is unclear. You are writing to that external office for clarification.
 
 Write your email:
 
@@ -146,6 +154,7 @@ Write your email:
 ### Freer Practice – Write Two External Inquiry Emails
 
 Choose two situations below.
+For each one, write a short email from your office to another office or organisation that can answer the question.
 
 #### Options
 
@@ -154,11 +163,13 @@ B. Two different documents give different deadlines.
 C. You have a question about the correct version of a form.  
 D. You need confirmation about the schedule for an external audit.
 
+Include a specific subject line, brief background, one clear question, and a polite closing in each email.
+
 Write your inquiry emails:
 
 ### Extended Writing Task – Inquiry Paragraph
 
-Write a **neutral paragraph** (5–6 sentences) describing why an external inquiry is needed.
+Write a **neutral paragraph** (5–6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
 Include:
 
 - Background
@@ -234,6 +245,14 @@ What is missing?
 3.
 4.
 
+**A useful explanation helps the reader**
+
+- understand the situation
+
+- see the reason or cause
+
+- understand the effect on the work
+
 ### Language 1 – Useful Phrases for Explanations
 
 #### Giving Background
@@ -293,7 +312,7 @@ Add **one sentence of background** and **one sentence of reason**.
 
 Write 4–6 sentences.
 
-**Situation:** A document cannot be reviewed because the attached files do not match the information in the system.
+**Situation:** You are explaining the situation to a colleague or supervisor. A document cannot be reviewed because the attached files do not match the information in the system.
 
 Explain:
 
@@ -312,6 +331,7 @@ Write your explanation:
 ### Freer Practice – Write Two Explanations
 
 Choose two situations and write explanations.
+For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
 
 #### Options
 
@@ -320,11 +340,13 @@ B. A system update changed the display order of documents.
 C. A reviewer found inconsistent information in two files.
 D. A required field was left blank.
 
+Include background, the main issue, and the reason or effect in each explanation.
+
 Write your explanations:
 
 ### Extended Writing Task – Explanatory Paragraph
 
-Write a paragraph (6–8 sentences) explaining an issue as part of a report.
+Write a paragraph (6–8 sentences) explaining an issue as part of an internal report for your section lead or manager.
 Include:
 
 - Background
@@ -398,6 +420,14 @@ Write the point of confusion:
 3.
 4.
 
+**A good clarification response**
+
+- acknowledges the confusion politely
+
+- gives the correct information clearly
+
+- adds one useful detail if needed
+
 ### Language 1 – Useful Clarification Phrases
 
 #### Acknowledging the Confusion
@@ -457,7 +487,7 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 Write 4–6 sentences.
 
-**Situation:** A colleague thinks that all documents must be submitted this Friday, but only two documents are required.
+**Situation:** A colleague thinks that all documents must be submitted this Friday, but only two documents are required. You are replying to that colleague to correct the misunderstanding politely.
 
 Write a response that:
 
@@ -472,6 +502,7 @@ Write your response:
 ### Freer Practice – Write Two Responses
 
 Choose two situations and write your responses.
+For each one, write a short response to the person who is confused or has misunderstood the information.
 
 #### Options
 
@@ -480,11 +511,13 @@ B. A colleague thinks an applicant must redo the entire form, but only one page 
 C. Someone believes the new rule applies to all departments, but it applies only to one team.  
 D. A colleague misunderstood the meeting location.
 
+In each response, acknowledge the confusion, state the correct information, and add one useful detail.
+
 Write your responses:
 
 ### Extended Writing Task – Clarification Paragraph
 
-Write a paragraph (6–8 sentences) explaining a misunderstanding as part of a report.
+Write a paragraph (6–8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
 Include:
 
 - Background
@@ -574,6 +607,18 @@ Thank you.
 
 What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 
+**To keep email style consistent, check**
+
+- subject line
+
+- greeting
+
+- purpose sentence
+
+- body tone
+
+- closing and sign-off
+
 ### Language 1 – Standard Email Elements
 
 Use standardised components to create consistency.
@@ -645,11 +690,14 @@ Rewrite the following email to make it consistent.
 Subject: Form  
 I checked it. The date is different from the one in the system. What should we do? Thx.
 
+Rewrite it as a short email to a colleague or team mailbox using a consistent professional style.
+
 **Rewrite:**
 
 ### Freer Practice – Write Two Consistent Emails
 
 Choose two situations and write emails using **consistent tone and structure**.
+For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
 
 #### Options
 
@@ -657,6 +705,8 @@ A. Asking for clarification about a missing document.
 B. Informing a colleague about a small change in schedule.  
 C. Requesting information from another team.  
 D. Sharing an update after reviewing a file.
+
+Make the reader clear in each email and keep the tone, layout, and sign-off consistent.
 
 Write your emails:
 

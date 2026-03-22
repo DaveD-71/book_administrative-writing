@@ -50,6 +50,16 @@ Write your corrections:
 3.
 4.
 
+**Quick accuracy check**
+
+- Is the verb form correct?
+
+- Are singular and plural forms correct?
+
+- Does the sentence need an article or preposition?
+
+- Is the punctuation clear?
+
 ### Language 1 – Common Accuracy Problems
 
 #### Verb Forms
@@ -104,6 +114,8 @@ Corrected version:
 
 ### Guided Practice – Edit a Short Administrative Email
 
+You are editing a short email draft before it is sent to a colleague or applicant.
+
 **Original Email:**
 Subject: Form  
 Hi,  
@@ -114,6 +126,7 @@ I check the document yesterday and it have some mistake. The informations in sec
 ### Freer Practice – Edit Two Short Texts
 
 Choose two situations and write the **accurate, corrected version**.
+For each one, imagine you are the person checking the draft before it is sent or shared.
 
 #### Options
 
@@ -122,9 +135,12 @@ B. A description of a problem with article/preposition errors.
 C. A simple request email with spelling errors.  
 D. A meeting summary with grammar errors.
 
+Keep the original meaning, but correct the language so the final version is accurate and usable.
+
 ### Extended Writing Task – Editing a Paragraph
 
 Rewrite this paragraph (6–7 sentences) to correct errors and improve clarity.
+Treat it as a draft internal update that needs editing before your team shares it.
 
 **Original:**
 The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
@@ -193,6 +209,16 @@ Write the problems (too vague? too long? unnecessary words?):
 3.
 4.
 
+**Quick clarity check**
+
+- remove vague words
+
+- keep the main point early
+
+- use a logical order
+
+- cut extra words that do not help the reader
+
 ### Language 1 – Common Clarity Problems
 
 #### Vague Language
@@ -260,6 +286,7 @@ Write the best order:
 ### Guided Practice – Edit for Clarity
 
 Rewrite this paragraph (4–6 sentences) to make it clearer.
+Treat it as a draft update that a colleague wrote for internal use.
 
 **Original:**
 The system was slow today and we couldn’t do much because of it. Also, there was a problem with the files and some people couldn’t open them. So the schedule might change, and maybe we will need more time. There might be more information later.
@@ -269,6 +296,7 @@ The system was slow today and we couldn’t do much because of it. Also, there w
 ### Freer Practice – Edit Two Texts for Clarity
 
 Choose two situations and rewrite them clearly.
+For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
 
 #### Options
 
@@ -277,11 +305,14 @@ B. A long, unclear message about missing documents.
 C. A vague status update.  
 D. A meeting summary with poor organisation.
 
+Keep the meaning, but make the final version shorter, clearer, and better organized.
+
 Write your revised texts:
 
 ### Extended Writing Task – Clear Paragraph Revision
 
 Rewrite this paragraph (6–8 sentences) to improve clarity and flow.
+Treat it as a draft internal paragraph that needs revision before it is shared.
 
 **Original:**
 We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
@@ -356,6 +387,16 @@ Write the issues:
 2.
 3.
 4.
+
+**Quick tone check**
+
+- remove blame
+
+- soften direct commands
+
+- keep the message calm and factual
+
+- keep the original purpose
 
 ### Language 1 – Softening Direct Language
 
@@ -439,6 +480,7 @@ Rewrite:
 ### Guided Practice – Edit a Full Email
 
 Rewrite the email to make the tone neutral and professional.
+Treat it as a draft message that will be sent back to an applicant or colleague after revision.
 
 **Original:**
 Subject: Form  
@@ -450,6 +492,7 @@ The applicant did not follow the instructions again. This is causing problems fo
 ### Freer Practice – Write Two Tone-Improved Emails
 
 Choose two situations and write improved versions.
+For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
 
 #### Options
 
@@ -458,11 +501,14 @@ B. Informing someone about an inconsistency.
 C. Explaining that a process will take longer.  
 D. Clarifying a misunderstanding.
 
+Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication.
+
 Write your emails:
 
 ### Extended Writing Task – Tone Revision Paragraph
 
 Rewrite this paragraph (6–8 sentences) to improve tone while keeping the same information.
+Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
 
 **Original:**
 We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn’t follow the instructions again. Now everything is delayed. We can’t work like this. Someone needs to explain the rules again.

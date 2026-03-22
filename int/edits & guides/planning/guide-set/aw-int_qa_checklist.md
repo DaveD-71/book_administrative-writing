@@ -4,9 +4,9 @@
 ---
 
 > **Purpose of this document**
-> This file defines the whole-book quality assurance framework for the intermediate book after the main revision passes are complete.
+> This file defines the whole-book quality assurance framework for the intermediate book after completion of the main revision stages.
 >
-> Intermediate QA is not a drafting pass, not a structural redesign pass by default, and not a replacement for the earlier planning stages. It is the formal quality gate that tests whether the completed module-file source set meets the agreed standards before full review begins.
+> Intermediate QA is not a drafting pass, not a language-instruction pass, and not a structural redesign pass by default. It is the formal quality gate that tests whether the completed module-file source set meets the agreed project standards before full review begins.
 
 ---
 
@@ -16,7 +16,7 @@ The QA gate checks the completed intermediate book against the agreed standards 
 
 - design for purpose and unit-goal alignment
 - learner suitability
-- language and learning support
+- language and learning
 - prompt and task design
 - consistency and cohesion
 - model text and example quality
@@ -26,13 +26,13 @@ The QA gate checks the completed intermediate book against the agreed standards 
 - self-study accessibility
 - answer-key supportability
 - formatting and production readiness
-- pinned-item checks that are meant to be confirmed before full review
+- remaining pinned-item checks that are meant to be confirmed at QA stage
 
 QA should identify:
 
 - what already meets the standard
 - what needs correction before full review
-- what can remain deferred because it belongs to a later support stage
+- what can remain as a later deferred item because it belongs to a post-content stage such as rubric or answer-key development
 
 ---
 
@@ -65,10 +65,11 @@ The major review area, such as:
 - Language and Learning
 - Prompt and Task Design
 - Consistency and Cohesion
+- Model Text and Example Quality
 
 ### Level 2 - Criterion
 
-The specific aspect inside the category, such as:
+The specific aspect within the category, such as:
 
 - unit-goal alignment
 - support sufficiency
@@ -86,23 +87,40 @@ Use status values:
 - `Monitor`
 - `Deferred`
 
-Use `Deferred` only for items explicitly scheduled for a later stage, such as answer-key production or later rubric build-out.
+Use `Deferred` only for items explicitly scheduled for a later stage, such as answer-key production, later rubric build-out, or combined-draft regeneration.
 
 ---
 
 ## 4. Review Workflow
 
+### 4.0 Preliminary cross-check (before module review begins)
+
+Before beginning the module-by-module pass, complete the following:
+
+1. Confirm the current project-control files and active source-of-truth decisions now in force:
+   - the six live module files in `int/md/first_draft_modules`
+   - the completed structural-profile layer
+   - the current intermediate prompt and activity standards
+2. Confirm that the completed `INT-4` and `INT-5` passes did not leave an unresolved planning/live mismatch in the active control layer.
+3. Note any pinned items that still affect QA judgment:
+   - Unit 23 rubric support
+   - later answer-key work
+   - regeneration of the combined draft
+4. Note any approved structural exceptions already recorded in the structural profiles so they are not misread as accidental drift during QA.
+
+These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
+
 ### 4.1 Review order
 
 Run QA in this sequence:
 
-1. confirm the current project-control files and live source set
-2. note any pinned items that are meant to be checked at QA stage
+1. complete preliminary cross-check (Section 4.0)
+2. confirm book-level source documents and standards
 3. review the six live module files in order
 4. capture unit-level findings
 5. summarize module-level findings
 6. consolidate book-level findings
-7. decide whether the book is ready for full review
+7. determine whether the book is ready for full review
 
 ### 4.2 Review scale
 
@@ -134,7 +152,7 @@ If the failure is:
 
 ---
 
-## 5. QA Categories, Criteria, And Checks
+## 5. Level 1 Categories, Criteria, And Checks
 
 ## 5A. Design For Purpose
 
@@ -147,11 +165,19 @@ If the failure is:
 
 - [ ] The live unit content supports the stated learning goal and Can-Do statements
 - [ ] The main writing outcome of the unit matches the unit's declared purpose
+- [ ] The unit does not drift into a different dominant skill than the one named in the profiles
 
 ### 5A.3 Activity-goal alignment
 
 - [ ] The activity sequence develops the target skill rather than repeating disconnected exercises
 - [ ] Later tasks require the learner to apply the intended skill, not a different dominant skill
+- [ ] The unit shows visible pedagogical progression rather than a stack of unrelated exercises
+
+### 5A.4 Internal unit coherence
+
+- [ ] Examples, language work, guided tasks, freer tasks, and extension tasks all support the same core skill family
+- [ ] Section-to-section movement feels intentional rather than stitched together
+- [ ] Added teaching support does not redirect the unit toward a different main purpose
 
 ## 5B. Learner Suitability
 
@@ -160,16 +186,29 @@ If the failure is:
 - [ ] Input and instruction wording are appropriate for A2-B1+ workplace learners
 - [ ] Task demands are challenging but still supportable for the target learner
 - [ ] Prompts do not create avoidable difficulty through dense phrasing or unexplained background
+- [ ] Revised teaching support does not increase processing load beyond the intended intermediate level
+
+**Requirement sources:**
+
+- `int/edits & guides/planning/supporting/aw-int_project_context.md` - target learners are A2-B1+ workplace learners and the book should remain readable, scaffolded, and teachable
+- `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` - prompts must remain short, concrete, and professionally readable
 
 ### 5B.2 Workplace relevance
 
 - [ ] Scenarios reflect recognisable workplace communication needs
 - [ ] Document types and writing purposes feel plausible in a routine professional environment
+- [ ] The book's workplace realism remains useful without becoming over-specialised or institution-heavy
+
+**Requirement sources:**
+
+- `int/edits & guides/planning/supporting/aw-int_project_context.md` - workplace realism should remain broad and readable rather than niche or over-specialised
+- `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` - the learner should be challenged by the writing task, not by decoding the prompt
 
 ### 5B.3 Delivery-mode suitability
 
 - [ ] The unit can function in both classroom use and self-study use
 - [ ] Tasks do not depend on teacher mediation unless the text clearly supports the learner without it
+- [ ] Homework and reflection layers remain usable without hidden classroom assumptions
 
 ## 5C. Language And Learning
 
@@ -177,16 +216,25 @@ If the failure is:
 
 - [ ] The unit teaches the principle behind the target pattern, not just a phrase list
 - [ ] Key language points are explained enough for transfer
+- [ ] Added teaching supports make the writing move clearer rather than merely longer
 
-### 5C.2 Support sufficiency
+### 5C.2 Conceptual clarity
+
+- [ ] Labels are accurate and useful
+- [ ] Key distinctions are explained where needed
+- [ ] Short teaching frames do not create conceptual confusion or misleading simplifications
+
+### 5C.3 Language support sufficiency
 
 - [ ] The learner receives enough vocabulary, language, structure, or rhetorical support to complete later tasks
 - [ ] Guided layers visibly prepare freer layers
+- [ ] Phrase banks or checklist-style supports are explained enough to be usable, not just displayed
 
-### 5C.3 Practice-to-production bridge
+### 5C.4 Practice and transfer
 
 - [ ] Controlled practice builds toward real writing behavior
 - [ ] The learner can reasonably move from explanation to production without a hidden gap
+- [ ] Reflection and homework layers extend the same skill family rather than introducing a new dominant demand
 
 ## 5D. Prompt And Task Design
 
@@ -194,22 +242,32 @@ If the failure is:
 
 - [ ] Completing the task requires practising the intended skill
 - [ ] The scenario is a vehicle for the skill, not a distraction from it
+- [ ] The task cannot be completed successfully by bypassing the intended writing behavior
 
-### 5D.2 Prompt clarity
+### 5D.2 Professional verisimilitude
 
 - [ ] Purpose, audience, situation, type, and role are recoverable at the right level for the task
-- [ ] Instructions are short, concrete, and professionally readable
+- [ ] Prompts are workplace-like without becoming dense or overly bureaucratic
+- [ ] Reader relationship is clear where it affects tone, content, or document type
 
 ### 5D.3 Calibration
 
-- [ ] Guided tasks provide enough support without solving the task for the learner
+- [ ] Guided tasks provide enough support without pre-solving the work
 - [ ] Freer tasks are independent but still intermediate-appropriate
 - [ ] Later integrated tasks do not overload the learner with too many simultaneous demands
+- [ ] Output load remains believable for the unit's position in the book
+
+**Requirement sources:**
+
+- `int/edits & guides/planning/supporting/aw-int_project_context.md` - the book should remain simpler, more scaffolded, and more teachable than the advanced book
+- `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` - guided tasks should remain supported and freer tasks should remain achievable for A2-B1+ learners
+- `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` - output expectations and approved exceptions govern workload and progression
 
 ### 5D.4 Option quality
 
 - [ ] Scenario options, where used, are parallel in length, detail level, and difficulty
 - [ ] Options represent genuinely different situations rather than cosmetic rewrites
+- [ ] Shared requirements are stated once at task level rather than scattered or repeated inconsistently
 
 ## 5E. Consistency And Cohesion
 
@@ -217,28 +275,39 @@ If the failure is:
 
 - [ ] Section patterns remain readable and consistent enough across the book
 - [ ] Headings and instructional labels behave predictably
+- [ ] Later integrated units remain recognisably part of the same book
 
 ### 5E.2 Instructional consistency
 
 - [ ] Student-facing instructions use a stable professional tone
 - [ ] Terminology is consistent across units and modules
+- [ ] Added teaching supports behave consistently enough to be learnable
 
-### 5E.3 Whole-book coherence
+### 5E.3 Variety without chaos
 
 - [ ] Variation exists without making the book feel random
 - [ ] Scenario spread, output types, and support layers feel intentionally distributed
+- [ ] The book retains a coherent identity and predictable instructional rhythm
 
 ## 5F. Model Text And Example Quality
 
-### 5F.1 Example usefulness
+### 5F.1 Weak-original or weak-example quality
 
-- [ ] Examples are weak or strong in the right way for the unit skill
-- [ ] Comparisons teach something visible and usable
+- [ ] Weak examples are weak in the right way for the unit skill
+- [ ] The weakness is teachable rather than arbitrary
+- [ ] Comparisons focus attention on the target skill rather than irrelevant errors
 
-### 5F.2 Model quality
+### 5F.2 Improved-model quality
 
 - [ ] Improved models demonstrate the target skill clearly
 - [ ] Models remain realistic and not over-polished beyond the intermediate level
+- [ ] Model improvements are visible enough to support transfer
+
+### 5F.3 Comparison productivity
+
+- [ ] Comparisons teach something visible and usable
+- [ ] Before/after contrasts guide productive noticing
+- [ ] Model work helps learners understand how to improve their own writing
 
 ## 5G. Structural-Profile Compliance
 
@@ -246,9 +315,11 @@ If the failure is:
 
 - [ ] The live unit matches its structural profile in learning goal, Can-Do logic, and output expectation
 - [ ] Any deliberate structural exception is recorded in the profiles
+- [ ] The live unit does not silently erase an approved exception or add an unrecorded new one
 
-### 5G.2 Framework compliance
+### 5G.2 Can-Do and framework compliance
 
+- [ ] The teaching sequence visibly supports the unit-level Can-Do statements in the structural profiles
 - [ ] The live unit behaves consistently with the intermediate activity framework
 - [ ] The live unit does not drift toward advanced-style architecture without an explicit decision
 
@@ -258,11 +329,13 @@ If the failure is:
 
 - [ ] Focus, Language, Practice, Guided Practice, Freer Practice, Reflection, and Homework perform the jobs assigned to them
 - [ ] No section label is doing the wrong pedagogical job
-
-### 5H.2 Guided-to-freer progression
-
-- [ ] Guided Practice meaningfully prepares Freer Practice
 - [ ] Extended Writing Task, where used, extends rather than duplicates the freer layer
+
+### 5H.2 Student experience fidelity
+
+- [ ] The amount of support or independence matches the visible section label
+- [ ] Guided Practice meaningfully prepares Freer Practice
+- [ ] Revision-focused units still feel like editing/revision units rather than hidden new-drafting units
 
 ## 5I. Progression
 
@@ -270,59 +343,111 @@ If the failure is:
 
 - [ ] Units in the same module rise or shift in demand intentionally
 - [ ] Output expectations remain believable for their position in the module
+- [ ] Earlier units prepare for later units in the same module
 
-### 5I.2 Whole-book progression
+### 5I.2 Book-level progression
 
 - [ ] Later integrated tasks are prepared by earlier units
 - [ ] Module 6 complexity is earned by the earlier book, not imported suddenly
+- [ ] Sentence-band, paragraph-band, email-task, and integrated-task progression still matches the structural-profile logic
 
 ## 5J. Self-Study Accessibility
 
-### 5J.1 Learner independence
+### 5J.1 Independent usability
 
 - [ ] Instructions, examples, and task flow are usable without hidden teacher explanation
 - [ ] Carry-forward or revision-chain tasks are signposted clearly enough for interrupted use
+- [ ] A self-study learner can tell what kind of output each task expects
 
-### 5J.2 Reflection and transfer
+### 5J.2 Resource independence
 
 - [ ] Reflection and Homework layers help learners consolidate and transfer the unit skill
+- [ ] The learner can complete the unit without impossible outside resources
+- [ ] Any invitation to use real workplace material remains supportable for independent learners
 
 ## 5K. Answer-Key Supportability
 
-### 5K.1 Future supportability
+### 5K.1 Controlled-practice answerability
 
-- [ ] Tasks are specific enough that later answer-key or sample-response support can be written coherently
+- [ ] Controlled exercises have determinable or supportable answers
+- [ ] Matching, classification, sequencing, correction, and rewrite tasks can be supported clearly in a later answer key
+- [ ] Model-text and editing tasks can later be annotated coherently
+
+### 5K.2 Sample-response supportability
+
+- [ ] Guided and freer writing tasks are specific enough that later sample responses or marking notes can be produced
 - [ ] Open-endedness remains manageable rather than uncontrolled
+- [ ] Current wording does not make later support writing needlessly ambiguous
 
 ## 5L. Formatting And Production Readiness
 
-### 5L.1 Text structure readiness
+### 5L.1 Markdown and structural hygiene
 
 - [ ] Heading levels, numbering, and list behavior are stable enough for later production work
 - [ ] No obvious formatting issue would distort later compilation or export
+- [ ] There are no obvious copy-paste artifacts, broken blocks, or structural glitches in the live source
+
+### 5L.2 Production readiness
+
+- [ ] The text is ready for later formatting work without major content-structure repair
+- [ ] The live module files are usable as the stable source set for later support layers
+
+## 5M. Remaining Pinned-Item Checks
+
+### 5M.1 Confirm-at-QA pinned items
+
+- [ ] The live source of truth remains the six module files, not the older split-unit baseline or combined draft
+- [ ] Deferred support items that affect later sign-off are still visible in the current project-control layer
+- [ ] The current QA round explicitly records any pinned item that is not meant to block QA yet
+
+### 5M.2 Deferred pinned items
+
+- [ ] `P1` Unit 23 learner-facing rubric requirement is explicitly tracked and not forgotten before sign-off
+- [ ] `P2` Unit 23 teacher-facing rubric or marking-support requirement is explicitly tracked and not forgotten before sign-off
+- [ ] `P3` answer key / sample responses is recorded as a later stage, not mistaken for a current QA failure
+- [ ] `P4` combined-draft regeneration is recorded as a later stage, not mistaken for a missing live source file
+- [ ] `P5` Word-formatting work remains clearly deferred until Markdown sign-off
 
 ---
 
-## 6. Definition Of Done For QA
+## 6. Book-Level Sign-Off Questions
 
-The intermediate QA stage is complete when:
+Before treating intermediate QA as complete, answer:
 
-1. the live module-file source set has been reviewed against this checklist
-2. all recorded `Revise` findings have been corrected or explicitly resolved
-3. no unresolved issue remains severe enough to block full review
-4. the project control files state that QA is complete
-5. the project is ready to enter the full-review stage
+- [ ] Does the intermediate book now meet the agreed quality standard for a full review pass?
+- [ ] Are all `Revise` findings concrete, local, and fixable without reopening the planning architecture?
+- [ ] Have all `Deferred` items been explicitly named so they do not disappear between stages?
+- [ ] Is there any structural, pedagogical, or learner-suitability issue significant enough to block full review?
 
----
-
-## 7. Current Intended Use
-
-At the current project stage:
-
-- this file is a forward control document, not yet an executed review record
-- it should guide `INT-4` and `INT-5` indirectly by clarifying what the later QA gate will demand
-- it becomes active as a review instrument during `INT-6`
+If the answer to the last question is `Yes`, QA is not complete.
 
 ---
 
-*Document status: source-of-truth QA-stage definition for the intermediate book.*
+## 7. Suggested Recording Template For Findings
+
+Use the following structure when recording module or unit findings:
+
+- File under review:
+- Unit or module:
+- Category:
+- Criterion:
+- Check item:
+- Result: `Pass` / `Revise` / `Monitor` / `Deferred`
+- Evidence:
+- Required action:
+
+---
+
+## 8. Immediate INT-6 Priorities
+
+Prioritise the first book-wide pass on:
+
+1. confirming that the completed `INT-4` and `INT-5` passes did not create planning/live drift
+2. confirming that support and calibration remain appropriate for A2-B1+ workplace learners
+3. confirming that the live module files still match the structural profiles and activity framework
+4. identifying any remaining workload, self-study, or answer-key-supportability issues before full review
+5. keeping deferred Unit 23 rubric work visible rather than letting it disappear between stages
+
+---
+
+*Working status: source-of-truth QA-stage definition for the intermediate book, tightened to function as the operational equivalent of the mature advanced QA checklist while remaining specific to the intermediate architecture.*

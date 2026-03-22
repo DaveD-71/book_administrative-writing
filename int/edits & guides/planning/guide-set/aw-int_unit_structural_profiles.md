@@ -276,21 +276,20 @@ Teach learners how to ask focused, polite clarification questions when instructi
 - `Practice C`: generates clarification questions directly from bounded scenarios
 - `Extended Guided Practice`: rewrites poor messages into clear clarification requests
 - `Guided Practice`: writes a full clarification email about one defined gap
-- `Freer Practice`: writes three focused short emails on separate clarification topics
+- `Freer Practice`: writes two focused short emails on separate clarification topics
 - `Extended Writing Task`: converts the unit skill into a neutral explanatory paragraph about why clarification is needed
 - `Reflection` / `Homework`: pushes transfer into a real unclear instruction or message
 
 **Output-length expectation**
 
 - guided output: one complete clarification email
-- freer output: `3` short emails, each `3-5` sentences
+- freer output: `2` short emails, each `3-5` sentences
 - extended output: one `5-6` sentence informational paragraph
 - homework output: one real-world clarification question based on recent instructions or email input
 
 **Content flags for revision**
 
-- this unit currently combines question-writing, email writing, and short explanatory-paragraph writing; later revision should check that those three output layers still feel cumulative rather than overloaded
-- the `Reflection` section currently includes an additional mini email-writing task before the reflection questions; later revision should decide whether that belongs under reflection or should be reclassified as another production layer
+- this unit still combines question-writing, email writing, and a short explanatory paragraph, but the freer layer is now limited to `2` short emails so the total production load stays more controlled
 - later profile drafting should preserve the unit's strong one-topic-per-email discipline, because that constraint helps keep clarification writing teachable at this level
 
 **Approved exception**
@@ -433,13 +432,13 @@ Teach learners how to write short, clear, logically ordered procedures for routi
 
 - guided output: one short procedure with `4-6` steps
 - freer output: `2` procedures, each `4-7` steps
-- extended output: one manual section of `6-8` sentences with optional steps
+- extended output: one manual section with `1-2` opening sentences, `4-6` numbered steps, and `1` closing sentence
 - homework output: one routine-task procedure with `6-8` steps
 
 **Content flags for revision**
 
 - this unit appropriately shifts the book away from email format and should remain the first clear procedural-writing unit
-- later revision should decide whether the manual-section task should stay as a mixed prose-plus-steps output or be framed more explicitly as one controlled format
+- the manual-section task now uses a fixed hybrid format: short explanation plus numbered steps; later QA and answer-key support should preserve that format explicitly rather than treating it as an open mixed-output task
 - later module planning should preserve the strong link between verb choice, sequence logic, and workplace usability rather than letting the unit become a generic instructions exercise
 
 **Approved exception**
@@ -1136,7 +1135,7 @@ Teach learners how to assemble and revise a small writing portfolio that demonst
 **Content flags for revision**
 
 - this unit should remain clearly portfolio-and-revision based rather than turning into another scenario-response unit, because its distinct role is consolidation of earlier work
-- the final portfolio stage still requires the deferred learner-facing rubric and teacher-facing marking support recorded elsewhere in the control layer; later revision should align Unit 23 support materials with those pinned items
+- the final portfolio stage now includes a learner-facing rubric in Unit 23 and a companion teacher-facing marking note in `int/edits & guides/qa/aw-int_unit23_portfolio_marking_note.md`
 - later module planning should preserve the explicit editing-checklist recap because it provides the clearest bridge from prior units into final revision decisions
 
 **Approved exception**

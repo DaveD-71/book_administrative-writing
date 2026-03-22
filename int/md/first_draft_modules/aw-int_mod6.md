@@ -4,7 +4,7 @@
 
 ### Focus
 
-This unit brings together skills from earlier lessons. Students practise responding to a scenario that requires **both an external-style email** and a **short internal explanation**. You will:
+This unit brings together skills from earlier lessons. In this unit, you practise responding to a scenario that requires **both an external-style email** and a **short internal explanation**. You will:
 
 - Interpret a short administrative scenario
 
@@ -43,6 +43,14 @@ Write your answers:
 2.
 3.
 4.
+
+**Before you write two texts from one scenario**
+
+- decide who each reader is
+
+- decide what each reader needs to know
+
+- keep the facts the same, but change the tone and detail
 
 ### Language – Writing for Two Audiences
 
@@ -92,7 +100,7 @@ Rewrite each sentence for the correct audience.
 
 ### Guided Practice – Write the External Email
 
-Write a **4–6 sentence** external inquiry email based on the scenario.
+Write a **4–6 sentence** external follow-up email to the external office based on the scenario.
 
 Include:
 
@@ -110,7 +118,7 @@ Write your email:
 
 ### Guided Practice – Write the Internal Explanation
 
-Write a **4–6 sentence** explanation for your colleagues.
+Write a **4–6 sentence** explanation for your colleagues or team.
 Include:
 
 - Background
@@ -137,6 +145,8 @@ A. A document is submitted in the wrong file format.
 B. The external office reports inconsistent applicant information.  
 C. The review team needs clarification about a new submission rule.
 
+Make it clear who each text is for and what that reader needs to know from the same scenario.
+
 Write your two texts:
 
 ### Extended Writing Task – Multi-Purpose Communication
@@ -156,6 +166,8 @@ Each should:
 - Match the correct tone for the audience
 
 - Present information logically
+
+Write the email for the outside office and the paragraph for your internal team.
 
 Write your extended tasks:
 
@@ -222,6 +234,14 @@ Write your answers:
 3.
 4.
 
+**For connected documents, check**
+
+- the correction is the same in both texts
+
+- the important date or detail is consistent
+
+- the audience and purpose are different
+
 ### Language – Revision vs. Notice
 
 #### Revision Message (External Office)
@@ -278,7 +298,7 @@ Rewrite each sentence for the appropriate audience.
 
 ### Guided Practice – Write the Revision Message
 
-Write a **4–6 sentence** message to the external office.
+Write a **4–6 sentence** message to the external office that received the earlier schedule.
 
 Include:
 
@@ -298,7 +318,7 @@ Write your message:
 
 ### Guided Practice – Write the Internal Notice
 
-Write a **4–6 sentence** internal notice for colleagues.
+Write a **4–6 sentence** internal notice for colleagues in your section.
 
 Include:
 
@@ -326,6 +346,8 @@ A. A deadline was listed incorrectly.
 B. A required document name was written incorrectly.  
 C. An instruction in a previous email was unclear or incomplete.
 
+Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences.
+
 Write your two texts:
 
 ### Extended Writing Task – Combined Communication Pack
@@ -347,6 +369,8 @@ each using:
 - Logical connections
 
 - Concise and professional style
+
+Write the first for the outside reader who received the incorrect information and the second for your internal team.
 
 Write your extended tasks:
 
@@ -371,7 +395,7 @@ B) an internal notice.
 
 ### Focus
 
-This Focuses on **team-wide consistency** in administrative writing. You will learn how to:
+This unit focuses on **team-wide consistency** in administrative writing. You will learn how to:
 
 - Identify inconsistent writing styles across different colleagues
 
@@ -404,6 +428,16 @@ Clear team standards help:
 - Reduce miscommunication
 
 - Support smoother administrative procedures
+
+**A shared team standard usually covers**
+
+- opening and closing style
+
+- tone level
+
+- structure of the body
+
+- formatting basics
 
 ### Warm-Up: Spot the Inconsistencies
 
@@ -493,6 +527,7 @@ Hey, I don’t think this is right. Check it and tell me.
 ### Guided Practice – Rewrite Three Short Messages
 
 Rewrite all three so they follow **the same team-wide style**.
+Treat them as short draft messages from different colleagues that need to match one shared team standard.
 
 #### Message 1
 
@@ -526,6 +561,7 @@ Write your guide:
 ### Extended Writing Task – Rewrite a Set of Communications
 
 Rewrite the following **three related messages** so they all follow a consistent team style.
+Treat them as messages your team may send to colleagues or external contacts about related work.
 
 #### Original Messages
 
@@ -602,6 +638,14 @@ Write your answers:
 3.
 4.
 
+**Before you write a multi-document set**
+
+- list the three readers
+
+- note the main fact all three documents must share
+
+- decide what detail level each reader needs
+
 ### Language – Three Audiences, Three Styles
 
 #### (A) Applicant Reply – Polite, supportive, clear
@@ -648,7 +692,7 @@ Rewrite each sentence for the appropriate audience.
 
 ### Guided Practice – Write the Applicant Reply
 
-Write a **4–6 sentence** email replying to the applicant.
+Write a **4–6 sentence** email replying directly to the applicant.
 Include:
 
 - Thank-you / acknowledgement
@@ -665,7 +709,7 @@ Write your reply:
 
 ### Guided Practice – Write the Colleague Explanation
 
-Write a **4–6 sentence** explanation for your colleague.
+Write a **4–6 sentence** explanation for the colleague who assumed the file was complete.
 Include:
 
 - What you checked
@@ -680,7 +724,7 @@ Write your explanation:
 
 ### Guided Practice – Write the Internal Notice
 
-Write a **3–5 sentence** notice for the team.
+Write a **3–5 sentence** notice for the wider team.
 Include:
 
 - Heading/topic
@@ -709,6 +753,8 @@ A. A system error prevented an applicant’s file from uploading correctly.
 B. Two versions of a form were submitted; one is incomplete.  
 C. The applicant sent the correct file, but in the wrong format.
 
+Keep the three documents tied to the same scenario, but make the audience difference clear in each one.
+
 Write your full set:
 
 ### Extended Writing Task – Multi-Audience Communication Pack
@@ -730,6 +776,8 @@ All three must:
 - Use correct tone for each audience
 
 - Maintain logical flow and consistency
+
+Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type.
 
 Write your communication pack:
 
@@ -836,10 +884,20 @@ Before revising your drafts, check for:
 
 - Avoid long or wordy expressions
 
+**Final revision order**
+
+1. check accuracy
+
+2. check clarity and flow
+
+3. check tone for the reader
+
+4. check formatting and consistency
+
 ### Practice A – Edit a Draft Email
 
 Choose **one email** from your previous work.
-Rewrite it to meet portfolio standards.
+Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
 
 **Original email:**
 
@@ -848,7 +906,7 @@ Rewrite it to meet portfolio standards.
 ### Practice B – Edit a Paragraph
 
 Choose **one paragraph** from earlier units.
-Rewrite it using your full editing skills.
+Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
 
 **Original paragraph:**
 
@@ -857,7 +915,7 @@ Rewrite it using your full editing skills.
 ### Practice C – Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
-Rewrite it clearly and professionally.
+Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
 
 **Original message:**
 
@@ -868,11 +926,11 @@ Rewrite it clearly and professionally.
 Write **one new document** based on a scenario below.
 Choose ONE:
 
-- A clear update email (6–8 sentences)
+- A clear update email to a colleague, supervisor, or applicant (6–8 sentences)
 
-- A meeting summary (5–7 sentences)
+- A meeting summary for a colleague or manager (5–7 sentences)
 
-- A short external inquiry email (5–7 sentences)
+- A short external inquiry email to another office (5–7 sentences)
 
 - A problem explanation for an internal report (6–8 sentences)
 
@@ -899,6 +957,27 @@ Each item must:
 - Have professional tone
 
 - Show coherence and consistent formatting
+
+### Portfolio Review Rubric
+
+Use this rubric to check your final portfolio. Mark each criterion as:
+
+- `Ready`
+
+- `Almost ready`
+
+- `Needs more revision`
+
+| Criterion | What to check | Review units |
+|---|---|---|
+| Task completion | Did I include all four required portfolio items, and does each document match its purpose? | Units 4, 9, 11, 12, 22 |
+| Audience and tone | Does each piece match its reader and sound professional? | Units 2, 12, 14, 18, 22 |
+| Clarity and organization | Is each document easy to follow, with a clear main point and logical order? | Units 1, 3, 10, 17 |
+| Accuracy and control | Are grammar, word forms, sentence structure, and punctuation accurate enough for workplace writing? | Units 1, 16 |
+| Key information and next steps | Did I include the needed background, main point, and next action or outcome where needed? | Units 6, 10, 11, 13, 20 |
+| Consistency and revision quality | Did I improve earlier drafts and keep a consistent professional style across the whole portfolio? | Units 15, 18, 21 |
+
+Your teacher or reviewer can use a companion marking note aligned to this rubric.
 
 ### Reflection
 

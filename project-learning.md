@@ -428,4 +428,121 @@ Historical note:
 - Preferred behavior: treat `INT-3` as complete, use the finished structural-profile layer as the governing baseline for `INT-4`, and record any later revision tensions as planning/live issues rather than silently bypassing the profile decisions
 
 
+### 2026-03-23T00:10:00+09:00 - INT-4 Has Started With A Prompt-Control Revision Pass On Module 1
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: start of the whole-book draft revision pass after the profile layer was completed
+- Observation: `INT-4` is now in progress. The first live revision pass has started in `int/md/first_draft_modules/aw-int_mod1.md`, focusing on prompt control and task framing so the early units match the completed prompt-writing policy and structural-profile expectations more closely.
+- Preferred behavior: continue `INT-4` module by module from Module 1 onward, using the structural profiles, activity framework, and prompt-writing policy together rather than treating any one control file in isolation
+
+
+### 2026-03-23T01:35:00+09:00 - The Initial INT-4 Prompt-And-Structure Pass Now Covers All Six Intermediate Modules
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: whole-book draft revision pass after the structural-profile layer was completed
+- Observation: the first `INT-4` revision pass has now been applied across `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`. The main work so far has been tightening prompt control, audience framing, editing-role clarity, and integrated-task reader contrast without redesigning the unit architecture.
+- Preferred behavior: before closing `INT-4`, run a whole-book consistency sweep across the six revised module files and record any remaining planning/live tensions or cleanup needs rather than assuming the first pass is sufficient
+
+
+### 2026-03-23T02:05:00+09:00 - INT-4 Closed Cleanly After The Whole-Book Prompt-And-Structure Sweep
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: follow-through sweep after the initial Module 1 to Module 6 revision cycle
+- Observation: the whole-book `INT-4` follow-through sweep found no remaining cross-module prompt-structure problem that required a second targeted cleanup pass. The only residual live-text issue was a minor Unit 21 focus-line wording defect in `int/md/first_draft_modules/aw-int_mod6.md`, and it was corrected in the same pass.
+- Preferred behavior: treat `INT-4` as complete, preserve the prompt-and-structure gains already made in the six module files, and move the next editorial effort into `INT-5` teaching-layer strengthening rather than reopening prompt control without cause
+
+
+### 2026-03-23T02:15:00+09:00 - INT-5 Has Started With A Module 1 Teaching-Explicitness Pass
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: start of the language-instruction strengthening stage after the structural revision pass closed
+- Observation: `INT-5` is now in progress. The first strengthening work begins in `int/md/first_draft_modules/aw-int_mod1.md`, focusing on short explicit teaching supports such as clear-sentence checks, simplification guidance, tone checks, and paragraph-planning guidance where the draft previously relied too heavily on examples alone.
+- Preferred behavior: continue `INT-5` module by module, adding concise concept support and guided transfer help without importing advanced-level theory density into the intermediate book
+
+
+### 2026-03-23T02:30:00+09:00 - The Initial INT-5 Teaching-Strengthening Pass Now Covers Modules 1 And 2
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: early movement through the language-instruction strengthening stage
+- Observation: the first `INT-5` teaching-explicitness pass now covers `int/md/first_draft_modules/aw-int_mod1.md` and `aw-int_mod2.md`. The main work so far has been adding short, reusable instructional supports such as checklists, question frames, and writing-move rules without changing the task architecture created during `INT-4`.
+- Preferred behavior: continue `INT-5` through Modules 3 to 6 using the same principle: make the teaching more visible where needed, but keep the overall prose load and structure at an intermediate level
+
+
+### 2026-03-23T02:45:00+09:00 - The Initial INT-5 Teaching-Strengthening Pass Now Covers Modules 1 To 3
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: continued language-instruction strengthening after the early-module teaching pass began
+- Observation: the first `INT-5` pass now covers `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod3.md`. The stage pattern is stable: add short explanatory frames and self-check routines where the learner needs transfer help, but do not redesign the section spine or increase theory load.
+- Preferred behavior: continue through Modules 4 to 6 using the same restrained strengthening model so the intermediate book becomes more teachable without drifting toward advanced-style instructional density
+
+
+### 2026-03-23T03:00:00+09:00 - The Initial INT-5 Teaching-Strengthening Pass Now Covers Modules 1 To 4
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: continuing the language-instruction strengthening pass into the outward-facing communication band
+- Observation: the first `INT-5` pass now covers `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod4.md`. The pass remains consistent: brief instructional rules and checklists are being added where they support transfer, while the lighter intermediate prose standard and the existing task architecture remain intact.
+- Preferred behavior: continue through Modules 5 and 6 using the same low-load strengthening model before deciding whether a second deeper teaching pass is needed
+
+
+### 2026-03-23T03:15:00+09:00 - The Initial INT-5 Teaching-Strengthening Pass Now Covers Modules 1 To 5
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: extending the language-instruction pass into the editing-and-revision band
+- Observation: the first `INT-5` pass now covers `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod5.md`. The editing units now also use short learner-facing revision checks, so the teaching support remains visible even when the task is based on correcting a draft rather than producing new writing.
+- Preferred behavior: complete the same restrained teaching-strengthening pass in Module 6, then review whether the whole-book language-instruction layer is coherent enough to keep moving forward without another early-stage rewrite
+
+
+### 2026-03-23T03:30:00+09:00 - The Initial INT-5 Teaching-Strengthening Pass Now Covers All Six Intermediate Modules
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: completion of the first module-by-module language-instruction strengthening cycle
+- Observation: the first `INT-5` pass now covers `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`. The pass added brief teaching supports such as checklists, question frames, and revision routines across the whole book while preserving the existing prompt structure and the lower-intermediate load.
+- Preferred behavior: before closing `INT-5`, run a whole-book teaching-layer sweep to catch any remaining places where key writing moves are still too implicit or where the new support has become heavier than intended
+
+
+### 2026-03-23T03:45:00+09:00 - INT-5 Closed And INT-6 QA Has Begun
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: transition from language-instruction strengthening into formal QA
+- Observation: the whole-book teaching-layer sweep found no obvious prompt-policy relapse or overcorrection severe enough to justify another immediate `INT-5` rewrite pass. `INT-5` is now treated as complete, `INT-6` is active, and the first live QA record now exists at `int/edits & guides/qa/aw-int_qa_round1.md`.
+- Preferred behavior: continue QA through the live module files, record concrete evidence for each `Revise` or `Monitor` finding, and keep deferred Unit 23 rubric support visible as deferred rather than silently treating it as finished
+
+
+### 2026-03-23T04:05:00+09:00 - The Intermediate QA Checklist Now Operates At The Mature Hard-Gate Standard
+
+- Status: `monitor`
+- Scope: project/control
+- Context: strengthening the live QA stage definition after checking it against the mature advanced QA checklist
+- Observation: `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` now includes the same level of operational rigor as the advanced QA control file: a preliminary cross-check, blocker-aware workflow, stronger category coverage, requirement-source notes where needed, explicit pinned-item handling, book-level sign-off questions, and a standard recording template for findings.
+- Preferred behavior: use the revised intermediate QA checklist as the authoritative review standard for the rest of `INT-6`, and do not fall back to the earlier lighter interpretation of intermediate QA
+
+
+### 2026-03-23T04:20:00+09:00 - Round 1 QA Now Includes The Hard-Gate Cross-Check And A New Unit 5 Planning-Live Monitor Item
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: re-evaluation of the live Round 1 QA record after the intermediate checklist was tightened
+- Observation: `int/edits & guides/qa/aw-int_qa_round1.md` has now been re-evaluated against the revised checklist rather than the earlier lighter standard. That re-evaluation preserved the existing Unit 5 workload `Revise` item, kept the Unit 8 format ambiguity as `Monitor`, preserved the Unit 23 rubric requirement as `Deferred`, and added a new Unit 5 planning/live `Monitor` item because the structural profile still mentions a Reflection-layer mini email task that the live source no longer contains.
+- Preferred behavior: treat the current Round 1 file as the authoritative QA record, resolve the Unit 5 live workload issue and the Unit 5 profile drift before attempting to close intermediate QA
+
+
+### 2026-03-23T04:45:00+09:00 - The Recorded Round 1 Intermediate QA Issue Set Has Been Cleared
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: same-pass correction of the four issues named in the re-evaluated Round 1 QA record
+- Observation: the recorded Round 1 issue set has now been addressed in both the live source and the control layer. Unit 5 now uses a lighter freer-writing load, the Unit 5 structural profile now matches the live source again, Unit 8 now defines its manual-section format explicitly, and Unit 23 now has both a learner-facing rubric and a companion teacher / QA marking note. `P1` and `P2` in the project to-do list are now recorded as done.
+- Preferred behavior: continue `INT-6` using the corrected Round 1 record as the active baseline, and focus the next QA work on whether any additional whole-book findings remain before full review
+
+
 

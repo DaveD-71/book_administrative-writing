@@ -62,6 +62,16 @@ Thank you,
 
 **Discussion:** Why is Email B more professional?
 
+**Quick email check**
+
+- Does the subject line show the topic clearly?
+
+- Does the first sentence tell the reader why you are writing?
+
+- Does the body give the needed detail or question?
+
+- Does the closing sound polite and professional?
+
 ### Language 1: Subject Lines
 
 A good subject line is:
@@ -84,7 +94,7 @@ A good subject line is:
 
 #### Practice – Improve the Subject Line
 
-Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects many students write.
+Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects lower-level writers often produce before they learn standard email patterns.
 
 1. Subject: I have a question about the document that you sent to me yesterday
    →
@@ -201,13 +211,25 @@ Write your email:
 
 ### Freer Practice: Write Your Own Email
 
-Choose one situation and write a full email.
+Choose one situation and write one complete email.
 
 #### Situations
 
-A. You need information about a new internal procedure.  
-B. You want to confirm the applicant’s deadline.  
-C. You have one question about a submitted file.
+A. Write to a colleague to ask for information about a new internal procedure.  
+B. Write to an applicant to confirm the correct deadline.  
+C. Write to a colleague or partner office to ask one clear question about a submitted file.
+
+Include:
+
+- a clear subject line
+
+- a greeting
+
+- one opening sentence that explains your purpose
+
+- a short body
+
+- a closing sentence and sign-off
 
 Write your email:
 
@@ -255,6 +277,14 @@ Write what you would need to know:
 2.
 3.
 4.
+
+**A strong clarification question**
+
+- names the exact part that is unclear
+
+- asks for one specific piece of information
+
+- stays polite and neutral
 
 ### Language 1: Useful Clarification Phrases
 
@@ -395,11 +425,11 @@ Write your email:
 
 - **Sign-off:**
 
-### Freer Practice – Write Several Clarification Emails
+### Freer Practice – Write Two Clarification Emails
 
-Write **three short emails**, each 3–5 sentences, asking for clarification. Keep each email focused on **one topic only**.
+Write **two short emails**, each 3–5 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
-#### Email 1 Topic Options
+Choose **two** topic options from the list below:
 
 - Deadline confusion
 
@@ -407,15 +437,11 @@ Write **three short emails**, each 3–5 sentences, asking for clarification. Ke
 
 - Missing attachment
 
-#### Email 2 Topic Options
-
 - Conflicting instructions
 
 - A system message you do not understand
 
 - Applicant information that is unclear
-
-#### Email 3 Topic Options
 
 - Unclear meeting instructions
 
@@ -441,16 +467,6 @@ Your paragraph should:
 Write your paragraph:
 
 ### Reflection
-
-Choose one situation and write a short, clear email.
-
-#### Situations
-
-A. Two documents give different deadlines.  
-B. The applicant’s information is unclear.  
-C. You don’t understand the instructions for the new system.
-
-Write your email:
 
 1. Which clarification phrase is most useful for you?  
 
@@ -494,6 +510,16 @@ Write what is missing:
 2.
 3.
 4.
+
+**A useful update answers four questions**
+
+1. What changed?
+
+2. Why did it change?
+
+3. What does this mean for the reader?
+
+4. What happens next?
 
 ### Language 1 – Useful Phrases for Delays and Changes
 
@@ -614,10 +640,18 @@ Write **two short update emails** (3–5 sentences each).
 
 #### Scenario Options
 
-A. A system update will take longer than planned.  
-B. A document will be reviewed later than the original schedule.  
-C. A change has been made to an internal rule.  
-D. A meeting needs to be rescheduled.
+A. Write to colleagues about a system update that will take longer than planned.  
+B. Write to an applicant or partner office to explain that a document will be reviewed later than the original schedule.  
+C. Write to staff about a change in an internal rule.  
+D. Write to meeting participants about a rescheduled meeting.
+
+In each email, include:
+
+- the change or delay
+
+- a short reason or background sentence if needed
+
+- the effect or next step
 
 Write your emails:
 
@@ -681,6 +715,16 @@ Read each pair. Choose the request that sounds more professional.
    b) Could you provide the applicant’s number?
 
 **Discussion:** What makes the (b) sentences more polite?
+
+**Quick rule for polite requests**
+
+- choose a polite request form
+
+- say exactly what you need
+
+- add one short reason if it helps the reader
+
+- close without pressure
 
 ### Language 1 – Levels of Politeness in Requests
 
@@ -843,10 +887,20 @@ Choose two situations below:
 
 #### Options
 
-A. You need confirmation of a meeting time.
-B. You need the correct version of a submitted file.
-C. You need information missing from an applicant’s documents.
-D. You need clarification before finalising a report.
+A. Write to a colleague to confirm a meeting time.
+B. Write to a colleague or partner office to request the correct version of a submitted file.
+C. Write to an applicant to request information missing from their documents.
+D. Write to a colleague to request clarification before finalising a report.
+
+In each email, include:
+
+- a clear opening
+
+- one polite request
+
+- one short reason or context sentence
+
+- a softened closing line
 
 Write your emails:
 

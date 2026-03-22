@@ -589,4 +589,200 @@ Historical note:
 - Closed `INT-3` in the to-do list and updated the control layer so `INT-4` is now the next active stage
 
 
+### 2026-03-23T00:10:00+09:00 - Started INT-4 With A Module 1 Revision Pass
+
+- Marked `INT-4` as in progress in:
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+- Updated the active `INT-4` priority note so Module 1 is the immediate revision target
+- Revised `int/md/first_draft_modules/aw-int_mod1.md` to improve early prompt control:
+  - Unit 1 freer practice now names the message purpose and required content more explicitly
+  - Unit 2 freer practice now identifies the audience and expected email components more clearly
+  - Unit 2 homework is now self-study friendly rather than classroom-dependent
+  - Unit 3 freer practice now uses situation-anchored options instead of bare topic labels
+
+
+### 2026-03-23T00:25:00+09:00 - Continued INT-4 With A Module 2 Prompt-And-Structure Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod2.md` to align better with the prompt policy and structural profiles:
+  - Unit 4 freer practice now makes audience, message components, and email expectations explicit
+  - Unit 5 no longer keeps an extra live writing task inside `Reflection`
+  - Unit 6 freer practice now gives clearer audience framing and update-message requirements
+  - Unit 7 freer practice now gives clearer audience framing, request requirements, and closing expectations
+- Updated the to-do list priority note so Module 3 is now the next live revision target inside `INT-4`
+
+
+### 2026-03-23T00:45:00+09:00 - Continued INT-4 With A Module 3 Prompt-And-Structure Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod3.md` to align better with the prompt policy and structural profiles:
+  - Unit 8 guided, freer, and extended tasks now state the user, purpose, and expected procedure framing more explicitly
+  - Unit 9 guided and freer notice tasks now identify the internal audience and required notice parts more clearly
+  - Unit 10 guided, freer, and extended tasks now make the internal-reporting audience and expected problem-description components explicit
+  - Unit 11 guided, freer, and extended tasks now identify the reader relationship and the summary components that must be included
+- Updated the to-do list priority note so Module 4 is now the next live revision target inside `INT-4`
+
+
+### 2026-03-23T01:05:00+09:00 - Continued INT-4 With A Module 4 Prompt-And-Structure Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod4.md` to align better with the prompt policy and structural profiles:
+  - Unit 12 guided, freer, and extended tasks now state the outward-facing writer/reader relationship and the required inquiry-email components more explicitly
+  - Unit 13 guided, freer, and extended tasks now identify the internal explanation audience and the main explanation components more clearly
+  - Unit 14 guided, freer, and extended tasks now make the clarification-response relationship and required response moves more explicit
+  - Unit 15 guided and freer tasks now identify the target email reader and the consistency requirements more clearly
+- Updated the to-do list priority note so Module 5 is now the next live revision target inside `INT-4`
+
+
+### 2026-03-23T01:20:00+09:00 - Continued INT-4 With A Module 5 Prompt-And-Structure Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod5.md` to align better with the structural profiles and keep the unit role explicitly editorial:
+  - Unit 16 guided, freer, and extended tasks now state the editing role and draft-to-final revision purpose more clearly
+  - Unit 17 guided, freer, and extended tasks now frame the work explicitly as revising unclear internal drafts for a reader
+  - Unit 18 guided, freer, and extended tasks now frame the work explicitly as revising rough drafts into more professional versions
+- Updated the to-do list priority note so Module 6 is now the next live revision target inside `INT-4`
+
+
+### 2026-03-23T01:35:00+09:00 - Continued INT-4 With A Module 6 Prompt-And-Structure Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod6.md` to align better with the structural profiles while preserving the integrated multi-document architecture:
+  - Unit 19 now makes the external/internal reader contrast and the paired-document purpose more explicit
+  - Unit 20 now makes the revision-message vs. internal-notice audience contrast more explicit
+  - Unit 21 now frames the consistency work more explicitly as revising different colleagues' drafts to one shared standard
+  - Unit 22 now makes the three-audience contrast more explicit across the applicant reply, colleague explanation, and internal notice
+  - Unit 23 now gives clearer reader and document-type selection cues inside the portfolio revision work
+- Updated the to-do list priority note so `INT-4` now points to a whole-book follow-through pass after the initial Module 1 to Module 6 revision cycle
+
+
+### 2026-03-23T02:05:00+09:00 - Closed INT-4 After The Whole-Book Follow-Through Sweep
+
+- Rechecked the full six-module live source set after the initial `INT-4` pass
+- Confirmed that no second targeted prompt-and-structure cleanup pass was needed before moving to the next stage
+- Corrected the one remaining residual live-text issue discovered in the sweep:
+  - the Unit 21 focus line in `int/md/first_draft_modules/aw-int_mod6.md`
+- Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so `INT-4` is closed and `INT-5` is now the active stage
+
+
+### 2026-03-23T02:15:00+09:00 - Started INT-5 With A Module 1 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod1.md` to make the teaching layer more explicit without increasing overall difficulty:
+  - Unit 1 now includes a short clear-sentence checklist and a concise simplification guide
+  - Unit 2 now includes a short professional-tone explanation and a quick tone-check routine
+  - Unit 3 now includes a simple paragraph-purpose frame and a short paragraph-planning routine
+- Updated the to-do list so the current priorities now track `INT-5` rather than the earlier `INT-4` follow-through sweep
+
+
+### 2026-03-23T02:30:00+09:00 - Continued INT-5 With A Module 2 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod2.md` to make the teaching layer more explicit without redesigning the email-task architecture:
+  - Unit 4 now includes a short email-check routine for subject line, purpose, body, and closing
+  - Unit 5 now includes a short definition of what makes a strong clarification question
+  - Unit 6 now includes a four-question frame for writing useful update messages
+  - Unit 7 now includes a short rule set for building polite requests
+- Kept the added teaching supports short and reusable so the units remain readable for A2-B1+ learners
+
+
+### 2026-03-23T02:45:00+09:00 - Continued INT-5 With A Module 3 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod3.md` to make the teaching layer more explicit without changing the unit architecture:
+  - Unit 8 now includes a short description of what good procedures usually do
+  - Unit 9 now includes a quick notice-check routine
+  - Unit 10 now includes a five-question planning frame for problem explanations
+  - Unit 11 now includes a short description of what a useful meeting summary should do
+- Kept the new support concise so the units remain readable and teachable for A2-B1+ learners
+
+
+### 2026-03-23T03:00:00+09:00 - Continued INT-5 With A Module 4 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod4.md` to make the teaching layer more explicit without altering the existing task sequence:
+  - Unit 12 now includes a short description of what makes an effective external inquiry
+  - Unit 13 now includes a short description of what a useful explanation helps the reader do
+  - Unit 14 now includes a short description of what a good clarification response should do
+  - Unit 15 now includes a quick consistency-check routine for email style
+- Kept the instructional additions short so the outward-facing units stay teachable for A2-B1+ learners
+
+
+### 2026-03-23T03:15:00+09:00 - Continued INT-5 With A Module 5 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod5.md` to make the editing-and-revision teaching layer more explicit:
+  - Unit 16 now includes a quick accuracy-check routine
+  - Unit 17 now includes a quick clarity-check routine
+  - Unit 18 now includes a quick tone-check routine
+- Kept the additions concise so the units still read as lower-intermediate editing lessons rather than grammar-heavy correction manuals
+
+
+### 2026-03-23T03:30:00+09:00 - Continued INT-5 With A Module 6 Language-Instruction Pass
+
+- Revised `int/md/first_draft_modules/aw-int_mod6.md` to make the integrated-task teaching layer more explicit:
+  - Unit 19 now includes a short audience-and-purpose planning routine for paired documents
+  - Unit 20 now includes a consistency check for connected correction documents
+  - Unit 21 now includes a short note on what a shared team standard normally covers
+  - Unit 22 now includes a short planning check for multi-document audience control
+  - Unit 23 now includes a final revision order for portfolio work
+- Updated the to-do list priorities so `INT-5` now points to a whole-book teaching-layer sweep after the initial Module 1 to Module 6 strengthening cycle
+
+
+### 2026-03-23T03:45:00+09:00 - Closed INT-5 And Started QA Round 1
+
+- Rechecked the full six-module live source set after the first `INT-5` pass
+- Confirmed that the new teaching supports did not introduce an obvious prompt-policy relapse or obvious over-densification
+- Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so:
+  - `INT-5` is now closed
+  - `INT-6` is now the active stage
+- Created the first live QA findings file:
+  - `int/edits & guides/qa/aw-int_qa_round1.md`
+- Recorded initial Round 1 findings, including:
+  - one live `Revise` item for Unit 5 output-load calibration
+  - one `Monitor` item for the Unit 8 mixed manual/step output model
+  - one `Deferred` item confirming that the Unit 23 rubric layer is still pending by project decision
+
+
+### 2026-03-23T04:05:00+09:00 - Tightened The Intermediate QA Checklist To The Mature Hard-Gate Standard
+
+- Revised `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` so it now functions as the operational equivalent of the advanced QA checklist rather than a lighter stage definition
+- Added:
+  - a preliminary cross-check section before module review begins
+  - stronger unit, model, answer-key, and pinned-item criteria
+  - requirement-source notes where the intermediate standard needed clearer grounding
+  - book-level sign-off questions
+  - a suggested findings-recording template
+  - explicit immediate `INT-6` priorities
+- Kept the criteria specific to the intermediate book's module-file architecture and A2-B1+ learner standard rather than copying advanced-only controls
+
+
+### 2026-03-23T04:20:00+09:00 - Re-Evaluated QA Round 1 Against The Revised Hard-Gate Checklist
+
+- Reworked `int/edits & guides/qa/aw-int_qa_round1.md` so it now follows the revised QA workflow rather than the earlier lighter Round 1 structure
+- Added a preliminary cross-check section covering:
+  - live source-of-truth confirmation
+  - post-`INT-4` / `INT-5` planning-live drift check
+  - pinned-item visibility
+  - approved-exception awareness
+- Preserved the earlier substantive findings:
+  - Unit 5 workload remains `Revise`
+  - Unit 8 mixed-format extension remains `Monitor`
+  - Unit 23 rubric support remains `Deferred`
+- Added one new `Monitor` item:
+  - the Unit 5 structural profile still describes an extra Reflection-layer mini email task that no longer exists in the live module file
+- Updated the sign-off judgment so Round 1 now explicitly states that QA cannot close until the Unit 5 workload issue is corrected and the Unit 5 profile drift is resolved
+
+
+### 2026-03-23T04:45:00+09:00 - Cleared The Recorded Round 1 Intermediate QA Issue Set
+
+- Revised `int/md/first_draft_modules/aw-int_mod2.md` so Unit 5 now uses a lighter freer-writing load:
+  - Freer Practice now asks for two clarification emails instead of three
+- Revised `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` so Unit 5 now matches the live source again:
+  - freer-writing load updated from three emails to two
+  - stale Reflection-task note removed
+- Revised `int/md/first_draft_modules/aw-int_mod3.md` and the structural profiles so Unit 8 now defines a fixed manual-section format:
+  - `1-2` opening sentences
+  - `4-6` numbered steps
+  - `1` closing sentence
+- Added the Unit 23 rubric support that had previously been deferred:
+  - learner-facing `Portfolio Review Rubric` in `int/md/first_draft_modules/aw-int_mod6.md`
+  - companion teacher / QA file at `int/edits & guides/qa/aw-int_unit23_portfolio_marking_note.md`
+- Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so:
+  - `P1` is now done
+  - `P2` is now done
+  - the current `INT-6` priorities now point to continuing QA after the Round 1 corrections
+- Updated `int/edits & guides/qa/aw-int_qa_round1.md` so the four recorded issues now read as resolved rather than still open blockers
+
+
 

@@ -31,6 +31,16 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 
 **Discussion:** Why are the (b) sentences easier to read?
 
+**Quick check for a clear sentence**
+
+- Put the main subject near the beginning.
+
+- Use one clear main verb.
+
+- Put the most important information in the main sentence, not in a long extra phrase.
+
+- Remove words that do not change the meaning.
+
 ### Language 1: Basic Sentence Pattern (S–V–O / S–V–C)
 
 Most clear administrative English sentences follow this simple pattern:
@@ -87,6 +97,14 @@ Rewrite the word groups as clear S–V–O or S–V–C sentences.
 
 Administrative English should be **short, direct, and clear**.
 
+Three common ways to simplify a sentence:
+
+1. change long formal openings to direct verbs
+
+2. cut extra explanation that the reader does not need
+
+3. move the main action closer to the subject
+
 #### Simplify the Sentence
 
 Rewrite each sentence in a clearer, shorter way.
@@ -121,9 +139,17 @@ Rewrite each sentence so that it is easier to read.
 
 ### Freer Practice: Write Clear Administrative Sentences
 
-Write 3–4 clear sentences based on the situation below.
+Write a short message to the applicant in **3–4 clear sentences**.
 
 **Situation:** The applicant sent the wrong form. You need to contact the applicant and ask for the correct form. The deadline is next Friday.
+
+Include:
+
+- the problem
+
+- what the applicant needs to send
+
+- the deadline
 
 1.
 2.
@@ -173,6 +199,14 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
 **Discussion:** Why do the (b) sentences sound more professional?
 
+**Professional tone usually does three things**
+
+- sounds polite, not demanding
+
+- explains the situation clearly
+
+- focuses on the task, not on blame or emotion
+
 ### Language 1: Polite Request Phrases
 
 Administrative emails often use **softened, polite expressions**.
@@ -214,6 +248,14 @@ Professional tone is:
 - **Neutral** (not emotional)
 
 - **Respectful** (polite and calm)
+
+When you check tone, ask:
+
+1. Does this sound calm?
+
+2. Does it tell the reader what they need to know?
+
+3. Would I be comfortable sending this at work?
 
 #### Change the Tone
 
@@ -271,15 +313,21 @@ Rewrite the email to make it more polite and professional.
 
 ### Freer Practice: Write Your Own Professional Email
 
-Choose one situation and write a short professional email.
+Choose one situation and write a short professional email in **3–4 sentences**.
 
 #### Situations
 
-A. You need a colleague to check a document today.  
-B. You want to confirm the correct deadline.  
-C. You need clarification about one part of an application.
+A. Write to a colleague who needs to check a document today.  
+B. Write to an applicant to confirm the correct deadline.  
+C. Write to a colleague to ask for clarification about one part of an application.
 
-Write 3–4 sentences.
+Include:
+
+- a clear opening
+
+- one polite request or clarification question
+
+- a professional closing line
 
 ### Reflection
 
@@ -291,7 +339,7 @@ Write 3–4 sentences.
 
 ### Homework
 
-Find one real English email you received that had a **very polite** or **not polite** tone. Bring it to the next class and explain:
+Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
 
 - What part sounded polite or not polite?
 
@@ -315,6 +363,14 @@ This unit teaches **what a paragraph is**, how to structure it clearly, and when
 ### What Is a Paragraph?
 
 A **paragraph** is a group of sentences about **one main idea**. All sentences in the paragraph should connect to that idea.
+
+You can think of a paragraph as answering one simple question such as:
+
+- What happened?
+
+- What is the problem?
+
+- What happens next?
 
 #### A paragraph should
 
@@ -428,6 +484,14 @@ A paragraph should follow a clear, logical order:
 
 - Issue → Impact → What happens next
 
+Before you write, make a short paragraph plan:
+
+1. What is my main point?
+
+2. What detail or explanation does the reader need?
+
+3. How will I close the paragraph?
+
 ### Practice B – Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
@@ -459,11 +523,11 @@ Rewrite this paragraph so it has a clear **topic → support → closing** struc
 
 Write **one administrative paragraph** (5–7 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
-#### Topics
+#### Situations
 
-A. Describe a delay in a process and what caused it.  
-B. Describe a system problem and what your team observed.  
-C. Describe an updated internal rule and why it was changed.
+A. Your supervisor needs a short internal summary explaining a delay in one review stage and what caused it.  
+B. Your team is preparing an internal summary after a system problem affected document access this morning.  
+C. Your office recently changed one internal rule, and you need to explain the change and the reason in a short guidance note.
 
 Write your paragraph:
 
