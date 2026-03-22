@@ -130,7 +130,7 @@ A paragraph should follow a clear, logical order:
 
 - Issue → Impact → What happens next
 
-#### Practice B – Reorder to Create a Clear Paragraph
+### Practice B – Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
@@ -155,7 +155,7 @@ Rewrite this paragraph so it has a clear **topic → support → closing** struc
 **Original:**
 > We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
 
-**Rewrite here:****
+**Rewrite here:**
 
 ### Freer Practice – Write a Full Paragraph
 

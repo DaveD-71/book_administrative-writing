@@ -23,7 +23,7 @@ A workplace-writing textbook for lower-level administrative and professional lea
 The current live working source is:
 
 - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-- `int/md/aw-int-01.md` to `int/md/aw-int-23.md`
+- `int/md/units/aw-int-01.md` to `int/md/units/aw-int-23.md`
 
 Treat:
 

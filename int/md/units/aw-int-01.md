@@ -49,12 +49,6 @@ Examples:
 
 - **The documents** (S) **are** (V) **ready** (C).
 
-- **We** (S) **received** (V) **your application** (O).
-
-- **The applicant** (S) **submitted** (V) **the missing form** (O).
-
-- **Our office** (S) **is located in** (V) **Tokyo** (C).
-
 #### Practice — Identify the Parts
 
 Identify the parts of each sentence using these actions:
@@ -77,7 +71,7 @@ Identify the parts of each sentence using these actions:
 
 #### Practice — Build Clear Sentences
 
-Rewrite the word groups as clear S–V–O or S-V-C sentences.
+Rewrite the word groups as clear S–V–O or S–V–C sentences.
 
 1. (application / our office / receive / yesterday)
 

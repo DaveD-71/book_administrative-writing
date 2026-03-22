@@ -443,4 +443,48 @@ Historical note:
   - `adv/edits & guides/full-review/aw-adv_full-review_round1.md`
 
 
+### 2026-03-22T21:10:00+09:00 - Started Intermediate Execution With Baseline Audit And First Structural Profiles
+
+- Verified the live intermediate source set now used by the control layer:
+  - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
+  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+  - `int/md/aw-int-all.md` as reference-only combined snapshot
+- Created the first intermediate audit artifact:
+  - `int/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`
+- Marked `INT-2` complete and moved `INT-3` to in progress in:
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+- Started the structural-profile build by drafting Module 1 in:
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles_revised.md`
+- Cleaned the first obvious live-source defects found during the audit:
+  - duplicate example lines in Unit 1
+  - a guided-practice typo and one heading-depth mismatch in Unit 3
+  - a duplicated teaching block and capitalization inconsistency in Unit 7
+  - heading-depth mismatches in Units 8 and 15
+
+
+### 2026-03-22T21:35:00+09:00 - Generated First-Draft Intermediate Module Files
+
+- Built a separate module-file layer from the current split unit files:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Preserved the current control-layer rule that the split unit files remain the canonical baseline for now
+- Updated the intermediate to-do list so `INT-4` now points to module-by-module revision using the new module-file layer once the profile build is ready
+
+
+### 2026-03-22T21:45:00+09:00 - Moved Intermediate Split Unit Files Into A Dedicated Units Subfolder
+
+- Created the dedicated source subfolder:
+  - `int/md/units`
+- Moved the 23 split unit files into that subfolder:
+  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+- Left the other intermediate Markdown layers in place:
+  - `int/md/aw-int-all.md`
+  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Updated the active intermediate control files so current live-source references now point to `int/md/units`
+
+
 

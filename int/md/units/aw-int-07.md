@@ -80,15 +80,6 @@ Often a request is clearer when you add **one short context sentence**.
 
 - This will help us complete the process.
 
- (Why You Need the Information)
-Often a request is clearer when you add **one short context sentence**.
-
-- We need this for the next review stage.
-
-- This information is required for the submission.
-
-- This will help us complete the process.
-
 ### Practice A – Rewrite the Request
 
 Rewrite each message to make it **polite, clear, and complete**.
@@ -157,7 +148,7 @@ Administrative English avoids:
 
 - when available
 
-### Practice C – soften the request
+### Practice C – Soften the Request
 
 Rewrite each message so it is **polite but not weak**, using softening phrases.
 

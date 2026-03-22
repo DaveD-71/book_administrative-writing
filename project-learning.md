@@ -342,4 +342,40 @@ Historical note:
 - Preferred behavior: treat the Round 1 findings as resolved, use the updated live advanced baseline for the next full-review pass, and record any further issues as a new round rather than reopening the completed Round 1 items
 
 
+### 2026-03-22T21:10:00+09:00 - Intermediate Baseline Audit Confirmed A Stable Live Draft Shape
+
+- Status: `monitor`
+- Scope: project/state
+- Context: start of `INT-2` against the live intermediate source set
+- Observation: the live intermediate baseline is structurally intact at `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/units/aw-int-01.md` to `aw-int-23.md`, with `int/md/aw-int-all.md` retained as a reference-only combined snapshot. The draft already shows a strong repeated lower-intermediate progression from focus and explanation into guided and freer writing, then shifts into integrated multi-audience work in Units 19-23.
+- Preferred behavior: treat the live draft as a usable structured baseline to be formalised and controlled, not as an unstructured rough draft that needs its architecture invented from scratch
+
+
+### 2026-03-22T21:10:00+09:00 - Intermediate Profiles Should Preserve Sentence-Band Scaffolding Before Any Later Output Normalisation
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: Round 1 baseline audit findings on output control
+- Observation: the live intermediate book currently controls output mainly through sentence-count bands such as `3-4`, `3-5`, `4-6`, `5-7`, and `6-8` sentences rather than through a stable word-range framework. That scaffolding is currently functional for the book's A2-B1+ level and should be recorded accurately in the structural profiles before any later normalisation decisions are made.
+- Preferred behavior: build the profile layer from the existing sentence-band model first, especially for the integrated late-book units, instead of prematurely forcing advanced-style word-count logic onto the intermediate draft
+
+
+### 2026-03-22T21:35:00+09:00 - Intermediate Module Scaffolds Now Exist Alongside The Split-Unit Baseline
+
+- Status: `monitor`
+- Scope: project/structure
+- Context: preparing the intermediate track for module-by-module execution patterned after the advanced workflow
+- Observation: a combined module-file layer now exists at `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`, built directly from the current split unit files. The split unit files under `int/md/units` remain the canonical baseline for now, while the module files provide the module-level working layer needed for later module-by-module revision.
+- Preferred behavior: keep the split unit set as the canonical source baseline until an explicit source switch is recorded, but use the new module scaffolds when the intermediate revision pass moves from planning into module-level editing
+
+
+### 2026-03-22T21:45:00+09:00 - Intermediate Split Unit Files Now Live Under int/md/units
+
+- Status: `monitor`
+- Scope: project/structure
+- Context: tightening the intermediate source layout after the first module-file layer was created
+- Observation: the 23 split intermediate unit files now live under `int/md/units`, while `int/md/aw-int-all.md` remains the combined reference snapshot and `int/md/first_draft_modules` holds the first module-file layer. This separates unit sources, module scaffolds, and the combined draft more clearly inside `int/md`.
+- Preferred behavior: use `int/md/units` as the canonical split-unit source location in all current intermediate control documents, and avoid leaving active references pointed at the older flat `int/md` unit paths
+
+
 

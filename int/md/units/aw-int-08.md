@@ -81,7 +81,7 @@ Common verbs used in procedures:
 
 - Submit
 
-#### Practice A – Improve the Verb Choice
+### Practice A – Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
 
@@ -101,7 +101,7 @@ Rewrite each instruction using a **clear action verb**.
 
 Procedures must follow a logical sequence.
 
-#### Practice B – Put the Steps in Order
+### Practice B – Put the Steps in Order
 
 Steps for verifying an application:
 A. Review the file for missing documents.

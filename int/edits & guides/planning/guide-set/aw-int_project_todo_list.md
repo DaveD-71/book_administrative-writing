@@ -12,11 +12,11 @@
 
 | # | Task | Detail | Status |
 |---|---|---|---|
-| INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/aw-int-01.md` to `aw-int-23.md` as the live working source. Treat `int/md/aw-int-all.md` as reference-only until intentional regeneration. | Done |
+| INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/units/aw-int-01.md` to `aw-int-23.md` as the live working source. Treat `int/md/aw-int-all.md` as reference-only until intentional regeneration. | Done |
 | INT-1 | Establish planning control stack | Create the intermediate `guide-set` / `supporting` planning structure and seed the core control documents. | Done |
-| INT-2 | Run baseline audit | Record current unit patterns, section logic, output-length behavior, repeated scenario families, and obvious cleanup classes before broad revision. | Next |
-| INT-3 | Build revised structural profiles | Create all 23 unit profiles with Can-Do statements, activity-purpose mapping, output expectations, and revision flags. | Pending |
-| INT-4 | Run whole-book draft revision pass | Revise the live unit files module by module against the planning stack. | Pending |
+| INT-2 | Run baseline audit | Record current unit patterns, section logic, output-length behavior, repeated scenario families, and obvious cleanup classes before broad revision. Baseline record now exists at `int/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`. | Done |
+| INT-3 | Build revised structural profiles | Create all 23 unit profiles with Can-Do statements, activity-purpose mapping, output expectations, and revision flags. Module 1 profile drafting has started in `aw-int_unit_structural_profiles_revised.md`. | In Progress |
+| INT-4 | Run whole-book draft revision pass | Revise the live content module by module against the planning stack, using the module-file layer after the profile build is sufficiently established. | Pending |
 | INT-5 | Run language-instruction strengthening pass | Add or sharpen the teaching logic after the structural revision pass. | Pending |
 | INT-6 | Run whole-book QA gate | Execute the dedicated QA stage after the content passes are complete. | Pending |
 | INT-7 | Run full review | Conduct a post-QA whole-book editorial review before answer-key work. | Pending |
@@ -53,7 +53,8 @@
 
 | Decision | Detail |
 |---|---|
-| Live source set | `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus the 23 split unit files in `int/md` |
+| Live source set | `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus the 23 split unit files in `int/md/units` |
+| Module-file layer | `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` now exist as combined module scaffolds derived from the split unit files in `int/md/units`; keep the split units as the canonical baseline until an explicit source switch is recorded |
 | Combined draft status | `int/md/aw-int-all.md` is reference-only until intentional regeneration |
 | Workflow model | rigorous adaptation of the advanced workflow, not direct cloning |
 | Book identity | keep a simpler intermediate structure and voice than the advanced book |

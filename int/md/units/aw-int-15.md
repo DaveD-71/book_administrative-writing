@@ -117,7 +117,7 @@ Emails should use:
 
 - Professional spacing and layout
 
-#### Practice B – Reformat the Email
+### Practice B – Reformat the Email
 
 Rewrite this email with clear formatting.
 
