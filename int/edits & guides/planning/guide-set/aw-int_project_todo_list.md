@@ -23,7 +23,7 @@ Update status as work progresses. Treat the detail fields as operational control
 | INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` as the live working source. Treat `int/md/units/aw-int-01.md` to `aw-int-23.md` and `int/md/aw-int-all.md` as reference-only unless a later control decision replaces this. | Done |
 | INT-1 | Establish planning control stack | Create the intermediate `guide-set` / `supporting` planning structure and seed the core control documents. | Done |
 | INT-2 | Run baseline audit | Record current unit patterns, section logic, output-length behavior, repeated scenario families, and obvious cleanup classes before broad revision. Baseline record now exists at `int/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`. | Done |
-| INT-3 | Build revised structural profiles | Complete all 23 unit profiles in `aw-int_unit_structural_profiles.md`. For each unit, record: module purpose, unit learning goal, 3 to 4 learner-facing Can-Do statements, activity-purpose map, current output expectations, revision flags, and approved exceptions. Build from the live module files rather than from the advanced book or the old split-unit baseline. | In Progress |
+| INT-3 | Build revised structural profiles | Complete all 23 unit profiles in `aw-int_unit_structural_profiles.md`. For each unit, record: module purpose, unit learning goal, 3 to 4 learner-facing Can-Do statements, activity-purpose map, current output expectations, revision flags, and approved exceptions. Build from the live module files rather than from the advanced book or the old split-unit baseline. | Done |
 | INT-4 | Run whole-book draft revision pass | Revise the live module files only against the completed planning stack. For each module, align unit structure, task sequencing, prompts, output expectations, and scenario spread with the structural profiles, activity framework, and prompt-writing policy. Do not continue active editing in the split unit files unless a later control decision explicitly reopens them as the live source. | Pending |
 | INT-5 | Run language-instruction strengthening pass | After the structural revision pass, sharpen actual teaching inside the module files. Add or improve concise conceptual framing, model-text explanation, and guided support where the book still relies too heavily on exposure, phrase lists, or implicit noticing. Keep the teaching lighter and more explicit than the advanced book rather than importing advanced pedagogical density directly. | Pending |
 | INT-6 | Run whole-book QA gate | Execute the dedicated QA stage after INT-4 and INT-5 are complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, and pinned-item confirmation. | Pending |
@@ -61,7 +61,8 @@ The agreed order for completing the intermediate book is:
 
 Current active point in that sequence:
 
-- `INT-3` is in progress
+- `INT-3` is complete
+- `INT-4` is the next active stage
 
 ---
 
@@ -100,15 +101,15 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE — Current Priorities Inside INT-3
+## REFERENCE — Next Step After INT-3
 
-The immediate profile-building priorities are:
+The immediate next priorities are:
 
-1. complete Module 3 profiles in `aw-int_unit_structural_profiles.md`
-2. continue through Modules 4 to 6 using the live module files as the source
-3. record output expectations accurately before trying to normalize them
-4. flag structural exceptions and integrated-task preparation points explicitly
-5. make the completed profile file strong enough to govern `INT-4` without ad hoc guesswork
+1. begin `INT-4` using the completed structural profiles as the governing planning layer
+2. revise Module 1 first, then continue module by module through the live module files
+3. align unit structure, task sequencing, prompts, and output expectations against the completed guide-set
+4. preserve intentional exceptions recorded in the structural profiles instead of flattening them by default
+5. record any planning/live tension discovered during revision rather than silently drifting away from the new profile layer
 
 ---
 

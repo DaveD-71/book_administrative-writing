@@ -419,4 +419,13 @@ Historical note:
 - Preferred behavior: treat `aw-int_unit_structural_profiles.md` as the sole current structural-profile source-of-truth and do not recreate the `_revised` suffix in later control documents unless a genuinely separate revision artifact is intended
 
 
+### 2026-03-22T23:55:00+09:00 - Intermediate Structural-Profile Layer Is Now Complete And Governs INT-4
+
+- Status: `monitor`
+- Scope: project/state
+- Context: completion of `INT-3` across Modules 1 to 6
+- Observation: `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` now contains profile coverage for all 23 units. The file now functions as the complete planning source-of-truth for module purpose, unit goals, Can-Do architecture, activity-purpose maps, output expectations, revision flags, and approved exceptions across the whole intermediate book.
+- Preferred behavior: treat `INT-3` as complete, use the finished structural-profile layer as the governing baseline for `INT-4`, and record any later revision tensions as planning/live issues rather than silently bypassing the profile decisions
+
+
 

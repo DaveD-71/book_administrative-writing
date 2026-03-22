@@ -554,4 +554,39 @@ Historical note:
 - Updated the active guide-set and project-memory references so the intermediate planning layer now uses the non-suffixed filename consistently
 
 
+### 2026-03-22T23:40:00+09:00 - Drafted Module 3 Into The Intermediate Structural Profiles
+
+- Added Module 3 profile coverage in:
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+- Recorded unit profiles for:
+  - Unit 8 - Writing Simple Procedures
+  - Unit 9 - Internal Notices
+  - Unit 10 - Explaining Problems Clearly
+  - Unit 11 - Writing Simple Meeting Summaries
+- Captured the current output behavior, extension-task logic, and revision flags from the live module-file source
+- Updated the to-do list priorities so `INT-3` now points to Module 4 as the next profile target
+
+
+### 2026-03-22T23:55:00+09:00 - Completed The Intermediate Structural-Profile Layer Through Module 6
+
+- Added the remaining profile coverage in:
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+- Recorded Module 4 unit profiles for:
+  - Unit 12 - Writing Simple External Inquiries
+  - Unit 13 - Providing Simple Explanations
+  - Unit 14 - Responding to Confusion
+  - Unit 15 - Maintaining Consistent Email Style
+- Recorded Module 5 unit profiles for:
+  - Unit 16 - Editing for Accuracy
+  - Unit 17 - Editing for Clarity
+  - Unit 18 - Editing for Tone
+- Recorded Module 6 unit profiles for:
+  - Unit 19 - Integrated Task 1: Combined Email + Internal Explanation
+  - Unit 20 - Integrated Task 2: Revision + Notice Writing
+  - Unit 21 - Writing for Consistency Across a Team
+  - Unit 22 - Multi-Document Communication Task
+  - Unit 23 - Portfolio Writing and Final Revision
+- Closed `INT-3` in the to-do list and updated the control layer so `INT-4` is now the next active stage
+
+
 
