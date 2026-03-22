@@ -419,4 +419,18 @@ Historical note:
   - `int/edits & guides/planning/guide-set` as the authoritative current control layer
 
 
+### 2026-03-22T20:05:00+09:00 - Resolved The Unit 23 Full-Review Rubric Drift
+
+- Updated the learner-facing Unit 23 rubric in:
+  - `adv/md/n10/aw-adv_mod6_n10.md`
+- Updated the companion teacher rubric in:
+  - `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
+- Added a shared criterion-to-unit teaching map so each capstone criterion now points students and teachers back to the earlier units that teach the relevant skill
+- Kept the eight-criterion rubric architecture rather than restoring the older ten-item checklist
+- Moved word count handling to a submission reminder rather than treating it as a core analytic criterion
+- Updated the Unit 23 structural-profile entry so the planning layer now matches the live rubric design:
+  - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
+- Added a resolution note to the Round 1 full-review findings file to mark the Unit 23 planning/live mismatch as addressed
+
+
 

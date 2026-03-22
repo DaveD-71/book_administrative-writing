@@ -17,6 +17,32 @@ It is aligned with the learner-facing rubric in Unit 23 (`adv/md/n10/aw-adv_mod6
 - Reward fitness for purpose, not conformity to one fixed template.
 - A strong response should show cumulative control across the book's major skill strands: task fulfillment, source handling, synthesis, judgment, action logic, tone, structure, and language precision.
 
+## Where To Send Students For Review
+
+Each criterion below points back to taught skills in earlier units. When a student shows a weakness in one criterion, direct them to the linked units before or during revision.
+
+| Criterion | Review units | What those units teach |
+|---|---|---|
+| Task Fulfillment | Units 4, 14, 17, 21, 22 | fit format to purpose, audience, and document type |
+| Source Coverage | Units 11, 18, 21, 22 | use all source inputs accurately and completely |
+| Synthesis | Units 11, 18, 21 | group information thematically instead of listing source by source |
+| Issue Analysis and Judgment | Units 13, 16, 20, 21 | identify real issues, evaluate significance, justify priorities and decisions |
+| Actions and Next Steps | Units 7, 11, 17, 21 | recommend specific actions, sequencing, deadlines, and responsibilities |
+| Audience, Tone, and Register | Units 2, 6, 12, 14, 19 | maintain diplomatic tone and adapt writing to reader and context |
+| Structure and Cohesion | Units 1, 3, 4, 17, 21 | organise information clearly and control flow, grouping, and sequencing |
+| Language Precision | Units 1, 5, 10, 13, 15, 20 | write specifically, avoid vagueness, and use controlled professional phrasing |
+
+## Note On The Earlier Ten-Item Version
+
+The earlier Unit 23 self-edit table used ten narrower checklist-style items. In the current rubric:
+
+- old `document format is appropriate` is now part of `Task Fulfillment`
+- old `next steps include deadlines and responsibilities` is now part of `Actions and Next Steps`
+- old `no vague, informal, or emotional language` is now split across `Audience, Tone, and Register` and `Language Precision`
+- old `word count is within range` is no longer treated as an analytic criterion and should be handled as a submission requirement
+
+This keeps the current eight-part rubric aligned with the skills taught across the book while making the criterion architecture clearer and more usable for both learners and teachers.
+
 ## Analytic Rubric
 
 | Criterion | Strong | Developing | Needs work | Evidence prompt |

@@ -324,4 +324,13 @@ Historical note:
 - Preferred behavior: treat the committed planning structure as the live baseline for future advanced and intermediate planning work, and use follow-up commits only for concrete new findings or intentional template refinements
 
 
+### 2026-03-22T20:05:00+09:00 - Unit 23 Capstone Rubric Now Points Students Back To Taught Units
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: resolving the first recorded full-review issue in the advanced book
+- Observation: Unit 23 now keeps the eight-criterion capstone rubric, but each criterion is explicitly linked back to earlier units that teach the relevant skill. The learner-facing rubric in `adv/md/n10/aw-adv_mod6_n10.md` and the companion rubric in `adv/md/n10/aw-adv_unit23_capstone_rubric.md` now both include the same criterion-to-unit teaching map. Word count remains a submission requirement, not a standalone analytic criterion.
+- Preferred behavior: treat the eight-criterion rubric pair as the authoritative Unit 23 assessment model, and use the linked units as the required retrieval path when students or teachers diagnose a weak capstone criterion
+
+
 

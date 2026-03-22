@@ -36,6 +36,11 @@
 **Recommended action:**
 - Update the Unit 23 `F3` row and related content-flag note in the structural profiles so they match the current eight-criterion rubric architecture used in the live source and companion rubric.
 
+**Resolution note (2026-03-22):**
+- Completed in the live source and planning layer.
+- Unit 23 now keeps the eight-criterion rubric architecture and adds direct unit references so each capstone criterion points back to taught skill coverage in earlier units.
+- The structural profiles now match the live eight-criterion rubric design.
+
 ---
 
 ### 2. Unit 18 `D2` depends on the learner preserving their earlier `B6` paragraph, but the carry-forward requirement is implicit rather than instructed where the paragraph is first written

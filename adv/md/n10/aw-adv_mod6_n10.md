@@ -1356,6 +1356,21 @@ Your document must:
 
 > **Rubric note:** These categories reflect the book's major skill strands: meeting the brief, handling source material, synthesising information, showing judgment, proposing actions, controlling tone, structuring ideas, and writing precisely. Use the rubric to diagnose how well your capstone response brings those strands together.
 
+**Where to review this skill**
+
+| Criterion | Review units | What those units teach |
+|---|---|---|
+| Task Fulfillment | Units 4, 14, 17, 21, 22 | fit format to purpose, audience, and document type |
+| Source Coverage | Units 11, 18, 21, 22 | use all source inputs accurately and completely |
+| Synthesis | Units 11, 18, 21 | group information thematically instead of listing source by source |
+| Issue Analysis and Judgment | Units 13, 16, 20, 21 | identify real issues, evaluate significance, justify priorities and decisions |
+| Actions and Next Steps | Units 7, 11, 17, 21 | recommend specific actions, sequencing, deadlines, and responsibilities |
+| Audience, Tone, and Register | Units 2, 6, 12, 14, 19 | maintain diplomatic tone and adapt writing to reader and context |
+| Structure and Cohesion | Units 1, 3, 4, 17, 21 | organise information clearly and control flow, grouping, and sequencing |
+| Language Precision | Units 1, 5, 10, 13, 15, 20 | write specifically, avoid vagueness, and use controlled professional phrasing |
+
+**Submission reminder:** Word count still matters for this capstone task. Keep your final document within the required `300-350` word range, but treat word count as a submission requirement rather than one of the core analytic skill criteria.
+
 Evaluate your capstone document against each criterion. Rate yourself: **Strong / Developing / Needs work**.
 
 | Criterion | Strong | Developing | Needs work | Your rating | Notes |
@@ -1369,7 +1384,7 @@ Evaluate your capstone document against each criterion. Rate yourself: **Strong 
 | Structure and Cohesion | Organises information clearly and makes the document easy to follow | Organisation is generally clear, but grouping or flow is uneven | Structure is hard to follow or poorly grouped | | |
 | Language Precision | Uses clear, specific, controlled language throughout | Meaning is mostly clear, but some phrasing is loose or imprecise | Vague or imprecise language weakens the document | | |
 
-Identify your two weakest criteria and revise your document to address them before submitting.
+Identify your two weakest criteria. Then look up the linked units for each weak area, review the key teaching points there, and revise your capstone document using those unit reminders rather than editing randomly.
 
 ---
 
