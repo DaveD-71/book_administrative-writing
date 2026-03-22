@@ -378,4 +378,36 @@ Historical note:
 - Preferred behavior: use `int/md/units` as the canonical split-unit source location in all current intermediate control documents, and avoid leaving active references pointed at the older flat `int/md` unit paths
 
 
+### 2026-03-22T22:20:00+09:00 - Intermediate Editing Now Uses Module Files Only
+
+- Status: `monitor`
+- Scope: project/decision
+- Context: explicit source-of-truth switch for active intermediate drafting
+- Observation: the active intermediate editing layer is now `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` together with `int/edits & guides/planning/supporting/int_writing_text_intro.md`. The split unit files in `int/md/units` and the combined draft in `int/md/aw-int-all.md` are now reference-only unless a later control decision explicitly restores them as active source files.
+- Preferred behavior: perform all future intermediate editing in the module files only, and update QA/full-review/control references to treat the module layer as the live book
+
+
+### 2026-03-22T22:35:00+09:00 - Intermediate To-Do List Now Functions As An Operational Control File
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: tightening the intermediate planning stack so it is as useful as the mature advanced control layer
+- Observation: `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` now defines the intermediate project stages with explicit scope, outputs, controlling files, current decisions, and stage-specific expectations rather than acting only as a lightweight roadmap. It now serves as the operational control file for the intermediate track.
+- Preferred behavior: use the expanded intermediate to-do list the way the advanced track uses its mature control file: as the first stop for current stage status, agreed sequence, controlling references, and non-negotiable project decisions
+
+
+### 2026-03-22T22:55:00+09:00 - Intermediate Guide-Set Stage Documents Now Match The Mature Control Standard
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: checking the rest of the intermediate planning layer for scaffold-level gaps after the to-do list was strengthened
+- Observation: the intermediate guide-set documents for development guidance, activity control, prompt policy, QA, and full review have now been upgraded from light scaffolds into operational stage-definition files. The current authoritative set is:
+  - `int/edits & guides/planning/guide-set/aw-int_development_guide.md`
+  - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+  - `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
+  - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
+  - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md`
+- Preferred behavior: treat these files as the intermediate equivalents of the mature advanced control documents, use the module files as the live source they govern, and keep future planning refinements aligned to the intermediate book's A2-B1+ identity rather than importing advanced-only architecture
+
+
 

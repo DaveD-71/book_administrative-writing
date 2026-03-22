@@ -487,4 +487,50 @@ Historical note:
 - Updated the active intermediate control files so current live-source references now point to `int/md/units`
 
 
+### 2026-03-22T22:20:00+09:00 - Switched Intermediate Active Editing To The Module Files Only
+
+- Updated the intermediate control layer so the live source set now uses:
+  - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
+  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Reclassified these as reference-only support layers unless a later control decision changes them:
+  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+  - `int/md/aw-int-all.md`
+- Updated the current intermediate source-of-truth documents accordingly:
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+  - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
+  - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md`
+  - `int/edits & guides/planning/supporting/aw-int_project_context.md`
+  - `int/edits & guides/planning/supporting/aw-int_development_plan.md`
+
+
+### 2026-03-22T22:35:00+09:00 - Expanded The Intermediate To-Do List Into A Mature Control File
+
+- Rewrote the intermediate project to-do list so it now includes:
+  - stage-level operational detail for `INT-3` to `INT-7`
+  - clearer pinned-item definitions
+  - explicit stage outputs and controlling files
+  - a key-decisions section
+  - a current-priorities section inside `INT-3`
+- Updated file:
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+- Result:
+  - the intermediate to-do list now functions more like the mature advanced control file instead of only as a high-level roadmap
+
+
+### 2026-03-22T22:55:00+09:00 - Strengthened The Remaining Intermediate Guide-Set Documents
+
+- Rebuilt the weaker intermediate planning/control files so they now function as operational equivalents of the mature advanced documents:
+  - `int/edits & guides/planning/guide-set/aw-int_development_guide.md`
+  - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+  - `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
+  - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
+  - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md`
+- Preserved the intermediate book's own identity while strengthening the control layer:
+  - live source remains the module files under `int/md/first_draft_modules`
+  - structural logic remains lower-load and non-`A-H`
+  - prompt and QA standards remain calibrated for A2-B1+ workplace learners
+- Result:
+  - the intermediate guide-set now has a mature operational scaffolding across project control, activity design, prompt design, QA, and full review rather than depending on a strong to-do list plus several thin supporting files
+
+
 
