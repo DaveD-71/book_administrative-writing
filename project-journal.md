@@ -394,7 +394,7 @@ Historical note:
   - `aw-int_project_todo_list.md`
   - `aw-int_activity_framework.md`
   - `aw-int_prompt-writing-policy.md`
-  - `aw-int_unit_structural_profiles_revised.md`
+  - `aw-int_unit_structural_profiles.md`
   - `aw-int_qa_checklist.md`
   - `aw-int_full-review_protocol.md`
 - Added supporting context files:
@@ -454,7 +454,7 @@ Historical note:
 - Marked `INT-2` complete and moved `INT-3` to in progress in:
   - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
 - Started the structural-profile build by drafting Module 1 in:
-  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles_revised.md`
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
 - Cleaned the first obvious live-source defects found during the audit:
   - duplicate example lines in Unit 1
   - a guided-practice typo and one heading-depth mismatch in Unit 3
@@ -531,6 +531,27 @@ Historical note:
   - prompt and QA standards remain calibrated for A2-B1+ workplace learners
 - Result:
   - the intermediate guide-set now has a mature operational scaffolding across project control, activity design, prompt design, QA, and full review rather than depending on a strong to-do list plus several thin supporting files
+
+
+### 2026-03-22T23:15:00+09:00 - Drafted Module 2 Into The Intermediate Structural Profiles
+
+- Added Module 2 profile coverage in:
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+- Recorded unit profiles for:
+  - Unit 4 - Email Layout and Standard Phrases
+  - Unit 5 - Requesting Clarification
+  - Unit 6 - Communicating Delays or Changes
+  - Unit 7 - Making Requests Politely
+- Captured current output expectations, revision flags, and approved exceptions from the live module-file source rather than from the older split-unit baseline
+- Updated the to-do list priorities so `INT-3` now points to Module 3 as the next profile target
+
+
+### 2026-03-22T23:25:00+09:00 - Renamed The Intermediate Structural-Profile Control File
+
+- Renamed:
+  - the intermediate structural-profile control file from the earlier suffixed filename
+  - to `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+- Updated the active guide-set and project-memory references so the intermediate planning layer now uses the non-suffixed filename consistently
 
 
 

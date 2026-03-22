@@ -410,4 +410,13 @@ Historical note:
 - Preferred behavior: treat these files as the intermediate equivalents of the mature advanced control documents, use the module files as the live source they govern, and keep future planning refinements aligned to the intermediate book's A2-B1+ identity rather than importing advanced-only architecture
 
 
+### 2026-03-22T23:25:00+09:00 - Intermediate Structural-Profile File Now Uses The Stable Non-Suffixed Name
+
+- Status: `monitor`
+- Scope: project/conventions
+- Context: tightening the intermediate planning naming layer after the profile file became the live source-of-truth for `INT-3`
+- Observation: the intermediate structural-profile control file now uses `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` as its stable name, replacing the earlier suffixed filename, and the active planning references now point to the non-suffixed name.
+- Preferred behavior: treat `aw-int_unit_structural_profiles.md` as the sole current structural-profile source-of-truth and do not recreate the `_revised` suffix in later control documents unless a genuinely separate revision artifact is intended
+
+
 

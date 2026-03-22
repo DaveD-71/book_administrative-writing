@@ -261,7 +261,7 @@ When revising the live module files:
 
 If a unit needs a major structural change, update:
 
-1. `aw-int_unit_structural_profiles_revised.md`
+1. `aw-int_unit_structural_profiles.md`
 2. the live module file
 3. any affected control note in the to-do list or review layer
 

@@ -67,7 +67,7 @@ These files are the finished content baseline for full review.
 Use these as source-of-truth control documents when needed:
 
 - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
-- `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles_revised.md`
+- `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
 - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
 - `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
 - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`

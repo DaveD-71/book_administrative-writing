@@ -32,7 +32,7 @@ Current guide-set documents:
 3. `aw-int_prompt-writing-policy.md`
    - prompt/task design standards for intermediate learners and intermediate workplace contexts
 
-4. `aw-int_unit_structural_profiles_revised.md`
+4. `aw-int_unit_structural_profiles.md`
    - planning source-of-truth for module purpose, unit goals, Can-Do statements, output expectations, and revision flags
 
 5. `aw-int_qa_checklist.md`
@@ -84,7 +84,7 @@ Use it to determine:
 
 Cross-check in this order:
 
-1. `aw-int_unit_structural_profiles_revised.md`
+1. `aw-int_unit_structural_profiles.md`
 2. `aw-int_activity_framework.md`
 3. `aw-int_prompt-writing-policy.md`
 
@@ -120,7 +120,7 @@ This guide set deliberately separates functions that should not blur together:
   - `aw-int_prompt-writing-policy.md`
 
 - `unit planning and cross-checking`
-  - `aw-int_unit_structural_profiles_revised.md`
+  - `aw-int_unit_structural_profiles.md`
 
 - `QA stage definition`
   - `aw-int_qa_checklist.md`

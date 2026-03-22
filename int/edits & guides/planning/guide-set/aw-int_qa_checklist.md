@@ -41,7 +41,7 @@ QA should identify:
 Use the following source order:
 
 1. `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
-2. `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles_revised.md`
+2. `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
 3. `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
 4. `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
 5. `int/edits & guides/planning/supporting/aw-int_project_context.md`
