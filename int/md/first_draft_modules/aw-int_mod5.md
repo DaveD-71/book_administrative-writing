@@ -1,5 +1,24 @@
 # MODULE 5. Editing & Revision Skills (Basic)
 
+## Module Guide
+
+Module 5 changes the learner role from writer to editor. The purpose is not only to find mistakes, but to understand what each revision does for the reader. In this module, you practise checking accuracy, clarity, and tone as separate editing lenses, then using them together to improve a real workplace draft.
+
+By the end of this module, you should be able to:
+
+- identify and correct common accuracy problems
+- revise vague or overloaded writing into clearer messages
+- change tone without changing the main meaning
+- explain revision choices in simple professional language
+
+Use the module support in this order:
+
+- compare the weak and strong versions first
+- read the explanation of why the revised version helps the reader
+- use the self-check before freer practice
+- complete the editing practice so you explain the revision, not only produce it
+- use the transfer extension to turn the editing skill into a repeatable workplace habit
+
 ## 16. Editing for Accuracy
 
 ### Focus
@@ -60,6 +79,25 @@ Write your corrections:
 
 - Is the punctuation clear?
 
+### Model Check: Why Accuracy Matters To The Reader
+
+Compare:
+
+- Weak: *The applicant have submit the form yesterday.*
+- Stronger: *The applicant submitted the form yesterday.*
+
+The stronger version works because the reader does not need to stop and repair the grammar mentally.
+
+**Why this works**
+
+Accuracy matters in administrative writing because errors can create:
+
+- confusion about time
+- confusion about quantity
+- confusion about responsibility
+
+Accurate writing is not only a language goal. It is also a workplace clarity goal.
+
 ### Language 1 – Common Accuracy Problems
 
 #### Verb Forms
@@ -80,6 +118,17 @@ Write your corrections:
 
 - The update will be available **after** 3 p.m.
 
+**Editing principle**
+
+When you edit for accuracy, check one error family at a time:
+
+1. verb form
+2. article / plural
+3. preposition
+4. punctuation
+
+This makes editing more reliable than trying to fix everything at once.
+
 ### Practice A – Correct the Sentences
 
 Rewrite each sentence correctly.
@@ -90,7 +139,7 @@ Rewrite each sentence correctly.
 2. *We will checking the documents.*  
    →
 
-3. *Please send me information about the new procedure.*  
+3. *Please send me informations about new procedure.*  
    →
 
 4. *The documents is complete.*  
@@ -123,6 +172,15 @@ I check the document yesterday and it have some mistake. The informations in sec
 
 **Rewrite the corrected, professional version:**
 
+### Self-Check Before Freer Practice
+
+Before editing the next texts, ask:
+
+1. Is the time clear?
+2. Are singular and plural forms correct?
+3. Are the articles and prepositions correct?
+4. Does the corrected version sound natural enough to send?
+
 ### Freer Practice – Edit Two Short Texts
 
 Choose two situations and write the **accurate, corrected version**.
@@ -137,6 +195,16 @@ D. A meeting summary with grammar errors.
 
 Keep the original meaning, but correct the language so the final version is accurate and usable.
 
+### Editing Practice: Explain The Change
+
+Choose two corrections from your work in this unit.
+
+For each one, explain:
+
+- what the original error was
+- why the corrected version is better
+- what you should check next time
+
 ### Extended Writing Task – Editing a Paragraph
 
 Rewrite this paragraph (6–7 sentences) to correct errors and improve clarity.
@@ -146,6 +214,19 @@ Treat it as a draft internal update that needs editing before your team shares i
 The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
 
 **Corrected paragraph:**
+
+### Transfer Extension: Accuracy Review Routine
+
+Write a short editing routine of `4-5` lines for yourself.
+
+For example:
+
+- first check verb forms
+- then check plural / article use
+- then check prepositions
+- then read once for punctuation
+
+Use your own wording, but make it a routine you could really use at work.
 
 ### Reflection
 
@@ -218,6 +299,24 @@ Write the problems (too vague? too long? unnecessary words?):
 - use a logical order
 
 - cut extra words that do not help the reader
+
+### Model Check: Why The Clearer Version Works
+
+Compare:
+
+- Weak: *The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.*
+- Stronger: *The review was delayed because some information is missing. A new schedule will be announced tomorrow.*
+
+The stronger version works because the reader can see the relationship between the ideas.
+
+**Why this works**
+
+Clarity editing is not only "make it shorter."  
+It is also:
+
+- remove vague words
+- show the main point earlier
+- put related ideas together
 
 ### Language 1 – Common Clarity Problems
 
@@ -293,6 +392,15 @@ The system was slow today and we couldn’t do much because of it. Also, there w
 
 **Rewrite:**
 
+### Self-Check Before Freer Practice
+
+Before revising your own texts, check:
+
+1. What is the main point?
+2. Which words are vague?
+3. Which sentence can be made shorter?
+4. Does the order help the reader follow the message?
+
 ### Freer Practice – Edit Two Texts for Clarity
 
 Choose two situations and rewrite them clearly.
@@ -308,6 +416,26 @@ D. A meeting summary with poor organisation.
 Keep the meaning, but make the final version shorter, clearer, and better organized.
 
 Write your revised texts:
+
+### Editing Practice: From Vague To Usable
+
+Rewrite this draft so it becomes clearer for an internal reader.
+
+**Original:**
+
+There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
+
+**Rewrite:**
+
+### Transfer Extension: Explain Your Revision Choice
+
+Choose one sentence you improved in this unit.
+
+Write:
+
+- the weak version
+- the stronger version
+- one line explaining why the stronger version is easier for the reader
 
 ### Extended Writing Task – Clear Paragraph Revision
 
@@ -398,6 +526,21 @@ Write the issues:
 
 - keep the original purpose
 
+### Model Check: Why The Softer Version Works
+
+Compare:
+
+- Weak: *You didn’t send the right file. Send the correct one now.*
+- Stronger: *Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
+
+The stronger version works because it:
+
+- removes blame
+- keeps the focus on the file, not the person
+- still asks clearly for the needed action
+
+Tone editing is successful when the message stays useful and becomes easier to receive.
+
 ### Language 1 – Softening Direct Language
 
 #### Direct → Polite
@@ -459,6 +602,15 @@ Emails often need polite tone markers.
 
 - Blaming language (“You didn’t…, You should have…”)
 
+**Editing principle**
+
+When revising for tone, try this order:
+
+1. remove blame
+2. restate the issue neutrally
+3. add the needed action politely
+4. keep the original purpose
+
 ### Practice B – Improve the Email Tone
 
 Rewrite each short email to improve tone.
@@ -489,6 +641,15 @@ The applicant did not follow the instructions again. This is causing problems fo
 
 **Rewrite:**
 
+### Self-Check Before Freer Practice
+
+Before revising your own emails, check:
+
+1. Did I remove blame?
+2. Does the message still say what is needed?
+3. Does the tone sound calm and professional?
+4. Would I be comfortable sending this version?
+
 ### Freer Practice – Write Two Tone-Improved Emails
 
 Choose two situations and write improved versions.
@@ -504,6 +665,28 @@ D. Clarifying a misunderstanding.
 Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication.
 
 Write your emails:
+
+### Editing Practice: Keep The Meaning, Change The Tone
+
+Rewrite this draft so it stays clear but sounds more professional.
+
+**Original:**
+
+You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
+
+**Rewrite:**
+
+### Transfer Extension: Tone Choice For Two Readers
+
+Take one message from this unit and write:
+
+1. a version for a colleague
+2. a version for an outside reader
+
+Then explain:
+
+- what changed
+- why the tone needed to change
 
 ### Extended Writing Task – Tone Revision Paragraph
 
@@ -526,3 +709,51 @@ We told the applicant many times, but they still submitted the wrong file. This 
 ### Homework
 
 Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
+
+## Module 5 Review Workshop
+
+### Key lessons to keep
+
+- Unit 16: Accuracy matters because small language errors can damage trust and force the reader to work harder.
+- Unit 17: Clarity revision helps the reader understand the point faster and reduces follow-up questions.
+- Unit 18: Tone revision changes how the reader feels about the message without changing the administrative meaning.
+
+### Revision comparison
+
+Read these two versions.
+
+**Version A**
+You did not send the correct file. This caused a problem again. We need you to fix it now.
+
+**Version B**
+The attached file does not appear to match the requested format. Could you please send the correct file today so that we can continue the review?
+
+Use the comparison to answer:
+
+1. Which version is more accurate about the problem?
+2. Which version is clearer about the required action?
+3. Which version manages tone better?
+4. What changes from Units 16-18 created the stronger result?
+
+### Module 5 editing routine
+
+Use these steps on one draft from an earlier module.
+
+1. Accuracy pass: check grammar, word choice, and basic correctness.
+2. Clarity pass: shorten heavy sentences and remove vague language.
+3. Tone pass: check whether the message sounds cooperative and professional.
+4. Final pass: confirm that the revised draft still says the same essential thing.
+
+### Module 5 transfer task
+
+Take one earlier draft from Modules 1-4 and revise it three times.
+
+- Version 1: accuracy focus
+- Version 2: clarity focus
+- Version 3: tone focus
+
+After revising, write a short reflection:
+
+- which pass changed the text most
+- which pass felt easiest
+- which pass you most need in your real work

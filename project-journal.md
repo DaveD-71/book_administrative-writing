@@ -785,4 +785,55 @@ Historical note:
 - Updated `int/edits & guides/qa/aw-int_qa_round1.md` so the four recorded issues now read as resolved rather than still open blockers
 
 
+### 2026-03-23T10:00:00+09:00 - Activated The Intermediate Support-Parity Intervention And Reclassified QA
+
+- Adopted the saved intervention file as an authoritative guide-set control document:
+  - `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md`
+- Updated the intermediate control stack so:
+  - `INT-5A | Support-Parity Intervention Stage` is now active
+  - `INT-6` is now blocked rather than in normal progress
+- Revised the guide-set control files so support-depth parity and module-volume parity are now explicit project requirements:
+  - `aw-int_project_todo_list.md`
+  - `aw-int_development_guide.md`
+  - `aw-int_activity_framework.md`
+  - `aw-int_prompt-writing-policy.md`
+  - `aw-int_unit_structural_profiles.md`
+  - `aw-int_qa_checklist.md`
+- Corrected the two remaining local Round 1 source defects while reclassifying the broader blocker:
+  - Unit 16 controlled-practice sentence now contains a clear answerable accuracy error
+  - Unit 23 now defines the fourth portfolio item consistently
+- Updated `int/edits & guides/qa/aw-int_qa_round1.md` so the local Unit 16 and Unit 23 issues now read as corrected, but the current blocker is the book-level support-parity failure recorded as `QA-B01`
+
+
+### 2026-03-23T11:15:00+09:00 - Applied The First Whole-Book INT-5A Rebuild Wave Across Modules 1 To 6
+
+- Revised all six live intermediate module files:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Added a new support layer across the book:
+  - unit-level model checks
+  - explicit why-this-works explanations
+  - self-check routines
+  - editing-practice tasks
+  - transfer extensions
+  - module guides
+  - module review workshops
+- Updated the intervention file, project-control file, and continuity QA record so they now reflect the first rebuild-wave state rather than only the pre-rebuild diagnosis
+- Verified the post-rebuild module counts:
+  - Mod 1 `4,032`
+  - Mod 2 `4,879`
+  - Mod 3 `4,388`
+  - Mod 4 `4,016`
+  - Mod 5 `3,236`
+  - Mod 6 `5,193`
+- Result:
+  - the intervention has moved from control-only activation into live source implementation
+  - `INT-5A` remains active
+  - `INT-6` remains blocked because the book still sits below the required parity band
+
+
 

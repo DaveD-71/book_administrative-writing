@@ -46,6 +46,9 @@ Do **not** use realism as an excuse for heavy scenario background, dense wording
 
 The learner should be challenged by the writing task, not by decoding the prompt.
 
+Lower level does **not** justify a thinner teaching layer.  
+The intermediate book must still explain why stronger writing choices work, not only show phrases or task formats.
+
 ---
 
 ## 3. The PAST-R Framework
@@ -62,6 +65,28 @@ Every meaningful writing task should make these elements recoverable:
 
 Not every early guided task must state all five elements explicitly.  
 But by Freer Practice, Extended Writing Task, and Homework, all five should be recoverable without guesswork.
+
+---
+
+## 3A. Explicit Teaching-Rationale Requirement
+
+Meaningful writing tasks should be supported by short explicit explanation of **why** the stronger version works.
+
+That explanation may appear in:
+
+- model/example comparison
+- language explanation
+- guided support
+- review / self-edit support
+
+At minimum, meaningful units should explain one or more of the following:
+
+- why the stronger version is easier for the reader to follow
+- why the stronger version fits the audience better
+- why the stronger version makes the task purpose clearer
+- why the stronger version is more professional, neutral, or efficient
+
+Do not rely on phrase exposure alone where the learner needs transferable decision logic.
 
 ---
 
@@ -95,6 +120,8 @@ Audience labels should also stay concrete:
 
 Do not leave the reader relationship vague when it affects tone or content choices.
 
+When the reader relationship changes the wording significantly, include a short explanation of the effect of that audience change rather than leaving the learner to infer it alone.
+
 ---
 
 ## 5. Calibration By Activity Type
@@ -110,6 +137,11 @@ The amount of support should vary by activity type.
 | Homework | Low | Transfer-oriented task with minimal but sufficient framing. |
 
 Do not let an intermediate Guided Practice become as open as an advanced freer task.
+
+Support level should also control explanation density:
+
+- Guided Practice and earlier layers should not only tell the learner what to include
+- they should also tell the learner why the structure, tone choice, or information order helps
 
 ---
 
@@ -245,6 +277,7 @@ Before finalising a meaningful writing prompt, check the following:
 - [ ] Purpose, audience, situation, type, and role are recoverable at the right level for the task
 - [ ] The wording is short, concrete, and readable for A2-B1+ learners
 - [ ] The scenario does not overload the learner with unnecessary background detail
+- [ ] The task or nearby support explains why the stronger writing choice works for the reader, purpose, tone, or document function
 - [ ] Shared task requirements are stated once at task level, not repeated inside each option
 - [ ] Choice-list options, where used, are parallel in length, detail level, and difficulty
 - [ ] The task sounds professionally real without using inflated or opaque wording

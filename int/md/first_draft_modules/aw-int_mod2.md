@@ -1,5 +1,24 @@
 # MODULE 2. Essential Email Writing for Administrative Contexts
 
+## Module Guide
+
+Module 2 turns the foundation skills from Module 1 into usable workplace email writing. The focus is not only email form, but reader guidance: the subject line, opening, request, explanation, and closing all need to help the reader understand purpose, action, and tone quickly. The units in this module work together, so you should keep comparing how message purpose changes the order, tone, and level of detail.
+
+By the end of this module, you should be able to:
+
+- organise a short professional email that is easy to scan
+- ask for clarification or action without sounding abrupt
+- explain delays or changes without creating confusion
+- choose polite request language that matches the relationship and context
+
+Use the module support actively:
+
+- compare the model versions before you draft
+- use the “why this works” notes to understand reader effect
+- check the self-edit prompts before freer writing
+- use the editing tasks to repair weak requests and unclear email structure
+- finish the transfer extension so the skill works in a new email situation
+
 ## 4. Email Layout and Standard Phrases
 
 ### Focus
@@ -71,6 +90,28 @@ Thank you,
 - Does the body give the needed detail or question?
 
 - Does the closing sound polite and professional?
+
+### Model Check: Why Email B Works Better
+
+Email B is stronger because every part has a clear job:
+
+- the subject line names the topic
+- the greeting is professional
+- the first sentence gives the reason for writing
+- the question is specific
+- the closing is polite
+
+Email A is not wrong because it is short.  
+It is weak because the reader still has to ask:
+
+- what part is unclear?
+- what document is the writer talking about?
+- who is the writer writing to?
+
+**Why this works**
+
+A professional email helps the reader act quickly.  
+The reader should understand the purpose without guessing.
 
 ### Language 1: Subject Lines
 
@@ -176,6 +217,18 @@ The first sentence must tell the reader **why you are writing**.
 
 - I would like to provide an update about…
 
+**Teaching point**
+
+The opening sentence is not only a polite beginning.  
+It tells the reader what kind of message this is:
+
+- a question
+- a confirmation
+- an update
+- a request
+
+That helps the reader prepare for the rest of the email.
+
 #### Practice – Write the Opening Sentence
 
 Write a clear opening sentence for each situation.
@@ -209,6 +262,15 @@ Write your email:
 
 - **Sign-off:**
 
+### Self-Check Before Freer Practice
+
+Before writing your own email, check:
+
+1. Can the reader understand the purpose from the subject line and first sentence?
+2. Is the question or information specific enough?
+3. Is the body short but complete?
+4. Does the closing sound professional?
+
 ### Freer Practice: Write Your Own Email
 
 Choose one situation and write one complete email.
@@ -232,6 +294,35 @@ Include:
 - a closing sentence and sign-off
 
 Write your email:
+
+### Editing Practice: Repair the Email Structure
+
+Rewrite the email so each part has a clear job.
+
+**Original:**
+
+Subject: Help
+
+Hi,
+
+I saw the file and I do not understand part of it and maybe there is also a problem with one page so please tell me what this means.
+
+Thanks.
+
+**Rewrite:**
+
+### Transfer Extension: Build Two Purpose Lines
+
+For each situation below, write:
+
+1. a clear subject line
+2. a clear opening sentence
+
+A. asking about a missing document  
+B. confirming a deadline  
+C. giving an update about a review delay
+
+This helps you separate the job of the subject line from the job of the opening sentence.
 
 ### Reflection
 
@@ -285,6 +376,21 @@ Write what you would need to know:
 - asks for one specific piece of information
 
 - stays polite and neutral
+
+### Model Check: Why a Better Clarification Question Works
+
+Compare:
+
+- Weak: *What do you mean?*
+- Stronger: *Could you clarify which version of the form we should use for applications submitted this month?*
+
+The stronger question works because it:
+
+- names the exact unclear point
+- limits the question to one topic
+- helps the reader give a useful answer
+
+The weak question may sound frustrated and gives the reader no clear starting point.
 
 ### Language 1: Useful Clarification Phrases
 
@@ -347,6 +453,14 @@ Rewrite the questions to make them specific and professional.
 - I’m not sure I understand the deadline—does it mean Friday or Monday?
 
 - Could you confirm whether the applicant needs to submit this document now or later?
+
+**Why this works**
+
+Clarification writing is easier to answer when the reader does not need to guess:
+
+- what is unclear
+- where the problem is
+- what kind of answer is needed
 
 ### Practice B – Improve the Clarity
 
@@ -425,6 +539,15 @@ Write your email:
 
 - **Sign-off:**
 
+### Self-Check Before Freer Practice
+
+Before writing your own clarification email, check:
+
+1. Did I identify one clear unclear point?
+2. Did I ask a specific question?
+3. Did I avoid blame or frustration?
+4. Could the reader answer without asking me another question first?
+
 ### Freer Practice – Write Two Clarification Emails
 
 Write **two short emails**, each 3–5 sentences, asking for clarification. Keep each email focused on **one topic only**.
@@ -450,6 +573,36 @@ Choose **two** topic options from the list below:
 - Instructions written only in abbreviations
 
 Write your emails:
+
+### Editing Practice: Fix the Clarification Problem
+
+Rewrite each message as a better clarification request.
+
+1. I don’t understand this instruction.
+   →
+
+2. The file names are confusing.
+   →
+
+3. The deadline message is different from the form.
+   →
+
+4. The supervisor said to prepare the report.
+   →
+
+### Transfer Extension: One Topic, One Email
+
+Choose one of the freer-practice topics.
+
+Write:
+
+1. one weak email that asks too many things
+2. one stronger email that asks about only one topic
+
+Then note:
+
+- what information you removed
+- why the stronger email is easier to answer
 
 ### Extended Writing Task – Clarification Summary Paragraph
 
@@ -521,6 +674,21 @@ Write what is missing:
 
 4. What happens next?
 
+### Model Check: Why a Good Update Helps the Reader
+
+Compare these two ideas:
+
+- Weak: *The review will be delayed.*
+- Stronger: *The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.*
+
+The stronger version works because the reader learns:
+
+- what changed
+- why it changed
+- what happens next
+
+That reduces uncertainty and extra follow-up questions.
+
 ### Language 1 – Useful Phrases for Delays and Changes
 
 #### Neutral Phrases
@@ -587,6 +755,17 @@ A clear update message usually follows this pattern:
 
 The review process will take longer than expected. Additional checks are required because two documents were incomplete. This delay may affect the planned schedule for the next stage. Further updates will be provided once the remaining documents are ready.
 
+**Why this works**
+
+The paragraph moves in a useful order:
+
+1. topic
+2. reason
+3. effect
+4. next step
+
+This order helps the reader understand both the situation and the practical meaning of the delay.
+
 ### Practice B – Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
@@ -634,6 +813,15 @@ Write your email:
 
 - **Sign-off:**
 
+### Self-Check Before Freer Practice
+
+Before writing your own update email, check:
+
+1. Did I state the change clearly?
+2. Did I add the reason or background if needed?
+3. Did I show the effect on the reader or schedule?
+4. Did I include a neutral next-step line?
+
 ### Freer Practice – Choose a Scenario and Write
 
 Write **two short update emails** (3–5 sentences each).
@@ -654,6 +842,34 @@ In each email, include:
 - the effect or next step
 
 Write your emails:
+
+### Editing Practice: Remove the Reader's Uncertainty
+
+Rewrite each update so the reader does not need to ask a second question.
+
+1. The meeting changed.
+   →
+
+2. We cannot finish this today.
+   →
+
+3. There was a problem with the documents.
+   →
+
+4. The system update will affect the process.
+   →
+
+### Transfer Extension: Turn an Email Update into a Report Line
+
+Choose one update message you wrote in this unit.
+
+Rewrite it as a short internal report paragraph by changing:
+
+- the audience
+- the tone
+- the final sentence
+
+Keep the same core facts, but make the new version sound like part of a report, not an email.
 
 ### Extended Writing Task – Update Summary Paragraph
 
@@ -725,6 +941,19 @@ Read each pair. Choose the request that sounds more professional.
 - add one short reason if it helps the reader
 
 - close without pressure
+
+### Model Check: Why the Polite Version Works
+
+Compare:
+
+- Weak: *Send the updated file.*
+- Stronger: *Could you please send the updated file? We need it for the next review stage.*
+
+The stronger version works because it:
+
+- sounds cooperative rather than forceful
+- tells the reader exactly what is needed
+- gives a reason that makes the request easier to understand
 
 ### Language 1 – Levels of Politeness in Requests
 
@@ -840,6 +1069,18 @@ Administrative English avoids:
 
 - at your convenience
 
+**Why this works**
+
+A polite request does not become weak.  
+It becomes easier for the reader to accept and complete.
+
+Good request writing balances:
+
+- clear action
+- enough detail
+- low pressure
+- professional tone
+
 - when available
 
 ### Practice C – Soften the Request
@@ -880,6 +1121,15 @@ Write your email:
 
 - **Sign-off:**
 
+### Self-Check Before Freer Practice
+
+Before writing your request email, check:
+
+1. Is the request clear?
+2. Is the request specific enough?
+3. Did I add a short reason if it helps?
+4. Did I avoid pressure words or commands?
+
 ### Freer Practice – Write Two Request Emails
 
 Write **two short emails** (3–5 sentences each) requesting information or action.
@@ -903,6 +1153,36 @@ In each email, include:
 - a softened closing line
 
 Write your emails:
+
+### Editing Practice: Keep the Request, Improve the Tone
+
+Rewrite each message so it keeps the same request but sounds more professional.
+
+1. Send me the corrected file today.
+   →
+
+2. Tell me the meeting time now.
+   →
+
+3. Check this and reply quickly.
+   →
+
+4. Give me the missing information.
+   →
+
+### Transfer Extension: One Need, Two Levels of Politeness
+
+Choose one request from your real work.
+
+Write:
+
+1. a safe standard version using `Could you...?`
+2. a softer version using `Would you be able to...?` or `I would appreciate it if...`
+
+Then decide:
+
+- which version is better for a colleague
+- which version is better for an outside office
 
 ### Extended Writing Task – Request Paragraph
 
@@ -931,3 +1211,59 @@ Write your paragraph:
 ### Homework
 
 Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
+
+## Module 2 Review Workshop
+
+### Key lessons to keep
+
+- Unit 4: A good email lets the reader see purpose, action, and tone from the subject line onward.
+- Unit 5: A clarification email works best when one question connects to one information need.
+- Unit 6: Delay and change messages should reduce uncertainty by naming the issue, current status, and next step clearly.
+- Unit 7: Request emails are easier to accept when the reason, action, and tone match the relationship.
+
+### Email comparison review
+
+Compare these two request openings.
+
+**Version A**
+Send the updated file today. I need it for the report.
+
+**Version B**
+Could you please send the updated file today? I need it to complete the report before the afternoon deadline.
+
+Then answer:
+
+1. Which version sounds more cooperative?
+2. Which version gives the reader a clearer reason to act?
+3. Which unit in this module best explains the change from A to B?
+4. What else would you add if the request were going to an external office instead of a colleague?
+
+### Module 2 email control checklist
+
+Use this checklist on one email from Units 4-7.
+
+- Is the subject line specific enough?
+- Does the opening sentence show the purpose early?
+- If you ask a question, is it anchored to one clear information gap?
+- If you report a delay or change, does the message state the current situation and next step?
+- If you make a request, does the reason help the reader understand why the action matters?
+- Does the closing tone fit the relationship?
+
+### Module 2 transfer task
+
+Choose one workplace situation:
+
+- you need missing information
+- you need to explain a short delay
+- you need to make a polite request to another office
+
+Write two short emails for the same situation:
+
+- one to an internal colleague
+- one to an external office
+
+After writing, add a note explaining:
+
+- what stayed the same in both emails
+- what changed because of audience
+- which module unit helped you make that decision

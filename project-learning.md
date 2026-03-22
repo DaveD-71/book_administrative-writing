@@ -545,4 +545,22 @@ Historical note:
 - Preferred behavior: continue `INT-6` using the corrected Round 1 record as the active baseline, and focus the next QA work on whether any additional whole-book findings remain before full review
 
 
+### 2026-03-23T10:00:00+09:00 - Intermediate Support-Parity Intervention Stage Now Blocks QA
+
+- Status: `monitor`
+- Scope: project/control
+- Context: control-layer correction after confirming that the intermediate book remained materially thinner than the advanced book in support depth and developed volume
+- Observation: the project now treats the saved intervention file `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` as the authoritative blocking control document. A new stage, `INT-5A | Support-Parity Intervention Stage`, is now active, and `INT-6` is blocked until the intervention rebuild is complete.
+- Preferred behavior: do not treat the first `INT-5` pass as sufficient by default; use `INT-5A` to rebuild the planning stack and the live module files to advanced-equivalent pedagogical completeness before QA resumes
+
+
+### 2026-03-23T11:15:00+09:00 - The First INT-5A Rebuild Wave Now Covers All Six Intermediate Modules But QA Remains Blocked
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: first whole-book live rebuild after activating the support-parity intervention stage
+- Observation: all six live intermediate module files now include the required missing support functions at both the unit and module levels. The new support layer includes model checks, explicit why-this-works explanations, self-check routines, editing-practice tasks, transfer extensions, module guides, and module review workshops. This materially strengthens the book's pedagogical support, but current module counts still remain below the required `80-90%` parity band, especially in Modules 4 and 6.
+- Preferred behavior: keep `INT-5A` active, continue deepening the live modules rather than resuming QA, and use the current rebuild wave as the new floor rather than as a final intervention endpoint
+
+
 

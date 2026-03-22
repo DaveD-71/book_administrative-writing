@@ -1,5 +1,24 @@
 # MODULE 3. Writing Procedures & Internal Explanations
 
+## Module Guide
+
+Module 3 develops writing that helps internal readers understand process, change, problems, and meeting outcomes. In this module, the reader often needs to do something after reading, so order and logic matter as much as grammar. The support sections in these units are designed to help you see how better organisation reduces mistakes, confusion, and extra follow-up questions.
+
+By the end of this module, you should be able to:
+
+- write a simple procedure another person can follow
+- produce an internal notice that explains change clearly
+- describe a problem in a logical order
+- summarise a meeting so the key outcomes are easy to use later
+
+Work through the module with these habits:
+
+- compare weak and strong versions before drafting
+- identify the reader problem in the weaker example
+- use the self-check before moving from guided writing to freer writing
+- complete the editing practice so you can repair structure, not only create it
+- use the transfer extension to move the skill into a new internal-writing context
+
 ## 8. Writing Simple Procedures
 
 ### Focus
@@ -69,6 +88,26 @@ Compare the two versions. Choose the clearer one.
 
 - stay consistent in format and wording
 
+### Model Check: Why Version B Works Better
+
+Version B is stronger because each step has **one clear action**.
+
+The reader can see:
+
+1. what to do first
+2. what to do next
+3. when the task is complete
+
+Version A feels less useful because one step contains too many ideas and the order is not clear.
+
+**Why this works**
+
+Procedures reduce reader error when:
+
+- the steps follow the real order
+- each step has one job
+- the format stays consistent
+
 ### Language 1 – Clear Instruction Verbs
 
 Common verbs used in procedures:
@@ -108,6 +147,11 @@ Rewrite each instruction using a **clear action verb**.
 ### Language 2 – Logical Order
 
 Procedures must follow a logical sequence.
+
+**Teaching point**
+
+If the order is wrong, even correct instructions can cause mistakes.  
+A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 
 ### Practice B – Put the Steps in Order
 
@@ -158,6 +202,15 @@ Write your procedure:
 4.
 5.
 6.
+
+### Self-Check Before Freer Practice
+
+Before writing your own procedures, check:
+
+1. Does each step begin with a clear action verb?
+2. Is one step doing only one main job?
+3. Does the order match the real task?
+4. Will the user know when the task is finished?
 
 ### Freer Practice – Write Two Procedures
 
@@ -220,6 +273,30 @@ Your manual section should explain:
 - what happens after the steps are completed
 
 Write your manual section:
+
+### Editing Practice: Repair the Procedure
+
+Rewrite this procedure so it becomes clearer and easier to follow.
+
+**Original:**
+
+1. Check the file and maybe look at the applicant number too because this is important.
+2. If everything is okay then save it, but first rename it if necessary.
+3. Send it later.
+
+**Rewrite:**
+
+### Transfer Extension: Procedure for a New User
+
+Choose one workplace task you know well.
+
+Write:
+
+1. one sentence explaining who the procedure is for
+2. a `4-5` step procedure
+3. one closing sentence explaining what happens after the task
+
+This helps you turn short instructions into a more usable manual-style section.
 
 ### Reflection
 
@@ -290,6 +367,26 @@ A temporary system error occurred this morning. Some users may have experienced 
 
 - Does the notice show what happens next?
 
+### Model Check: Why Notice B Works Better
+
+Notice B is stronger because it gives the reader a usable structure:
+
+- topic
+- issue
+- current status
+- next update
+
+Notice A feels weak because the reader still does not know:
+
+- what exactly happened
+- who is checking the problem
+- what to expect next
+
+**Why this works**
+
+A notice is useful when it reduces uncertainty.  
+The reader should be able to understand the situation without asking a second question immediately.
+
 ### Language 1 – Structure of an Internal Notice
 
 A clear internal notice usually includes:
@@ -349,6 +446,15 @@ Internal notices use **neutral, factual language**. Avoid:
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    →
 
+### Self-Check Before Freer Practice
+
+Check your notice before moving on:
+
+1. Is the topic clear?
+2. Is the language factual, not emotional?
+3. Does the message tell the reader what happens next?
+4. Is the notice short but complete?
+
 ### Practice B – Improve the Clarity
 
 Rewrite each notice so it is clearer and more professional.
@@ -396,6 +502,29 @@ D. Monthly reports will be reviewed later than usual this month.
 Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
 
 Write your notices:
+
+### Editing Practice: Strengthen the Notice
+
+Rewrite this weak internal notice as a clearer one.
+
+**Original:**
+
+Notice  
+There is a problem with the files today. Please be careful. More later.
+
+**Rewrite:**
+
+### Transfer Extension: From Notice to Bulletin
+
+Choose one short notice you wrote in this unit.
+
+Expand it into a longer bulletin-style paragraph by adding:
+
+- one background sentence
+- one impact sentence
+- one next-step sentence
+
+This shows how a short internal message can grow into a fuller internal information text.
 
 ### Extended Writing Task – Internal Bulletin Section
 
@@ -486,6 +615,24 @@ Write what information is missing:
 
 5. What is the current status?
 
+### Model Check: Why a Strong Problem Explanation Works
+
+A weak explanation usually names only the problem:
+
+- *The system isn’t working.*
+
+A stronger explanation helps the reader understand the full picture:
+
+- what was expected
+- what went wrong
+- what effect this has
+- what is happening now
+
+**Why this works**
+
+Professional readers often need to make decisions after reading the explanation.  
+They need more than the problem label; they need a usable structure.
+
 ### Language 1 – Useful Phrases
 
 #### Describing the Issue
@@ -527,6 +674,17 @@ Write what information is missing:
 - A temporary solution is being used.
 
 - Further updates will be provided.
+
+**Reader effect**
+
+These phrases help because they separate different jobs:
+
+- issue
+- cause
+- effect
+- status
+
+When these jobs are mixed together, the explanation feels vague.
 
 ### Practice A – Improve the Explanation
 
@@ -577,6 +735,15 @@ Include:
 
 Write your explanation:
 
+### Self-Check Before Freer Practice
+
+Before writing your own problem descriptions, check:
+
+1. Did I state the issue clearly?
+2. Did I add the cause if it is known?
+3. Did I explain the effect on work or schedule?
+4. Did I tell the reader the current status?
+
 ### Freer Practice – Write Two Problem Descriptions
 
 Choose two situations and write clear explanations.
@@ -592,6 +759,29 @@ D. A shared drive is not accessible this morning.
 In each explanation, include the issue, the effect, and the current status. Add the cause if it is known.
 
 Write your explanations:
+
+### Editing Practice: Repair the Problem Logic
+
+Rewrite this explanation so it is clearer and better organized.
+
+**Original:**
+
+There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
+
+**Rewrite:**
+
+### Transfer Extension: Problem Note for a Manager
+
+Choose one problem from your workplace or from an earlier unit.
+
+Write a short `5-6` sentence manager update that includes:
+
+- background
+- issue
+- effect
+- current status
+
+Keep the tone factual and neutral.
 
 ### Extended Writing Task – Report-Style Description
 
@@ -675,6 +865,21 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 
 - tells the reader what happens next
 
+### Model Check: Why Summary B Works Better
+
+Summary B is stronger because it groups the meeting content by function:
+
+- what the meeting was about
+- what issues matter
+- what happens next
+
+Summary A feels weak because it uses vague words like *many things* and *something*.
+
+**Why this works**
+
+A meeting summary is not a story of everything that happened.  
+It is a practical record for a reader who needs the important points quickly.
+
 ### Language 1 – Key Elements of a Meeting Summary
 
 A clear summary usually includes:
@@ -698,6 +903,16 @@ A clear summary usually includes:
 - The next meeting will be…
 
 - The team will…
+
+**Teaching point**
+
+If you only list discussion points, the reader may not know what matters.
+
+A stronger summary usually shows:
+
+- topic
+- decision or key point
+- next step
 
 ### Practice A – Identify the Elements
 
@@ -738,6 +953,15 @@ Write a short paragraph (4–6 sentences) summarising the meeting.
 
 Write your summary:
 
+### Self-Check Before Freer Practice
+
+Before writing your own summaries, check:
+
+1. Did I name the meeting topic?
+2. Did I include the main point or decision?
+3. Did I add one next step?
+4. Did I remove unnecessary detail?
+
 ### Freer Practice – Write Two Summaries
 
 Choose two situations and write meeting summaries.
@@ -753,6 +977,26 @@ D. Discussion about solving a system access issue.
 Include the topic, the main point or decision, and one next step in each summary.
 
 Write your summaries:
+
+### Editing Practice: Make the Summary Usable
+
+Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
+
+**Original:**
+
+We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
+
+**Rewrite:**
+
+### Transfer Extension: Summary for a Manager
+
+Choose one summary you wrote in this unit.
+
+Rewrite it for a manager by making:
+
+- the key point more direct
+- the action item clearer
+- the next step easier to see
 
 ### Extended Writing Task – Meeting Report Section
 
@@ -782,3 +1026,55 @@ Write your report section:
 ### Homework
 
 Write a summary of a real meeting you attended this week. Keep it to 5–7 sentences.
+
+## Module 3 Review Workshop
+
+### Key lessons to keep
+
+- Unit 8: A procedure succeeds when each step is visible, ordered, and easy for a new reader to follow.
+- Unit 9: A notice works when it explains the change, the reason, and the action the reader must take.
+- Unit 10: A problem explanation becomes more useful when it separates the problem, cause, effect, and current action.
+- Unit 11: A meeting summary should help future action, not simply repeat the meeting in time order.
+
+### Reader-purpose comparison
+
+Look at these two short summaries.
+
+**Version A**
+We had a meeting on Monday. Many things were discussed. The team talked about the new system, some delays, and several questions. Another meeting may be needed.
+
+**Version B**
+The team met on Monday to review the new system schedule. The main issue was a document delay from one office. We agreed to request the missing file by Wednesday. A follow-up meeting will be held only if the file does not arrive.
+
+Use the comparison to decide:
+
+1. Which version helps the reader act after reading?
+2. Which sentence in Version B gives the clearest next step?
+3. Which module unit best explains why Version B is stronger?
+4. How could you rewrite Version A so the purpose is clearer?
+
+### Module 3 self-edit routine
+
+Review one procedure, notice, problem note, or summary from this module.
+
+- Number each action or idea if order matters.
+- Check whether the reason for the message appears early enough.
+- Underline the sentence that tells the reader what happens next.
+- Remove one vague sentence and replace it with a factual one.
+- Ask: if a new staff member reads this text, will they know what to do?
+
+### Module 3 transfer task
+
+Write a short internal communication pack about one small workplace issue such as a room change, a software problem, or a meeting follow-up.
+
+Include:
+
+- a 3-4 step procedure or action list
+- a short notice or explanation paragraph
+- a 4-5 sentence summary of the outcome or next step
+
+Then write three reflection notes:
+
+- which part was hardest to organise
+- which part needed the clearest next-step sentence
+- which unit gave you the most useful support

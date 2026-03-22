@@ -38,7 +38,10 @@ Current guide-set documents:
 5. `aw-int_qa_checklist.md`
    - source-of-truth definition of the whole-book QA gate that will be used after the main revision passes
 
-6. `aw-int_full-review_protocol.md`
+6. `aw-int_Support-Parity Intervention Plan.md`
+   - blocking intervention-stage control file defining how support-depth and volume parity must be restored before QA can resume
+
+7. `aw-int_full-review_protocol.md`
    - source-of-truth definition of the post-QA full-review stage
 
 ---
@@ -71,6 +74,7 @@ Do not let the older split-unit baseline silently resume authority now that the 
 Start with:
 
 - `aw-int_project_todo_list.md`
+- `aw-int_Support-Parity Intervention Plan.md` when `INT-5A` is active
 
 Use it to determine:
 
@@ -112,6 +116,9 @@ This guide set deliberately separates functions that should not blur together:
 
 - `project status / sequencing`
   - `aw-int_project_todo_list.md`
+
+- `blocking intervention-stage authority`
+  - `aw-int_Support-Parity Intervention Plan.md`
 
 - `activity and section control`
   - `aw-int_activity_framework.md`

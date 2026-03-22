@@ -14,6 +14,8 @@
 
 The intermediate book should feel simpler, more scaffolded, and more teachable than the advanced book.
 
+That simplicity does **not** permit thinner pedagogy.
+
 That means:
 
 - the section pattern should be readable and predictable
@@ -21,9 +23,25 @@ That means:
 - explanations should be concrete and short
 - guided support should do more visible preparation work than in the advanced book
 - freer tasks should still feel like achievable workplace writing, not compressed advanced tasks
+- the final instructional result should still be as fully developed as the advanced book in support depth and editorial seriousness
 
 This framework does **not** import the advanced `A-H` coded system.  
 It governs the intermediate book through clear section functions and progression rules instead.
+
+### 1.1 Support-parity rule
+
+The intermediate book must retain lower-level readability **and** reach advanced-equivalent pedagogical completeness.
+
+That means every unit must show functional equivalents of:
+
+- teachable model/example work
+- explicit explanation of why a stronger version works
+- guided-to-freer transfer support
+- review / self-edit support
+- editing / revision support
+- transfer / extension support
+
+Do not accept a unit as complete merely because it is readable, scaffolded, and lower-level if it is still visibly thinner than the advanced book in instructional support.
 
 ---
 
@@ -91,6 +109,8 @@ Not every unit must show every label in exactly that form, but the learner shoul
 - supported production
 - more independent production
 
+In addition, the unit must visibly include the support functions named in Section 1.1, even if they are integrated into the existing intermediate section labels rather than separated as advanced-style coded sections.
+
 ---
 
 ## 4. Section Function Expectations
@@ -116,6 +136,8 @@ This layer may appear as:
 
 Its job is to make the target feature visible before the main teaching begins.
 
+It should also provide a teachable weak/strong contrast, model example, or another bounded comparison that the learner can later use in self-review.
+
 ### 4.3 Language sections
 
 Language sections should:
@@ -126,6 +148,8 @@ Language sections should:
 - prepare the next practice layer directly
 
 Intermediate language sections must explain enough for transfer, but not expand into advanced-style theory blocks.
+
+They must also include at least one explicit explanation of why the stronger writing move works for the reader, purpose, tone, or document function.
 
 ### 4.4 Practice sections
 
@@ -151,6 +175,8 @@ It should usually provide one or more of the following:
 
 If Guided Practice is too open, the unit becomes harder than intended.
 
+Guided Practice should also make the move into Freer Practice visible rather than leaving the learner to infer the transfer logic.
+
 ### 4.6 Freer Practice
 
 Freer Practice should:
@@ -160,6 +186,8 @@ Freer Practice should:
 - remain realistically achievable for A2-B1+ learners
 
 It should feel like a genuine writing task, but still narrower than the advanced book's freer tasks.
+
+Freer Practice should not be the first point in the unit where the learner is expected to discover why the target writing move works.
 
 ### 4.7 Extended Writing Task
 
@@ -173,6 +201,8 @@ Use it when:
 
 Do not add an Extended Writing Task automatically to every unit.
 
+Where homework alone is too light to carry real transfer, the unit should include a visible extension or transfer layer so the later support architecture does not collapse.
+
 ### 4.8 Reflection and Homework
 
 Reflection should help the learner notice:
@@ -183,6 +213,9 @@ Reflection should help the learner notice:
 
 Homework should extend or transfer the unit skill.  
 It should not introduce a new dominant skill family.
+
+Reflection is not a substitute for review / self-edit support.  
+Intermediate units still need a visible checking or revision function before the learner leaves the unit.
 
 ---
 
@@ -197,6 +230,8 @@ Approved variation types include:
 - units with lighter output because they function as bridge units
 - later units with integrated or multi-document tasks
 - editing-focused units where the main output is revision rather than original drafting
+
+Approved variation does **not** remove the support-parity requirement.
 
 Unapproved variation includes:
 
@@ -231,6 +266,13 @@ Outputs should be:
 - explicitly recorded in the structural profiles before normalization decisions are made
 
 Sentence-band and paragraph-band expectations are acceptable in early and mid-book units where word counts would create unnecessary rigidity.
+
+### 6.1 Volume-parity rule
+
+Readable lower-intermediate prose does not justify severe underdevelopment in module volume.
+
+During `INT-5A`, use the intervention-plan module bands as the control targets for development depth.  
+Do not increase volume through filler. Increase it through real teaching, model analysis, review support, editing support, and transfer support.
 
 ---
 

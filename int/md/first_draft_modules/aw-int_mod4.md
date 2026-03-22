@@ -1,5 +1,24 @@
 # MODULE 4. Communicating with Applicants & Foreign Offices
 
+## Module Guide
+
+Module 4 moves the book into outward-facing communication. The writing in this module must stay simple, but it also needs stronger audience control because the reader may be outside your team or may not share the same background knowledge. The unit support therefore focuses on why sequence, explanation, clarification, and consistency matter when the reader cannot easily ask for help in person.
+
+By the end of this module, you should be able to:
+
+- write a clear external inquiry that asks answerable questions
+- explain information in a way an outside or less-informed reader can follow
+- respond to confusion without sounding defensive
+- maintain one consistent email standard across repeated communication
+
+Use this module carefully:
+
+- notice how the model versions change for audience, not only for grammar
+- pay attention to the “why this works” notes about reader confidence and clarity
+- use the self-check to confirm that your message is answerable and well sequenced
+- complete the editing practice so you can repair weak audience control
+- use the transfer extension to move the unit skill into a related external or team context
+
 ## 12. Writing Simple External Inquiries
 
 ### Focus
@@ -60,6 +79,22 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 
 - asks one clear question at a time
 
+### Model Check: Why Email B Works Better
+
+Email B works better because the outside reader gets:
+
+- enough background to identify the issue
+- one clear question
+- a polite tone
+
+Email A is too short to be useful.  
+The reader still has to guess what part of the guidelines is causing the problem.
+
+**Why this works**
+
+External readers do not share all of your office context.  
+A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
+
 ### Language 1 – Structure of an External Inquiry
 
 A clear inquiry email usually includes:
@@ -102,6 +137,13 @@ A clear inquiry email usually includes:
 
 - Further information will help us complete our review.
 
+**Teaching point**
+
+An external inquiry often needs two jobs:
+
+1. show the reader why you are asking
+2. show the reader exactly what answer you need
+
 ### Practice A – Improve the Inquiry
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
@@ -139,6 +181,15 @@ Write a complete inquiry email.
 
 Write your email:
 
+### Self-Check Before Freer Practice
+
+Before writing your own external inquiries, check:
+
+1. Did I give enough background for the outside reader?
+2. Is the question specific?
+3. Did I avoid unnecessary office detail?
+4. Does the closing sound polite and professional?
+
 - **Subject:**
 
 - **Greeting:**
@@ -166,6 +217,30 @@ D. You need confirmation about the schedule for an external audit.
 Include a specific subject line, brief background, one clear question, and a polite closing in each email.
 
 Write your inquiry emails:
+
+### Editing Practice: Make the Inquiry Answerable
+
+Rewrite this inquiry so the outside reader can answer it more easily.
+
+**Original:**
+
+Subject: Question  
+Hi,  
+We do not understand this and need help. Please explain the rule.
+
+**Rewrite:**
+
+### Transfer Extension: Internal Note Before the Inquiry
+
+Choose one inquiry from this unit.
+
+Write a short internal note for your team explaining:
+
+- what is unclear
+- why an inquiry is needed
+- what answer you hope to receive
+
+This helps connect external inquiry writing to internal reporting.
 
 ### Extended Writing Task – Inquiry Paragraph
 
@@ -253,6 +328,21 @@ What is missing?
 
 - understand the effect on the work
 
+### Model Check: Why a Better Explanation Works
+
+Compare:
+
+- Weak: *The process will take longer.*
+- Stronger: *The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.*
+
+The stronger version works because it gives:
+
+- the situation
+- the reason
+- the effect
+
+The reader does not need to guess the practical meaning.
+
 ### Language 1 – Useful Phrases for Explanations
 
 #### Giving Background
@@ -278,6 +368,14 @@ What is missing?
 - In this case…
 
 - For this reason…
+
+**Why this works**
+
+Simple explanations are useful when they help the reader follow a short chain:
+
+background -> reason -> effect
+
+If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 
 ### Practice A – Improve the Explanation
 
@@ -328,6 +426,15 @@ Explain:
 
 Write your explanation:
 
+### Self-Check Before Freer Practice
+
+Before writing your own explanations, check:
+
+1. Did I give enough background?
+2. Did I explain the reason clearly?
+3. Did I show the effect on work or timing?
+4. Is the explanation neutral and easy to follow?
+
 ### Freer Practice – Write Two Explanations
 
 Choose two situations and write explanations.
@@ -343,6 +450,27 @@ D. A required field was left blank.
 Include background, the main issue, and the reason or effect in each explanation.
 
 Write your explanations:
+
+### Editing Practice: Add the Missing Link
+
+Rewrite this explanation so the reader can see both the reason and the effect.
+
+**Original:**
+
+The document cannot be accepted. There is a problem with one section. The process will change.
+
+**Rewrite:**
+
+### Transfer Extension: Explanation for Two Readers
+
+Choose one explanation from this unit.
+
+Rewrite it twice:
+
+1. for a colleague
+2. for a supervisor
+
+Keep the facts the same, but decide how much detail each reader needs.
 
 ### Extended Writing Task – Explanatory Paragraph
 
@@ -428,6 +556,25 @@ Write the point of confusion:
 
 - adds one useful detail if needed
 
+### Model Check: Why the Stronger Response Works
+
+The example response is stronger because it does three things in order:
+
+1. acknowledges the question politely
+2. gives the correct information clearly
+3. adds one detail that removes the confusion
+
+That order helps the reader feel supported instead of corrected aggressively.
+
+**Why this works**
+
+When someone is confused, the reader often needs both:
+
+- the correction
+- a calm explanation
+
+If the writer gives only the correction, the response may feel too abrupt.
+
 ### Language 1 – Useful Clarification Phrases
 
 #### Acknowledging the Confusion
@@ -453,6 +600,11 @@ Write the point of confusion:
 - In this case…
 
 - One important point is…
+
+**Transfer reminder**
+
+The response should stay focused on solving the confusion.  
+Do not turn it into a complaint about the other person's mistake.
 
 ### Practice A – Improve the Response
 
@@ -499,6 +651,15 @@ Write a response that:
 
 Write your response:
 
+### Self-Check Before Freer Practice
+
+Before writing your own responses, check:
+
+1. Did I acknowledge the confusion politely?
+2. Did I restate the correct information clearly?
+3. Did I add one useful detail?
+4. Did I avoid blame?
+
 ### Freer Practice – Write Two Responses
 
 Choose two situations and write your responses.
@@ -514,6 +675,26 @@ D. A colleague misunderstood the meeting location.
 In each response, acknowledge the confusion, state the correct information, and add one useful detail.
 
 Write your responses:
+
+### Editing Practice: Remove the Defensive Tone
+
+Rewrite this response so it becomes clearer and more professional.
+
+**Original:**
+
+You misunderstood the message. We already explained this rule before, so please read it again carefully.
+
+**Rewrite:**
+
+### Transfer Extension: Clarification for a Team Record
+
+Choose one misunderstanding from this unit.
+
+Write a short internal record explaining:
+
+- what the confusion was
+- what the correct information is
+- what staff should remember next time
 
 ### Extended Writing Task – Clarification Paragraph
 
@@ -619,6 +800,23 @@ What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 
 - closing and sign-off
 
+### Model Check: Why the Consistent Version Works
+
+The consistent version is stronger because every part supports the same professional image:
+
+- clear subject line
+- professional greeting
+- purpose sentence
+- polite question
+- simple closing
+
+Inconsistent emails slow the reader down because the format and tone change from line to line.
+
+**Why this works**
+
+Consistency helps the reader know what to expect.  
+It also helps teams sound reliable instead of random.
+
 ### Language 1 – Standard Email Elements
 
 Use standardised components to create consistency.
@@ -672,6 +870,11 @@ Emails should use:
 
 - Professional spacing and layout
 
+**Teaching point**
+
+Consistency is not only about tone.  
+It also includes layout and organization, because formatting affects readability.
+
 ### Practice B – Reformat the Email
 
 Rewrite this email with clear formatting.
@@ -694,6 +897,15 @@ Rewrite it as a short email to a colleague or team mailbox using a consistent pr
 
 **Rewrite:**
 
+### Self-Check Before Freer Practice
+
+Before writing your own consistent emails, check:
+
+1. Does the email use a standard opening?
+2. Is the purpose sentence clear?
+3. Does the body sound like the same email as the opening?
+4. Does the closing match the tone?
+
 ### Freer Practice – Write Two Consistent Emails
 
 Choose two situations and write emails using **consistent tone and structure**.
@@ -709,6 +921,28 @@ D. Sharing an update after reviewing a file.
 Make the reader clear in each email and keep the tone, layout, and sign-off consistent.
 
 Write your emails:
+
+### Editing Practice: Bring Two Drafts to One Standard
+
+Rewrite the two short messages below so they follow the same team style.
+
+1. Hi, the file is not right. Check it.
+   →
+
+2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
+   →
+
+### Transfer Extension: Mini Team Style Rule
+
+Write three style rules your team could use for similar emails.
+
+For example:
+
+- subject line pattern
+- opening style
+- closing style
+
+Then use those rules to check one email from your freer practice.
 
 ### Extended Writing Task – Email Style Guide Paragraph
 
@@ -727,3 +961,54 @@ Write your paragraph:
 ### Homework
 
 Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
+
+## Module 4 Review Workshop
+
+### Key lessons to keep
+
+- Unit 12: An inquiry helps the reader reply when the background is short, the question is specific, and the tone is respectful.
+- Unit 13: An explanation becomes easier to follow when details are grouped and connected instead of piled together.
+- Unit 14: A clarification response is stronger when it restates the point, answers it clearly, and avoids defensive language.
+- Unit 15: Consistency gives the reader confidence because repeated messages follow a stable pattern.
+
+### Audience-control comparison
+
+Study these two openings.
+
+**Version A**
+I am writing because there are some things we do not understand and we want more information about the process you explained before.
+
+**Version B**
+I am writing to ask for clarification about the document submission process described in your previous email.
+
+Now answer:
+
+1. Which version is easier to answer?
+2. Which words in Version B make the topic narrower and clearer?
+3. Which unit from this module explains why that change matters?
+4. How would you continue Version B if the reader were an applicant instead of another office?
+
+### Module 4 communication checklist
+
+Use this checklist on one text from Units 12-15.
+
+- Can the reader see the purpose in the first one or two sentences?
+- Does the message explain only the background that the reader needs?
+- Is each question or explanation point easy to answer or follow?
+- If the reader was confused before, does the response sound helpful rather than defensive?
+- Does the message follow the same style rules used elsewhere in the module?
+
+### Module 4 transfer task
+
+Create a short two-part communication set about one administrative issue such as a missing document, a confusing instruction, or an inconsistent email pattern.
+
+Write:
+
+- one outward-facing message to the person or office involved
+- one short internal explanation for your team
+
+Then add a note explaining:
+
+- how the audience changed your wording
+- how you controlled the amount of detail
+- which unit strategy you used to keep the writing consistent

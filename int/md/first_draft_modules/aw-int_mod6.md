@@ -1,5 +1,24 @@
 # MODULE 6. Capstone & Applied Administrative Writing
 
+## Module Guide
+
+Module 6 is the applied stage of the book. The units in this module ask you to manage more than one document, more than one reader, or more than one revision decision at the same time. The support in this module is therefore designed to help you keep audience, purpose, tone, and consistency under control while still writing at an intermediate level.
+
+By the end of this module, you should be able to:
+
+- produce connected documents for different readers from one scenario
+- control the differences between external, internal, and team-facing communication
+- standardise multiple drafts into one clear team style
+- review a small portfolio of writing and explain revision decisions
+
+When you use this module, do not skip the support layer:
+
+- compare the model versions before you draft
+- read the “why this works” note for audience and document control
+- use the self-check before freer or final writing
+- complete the editing practice so you separate reader needs clearly
+- use the transfer extension to show that the skill can move to a new multi-document context
+
 ## 19. Integrated Task 1: Combined Email + Internal Explanation
 
 ### Focus
@@ -52,6 +71,30 @@ Write your answers:
 
 - keep the facts the same, but change the tone and detail
 
+### Model Check: Why Two Documents Are Needed
+
+In this unit, one situation produces **two different writing jobs**.
+
+The external email and the internal explanation should not sound the same because the readers need different things.
+
+The outside reader needs:
+
+- a polite clear question
+- enough background to understand the case
+
+The internal reader needs:
+
+- a factual explanation
+- the effect on the team's work
+
+**Why this works**
+
+Good multi-document writing keeps the same facts but changes:
+
+- tone
+- detail
+- immediate purpose
+
 ### Language – Writing for Two Audiences
 
 #### External Email (Polite, Clear, Concise)
@@ -73,6 +116,10 @@ Write your answers:
 - The applicant will need to…
 
 - Further updates will follow once…
+
+**Transfer reminder**
+
+If the two texts sound almost the same, the audience control is probably too weak.
 
 ### Practice A – Rewrite for Audience & Tone
 
@@ -131,6 +178,15 @@ Include:
 
 Write your explanation:
 
+### Self-Check Before Freer Practice
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
+
 ### Freer Practice – Choose One Integrated Scenario
 
 Choose one scenario and write **both**:
@@ -148,6 +204,26 @@ C. The review team needs clarification about a new submission rule.
 Make it clear who each text is for and what that reader needs to know from the same scenario.
 
 Write your two texts:
+
+### Editing Practice: Separate The Reader Needs
+
+Rewrite the weak pair below so the external and internal texts do different jobs.
+
+**Weak external draft:** We got your message and there is a signature problem.  
+**Weak internal draft:** There is a signature problem and we got their message.
+
+**Rewrite:**
+
+### Transfer Extension: Same Fact, New Audience Pair
+
+Choose one earlier unit task.
+
+Rewrite it as:
+
+1. one external message
+2. one internal message
+
+Use the same core facts, but change the tone and detail for each audience.
 
 ### Extended Writing Task – Multi-Purpose Communication
 
@@ -242,6 +318,21 @@ Write your answers:
 
 - the audience and purpose are different
 
+### Model Check: Why Connected Documents Need Control
+
+This unit is not only about writing two texts.  
+It is about keeping one corrected fact stable across both texts.
+
+**Why this works**
+
+Revision writing becomes trustworthy when:
+
+- the corrected detail stays the same everywhere
+- the external version is polite and complete
+- the internal version is factual and efficient
+
+If the correction changes between texts, the writing may create more confusion instead of solving it.
+
 ### Language – Revision vs. Notice
 
 #### Revision Message (External Office)
@@ -271,6 +362,11 @@ Useful phrases:
 - This change affects…
 
 - Further updates will follow.
+
+**Teaching point**
+
+The external revision message repairs the relationship with the outside reader.  
+The internal notice repairs shared team understanding.
 
 ### Practice A – Rewrite for Audience & Tone
 
@@ -332,6 +428,15 @@ Include:
 
 Write your notice:
 
+### Self-Check Before Freer Practice
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
+
 ### Freer Practice – Choose One Scenario
 
 Choose one and write both texts:
@@ -349,6 +454,24 @@ C. An instruction in a previous email was unclear or incomplete.
 Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences.
 
 Write your two texts:
+
+### Editing Practice: Repair The Correction Set
+
+Rewrite this weak pair so both texts stay consistent.
+
+**Weak external draft:** The meeting date may change.  
+**Weak internal draft:** The new meeting date is 27 May.
+
+**Rewrite:**
+
+### Transfer Extension: Correction Log
+
+Write a short `3-4` line correction log for one scenario in this unit:
+
+- original incorrect detail
+- corrected detail
+- who needs the correction
+- what document each reader receives
 
 ### Extended Writing Task – Combined Communication Pack
 
@@ -439,6 +562,23 @@ Clear team standards help:
 
 - formatting basics
 
+### Model Check: Why Team Consistency Helps
+
+If one team sends very different styles of email, readers may feel:
+
+- unsure which message is correct
+- unsure how formal the communication should be
+- unsure what to do next
+
+**Why this works**
+
+Consistency helps because the reader can recognize the team's style quickly:
+
+- standard subject line
+- standard opening
+- standard body pattern
+- standard closing
+
 ### Warm-Up: Spot the Inconsistencies
 
 Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
@@ -501,6 +641,10 @@ Write the inconsistencies you notice:
 
 - Consistent subject line format
 
+**Teaching point**
+
+Team consistency is a reader-support tool, not only a style preference.
+
 ### Practice A – Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
@@ -543,6 +687,15 @@ The applicant file is strange. Please check.
 
 Rewrite all messages in a consistent style:
 
+### Self-Check Before Freer Practice
+
+Before writing your style guide or rewritten set, check:
+
+1. Do all messages sound like they come from one team?
+2. Is the tone level stable?
+3. Is the structure similar across the messages?
+4. Is the formatting predictable?
+
 ### Freer Practice – Create a Mini Style Guide
 
 Write a short (6–8 sentence) style guide for your team.
@@ -557,6 +710,15 @@ Include:
 - Common phrases to use or avoid
 
 Write your guide:
+
+### Editing Practice: Build One Standard
+
+Take one message from your guided practice and revise it again using your mini style guide.
+
+Then note:
+
+- which style rule you applied
+- how the revised version became easier to read
 
 ### Extended Writing Task – Rewrite a Set of Communications
 
@@ -646,6 +808,22 @@ Write your answers:
 
 - decide what detail level each reader needs
 
+### Model Check: Why Audience Control Matters
+
+This unit is stronger than earlier units because one situation now requires **three** reader views.
+
+That means you must control:
+
+- what stays the same
+- what changes
+
+The main fact stays the same.  
+The tone, detail, and purpose change.
+
+**Why this works**
+
+If all three texts sound the same, the communication set does not match the real workplace need.
+
 ### Language – Three Audiences, Three Styles
 
 #### (A) Applicant Reply – Polite, supportive, clear
@@ -673,6 +851,10 @@ Write your answers:
 - The applicant’s file remains incomplete.
 
 - The review will continue once the missing document is submitted.
+
+**Transfer reminder**
+
+The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 
 ### Practice A – Match Tone to Audience
 
@@ -737,6 +919,15 @@ Include:
 
 Write your notice:
 
+### Self-Check Before Freer Practice
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
+
 ### Freer Practice – Full Multi-Document Set
 
 Choose **one** of the scenarios below and write all three documents:
@@ -756,6 +947,18 @@ C. The applicant sent the correct file, but in the wrong format.
 Keep the three documents tied to the same scenario, but make the audience difference clear in each one.
 
 Write your full set:
+
+### Editing Practice: Separate The Three Voices
+
+Rewrite the short draft below into three clearer document openings.
+
+**Weak draft:** The applicant is missing one file and the team needs to know and the colleague also misunderstood the status.
+
+Write:
+
+1. applicant opening
+2. colleague opening
+3. team notice opening
 
 ### Extended Writing Task – Multi-Audience Communication Pack
 
@@ -820,7 +1023,7 @@ In this unit, your portfolio will contain:
 
 3. **One paragraph for a report** (revised and final)
 
-4. **One free-choice item** from any previous unit
+4. **One new document created in Unit 23**
 
 Your final submission should show:
 
@@ -894,6 +1097,21 @@ Before revising your drafts, check for:
 
 4. check formatting and consistency
 
+### Model Check: Why Portfolio Revision Matters
+
+A portfolio is not only a collection of old drafts.  
+It should show that you can:
+
+- notice problems
+- improve a draft
+- choose the right tone and structure
+- produce a final usable version
+
+**Why this works**
+
+Revision shows professional control.  
+A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
+
 ### Practice A – Edit a Draft Email
 
 Choose **one email** from your previous work.
@@ -920,6 +1138,15 @@ Rewrite it clearly and professionally. Choose one short text with a clear intern
 **Original message:**
 
 **Revised message:**
+
+### Self-Check Before Final Submission
+
+Before you submit your portfolio, ask:
+
+1. Does each document match its reader and purpose?
+2. Did I improve accuracy, clarity, and tone?
+3. Are the final versions consistent in formatting and style?
+4. Does the new Unit 23 document fit the rest of the portfolio?
 
 ### Guided Practice – Create a New Document
 
@@ -979,6 +1206,26 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 
 Your teacher or reviewer can use a companion marking note aligned to this rubric.
 
+### Editing Practice: Explain One Revision Decision
+
+Choose one document from your portfolio.
+
+Write:
+
+- one problem in the original draft
+- how you revised it
+- why the new version works better for the reader
+
+### Transfer Extension: Next-Time Writing Plan
+
+Write a short plan for future workplace writing.
+
+Include:
+
+- one strength you want to keep using
+- one editing habit you want to remember
+- one area you still want to improve
+
 ### Reflection
 
 1. Which portfolio item improved the most after revision?  
@@ -990,3 +1237,60 @@ Your teacher or reviewer can use a companion marking note aligned to this rubric
 ### Homework (Final Course Task)
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+## Module 6 Review Workshop
+
+### Key lessons to keep
+
+- Unit 19: One situation may require two documents because different readers need different kinds of help.
+- Unit 20: A revision message and an internal notice can come from the same event, but they do different jobs.
+- Unit 21: Team consistency matters because the reader experiences the office as one organisation, not as separate writers.
+- Unit 22: Multi-document communication works only when each audience receives the right level of detail and tone.
+- Unit 23: Portfolio review turns revision into a deliberate habit instead of a last-minute correction.
+
+### Multi-document comparison
+
+Look at these two responses to the same situation: an applicant submitted the wrong form and the team needs to react.
+
+**Version A**
+Please send the correct form. We also need to tell the team there is a delay. Everyone should know there is a problem.
+
+**Version B**
+External message: Thank you for your submission. We noticed that the attached form is not the required version. Could you please send the updated form by Thursday?  
+Internal note: The file submitted today does not match the required template. Please pause the next review step until the corrected form arrives.
+
+Use the comparison to answer:
+
+1. Why is Version B more usable than Version A?
+2. Which sentence in Version B best shows audience control?
+3. Which unit from this module helps most with the external message?
+4. Which unit helps most with the internal note?
+5. Where would you apply Module 5 editing habits before final submission?
+
+### Module 6 final self-edit routine
+
+Before you finish the course, use this routine on one integrated task set.
+
+- Check each document separately for purpose, reader, and next action.
+- Compare the tone across the documents and confirm that each one fits its audience.
+- Check whether facts stay consistent when the audience changes.
+- Remove one sentence that belongs in a different document.
+- Add one sentence that makes the next step clearer.
+- Use the portfolio rubric to identify the weakest criterion and revise once more.
+
+### Module 6 transfer task
+
+Create a final mini communication pack about one realistic workplace situation such as a missing applicant document, a schedule change, or a correction to earlier information.
+
+Include:
+
+- one external-facing message
+- one internal explanation or notice
+- one short note explaining the revision choices you made
+
+After writing, complete these reflection prompts:
+
+- what changed most across the audiences
+- which document was hardest to control
+- which earlier unit from the whole book you needed most
+- what editing habit you want to keep using after the course

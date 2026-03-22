@@ -20,9 +20,11 @@ The QA gate checks the completed intermediate book against the agreed standards 
 - prompt and task design
 - consistency and cohesion
 - model text and example quality
+- support-depth parity against the advanced book
 - structural-profile compliance
 - activity and section fidelity
 - progression across units and modules
+- module-volume parity
 - self-study accessibility
 - answer-key supportability
 - formatting and production readiness
@@ -107,6 +109,7 @@ Before beginning the module-by-module pass, complete the following:
    - later answer-key work
    - regeneration of the combined draft
 4. Note any approved structural exceptions already recorded in the structural profiles so they are not misread as accidental drift during QA.
+5. Confirm whether project control still allows active QA or whether a blocking intervention stage is now in force.
 
 These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
 
@@ -236,6 +239,12 @@ If the failure is:
 - [ ] The learner can reasonably move from explanation to production without a hidden gap
 - [ ] Reflection and homework layers extend the same skill family rather than introducing a new dominant demand
 
+### 5C.5 Support-depth parity
+
+- [ ] The unit does not stop at phrase exposure or short procedural advice where advanced-equivalent support would require transferable explanation
+- [ ] The unit includes visible support equivalents for model/example work, explicit rationale, review/self-edit, editing/revision, and transfer/extension
+- [ ] Lower level is achieved through readability and scaffolding, not through thinner pedagogy
+
 ## 5D. Prompt And Task Design
 
 ### 5D.1 Learning-goal pressure
@@ -351,6 +360,12 @@ If the failure is:
 - [ ] Module 6 complexity is earned by the earlier book, not imported suddenly
 - [ ] Sentence-band, paragraph-band, email-task, and integrated-task progression still matches the structural-profile logic
 
+### 5I.3 Module-volume parity
+
+- [ ] Module development depth is no longer severely below the advanced benchmark
+- [ ] Module length is consistent with the current parity band recorded in the intervention plan unless an approved exception is recorded
+- [ ] Added volume comes from real support architecture rather than filler explanation
+
 ## 5J. Self-Study Accessibility
 
 ### 5J.1 Independent usability
@@ -418,8 +433,12 @@ Before treating intermediate QA as complete, answer:
 - [ ] Are all `Revise` findings concrete, local, and fixable without reopening the planning architecture?
 - [ ] Have all `Deferred` items been explicitly named so they do not disappear between stages?
 - [ ] Is there any structural, pedagogical, or learner-suitability issue significant enough to block full review?
+- [ ] Is the book still materially thinner than the advanced book in support depth or development volume?
 
 If the answer to the last question is `Yes`, QA is not complete.
+
+Book-level support-parity failure is a blocker even when local unit-level issues also exist.  
+Do not reduce a systemic parity problem to only a list of local `Revise` items.
 
 ---
 
@@ -438,15 +457,17 @@ Use the following structure when recording module or unit findings:
 
 ---
 
-## 8. Immediate INT-6 Priorities
+## 8. QA Re-entry Priorities After INT-5A
 
-Prioritise the first book-wide pass on:
+QA is currently blocked while `INT-5A` is active.
 
-1. confirming that the completed `INT-4` and `INT-5` passes did not create planning/live drift
-2. confirming that support and calibration remain appropriate for A2-B1+ workplace learners
-3. confirming that the live module files still match the structural profiles and activity framework
+When QA restarts, prioritise the first book-wide pass on:
+
+1. confirming that the completed intervention rebuild did not create planning/live drift
+2. confirming that support-depth parity and module-volume parity now meet the corrected standard
+3. confirming that the live module files still match the structural profiles, activity framework, and prompt policy after intervention-stage revision
 4. identifying any remaining workload, self-study, or answer-key-supportability issues before full review
-5. keeping deferred Unit 23 rubric work visible rather than letting it disappear between stages
+5. keeping deferred later-stage items visible rather than letting them disappear between stages
 
 ---
 

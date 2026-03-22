@@ -26,7 +26,8 @@ Update status as work progresses. Treat the detail fields as operational control
 | INT-3 | Build revised structural profiles | Complete all 23 unit profiles in `aw-int_unit_structural_profiles.md`. For each unit, record: module purpose, unit learning goal, 3 to 4 learner-facing Can-Do statements, activity-purpose map, current output expectations, revision flags, and approved exceptions. Build from the live module files rather than from the advanced book or the old split-unit baseline. | Done |
 | INT-4 | Run whole-book draft revision pass | Revise the live module files only against the completed planning stack. For each module, align unit structure, task sequencing, prompts, output expectations, and scenario spread with the structural profiles, activity framework, and prompt-writing policy. Do not continue active editing in the split unit files unless a later control decision explicitly reopens them as the live source. | Done |
 | INT-5 | Run language-instruction strengthening pass | After the structural revision pass, sharpen actual teaching inside the module files. Add or improve concise conceptual framing, model-text explanation, and guided support where the book still relies too heavily on exposure, phrase lists, or implicit noticing. Keep the teaching lighter and more explicit than the advanced book rather than importing advanced pedagogical density directly. | Done |
-| INT-6 | Run whole-book QA gate | Execute the dedicated QA stage after INT-4 and INT-5 are complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, and pinned-item confirmation. | In Progress |
+| INT-5A | Run support-parity intervention stage | Execute the blocking intervention defined in `aw-int_Support-Parity Intervention Plan.md`. Revise the control layer and the six live module files until the intermediate book reaches advanced-equivalent support depth, development completeness, and the required `80-90%` module-volume parity band while remaining readable for A2-B1+ learners. | In Progress |
+| INT-6 | Run whole-book QA gate | Execute the dedicated QA stage only after `INT-5A` is complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, pinned-item confirmation, support-depth parity, and module-volume parity. | Blocked |
 | INT-7 | Run full review | Conduct a post-QA whole-book editorial review using `aw-int_full-review_protocol.md` as the stage definition. Record findings by round outside the planning folder, keep full-review findings distinct from QA findings, and do not proceed to answer-key work until the live module set is stable enough for final support materials. | Pending |
 
 ---
@@ -53,15 +54,17 @@ The agreed order for completing the intermediate book is:
 2. `INT-3` revised structural profiles
 3. `INT-4` whole-book draft revision pass
 4. `INT-5` language-instruction strengthening pass
-5. pinned capstone / rubric follow-through
-6. `INT-6` whole-book QA gate
-7. `INT-7` full review
-8. `P3` answer key / sample responses
-9. `P4` regenerate combined draft
+5. `INT-5A` support-parity intervention stage
+6. pinned capstone / rubric follow-through that remains valid after the intervention rebuild
+7. `INT-6` whole-book QA gate
+8. `INT-7` full review
+9. `P3` answer key / sample responses
+10. `P4` regenerate combined draft
 
 Current active point in that sequence:
 
-- `INT-6` is in progress
+- `INT-5A` is in progress
+- `INT-6` is blocked until the intervention stage is complete
 
 ---
 
@@ -73,6 +76,7 @@ Current active point in that sequence:
 | Structural profiles | `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` |
 | Activity / section control | `int/edits & guides/planning/guide-set/aw-int_activity_framework.md` |
 | Prompt / task control | `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` |
+| Support-parity intervention | `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` |
 | QA stage definition | `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` |
 | Full-review stage definition | `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` |
 | Live editing source | `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` |
@@ -97,19 +101,27 @@ Current active point in that sequence:
 | Output-control baseline | record and preserve the current sentence-band scaffolding before deciding later where word-range normalization is appropriate |
 | Module structure | 23 units across 6 modules with a `3 + 4 + 4 + 4 + 3 + 5` distribution |
 | Late-book complexity | later integrated units may be more complex, but that complexity must be prepared by earlier units and remain readable |
+| Support parity | lower level does not justify thinner pedagogy; the intermediate book must reach advanced-equivalent support depth and development completeness |
+| Volume parity | intermediate modules must reach the `80-90%` parity band recorded in `aw-int_Support-Parity Intervention Plan.md` unless an explicit approved exception is recorded |
 
 ---
 
-## REFERENCE — Current Priorities Inside INT-6
+## REFERENCE — Current Priorities Inside INT-5A
 
 The immediate revision priorities are:
 
-1. continue the module-by-module QA review after the corrected Round 1 issue set
-2. confirm that the Unit 5 and Unit 8 fixes did not create a new planning/live mismatch
-3. use `int/edits & guides/qa/aw-int_qa_round1.md` as the active findings record and add later QA evidence there or in a Round 2 file if needed
-4. identify any remaining learner-level overload, support gaps, or self-study usability issues before full review
-5. keep the still-deferred later-stage items visible: answer key, combined-draft regeneration, and Word-formatting work
-6. decide whether the book can clear `INT-6` after the ongoing QA pass or whether a second QA round will be required
+1. treat `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` as the blocking source of truth for the current stage
+2. revise the planning stack so support-depth parity and module-volume parity are binding rather than implied
+3. continue the live rebuild beyond the first whole-book support wave, with the heaviest remaining expansion focus on Modules 4 and 6, then Modules 3 and 5
+4. keep the first rebuild-wave gains stable:
+   - explicit model/example support
+   - why-this-works teaching notes
+   - self-check routines
+   - editing-practice routines
+   - module guides and module review workshops
+5. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
+6. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
+7. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
 
 ---
 

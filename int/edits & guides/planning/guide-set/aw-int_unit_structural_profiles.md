@@ -16,6 +16,8 @@ This file is now established as the authoritative location for the revised inter
 
 Profile drafting has now been completed from the live intermediate source set after the Round 1 baseline audit.
 
+After activation of `INT-5A`, this file is also the source of truth for the support-depth rebuild overlay that must bring the intermediate book up to advanced-equivalent pedagogical completeness.
+
 Current drafting state:
 
 - Module 1 profiles are now recorded below
@@ -39,6 +41,12 @@ Each unit profile should include:
 5. output-length expectation
 6. content flags for revision
 7. any approved exception from the standard intermediate structure
+8. model/example support expectation
+9. explicit teaching-rationale expectation
+10. review / self-edit support expectation
+11. editing / revision support expectation
+12. transfer / extension support expectation
+13. current vs target development-depth note where the intervention stage is still in progress
 
 ---
 
@@ -53,12 +61,32 @@ Use the completed profiles to control:
 - integrated-task preparation in later units
 - capstone/portfolio assessment logic
 - self-study usability
+- support-depth parity against the advanced book
+- module-volume parity against the intervention-plan bands
 
 ---
 
 ## Working Note
 
 This file is intentionally a seeded control document rather than a guessed 23-unit table. The profile content should be built from the live intermediate source set and the baseline audit rather than inferred from the advanced book.
+
+During `INT-5A`, do not treat the current completed profile set as fully sufficient by itself.  
+It remains structurally complete, but it must now be extended and interpreted through the support-parity intervention requirements rather than through structure and output logic alone.
+
+---
+
+## INT-5A Support-Depth Overlay
+
+For the duration of the intervention stage, every unit profile below must be read with the following added control questions:
+
+1. What teachable model/example contrast will this unit use?
+2. Where will the unit explicitly explain why the stronger writing choice works?
+3. Where will the unit provide review / self-edit support?
+4. Where will the unit provide editing / revision support?
+5. Where will the unit provide transfer / extension support?
+6. Does the rebuilt unit contribute meaningfully to the module's required volume-parity band?
+
+Until those questions have been answered in the live source and checked here where needed, the profile set remains intervention-incomplete.
 
 ---
 

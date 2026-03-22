@@ -1,5 +1,23 @@
 # MODULE 1. Foundations of Clear Administrative Writing
 
+## Module Guide
+
+Module 1 builds the first control layer for the whole book. The goal is not only to write simple English, but to write English that is easy for a workplace reader to process quickly. Each unit therefore asks you to notice the difference between a weaker version and a stronger version, explain why the stronger version helps the reader, and revise your own writing before moving on.
+
+By the end of this module, you should be able to:
+
+- write short sentences with a clear main message
+- choose tone that sounds polite and professional
+- organise one paragraph so the reader can follow the idea from start to finish
+
+Use this module in the same way each time:
+
+- read the model comparison and notice what changed
+- underline the explanation about why the stronger version works
+- complete the self-check before freer practice
+- use the editing practice to repair common reader problems
+- finish the transfer extension so the skill moves beyond one exercise type
+
 ## 1. Clear Sentence Structure
 
 ### Focus
@@ -40,6 +58,30 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 - Put the most important information in the main sentence, not in a long extra phrase.
 
 - Remove words that do not change the meaning.
+
+### Model Check: Why the Stronger Sentence Works
+
+Look again at the three pairs in the warm-up.
+
+The clearer sentence usually improves one or more of these points:
+
+- the **main subject** appears earlier
+- the **main action** is expressed by a simple verb
+- extra information is kept shorter
+- the reader can understand the message in one reading
+
+Compare Pair 2 again:
+
+- Weak: *It is requested that you will kindly send, as soon as it is convenient, the missing form.*
+- Stronger: *Please send the missing form as soon as possible.*
+
+The stronger version works because the reader can see the action immediately:
+
+1. **send**
+2. **the missing form**
+3. **as soon as possible**
+
+The weaker version makes the reader wait too long before the real action appears.
 
 ### Language 1: Basic Sentence Pattern (S–V–O / S–V–C)
 
@@ -105,6 +147,19 @@ Three common ways to simplify a sentence:
 
 3. move the main action closer to the subject
 
+**Why this works**
+
+Administrative readers often need to understand:
+
+- what happened
+- what is needed
+- what happens next
+
+They should not have to search through a long sentence to find the main point.
+
+When you simplify a sentence, you are not making it "less professional."  
+You are making it **more useful** for the reader.
+
 #### Simplify the Sentence
 
 Rewrite each sentence in a clearer, shorter way.
@@ -137,6 +192,17 @@ Rewrite each sentence so that it is easier to read.
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
    →
 
+### Self-Check Before Freer Practice
+
+Before you write your own message, check each sentence with these questions:
+
+1. Can the reader find the subject quickly?
+2. Can the reader find the main verb quickly?
+3. Is there one main message in the sentence?
+4. Can I replace a long phrase with a shorter one?
+
+If the answer to one of these is `No`, rewrite the sentence before you continue.
+
 ### Freer Practice: Write Clear Administrative Sentences
 
 Write a short message to the applicant in **3–4 clear sentences**.
@@ -156,6 +222,36 @@ Include:
 3.
 4.
 
+### Editing Practice: Fix the Reader Problem
+
+Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
+
+1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
+   →
+
+2. It has been explained by the supervisor that a new review step will be necessary for the application.
+   →
+
+3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
+   →
+
+4. We are writing for the purpose of asking you to send the correct version of the attached file.
+   →
+
+### Transfer Extension: Turn Sentences into a Mini Message
+
+Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
+
+A. A form is missing one page.  
+B. A meeting time has changed.  
+C. A file needs to be checked again.
+
+For each situation:
+
+- sentence 1 = state the main issue
+- sentence 2 = state the next important fact
+- sentence 3-4 = turn the two clear sentences into a short professional message
+
 ### Reflection
 
 1. What was difficult for you in this unit?
@@ -163,6 +259,16 @@ Include:
 2. Which point do you want to remember when you write emails at work?
 
 3. Choose one clear sentence you wrote today and rewrite it here.
+
+**Final self-edit**
+
+Circle the sentence in your work that is easiest to read.
+
+Then answer:
+
+- Why is that sentence clear?
+- What did you remove or simplify?
+- What will you do again next time?
 
 ### Homework
 
@@ -206,6 +312,22 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 - explains the situation clearly
 
 - focuses on the task, not on blame or emotion
+
+### Model Check: Why the Stronger Tone Works
+
+Look again at this pair:
+
+- Weak: *I don’t understand this. Explain it.*
+- Stronger: *I’m not sure I understand this part. Could you explain it?*
+
+The stronger version works because it:
+
+- reduces pressure on the reader
+- sounds cooperative, not demanding
+- keeps the focus on the task, not on blame
+
+Professional tone does not mean "very formal words only."  
+It means the reader can cooperate without feeling attacked.
 
 ### Language 1: Polite Request Phrases
 
@@ -256,6 +378,18 @@ When you check tone, ask:
 2. Does it tell the reader what they need to know?
 
 3. Would I be comfortable sending this at work?
+
+**Why this works**
+
+A professional message helps the reader do the next step calmly.
+
+If a message sounds too direct, the reader may focus on the tone instead of the task.
+
+If a message sounds calm and clear, the reader can focus on:
+
+- what is needed
+- what needs clarification
+- what happens next
 
 #### Change the Tone
 
@@ -311,6 +445,17 @@ Rewrite the email to make it more polite and professional.
 
 **Rewrite here:**
 
+### Self-Check Before Freer Practice
+
+Before writing your own email, check:
+
+1. Did I greet the reader politely?
+2. Did I explain my purpose clearly?
+3. Did I use one polite request or clarification phrase?
+4. Does the message sound calm and professional?
+
+If one answer is `No`, improve the draft before moving on.
+
 ### Freer Practice: Write Your Own Professional Email
 
 Choose one situation and write a short professional email in **3–4 sentences**.
@@ -329,6 +474,37 @@ Include:
 
 - a professional closing line
 
+### Editing Practice: Remove the Tone Problem
+
+Rewrite each line so it keeps the same purpose but sounds more professional.
+
+1. You sent the wrong file again.
+   →
+
+2. Tell me what happened.
+   →
+
+3. Why didn’t you check this before?
+   →
+
+4. Send the update today.
+   →
+
+### Transfer Extension: Same Message, Better Relationship
+
+Choose one of your real workplace situations.
+
+Write:
+
+1. a direct version you should **not** send
+2. a professional version you **could** send
+
+Then note:
+
+- what changed
+- why the professional version is better for the reader
+- which phrase from today you used
+
 ### Reflection
 
 1. Which polite expression do you want to remember?
@@ -336,6 +512,15 @@ Include:
 2. What tone problems do you want to avoid in your emails?
 
 3. Write one example of a polite request you can use at work.
+
+**Final self-edit**
+
+Underline the most professional sentence in your freer-practice email.
+
+Then explain in one line:
+
+- why it sounds professional
+- what makes it polite but still clear
 
 ### Homework
 
@@ -422,6 +607,29 @@ We reviewed the updated guidelines yesterday. The office renovation will begin n
 
 **Discussion:** Why is Paragraph A better?
 
+### Model Check: Why the Stronger Paragraph Works
+
+Paragraph A is stronger because all sentences support **one main topic**: the review of the guidelines.
+
+Paragraph B is weaker because the reader has to jump between different topics:
+
+- guidelines
+- office renovation
+- unclear sections
+- training session
+
+That makes the paragraph feel like a list, not a piece of organized writing.
+
+**Why this works**
+
+A good paragraph helps the reader move through one idea step by step.
+
+In administrative writing, this matters because the reader often needs to know:
+
+1. what the topic is
+2. what details matter
+3. what the result or next point is
+
 ### Language 1: Three-Part Structure
 
 A strong paragraph usually includes:
@@ -492,6 +700,17 @@ Before you write, make a short paragraph plan:
 
 3. How will I close the paragraph?
 
+**Transfer reminder**
+
+Do not add every fact you know.
+
+Choose the facts that belong to the same paragraph job:
+
+- explaining a problem
+- giving background
+- summarising a result
+- preparing the next section
+
 ### Practice B – Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
@@ -519,6 +738,15 @@ Rewrite this paragraph so it has a clear **topic → support → closing** struc
 
 **Rewrite here:**
 
+### Self-Check Before Freer Practice
+
+Check your paragraph before moving on:
+
+- Does the first sentence show the topic clearly?
+- Do the middle sentences stay on the same idea?
+- Does the final sentence close the paragraph or lead forward?
+- Did I avoid mixing unrelated topics?
+
 ### Freer Practice – Write a Full Paragraph
 
 Write **one administrative paragraph** (5–7 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
@@ -531,6 +759,28 @@ C. Your office recently changed one internal rule, and you need to explain the c
 
 Write your paragraph:
 
+### Editing Practice: Repair the Paragraph Logic
+
+The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
+
+**Original:**
+
+The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
+
+**Rewrite:**
+
+### Transfer Extension: Build a Report Paragraph
+
+Choose one earlier task from Unit 1 or Unit 2.
+
+Turn it into a short paragraph for a report or internal summary by adding:
+
+- one topic sentence
+- two supporting sentences
+- one closing sentence
+
+This helps you see the link between sentence control, tone control, and paragraph structure.
+
 ### Reflection
 
 1. What is one thing you learned about paragraph structure?  
@@ -539,6 +789,67 @@ Write your paragraph:
 
 3. Which part (topic, support, closing) do you find most difficult?
 
+**Final self-edit**
+
+Mark your paragraph:
+
+- `T` topic
+- `S` support
+- `C` closing
+
+If one part is missing, revise the paragraph once more before leaving the unit.
+
 ### Homework
 
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
+
+## Module 1 Review Workshop
+
+### Key lessons to keep
+
+- Unit 1: A clear sentence usually carries one main message, with a visible subject, a controlled verb, and no unnecessary detours.
+- Unit 2: Professional tone is not only about being polite. It is about helping the reader cooperate instead of react defensively.
+- Unit 3: A paragraph becomes easier to read when the topic, support, and closing work together instead of competing for attention.
+
+### Weak vs. strong review case
+
+Read these two versions of the same message.
+
+**Version A**
+The office checked many things yesterday and there was also a discussion, and because of that your request is not complete and maybe you need to send more information soon.
+
+**Version B**
+We checked your request yesterday. At present, one required document is missing. Please send the missing document by Friday so that we can continue the review.
+
+Use these questions:
+
+1. Which version is easier to read quickly?
+2. Which version tells the reader exactly what to do next?
+3. Which words in Version B improve tone?
+4. How does the paragraph-style structure in Version B help the message flow?
+
+### Module 1 self-edit routine
+
+Before you move to Module 2, check one piece of your own writing from this module.
+
+- Circle the main action verb in each sentence.
+- Underline any sentence that feels too long.
+- Check whether the tone sounds neutral and professional.
+- Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
+- Rewrite one sentence and one paragraph so the reader can understand the message faster.
+
+### Module 1 transfer task
+
+Write a short internal message of 5-6 sentences about a simple workplace topic such as a missing document, a meeting update, or a request for confirmation.
+
+Your message should include:
+
+- two clear sentences that show Unit 1 control
+- one polite request or explanation that shows Unit 2 tone control
+- one short paragraph structure that shows Unit 3 organisation
+
+After writing, add three notes:
+
+- where you improved sentence clarity
+- where you controlled tone
+- where you organised the paragraph for the reader
