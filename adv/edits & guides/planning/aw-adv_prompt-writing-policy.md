@@ -54,9 +54,52 @@ Every writing prompt — whether in Guided Writing (D), Freer Writing (E), or Ho
 | **A — Audience** | Who will read it? | Name the reader type: supervisor, partner office, interagency counterpart, etc. |
 | **S — Subject** | What is the specific situation? | A defined event, problem, or decision — not a general topic area. |
 | **T — Type** | What form does the output take? | Email, inquiry, rationale, risk assessment, notice, brief, etc. |
-| **R — Role** | Who is the writer? | The learner's professional position in the scenario. Often implied; sometimes stated. |
+| **R — Role** | Who is the writer? | The learner's professional position in the scenario. Often implied in E1 and H3; must be explicitly stated in E3. See Section 3.1 for the E3 role-writing standard. |
 
 Not all elements need to be spelled out in every prompt. In Guided Writing tasks, some elements are provided by the surrounding unit context. In Freer Writing and Homework, all five should be recoverable from the prompt itself.
+
+---
+
+## 3.1 E3 Role Definition Standard
+
+In E3 (Role-Based Writing Task), the role is the defining feature of the activity. The role must be stated explicitly - it cannot be left to inference - and it must be written as a **functional description**, not a job title.
+
+**A functional description tells the learner three things:**
+1. What they do in their professional context
+2. Who they write to (their relationship to the reader)
+3. Why they are the appropriate person to write this document
+
+**A job title alone tells the learner none of these things reliably.** Titles such as "liaison officer", "coordination officer", or "case coordinator" carry different meanings across different organisations. A learner who does not recognise the title cannot inhabit the role, which defeats the purpose of E3.
+
+**Test:** Could a learner from any administrative workplace - regardless of their specific sector or organisation - understand this role and write from it convincingly? If not, the role needs rewriting.
+
+**Weak (title only):**
+> You are an external liaison officer in a regional review office.
+
+A learner does not know from this what they do, who they report to, or who their counterpart is. "Regional review office" is also unexplained.
+
+**Strong (functional description):**
+> You handle document submissions on behalf of your office and are responsible for following up with partner agencies when materials go unacknowledged.
+
+This works for any learner: the function is clear (handle submissions, follow up), the relationship to the reader is clear (partner agency), and the reason for writing is implicit in the situation.
+
+**A second common error: the non-role**
+
+Some E3 prompts assign a task rather than a role:
+
+> You are writing from an interagency coordination team.
+> You are responsible for preparing a consolidated report.
+
+Neither of these is a role. The first gives an organisational location without a function. The second gives a task without a writer identity or a reader relationship. Both should be rewritten as functional descriptions before an E3 task is finalised.
+
+**E3 role formats**
+
+Roles in E3 tasks may be structured in one of two ways:
+
+- **Single shared role + scenario choice:** One role is assigned at the task level; learners then choose from 2-4 situations that fit that role. This is the cleaner format and is preferred where the unit skill is best practised from one consistent perspective.
+- **Per-option roles:** A different role is given in each scenario option. This is appropriate where the unit skill involves adapting to different professional relationships. Each option must still provide a functional description, not a title.
+
+In either format, the role description belongs at the start of the task or option - before the situation is described - so the learner reads it in the right order: first who they are, then what has happened.
 
 ---
 
@@ -214,10 +257,11 @@ Before finalising any Freer Writing (E) or Homework (H) prompt, check the follow
 - [ ] All options in a choice list are parallel in length, detail level, and scope
 - [ ] The JPO context option (where present) is labelled *(JPO context)*, matches other options in length and detail, and does not overlap contextually with options 1–3
 - [ ] Required content bullets list only non-obvious elements
+- [ ] For E3 tasks: the role is written as a functional description (what the writer does and who they write to), not as a job title; a learner from any administrative workplace could understand and inhabit the role
 - [ ] The prompt does not use academic framing
 - [ ] Word count is specified and consistent with the module-level progression
 - [ ] Extension Task appears after H3, not before it
 
 ---
 
-*Document version: Draft 2 — revised Step 14. Primary principle (learning goals) added as Section 1; JPO option model corrected in Section 5.*
+*Document version: Draft 3 — Section 3.1 (E3 role definition standard) added; R element in PAST-R table expanded; Section 9 checklist updated.*

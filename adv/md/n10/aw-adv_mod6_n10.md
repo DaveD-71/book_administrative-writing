@@ -216,9 +216,9 @@ Your plain-language summary must include:
 
 #### Role-Based Writing Task (E3)
 
-> **Role reminder:** Your institutional role affects how much context, support, and explanation you need to give. A coordination officer writes not just to inform, but to help non-expert partner offices act correctly without needing to interpret policy language on their own.
+> **Role reminder:** Your position in this task shapes how you write. You sit between the teams that produce policy and the offices that must implement it. Your job is not just to pass information on — it is to make sure that non-expert readers understand what is changing and what they need to do, without having to interpret specialist language on their own.
 
-You are a coordination officer at an interagency secretariat. Your supervisor has asked you to prepare a short plain-language briefing for partner offices ahead of a new policy coming into effect next month.
+You work in the unit that coordinates between your organisation's policy teams and the partner offices that implement policy decisions. Your supervisor has asked you to prepare a short plain-language briefing for partner offices ahead of a new policy coming into effect next month.
 
 Choose one scenario:
 

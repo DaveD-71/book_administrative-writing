@@ -223,10 +223,10 @@ Write a formal external inquiry of **180–220 words**. Your inquiry must includ
 
 Choose one situation:
 
-1. You are an external liaison officer in a regional review office. Your team sent a revised applicant file and supporting documents to a partner agency three weeks ago, but no acknowledgement has been received and the next internal review meeting cannot proceed until the file status is confirmed.
-2. You are writing from an interagency coordination team. Earlier this month, your office submitted revised supporting documents for a case that is due to move to the next processing stage, but your records still do not show whether the documents have been reviewed or whether any further materials are required.
-3. You are a case coordination officer following up with an external counterpart. Two weeks ago, your office sent a clarification request about an applicant file, and your supervisor now needs an update before next week's internal review meeting.
-4. *(JPO context)* You are a coordination officer at the JPO International Affairs Division. Your office recently sent comments on an international filing to a counterpart office, but the reply does not confirm whether those comments have been reflected in the current file or whether any further clarification is needed. Your team needs this status confirmed before this week's internal reporting note is completed.
+1. You handle document submissions on behalf of your office and are responsible for following up with partner agencies when materials go unacknowledged. Your team sent a revised applicant file and supporting documents to a partner agency three weeks ago, but no acknowledgement has been received, and your next internal review meeting cannot proceed until the file status is confirmed.
+2. You are the contact person in your office for a shared case that is due to move to its next processing stage. Earlier this month, your office submitted revised supporting documents, but your records do not yet confirm whether they have been received and reviewed or whether any further materials are required.
+3. You manage ongoing correspondence with an external partner office on an open applicant file. Two weeks ago, your office sent a clarification request, and your supervisor now needs a progress update before next week's internal review meeting.
+4. *(JPO context)* You handle correspondence between your office and a foreign IP office on an open international filing. Your office recently sent comments to the counterpart office, but the reply does not confirm whether those comments have been reflected in the current file or whether any further clarification is needed.
 
 ---
 

@@ -370,9 +370,9 @@ These are the main productive writing tasks. Every unit should have one, and it 
 ### E3. Role-Based Writing Task 🆕
 [↑ Back to Index](#index)
 
-**Purpose:** Learners are assigned a specific professional role and write from that perspective — e.g., as an office coordinator, a team leader, or an international partner's liaison officer.
-**Format:** A scenario that specifies the learner's role and relationship to the reader.
-**Notes:** Increases authenticity and engages professional identity. Appropriate from Module 2 onwards.
+**Purpose:** Learners are assigned a specific professional role and write from that perspective — e.g., as the person in their office responsible for following up with partner agencies, or as the contact point between a policy team and the offices that implement its decisions.
+**Format:** A scenario that specifies the learner's role and their relationship to the reader. The role may be shared across all scenario options (one role, multiple situations) or assigned per option (different role in each situation).
+**Notes:** Increases authenticity and engages professional identity. Appropriate from Module 2 onwards. Roles must be written as functional descriptions — what the writer does and who they write to — not as job titles. A learner should be able to understand their role and their relationship to the reader without knowing any specific organisational structure. See the Prompt-Writing Policy Section 3.1 for the full standard and worked examples.
 
 ---
 

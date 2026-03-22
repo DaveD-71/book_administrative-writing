@@ -230,12 +230,14 @@ Activity-level Can-Do statements:
 | F. Review / Self-Edit — Self-Editing Checklist (F3) | review my own writing against five criteria: (1) no vague or unanchored questions, (2) specific references for each point, (3) softening language, (4) next-step statement, and (5) consistent professional tone. |
 | G. Editing — Editing Exercise (G1) | rewrite five vague or direct clarification requests by (1) adding specific references, (2) scoping each question clearly, (3) applying softening language, and (4) adding next-step markers where appropriate. |
 | H. Homework & Extension — Homework Writing Task (H3) | produce a 190–220 word clarification request incorporating (1) at least three structured clarification points, (2) specific references for each, (3) diplomatic softening throughout, and (4) a clear next-step statement. |
+| H. Homework & Extension — Extension Task (H1) | choose one of three tasks: (1) assess and rewrite a real clarification request for greater precision and diplomatic tone, (2) compare the unit model against a real workplace clarification document and analyse differences in structure, register, or referencing, or (3) build a clarification-request phrase bank organised by function for future use. |
 
 Content flags (for Task B — do not action now):
-- The E3 Freer Writing task has two versions (general and JPO-specific) but they are currently formatted differently: the general version is a role scenario, the JPO version is introduced with "Alternatively, use the following scenario:" and then duplicates the full requirements list. Needs restructuring per the Prompt & Task Writing Policy.
-- The H3 JPO option similarly duplicates the requirements list. Needs restructuring.
+- The E3 Freer Writing task was previously misformatted as split general/JPO versions with duplicated requirements. This has now been restructured as a single shared role-based task with parallel scenario choices. ✅
+- The H3 JPO option previously duplicated the requirements list. It has now been integrated into the shared scenario list. ✅
 - The C3 practice (Practice A) has 5 items — above the minimum of 4. ✅
 - G1 Editing Exercise has 5 items. ✅
+- H section ordering: H3 Homework Writing Task → H1 Extension Task. ✅
 
 ---
 

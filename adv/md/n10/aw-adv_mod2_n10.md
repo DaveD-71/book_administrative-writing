@@ -462,24 +462,23 @@ After writing both versions, compare:
 
 ### E. Freer Writing
 
-#### Task — Write a Clarification Request (E1)
+#### Role-Based Writing Task ★ (E3)
+
+You are the person in your office responsible for reviewing documents received from partner organisations and raising any inconsistencies before they are acted on. When you identify a problem, you write directly to the contact at the sending office to request clarification.
 
 Write a clarification request of **190–220 words**. Your message must include:
 
-- a professional opening that establishes context
+- a professional opening that identifies your office and the document in question
 - at least three structured clarification points, each with a specific document reference
 - diplomatic softening throughout
-
-> **Role reminder:** In a role-based clarification request, the relationship between writer and reader shapes how much background context, explicitness, and softening are needed. Your role should influence the phrasing, not the factual precision of the questions.
-
 - a next-step statement explaining what your office will do once clarification is received
 
-Choose one scenario:
+Choose one situation:
 
-1. A partner organisation has submitted a revised set of procedural guidelines. Your team has identified several points where the terminology differs from an earlier agreed version, and one timeline appears to have changed without explanation.
+1. A partner organisation has sent a revised set of procedural guidelines. Several points use different terminology from the version your office was previously working from, and one timeline appears to have changed without explanation.
 2. A foreign office has sent an updated coordination protocol. Two definitions in the glossary appear inconsistent with how those terms are used in the main body of the document, and one deadline is missing from the implementation schedule.
 3. A domestic agency has forwarded a set of revised processing instructions. One section references an annex that does not appear to be attached, and two steps in the procedure are described differently in the summary and the main text.
-4. *(JPO context)* Your office has received a revised coordination document for a shared search procedure, but one date in the main text differs from the date shown in the attached annex, and one referenced attachment does not appear to be included. Your office needs clarification before updating internal records.
+4. *(JPO context)* A counterpart office has sent a revised coordination document for a shared search procedure, but one date in the main text differs from the date shown in the attached annex, and one referenced attachment does not appear to be included.
 
 ---
 
