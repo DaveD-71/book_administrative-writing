@@ -233,3 +233,12 @@ Sync rule:
 - Pattern: discovering another `AGENTS.md` outside the active user-level and repo-level pair
 - Failure: it is easy to assume any discovered `AGENTS.md` should be synced into the current pair, even when it belongs to another workspace, clone, machine, or narrower nested scope
 - Preferred behavior: classify discovered `AGENTS.md` files by scope first; merge only when they belong to the active duplicated bootstrap pair, otherwise treat them as out-of-scope or narrower-scope instructions and do not propagate them blindly
+
+### 2026-03-22T19:40:00+09:00 - Before Every Commit, Run A Final Control-File And Memory Consistency Pass
+
+- Status: `workaround`
+- Scope: user/workflow
+- Pattern: committing planning or documentation reorganizations after the main file edits appear finished
+- Failure: the main content changes can be correct while one or more control files, project-memory entries, or source-of-truth references remain stale, which then forces a follow-up correction after the commit
+- Correct behavior: before every commit, run one final consistency pass across the affected control layer, including current source-of-truth files, to-do/status files, project memory, and any newly introduced path references
+- Preferred behavior: treat commit readiness as requiring both the primary edits and the dependent control/memory updates; if a post-commit audit is likely to surface a stale reference, the commit is not ready yet

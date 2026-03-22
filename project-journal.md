@@ -405,4 +405,18 @@ Historical note:
   - `INT-2` baseline audit
 
 
+### 2026-03-22T19:35:00+09:00 - Locked The Planning-System Reorganization On Main And Corrected Memory Drift
+
+- Committed and pushed the planning-system reorganization on `main`:
+  - commit `2e2b2e1`
+- This locked in:
+  - the advanced `guide-set` / `supporting` planning structure
+  - the advanced full-review protocol and Round 1 findings file
+  - the advanced transfer-readiness audit
+  - the intermediate `guide-set` / `supporting` planning stack
+- Corrected the stale intermediate memory reference so project memory now reflects:
+  - `int/edits & guides/planning/supporting/aw-int_development_plan.md` as setup context
+  - `int/edits & guides/planning/guide-set` as the authoritative current control layer
+
+
 

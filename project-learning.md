@@ -248,8 +248,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/decision
 - Context: preparation for repeating the advanced-book development process on the intermediate draft set
-- Observation: the intermediate track now has a saved source-of-truth planning document at `int/edits & guides/planning/aw-int_development_plan.md`. The chosen model is a rigorous adaptation of the advanced workflow rather than a one-to-one clone: keep the simpler intermediate identity, use limited JPO contextualization, treat `int/md` plus the intro as the live source set, and build planning, language-instruction, and QA layers before major content rewriting.
-- Preferred behavior: when intermediate-book execution begins, use the saved development plan as the governing baseline, create the intermediate control stack described there, and avoid treating `int/aw-int-all.md` as the live source of truth until the split-unit files have been revised and intentionally recombined
+- Observation: the original saved intermediate development plan now lives at `int/edits & guides/planning/supporting/aw-int_development_plan.md`, while the authoritative intermediate control layer now lives in `int/edits & guides/planning/guide-set`. The governing model remains a rigorous adaptation of the advanced workflow rather than a one-to-one clone: keep the simpler intermediate identity, use limited JPO contextualization, treat `int/md` plus the intro as the live source set, and build planning, language-instruction, QA, and full-review layers before major content rewriting.
+- Preferred behavior: use the supporting development plan as historical setup context only, and use the intermediate guide-set documents as the current planning source of truth for future execution
 
 
 ### 2026-03-22T18:04:57.9320799+09:00 - E3 Role Definition Standard Is Now Encoded In Series Source Documents
@@ -313,6 +313,15 @@ Historical note:
 - Context: transferring the cleaned planning architecture from the advanced track to the intermediate track
 - Observation: the intermediate planning layer now uses `int/edits & guides/planning/guide-set` for current control documents and `int/edits & guides/planning/supporting` for background documents. The intermediate guide set now includes an index, project to-do list, activity framework, prompt-writing policy, structural-profile scaffold, QA checklist scaffold, and full-review protocol scaffold.
 - Preferred behavior: treat the new intermediate guide set as the authoritative planning/control layer for future intermediate work, and use the supporting folder only for background/setup context
+
+
+### 2026-03-22T19:35:00+09:00 - Planning-System Reorganization Is Now Locked On Main
+
+- Status: `monitor`
+- Scope: project/state
+- Context: finalization of the advanced planning cleanup and the intermediate planning-stack build
+- Observation: the advanced planning reorganization, transfer-readiness audit, intermediate guide-set creation, and related project-memory updates were committed and pushed on `main` in commit `2e2b2e1`.
+- Preferred behavior: treat the committed planning structure as the live baseline for future advanced and intermediate planning work, and use follow-up commits only for concrete new findings or intentional template refinements
 
 
 
