@@ -1078,3 +1078,57 @@ Then write three reflection notes:
 - which part was hardest to organise
 - which part needed the clearest next-step sentence
 - which unit gave you the most useful support
+
+### Module 3 structure clinic
+
+Module 3 teaches a simple but important workplace rule: the reader should not need to guess the order of information.
+
+Use this reminder:
+
+- procedures need sequence
+- notices need change + reason + action
+- problem explanations need situation + cause + effect + current response
+- summaries need purpose + main points + decision + next step
+
+When a text feels weak, ask which one of these patterns it should follow. Many internal documents become difficult because the writer mixes two patterns together.
+
+### Module 3 weak-to-strong comparison
+
+Read these two internal notices.
+
+**Version A**
+The office will use a different room next week. There were some schedule problems and some people may need to move. Please understand.
+
+**Version B**
+The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
+
+Why Version B works better:
+
+- the change is named clearly
+- the reason is specific
+- the action for the reader is visible
+- the time frame is easy to understand
+
+Use that same logic when revising a procedure, a problem note, or a meeting summary. The exact format changes, but the reader still needs sequence and visible next action.
+
+### Module 3 revision lab
+
+Create one short internal communication set about a realistic office problem such as:
+
+- a printer problem
+- a room change
+- a delayed document
+- a meeting decision that changes a procedure
+
+Include:
+
+- one 3-5 step procedure
+- one short notice
+- one 4-6 sentence explanation or summary
+
+Then review the set with these prompts:
+
+- Which document gives the clearest next step?
+- Which document would confuse a new staff member most if written badly?
+- Where did you make the reason for the message visible early?
+- Which piece needed the strongest logical order?

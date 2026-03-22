@@ -563,4 +563,13 @@ Historical note:
 - Preferred behavior: keep `INT-5A` active, continue deepening the live modules rather than resuming QA, and use the current rebuild wave as the new floor rather than as a final intervention endpoint
 
 
+### 2026-03-23T12:10:00+09:00 - The Second INT-5A Rebuild Wave Added Module-Level Strategy And Revision Support Across All Six Modules
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: second whole-book live rebuild under the support-parity intervention
+- Observation: the live module files now include a stronger module-level support spine beyond the first-wave unit additions. Across Modules 1 to 6, the book now includes strategy maps, revision labs, and stronger module-level transfer tasks. This moved all six modules upward again, but the book still remains below the required parity band, with the largest remaining shortfalls in Modules 4 and 6.
+- Preferred behavior: keep `INT-5A` active, use the current two-wave rebuild as the new baseline, and focus the next deepening work on the still-thin outward-facing and capstone modules before attempting QA restart
+
+
 

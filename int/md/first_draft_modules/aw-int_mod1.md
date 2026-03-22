@@ -853,3 +853,56 @@ After writing, add three notes:
 - where you improved sentence clarity
 - where you controlled tone
 - where you organised the paragraph for the reader
+
+### Module 1 strategy map
+
+Use this map when a piece of writing feels weak but you are not sure why.
+
+- If the reader gets lost inside one sentence, return to Unit 1 and check the main subject, verb, and extra information.
+- If the message sounds too sharp, too casual, or too heavy, return to Unit 2 and check the relationship with the reader.
+- If the message feels complete sentence by sentence but still does not flow, return to Unit 3 and check paragraph structure.
+
+This matters because weak writing often has more than one problem at the same time. A sentence can be grammatically correct but still sound too direct. A polite message can still fail if the paragraph order is unclear. Strong administrative writing starts with control at all three levels: sentence, tone, and paragraph.
+
+### Module 1 revision lab
+
+Read this weak message:
+
+**Weak draft**
+We checked your application yesterday and there are some problems and we need more information and also the office is busy now so please reply quickly because the review cannot continue.
+
+Improve it in three steps.
+
+1. Sentence control:
+   - Split the long sentence into smaller parts.
+   - Keep one main message in each sentence.
+
+2. Tone control:
+   - Change any wording that sounds too sudden or forceful.
+   - Keep the request polite and professional.
+
+3. Paragraph control:
+   - Decide which sentence should come first.
+   - End with a clear next action for the reader.
+
+Then compare your revision to this example:
+
+**Possible stronger version**
+We checked your application yesterday. At present, we need one more piece of information before the review can continue. Could you please send the missing information by Thursday? Thank you for your cooperation.
+
+Why this stronger version works:
+
+- each sentence has one clear job
+- the request sounds cooperative rather than pressuring
+- the paragraph ends with a visible next step
+
+### Module 1 preparation for Module 2
+
+Before you start the email module, check whether you can do these four things without help:
+
+- write one clear purpose sentence
+- soften a request without losing the main meaning
+- build one short paragraph with a topic, support, and closing
+- explain why your revised version is easier for the reader to understand
+
+If one of these still feels weak, return to the unit that teaches it and revise one more piece of writing before moving on.

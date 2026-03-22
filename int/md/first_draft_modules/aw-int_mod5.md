@@ -757,3 +757,57 @@ After revising, write a short reflection:
 - which pass changed the text most
 - which pass felt easiest
 - which pass you most need in your real work
+
+### Module 5 editing-decision map
+
+Module 5 is not only about finding errors. It is about deciding what kind of revision the text needs first.
+
+Use this order when you edit:
+
+1. accuracy:
+   - Is anything simply wrong?
+2. clarity:
+   - Can the reader follow the message without extra effort?
+3. tone:
+   - Will the reader react well enough to continue working with you?
+
+This order helps because some tone problems disappear after clarity improves, and some clarity problems disappear after an accuracy fix. Good editing is not random correction. It is a controlled sequence.
+
+### Module 5 revision clinic
+
+Read this weak message:
+
+**Weak draft**
+The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
+
+Improve it in three passes.
+
+- Accuracy pass:
+  - check whether each idea is factually and grammatically controlled
+- Clarity pass:
+  - separate the problem, effect, and action
+- Tone pass:
+  - remove blame and create a cooperative next step
+
+Possible stronger version:
+
+The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
+
+Why this stronger version works:
+
+- the problem is more precise
+- the next action is clearer
+- the tone supports cooperation
+
+### Module 5 carry-forward task
+
+Take one draft from Modules 1-4 and one draft from Module 6 if you already have one.
+
+Write a short editing note for each draft:
+
+- the biggest accuracy problem
+- the biggest clarity problem
+- the biggest tone problem
+- which problem you would fix first and why
+
+This prepares you for later whole-document revision, where the hardest part is often deciding where to begin.

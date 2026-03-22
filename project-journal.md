@@ -836,4 +836,31 @@ Historical note:
   - `INT-6` remains blocked because the book still sits below the required parity band
 
 
+### 2026-03-23T12:10:00+09:00 - Applied The Second Whole-Book INT-5A Rebuild Wave Across Modules 1 To 6
+
+- Revised all six live intermediate module files again:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Added a second module-level support layer across the book:
+  - strategy maps
+  - weak-to-strong or revision clinics
+  - module-level carry-forward and transfer tasks
+- Updated the intervention file, QA continuity record, and project-control file so they now reflect the second rebuild-wave state and the revised module counts
+- Verified the post-second-wave module counts:
+  - Mod 1 `4,436`
+  - Mod 2 `5,276`
+  - Mod 3 `4,720`
+  - Mod 4 `4,370`
+  - Mod 5 `3,554`
+  - Mod 6 `5,590`
+- Result:
+  - the intermediate book is stronger than after the first rebuild wave
+  - `INT-5A` still remains active
+  - `INT-6` still remains blocked because the project has not yet entered the required parity band
+
+
 

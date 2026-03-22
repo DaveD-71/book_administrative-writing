@@ -1294,3 +1294,75 @@ After writing, complete these reflection prompts:
 - which document was hardest to control
 - which earlier unit from the whole book you needed most
 - what editing habit you want to keep using after the course
+
+### Module 6 planning grid
+
+Before writing any integrated task, fill in this planning grid.
+
+| Document | Reader | Main purpose | Tone | Key next step |
+|---|---|---|---|---|
+| Document 1 | | | | |
+| Document 2 | | | | |
+| Document 3 | | | | |
+
+Use the grid to stop three common problems:
+
+- giving the same message to every reader
+- keeping the same tone when the reader changes
+- forgetting to state the next action in one part of the communication set
+
+### Module 6 integrated revision lab
+
+Read this weak communication set.
+
+**Single weak response**
+There is a document problem. Please send the correct form. We will also tell the team there is a delay and everyone should wait.
+
+Now rebuild it as a stronger set.
+
+1. External message:
+   - thank the reader
+   - name the exact document problem
+   - ask for one clear action
+   - give a professional deadline or next step
+
+2. Internal message:
+   - explain the same fact neutrally
+   - tell the team what to pause, continue, or watch
+   - remove any sentence that only belongs in the external message
+
+3. Revision note:
+   - explain why the two texts cannot stay the same
+   - explain which audience needed more detail
+   - explain which Module 5 editing pass improved the set most
+
+Why this lab matters:
+
+- Unit 19 teaches the two-document split
+- Unit 20 teaches linked corrections
+- Unit 21 teaches consistency across writers
+- Unit 22 teaches stronger audience separation
+- Unit 23 asks you to review the final result as a portfolio, not as isolated tasks
+
+### Module 6 final course transfer task
+
+Create one complete administrative communication pack about a realistic case such as:
+
+- wrong applicant document
+- delayed approval from another office
+- change to a deadline or procedure
+- correction to earlier shared information
+
+Your pack should include:
+
+- one external-facing message
+- one internal explanation or notice
+- one short style or revision note for your team
+
+Then complete this final reflection:
+
+- Which document required the most careful audience control?
+- Where did you apply sentence, tone, and paragraph skills from Module 1?
+- Which earlier module helped most with explanation and structure?
+- Which earlier module helped most with revision?
+- What would you still revise if you had one more draft?

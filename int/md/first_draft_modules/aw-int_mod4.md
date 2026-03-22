@@ -1012,3 +1012,60 @@ Then add a note explaining:
 - how the audience changed your wording
 - how you controlled the amount of detail
 - which unit strategy you used to keep the writing consistent
+
+### Module 4 audience-shift map
+
+Module 4 becomes stronger when you can explain not only what changed in the message, but why it changed.
+
+Use this audience map:
+
+- external office:
+  - needs a respectful, answerable question
+  - usually does not need all of your internal background
+- applicant or student:
+  - often needs clearer explanation and less institutional shorthand
+  - may need reassurance as well as instruction
+- internal team:
+  - needs the practical effect, shared understanding, and next action
+
+The same topic may need three different shapes because each reader has a different job after reading.
+
+### Module 4 reader-trust clinic
+
+Read these two responses to the same problem.
+
+**Version A**
+You misunderstood the process. We already explained it before, so please read the instructions again and follow them correctly.
+
+**Version B**
+Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
+
+Why Version B works better:
+
+- it starts by keeping the relationship calm
+- it explains the process in the order the reader needs
+- it removes blame language
+- it leaves the reader with a clear path forward
+
+This principle matters across Units 12 to 15. A message can be grammatically simple but still fail if it damages reader trust, hides the key step, or gives too much unexplained detail.
+
+### Module 4 revision lab
+
+Choose one scenario:
+
+- an applicant is confused about required documents
+- another office sent incomplete instructions
+- your team uses inconsistent email openings in repeated external communication
+
+Write a three-part communication set:
+
+1. one outward-facing message
+2. one internal explanation for your team
+3. one short style note or rule for future messages
+
+After writing, explain:
+
+- what each reader needed most
+- which details you removed from the outward-facing version
+- where you worked hardest to protect clarity and trust
+- which unit from this module you used most directly

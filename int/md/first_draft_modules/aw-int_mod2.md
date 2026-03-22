@@ -1267,3 +1267,77 @@ After writing, add a note explaining:
 - what stayed the same in both emails
 - what changed because of audience
 - which module unit helped you make that decision
+
+### Module 2 strategy map
+
+Module 2 asks you to control four linked decisions in every email:
+
+- what the reader needs to understand first
+- what action or information you want from the reader
+- how polite the message needs to sound
+- how much detail is enough for this relationship
+
+Use the unit map below when an email feels weak.
+
+- Unit 4 helps when the email has no clear structure.
+- Unit 5 helps when the question is broad, vague, or difficult to answer.
+- Unit 6 helps when the reader may feel uncertain about a change or delay.
+- Unit 7 helps when the action request sounds too direct or too weak.
+
+### Module 2 weak-email clinic
+
+Read this email.
+
+**Weak version**
+Subject: Document
+
+Hello,
+About the form, there is a problem, so please send it again soon because we need it.
+Thank you.
+
+Why this email causes trouble for the reader:
+
+- the subject line gives almost no useful information
+- the problem is not specific
+- the request is urgent, but the reason is not clear enough
+- the reader still does not know what exact action to take
+
+Now compare it with a stronger version.
+
+**Stronger version**
+Subject: Request to resend the student information form
+
+Dear Ms. Lee,
+
+Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
+
+Best regards,
+[Your Name]
+
+Why this stronger version works:
+
+- the subject line tells the reader the topic immediately
+- the body explains the exact problem
+- the request names a clear action
+- the deadline is linked to a visible purpose
+
+### Module 2 revision lab
+
+Choose one of these situations:
+
+- missing applicant information
+- delayed response from another office
+- request for a colleague to confirm a date
+
+Write a three-part email set:
+
+1. a first email
+2. a polite follow-up email
+3. a final short internal note explaining the situation to your team
+
+After writing, answer these questions:
+
+- How did the opening line change across the three messages?
+- Where did you make the reason for the request clearest?
+- Which message needed the most careful tone control?
+- Which unit from this module helped you most at each step?

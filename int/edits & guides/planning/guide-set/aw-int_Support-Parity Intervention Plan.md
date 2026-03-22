@@ -106,6 +106,19 @@ First rebuild-wave progress after activation of `INT-5A`:
 
 The first rebuild wave materially improved all six modules, but **all six remain below the required parity band**.
 
+Second rebuild-wave progress:
+
+| Module | Advanced | Intermediate | Current parity |
+|---|---:|---:|---:|
+| Mod 1 | 5,613 | 4,436 | 79% |
+| Mod 2 | 7,564 | 5,276 | 70% |
+| Mod 3 | 7,453 | 4,720 | 63% |
+| Mod 4 | 7,738 | 4,370 | 56% |
+| Mod 5 | 5,135 | 3,554 | 69% |
+| Mod 6 | 10,158 | 5,590 | 55% |
+
+The second rebuild wave added module-level strategy maps, revision labs, and integrated transfer tasks across all six modules. That strengthens whole-module coherence, but the project still remains below the required parity band, with the largest remaining shortfalls in Modules 4 and 6.
+
 Required parity band for this intervention:
 
 - `Mod 1`: `4,490-5,052`
@@ -164,6 +177,7 @@ Current progress:
 
 - a first whole-book rebuild wave has already added unit-level model checks, explicit teaching-rationale notes, self-check routines, editing practice, and transfer-extension tasks across Modules 1 to 6
 - a second support layer has added module guides and module review workshops across Modules 1 to 6
+- a second rebuild wave has now added module-level strategy maps, revision labs, and stronger carry-forward tasks across Modules 1 to 6
 - despite that progress, the live module set still remains below the required `80-90%` parity band and still needs deeper development work before QA can restart
 
 Every unit must visibly include functional equivalents of:

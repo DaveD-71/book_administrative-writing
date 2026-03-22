@@ -255,13 +255,17 @@ The main purpose of this round is to determine:
     - transfer extensions
     - module guides
     - module review workshops
-  - even after that rebuild wave, the live modules still remain below the required parity band:
-    - Mod 1 `4,032 / 5,613`
-    - Mod 2 `4,879 / 7,564`
-    - Mod 3 `4,388 / 7,453`
-    - Mod 4 `4,016 / 7,738`
-    - Mod 5 `3,236 / 5,135`
-    - Mod 6 `5,193 / 10,158`
+  - a second active rebuild wave has also added:
+    - module strategy maps
+    - module revision labs
+    - module-level carry-forward and transfer tasks
+  - even after those rebuild waves, the live modules still remain below the required parity band:
+    - Mod 1 `4,436 / 5,613`
+    - Mod 2 `5,276 / 7,564`
+    - Mod 3 `4,720 / 7,453`
+    - Mod 4 `4,370 / 7,738`
+    - Mod 5 `3,554 / 5,135`
+    - Mod 6 `5,590 / 10,158`
   - the current project-control layer now records a new blocking stage:
     - `INT-5A | Support-Parity Intervention Stage`
   - the current authoritative intervention file is:
@@ -296,7 +300,7 @@ Current interim view:
 - the earlier local Round 1 defects in Unit 16 and Unit 23 have now been corrected in the live source
 - the larger issue is now recorded clearly:
   - the intermediate book remains systemically underdeveloped relative to the required support-parity standard
-- the first live `INT-5A` rebuild wave has already been applied across all six modules, but it has not yet moved the book into the required parity band
+- the first and second live `INT-5A` rebuild waves have already been applied across all six modules, but they have not yet moved the book into the required parity band
 - later deferred items such as answer-key work, combined-draft regeneration, and Word-formatting work remain visible rather than being mistaken for completed work
 
 So at this stage:
