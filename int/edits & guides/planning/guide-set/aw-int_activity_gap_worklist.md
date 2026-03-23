@@ -84,70 +84,70 @@ These activities are the strongest current candidates for further development be
 
 ### 3.1 Module 4
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 15 | Extended Writing Task – Email Style Guide Paragraph | E | 24 | 166.61 | 0.14 |
-| Unit 15 | Practice B – Reformat the Email | C | 22 | 144.80 | 0.15 |
-| Unit 13 | Practice A – Improve the Explanation | C | 28 | 144.80 | 0.19 |
-| Unit 13 | Practice B – Add a Reason or Background | C | 28 | 144.80 | 0.19 |
-| Unit 14 | Extended Writing Task – Clarification Paragraph | E | 34 | 166.61 | 0.20 |
-| Unit 12 | Practice B – Add Background Information | C | 32 | 144.80 | 0.22 |
-| Unit 14 | Practice A – Improve the Response | C | 32 | 144.80 | 0.22 |
-| Unit 13 | Extended Writing Task – Explanatory Paragraph | E | 39 | 166.61 | 0.23 |
-| Unit 15 | Language 2 – Formatting for Clarity and Consistency | C | 34 | 144.80 | 0.23 |
-| Unit 12 | Practice A – Improve the Inquiry | C | 35 | 144.80 | 0.24 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 15 | Extended Writing Task – Email Style Guide Paragraph | E | 24 | 61 | 89 | 166.61 | 53.4% |
+| Unit 15 | Practice B – Reformat the Email | C | 22 | 54 | 112 | 144.80 | 77.3% |
+| Unit 13 | Practice A – Improve the Explanation | C | 28 | 57 | 101 | 144.80 | 69.8% |
+| Unit 13 | Practice B – Add a Reason or Background | C | 28 | 57 | 93 | 144.80 | 64.2% |
+| Unit 14 | Extended Writing Task – Clarification Paragraph | E | 34 | 79 | 148 | 166.61 | 88.8% |
+| Unit 12 | Practice B – Add Background Information | C | 32 | 65 | 108 | 144.80 | 74.6% |
+| Unit 14 | Practice A – Improve the Response | C | 32 | 56 | 103 | 144.80 | 71.1% |
+| Unit 13 | Extended Writing Task – Explanatory Paragraph | E | 39 | 85 | 160 | 166.61 | 96.0% |
+| Unit 15 | Language 2 – Formatting for Clarity and Consistency | C | 34 | 95 | 133 | 144.80 | 91.9% |
+| Unit 12 | Practice A – Improve the Inquiry | C | 35 | 65 | 119 | 144.80 | 82.2% |
 
 ### 3.2 Module 6
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 23 | Practice B – Edit a Paragraph | C | 25 | 144.80 | 0.17 |
-| Unit 21 | Freer Practice – Create a Mini Style Guide | E | 29 | 166.61 | 0.17 |
-| Unit 21 | Practice B – Standardise Format & Tone | C | 26 | 144.80 | 0.18 |
-| Unit 23 | Practice C – Edit a Notice or Short Message | C | 28 | 144.80 | 0.19 |
-| Unit 20 | Scenario Overview | B | 46 | 155.13 | 0.30 |
-| Unit 19 | Guided Practice – Write the Internal Explanation | D | 29 | 94.74 | 0.31 |
-| Unit 22 | Guided Practice – Write the Internal Notice | D | 29 | 94.74 | 0.31 |
-| Unit 23 | Final Portfolio Submission | E | 52 | 166.61 | 0.31 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 23 | Practice B – Edit a Paragraph | C | 25 | 67 | 94 | 144.80 | 64.9% |
+| Unit 21 | Freer Practice – Create a Mini Style Guide | E | 29 | 65 | 95 | 166.61 | 57.0% |
+| Unit 21 | Practice B – Standardise Format & Tone | C | 26 | 68 | 99 | 144.80 | 68.4% |
+| Unit 23 | Practice C – Edit a Notice or Short Message | C | 28 | 63 | 94 | 144.80 | 64.9% |
+| Unit 20 | Scenario Overview | B | 46 | 93 | 125 | 155.13 | 80.6% |
+| Unit 19 | Guided Practice – Write the Internal Explanation | D | 29 | 95 | 138 | 94.74 | 145.7% |
+| Unit 22 | Guided Practice – Write the Internal Notice | D | 29 | 74 | 112 | 94.74 | 118.2% |
+| Unit 23 | Final Portfolio Submission | E | 52 | 143 | 184 | 166.61 | 110.4% |
 
 ### 3.3 Module 3
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 8 | Language 1 – Clear Instruction Verbs | C | 13 | 144.80 | 0.09 |
-| Unit 10 | Practice B – Add Details | C | 27 | 144.80 | 0.19 |
-| Unit 9 | Extended Writing Task – Internal Bulletin Section | E | 33 | 166.61 | 0.20 |
-| Unit 9 | Editing Practice: Strengthen the Notice | G | 25 | 103.78 | 0.24 |
-| Unit 10 | Practice A – Improve the Explanation | C | 35 | 144.80 | 0.24 |
-| Unit 11 | Extended Writing Task – Meeting Report Section | E | 41 | 166.61 | 0.25 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 8 | Language 1 – Clear Instruction Verbs | C | 13 | 62 | 91 | 144.80 | 62.8% |
+| Unit 10 | Practice B – Add Details | C | 27 | 57 | 93 | 144.80 | 64.2% |
+| Unit 9 | Extended Writing Task – Internal Bulletin Section | E | 33 | 67 | 88 | 166.61 | 52.8% |
+| Unit 9 | Editing Practice: Strengthen the Notice | G | 25 | 52 | 74 | 103.78 | 71.3% |
+| Unit 10 | Practice A – Improve the Explanation | C | 35 | 57 | 93 | 144.80 | 64.2% |
+| Unit 11 | Extended Writing Task – Meeting Report Section | E | 41 | 83 | 109 | 166.61 | 65.4% |
 
 ### 3.4 Module 5
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 18 | Practice A – Make the Tone Polite | C | 22 | 144.80 | 0.15 |
-| Unit 16 | Practice A – Correct the Sentences | C | 29 | 144.80 | 0.20 |
-| Unit 16 | What Does “Accuracy” Mean in Writing? | B | 33 | 155.13 | 0.21 |
-| Unit 17 | Language 1 – Common Clarity Problems | C | 37 | 144.80 | 0.26 |
-| Unit 17 | Practice B – Reorganise for Better Flow | C | 38 | 144.80 | 0.26 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 18 | Practice A – Make the Tone Polite | C | 22 | 53 | 82 | 144.80 | 56.6% |
+| Unit 16 | Practice A – Correct the Sentences | C | 29 | 58 | 84 | 144.80 | 58.0% |
+| Unit 16 | What Does “Accuracy” Mean in Writing? | B | 33 | 63 | 88 | 155.13 | 56.7% |
+| Unit 17 | Language 1 – Common Clarity Problems | C | 37 | 74 | 107 | 144.80 | 73.9% |
+| Unit 17 | Practice B – Reorganise for Better Flow | C | 38 | 56 | 87 | 144.80 | 60.1% |
 
 ### 3.5 Module 2
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 7 | Practice A – Rewrite the Request | C | 28 | 144.80 | 0.19 |
-| Unit 6 | Practice A – Improve the Clarity | C | 29 | 144.80 | 0.20 |
-| Unit 5 | Practice A – Make These Questions Clearer | C | 31 | 144.80 | 0.21 |
-| Unit 7 | Practice B – Make the Request More Specific | C | 32 | 144.80 | 0.22 |
-| Unit 5 | Extended Writing Task – Clarification Summary Paragraph | E | 41 | 166.61 | 0.25 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 7 | Practice A – Rewrite the Request | C | 28 | 56 | 72 | 144.80 | 49.7% |
+| Unit 6 | Practice A – Improve the Clarity | C | 29 | 57 | 82 | 144.80 | 56.6% |
+| Unit 5 | Practice A – Make These Questions Clearer | C | 31 | 57 | 83 | 144.80 | 57.3% |
+| Unit 7 | Practice B – Make the Request More Specific | C | 32 | 65 | 91 | 144.80 | 62.8% |
+| Unit 5 | Extended Writing Task – Clarification Summary Paragraph | E | 41 | 69 | 117 | 166.61 | 70.2% |
 
 ### 3.6 Module 1
 
-| Unit | Activity | Family | Current words | Family avg. | Ratio |
-|---|---|---:|---:|---:|---:|
-| Unit 1 | Freer Practice: Write Clear Administrative Sentences | E | 51 | 166.61 | 0.31 |
-| Unit 2 | Guided Practice: Rewrite the Email | D | 31 | 94.74 | 0.33 |
-| Unit 3 | Practice B – Reorder to Create a Clear Paragraph | C | 57 | 144.80 | 0.39 |
+| Unit | Activity | Family | Current words | Revised words | Rebuild words | Family avg. | Ratio |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Unit 1 | Freer Practice: Write Clear Administrative Sentences | E | 51 | 77 | 109 | 166.61 | 65.4% |
+| Unit 2 | Guided Practice: Rewrite the Email | D | 31 | 50 | 72 | 94.74 | 76.0% |
+| Unit 3 | Practice B – Reorder to Create a Clear Paragraph | C | 57 | 82 | 102 | 144.80 | 70.4% |
 
 ---
 
@@ -212,6 +212,15 @@ Current judgment:
 - the intermediate book has improved materially after two rebuild waves
 - it still contains multiple specific activity-level underdevelopment points
 - this file should guide the next deepening pass rather than leaving the remaining gap diagnosis implicit
+
+Recognisable pattern:
+
+- the weakest rows cluster in support-carrying activity families rather than in warm-up or naturally brief end tasks
+- `C`-family controlled-practice and language-support rows recur most often, showing that the book still underbuilds explanation of how and why to improve a draft
+- `E`-family extended-writing rows also recur often, showing that many end-stage outputs still remain too light to function as fully developed culminating tasks
+- the pattern intensifies in the later, more complex modules, especially Modules 4 and 6, which suggests that task difficulty rose faster than the support architecture around those tasks
+- the core gap is therefore not only length; it is repeated underdevelopment in model/example support, guided-to-freer bridging, revision depth, and reader-effect guidance
+- this is why later intervention waves should not rely only on patching the thinnest saved rows; they also need broader module-level rebuilding where complexity has outgrown the current support layer
 
 ---
 

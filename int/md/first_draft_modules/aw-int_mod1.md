@@ -217,6 +217,18 @@ Include:
 
 - the deadline
 
+Before you draft, decide which sentence will do each job:
+
+1. identify the problem
+2. request the correct document
+3. state the deadline clearly
+
+Mini model:
+
+1. We received the wrong form with your submission.
+2. Please send the corrected form for this application.
+3. Kindly send it by next Friday so the review can continue.
+
 1.
 2.
 3.
@@ -438,6 +450,17 @@ You can use these phrases to make your tone more appropriate:
 ### Guided Practice: Rewrite the Email
 
 Rewrite the email to make it more polite and professional.
+
+Try to improve all three areas:
+
+- tone
+- clarity of request
+- calm explanation of the problem
+
+Mini contrast:
+
+- Weak: blame first, urgent demand, no calm context
+- Stronger: short greeting, clear problem statement, polite request, stable tone
 
 **Original email:**
 > Hi,  
@@ -715,6 +738,17 @@ Choose the facts that belong to the same paragraph job:
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
+Build the paragraph so it moves from:
+
+1. background check
+2. main finding
+3. broader meaning or category
+4. one extra supporting detail
+
+Mini support sentence model:
+
+- "The missing forms affect the first documentation check and may delay the next review step."
+
 Sentences:
 A. Two forms were missing from the submission.  
 B. We checked the application yesterday.  
@@ -906,3 +940,29 @@ Before you start the email module, check whether you can do these four things wi
 - explain why your revised version is easier for the reader to understand
 
 If one of these still feels weak, return to the unit that teaches it and revise one more piece of writing before moving on.
+
+### Module 1 foundation control board
+
+Use this board when a basic message feels weak but you are not yet sure which unit should help most.
+
+| Problem | Return to | What to check first |
+|---|---|---|
+| sentence feels heavy or confusing | Unit 1 | one subject, one action, shorter extra detail |
+| tone feels too sudden or too casual | Unit 2 | greeting, request wording, calm explanation |
+| paragraph feels complete sentence by sentence but still weak as a whole | Unit 3 | topic, support, closing order |
+
+Test one short message with the board:
+
+- identify the strongest sentence
+- identify the weakest sentence
+- explain which unit fixes the weak sentence first
+
+### Module 1 rebuilding note
+
+The early units matter because later modules depend on them. A weak sentence pattern in Module 1 often becomes a weak email, weak notice, or weak report line later. If the basic control layer is strong, later module tasks become easier to revise.
+
+Write one short note after revising:
+
+- which sentence became clearer
+- which tone change mattered most
+- which paragraph move helped the reader fastest

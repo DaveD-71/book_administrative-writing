@@ -98,6 +98,19 @@ Accuracy matters in administrative writing because errors can create:
 
 Accurate writing is not only a language goal. It is also a workplace clarity goal.
 
+A small grammar error can become a workplace problem when it changes:
+
+- who must act
+- when something happens
+- what quantity or document is correct
+
+Mini contrast:
+
+- Weak: "The documents is complete."
+- Stronger: "The documents are complete."
+
+One small change can stop the reader from doubting the message.
+
 ### Language 1 – Common Accuracy Problems
 
 #### Verb Forms
@@ -132,6 +145,18 @@ This makes editing more reliable than trying to fix everything at once.
 ### Practice A – Correct the Sentences
 
 Rewrite each sentence correctly.
+
+Work in a fixed order:
+
+1. find the main grammar problem
+2. correct the key word or phrase
+3. reread the full sentence for meaning
+
+Accuracy check:
+
+- Does the sentence now sound complete?
+- Does the time reference make sense?
+- Does the noun or verb form match the message?
 
 1. *The system under maintenance today.*  
    →
@@ -336,6 +361,17 @@ It is also:
 
 - Unclear subject or action
 
+When you edit for clarity, ask:
+
+- Who is doing the action?
+- What is the main point?
+- Which detail can move later or be deleted?
+
+Mini contrast:
+
+- Weak: "There is something about the file that may cause a kind of delay."
+- Stronger: "The file is missing two pages, so the next review step will be delayed."
+
 ### Practice A – Make the Sentences Clearer
 
 Rewrite each sentence.
@@ -371,6 +407,17 @@ Clear writing follows a **logical order**, often:
 ### Practice B – Reorganise for Better Flow
 
 Rewrite the sentences in a clear, logical order.
+
+Look for a simple movement:
+
+1. background or first action
+2. problem or finding
+3. result or next effect
+
+Flow test:
+
+- If the sentences are read aloud, does each one prepare the next one?
+- Does the final sentence feel like a result, not like a new unrelated fact?
 
 Sentences:
 A. Two forms are incomplete.  
@@ -567,6 +614,20 @@ Tone editing is successful when the message stays useful and becomes easier to r
 ### Practice A – Make the Tone Polite
 
 Rewrite the sentences politely.
+
+Do not only add "please."
+Try to soften the message by changing:
+
+- blame to neutral description
+- command to request
+- harsh judgment to workable explanation
+
+Mini contrast:
+
+- Weak: "You made a mistake."
+- Stronger: "There seems to be an error in the current version."
+
+The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
    →
@@ -811,3 +872,33 @@ Write a short editing note for each draft:
 - which problem you would fix first and why
 
 This prepares you for later whole-document revision, where the hardest part is often deciding where to begin.
+
+### Module 5 revision priorities board
+
+When a draft still feels weak after one edit, use this board to decide the next pass.
+
+| Problem you notice first | Best first pass | Why |
+|---|---|---|
+| grammar or word-form error changes the meaning | accuracy | the reader may misread the basic fact |
+| the reader cannot see the main point quickly | clarity | the message job is hidden inside the wording |
+| the message sounds blaming, abrupt, or too casual | tone | the relationship may fail even if the facts are correct |
+| several problems appear together | accuracy -> clarity -> tone | later passes work better after the earlier control problem is fixed |
+
+Use the board on one earlier draft from Modules 1-4 and explain:
+
+- which problem you fixed first
+- which later problem became easier after that
+- which pass created the biggest visible improvement
+
+### Module 5 editing memo for later modules
+
+Module 5 should continue helping you after this module ends.
+
+Before you submit any later task, write a short memo:
+
+- one accuracy point to verify
+- one clarity point to simplify
+- one tone point to soften or stabilise
+- one sentence that still needs a better next-step signal
+
+This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.

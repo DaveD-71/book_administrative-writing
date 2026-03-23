@@ -176,6 +176,24 @@ Include:
 
 - Next steps or expected follow-up
 
+Keep the internal explanation different from the external email.
+The email asks for action from the outside office.
+The internal explanation helps colleagues understand the problem and prepare the next step.
+
+You can use this simple frame:
+
+1. We received an update about ...
+2. The main issue is ...
+3. We now need to ...
+4. The next step will be ...
+
+Mini contrast:
+
+- External email: asks the outside office for action or confirmation.
+- Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
+
+If both texts sound the same, the reader-purpose control is still weak.
+
 Write your explanation:
 
 ### Self-Check Before Freer Practice
@@ -289,6 +307,18 @@ You must:
 1. Write a **revision/clarification message** to the external office.
 
 2. Write an **internal notice** informing colleagues about the correction.
+
+The two documents must match, but they should not sound the same.
+
+- The external message should correct the date politely and clearly.
+- The internal notice should help colleagues avoid repeating the wrong date.
+- Both texts must name the same stage and the same corrected date.
+
+Document-control check:
+
+- shared fact: `Document Verification - Stage 2` is `27 May`
+- external purpose: correct the previously sent information
+- internal purpose: prevent staff from using the wrong date again
 
 ### Warm-Up: Understanding the Situation
 
@@ -662,6 +692,24 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 Rewrite the email with correct formatting, tone, and clarity.
 
+Use one shared team pattern:
+
+- clear subject line
+- short professional greeting
+- one main purpose sentence
+- one supporting detail or request
+- consistent closing
+
+After rewriting, check whether another teammate could send the same message style without changing the structure.
+
+Mini standard:
+
+- Subject: clear topic
+- Opening: short professional greeting
+- Purpose: one direct sentence near the top
+- Detail: one supporting fact or request
+- Closing: neutral and consistent
+
 **Original:**
 Subject: Document  
 Hey, I don’t think this is right. Check it and tell me.
@@ -708,6 +756,20 @@ Include:
 - Formatting expectations
 
 - Common phrases to use or avoid
+
+Strong mini style guides usually answer these questions:
+
+- How should most messages open?
+- Where should the purpose appear?
+- What kind of wording sounds too direct?
+- How should messages close?
+
+You can also include one "use / avoid" contrast:
+
+- Use: "Could you confirm ..."
+- Avoid: "Fix this now."
+
+That makes the guide easier to apply in real rewriting.
 
 Write your guide:
 
@@ -916,6 +978,24 @@ Include:
 - The effect on the review process
 
 - Next steps
+
+Think about what the wider team needs most:
+
+- the corrected fact
+- the effect on the workflow
+- the action staff should take now
+
+You can use this pattern:
+
+1. topic or heading
+2. corrected information
+3. action or reminder for staff
+
+Mini notice model:
+
+- Schedule Correction: Stage 2 Review Date
+- The correct date for Stage 2 document verification is 27 May, not 24 May.
+- Please use the corrected date in all team messages and checklist updates.
 
 Write your notice:
 
@@ -1126,6 +1206,20 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
 
+Before revising, mark:
+
+- one sentence that is too vague
+- one sentence that needs better order or connection
+- one sentence that needs more professional tone
+
+After revising, check whether the paragraph now has a clearer reader, purpose, and logical flow.
+
+Revision focus:
+
+- make the main point easier to find
+- connect supporting details to that main point
+- remove wording that sounds casual, repetitive, or unfocused
+
 **Original paragraph:**
 
 **Revised paragraph:**
@@ -1134,6 +1228,19 @@ Rewrite it using your full editing skills. Choose one explanation, summary, proc
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
+
+Use this quick editing routine:
+
+1. identify the audience
+2. remove unclear or emotional wording
+3. make the main point easy to find
+4. add the next action or needed detail if it is missing
+
+Mini edit test:
+
+- Can the reader see the main point in one read?
+- Does the message sound neutral and workplace-appropriate?
+- Would the reader know what to do next?
 
 **Original message:**
 
@@ -1184,6 +1291,26 @@ Each item must:
 - Have professional tone
 
 - Show coherence and consistent formatting
+
+Before you submit, confirm that the four items show a useful range of skills:
+
+- at least one external-facing document
+- at least one internal-facing document
+- at least one paragraph-length text
+- one new Unit 23 document that fits the rest of the portfolio
+
+Short submission check:
+
+1. Are the readers different across the set?
+2. Does each document do a clear workplace job?
+3. Did I revise, not just copy, the earlier texts?
+4. Does the new document match the quality of the revised pieces?
+
+Portfolio quality reminder:
+
+- the set should show range, not repetition
+- each document should feel finished enough to keep in a real workplace file set
+- the new Unit 23 piece should not feel weaker than the revised earlier pieces
 
 ### Portfolio Review Rubric
 
@@ -1366,3 +1493,128 @@ Then complete this final reflection:
 - Which earlier module helped most with explanation and structure?
 - Which earlier module helped most with revision?
 - What would you still revise if you had one more draft?
+
+### Module 6 audience-control matrix
+
+Use this matrix before you write any multi-document task in this module.
+
+| Document type | Reader | What the reader needs first | What the reader does next | Tone risk to avoid |
+|---|---|---|---|---|
+| External message | applicant or outside office | the exact issue or request | send, confirm, or clarify something | sounding abrupt or under-explained |
+| Internal explanation | colleague or supervisor | what happened and why it matters | prepare, pause, or continue a task | giving too little effect information |
+| Internal notice | wider team | one corrected fact or shared instruction | follow one clear reminder or update | sounding vague or incomplete |
+| Revision or style note | team or reviewer | what changed in the writing and why | reuse the stronger choice next time | listing edits without reader effect |
+
+Ask four questions before drafting:
+
+1. Which fact must stay identical across all documents?
+2. Which detail belongs in only one document?
+3. Which reader needs the clearest next step?
+4. Which text needs the calmest tone?
+
+This matrix matters because Module 6 becomes weak when the writer treats all documents as one message split into smaller parts. The reader changes the writing job. When the job changes, the detail level, sequence, and tone must also change.
+
+### Module 6 capstone coaching memo
+
+If a communication pack still feels weak, diagnose it with this memo.
+
+- If the texts sound too similar, rewrite the opening sentence of each one so the purpose changes immediately.
+- If the facts drift, underline all dates, document names, and next steps, then compare them across the set.
+- If one document feels too short, ask what the reader still cannot understand, decide, or do after reading.
+- If the set feels repetitive, keep the shared fact but change the reader-facing function:
+  - request
+  - explanation
+  - reminder
+  - correction
+  - revision reflection
+
+Mini coaching contrast:
+
+- Weak set: every document repeats the same problem sentence with only small wording changes.
+- Stronger set: the external message requests action, the internal note controls workflow, and the revision note explains why the wording changed.
+
+Use this memo after drafting and again before final submission. It is normal for integrated tasks to need one extra pass beyond sentence-level editing because the main challenge is not only correctness. The main challenge is keeping reader purpose under control across the whole communication set.
+
+### Module 6 multi-document rebuild workshop
+
+Use this workshop when one integrated task set still feels too light or too repetitive.
+
+#### Stage 1 - Separate the document jobs
+
+Fill in this table before rewriting:
+
+| Document | Main reader | What the reader must understand | What the reader must do next | One detail to remove |
+|---|---|---|---|---|
+| External message | | | | |
+| Internal explanation | | | | |
+| Internal notice or team reminder | | | | |
+| Revision note or style note | | | | |
+
+If two rows contain the same purpose sentence, the pack is probably still under-differentiated.
+
+#### Stage 2 - Rebuild the sequence
+
+Now rewrite the pack so each document starts with the reader's most urgent need:
+
+- external message:
+  - issue
+  - requested action
+  - timing or next step
+- internal explanation:
+  - event
+  - effect on the work
+  - internal response
+- internal notice:
+  - corrected fact
+  - workflow instruction
+  - follow-up point if needed
+- revision note:
+  - what changed
+  - why it changed
+  - how the new version helps the reader
+
+#### Stage 3 - Cross-check for drift
+
+Review the pack with these prompts:
+
+1. Which facts must stay identical in all documents?
+2. Which details appear in only one document because only that reader needs them?
+3. Which document now carries the clearest next step?
+4. Which document still sounds like it was copied from another one?
+
+Mini contrast:
+
+- Weak pack:
+  - every document repeats "There is a problem with the file" and changes only the greeting
+- Stronger pack:
+  - the external message requests the corrected file
+  - the internal explanation tells the team why review must pause
+  - the notice tells staff which date or step has changed
+  - the revision note explains why the wording split was necessary
+
+This workshop matters because Module 6 cannot reach parity only through better sentence control. It needs fuller task-set support so the learner can manage one fact across several different writing jobs without flattening the differences between readers.
+
+### Module 6 portfolio completion ladder
+
+Before final submission, move one portfolio item through this ladder:
+
+1. Draft stage
+   - identify the reader and purpose
+2. Control stage
+   - mark the main sentence, supporting detail, and next-step line
+3. Revision stage
+   - improve accuracy, clarity, and tone
+4. Portfolio stage
+   - compare the item to the other three pieces
+   - decide what skill range it adds to the set
+5. Final reflection stage
+   - explain one revision decision that made the document more useful
+
+Use these prompts:
+
+- Which portfolio item is the strongest model for audience control?
+- Which item still needs the clearest next-step line?
+- Which item benefits most from a Module 5 editing pass?
+- Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
+
+This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.

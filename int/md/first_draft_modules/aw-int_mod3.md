@@ -128,6 +128,22 @@ Common verbs used in procedures:
 
 - Submit
 
+Choose verbs that tell the reader exactly what action to take.
+Good procedure verbs are:
+
+- direct
+- observable
+- easy to do in order
+
+Avoid vague verbs such as "handle," "do," or "fix" when a more exact action is possible.
+
+Mini contrast:
+
+- Weak: "Do the form."
+- Stronger: "Review the form and attach the signed copy."
+
+The stronger version tells the reader exactly what action sequence to follow.
+
 ### Practice A – Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
@@ -459,6 +475,19 @@ Check your notice before moving on:
 
 Rewrite each notice so it is clearer and more professional.
 
+Make each one more useful by adding:
+
+- the real topic
+- the key fact
+- the effect or next step
+
+Mini notice frame:
+
+- heading or topic
+- what changed or happened
+- who is affected
+- what staff should do next
+
 1. "The meeting will change."
    →
 
@@ -507,6 +536,17 @@ Write your notices:
 
 Rewrite this weak internal notice as a clearer one.
 
+When you revise it, check:
+
+- Is the heading specific?
+- Does the body explain the real issue?
+- Can the reader see what to do next?
+
+Mini contrast:
+
+- Weak notice: vague warning, no action path
+- Stronger notice: clear topic, clear problem, clear reminder or next step
+
 **Original:**
 
 Notice  
@@ -539,6 +579,18 @@ Write a section for an internal bulletin (6–8 sentences) read by staff in your
 - Expected impact
 
 - Next steps
+
+Strong bulletin sections usually move in this order:
+
+1. topic
+2. short background
+3. what is changing or happening
+4. effect on staff or workflow
+5. next step or timing
+
+Bulletin support question:
+
+- Would a busy staff reader understand the change, the effect, and the next action after one reading?
 
 Write your bulletin section:
 
@@ -690,6 +742,17 @@ When these jobs are mixed together, the explanation feels vague.
 
 Rewrite each message to make it clearer and more complete.
 
+Try to make the reader understand:
+
+- what the problem is
+- what caused it
+- what happens next
+
+Mini contrast:
+
+- Weak: "There is a problem with the file."
+- Stronger: "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
+
 1. "There is a problem with the file."
    →
 
@@ -705,6 +768,18 @@ Rewrite each message to make it clearer and more complete.
 ### Practice B – Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
+
+The added sentences should not repeat the first line.
+Use them to give:
+
+- one useful cause, fact, or example
+- one effect, status, or next-step detail
+
+Mini support model:
+
+- Base sentence: "The review is delayed."
+- Detail 1: "Two supporting documents are still missing from the applicant file."
+- Detail 2: "The review can continue once the missing items are uploaded."
 
 1. The application cannot be opened.
    →
@@ -1013,6 +1088,20 @@ Include:
 
 - Link to the next section of the report
 
+Before you write, decide which sentence will do each job:
+
+- open with the meeting purpose
+- group the key points together
+- separate decisions from discussion
+- end with the action path into the next report section
+
+Mini report frame:
+
+- The meeting was held to confirm ...
+- Staff discussed ...
+- The team decided ...
+- The next stage will ...
+
 Write your report section:
 
 ### Reflection
@@ -1132,3 +1221,122 @@ Then review the set with these prompts:
 - Which document would confuse a new staff member most if written badly?
 - Where did you make the reason for the message visible early?
 - Which piece needed the strongest logical order?
+
+### Module 3 internal-writing planning board
+
+Use this planning board before drafting any procedure, notice, problem note, or meeting summary.
+
+| Text type | Reader action after reading | Order pattern | Sentence that must appear early |
+|---|---|---|---|
+| Procedure | follow steps | sequence -> check -> result | the action that starts the task |
+| Notice | react to a change | change -> reason -> action | the changed fact |
+| Problem explanation | understand disruption | problem -> cause -> effect -> current response | the main problem |
+| Meeting summary | continue later work | purpose -> main points -> decision -> next step | the meeting purpose |
+
+Use the board to diagnose weak drafts:
+
+- if the text feels repetitive, the order pattern may be missing
+- if the reader cannot act, the early key sentence may be missing
+- if the text feels unclear, two different patterns may be mixed together
+
+This board helps because Module 3 is often weakened by hidden structure problems, not by grammar alone.
+
+### Module 3 sequencing rebuild lab
+
+Take one weak internal message and rebuild it in two passes.
+
+1. Structure pass
+   - name the text type
+   - choose the matching order pattern
+   - mark where each part should appear
+2. Reader-use pass
+   - add the sentence that tells the reader what to do, expect, or remember next
+   - remove one sentence that only repeats the same point
+
+Reflection prompts:
+
+- Which pass changed the text more?
+- Which sentence became most useful after the rebuild?
+- What would a new staff member understand now that was not clear before?
+
+### Module 3 internal-document rebuild workshop
+
+When an internal text still feels too thin, rebuild it with this workshop.
+
+#### Step 1 - Name the document job
+
+Choose one:
+
+- procedure
+- notice
+- problem explanation
+- meeting summary
+
+Then complete:
+
+- the reader needs this document because ...
+- after reading, the reader should be able to ...
+- the most important sentence must appear by line ...
+
+#### Step 2 - Build the use-path
+
+Use the matching path:
+
+- procedure:
+  - start action
+  - ordered steps
+  - check or result
+- notice:
+  - changed fact
+  - reason
+  - action for staff
+- problem explanation:
+  - problem
+  - cause
+  - effect
+  - current response
+- meeting summary:
+  - meeting purpose
+  - key points
+  - decision
+  - next step
+
+#### Step 3 - Add a reader-use sentence
+
+Many weak internal texts explain something but still do not tell the reader what to do with the information.
+
+Add one sentence that makes the reader-use value visible:
+
+- what to check
+- what to pause
+- what to remember
+- what to do next
+
+Mini contrast:
+
+- Weak notice:
+  - "The room will change next week."
+- Stronger notice:
+  - "The document check will move to Room 304 next week because Room 201 is under maintenance. Please bring all morning submissions to Room 304 from Monday to Friday."
+
+The stronger version works because it combines change, reason, and action in a usable order.
+
+### Module 3 reader-use comparison set
+
+Compare these two meeting-summary endings.
+
+**Ending A**
+Further discussion may be needed later.
+
+**Ending B**
+The team will request the missing file by Wednesday and review the case again on Friday if the document arrives in time.
+
+Why Ending B is stronger:
+
+- it gives a visible action
+- it gives timing
+- it shows the conditional next step
+
+Now rewrite one ending from your own summary work so it does the same three jobs.
+
+This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.

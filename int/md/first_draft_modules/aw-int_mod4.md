@@ -148,6 +148,20 @@ An external inquiry often needs two jobs:
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
 
+For each one, make sure you:
+
+- add a short background clue
+- ask one specific question
+- use a polite request form
+- avoid sounding demanding
+
+Mini model:
+
+- Weak: "What is the rule?"
+- Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
+
+The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
+
 1. "I don’t understand this part. Tell me."
    →
 
@@ -163,6 +177,19 @@ Rewrite each inquiry to make it clearer, more polite, and more complete.
 ### Practice B – Add Background Information
 
 Add **one sentence of background** before each question.
+
+Use the background sentence to answer:
+
+- What document, message, or rule are you referring to?
+- What part is still unclear?
+- Why do you need the answer now?
+
+Mini model:
+
+- Weak background: "I have a question."
+- Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
+
+The better version helps the reader understand the task situation before they read the question itself.
 
 1. Could you clarify the new ID requirement?
    →
@@ -254,6 +281,22 @@ Include:
 - Why clarification is necessary
 
 - What the next section of a report will explain
+
+Helpful structure:
+
+1. State the document or message that created the question.
+2. Explain the unclear point.
+3. Explain why the unclear point matters for the work.
+4. State what clarification is needed.
+5. Show what action or report section will follow.
+
+Mini report-style frame:
+
+- We reviewed the external instruction note received on Monday.
+- One step in the new submission process is still unclear.
+- Clarification is necessary because the team cannot complete the next document check confidently.
+- An inquiry has therefore been prepared for the issuing office.
+- The next section explains the expected effect on the schedule.
 
 Write your paragraph:
 
@@ -381,6 +424,20 @@ If one part is missing, the explanation may sound incomplete even when the gramm
 
 Rewrite the sentences to make the explanations clearer.
 
+Do not only change one word.
+Build each answer so the reader can understand:
+
+- what happened
+- why it happened
+- why it matters
+
+Mini model:
+
+- Weak: "The schedule changed."
+- Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
+
+This is stronger because the reader can follow fact, cause, and effect in one short explanation.
+
 1. "The schedule changed."
    →
 
@@ -396,6 +453,18 @@ Rewrite the sentences to make the explanations clearer.
 ### Practice B – Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason**.
+
+Try this pattern:
+
+- Background: what the reader needs to know first
+- Reason: what caused the problem
+- Main sentence: the key situation or result
+
+You can test your answer with three quick questions:
+
+1. Would a new colleague understand the context?
+2. Does the reason explain the main sentence clearly?
+3. Can the reader see why the information matters now?
 
 1. The applicant list is incomplete.
    →
@@ -484,6 +553,22 @@ Include:
 - Why it is an issue
 
 - Effect on the next steps
+
+Before you write, decide:
+
+- who will read the report
+- which fact is the main problem
+- which sentence should explain the effect on the work
+
+Strong explanatory paragraphs usually move from fact to reason to effect, not from opinion to opinion.
+
+Mini report-style frame:
+
+- During the document check, the team found a mismatch between the uploaded file and the case record.
+- This is an issue because the file cannot be reviewed safely in its current form.
+- The problem appears to come from an earlier data-entry or upload step.
+- As a result, the next review stage may be delayed.
+- The team is now confirming the correct version and preparing the follow-up action.
 
 Write your paragraph:
 
@@ -610,6 +695,19 @@ Do not turn it into a complaint about the other person's mistake.
 
 Rewrite each response to make it clear and polite.
 
+Aim for this order when possible:
+
+1. acknowledge the confusion
+2. state the correct information
+3. add the next useful detail
+
+Mini model:
+
+- Weak: "You misunderstood the instructions."
+- Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
+
+The stronger version corrects the information without blaming the reader.
+
 1. "No, that’s wrong."
    →
 
@@ -708,6 +806,22 @@ Include:
 - Correct information
 
 - Summary of next steps
+
+Useful paragraph plan:
+
+1. Introduce the message, process, or rule that caused the misunderstanding.
+2. State what people misunderstood.
+3. Explain the correct information clearly.
+4. Show how the misunderstanding affects the work.
+5. State the next action or reminder for staff.
+
+Mini internal-report frame:
+
+- A misunderstanding arose after staff read the revised guidance email.
+- Several colleagues believed that all documents were due in the first submission stage.
+- In fact, only the initial required forms must be sent at that point.
+- The misunderstanding could delay the internal preparation sequence if it is not corrected.
+- Staff will therefore receive a short reminder note and updated checklist wording.
 
 Write your paragraph:
 
@@ -875,9 +989,46 @@ Emails should use:
 Consistency is not only about tone.  
 It also includes layout and organization, because formatting affects readability.
 
+A reader can follow an email more easily when the message uses the same visible pattern each time:
+
+- clear subject line
+- short opening
+- one clear purpose sentence near the top
+- body details grouped together
+- predictable closing
+
+If the layout changes every time, the reader has to search for the main point again.
+
+Mini comparison:
+
+- Inconsistent layout makes the reader ask, "Where is the main request?"
+- Consistent layout lets the reader predict where to find the purpose, details, and closing.
+
+That is why formatting supports clarity, not only appearance.
+
 ### Practice B – Reformat the Email
 
 Rewrite this email with clear formatting.
+
+When you rewrite it, decide:
+
+- what subject line is specific enough
+- where the background should stop
+- which sentence should become the direct request
+- what closing fits the tone
+
+Mini model:
+
+- Weak:
+  Subject: Question
+  Hi, I saw the file. It looks wrong. Please explain. Thanks.
+
+- Stronger:
+  Subject: Clarification Request About File Version
+  Hello,
+  We reviewed the file attached to yesterday's message and found a possible version difference.
+  Could you confirm which version should be used for the next submission step?
+  Thank you for your help.
 
 **Original:**
 Subject: Question  
@@ -947,6 +1098,19 @@ Then use those rules to check one email from your freer practice.
 ### Extended Writing Task – Email Style Guide Paragraph
 
 Write a paragraph (6–8 sentences) explaining why your team should follow a consistent email style and what elements are important.
+
+Try to include both:
+
+- one reason connected to reader confidence or speed
+- one reason connected to fewer misunderstandings
+
+You may also mention a simple team rule such as subject lines, greeting style, paragraphing, or closing format.
+
+Mini content frame:
+
+- why one stable style helps the reader
+- which visible features should stay the same
+- how a shared style reduces wasted follow-up messages
 
 Write your paragraph:
 
@@ -1069,3 +1233,112 @@ After writing, explain:
 - which details you removed from the outward-facing version
 - where you worked hardest to protect clarity and trust
 - which unit from this module you used most directly
+
+### Module 4 reader-planning grid
+
+Before you send any outward-facing message in this module, fill in this grid.
+
+| Reader | What they already know | What they still need | What they may misunderstand | What tone helps most |
+|---|---|---|---|---|
+| External office | some shared process background | one answerable question | why you are asking now | respectful and efficient |
+| Applicant or student | basic task or document request | clearer explanation and next action | institutional shorthand or hidden assumptions | clear, calm, and supportive |
+| Internal team | full workplace context | practical effect and next step | how much detail the outside reader received | direct and operational |
+
+Use the grid to stop three common Module 4 problems:
+
+- giving too much background to the outside reader
+- giving too little explanation to the less-informed reader
+- forgetting to show why the message matters now
+
+When a message still feels weak after grammar editing, the problem is often here. The writer has not yet decided what the reader already knows, what the reader still needs, and what kind of trust the message should build.
+
+### Module 4 external communication rebuild lab
+
+Choose one scenario:
+
+- a missing supporting document
+- a confusing instruction in a process note
+- a repeated team email pattern that causes mixed tone
+
+Write a two-stage rebuild:
+
+1. First draft
+   - write the message quickly in 4-6 sentences
+2. Rebuild draft
+   - rewrite it so the first sentence gives the purpose sooner
+   - remove one detail the reader does not need
+   - add one detail the reader does need
+   - add one line that shows the next action clearly
+
+Then answer:
+
+- Which sentence changed reader trust most?
+- Which sentence changed answerability most?
+- Which detail did you remove because it belonged only to internal discussion?
+
+This lab matters because Module 4 is not only about being polite. It is about making the message easy for the other person to answer, follow, or accept without extra confusion.
+
+### Module 4 outward-facing rebuild workshop
+
+Use this workshop when an external-facing message still feels underbuilt after one revision.
+
+#### Step 1 - Reader need check
+
+Write short answers to these questions:
+
+1. What does the reader already know?
+2. What exact question or explanation does the reader still need?
+3. Which detail would only matter to your internal team?
+4. What kind of trust does this reader need from the message?
+
+#### Step 2 - Answerability rebuild
+
+Rebuild the message so it becomes easier to answer or follow.
+
+Check each sentence:
+
+- Does it help the reader understand the situation?
+- Does it narrow the question or explanation?
+- Does it show what action or reply is needed next?
+
+If a sentence does none of those jobs, remove or rewrite it.
+
+#### Step 3 - Reader-trust rebuild
+
+Now review the tone with this contrast:
+
+- blame language -> calm clarification
+- vague warning -> specific explanation
+- heavy background -> only the background the reader needs
+- abrupt request -> clear action with reason
+
+Mini contrast:
+
+- Weak:
+  - "You misunderstood the form. Please read the instructions again."
+- Stronger:
+  - "Thank you for your message. To clarify the form process, the supporting document is uploaded after the main form is submitted. Please let us know if you would like us to confirm the next step in more detail."
+
+The stronger version works because it protects trust, explains the sequence, and leaves the reader with a clear way forward.
+
+### Module 4 audience-shift practice set
+
+Take one workplace issue such as:
+
+- a missing document
+- an unclear instruction
+- a repeated formatting problem
+
+Write three short openings:
+
+1. to an external office
+2. to an applicant or student
+3. to your internal team
+
+After writing, explain:
+
+- which opening gives the narrowest question
+- which opening needs the clearest explanation
+- which opening can assume the most background knowledge
+
+This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.

@@ -420,6 +420,17 @@ Use these phrases when the information is not clear.
 
 Rewrite the questions to make them specific and professional.
 
+Each stronger question should show:
+
+- what part is unclear
+- what information you need
+- why the reader can answer it directly
+
+Mini contrast:
+
+- Weak: "Tell me the details."
+- Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
+
 1. What do you mean?  
    →
 
@@ -617,6 +628,22 @@ Your paragraph should:
 
 - Lead into next steps in a neutral way
 
+Useful paragraph order:
+
+1. short background
+2. unclear or missing point
+3. reason clarification is needed
+4. effect on the work
+5. neutral next-step line
+
+Mini paragraph frame:
+
+- We reviewed the message received this morning.
+- One required point is still unclear.
+- Clarification is needed before the team can complete the next step.
+- The missing information affects the current document check.
+- A follow-up message will therefore be sent today.
+
 Write your paragraph:
 
 ### Reflection
@@ -726,6 +753,17 @@ That reduces uncertainty and extra follow-up questions.
 ### Practice A – Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
+
+Try to replace vague updates with:
+
+- what changed
+- which part of the work is affected
+- what the reader should understand now
+
+Mini contrast:
+
+- Weak: "The meeting is delayed."
+- Stronger: "The meeting is delayed until Thursday because the updated file set is not yet complete."
 
 1. "The meeting is delayed."
    →
@@ -1007,6 +1045,19 @@ Often a request is clearer when you add **one short context sentence**.
 
 Rewrite each message to make it **polite, clear, and complete**.
 
+Make each request stronger by adding:
+
+- the exact item or action
+- any useful timing detail
+- the reason or purpose when needed
+
+Mini request frame:
+
+- action needed
+- exact document or information
+- timing
+- short reason
+
 1. "Send the updated file."
    →
 
@@ -1040,6 +1091,17 @@ A good request includes:
 ### Practice B – Make the Request More Specific
 
 Each message below is polite but **not specific**. Improve it.
+
+Specific requests are easier to answer because they name:
+
+- which document or information is needed
+- which part should be checked
+- what kind of update is expected
+
+Mini contrast:
+
+- Weak: "Could you update me?"
+- Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"
 
 1. "Could you send the document?"
    →
@@ -1341,3 +1403,31 @@ After writing, answer these questions:
 - Where did you make the reason for the request clearest?
 - Which message needed the most careful tone control?
 - Which unit from this module helped you most at each step?
+
+### Module 2 audience-and-detail grid
+
+Use this grid when one email still feels underbuilt.
+
+| Situation | Reader | Detail the reader needs | Detail the reader does not need | Most important sentence job |
+|---|---|---|---|---|
+| clarification request | office or colleague | exact information gap | unrelated background | precise question |
+| delay or change update | colleague or office | current status and next step | repeated apology | reassurance through clarity |
+| action request | colleague, applicant, or office | exact action and reason | extra history | clear request |
+
+If the email is still weak after one revision, ask:
+
+- Is the message missing the exact information gap?
+- Is the reason for the request still too vague?
+- Is the email giving more background than the relationship needs?
+
+### Module 2 follow-up planning note
+
+Strong email control includes knowing what happens after the first message.
+
+Before you finish an email task, write one short follow-up note:
+
+- what reply you expect
+- what you will do if the reply is incomplete
+- what internal update may be needed after the exchange
+
+This extra planning step helps the writer build emails that feel more purposeful and more realistic in workplace sequence.

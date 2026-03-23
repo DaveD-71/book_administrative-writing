@@ -78,6 +78,7 @@ Current active point in that sequence:
 | Prompt / task control | `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md` |
 | Support-parity intervention | `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` |
 | Activity-gap worklist | `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md` |
+| Wave 4 execution brief | `int/edits & guides/planning/guide-set/aw-int_wave4_execution_brief.md` |
 | QA stage definition | `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` |
 | Full-review stage definition | `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` |
 | Live editing source | `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` |
@@ -114,20 +115,21 @@ The immediate revision priorities are:
 1. treat `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` as the blocking source of truth for the current stage
 2. revise the planning stack so support-depth parity and module-volume parity are binding rather than implied
 3. use `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md` as the activity-level diagnosis for the next intervention passes
-4. continue the live rebuild beyond the second whole-book support wave, with the heaviest remaining expansion focus on Modules 4 and 6, then Modules 3 and 5
-5. keep the first rebuild-wave gains stable:
+4. use `int/edits & guides/planning/guide-set/aw-int_wave4_execution_brief.md` as the operative control brief for the next broader rebuild wave
+5. continue the live rebuild beyond the earlier support waves, with the heaviest remaining expansion focus on Module 6 first, then Modules 3 and 4, then Modules 2 and 5
+6. keep the first rebuild-wave gains stable:
    - explicit model/example support
    - why-this-works teaching notes
    - self-check routines
    - editing-practice routines
    - module guides and module review workshops
-6. keep the second rebuild-wave gains stable:
+7. keep the second rebuild-wave gains stable:
    - module strategy maps
    - module revision labs
    - module-level transfer and carry-forward tasks
-7. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
-8. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
-9. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
+8. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
+9. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
+10. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
 
 ---
 
