@@ -906,3 +906,12 @@ Historical note:
 
 
 
+
+### 2026-03-23T10:43:54.0114595+09:00 - Startup Bootstrap Pair Was Resynchronized After The Repo-Level AGENTS Update
+
+- Read the active user-level and repo-level `AGENTS.md` files plus the current user/project memory files for the active workspace
+- Confirmed the active workspace root as `\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing`
+- Confirmed the workspace is the `main` branch of a git repo with `origin` configured and no pending remote update reported by `git fetch --dry-run origin`
+- Detected drift in the duplicated bootstrap pair: the repo `AGENTS.md` had `Bootstrap-Version: 2026-03-22T16:33:28.5113488+09:00` while the user-level `AGENTS.md` was still at `2026-03-17T18:58:15.2116200+09:00`
+- Detected the same kind of startup-sync drift in user memory: `user-learning-mirror.md` carried the newer merged entry set while `%USERPROFILE%\.codex\memories\user-learning.md` lagged behind
+- Resolved the startup drift by syncing the repo `AGENTS.md` into `%USERPROFILE%\.codex\AGENTS.md`, syncing `user-learning-mirror.md` into `%USERPROFILE%\.codex\memories\user-learning.md`, and appending new startup read rows to `instruction-read-log.csv`
