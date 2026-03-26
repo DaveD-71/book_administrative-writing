@@ -1083,3 +1083,58 @@ Historical note:
   - Mod 4 is now very close to its floor
   - Mod 3 remains short, but the gap is smaller
   - Mod 6 remains the largest live deficit and still needs the heaviest remaining support work
+
+
+### 2026-03-26T14:30:00+09:00 - Regenerated Combined Advanced And Intermediate Markdown Drafts
+
+- Read the active project memory and current control files before regeneration
+- Confirmed the live source sets used for combination:
+  - advanced: `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+  - intermediate: `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Regenerated the combined output files by direct append without content editing:
+  - `adv/md/aw-adv-all.md`
+  - `int/md/aw-int-all.md`
+- Included the companion Unit 23 capstone rubric in the advanced combined file by appending:
+  - `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
+  - immediately after `adv/md/n10/aw-adv_mod6_n10.md`
+- Result:
+  - the repo now has current combined Markdown drafts for both textbook tracks based on the present live module sources
+
+
+### 2026-03-26T15:35:00+09:00 - Applied The Intermediate INT-5A Sync-And-Refinement Pass
+
+- Used the revised Claude v2 evaluation as a correction pass rather than as a redesign brief
+- Synced the live intermediate book to the existing structural-profile Can-Do architecture by rewriting all 23 `### Focus` sections in:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Reworked the flagged freer-practice prompt sets in Units 5, 6, 7, 16, 17, and 18 so the options now stay situation-anchored and more parallel in scope and detail
+- Added the missing support-layer refinements in the live book:
+  - worked mini-examples beside the phrase-bank material in Units 12 and 13
+  - more metacognitive reflection prompts across Modules 4 and 6
+- Updated the intermediate control layer so the remaining QA checks now explicitly cover:
+  - profile-to-live `### Focus` sync
+  - situation anchoring and option parallelism
+  - phrase-bank worked examples
+  - scenario-family distribution
+  - later-module reflection progression
+- Extended `aw-int_unit_structural_profiles.md` so the flagged units and whole-book notes now capture the remaining live-book risks rather than leaving them implicit
+- Result:
+  - the intermediate book and control layer now reflect the corrected Claude v2 picture: the architecture was already present, and this pass closes the live-content transfer gap while tightening the remaining prompt and QA controls
+
+
+### 2026-03-26T16:05:00+09:00 - Validation Pass Closed The Remaining INT-5A Drift
+
+- Re-checked the implementation against the saved INT-5A sync plan instead of assuming the earlier pass was complete
+- Confirmed all 23 live units now use profile-derived `### Focus` Can-Do sections
+- Found and corrected the remaining drift:
+  - Module 5 reflection prompts had not yet been upgraded to the later-stage metacognitive standard
+  - Unit 13 still needed the live mini explanation model beside the phrase-support section
+  - Unit 13's structural profile still needed the explicit worked-mini-example flag
+  - `int/md/aw-int-all.md` needed regeneration after the follow-up live-module corrections
+- Regenerated the combined intermediate draft from the final six module files so the live source set and combined reference draft are aligned again
+- Result:
+  - the intermediate live modules, structural profiles, QA control layer, and combined draft now match the implemented INT-5A sync scope with the identified drift removed

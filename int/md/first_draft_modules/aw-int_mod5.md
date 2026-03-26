@@ -1,4 +1,4 @@
-# MODULE 5. Editing & Revision Skills (Basic)
+﻿# MODULE 5. Editing & Revision Skills (Basic)
 
 ## Module Guide
 
@@ -19,21 +19,18 @@ Use the module support in this order:
 - complete the editing practice so you explain the revision, not only produce it
 - use the transfer extension to turn the editing skill into a repeatable workplace habit
 
-## Unit 16 — Editing for Accuracy
+## Unit 16 窶・Editing for Accuracy
 
 ### Focus
 
-In this unit, you will learn how to **edit writing for accuracy**, focusing on grammar, spelling, punctuation, and basic sentence structure. You will:
+By the end of this unit, you should be able to:
 
-- Identify common accuracy problems
+- I can identify basic grammar and accuracy problems in workplace writing.
+- I can correct common errors in short administrative texts.
+- I can revise a short email for more accurate language use.
+- I can edit a short paragraph for accuracy and clarity.
 
-- Correct errors in simple administrative writing
-
-- Practise editing sentences and short texts
-
-- Improve clarity through accurate language use
-
-### What Does “Accuracy” Mean in Writing?
+### What Does 窶廣ccuracy窶・Mean in Writing?
 
 Accuracy refers to the **correct use of language**, including:
 
@@ -111,7 +108,7 @@ Mini contrast:
 
 One small change can stop the reader from doubting the message.
 
-### Language 1 – Common Accuracy Problems
+### Language 1 窶・Common Accuracy Problems
 
 #### Verb Forms
 
@@ -142,7 +139,7 @@ When you edit for accuracy, check one error family at a time:
 
 This makes editing more reliable than trying to fix everything at once.
 
-### Practice A – Correct the Sentences
+### Practice A 窶・Correct the Sentences
 
 Rewrite each sentence correctly.
 
@@ -159,20 +156,20 @@ Accuracy check:
 - Does the noun or verb form match the message?
 
 1. *The system under maintenance today.*  
-   →
+   竊・
 
 2. *We will checking the documents.*  
-   →
+   竊・
 
 3. *Please send me informations about new procedure.*  
-   →
+   竊・
 
 4. *The documents is complete.*  
-   →
+   竊・
 
-### Practice B – Edit for Accuracy
+### Practice B 窶・Edit for Accuracy
 
-Each short text contains 4–6 errors. Rewrite the corrected version.
+Each short text contains 4窶・ errors. Rewrite the corrected version.
 
 #### Text 1
 
@@ -186,7 +183,7 @@ Corrected version:
 
 Corrected version:
 
-### Guided Practice – Edit a Short Administrative Email
+### Guided Practice 窶・Edit a Short Administrative Email
 
 You are editing a short email draft before it is sent to a colleague or applicant.
 
@@ -206,17 +203,17 @@ Before editing the next texts, ask:
 3. Are the articles and prepositions correct?
 4. Does the corrected version sound natural enough to send?
 
-### Freer Practice – Edit Two Short Texts
+### Freer Practice 窶・Edit Two Short Texts
 
 Choose two situations and write the **accurate, corrected version**.
 For each one, imagine you are the person checking the draft before it is sent or shared.
 
 #### Options
 
-A. A short status update with verb tense errors.  
-B. A description of a problem with article/preposition errors.  
-C. A simple request email with spelling errors.  
-D. A meeting summary with grammar errors.
+A. A short status update about yesterday's document check with several verb tense mistakes that could confuse the timing.  
+B. A description of a filing problem with article and preposition errors that make the location and document details unclear.  
+C. A simple request email with spelling and agreement errors that must be corrected before it is sent.  
+D. A meeting summary with grammar errors affecting responsibility, timing, and next-step meaning.
 
 Keep the original meaning, but correct the language so the final version is accurate and usable.
 
@@ -230,9 +227,9 @@ For each one, explain:
 - why the corrected version is better
 - what you should check next time
 
-### Extended Writing Task – Editing a Paragraph
+### Extended Writing Task 窶・Editing a Paragraph
 
-Rewrite this paragraph (6–7 sentences) to correct errors and improve clarity.
+Rewrite this paragraph (6窶・ sentences) to correct errors and improve clarity.
 Treat it as a draft internal update that needs editing before your team shares it.
 
 **Original:**
@@ -255,32 +252,29 @@ Use your own wording, but make it a routine you could really use at work.
 
 ### Reflection
 
-1. Which grammar mistakes do you often make?  
+1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
 
-2. Which accuracy skill improved the most today?  
+2. Which correction in your work changed the meaning or clarity most clearly for the reader?  
 
-3. What accuracy point do you want to focus on next?
+3. What check should come first in your own editing routine next time, and why?
 
 ### Homework
 
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 ---
 
-## Unit 17 — Editing for Clarity
+## Unit 17 窶・Editing for Clarity
 
 ### Focus
 
-In this unit, you will learn how to **edit writing to make it clearer and easier to understand**. You will:
+By the end of this unit, you should be able to:
 
-- Identify unclear or confusing sentences
+- I can identify vague, wordy, or poorly organized writing.
+- I can rewrite sentences to make them clearer and more direct.
+- I can reorganize information for better logical flow.
+- I can revise a paragraph so it is easier to understand.
 
-- Improve clarity by simplifying and reorganising ideas
-
-- Remove unnecessary words or repetition
-
-- Practise rewriting texts to improve logical flow
-
-### What Does “Clarity” Mean in Writing?
+### What Does 窶廚larity窶・Mean in Writing?
 
 Clarity refers to how easily the reader can understand your message. Clear writing:
 
@@ -292,7 +286,7 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 - Avoids ambiguity or vague language
 
-#### Example (Before → After)
+#### Example (Before 竊・After)
 
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
 **After:** The document appears to be missing some parts.
@@ -343,17 +337,17 @@ It is also:
 - show the main point earlier
 - put related ideas together
 
-### Language 1 – Common Clarity Problems
+### Language 1 窶・Common Clarity Problems
 
 #### Vague Language
 
-- “kind of”, “maybe”, “a bit”, “something”, “in some places”
+- 窶很ind of窶・ 窶徇aybe窶・ 窶彗 bit窶・ 窶徭omething窶・ 窶彿n some places窶・
 
 #### Unnecessary Words
 
-- The reason is because → The reason is
+- The reason is because 竊・The reason is
 
-- Due to the fact that → Because
+- Due to the fact that 竊・Because
 
 #### Long or Complicated Sentences
 
@@ -372,31 +366,31 @@ Mini contrast:
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
 
-### Practice A – Make the Sentences Clearer
+### Practice A 窶・Make the Sentences Clearer
 
 Rewrite each sentence.
 
 1. "It looks like the file maybe has a few issues."
-   →
+   竊・
 
 2. "There are things missing from the form somewhere."
-   →
+   竊・
 
 3. "We think that it could possibly be delayed for some reason."
-   →
+   竊・
 
 4. "It would be appreciated if you could maybe check the document again."
-   →
+   竊・
 
-### Language 2 – Improving Flow
+### Language 2 窶・Improving Flow
 
 Clear writing follows a **logical order**, often:
 
-- Background → Main point → Detail
+- Background 竊・Main point 竊・Detail
 
-- Issue → Cause → Effect
+- Issue 竊・Cause 竊・Effect
 
-- Topic → Explanation → Closing idea
+- Topic 竊・Explanation 竊・Closing idea
 
 #### Example
 
@@ -404,7 +398,7 @@ Clear writing follows a **logical order**, often:
 
 **After:** The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 
-### Practice B – Reorganise for Better Flow
+### Practice B 窶・Reorganise for Better Flow
 
 Rewrite the sentences in a clear, logical order.
 
@@ -421,7 +415,7 @@ Flow test:
 
 Sentences:
 A. Two forms are incomplete.  
-B. We reviewed the applicant’s file this morning.  
+B. We reviewed the applicant窶冱 file this morning.  
 C. This will delay the next review stage.
 
 Write the best order:
@@ -429,13 +423,13 @@ Write the best order:
 2.
 3.
 
-### Guided Practice – Edit for Clarity
+### Guided Practice 窶・Edit for Clarity
 
-Rewrite this paragraph (4–6 sentences) to make it clearer.
+Rewrite this paragraph (4窶・ sentences) to make it clearer.
 Treat it as a draft update that a colleague wrote for internal use.
 
 **Original:**
-The system was slow today and we couldn’t do much because of it. Also, there was a problem with the files and some people couldn’t open them. So the schedule might change, and maybe we will need more time. There might be more information later.
+The system was slow today and we couldn窶冲 do much because of it. Also, there was a problem with the files and some people couldn窶冲 open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 
 **Rewrite:**
 
@@ -448,17 +442,17 @@ Before revising your own texts, check:
 3. Which sentence can be made shorter?
 4. Does the order help the reader follow the message?
 
-### Freer Practice – Edit Two Texts for Clarity
+### Freer Practice 窶・Edit Two Texts for Clarity
 
 Choose two situations and rewrite them clearly.
 For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
 
 #### Options
 
-A. A confusing explanation of a delay.  
-B. A long, unclear message about missing documents.  
-C. A vague status update.  
-D. A meeting summary with poor organisation.
+A. A confusing explanation of a delay that hides the main cause and the next step.  
+B. A long internal message about missing documents that repeats details instead of stating the main problem clearly.  
+C. A vague status update that uses unclear words and never names the real issue.  
+D. A meeting summary with poor organisation that mixes background, decisions, and actions in the wrong order.
 
 Keep the meaning, but make the final version shorter, clearer, and better organized.
 
@@ -484,9 +478,9 @@ Write:
 - the stronger version
 - one line explaining why the stronger version is easier for the reader
 
-### Extended Writing Task – Clear Paragraph Revision
+### Extended Writing Task 窶・Clear Paragraph Revision
 
-Rewrite this paragraph (6–8 sentences) to improve clarity and flow.
+Rewrite this paragraph (6窶・ sentences) to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
 
 **Original:**
@@ -496,30 +490,29 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 ### Reflection
 
-1. What clarity problems do you often see in your own writing?  
+1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
 
-2. Which strategies helped you the most today?  
+2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?  
 
-3. How will clear writing help your communication at work?
+3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
 
 ### Homework
 
-Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today’s strategies.
+Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today窶冱 strategies.
 ---
 
-## Unit 18 — Editing for Tone
+## Unit 18 窶・Editing for Tone
 
 ### Focus
 
-In this unit, you will learn how to **edit writing to improve tone**, making your messages more polite, professional, and appropriate for administrative communication. You will:
+By the end of this unit, you should be able to:
 
-- Identify overly direct or inappropriate tone
+- I can identify tone problems such as directness, blame, or emotional language.
+- I can soften a message without making it unclear.
+- I can rewrite a short email in a more professional tone.
+- I can revise a paragraph so it sounds more neutral and appropriate.
 
-- Adjust language to sound neutral and professional
-
-- Practise rewriting sentences, paragraphs, and emails
-
-### What Is “Tone” in Writing?
+### What Is 窶弋one窶・in Writing?
 
 Tone is **how your writing sounds** to the reader.
 A professional tone is:
@@ -540,18 +533,18 @@ A poor tone may be:
 
 - Impolite or demanding
 
-#### Example (Before → After)
+#### Example (Before 竊・After)
 
-**Before:** You didn’t send the right file. Send the correct one now.  
+**Before:** You didn窶冲 send the right file. Send the correct one now.  
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 
 ### Warm-Up: Why Is the Tone Wrong?
 
 Identify what makes the tone inappropriate.
 
-1. "You didn’t do this correctly."
+1. "You didn窶冲 do this correctly."
 
-2. "Why didn’t you check before sending it?"
+2. "Why didn窶冲 you check before sending it?"
 
 3. "Fix this immediately."
 
@@ -577,7 +570,7 @@ Write the issues:
 
 Compare:
 
-- Weak: *You didn’t send the right file. Send the correct one now.*
+- Weak: *You didn窶冲 send the right file. Send the correct one now.*
 - Stronger: *Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
 
 The stronger version works because it:
@@ -588,30 +581,30 @@ The stronger version works because it:
 
 Tone editing is successful when the message stays useful and becomes easier to receive.
 
-### Language 1 – Softening Direct Language
+### Language 1 窶・Softening Direct Language
 
-#### Direct → Polite
+#### Direct 竊・Polite
 
-- You didn’t submit the file.  
-  → The file does not appear to have been submitted.
+- You didn窶冲 submit the file.  
+  竊・The file does not appear to have been submitted.
 
 - You need to fix this.  
-  → This section may need correction.
+  竊・This section may need correction.
 
 - That is wrong.  
-  → There seems to be an error in this section.
+  竊・There seems to be an error in this section.
 
 #### Useful Softening Phrases
 
-- It appears that…
+- It appears that窶ｦ
 
-- It seems that…
+- It seems that窶ｦ
 
-- There may be an issue with…
+- There may be an issue with窶ｦ
 
-- Thank you for checking…
+- Thank you for checking窶ｦ
 
-### Practice A – Make the Tone Polite
+### Practice A 窶・Make the Tone Polite
 
 Rewrite the sentences politely.
 
@@ -630,18 +623,18 @@ Mini contrast:
 The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
-   →
+   竊・
 
 2. "You made a mistake."
-   →
+   竊・
 
 3. "Check it again."
-   →
+   竊・
 
 4. "This is not acceptable."
-   →
+   竊・
 
-### Language 2 – Tone in Emails
+### Language 2 窶・Tone in Emails
 
 Emails often need polite tone markers.
 
@@ -657,11 +650,11 @@ Emails often need polite tone markers.
 
 #### Common Tone Problems
 
-- Imperatives (Send…, Check…, Fix…)
+- Imperatives (Send窶ｦ, Check窶ｦ, Fix窶ｦ)
 
-- Emotional expressions (“This is terrible,” “I’m very upset”)
+- Emotional expressions (窶弋his is terrible,窶・窶廬窶冦 very upset窶・
 
-- Blaming language (“You didn’t…, You should have…”)
+- Blaming language (窶弸ou didn窶冲窶ｦ, You should have窶ｦ窶・
 
 **Editing principle**
 
@@ -672,25 +665,25 @@ When revising for tone, try this order:
 3. add the needed action politely
 4. keep the original purpose
 
-### Practice B – Improve the Email Tone
+### Practice B 窶・Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
 #### Email 1
 
 Subject: Document  
-You didn’t attach the correct file. Attach the right one now.
+You didn窶冲 attach the correct file. Attach the right one now.
 
 Rewrite:
 
 #### Email 2
 
 Subject: Problem  
-Why didn’t you tell me about this earlier? Now we have a delay.
+Why didn窶冲 you tell me about this earlier? Now we have a delay.
 
 Rewrite:
 
-### Guided Practice – Edit a Full Email
+### Guided Practice 窶・Edit a Full Email
 
 Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
@@ -711,17 +704,17 @@ Before revising your own emails, check:
 3. Does the tone sound calm and professional?
 4. Would I be comfortable sending this version?
 
-### Freer Practice – Write Two Tone-Improved Emails
+### Freer Practice 窶・Write Two Tone-Improved Emails
 
 Choose two situations and write improved versions.
 For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
 
 #### Options
 
-A. Requesting missing information.  
-B. Informing someone about an inconsistency.  
-C. Explaining that a process will take longer.  
-D. Clarifying a misunderstanding.
+A. Requesting missing information from an applicant after an earlier draft sounded too abrupt.  
+B. Informing a colleague or outside reader about an inconsistency in the file set without sounding blaming or irritated.  
+C. Explaining that a process will take longer after a rough draft sounded negative or impatient.  
+D. Clarifying a misunderstanding in a way that corrects the point clearly without making the reader feel blamed.
 
 Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication.
 
@@ -749,23 +742,23 @@ Then explain:
 - what changed
 - why the tone needed to change
 
-### Extended Writing Task – Tone Revision Paragraph
+### Extended Writing Task 窶・Tone Revision Paragraph
 
-Rewrite this paragraph (6–8 sentences) to improve tone while keeping the same information.
+Rewrite this paragraph (6窶・ sentences) to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
 
 **Original:**
-We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn’t follow the instructions again. Now everything is delayed. We can’t work like this. Someone needs to explain the rules again.
+We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn窶冲 follow the instructions again. Now everything is delayed. We can窶冲 work like this. Someone needs to explain the rules again.
 
 **Rewrite:**
 
 ### Reflection
 
-1. What tone problems do you see most often in your writing?  
+1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
 
-2. What softening phrase do you want to practise more?  
+2. Which softening phrase works best only when the message still stays clear and useful for the reader?  
 
-3. How can improving tone help your professional communication?
+3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
 
 ### Homework
 
@@ -902,3 +895,7 @@ Before you submit any later task, write a short memo:
 - one sentence that still needs a better next-step signal
 
 This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
+
+
+
+

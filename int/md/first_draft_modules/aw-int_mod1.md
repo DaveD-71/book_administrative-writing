@@ -1,4 +1,4 @@
-# MODULE 1. Foundations of Clear Administrative Writing
+﻿# MODULE 1. Foundations of Clear Administrative Writing
 
 ## Module Guide
 
@@ -18,18 +18,15 @@ Use this module in the same way each time:
 - use the editing practice to repair common reader problems
 - finish the transfer extension so the skill moves beyond one exercise type
 
-## Unit 1 — Clear Sentence Structure
+## Unit 1 窶・Clear Sentence Structure
 
 ### Focus
 
-In this unit, you will learn how to write **clear English sentences** for administrative communication.
-You will:
+By the end of this unit, you should be able to:
 
-- Review basic sentence structure (Subject–Verb–Object)
-
-- Practice writing short, clear sentences
-
-- Rewrite unclear or confusing sentences so that your reader can understand easily
+- I can write short clear sentences using basic subject-verb-object or subject-verb-complement patterns.
+- I can rewrite long or indirect sentences in a simpler administrative style.
+- I can write a short work-related message using clear sentence structure.
 
 ### Warm-Up: What Makes a Sentence Clear?
 
@@ -83,7 +80,7 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 
-### Language 1: Basic Sentence Pattern (S–V–O / S–V–C)
+### Language 1: Basic Sentence Pattern (S窶天窶徹 / S窶天窶鼎)
 
 Most clear administrative English sentences follow this simple pattern:
 
@@ -101,7 +98,7 @@ Examples:
 
 - **The documents** (S) **are** (V) **ready** (C).
 
-#### Practice — Identify the Parts
+#### Practice 窶・Identify the Parts
 
 Identify the parts of each sentence using these actions:
 
@@ -121,9 +118,9 @@ Identify the parts of each sentence using these actions:
 
 5. The examiner requested more information.
 
-#### Practice — Build Clear Sentences
+#### Practice 窶・Build Clear Sentences
 
-Rewrite the word groups as clear S–V–O or S–V–C sentences.
+Rewrite the word groups as clear S窶天窶徹 or S窶天窶鼎 sentences.
 
 1. (application / our office / receive / yesterday)
 
@@ -181,16 +178,16 @@ Rewrite each sentence in a clearer, shorter way.
 Rewrite each sentence so that it is easier to read.
 
 1. We are now in the checking of your application and more time is needed by us.
-   →
+   竊・
 
 2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
-   →
+   竊・
 
 3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
-   →
+   竊・
 
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
-   →
+   竊・
 
 ### Self-Check Before Freer Practice
 
@@ -205,7 +202,7 @@ If the answer to one of these is `No`, rewrite the sentence before you continue.
 
 ### Freer Practice: Write Clear Administrative Sentences
 
-Write a short message to the applicant in **3–4 clear sentences**.
+Write a short message to the applicant in **3窶・ clear sentences**.
 
 **Situation:** The applicant sent the wrong form. You need to contact the applicant and ask for the correct form. The deadline is next Friday.
 
@@ -239,16 +236,16 @@ Mini model:
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
 
 1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
-   →
+   竊・
 
 2. It has been explained by the supervisor that a new review step will be necessary for the application.
-   →
+   竊・
 
 3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
-   →
+   竊・
 
 4. We are writing for the purpose of asking you to send the correct version of the attached file.
-   →
+   竊・
 
 ### Transfer Extension: Turn Sentences into a Mini Message
 
@@ -284,20 +281,18 @@ Then answer:
 
 ### Homework
 
-Choose one real email you sent at work (in Japanese). Translate the **main message** into 3–4 clear English sentences using S–V–O structure.
+Choose one real email you sent at work (in Japanese). Translate the **main message** into 3窶・ clear English sentences using S窶天窶徹 structure.
 ---
 
-## Unit 2 — Professional Tone Basics
+## Unit 2 窶・Professional Tone Basics
 
 ### Focus
 
-In this unit, you will learn how to write emails with a **professional and polite tone** suitable for administrative communication. You will:
+By the end of this unit, you should be able to:
 
-- Recognise informal or overly direct expressions
-
-- Use standard polite phrases for requests and information
-
-- Rewrite sentences to make them more professional
+- I can make a short request sound more polite and professional.
+- I can rewrite direct or emotional wording in a neutral workplace style.
+- I can write a short professional email for a simple administrative situation.
 
 ### Warm-Up: Which Sounds More Professional?
 
@@ -307,9 +302,9 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
    b) Could you please send me the file?
 
-2. a) I don’t understand this. Explain it.
+2. a) I don窶冲 understand this. Explain it.
 
-   b) I’m not sure I understand this part. Could you explain it?
+   b) I窶冦 not sure I understand this part. Could you explain it?
 
 3. a) What do you want me to do?
 
@@ -329,8 +324,8 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
 Look again at this pair:
 
-- Weak: *I don’t understand this. Explain it.*
-- Stronger: *I’m not sure I understand this part. Could you explain it?*
+- Weak: *I don窶冲 understand this. Explain it.*
+- Stronger: *I窶冦 not sure I understand this part. Could you explain it?*
 
 The stronger version works because it:
 
@@ -347,31 +342,31 @@ Administrative emails often use **softened, polite expressions**.
 
 #### Useful Phrases for Requests
 
-- Could you please…?
+- Could you please窶ｦ?
 
-- Would it be possible to…?
+- Would it be possible to窶ｦ?
 
-- Could you let me know…?
+- Could you let me know窶ｦ?
 
-- I would appreciate it if you could…
+- I would appreciate it if you could窶ｦ
 
-- Please let me know if…
+- Please let me know if窶ｦ
 
-#### Practice – Make the Request Polite
+#### Practice 窶・Make the Request Polite
 
 Rewrite the message using a polite request phrase.
 
 1. Send the updated form.
-   →
+   竊・
 
 2. Tell me the deadline.
-   →
+   竊・
 
 3. Check the file.
-   →
+   竊・
 
 4. Give me the information.
-   →
+   竊・
 
 ### Language 2: Professional Tone in Explanations
 
@@ -407,17 +402,17 @@ If a message sounds calm and clear, the reader can focus on:
 
 Rewrite each sentence to make it sound more professional.
 
-1. You didn’t send the document.
-   →
+1. You didn窶冲 send the document.
+   竊・
 
-2. I can’t do this because the system is broken.
-   →
+2. I can窶冲 do this because the system is broken.
+   竊・
 
 3. That information is wrong.
-   →
+   竊・
 
 4. I already told you this yesterday.
-   →
+   竊・
 
 ### Common Useful Phrases for Professional Emails
 
@@ -425,27 +420,27 @@ You can use these phrases to make your tone more appropriate:
 
 #### Giving Information
 
-- I would like to inform you that…
+- I would like to inform you that窶ｦ
 
-- Please note that…
+- Please note that窶ｦ
 
-- I would like to confirm that…
+- I would like to confirm that窶ｦ
 
 #### Asking for Clarification
 
-- Could you clarify…?
+- Could you clarify窶ｦ?
 
-- I have one question regarding…
+- I have one question regarding窶ｦ
 
-- I’m not sure I understand…
+- I窶冦 not sure I understand窶ｦ
 
 #### Referring to Previous Communication
 
-- As mentioned in my previous email,…
+- As mentioned in my previous email,窶ｦ
 
-- As discussed,…
+- As discussed,窶ｦ
 
-- Thank you for your message regarding…
+- Thank you for your message regarding窶ｦ
 
 ### Guided Practice: Rewrite the Email
 
@@ -464,7 +459,7 @@ Mini contrast:
 
 **Original email:**
 > Hi,  
-> You didn’t send the right file. Send the correct one today. I need it now.
+> You didn窶冲 send the right file. Send the correct one today. I need it now.
 
 **Rewrite here:**
 
@@ -481,7 +476,7 @@ If one answer is `No`, improve the draft before moving on.
 
 ### Freer Practice: Write Your Own Professional Email
 
-Choose one situation and write a short professional email in **3–4 sentences**.
+Choose one situation and write a short professional email in **3窶・ sentences**.
 
 #### Situations
 
@@ -502,16 +497,16 @@ Include:
 Rewrite each line so it keeps the same purpose but sounds more professional.
 
 1. You sent the wrong file again.
-   →
+   竊・
 
 2. Tell me what happened.
-   →
+   竊・
 
-3. Why didn’t you check this before?
-   →
+3. Why didn窶冲 you check this before?
+   竊・
 
 4. Send the update today.
-   →
+   竊・
 
 ### Transfer Extension: Same Message, Better Relationship
 
@@ -554,19 +549,15 @@ Find one real English email you received that had a **very polite** or **not pol
 - How would you rewrite it in a more professional way?
 ---
 
-## Unit 3 — Paragraph Structure
+## Unit 3 窶・Paragraph Structure
 
 ### Focus
 
-This unit teaches **what a paragraph is**, how to structure it clearly, and when to begin a new paragraph. You will:
+By the end of this unit, you should be able to:
 
-- Understand what a paragraph is and why it is useful
-
-- Learn the three key parts of a paragraph (topic → support → closing)
-
-- Practice grouping related ideas into paragraphs
-
-- Write longer, clearer administrative paragraphs
+- I can identify the main parts of a paragraph.
+- I can organise sentences into a clear paragraph with logical flow.
+- I can write a short administrative paragraph with topic, supporting detail, and closing.
 
 ### What Is a Paragraph?
 
@@ -610,11 +601,11 @@ Start a new paragraph when:
 
 #### Examples of paragraph breaks
 
-1. Explaining the background → Asking for an action
+1. Explaining the background 竊・Asking for an action
 
-2. Describing an issue → Giving details → Explaining next steps
+2. Describing an issue 竊・Giving details 竊・Explaining next steps
 
-3. Summarising a problem → Reporting what you did → What will happen next
+3. Summarising a problem 竊・Reporting what you did 竊・What will happen next
 
 ### Warm-Up: Which Is a Better Paragraph?
 
@@ -657,19 +648,19 @@ In administrative writing, this matters because the reader often needs to know:
 
 A strong paragraph usually includes:
 
-1. **Topic sentence** – the main idea of the paragraph
+1. **Topic sentence** 窶・the main idea of the paragraph
 
-2. **Supporting sentences** – details, reasons, or examples
+2. **Supporting sentences** 窶・details, reasons, or examples
 
-3. **Closing sentence** – summary, result, or next step
+3. **Closing sentence** 窶・summary, result, or next step
 
 #### Model Paragraph
 
-**Topic sentence:** We reviewed the applicant’s file yesterday.  
+**Topic sentence:** We reviewed the applicant窶冱 file yesterday.  
 **Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.  
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 
-### Practice A – Identify the Parts
+### Practice A 窶・Identify the Parts
 
 Label each sentence:
 
@@ -709,11 +700,11 @@ Your labels:
 
 A paragraph should follow a clear, logical order:
 
-- Background → Details → Result
+- Background 竊・Details 竊・Result
 
-- Topic → Explanation → Action
+- Topic 竊・Explanation 竊・Action
 
-- Issue → Impact → What happens next
+- Issue 竊・Impact 竊・What happens next
 
 Before you write, make a short paragraph plan:
 
@@ -734,7 +725,7 @@ Choose the facts that belong to the same paragraph job:
 - summarising a result
 - preparing the next section
 
-### Practice B – Reorder to Create a Clear Paragraph
+### Practice B 窶・Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
@@ -760,12 +751,12 @@ Write the best order:
 3.
 
 Add one more supporting sentence that continues the explanation without giving instructions:
-→
-→
+竊・
+竊・
 
-### Guided Practice – Write a Better Paragraph
+### Guided Practice 窶・Write a Better Paragraph
 
-Rewrite this paragraph so it has a clear **topic → support → closing** structure. Expand it to **5–6 sentences**, and make sure it reads like part of a larger report or document—not a complete message.
+Rewrite this paragraph so it has a clear **topic 竊・support 竊・closing** structure. Expand it to **5窶・ sentences**, and make sure it reads like part of a larger report or document窶馬ot a complete message.
 
 **Original:**
 > We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
@@ -781,9 +772,9 @@ Check your paragraph before moving on:
 - Does the final sentence close the paragraph or lead forward?
 - Did I avoid mixing unrelated topics?
 
-### Freer Practice – Write a Full Paragraph
+### Freer Practice 窶・Write a Full Paragraph
 
-Write **one administrative paragraph** (5–7 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
+Write **one administrative paragraph** (5窶・ sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
 #### Situations
 
@@ -966,3 +957,4 @@ Write one short note after revising:
 - which sentence became clearer
 - which tone change mattered most
 - which paragraph move helped the reader fastest
+

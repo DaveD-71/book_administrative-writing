@@ -1,4 +1,4 @@
-# Unit Structural Profiles — Master Planning Table
+﻿# Unit Structural Profiles 窶・Master Planning Table
 ## *Administrative Writing, Intermediate*
 
 ---
@@ -57,10 +57,12 @@ Use the completed profiles to control:
 - module progression
 - repetition versus variety
 - scenario-family distribution
+- book-level scenario clustering across adjacent units
 - prompt and task load
 - integrated-task preparation in later units
 - capstone/portfolio assessment logic
 - self-study usability
+- reflection progression from recall toward comparison, evaluation, and transfer in later modules
 - support-depth parity against the advanced book
 - module-volume parity against the intervention-plan bands
 
@@ -72,6 +74,13 @@ This file is intentionally a seeded control document rather than a guessed 23-un
 
 During `INT-5A`, do not treat the current completed profile set as fully sufficient by itself.  
 It remains structurally complete, but it must now be extended and interpreted through the support-parity intervention requirements rather than through structure and output logic alone.
+
+The current intervention-stage sync priorities are:
+
+- transfer profile Can-Do statements into the live `### Focus` sections
+- flag units whose freer-practice prompts still need situation anchoring or stronger option parallelism
+- flag phrase-bank sections that still need a worked mini-example
+- keep scenario-distribution and reflection-progression checks visible at whole-book level
 
 ---
 
@@ -134,6 +143,7 @@ Build control over short, clear administrative sentences using basic sentence pa
 
 **Content flags for revision**
 
+- later revision should name the difference between a concluding sentence and a forward-linking sentence more explicitly, because that distinction is still easy for learners to blur in the current model work
 - this unit intentionally operates below full-document level and should remain the book's opening sentence-control unit
 - later profile drafting should preserve a visible link from this sentence work into paragraph and email development
 - duplicate example lines and dash inconsistency in the live source were corrected during the baseline audit
@@ -319,6 +329,8 @@ Teach learners how to ask focused, polite clarification questions when instructi
 
 - this unit still combines question-writing, email writing, and a short explanatory paragraph, but the freer layer is now limited to `2` short emails so the total production load stays more controlled
 - later profile drafting should preserve the unit's strong one-topic-per-email discipline, because that constraint helps keep clarification writing teachable at this level
+- before sign-off, the freer-practice options should all remain situation-anchored rather than collapsing back into topic-label shorthand
+- before sign-off, the freer-practice options should be checked for parallel detail level and apparent difficulty
 
 **Approved exception**
 
@@ -362,7 +374,9 @@ Teach learners how to explain delays, schedule changes, and procedural updates i
 
 - the unit already teaches a useful message-order pattern and should remain the book's main delay/change logic unit rather than drifting into a general problem-reporting unit
 - later revision should check whether the optional reason-language note is clear enough for learners to judge when explanation is needed and when it can stay minimal
+- later revision should name the register difference between `because` and `due to` more explicitly if both continue to appear in learner-facing practice items
 - later module planning should preserve the bridge from email updates into the short report-style paragraph, because that bridge prepares later internal update writing
+- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
 
 **Approved exception**
 
@@ -408,6 +422,7 @@ Build control over polite administrative requests by teaching learners how to ch
 - this unit is appropriately dense because request writing needs explicit comparison of politeness levels, but later revision should keep the explanation readable and avoid turning the politeness scale into grammar-heavy theory
 - the table formatting in `Language 1` should be checked during later module revision because it is more formatting-sensitive than the surrounding units
 - later profile drafting should preserve the distinction between polite request language and the separate background-paragraph extension so the unit does not blur email action and report explanation into one uncontrolled task family
+- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
 
 **Approved exception**
 
@@ -658,6 +673,7 @@ Teach learners how to write short, polite external inquiry emails that provide e
 - this unit should remain clearly outward-facing and distinct from the clarification unit in Module 2 by keeping its emphasis on reader background and external-office tone
 - later revision should check whether the freer tasks need an explicit sentence-range cue for stronger consistency with nearby units
 - later module planning should preserve the unit's strong connection between background-setting and question clarity, because that is what makes the inquiry teachable at this level
+- later revision should keep at least one worked mini-inquiry directly beside the phrase-bank material so learners can see background, question, and closing operating together
 
 **Approved exception**
 
@@ -701,6 +717,7 @@ Teach learners how to provide clear, simple explanations of processes, changes, 
 - this unit should stay simpler and more reader-friendly than the problem-explanation unit in Module 3 by keeping its focus on plain explanation rather than diagnostic reporting
 - later revision should check whether the distinction between explanation, issue, and effect is clear enough for lower-level learners across the guided and freer tasks
 - later module planning should preserve the move from single explanation to report paragraph, because that bridge supports the later integrated units
+- later revision should keep at least one worked mini-example near the phrase-support section so learners can see background, reason, and effect operating together
 
 **Approved exception**
 
@@ -845,6 +862,7 @@ Teach learners how to edit basic administrative writing for grammar, spelling, p
 - this unit should remain focused on basic but high-frequency accuracy issues rather than expanding into a full grammar syllabus
 - later revision should check whether the balance between error correction and clarity improvement remains controlled, since the unit's main role is accuracy-first editing
 - later module planning should preserve this unit as the first of the editing trilogy before clarity and tone revision
+- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design rather than only error-type shorthand
 
 **Approved exception**
 
@@ -889,6 +907,7 @@ Teach learners how to revise writing so it is clearer, simpler, and better organ
 - this unit should stay focused on reader comprehension rather than slipping back into accuracy-only correction, since its distinct value is simplification and reorganization
 - later revision should check that the clearer-flow work remains visible and is not overshadowed by sentence-level tightening alone
 - later module planning should preserve the bridge from local sentence editing into whole-paragraph reorganization, because that prepares the capstone revision tasks
+- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
 
 **Approved exception**
 
@@ -933,6 +952,7 @@ Teach learners how to revise workplace writing so it sounds more polite, neutral
 - this unit should remain clearly about tone revision rather than turning into another request-writing or clarification-writing unit, because the main skill is editorial control over how the message sounds
 - later revision should check whether the guided and freer tasks give enough variation in audience and problem type to make tone revision feel generalisable
 - later module planning should preserve this unit as the closing part of the editing trilogy before Module 6's integrated applied writing
+- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
 
 **Approved exception**
 
@@ -1173,3 +1193,4 @@ This unit appropriately centers on revision of earlier work rather than mostly n
 ---
 
 *Document status: authoritative intermediate structural-profile file with all six modules now drafted from the live source set.*
+

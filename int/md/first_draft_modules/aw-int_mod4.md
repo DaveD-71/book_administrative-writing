@@ -1,4 +1,4 @@
-# MODULE 4. Communicating with Applicants & Foreign Offices
+﻿# MODULE 4. Communicating with Applicants & Foreign Offices
 
 ## Module Guide
 
@@ -14,24 +14,21 @@ By the end of this module, you should be able to:
 Use this module carefully:
 
 - notice how the model versions change for audience, not only for grammar
-- pay attention to the “why this works” notes about reader confidence and clarity
+- pay attention to the 窶忤hy this works窶・notes about reader confidence and clarity
 - use the self-check to confirm that your message is answerable and well sequenced
 - complete the editing practice so you can repair weak audience control
 - use the transfer extension to move the unit skill into a related external or team context
 
-## Unit 12 — Writing Simple External Inquiries
+## Unit 12 窶・Writing Simple External Inquiries
 
 ### Focus
 
-In this unit, you will learn how to write **simple, clear external inquiries** to other offices or organisations. You will:
+By the end of this unit, you should be able to:
 
-- Understand the purpose and tone of external inquiries
-
-- Write polite, structured questions
-
-- Provide necessary background information
-
-- Practise writing short inquiry emails
+- I can write a short external inquiry email with a clear question.
+- I can provide enough background for another office to understand my question.
+- I can use polite inquiry phrases in a professional way.
+- I can explain, in a short paragraph, why an external inquiry is needed.
 
 ### What Is an External Inquiry?
 
@@ -61,11 +58,11 @@ Compare the two versions.
 
 Subject: Question  
 Hi,
-I don’t understand the guidelines. Please explain.
+I don窶冲 understand the guidelines. Please explain.
 
 #### Email B
 
-Subject: Question About Guidelines – Section 4  
+Subject: Question About Guidelines 窶・Section 4  
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
 
@@ -95,19 +92,19 @@ The reader still has to guess what part of the guidelines is causing the problem
 External readers do not share all of your office context.  
 A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
 
-### Language 1 – Structure of an External Inquiry
+### Language 1 窶・Structure of an External Inquiry
 
 A clear inquiry email usually includes:
 
-1. **Subject line** – clear and specific
+1. **Subject line** 窶・clear and specific
 
-2. **Greeting** – polite and neutral
+2. **Greeting** 窶・polite and neutral
 
-3. **Background** – brief context so the reader understands the question
+3. **Background** 窶・brief context so the reader understands the question
 
-4. **Inquiry question(s)** – clear, specific questions
+4. **Inquiry question(s)** 窶・clear, specific questions
 
-5. **Closing sentence** – neutral, polite
+5. **Closing sentence** 窶・neutral, polite
 
 6. **Sign-off**
 
@@ -115,19 +112,19 @@ A clear inquiry email usually includes:
 
 #### Background
 
-- We are currently reviewing…
+- We are currently reviewing窶ｦ
 
-- Our office is checking…
+- Our office is checking窶ｦ
 
-- We have a question regarding…
+- We have a question regarding窶ｦ
 
 #### Questions
 
-- Could you clarify…?
+- Could you clarify窶ｦ?
 
-- Would you be able to confirm…?
+- Would you be able to confirm窶ｦ?
 
-- Could you provide more information about…?
+- Could you provide more information about窶ｦ?
 
 #### Closing
 
@@ -137,6 +134,12 @@ A clear inquiry email usually includes:
 
 - Further information will help us complete our review.
 
+Mini inquiry model:
+
+- Background: We are checking the revised submission notice for next week's review.
+- Question: Could you confirm which version of Form B should be used for corrected applications?
+- Closing: Thank you for your assistance. This confirmation will help us complete the next check accurately.
+
 **Teaching point**
 
 An external inquiry often needs two jobs:
@@ -144,7 +147,7 @@ An external inquiry often needs two jobs:
 1. show the reader why you are asking
 2. show the reader exactly what answer you need
 
-### Practice A – Improve the Inquiry
+### Practice A 窶・Improve the Inquiry
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
 
@@ -162,19 +165,19 @@ Mini model:
 
 The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
 
-1. "I don’t understand this part. Tell me."
-   →
+1. "I don窶冲 understand this part. Tell me."
+   竊・
 
 2. "What is the rule?"
-   →
+   竊・
 
 3. "When is the deadline?"
-   →
+   竊・
 
 4. "Explain Section 2."
-   →
+   竊・
 
-### Practice B – Add Background Information
+### Practice B 窶・Add Background Information
 
 Add **one sentence of background** before each question.
 
@@ -192,15 +195,15 @@ Mini model:
 The better version helps the reader understand the task situation before they read the question itself.
 
 1. Could you clarify the new ID requirement?
-   →
+   竊・
 
 2. Could you confirm the review schedule?
-   →
+   竊・
 
 3. Could you explain how the updated rule applies?
-   →
+   竊・
 
-### Guided Practice – Write an External Inquiry Email
+### Guided Practice 窶・Write an External Inquiry Email
 
 Write a complete inquiry email.
 
@@ -229,7 +232,7 @@ Before writing your own external inquiries, check:
 
 - **Sign-off:**
 
-### Freer Practice – Write Two External Inquiry Emails
+### Freer Practice 窶・Write Two External Inquiry Emails
 
 Choose two situations below.
 For each one, write a short email from your office to another office or organisation that can answer the question.
@@ -269,9 +272,9 @@ Write a short internal note for your team explaining:
 
 This helps connect external inquiry writing to internal reporting.
 
-### Extended Writing Task – Inquiry Paragraph
+### Extended Writing Task 窶・Inquiry Paragraph
 
-Write a **neutral paragraph** (5–6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
+Write a **neutral paragraph** (5窶・ sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
 Include:
 
 - Background
@@ -302,30 +305,27 @@ Write your paragraph:
 
 ### Reflection
 
-1. What is difficult about writing external inquiries?  
+1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
 
-2. Do you sometimes write too much background or not enough?  
+2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
 
-3. Which question phrase do you find most helpful?
+3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
 
 ### Homework
 
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 ---
 
-## Unit 13 — Providing Simple Explanations
+## Unit 13 窶・Providing Simple Explanations
 
 ### Focus
 
-In this unit, you will learn how to provide **clear, simple explanations** in administrative contexts. You will:
+By the end of this unit, you should be able to:
 
-- Explain reasons and processes in plain language
-
-- Distinguish between necessary and unnecessary detail
-
-- Use common explanatory structures
-
-- Write short explanatory paragraphs and emails
+- I can explain a process or issue in simple professional language.
+- I can add the right amount of background and reason information.
+- I can write a short explanatory text about a workplace issue.
+- I can write a report-style explanatory paragraph.
 
 ### What Is a Simple Explanation?
 
@@ -386,31 +386,37 @@ The stronger version works because it gives:
 
 The reader does not need to guess the practical meaning.
 
-### Language 1 – Useful Phrases for Explanations
+### Language 1 窶・Useful Phrases for Explanations
 
 #### Giving Background
 
-- The purpose of this process is…
+- The purpose of this process is窶ｦ
 
-- This procedure is used when…
+- This procedure is used when窶ｦ
 
-- This step is required because…
+- This step is required because窶ｦ
 
 #### Explaining the Reason
 
-- because…
+- because窶ｦ
 
-- due to…
+- due to窶ｦ
 
-- as a result of…
+- as a result of窶ｦ
 
 #### Giving Additional Information
 
-- This means that…
+- This means that窶ｦ
 
-- In this case…
+- In this case窶ｦ
 
-- For this reason…
+- For this reason窶ｦ
+
+Mini explanation model:
+
+- Background: We reviewed the updated case file this morning.
+- Reason: Two uploaded documents do not match the information in the system.
+- Effect: As a result, the next review stage may need to be delayed until the correct version is confirmed.
 
 **Why this works**
 
@@ -420,7 +426,7 @@ background -> reason -> effect
 
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 
-### Practice A – Improve the Explanation
+### Practice A 窶・Improve the Explanation
 
 Rewrite the sentences to make the explanations clearer.
 
@@ -439,18 +445,18 @@ Mini model:
 This is stronger because the reader can follow fact, cause, and effect in one short explanation.
 
 1. "The schedule changed."
-   →
+   竊・
 
 2. "The file is wrong."
-   →
+   竊・
 
 3. "The review will take longer."
-   →
+   竊・
 
 4. "The system is slow."
-   →
+   竊・
 
-### Practice B – Add a Reason or Background
+### Practice B 窶・Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason**.
 
@@ -467,17 +473,17 @@ You can test your answer with three quick questions:
 3. Can the reader see why the information matters now?
 
 1. The applicant list is incomplete.
-   →
+   竊・
 
 2. The document cannot be accepted.
-   →
+   竊・
 
 3. The review must be rescheduled.
-   →
+   竊・
 
-### Guided Practice – Write a Clear Explanation
+### Guided Practice 窶・Write a Clear Explanation
 
-Write 4–6 sentences.
+Write 4窶・ sentences.
 
 **Situation:** You are explaining the situation to a colleague or supervisor. A document cannot be reviewed because the attached files do not match the information in the system.
 
@@ -504,7 +510,7 @@ Before writing your own explanations, check:
 3. Did I show the effect on work or timing?
 4. Is the explanation neutral and easy to follow?
 
-### Freer Practice – Write Two Explanations
+### Freer Practice 窶・Write Two Explanations
 
 Choose two situations and write explanations.
 For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
@@ -541,9 +547,9 @@ Rewrite it twice:
 
 Keep the facts the same, but decide how much detail each reader needs.
 
-### Extended Writing Task – Explanatory Paragraph
+### Extended Writing Task 窶・Explanatory Paragraph
 
-Write a paragraph (6–8 sentences) explaining an issue as part of an internal report for your section lead or manager.
+Write a paragraph (6窶・ sentences) explaining an issue as part of an internal report for your section lead or manager.
 Include:
 
 - Background
@@ -574,30 +580,27 @@ Write your paragraph:
 
 ### Reflection
 
-1. What type of explanation do you find easiest to write?  
+1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
 
-2. Which part is most difficult—background, reason, or effect?  
+2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
 
-3. Which phrases from this unit were new for you?
+3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
 
 ### Homework
 
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 ---
 
-## Unit 14 — Responding to Confusion
+## Unit 14 窶・Responding to Confusion
 
 ### Focus
 
-In this unit, you will learn how to respond **clearly and professionally** when someone is confused or has misunderstood information. You will:
+By the end of this unit, you should be able to:
 
-- Identify the source of confusion
-
-- Provide clear explanations or corrections
-
-- Use polite language to clarify misunderstandings
-
-- Practise writing short clarification responses and longer explanations
+- I can acknowledge confusion politely in writing.
+- I can restate the correct information clearly.
+- I can write a short response that corrects a misunderstanding without blaming the reader.
+- I can write a report-style paragraph describing a misunderstanding and its resolution.
 
 ### What Does It Mean to Respond to Confusion?
 
@@ -623,7 +626,7 @@ Identify what the reader is confused about.
 
 2. "This form looks different from the one I used last year."
 
-3. "I’m not sure which file I should upload."
+3. "I窶冦 not sure which file I should upload."
 
 4. "The instructions say two things."
 
@@ -660,7 +663,7 @@ When someone is confused, the reader often needs both:
 
 If the writer gives only the correction, the response may feel too abrupt.
 
-### Language 1 – Useful Clarification Phrases
+### Language 1 窶・Useful Clarification Phrases
 
 #### Acknowledging the Confusion
 
@@ -672,26 +675,26 @@ If the writer gives only the correction, the response may feel too abrupt.
 
 #### Restating Information
 
-- To clarify…
+- To clarify窶ｦ
 
-- The correct information is…
+- The correct information is窶ｦ
 
-- The updated requirement is…
+- The updated requirement is窶ｦ
 
 #### Giving Additional Details
 
-- This applies only to…
+- This applies only to窶ｦ
 
-- In this case…
+- In this case窶ｦ
 
-- One important point is…
+- One important point is窶ｦ
 
 **Transfer reminder**
 
 The response should stay focused on solving the confusion.  
 Do not turn it into a complaint about the other person's mistake.
 
-### Practice A – Improve the Response
+### Practice A 窶・Improve the Response
 
 Rewrite each response to make it clear and polite.
 
@@ -708,34 +711,34 @@ Mini model:
 
 The stronger version corrects the information without blaming the reader.
 
-1. "No, that’s wrong."
-   →
+1. "No, that窶冱 wrong."
+   竊・
 
 2. "You misunderstood the instructions."
-   →
+   竊・
 
 3. "The other form is for something else."
-   →
+   竊・
 
 4. "Read the guidelines again."
-   →
+   竊・
 
-### Practice B – Add Clarifying Information
+### Practice B 窶・Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
 1. The applicant uploaded the wrong file.
-   →
+   竊・
 
 2. The deadline mentioned in the email is incorrect.
-   →
+   竊・
 
 3. The instructions refer to two different processes.
-   →
+   竊・
 
-### Guided Practice – Write a Clarification Response
+### Guided Practice 窶・Write a Clarification Response
 
-Write 4–6 sentences.
+Write 4窶・ sentences.
 
 **Situation:** A colleague thinks that all documents must be submitted this Friday, but only two documents are required. You are replying to that colleague to correct the misunderstanding politely.
 
@@ -758,7 +761,7 @@ Before writing your own responses, check:
 3. Did I add one useful detail?
 4. Did I avoid blame?
 
-### Freer Practice – Write Two Responses
+### Freer Practice 窶・Write Two Responses
 
 Choose two situations and write your responses.
 For each one, write a short response to the person who is confused or has misunderstood the information.
@@ -794,9 +797,9 @@ Write a short internal record explaining:
 - what the correct information is
 - what staff should remember next time
 
-### Extended Writing Task – Clarification Paragraph
+### Extended Writing Task 窶・Clarification Paragraph
 
-Write a paragraph (6–8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
+Write a paragraph (6窶・ sentences) explaining a misunderstanding as part of an internal report for your team or manager.
 Include:
 
 - Background
@@ -827,30 +830,27 @@ Write your paragraph:
 
 ### Reflection
 
-1. What is difficult about responding to confusion?  
+1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
 
-2. What language helps you sound polite and professional?  
+2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
 
-3. When do you usually need to clarify information at work?
+3. How would your response change if the reader were a colleague instead of an outside contact?
 
 ### Homework
 
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 ---
 
-## Unit 15 — Maintaining Consistent Email Style
+## Unit 15 窶・Maintaining Consistent Email Style
 
 ### Focus
 
-In this unit, you will learn how to maintain a **consistent, professional email style** across different messages. You will:
+By the end of this unit, you should be able to:
 
-- Identify inconsistencies in tone, structure, and formatting
-
-- Use standard phrases to keep emails uniform
-
-- Practise revising and standardising email drafts
-
-- Write clearer and more professional email messages
+- I can identify inconsistency in an email's tone, structure, or formatting.
+- I can rewrite an email to match a more consistent professional style.
+- I can write short emails that follow a standard structure.
+- I can explain why consistent email style matters for a team.
 
 ### What Is Email Consistency?
 
@@ -872,7 +872,7 @@ Consistency helps:
 
 - Prevent confusion caused by different writing styles
 
-#### Example – Inconsistent vs. Consistent
+#### Example 窶・Inconsistent vs. Consistent
 
 **Inconsistent:**  
 Hi, I checked it. Please tell me what to do. Thanks.
@@ -931,7 +931,7 @@ Inconsistent emails slow the reader down because the format and tone change from
 Consistency helps the reader know what to expect.  
 It also helps teams sound reliable instead of random.
 
-### Language 1 – Standard Email Elements
+### Language 1 窶・Standard Email Elements
 
 Use standardised components to create consistency.
 
@@ -945,11 +945,11 @@ Use standardised components to create consistency.
 
 #### Purpose Statements
 
-- I am writing to…
+- I am writing to窶ｦ
 
-- I would like to confirm…
+- I would like to confirm窶ｦ
 
-- We have a question regarding…
+- We have a question regarding窶ｦ
 
 #### Closings
 
@@ -959,20 +959,20 @@ Use standardised components to create consistency.
 
 - Please let me know if you need further information.
 
-### Practice A – Improve Consistency
+### Practice A 窶・Improve Consistency
 
 Rewrite the emails to make them consistent in tone and structure.
 
 1. "Hi, I checked it. What should I do now?"
-   →
+   竊・
 
 2. "Hello, Please check. I think there is a problem."
-   →
+   竊・
 
 3. "Team, The file is wrong. Fix it."
-   →
+   竊・
 
-### Language 2 – Formatting for Clarity and Consistency
+### Language 2 窶・Formatting for Clarity and Consistency
 
 Emails should use:
 
@@ -1006,7 +1006,7 @@ Mini comparison:
 
 That is why formatting supports clarity, not only appearance.
 
-### Practice B – Reformat the Email
+### Practice B 窶・Reformat the Email
 
 Rewrite this email with clear formatting.
 
@@ -1036,7 +1036,7 @@ Hi, I saw the file. It looks wrong. Please explain. Thanks.
 
 Rewrite here:
 
-### Guided Practice – Standardise a Draft Email
+### Guided Practice 窶・Standardise a Draft Email
 
 Rewrite the following email to make it consistent.
 
@@ -1057,7 +1057,7 @@ Before writing your own consistent emails, check:
 3. Does the body sound like the same email as the opening?
 4. Does the closing match the tone?
 
-### Freer Practice – Write Two Consistent Emails
+### Freer Practice 窶・Write Two Consistent Emails
 
 Choose two situations and write emails using **consistent tone and structure**.
 For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
@@ -1078,10 +1078,10 @@ Write your emails:
 Rewrite the two short messages below so they follow the same team style.
 
 1. Hi, the file is not right. Check it.
-   →
+   竊・
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
-   →
+   竊・
 
 ### Transfer Extension: Mini Team Style Rule
 
@@ -1095,9 +1095,9 @@ For example:
 
 Then use those rules to check one email from your freer practice.
 
-### Extended Writing Task – Email Style Guide Paragraph
+### Extended Writing Task 窶・Email Style Guide Paragraph
 
-Write a paragraph (6–8 sentences) explaining why your team should follow a consistent email style and what elements are important.
+Write a paragraph (6窶・ sentences) explaining why your team should follow a consistent email style and what elements are important.
 
 Try to include both:
 
@@ -1116,11 +1116,11 @@ Write your paragraph:
 
 ### Reflection
 
-1. What inconsistencies do you often see in emails at work?
+1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
-2. Which part of email style is most difficult to control?
+2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
 
-3. How can consistent email style help your team?
+3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
 
 ### Homework
 
@@ -1342,3 +1342,9 @@ After writing, explain:
 - which opening can assume the most background knowledge
 
 This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
+
+
+
+
+
+

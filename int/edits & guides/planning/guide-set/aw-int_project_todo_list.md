@@ -128,8 +128,11 @@ The immediate revision priorities are:
    - module revision labs
    - module-level transfer and carry-forward tasks
 8. preserve the now-corrected local Round 1 fixes in `Unit 16 - Editing for Accuracy` and `Unit 23 - Portfolio Writing & Final Revision` while not letting those local corrections hide the larger book-level blocker
-9. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
-10. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
+9. transfer the structural-profile Can-Do statements into the live `### Focus` sections across all 23 units so planning intent and learner-facing content are back in sync
+10. revise the flagged freer-practice choice lists in Units 5, 6, 7, 16, 17, and 18 so the options stay situation-anchored and parallel in scope and detail
+11. add the missing profile-control notes for Units 12 and 13 phrase-bank mini-examples, book-level scenario distribution, and reflection progression in Modules 4 to 6
+12. use the reclassified `int/edits & guides/qa/aw-int_qa_round1.md` as the continuity QA record while the intervention stage remains active
+13. keep later-stage items visible, but do not resume `INT-6` until the intervention stage is complete
 
 ---
 

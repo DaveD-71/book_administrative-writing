@@ -104,11 +104,14 @@ Before beginning the module-by-module pass, complete the following:
    - the completed structural-profile layer
    - the current intermediate prompt and activity standards
 2. Confirm that the completed `INT-4` and `INT-5` passes did not leave an unresolved planning/live mismatch in the active control layer.
+   - this includes profile-to-live `### Focus` sync
+   - and transfer of profile output expectations where the live task wording had previously left them only implied
 3. Note any pinned items that still affect QA judgment:
    - Unit 23 rubric support
    - later answer-key work
    - regeneration of the combined draft
 4. Note any approved structural exceptions already recorded in the structural profiles so they are not misread as accidental drift during QA.
+   - and note any active whole-book control notes for scenario-family distribution or reflection progression
 5. Confirm whether project control still allows active QA or whether a blocking intervention stage is now in force.
 
 These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
@@ -232,12 +235,14 @@ If the failure is:
 - [ ] The learner receives enough vocabulary, language, structure, or rhetorical support to complete later tasks
 - [ ] Guided layers visibly prepare freer layers
 - [ ] Phrase banks or checklist-style supports are explained enough to be usable, not just displayed
+- [ ] Units with phrase-bank-heavy sections include worked mini-examples where the learner needs to see the phrases operating inside a full message
 
 ### 5C.4 Practice and transfer
 
 - [ ] Controlled practice builds toward real writing behavior
 - [ ] The learner can reasonably move from explanation to production without a hidden gap
 - [ ] Reflection and homework layers extend the same skill family rather than introducing a new dominant demand
+- [ ] Reflection prompts become more metacognitive in later modules instead of staying at a flat recall-only pattern
 
 ### 5C.5 Support-depth parity
 
@@ -277,6 +282,7 @@ If the failure is:
 - [ ] Scenario options, where used, are parallel in length, detail level, and difficulty
 - [ ] Options represent genuinely different situations rather than cosmetic rewrites
 - [ ] Shared requirements are stated once at task level rather than scattered or repeated inconsistently
+- [ ] Freer-practice options are situation-anchored rather than reduced to topic labels or error-type shorthand
 
 ## 5E. Consistency And Cohesion
 
@@ -297,6 +303,7 @@ If the failure is:
 - [ ] Variation exists without making the book feel random
 - [ ] Scenario spread, output types, and support layers feel intentionally distributed
 - [ ] The book retains a coherent identity and predictable instructional rhythm
+- [ ] Adjacent units do not over-cluster around the same missing/incorrect-document scenario family without a deliberate reason
 
 ## 5F. Model Text And Example Quality
 
@@ -325,6 +332,7 @@ If the failure is:
 - [ ] The live unit matches its structural profile in learning goal, Can-Do logic, and output expectation
 - [ ] Any deliberate structural exception is recorded in the profiles
 - [ ] The live unit does not silently erase an approved exception or add an unrecorded new one
+- [ ] The live `### Focus` section reflects the current profile Can-Do statements rather than an older pre-profile wording layer
 
 ### 5G.2 Can-Do and framework compliance
 
@@ -466,8 +474,10 @@ When QA restarts, prioritise the first book-wide pass on:
 1. confirming that the completed intervention rebuild did not create planning/live drift
 2. confirming that support-depth parity and module-volume parity now meet the corrected standard
 3. confirming that the live module files still match the structural profiles, activity framework, and prompt policy after intervention-stage revision
-4. identifying any remaining workload, self-study, or answer-key-supportability issues before full review
-5. keeping deferred later-stage items visible rather than letting them disappear between stages
+4. confirming that live `### Focus` sections, prompt-option design, and profile flags now reflect the corrected control decisions
+5. checking phrase-bank worked examples, scenario-family spread, and later-module reflection progression before full review
+6. identifying any remaining workload, self-study, or answer-key-supportability issues before full review
+7. keeping deferred later-stage items visible rather than letting them disappear between stages
 
 ---
 
