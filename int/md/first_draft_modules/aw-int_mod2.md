@@ -258,6 +258,9 @@ Write your email:
 
 - **Sign-off:**
 
+**Write Here**
+{{PH-3: U04-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own email, check:
@@ -291,6 +294,9 @@ Include:
 
 Write your email:
 
+**Write Here**
+{{PH-3: U04-freer-document}}
+
 ### Editing Practice: Repair the Email Structure
 
 Rewrite the email so each part has a clear job.
@@ -307,6 +313,9 @@ Thanks.
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U04-editing-rewrite}}
+
 ### Transfer Extension: Build Two Purpose Lines
 
 For each situation below, write:
@@ -319,6 +328,9 @@ B. confirming a deadline
 C. giving an update about a review delay
 
 This helps you separate the job of the subject line from the job of the opening sentence.
+
+**Write Here**
+{{PH-1: U04-transfer-response}}
 
 ### Reflection
 
@@ -334,6 +346,9 @@ Find one real email you sent recently (in Japanese or English). Rewrite it in En
 
 If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
 ---
+
+**Homework Draft**
+{{PH-3: U04-homework-document}}
 
 ## Unit 5 - Requesting Clarification
 
@@ -545,6 +560,9 @@ Write your email:
 
 - **Sign-off:**
 
+**Write Here**
+{{PH-3: U05-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own clarification email, check:
@@ -567,6 +585,12 @@ Choose **two** situations from the list below:
 
 Write your emails:
 
+**Email 1**
+{{PH-3: U05-freer-email-1}}
+
+**Email 2**
+{{PH-3: U05-freer-email-2}}
+
 ### Editing Practice: Fix the Clarification Problem
 
 Rewrite each message as a better clarification request.
@@ -583,6 +607,9 @@ Rewrite each message as a better clarification request.
 4. The supervisor said to prepare the report.
    ->
 
+**Write Your Revised Version**
+{{PH-2: U05-editing-rewrite}}
+
 ### Transfer Extension: One Topic, One Email
 
 Choose one of the freer-practice topics.
@@ -596,6 +623,9 @@ Then note:
 
 - what information you removed
 - why the stronger email is easier to answer
+
+**Planning Notes**
+{{PH-1: U05-transfer-notes}}
 
 ### Extended Writing Task - Clarification Summary Paragraph
 
@@ -628,6 +658,9 @@ Mini paragraph frame:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U05-extended-paragraph}}
+
 ### Reflection
 
 1. Which clarification phrase is most useful for you?  
@@ -642,6 +675,9 @@ Find an email or set of instructions you received recently. Identify **one uncle
 
 If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
 ---
+
+**Homework Draft**
+{{PH-3: U05-homework-document}}
 
 ## Unit 6 - Communicating Delays or Changes
 
@@ -832,6 +868,9 @@ Write your email:
 
 - **Sign-off:**
 
+**Write Here**
+{{PH-3: U06-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own update email, check:
@@ -862,6 +901,12 @@ In each email, include:
 
 Write your emails:
 
+**Email 1**
+{{PH-3: U06-freer-email-1}}
+
+**Email 2**
+{{PH-3: U06-freer-email-2}}
+
 ### Editing Practice: Remove the Reader's Uncertainty
 
 Rewrite each update so the reader does not need to ask a second question.
@@ -878,6 +923,9 @@ Rewrite each update so the reader does not need to ask a second question.
 4. The system update will affect the process.
    ->
 
+**Write Your Revised Version**
+{{PH-2: U06-editing-rewrite}}
+
 ### Transfer Extension: Turn an Email Update into a Report Line
 
 Choose one update message you wrote in this unit.
@@ -889,6 +937,9 @@ Rewrite it as a short internal report paragraph by changing:
 - the final sentence
 
 Keep the same core facts, but make the new version sound like part of a report, not an email.
+
+**Write Here**
+{{PH-2: U06-transfer-response}}
 
 ### Extended Writing Task - Update Summary Paragraph
 
@@ -906,6 +957,9 @@ Your paragraph should:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U06-extended-paragraph}}
+
 ### Reflection
 
 1. What phrases do you find most useful for explaining delays or changes?
@@ -920,6 +974,9 @@ Find an email or notice about a delay or change (English or Japanese). Rewrite i
 
 If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
 ---
+
+**Homework Draft**
+{{PH-3: U06-homework-document}}
 
 ## Unit 7 - Making Requests Politely
 
@@ -1163,6 +1220,9 @@ Write your email:
 
 - **Sign-off:**
 
+**Write Here**
+{{PH-3: U07-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your request email, check:
@@ -1196,6 +1256,12 @@ In each email, include:
 
 Write your emails:
 
+**Email 1**
+{{PH-3: U07-freer-email-1}}
+
+**Email 2**
+{{PH-3: U07-freer-email-2}}
+
 ### Editing Practice: Keep the Request, Improve the Tone
 
 Rewrite each message so it keeps the same request but sounds more professional.
@@ -1211,6 +1277,9 @@ Rewrite each message so it keeps the same request but sounds more professional.
 
 4. Give me the missing information.
    ->
+
+**Write Your Revised Version**
+{{PH-2: U07-editing-rewrite}}
 
 ### Transfer Extension: One Need, Two Levels of Politeness
 
@@ -1228,6 +1297,9 @@ Then decide:
 
 If you do not want to use a real request, choose one Unit 7 freer-practice situation and write the two versions for that case.
 
+**Write Here**
+{{PH-1: U07-transfer-response}}
+
 ### Extended Writing Task - Request Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) explaining:
@@ -1244,6 +1316,9 @@ Write a **neutral paragraph** (5-6 sentences) explaining:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U07-extended-paragraph}}
+
 ### Reflection
 
 1. What polite request phrase do you prefer using?
@@ -1257,6 +1332,9 @@ Write your paragraph:
 Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
 
 If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
+
+**Homework Draft**
+{{PH-3: U07-homework-document}}
 
 ## Module 2 Review Workshop
 

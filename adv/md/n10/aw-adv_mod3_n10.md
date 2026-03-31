@@ -140,6 +140,10 @@ Rewrite the original unclear procedure from Section B into a structured, formal 
 - precise procedural verbs
 - a final step that closes the procedure
 
+
+**Draft Here**
+{{PH-2: U08-D1-guided-rewrite}}
+
 #### Information Reorganisation (D5)
 
 > **Transfer reminder:** When you reorganise paragraph information into a procedure, keep the action order, condition signals, and instruction style consistent. If two actions happen at different stages, separate them instead of burying them in one sentence.
@@ -150,7 +154,11 @@ Reorganise the information into a clearly numbered, logically sequenced procedur
 
 > *"Once the form has been reviewed and any outstanding queries resolved, the file can proceed to the approvals stage. Before that, however, staff must check that all supporting documents have been received. The form itself should be reviewed within three working days of receipt. Any queries should be sent to the originating office in writing. After approval, a confirmation is sent to the applicant and the record is closed."*
 
+
 ---
+
+**Draft Here**
+{{PH-3: U08-D5-reorganised-version}}
 
 ### E. Freer Writing
 
@@ -170,7 +178,11 @@ Choose one situation:
 2. Your office is transferring a case file to another office following a change in responsibility. A new staff member will use your procedure to complete the transfer without supervision.
 3. An applicant has appealed a procedural decision, and your unit needs a standard internal procedure for handling the appeal from receipt to final notification.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U08-E1-freer-write}}
 
 ### F. Review & Self-Edit
 
@@ -214,7 +226,11 @@ Issues to look for:
 
 Write your revised version as a numbered procedure with step labels.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U08-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -233,6 +249,10 @@ Choose one situation:
 1. A submitted translation contains a discrepancy that must be checked, referred back to the originating office if necessary, and then cleared before the case can proceed. Write a procedure for staff in your unit.
 2. Two offices are conducting a joint review of a file, and your team needs a shared procedure covering document receipt, responsibility checks, follow-up on missing items, and final confirmation.
 3. A submission arrives after the official deadline, but the office must still determine whether it can be accepted under an exception. Write a procedure for the receiving team.
+
+
+**Homework Draft**
+{{PH-4: U08-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -368,11 +388,16 @@ Rewrite the original unclear message from Section B. Your version must include:
 - polite but clear instructions for required action
 - an offer of support
 
+
+**Draft Here**
+{{PH-2: U09-D1-guided-rewrite}}
+
 #### Template-Guided Writing (D3)
 
 > **Transfer reminder:** Do not treat the template as five isolated boxes. Use it to preserve the logic of effective change communication: state the change, explain why it matters, guide the reader’s action, and reduce uncertainty through support.
 
 Use the template below to draft a change management notice for one of the scenarios that follow.
+
 
 ---
 
@@ -398,6 +423,9 @@ Choose one situation:
 
 ---
 
+**Draft Here**
+{{PH-3: U09-D3-guided-draft}}
+
 ### E. Freer Writing
 
 #### Scenario-Based Free Write (E1)
@@ -416,7 +444,11 @@ Choose one situation:
 2. A policy adjustment has changed how applicant documents must be handled after initial review. Staff in your office and in partner agencies need to understand both the new requirement and what they must do differently from the effective date.
 3. An interagency coordination workflow has been revised to reduce the number of required sign-offs before a joint report is circulated. You need to inform the participating offices and explain the reason for the change.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U09-E1-freer-write}}
 
 ### F. Review & Self-Edit
 
@@ -461,7 +493,11 @@ Issues to look for:
 
 Write your full revised version as a coherent change management notice.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U09-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -481,6 +517,10 @@ Choose one situation:
 1. A new process for handling urgent submissions will take effect on a specified date. The revised procedure changes who gives approval at the first stage and requires staff in three offices to update their workflow.
 2. Your office has introduced a new format for internal reports. The previous format will be withdrawn, and all teams must begin using the updated version from the start of the next reporting cycle.
 3. A new approval requirement has been introduced for outgoing correspondence to foreign offices. Messages must now be copied to the coordinating unit before they are sent, and staff need to be informed before the rule takes effect.
+
+
+**Homework Draft**
+{{PH-4: U09-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -614,6 +654,10 @@ Rewrite the original vague explanation from Section B. Your version must include
 - an impact statement
 - a next-step conclusion
 
+
+**Draft Here**
+{{PH-2: U10-D1-guided-rewrite}}
+
 #### Scenario-Based Writing (D2)
 
 Write a structured explanation of **100–130 words**. Your explanation must include:
@@ -629,7 +673,11 @@ Choose one situation:
 2. An interagency review has stalled because two offices have submitted conflicting information. You need to explain the situation to the project lead before the next coordination call.
 3. A translation correction has created new questions that must be resolved before a file can proceed. A colleague in another unit has asked for a short written explanation of the issue and its impact.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U10-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -649,7 +697,11 @@ Choose one situation:
 2. Newly issued guidelines contain conflicting instructions in two sections, and your office must explain the problem to a partner agency before implementation begins.
 3. An incomplete submission has created follow-on problems for your office, including additional verification work and a delay to the next stage of review.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U10-E2-freer-write}}
 
 ### F. Review & Self-Edit
 
@@ -690,7 +742,11 @@ Your revised version must:
 - remove all informal or emotive language
 - include a next-step statement
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U10-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -710,6 +766,10 @@ Choose one situation:
 1. A joint report cannot be finalised because several required inputs have arrived late, one data set contains inconsistencies, and a final instruction from a partner office is still outstanding. Your manager needs a written explanation before a decision is taken on the deadline.
 2. Two versions of an interagency guideline are currently in circulation, and the differences between them have caused confusion across several teams. You need to explain the issue and its operational effect to the coordinating unit.
 3. A backlog has developed because of a combination of staffing shortages, unclear instructions, and repeated follow-up on incomplete submissions. Your office has been asked to explain the situation in writing for an internal review note.
+
+
+**Homework Draft**
+{{PH-4: U10-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -851,11 +911,16 @@ Your rewrite should include:
 - specific, attributed action items with deadlines
 - a brief next steps statement
 
+
+**Draft Here**
+{{PH-2: U11-D1-guided-rewrite}}
+
 #### Format Conversion (D7)
 
 > **Transfer reminder:** When you convert notes into an executive summary, group information by significance and action, not by the order in which points appeared during the meeting.
 
 The following notes were taken during an interagency meeting. They are written informally and without structure. Convert them into a professionally formatted executive-level meeting summary using the standard four sections.
+
 
 ---
 
@@ -881,6 +946,9 @@ Write the converted summary using formal, complete sentences. Attribute action i
 
 ---
 
+**Draft Here**
+{{PH-3: U11-D7-format-conversion}}
+
 ### E. Freer Writing
 
 #### Scenario-Based Free Write (E1)
@@ -900,7 +968,11 @@ Choose one situation:
 3. A working group met to review progress on a joint interagency project. Some tasks were completed, some were deferred, and one office was assigned responsibility for preparing a revised draft before the next session.
 4. *(JPO context)* Representatives from the JPO, USPTO, and EPO met to review progress on a trilateral technical harmonisation issue. The discussion identified at least two unresolved points, one action item was assigned, and a follow-up meeting is required.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U11-E1-freer-write}}
 
 ### F. Review & Self-Edit
 
@@ -944,7 +1016,11 @@ Issues to look for:
 
 Write your revised version as a complete, properly formatted executive summary.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U11-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -965,6 +1041,10 @@ Choose one situation:
 2. A briefing session was held after the introduction of a new administrative policy. Participants raised concerns about implementation, and the summary must record both the concerns and the agreed actions.
 3. A coordination meeting was held to address a processing backlog affecting multiple offices. Some causes were identified, responsibilities were assigned, and further updates are required before the next review point.
 4. *(JPO context)* A high-level international IP meeting was held involving the JPO, USPTO, and EPO to review progress on a procedural harmonisation issue. Your summary should record the main discussion points, assigned actions, and next steps in a formal executive-summary format.
+
+
+**Homework Draft**
+{{PH-4: U11-H3-homework-draft}}
 
 #### Extension Task (H1)
 

@@ -719,3 +719,20 @@ Historical note:
 - Updated `aw-int_unit_structural_profiles.md` to match the repaired live source instead of leaving superseded sign-off flags in place.
 - Replaced the stale fail-heavy `aw-int_qa_review_round1.md` with a clean-sheet post-remediation Round 1 file.
 - Current strict QA position: Intermediate Round 1 now passes at whole-book level and the next stage is `INT-7` full review.
+## 2026-03-31 - Intermediate placeholder reassessment after rebuild and QA
+
+- Rechecked `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` against the post-`INT-5A` / post-`INT-6` live module set.
+- Decision unchanged at the system level: the intermediate book still only needs the same five placeholder types used by the advanced book.
+- Important distribution change:
+  - more `PH-1` / `PH-2` revision-sized boxes are needed than the earlier draft implied
+  - more clearly separated paired boxes are needed across Modules 2 to 6
+  - `PH-4` should be used more selectively because many expanded tasks remain paragraph-scale
+  - `PH-5` is now more clearly concentrated in Module 6 and selected Unit 23 end-of-course tasks
+- The placeholder plan now explicitly treats audience-specific labeling as mandatory for Module 6 multi-document layouts.
+## 2026-03-31 - Student-response placeholder markers inserted into both books
+
+- Inserted live `{{PH-*:*}}` student-response placeholders into all six advanced `n10` module files in `adv/md/n10`.
+- Inserted live `{{PH-*:*}}` student-response placeholders into all six intermediate live module files in `int/md/first_draft_modules`.
+- Refined Intermediate Module 6 manually after the bulk pass so multi-document tasks now use audience-specific labeled boxes rather than generic single placeholders.
+- Removed an incorrect advanced `H1` extension-task placeholder spillover from `adv/md/n10/aw-adv_mod1_n10.md`; advanced placeholders now stay limited to the intended student-writing sections.
+- Verified the repo remains clean for encoding artifacts with `python scripts/check_mojibake.py`.

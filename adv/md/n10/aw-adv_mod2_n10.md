@@ -158,7 +158,11 @@ Rewrite the original (informal) model email as a structured, diplomatic version.
 - a polite request for each action
 - a next-step statement
 
+
 ---
+
+**Draft Here**
+{{PH-2: U04-D1-guided-rewrite}}
 
 #### Template-Guided Writing (D3) ★
 
@@ -194,7 +198,11 @@ Choose one scenario and write a structured email of 5–7 sentences.
 
 Your email must use the structural sequence from this unit.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U04-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -215,7 +223,11 @@ Choose one scenario:
 3. A procedural instruction issued six months ago may have been superseded by a recent policy update. Your office needs written confirmation of which version is currently in force before updating internal guidance.
 4. *(JPO context)* Your office has received a message from a counterpart at the USPTO International Affairs Division noting that two sections of a jointly produced procedural document may contain conflicting guidance. Before the document can be recirculated, you need written confirmation of which section should now be followed and whether a corrected version will be issued.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U04-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
@@ -252,7 +264,11 @@ The following email has structural and tone problems. Rewrite it as a clear, pro
 
 Your rewrite must add: context, a clear explanation for each request, appropriate sequencing, diplomatic tone, and a next-step statement.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U04-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -273,7 +289,11 @@ Choose one scenario:
 3. A domestic counterpart asked your office to validate a set of figures included in a draft report. You have completed the check and need to communicate the outcome and request a revised version.
 4. *(JPO context)* A counterpart office has sent a brief update on an international filing, but the message does not confirm whether any further materials are needed from your side before the next processing stage can proceed.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U04-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -438,7 +458,11 @@ Rewrite the original (vague) model text as a precise, structured clarification r
 - softening language throughout
 - a next-step statement
 
+
 ---
+
+**Draft Here**
+{{PH-2: U05-D1-guided-rewrite}}
 
 #### Two-Audience Version Task (D4)
 
@@ -458,7 +482,15 @@ After writing both versions, compare:
 - how references are introduced
 - the closing tone in each version
 
+
+
 ---
+
+**Version A**
+{{PH-3: U05-D4-version-a}}
+
+**Version B**
+{{PH-3: U05-D4-version-b}}
 
 ### E. Freer Writing
 
@@ -480,7 +512,11 @@ Choose one situation:
 3. A domestic agency has forwarded a set of revised processing instructions. One section references an annex that does not appear to be attached, and two steps in the procedure are described differently in the summary and the main text.
 4. *(JPO context)* A counterpart office has sent a revised coordination document for a shared search procedure, but one date in the main text differs from the date shown in the attached annex, and one referenced attachment does not appear to be included.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U05-E3-role-based-write}}
 
 ### F. Review & Self-Assessment
 
@@ -521,7 +557,11 @@ Rewrite the following clarification requests. Each is too vague, too direct, or 
 
 For each rewrite, add: a specific reference, a clearly scoped question, softening language, and (where appropriate) a next-step marker.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U05-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -541,7 +581,11 @@ Choose one scenario:
 3. An interagency partner has submitted a draft coordination agreement. Two clauses use language that appears inconsistent with the framework document both offices signed last year, and one deadline has been changed without explanation.
 4. *(JPO context)* A counterpart office has sent a revised review schedule for a shared document, but one date differs from the version agreed last month and one attachment referred to in the message is missing.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U05-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -573,11 +617,9 @@ This unit develops learners' ability to communicate errors, inconsistencies, and
 
 Read the two messages below. Without any explanation yet, identify what makes the second version more effective. Be as specific as possible.
 
-**Version A**
 
 > *"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
 
-**Version B**
 
 > *"Thank you for sharing the updated document. Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm whether the dates should be updated. Once clarified, we will be able to proceed with the remaining steps in the review."*
 
@@ -714,7 +756,11 @@ Rewrite the original (too direct) model using the diplomatic techniques from thi
 - a polite request for correction
 - a next-step statement
 
+
 ---
+
+**Draft Here**
+{{PH-2: U06-D1-guided-rewrite}}
 
 #### Scenario Writing (D2)
 
@@ -729,7 +775,11 @@ Your message must include: a neutral identification of the issue, an impact stat
 > **Transfer reminder:** Keep these functions separate in your draft: identify the issue, explain its impact, request the correction, and state the next step. When these functions are combined too heavily, the message often starts to sound blaming or unclear.
 
 
+
 ---
+
+**Draft Here**
+{{PH-3: U06-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -750,7 +800,11 @@ Choose one scenario:
 3. A collaborating office used an outdated version of a registration form; the current version contains updated eligibility criteria that affect how submissions are assessed.
 4. *(JPO context)* A joint search report prepared for trilateral circulation uses one code in the summary table and a different code in the main text. Your office needs clarification before the report can be circulated further.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U06-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
@@ -790,7 +844,11 @@ Rewrite the following sentences. Each is too direct, too vague, or missing a key
 
 Your rewrites must add: diplomatic framing, a specific reference, an impact explanation where relevant, and a clear next-step marker.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U06-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -826,7 +884,11 @@ Choose one scenario:
 3. An interagency colleague forwarded a draft coordination report to external partners before it had been approved for distribution. The report contained preliminary figures that have since been revised.
 4. *(JPO context)* A JPO team sent a draft bilateral meeting note to a partner office before the figures and action points had been internally confirmed, and the partner office is now relying on that draft.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U06-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -968,7 +1030,11 @@ Rewrite the original (unstructured) model into a layered, prioritised request me
 - diplomatic phrasing
 - a next-step statement
 
+
 ---
+
+**Draft Here**
+{{PH-2: U07-D1-guided-rewrite}}
 
 #### Scenario Writing (D2)
 
@@ -982,7 +1048,11 @@ Your message must include: a rationale, a clearly sequenced set of requests, dep
 > **Transfer reminder:** Do not just add sequence markers mechanically. Use them to show the reader which action unlocks the next stage and why that order matters.
 
 
+
 ---
+
+**Draft Here**
+{{PH-3: U07-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -1003,7 +1073,11 @@ Choose one scenario:
 3. Your office is preparing materials for an upcoming coordination meeting. Before the agenda can be finalised, you need a partner office to confirm attendance, provide a status update on two action points from the last meeting, and indicate whether any items need to be added.
 4. *(JPO context)* Your office is preparing a contribution to an upcoming WIPO working-group meeting, but before drafting can begin you need the partner office to confirm the topic focus. Once that is confirmed, you need the current template so the draft can be prepared, and only then can the proposed division of tasks be approved.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U07-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
@@ -1038,7 +1112,11 @@ Rewrite the following message. It contains unsequenced requests, missing depende
 
 > *"We need you to correct the dates, confirm which version is valid, and fix the terminology. Then we can proceed."*
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U07-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -1058,7 +1136,11 @@ Choose one scenario:
 3. A domestic agency has requested your office's input on a set of updated eligibility criteria. Your team needs to complete three things before responding: verify the criteria against current internal guidance; identify any conflicts; and, if conflicts exist, request a meeting before submitting written comments.
 4. *(JPO context)* Your office is preparing a formal response to a foreign IP office, but before a full reply can be sent you first need confirmation of the current document version. Once that is confirmed, you need the deadline for comments, and only then can the full reply be sent to the correct contact for final coordination.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U07-H3-homework-draft}}
 
 #### Extension Task (H1)
 

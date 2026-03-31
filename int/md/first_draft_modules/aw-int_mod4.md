@@ -211,6 +211,9 @@ Write a complete inquiry email.
 
 Write your email:
 
+**Write Here**
+{{PH-3: U12-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own external inquiries, check:
@@ -248,6 +251,9 @@ Include a specific subject line, brief background, one clear question, and a pol
 
 Write your inquiry emails:
 
+**Write Here**
+{{PH-3: U12-freer-document}}
+
 ### Editing Practice: Make the Inquiry Answerable
 
 Rewrite this inquiry so the outside reader can answer it more easily.
@@ -260,6 +266,9 @@ We do not understand this and need help. Please explain the rule.
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U12-editing-rewrite}}
+
 ### Transfer Extension: Internal Note Before the Inquiry
 
 Choose one inquiry from this unit.
@@ -271,6 +280,9 @@ Write a short internal note for your team explaining:
 - what answer you hope to receive
 
 This helps connect external inquiry writing to internal reporting.
+
+**Write Here**
+{{PH-1: U12-transfer-response}}
 
 ### Extended Writing Task - Inquiry Paragraph
 
@@ -303,6 +315,9 @@ Mini report-style frame:
 
 Write your paragraph:
 
+**Write Here**
+{{PH-3: U12-extended-document}}
+
 ### Reflection
 
 1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
@@ -317,6 +332,9 @@ Find a real external instruction or notice. Write an inquiry email asking one cl
 
 If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
 ---
+
+**Homework Draft**
+{{PH-3: U12-homework-document}}
 
 ## Unit 13 - Providing Simple Explanations
 
@@ -503,6 +521,9 @@ Explain:
 
 Write your explanation:
 
+**Write Here**
+{{PH-2: U13-guided-paragraph}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own explanations, check:
@@ -528,6 +549,12 @@ Include background, the main issue, and the reason or effect in each explanation
 
 Write your explanations:
 
+**Explanation 1**
+{{PH-2: U13-freer-explanation-1}}
+
+**Explanation 2**
+{{PH-2: U13-freer-explanation-2}}
+
 ### Editing Practice: Add the Missing Link
 
 Rewrite this explanation so the reader can see both the reason and the effect.
@@ -537,6 +564,9 @@ Rewrite this explanation so the reader can see both the reason and the effect.
 The document cannot be accepted. There is a problem with one section. The process will change.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U13-editing-rewrite}}
 
 ### Transfer Extension: Explanation for Two Readers
 
@@ -548,6 +578,9 @@ Rewrite it twice:
 2. for a supervisor
 
 Keep the facts the same, but decide how much detail each reader needs.
+
+**Write Here**
+{{PH-1: U13-transfer-response}}
 
 ### Extended Writing Task - Explanatory Paragraph
 
@@ -580,6 +613,9 @@ Mini report-style frame:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U13-extended-paragraph}}
+
 ### Reflection
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
@@ -594,6 +630,9 @@ Find a real explanation you wrote or received. Rewrite it using the structure fr
 
 If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
 ---
+
+**Homework Draft**
+{{PH-2: U13-homework-paragraph}}
 
 ## Unit 14 - Responding to Confusion
 
@@ -756,6 +795,9 @@ Write a response that:
 
 Write your response:
 
+**Write Here**
+{{PH-3: U14-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own responses, check:
@@ -781,6 +823,12 @@ In each response, acknowledge the confusion, state the correct information, and 
 
 Write your responses:
 
+**Response 1**
+{{PH-3: U14-freer-response-1}}
+
+**Response 2**
+{{PH-3: U14-freer-response-2}}
+
 ### Editing Practice: Remove the Defensive Tone
 
 Rewrite this response so it becomes clearer and more professional.
@@ -791,6 +839,9 @@ You misunderstood the message. We already explained this rule before, so please 
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U14-editing-rewrite}}
+
 ### Transfer Extension: Clarification for a Team Record
 
 Choose one misunderstanding from this unit.
@@ -800,6 +851,9 @@ Write a short internal record explaining:
 - what the confusion was
 - what the correct information is
 - what staff should remember next time
+
+**Write Here**
+{{PH-1: U14-transfer-response}}
 
 ### Extended Writing Task - Clarification Paragraph
 
@@ -832,6 +886,9 @@ Mini internal-report frame:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U14-extended-paragraph}}
+
 ### Reflection
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
@@ -846,6 +903,9 @@ Find an unclear message from a real situation. Write a clear, polite response to
 
 If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
 ---
+
+**Homework Draft**
+{{PH-3: U14-homework-document}}
 
 ## Unit 15 - Maintaining Consistent Email Style
 
@@ -1054,6 +1114,9 @@ Rewrite it as a short email to a colleague or team mailbox using a consistent pr
 
 **Rewrite:**
 
+**Write Here**
+{{PH-3: U15-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own consistent emails, check:
@@ -1079,6 +1142,12 @@ Make the reader clear in each email and keep the tone, layout, and sign-off cons
 
 Write your emails:
 
+**Email 1**
+{{PH-3: U15-freer-email-1}}
+
+**Email 2**
+{{PH-3: U15-freer-email-2}}
+
 ### Editing Practice: Bring Two Drafts to One Standard
 
 Rewrite the two short messages below so they follow the same team style.
@@ -1088,6 +1157,9 @@ Rewrite the two short messages below so they follow the same team style.
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
    ->
+
+**Write Your Revised Version**
+{{PH-2: U15-editing-rewrite}}
 
 ### Transfer Extension: Mini Team Style Rule
 
@@ -1100,6 +1172,9 @@ For example:
 - closing style
 
 Then use those rules to check one email from your freer practice.
+
+**Write Here**
+{{PH-1: U15-transfer-response}}
 
 ### Extended Writing Task - Email Style Guide Paragraph
 
@@ -1120,6 +1195,9 @@ Mini content frame:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U15-extended-paragraph}}
+
 ### Reflection
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
@@ -1133,6 +1211,9 @@ Write your paragraph:
 Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
 
 If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
+
+**Homework Draft**
+{{PH-3: U15-homework-document}}
 
 ## Module 4 Review Workshop
 

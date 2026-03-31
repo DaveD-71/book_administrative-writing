@@ -197,6 +197,10 @@ Rewrite the original text from Section B using:
 - diplomatic softening
 - next-step information or a timeline reference
 
+
+**Draft Here**
+{{PH-2: U12-D1-guided-rewrite}}
+
 #### Two-Audience Version Task (D4)
 
 > **Transfer reminder:** When you switch from an external to an internal audience, change the level of background explanation, not the core information. A familiar internal reader needs less orientation, but the task, status, and next-step logic should still remain clear.
@@ -207,7 +211,11 @@ The following inquiry was written for an international partner office. Rewrite i
 
 Discuss: What changes did you make for the internal audience? What did you remove, simplify, or rephrase — and why?
 
+
 ---
+
+**Draft Here**
+{{PH-3: U12-D4-two-audience-draft}}
 
 ### E. Freer Writing
 
@@ -228,7 +236,11 @@ Choose one situation:
 3. You manage ongoing correspondence with an external partner office on an open applicant file. Two weeks ago, your office sent a clarification request, and your supervisor now needs a progress update before next week's internal review meeting.
 4. *(JPO context)* You handle correspondence between your office and a foreign IP office on an open international filing. Your office recently sent comments to the counterpart office, but the reply does not confirm whether those comments have been reflected in the current file or whether any further clarification is needed.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U12-E3-role-based-write}}
 
 ### F. Review & Self-Assessment
 
@@ -272,13 +284,21 @@ Your edited version should:
 - use diplomatic language throughout
 - close with a professional next-step statement
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U12-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
 #### Real-World Task (H2)
 
 Identify one situation in your current or recent work where a more clearly structured external inquiry would have improved communication outcomes. Draft the inquiry as it should have been written, or as it might be needed in a future situation.
+
+
+**Draft Here**
+{{PH-3: U12-H2-real-world-draft}}
 
 #### Homework Writing Task (H3)
 
@@ -296,6 +316,10 @@ Choose one situation:
 2. Your team sent a clarification request to a foreign office about a case that is due to be included in a coordination report, but no reply has yet been received and the report deadline is approaching.
 3. A partner agency reviewed an applicant file and was expected to confirm whether any additional materials are required before the next processing stage. Your office now needs a formal written inquiry because the internal deadline is approaching.
 4. *(JPO context)* Your office sent comments on a draft international workshop agenda, but the latest update does not confirm whether your proposed session has been included, which version of the agenda is current, or when final materials are due.
+
+
+**Homework Draft**
+{{PH-4: U12-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -460,6 +484,10 @@ Rewrite the vague original model from Section B using:
 - neutral, analytical tone
 - a mitigation measure for each risk
 
+
+**Draft Here**
+{{PH-2: U13-D1-guided-rewrite}}
+
 #### Scenario-Based Risk Assessment (D2)
 
 > **Transfer reminder:** Keep the sequence visible in your draft: evidence or issue first, then likely impact, then response. If those functions are mixed together, the assessment often starts to sound vague or overstated.
@@ -478,7 +506,11 @@ Your assessment must include:
 - mitigation proposal
 - neutral, formal tone
 
+
 ---
+
+**Draft Here**
+{{PH-3: U13-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -498,7 +530,11 @@ Choose one situation:
 3. The officer responsible for applicant communication in a high-volume case stream left last week without completing handover notes, and several open files now contain unresolved queries and missing status updates. Your manager needs a risk and impact assessment before deciding how to reassign the work.
 4. *(JPO context)* The JPO is preparing to introduce a new international filing system next month, but several partner offices have not yet completed the training needed for implementation.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U13-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
@@ -547,7 +583,11 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 3. *The process is broken.*
 4. *No one will meet the deadline.*
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U13-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -566,6 +606,10 @@ Choose one situation:
 2. A revised interagency guideline has been issued, but several partner organisations have not yet received training or updated documentation and may still be using the previous version.
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
 4. *(JPO context)* A revised cross-office verification checklist is due before the next reporting cycle, but training has not yet been completed in all teams, creating a risk of inconsistent use during implementation.
+
+
+**Homework Draft**
+{{PH-4: U13-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -725,6 +769,10 @@ Rewrite the original text from Section B using:
 - layered explanation (core message first, then audience-specific detail)
 - clear next steps
 
+
+**Draft Here**
+{{PH-2: U14-D1-guided-rewrite}}
+
 #### Two-Audience Version Task (D4)
 
 > **Transfer reminder:** Keep the core message stable across both versions. What should change is the amount of context, the explicitness of audience signals, and the level of explanation needed for each reader group.
@@ -738,7 +786,15 @@ Write two versions of the following announcement:
 
 Discuss: What did you change between the two versions? Which version required more background explanation — and why?
 
+
+
 ---
+
+**Version A**
+{{PH-3: U14-D4-version-a}}
+
+**Version B**
+{{PH-3: U14-D4-version-b}}
 
 ### E. Freer Writing
 
@@ -752,7 +808,15 @@ Discuss: What did you change between the two versions? Which version required mo
 
 Together, your two pieces form a communication package for the same procedural change.
 
+
+
 ---
+
+**Document 1**
+{{PH-3: U14-E4-task-1}}
+
+**Document 2**
+{{PH-4: U14-E4-task-2}}
 
 ### F. Review & Self-Assessment
 
@@ -794,7 +858,11 @@ Your edited version should:
 - state clear required actions and next steps
 - use professional, inclusive language throughout
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U14-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -807,6 +875,10 @@ Write a **220–260 word** multi-audience notice for a procedural or policy chan
 - layered explanation (core message + audience-specific detail)
 - required actions and next steps
 - formal, inclusive tone
+
+
+**Homework Draft**
+{{PH-4: U14-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -968,6 +1040,10 @@ Rewrite the weak original from Section B. Your rationale should include:
 - clear, objective reasoning
 - a benefit statement
 
+
+**Draft Here**
+{{PH-2: U15-D1-guided-rewrite}}
+
 #### Template-Guided Writing (D3)
 
 > **Transfer reminder:** Use the template as a logic chain rather than as fixed wording. A strong rationale moves from recommendation to policy support to operational reasoning to benefit, without leaving any link implicit.
@@ -985,7 +1061,11 @@ Use the structure below to draft a policy-aligned rationale for one of the follo
 
 Adapt the template as needed. Your rationale should be 5–7 sentences.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U15-D3-guided-draft}}
 
 ### E. Freer Writing
 
@@ -1006,7 +1086,11 @@ Choose one situation:
 3. Senior staff are considering the introduction of a new quality-check step into an existing submission workflow. You have been asked to prepare a rationale explaining why the change is necessary and what benefit it will bring.
 4. *(JPO context)* Your office is preparing a formal rationale to support the adoption of a standardised terminology framework for use in trilateral examination or coordination work. The proposal must align with existing international guidelines before it can be submitted for approval.
 
+
 ---
+
+**Draft Here**
+{{PH-4: U15-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
@@ -1038,6 +1122,7 @@ Before submitting, check whether your rationale:
 
 The following rationale has been reviewed by a colleague, who has proposed several edits. Read the original and the proposed changes. For each change, decide whether to **accept** or **reject** it. Write your decision and a brief reason.
 
+
 ---
 
 **Original:**
@@ -1054,6 +1139,9 @@ The following rationale has been reviewed by a colleague, who has proposed sever
 For each decision: state whether you accept or reject the change, and explain in one sentence why.
 
 ---
+
+**Write Your Decisions**
+{{PH-2: U15-G3-decision-notes}}
 
 ### H. Homework & Extension
 
@@ -1073,6 +1161,10 @@ Choose one situation:
 2. A guideline or standard form has been updated following a policy change, and your team must write a rationale explaining why the revision should now be adopted.
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
 4. *(JPO context)* Your office is preparing a rationale to support the introduction of a common progress-reporting timetable for joint review projects involving partner offices. The proposal must align with existing coordination guidance before it can be submitted for approval.
+
+
+**Homework Draft**
+{{PH-4: U15-H3-homework-draft}}
 
 #### Extension Task (H1)
 

@@ -160,6 +160,9 @@ Include:
 
 Write your email:
 
+**Write Here**
+{{PH-3: U19-guided-document}}
+
 ### Guided Practice - Write the Internal Explanation
 
 Write a **4-5 sentence** explanation for your colleagues or team.
@@ -192,6 +195,9 @@ Mini contrast:
 If both texts sound the same, the reader-purpose control is still weak.
 
 Write your explanation:
+
+**Write Here**
+{{PH-3: U19-guided-document}}
 
 ### Self-Check Before Freer Practice
 
@@ -237,6 +243,12 @@ Make it clear who each text is for and what that reader needs to know from the s
 
 Write your two texts:
 
+**External Email**
+{{PH-3: U19-paired-external-email}}
+
+**Internal Explanation**
+{{PH-3: U19-paired-internal-explanation}}
+
 ### Editing Practice: Separate The Reader Needs
 
 Rewrite the weak pair below so the external and internal texts do different jobs.
@@ -245,6 +257,9 @@ Rewrite the weak pair below so the external and internal texts do different jobs
 **Weak internal draft:** There is a signature problem and we got their message.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U19-editing-rewrite}}
 
 ### Transfer Extension: Same Fact, New Audience Pair
 
@@ -256,6 +271,9 @@ Rewrite it as:
 2. one internal message
 
 Use the same core facts, but change the tone and detail for each audience.
+
+**Write Here**
+{{PH-1: U19-transfer-response}}
 
 ### Extended Writing Task - Multi-Purpose Communication
 
@@ -279,6 +297,12 @@ Write the email for the outside office and the paragraph for your internal team.
 
 Write your extended tasks:
 
+**External Email**
+{{PH-3: U19-extended-external-email}}
+
+**Internal Explanation**
+{{PH-3: U19-extended-internal-explanation}}
+
 ### Reflection
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
@@ -291,6 +315,9 @@ Write your extended tasks:
 
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
 ---
+
+**Homework Draft**
+{{PH-3: U19-homework-document}}
 
 ## Unit 20 - Integrated Task 2: Revision + Notice Writing
 
@@ -447,6 +474,9 @@ Include:
 
 Write your message:
 
+**Write Here**
+{{PH-3: U20-guided-document}}
+
 ### Guided Practice - Write the Internal Notice
 
 Write a **4-5 sentence** internal notice for colleagues in your section.
@@ -462,6 +492,9 @@ Include:
 - Impact or next steps
 
 Write your notice:
+
+**Write Here**
+{{PH-3: U20-guided-document}}
 
 ### Self-Check Before Freer Practice
 
@@ -512,6 +545,12 @@ Keep the two texts connected to the same correction, but change the tone and pur
 
 Write your two texts:
 
+**Revision Message**
+{{PH-3: U20-revision-message}}
+
+**Internal Notice**
+{{PH-3: U20-internal-notice}}
+
 ### Editing Practice: Repair The Correction Set
 
 Rewrite this weak pair so both texts stay consistent.
@@ -521,6 +560,9 @@ Rewrite this weak pair so both texts stay consistent.
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U20-editing-rewrite}}
+
 ### Transfer Extension: Correction Log
 
 Write a short `3-4` line correction log for one scenario in this unit:
@@ -529,6 +571,9 @@ Write a short `3-4` line correction log for one scenario in this unit:
 - corrected detail
 - who needs the correction
 - what document each reader receives
+
+**Write Here**
+{{PH-1: U20-transfer-response}}
 
 ### Extended Writing Task - Combined Communication Pack
 
@@ -554,6 +599,12 @@ Write the first for the outside reader who received the incorrect information an
 
 Write your extended tasks:
 
+**Revision Message**
+{{PH-3: U20-extended-revision-message}}
+
+**Internal Notice**
+{{PH-3: U20-extended-internal-notice}}
+
 ### Reflection
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
@@ -570,6 +621,9 @@ A) a revision email, or
 
 B) an internal notice.
 ---
+
+**Homework Draft**
+{{PH-3: U20-homework-document}}
 
 ## Unit 21 - Writing for Consistency Across a Team
 
@@ -757,6 +811,9 @@ The applicant file is strange. Please check.
 
 Rewrite all messages in a consistent style:
 
+**Write Here**
+{{PH-3: U21-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your next rewritten message set, check:
@@ -792,6 +849,12 @@ Use this quick rewrite plan:
 
 Write your revised pair:
 
+**Message 1**
+{{PH-3: U21-message-1}}
+
+**Message 2**
+{{PH-3: U21-message-2}}
+
 ### Editing Practice: Build One Standard
 
 Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly.
@@ -800,6 +863,9 @@ Then note:
 
 - which consistency rule you applied
 - how the revised version became easier to read
+
+**Write Your Revised Version**
+{{PH-2: U21-editing-rewrite}}
 
 ### Transfer Extension: Turn Your Rewrite Into A Team Rule
 
@@ -819,6 +885,9 @@ For example:
 
 This keeps the unit focused on message rewriting first, then turns one successful pattern into a reusable team rule.
 
+**Planning Notes**
+{{PH-1: U21-transfer-notes}}
+
 ### Extended Writing Task - Rewrite a Set of Communications
 
 Rewrite the following **three related messages** so they all follow a consistent team style.
@@ -834,6 +903,15 @@ Treat them as messages your team may send to colleagues or external contacts abo
 
 #### Rewrite all messages in a unified, professional style
 
+**Message 1**
+{{PH-2: U21-extended-message-1}}
+
+**Message 2**
+{{PH-2: U21-extended-message-2}}
+
+**Message 3**
+{{PH-2: U21-extended-message-3}}
+
 ### Reflection
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
@@ -848,6 +926,9 @@ Choose one of the Unit 21 situations and rewrite the two messages again using a 
 
 If you want to use real workplace writing, you may do so, but it is not required.
 ---
+
+**Homework Draft**
+{{PH-5: U21-homework-pack}}
 
 ## Unit 22 - Multi-Document Communication Task
 
@@ -985,6 +1066,9 @@ Include:
 
 Write your reply:
 
+**Write Here**
+{{PH-3: U22-guided-document}}
+
 ### Guided Practice - Write the Colleague Explanation
 
 Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
@@ -999,6 +1083,9 @@ Include:
 - What steps will follow
 
 Write your explanation:
+
+**Write Here**
+{{PH-2: U22-guided-paragraph}}
 
 ### Guided Practice - Write the Internal Notice
 
@@ -1032,6 +1119,9 @@ Mini notice model:
 - Please use the corrected date in all team messages and checklist updates.
 
 Write your notice:
+
+**Write Here**
+{{PH-3: U22-guided-document}}
 
 ### Self-Check Before Freer Practice
 
@@ -1083,6 +1173,15 @@ Keep the three documents tied to the same scenario, but make the audience differ
 
 Write your full set:
 
+**Applicant Reply**
+{{PH-3: U22-freer-applicant-reply}}
+
+**Colleague Explanation**
+{{PH-3: U22-freer-colleague-explanation}}
+
+**Internal Notice**
+{{PH-2: U22-freer-internal-notice}}
+
 ### Editing Practice: Separate The Three Voices
 
 Rewrite the short draft below into three clearer document openings.
@@ -1094,6 +1193,9 @@ Write:
 1. applicant opening
 2. colleague opening
 3. team notice opening
+
+**Write Your Revised Version**
+{{PH-2: U22-editing-rewrite}}
 
 ### Transfer Extension: Cross-Document Consistency Check
 
@@ -1121,6 +1223,9 @@ Safer final check:
 - let the explanation depth change by reader
 - let the action sentence change only when the reader's job is different
 
+**Write Here**
+{{PH-1: U22-transfer-response}}
+
 ### Extended Writing Task - Multi-Audience Communication Pack
 
 From the original scenario (missing applicant document), write a polished communication set:
@@ -1145,6 +1250,15 @@ Make sure the applicant email, colleague explanation, and internal notice do not
 
 Write your communication pack:
 
+**Applicant Reply**
+{{PH-4: U22-multi-doc-applicant-reply}}
+
+**Colleague Explanation**
+{{PH-3: U22-multi-doc-colleague-explanation}}
+
+**Internal Notice**
+{{PH-2: U22-multi-doc-internal-notice}}
+
 ### Reflection
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
@@ -1157,6 +1271,9 @@ Write your communication pack:
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 ---
+
+**Homework Draft**
+{{PH-3: U22-homework-document}}
 
 ## Unit 23 - Portfolio Writing & Final Revision
 
@@ -1370,6 +1487,9 @@ Choose ONE:
 
 Write your new document:
 
+**Write Here**
+{{PH-3: U23-guided-document}}
+
 ### Final Portfolio Submission
 
 Your final portfolio should contain **four items**:
@@ -1429,6 +1549,18 @@ Before submission, test whether the portfolio really shows range.
 Do not only polish sentence-level grammar.  
 Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
 
+**Revised External Email**
+{{PH-4: U23-portfolio-external-email}}
+
+**Revised Internal Explanation or Notice**
+{{PH-3: U23-portfolio-internal-document}}
+
+**Revised Report Paragraph**
+{{PH-3: U23-portfolio-report-paragraph}}
+
+**New Unit 23 Document**
+{{PH-4: U23-portfolio-new-document}}
+
 ### Capstone Rebuild Routine
 
 If one portfolio item still feels weaker than the rest, do not only proofread it.  
@@ -1477,6 +1609,9 @@ Write:
 - how you revised it
 - why the new version works better for the reader
 
+**Write Your Revised Version**
+{{PH-2: U23-editing-rewrite}}
+
 ### Transfer Extension: Next-Time Writing Plan
 
 Write a short plan for future workplace writing.
@@ -1486,6 +1621,9 @@ Include:
 - one strength you want to keep using
 - one editing habit you want to remember
 - one area you still want to improve
+
+**Write Here**
+{{PH-1: U23-transfer-response}}
 
 ### Reflection
 
@@ -1498,6 +1636,9 @@ Include:
 ### Homework (Final Course Task)
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+**Homework Draft**
+{{PH-3: U23-homework-document}}
 
 ## Module 6 Review Workshop
 

@@ -155,6 +155,10 @@ Your rewrite must include:
 - a specific, constructive recommendation
 - neutral, criterion-based language throughout
 
+
+**Draft Here**
+{{PH-2: U16-D1-guided-rewrite}}
+
 #### Revision Chain (D6)
 
 > **Transfer reminder:** As you revise, check whether each claim matches the strength of the evidence. If the problem is local, describe it locally. If the document has both strengths and weaknesses, make both visible.
@@ -176,7 +180,11 @@ Using the skills from this unit, revise your text. Apply the following checklist
 
 Write a brief note (2–3 sentences) explaining what you changed and why.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U16-D6-revision-chain}}
 
 ### E. Freer Writing
 
@@ -195,7 +203,11 @@ Your evaluation must include:
 - constructive recommendations
 - neutral, structured tone throughout
 
+
 ---
+
+**Draft Here**
+{{PH-4: U16-E1-freer-write}}
 
 ### F. Peer Review & Self-Assessment
 
@@ -231,6 +243,7 @@ Before submitting your work, check each item below.
 
 The text below is a draft evaluation. It includes five proposed edits, shown as strikethroughs (deleted text) and insertions (new text in brackets). For each change, decide: **Accept** or **Reject** — and give a brief reason.
 
+
 ---
 
 *The document is ~~bad~~ [in need of significant revision] in several areas. The ~~instructions are confusing~~ [instructions in Section 2 lack sufficient clarity for new users]. ~~Nobody~~ [No office] will be able to implement this without ~~a lot of~~ [additional] support. However, the ~~nice~~ [clear and well-formatted] chronology table is a ~~great~~ [useful] addition.*
@@ -249,6 +262,9 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 
 ---
 
+**Write Your Decisions**
+{{PH-2: U16-G3-decision-notes}}
+
 ### H. Homework & Extension
 
 #### Homework Writing Task (H3)
@@ -260,6 +276,10 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 - areas for improvement
 - recommendations
 - professional, neutral tone throughout
+
+
+**Homework Draft**
+{{PH-4: U16-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -401,6 +421,10 @@ Your brief must include:
 - a statement of implications
 - a specific, actionable recommendation
 
+
+**Draft Here**
+{{PH-2: U17-D1-guided-rewrite}}
+
 #### Format Conversion (D7)
 
 > **Transfer reminder:** Group information by significance, not by the order in which comments were made. A strong executive brief selects what matters for the decision rather than reproducing the meeting record.
@@ -419,7 +443,11 @@ Below is a set of notes from an interagency coordination meeting. Convert them i
 
 Write the executive brief in full, using the four-part structure: Overview / Key Points / Implications / Recommendation.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U17-D7-format-conversion}}
 
 ### E. Freer Writing
 
@@ -439,7 +467,11 @@ Your brief must include:
 - recommendation
 - formal, concise tone
 
+
 ---
+
+**Draft Here**
+{{PH-4: U17-E1-freer-write}}
 
 ### F. Peer Review & Self-Assessment
 
@@ -473,7 +505,11 @@ The text below is a draft executive brief. It contains multiple problems: unnece
 
 Your edited version should be a properly structured executive brief with all four components. Aim for 80–100 words.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U17-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -493,6 +529,10 @@ Choose one scenario:
 2. A coordination issue between partner offices has created inconsistent handling of a recurring case type. A brief is needed before the next decision meeting.
 3. A pilot system has produced mixed results across several teams, and a recommendation is needed on whether to proceed, revise, or pause the rollout.
 4. *(JPO context)* A senior JPO official needs a brief before an international meeting on whether to endorse a draft proposal for aligning document-exchange standards with a foreign IP office.
+
+
+**Homework Draft**
+{{PH-4: U17-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -655,6 +695,10 @@ Your paragraph must include:
 - a concluding insight
 - appropriate synthesis language from Section C
 
+
+**Draft Here**
+{{PH-2: U18-D1-guided-rewrite}}
+
 #### Scenario Writing (D2)
 
 > **Transfer reminder:** In your revision, do not just add synthesis phrases mechanically. Use them to group related evidence, show relationships across sources, and end with a point that goes beyond listing.
@@ -670,7 +714,11 @@ Then, using the feedback criteria below, revise your B6 paragraph:
 
 Write your revised paragraph, then compare with a partner.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U18-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -689,7 +737,11 @@ Your synthesis must include:
 - formal, neutral tone
 - synthesis language from your C8 Phrase Bank
 
+
 ---
+
+**Draft Here**
+{{PH-4: U18-E1-freer-write}}
 
 ### F. Peer Review & Self-Assessment
 
@@ -725,7 +777,11 @@ The text below is a draft synthesis. It contains multiple problems: source-by-so
 
 Your edited version should be a properly synthesised paragraph with grouped themes, contrast or agreement, and a concluding insight. Aim for 60–80 words.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U18-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -737,6 +793,10 @@ Write a 120–150 word synthesis paragraph that integrates information from all 
 
 If you do not have access to workplace documents, use three public or sample sources on the same administrative issue instead, such as a memo, a meeting summary, and a short report extract.
 
+
+**Draft Here**
+{{PH-3: U18-H2-real-world-draft}}
+
 #### Homework Writing Task (H3)
 
 Write a **220–260 word** synthesis combining information from three or more sources. Your synthesis must include:
@@ -745,6 +805,10 @@ Write a **220–260 word** synthesis combining information from three or more so
 - contrasts or agreements between sources
 - a concluding insight
 - formal, neutral tone
+
+
+**Homework Draft**
+{{PH-4: U18-H3-homework-draft}}
 
 #### Extension Task (H1)
 

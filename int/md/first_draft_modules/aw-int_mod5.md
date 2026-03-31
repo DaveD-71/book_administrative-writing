@@ -194,6 +194,9 @@ I check the document yesterday and it have some mistake. The informations in sec
 
 **Rewrite the corrected, professional version:**
 
+**Write Here**
+{{PH-3: U16-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before editing the next texts, ask:
@@ -217,6 +220,12 @@ D. A meeting summary with grammar errors affecting responsibility, timing, and n
 
 Keep the original meaning, but correct the language so the final version is accurate and usable.
 
+**Version 1**
+{{PH-2: U16-freer-version-1}}
+
+**Version 2**
+{{PH-2: U16-freer-version-2}}
+
 ### Editing Practice: Explain The Change
 
 Choose two corrections from your work in this unit.
@@ -227,6 +236,9 @@ For each one, explain:
 - why the corrected version is better
 - what you should check next time
 
+**Write Your Revised Version**
+{{PH-2: U16-editing-rewrite}}
+
 ### Extended Writing Task - Editing a Paragraph
 
 Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
@@ -236,6 +248,9 @@ Treat it as a draft internal update that needs editing before your team shares i
 The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
 
 **Corrected paragraph:**
+
+**Write Your Paragraph**
+{{PH-2: U16-extended-paragraph}}
 
 ### Transfer Extension: Accuracy Review Routine
 
@@ -249,6 +264,9 @@ For example:
 - then read once for punctuation
 
 Use your own wording, but make it a routine you could really use at work.
+
+**Planning Notes**
+{{PH-1: U16-transfer-notes}}
 
 ### Reflection
 
@@ -264,6 +282,9 @@ Find one email or document you wrote recently. Edit it for accuracy using the sk
 
 If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
 ---
+
+**Homework Draft**
+{{PH-3: U16-homework-document}}
 
 ## Unit 17 - Editing for Clarity
 
@@ -435,6 +456,9 @@ The system was slow today and we couldn't do much because of it. Also, there was
 
 **Rewrite:**
 
+**Write Here**
+{{PH-2: U17-guided-paragraph}}
+
 ### Self-Check Before Freer Practice
 
 Before revising your own texts, check:
@@ -460,6 +484,12 @@ Keep the meaning, but make the final version shorter, clearer, and better organi
 
 Write your revised texts:
 
+**Version 1**
+{{PH-2: U17-freer-version-1}}
+
+**Version 2**
+{{PH-2: U17-freer-version-2}}
+
 ### Editing Practice: From Vague To Usable
 
 Rewrite this draft so it becomes clearer for an internal reader.
@@ -469,6 +499,9 @@ Rewrite this draft so it becomes clearer for an internal reader.
 There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U17-editing-rewrite}}
 
 ### Transfer Extension: Explain Your Revision Choice
 
@@ -480,6 +513,9 @@ Write:
 - the stronger version
 - one line explaining why the stronger version is easier for the reader
 
+**Write Here**
+{{PH-1: U17-transfer-response}}
+
 ### Extended Writing Task - Clear Paragraph Revision
 
 Rewrite this paragraph (6-8 sentences) to improve clarity and flow.
@@ -489,6 +525,9 @@ Treat it as a draft internal paragraph that needs revision before it is shared.
 We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
 
 **Rewrite:**
+
+**Write Your Paragraph**
+{{PH-2: U17-extended-paragraph}}
 
 ### Reflection
 
@@ -502,6 +541,9 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
 ---
+
+**Homework Draft**
+{{PH-2: U17-homework-paragraph}}
 
 ## Unit 18 - Editing for Tone
 
@@ -697,6 +739,9 @@ The applicant did not follow the instructions again. This is causing problems fo
 
 **Rewrite:**
 
+**Write Here**
+{{PH-3: U18-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before revising your own emails, check:
@@ -722,6 +767,12 @@ Keep the original purpose, but make the final email polite, neutral, and suitabl
 
 Write your emails:
 
+**Email 1**
+{{PH-2: U18-freer-email-1}}
+
+**Email 2**
+{{PH-2: U18-freer-email-2}}
+
 ### Editing Practice: Keep The Meaning, Change The Tone
 
 Rewrite this draft so it stays clear but sounds more professional.
@@ -731,6 +782,9 @@ Rewrite this draft so it stays clear but sounds more professional.
 You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U18-editing-rewrite}}
 
 ### Transfer Extension: Tone Choice For Two Readers
 
@@ -744,6 +798,9 @@ Then explain:
 - what changed
 - why the tone needed to change
 
+**Write Here**
+{{PH-1: U18-transfer-response}}
+
 ### Extended Writing Task - Tone Revision Paragraph
 
 Rewrite this paragraph (6-8 sentences) to improve tone while keeping the same information.
@@ -753,6 +810,9 @@ Treat it as a draft internal note that needs a more neutral and professional ton
 We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
 
 **Rewrite:**
+
+**Write Your Paragraph**
+{{PH-2: U18-extended-paragraph}}
 
 ### Reflection
 
@@ -767,6 +827,9 @@ We told the applicant many times, but they still submitted the wrong file. This 
 Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
 
 If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
+
+**Homework Draft**
+{{PH-3: U18-homework-document}}
 
 ## Module 5 Review Workshop
 

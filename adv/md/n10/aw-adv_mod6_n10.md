@@ -32,10 +32,8 @@ This unit develops learners' ability to summarise policy content for readers who
 
 Read the two statements below. Both describe the same policy change.
 
-**Version A**
 *"Under Section 12(4), the examining office shall apply the amended verification procedure as specified in Annex 3, paragraph 2(b), effective from the date of entry into force of the circular."*
 
-**Version B**
 *"From next month, offices must carry out an additional check before moving an application to the review stage. This change is intended to reduce errors and ensure consistency."*
 
 Discuss:
@@ -192,11 +190,16 @@ Using the improved version as your guide, rewrite the original technical text fr
 - the required actions and any deadlines
 - a professional, accessible tone throughout
 
+
+**Draft Here**
+{{PH-2: U19-D1-guided-rewrite}}
+
 #### Format Conversion (D7)
 
 > **Transfer reminder:** When you simplify a specialist bulletin, preserve what matters for the reader’s action. Change the wording and explanation density, but do not drop the deadline, the core requirement, or the consequence of non-action.
 
 Below is an extract from a policy bulletin written for specialists. Convert it into a short plain-language summary (approximately 80–100 words) suitable for a general staff briefing.
+
 
 ---
 
@@ -211,6 +214,9 @@ Your plain-language summary must include:
 - what offices need to do
 
 ---
+
+**Draft Here**
+{{PH-3: U19-D7-format-conversion}}
 
 ### E. Freer Writing
 
@@ -234,7 +240,11 @@ Write a briefing of approximately **220–260 words** for non-expert readers in 
 - use plain, accessible language throughout
 - maintain a professional, supportive tone
 
+
 ---
+
+**Draft Here**
+{{PH-4: U19-E3-role-based-write}}
 
 ### F. Review / Self-Edit
 
@@ -280,7 +290,11 @@ Issues to identify:
 - absence of required action
 - tone problems
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U19-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -300,7 +314,11 @@ Your summary must include:
 - what action the reader is required to take
 - simple, professional language throughout
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U19-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -495,6 +513,10 @@ Using the improved model from Section B as your guide, rewrite the original vagu
 - a description of expected benefits
 - formal, neutral tone
 
+
+**Draft Here**
+{{PH-2: U20-D1-guided-rewrite}}
+
 #### Draft a Justification for One Scenario (D2)
 
 > **Transfer reminder:** Keep the sequence visible in your paragraph. State the decision first, then show why it was made, then explain what improvement it is expected to produce.
@@ -507,7 +529,11 @@ Choose one scenario and write a justification of approximately 60–80 words.
 
 Your justification must include a decision statement, a rationale, and a benefit.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U20-D2-guided-draft}}
 
 ### E. Freer Writing
 
@@ -527,7 +553,11 @@ Write approximately **200–240 words**. Your justification must include:
 - the expected benefits
 - a formal, neutral tone throughout
 
+
 ---
+
+**Draft Here**
+{{PH-4: U20-E1-freer-write}}
 
 ### F. Review / Self-Edit
 
@@ -571,7 +601,11 @@ Issues to identify:
 - vague or emotional language
 - missing benefit statement
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U20-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -590,6 +624,10 @@ Your justification must include:
 - identification of the problem the decision addresses
 - a description of expected benefits
 - formal, neutral tone throughout
+
+
+**Homework Draft**
+{{PH-4: U20-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -833,6 +871,10 @@ Using the improved model as your guide, rewrite the original vague text from Sec
 - Outstanding Questions
 - Next Steps
 
+
+**Draft Here**
+{{PH-2: U21-D1-guided-rewrite}}
+
 #### Information Reorganisation (D5)
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
@@ -846,17 +888,25 @@ The following sentences are drawn from several office updates but have not yet b
 7. *Several offices requested confirmation of which applicants fall under the revised processing sequence.*
 8. *A coordination meeting is proposed for 10 November.*
 
+
+**Draft Here**
+{{PH-3: U21-D5-reorganised-version}}
+
 #### Format Conversion (D7)
 
 > **Transfer reminder:** When converting a narrative update into a report, group points under the section that matches their function. Do not let unresolved questions remain buried inside status description.
 
 Below is a narrative email chain summary from a coordination officer. Convert it into a structured consolidated report using the five-section format.
 
+
 ---
 
 *"So far we have had three offices check in. Office A is doing fine — they've done the training and started using the new forms. Office B has a problem because they don't have the forms yet, apparently they weren't sent correctly, so they're still using the old ones. Office C hasn't responded yet but we know from the last meeting that they had some concerns about terminology. We still don't know whether offices that started processing before the circular need to follow the new timeline. We should probably set a deadline for responses and hold a meeting before the end of the month."*
 
 ---
+
+**Draft Here**
+{{PH-3: U21-D7-format-conversion}}
 
 ### E. Freer Writing
 
@@ -887,7 +937,19 @@ Your report must include:
 - next steps
 - formal tone
 
+
+
+
 ---
+
+**Document 1 - Summary + Issues Identified**
+{{PH-3: U21-E4-part-a-summary-issues}}
+
+**Document 2 - Actions Taken + Outstanding Questions**
+{{PH-3: U21-E4-part-b-actions-questions}}
+
+**Document 3 - Next Steps + Closing**
+{{PH-2: U21-E4-part-c-next-steps-closing}}
 
 ### F. Review / Self-Edit
 
@@ -929,7 +991,11 @@ Issues to identify:
 - no time-bound next steps
 - unprofessional tone
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U21-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -943,6 +1009,10 @@ Write a **270–310 word** consolidated administrative report. Choose one scenar
 4. *(JPO context)* Feedback from four JPO teams following a procedural update related to international examination or PCT processing
 
 Your report must use the five-section format (Summary / Issues Identified / Actions Taken / Outstanding Questions / Next Steps) and maintain a formal, neutral tone throughout.
+
+
+**Homework Draft**
+{{PH-4: U21-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -1089,6 +1159,10 @@ Using the integrated response in Section B as your guide, rewrite the inadequate
 - include clear required actions and deadlines
 - maintain formal tone throughout
 
+
+**Draft Here**
+{{PH-2: U22-D1-guided-rewrite}}
+
 #### Revision Chain (D6)
 
 > **Transfer reminder:** In revision, check whether your draft synthesises issues, uses a format that fits the audience, and turns the inputs into clear action. If it still reads like a list of separate source notes, the integration is not yet complete.
@@ -1106,7 +1180,11 @@ If you do not have your Unit 18 writing, use this short alternative paragraph in
 
 Using what you have learned in Units 19–22, revise your Unit 18 writing to address any weaknesses. Aim to improve at least three specific features.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U22-D6-revision-chain}}
 
 ### E. Freer Writing
 
@@ -1129,7 +1207,15 @@ Your document must:
 - state required actions and deadlines
 - maintain formal, neutral tone throughout
 
+
+
 ---
+
+**Planning Notes (Not Submitted)**
+{{PH-1: U22-E4-part-a-planning}}
+
+**Document 1 - Full Administrative Document**
+{{PH-4: U22-E4-part-b-full-document}}
 
 ### F. Review / Self-Edit
 
@@ -1165,6 +1251,7 @@ The administrative document below was submitted by a colleague for review. Read 
 - **[R: …]** = replace with your suggested revision
 - **[+: …]** = add content that is missing
 
+
 ---
 
 *"As per the recent circular which was sent last week, there are some issues that offices have been reporting. Office A had some questions about terms. Office B said they can't meet the deadline. There were also form problems mentioned somewhere in the meeting notes. Everyone needs to do various things to fix these problems. Please send your updates soon."*
@@ -1172,6 +1259,9 @@ The administrative document below was submitted by a colleague for review. Read 
 After marking the document, write a clean revised version incorporating all your changes.
 
 ---
+
+**Clean Copy**
+{{PH-3: U22-G3-clean-copy}}
 
 ### H. Homework & Extension
 
@@ -1186,6 +1276,10 @@ Your document must:
 - state required actions, responsibilities, and deadlines
 - demonstrate appropriate structure for the chosen format
 - maintain formal, neutral tone throughout
+
+
+**Homework Draft**
+{{PH-4: U22-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -1322,7 +1416,11 @@ Re-read it carefully using the self-diagnosis questions below.
 
 Revise your selected piece to address any weaknesses identified. Aim to improve a minimum of three specific features. Be prepared to explain the changes you made.
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-3: U23-D6-revision-chain}}
 
 ### E. Freer Writing
 
@@ -1348,7 +1446,15 @@ Your document must:
 - maintain formal, neutral, diplomatic tone throughout
 - demonstrate the full range of skills practised across this course
 
+
+
 ---
+
+**Planning Notes (Not Submitted)**
+{{PH-1: U23-E4-part-a-planning}}
+
+**Final Document**
+{{PH-4: U23-E4-part-b-capstone-document}}
 
 ### F. Review / Self-Edit
 
@@ -1396,7 +1502,11 @@ The following draft was produced in response to the capstone scenario. It contai
 
 *"There are many problems in the offices at the moment and things are not working well. Someone needs to explain the new guidelines again because not everyone understands them. The forms are also an issue. A meeting needs to happen soon. Offices should respond and let us know what is going on. The situation is not ideal but hopefully it will get better."*
 
+
 ---
+
+**Clean Copy**
+{{PH-3: U23-G3-clean-copy}}
 
 ### H. Homework & Extension
 
@@ -1411,6 +1521,10 @@ Your document must:
 - propose specific, time-bound actions and next steps
 - maintain formal, neutral, diplomatic tone throughout
 - demonstrate mastery of structure, cohesion, justification, and audience awareness as practised across Units 1–22
+
+
+**Homework Draft**
+{{PH-4: U23-H3-homework-draft}}
 
 #### Extension Task (H1)
 

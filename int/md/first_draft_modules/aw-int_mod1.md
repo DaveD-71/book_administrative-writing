@@ -189,6 +189,9 @@ Rewrite each sentence so that it is easier to read.
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
    ->
 
+**Write Here**
+{{PH-3: U01-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before you write your own message, check each sentence with these questions:
@@ -231,6 +234,9 @@ Mini model:
 3.
 4.
 
+**Write Here**
+{{PH-3: U01-freer-document}}
+
 ### Editing Practice: Fix the Reader Problem
 
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
@@ -247,6 +253,9 @@ Each sentence below has a common clarity problem. Rewrite it so the reader can u
 4. We are writing for the purpose of asking you to send the correct version of the attached file.
    ->
 
+**Write Your Revised Version**
+{{PH-2: U01-editing-rewrite}}
+
 ### Transfer Extension: Turn Sentences into a Mini Message
 
 Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
@@ -260,6 +269,9 @@ For each situation:
 - sentence 1 = state the main issue
 - sentence 2 = state the next important fact
 - sentence 3-4 = turn the two clear sentences into a short professional message
+
+**Write Here**
+{{PH-1: U01-transfer-response}}
 
 ### Reflection
 
@@ -285,6 +297,9 @@ Choose one real email you sent at work (in Japanese). Translate the **main messa
 
 If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
 ---
+
+**Homework Draft**
+{{PH-3: U01-homework-document}}
 
 ## Unit 2 - Professional Tone Basics
 
@@ -465,6 +480,9 @@ Mini contrast:
 
 **Rewrite here:**
 
+**Write Here**
+{{PH-3: U02-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own email, check:
@@ -494,6 +512,9 @@ Include:
 
 - a professional closing line
 
+**Write Here**
+{{PH-3: U02-freer-document}}
+
 ### Editing Practice: Remove the Tone Problem
 
 Rewrite each line so it keeps the same purpose but sounds more professional.
@@ -509,6 +530,9 @@ Rewrite each line so it keeps the same purpose but sounds more professional.
 
 4. Send the update today.
    ->
+
+**Write Your Revised Version**
+{{PH-2: U02-editing-rewrite}}
 
 ### Transfer Extension: Same Message, Better Relationship
 
@@ -526,6 +550,9 @@ Then note:
 - which phrase from today you used
 
 If you do not want to use a real workplace situation, rewrite one of the Unit 2 freer-practice situations twice instead.
+
+**Write Here**
+{{PH-1: U02-transfer-response}}
 
 ### Reflection
 
@@ -554,6 +581,9 @@ Find one real English email you received that had a **very polite** or **not pol
 
 If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
 ---
+
+**Homework Draft**
+{{PH-3: U02-homework-document}}
 
 ## Unit 3 - Paragraph Structure
 
@@ -769,6 +799,9 @@ Rewrite this paragraph so it has a clear **topic ->support ->closing** structure
 
 **Rewrite here:**
 
+**Write Here**
+{{PH-3: U03-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Check your paragraph before moving on:
@@ -790,6 +823,9 @@ C. Your office recently changed one internal rule, and you need to explain the c
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U03-freer-paragraph}}
+
 ### Editing Practice: Repair the Paragraph Logic
 
 The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
@@ -799,6 +835,9 @@ The paragraph below has a topic problem and an order problem. Rewrite it as a cl
 The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U03-editing-rewrite}}
 
 ### Transfer Extension: Build a Report Paragraph
 
@@ -811,6 +850,9 @@ Turn it into a short paragraph for a report or internal summary by adding:
 - one closing sentence
 
 This helps you see the link between sentence control, tone control, and paragraph structure.
+
+**Write Here**
+{{PH-2: U03-transfer-response}}
 
 ### Reflection
 
@@ -835,6 +877,9 @@ If one part is missing, revise the paragraph once more before leaving the unit.
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
 
 If you do not want to use a real paragraph, turn one of your Unit 3 paragraph drafts or one earlier Unit 1 or Unit 2 task into a stronger paragraph instead.
+
+**Homework Draft**
+{{PH-2: U03-homework-paragraph}}
 
 ## Module 1 Review Workshop
 

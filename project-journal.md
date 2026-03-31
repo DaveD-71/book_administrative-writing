@@ -1313,3 +1313,13 @@ Historical note:
 - Repaired Unit 21 and 22 late-book QA blockers, added self-study fallback coverage, normalized heading and output-band issues, and synchronized the structural profiles.
 - Rebuilt `int/edits & guides/qa/aw-int_qa_review_round1.md` as a clean-sheet post-remediation QA record.
 - Round 1 strict verdict now recorded as `Pass`; Intermediate moves next to `INT-7` full review.
+## 2026-03-31
+
+- Reassessed the Intermediate placeholder/layout requirements against the rebuilt and QA-cleared live module set.
+- Updated `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` to reflect the new size mix: more small/medium revision boxes, more paired-box layouts, more selective `PH-4`, and a clearer Module 6 concentration of `PH-5`.
+## 2026-03-31
+
+- Added student-response placeholder markers across all advanced `n10` modules and all intermediate live modules.
+- Corrected the advanced pass by removing accidental `H1` extension-task placeholders from `adv/md/n10/aw-adv_mod1_n10.md`.
+- Tightened Intermediate Module 6 placeholder placement so Units 19 to 23 use audience-specific multi-box layouts for integrated communication tasks and final portfolio submission.
+- Re-verified the project with `python scripts/check_mojibake.py`; result remained clean.

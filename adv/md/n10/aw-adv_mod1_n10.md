@@ -192,6 +192,10 @@ Rewrite the **original** model text (the unclear version) as **three to four cle
 3. Remove unnecessary subordination.
 4. Add connectors to show clear relationships between sentences.
 
+
+**Draft Here**
+{{PH-2: U01-D1-guided-rewrite}}
+
 #### Write Your Own Complex Sentence (D2)
 
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
@@ -206,7 +210,23 @@ Write **three versions** of the same core message:
 
 Then explain which version would be most appropriate for an internal memo, and why.
 
+
+
+
+
 ---
+
+**Version 1**
+{{PH-2: U01-D2-version-1}}
+
+**Version 2**
+{{PH-2: U01-D2-version-2}}
+
+**Version 3**
+{{PH-2: U01-D2-version-3}}
+
+**Planning Notes**
+{{PH-1: U01-D2-version-choice-note}}
 
 ### E. Freer Writing
 
@@ -223,6 +243,10 @@ Choose one situation:
 1. A new document submission system was introduced three weeks ago, but several teams are still submitting files in the previous format. Your supervisor has asked you to explain the situation in writing before Thursday's coordination call.
 2. An applicant's file has been placed on hold because two pieces of required documentation were submitted in different versions. You need to explain the issue to a colleague who will follow up with the applicant.
 3. A joint interagency report was submitted late due to a series of internal delays. You have been asked to provide a written account of the contributing factors for inclusion in a project review note.
+
+
+**Draft Here**
+{{PH-4: U01-E1-freer-write}}
 
 ### F. Review / Self-Edit
 
@@ -248,7 +272,11 @@ Rewrite the following sentences to eliminate ambiguity. For each one, identify t
 2. *They updated the database after reviewing the submitted documents that contained several errors.*
 3. *The revision was sent to the department because they requested clarification even though the previous version was approved.*
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U01-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -262,7 +290,11 @@ Choose one situation:
 2. An applicant's case has been delayed at two separate stages of review. The delays have different causes and different implications for next steps. Write an internal note explaining the situation to a colleague who will need to follow up.
 3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U01-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -272,7 +304,12 @@ Choose one:
 2. Take the three versions you wrote in Guided Writing Activity 2 (subordinated, coordinated, segmented). Write a short analysis (four to six sentences) comparing how each version would be received by a reader, and in which professional contexts each would be most appropriate.
 3. Write a short guide (six to eight sentences) for a new colleague explaining the difference between coordination, subordination, and segmentation — using one original example of each.
 
+
+
+
+
 ---
+
 
 ## Unit 2 — Tone for Agency-Level Communication
 
@@ -438,6 +475,10 @@ Rewrite the original (direct) model text into a diplomatic version. Your rewrite
 - a shared-goal framing
 - a polite closing request
 
+
+**Draft Here**
+{{PH-2: U02-D1-guided-rewrite}}
+
 #### Tone Transformation (D4)
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
@@ -450,7 +491,11 @@ After writing, compare the two versions. Identify at least two specific differen
 
 > **Transfer reminder:** Keep the communicative purpose constant across both versions. What changes is the level of explicitness, softening, and diplomatic framing needed for the reader.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U02-D4-two-audience-draft}}
 
 ### E. Freer Writing
 
@@ -468,6 +513,10 @@ Choose one situation:
 1. Your office recently updated its internal review procedure, but the notification sent to partner agencies contained an error in the deadline information. A domestic agency has since submitted documentation based on the incorrect deadline. Write to the agency's contact to explain the situation and clarify the correct requirements.
 2. A domestic agency counterpart has not yet confirmed attendance at a coordination meeting scheduled for next week, and a decision on the agenda depends on knowing who will attend. Write a follow-up message that maintains a cooperative tone.
 3. A foreign IP office sent a response to your inquiry, but one section of their reply appears to refer to an earlier version of the relevant procedure rather than the current one. Write to the relevant contact to request clarification.
+
+
+**Draft Here**
+{{PH-4: U02-E1-freer-write}}
 
 ### F. Review / Self-Edit
 
@@ -501,7 +550,11 @@ Rewrite these sentences to make them more diplomatic. For each one, identify whi
 3. *We already told you to revise this.*
 4. *Your clarification doesn't make sense.*
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U02-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -513,7 +566,11 @@ Write approximately **150 words**. Your message must use at least three softenin
 2. A foreign IP office submitted a formal inquiry two weeks ago, but due to an internal processing error on your side, no acknowledgement was sent. Write to apologise for the delay and confirm that the inquiry is now being handled.
 3. A domestic agency counterpart has twice submitted a form using an outdated template, causing delays each time. Write to explain that an updated version is required and to provide guidance on where it can be found.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U02-H3-homework-draft}}
 
 #### Extension Task (H1)
 
@@ -699,6 +756,10 @@ Rewrite the original (disjointed) model text as **one cohesive paragraph**. Incl
 - clear reference words
 - logical thematic progression (topic → support → next step)
 
+
+**Draft Here**
+{{PH-2: U03-D1-guided-rewrite}}
+
 #### Reorganise and Rewrite (D5)
 
 Below are seven pieces of information presented without structure or logical order. Reorganise them into a coherent two-paragraph explanation. You may add connectors and reference words, but do not add new content.
@@ -713,7 +774,11 @@ Below are seven pieces of information presented without structure or logical ord
 
 > **Transfer reminder:** Do not just put the sentences into a correct order. Build a paragraph that moves the reader forward from topic to detail to action or implication.
 
+
 ---
+
+**Draft Here**
+{{PH-3: U03-D5-reorganised-version}}
 
 ### E. Freer Writing
 
@@ -726,6 +791,10 @@ Choose one situation:
 1. An interagency coordination meeting took place last week and produced several agreed actions, but two participating offices have not yet confirmed their next steps. Write a paragraph summarising the meeting outcome and current status for internal circulation.
 2. A recurring delay in applicant processing has been traced to an inconsistency between two versions of a guidance document currently in use across different teams. Write a paragraph explaining the situation and its impact for inclusion in an internal briefing note.
 3. A procedural update affecting how submissions are logged has been approved but not yet communicated to all staff. Write a paragraph explaining the reason for the update and what it requires of staff going forward.
+
+
+**Draft Here**
+{{PH-4: U03-E1-freer-write}}
 
 ### F. Review / Self-Edit
 
@@ -758,7 +827,11 @@ Rewrite these paragraphs for better cohesion. Identify at least two specific cha
 
 2. *"There were delays in the translation process. Some information was missing. The office did not receive the updated version. We must check which version is correct."*
 
+
 ---
+
+**Write Your Revised Version**
+{{PH-2: U03-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
@@ -772,7 +845,11 @@ Choose one situation:
 2. At last week's coordination meeting, three agenda items were left unresolved due to time constraints. Two offices have since submitted conflicting responses on one of the outstanding points. Write a summary for the meeting chair ahead of a follow-up call.
 3. Your office has been using two different templates for the same type of submission — one issued in 2021 and one issued earlier this year. The inconsistency has caused processing delays. Write a note to staff explaining why the older template must no longer be used.
 
+
 ---
+
+**Homework Draft**
+{{PH-4: U03-H3-homework-draft}}
 
 #### Extension Task (H1)
 

@@ -216,6 +216,9 @@ Write your procedure:
 5.
 6.
 
+**Write Here**
+{{PH-3: U08-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own procedures, check:
@@ -257,6 +260,9 @@ Procedure 2:
 6.
 7.
 
+**Write Here**
+{{PH-3: U08-freer-document}}
+
 ### Extended Writing Task - Write a Section of a Simple Manual
 
 Write a **short manual section** using this fixed format:
@@ -287,6 +293,9 @@ Your manual section should explain:
 
 Write your manual section:
 
+**Write Here**
+{{PH-3: U08-extended-document}}
+
 ### Editing Practice: Repair the Procedure
 
 Rewrite this procedure so it becomes clearer and easier to follow.
@@ -298,6 +307,9 @@ Rewrite this procedure so it becomes clearer and easier to follow.
 3. Send it later.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U08-editing-rewrite}}
 
 ### Transfer Extension: Procedure for a New User
 
@@ -313,6 +325,9 @@ This helps you turn short instructions into a more usable manual-style section.
 
 If you do not want to use a real workplace task, choose one Unit 8 freer-practice scenario instead.
 
+**Write Here**
+{{PH-1: U08-transfer-response}}
+
 ### Reflection
 
 1. What is difficult about writing procedures?
@@ -327,6 +342,9 @@ Choose a routine task from your job. Write a 6-8 step procedure explaining how t
 
 If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
 ---
+
+**Homework Draft**
+{{PH-3: U08-homework-document}}
 
 ## Unit 9 - Internal Notices
 
@@ -505,6 +523,9 @@ Write your notice:
 
 - **Next step:**
 
+**Write Here**
+{{PH-3: U09-guided-document}}
+
 ### Self-Check Before Freer Practice
 
 Check your notice before moving on:
@@ -529,6 +550,12 @@ D. Monthly reports will be reviewed later than usual this month.
 Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
 
 Write your notices:
+
+**Notice 1**
+{{PH-3: U09-freer-notice-1}}
+
+**Notice 2**
+{{PH-3: U09-freer-notice-2}}
 
 ### Notice Control Board
 
@@ -565,6 +592,9 @@ There is a problem with the files today. Please be careful. More later.
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U09-editing-rewrite}}
+
 ### Transfer Extension: From Notice to Bulletin
 
 Choose one short notice you wrote in this unit.
@@ -576,6 +606,9 @@ Expand it into a longer bulletin-style paragraph by adding:
 - one next-step sentence
 
 This shows how a short internal message can grow into a fuller internal information text.
+
+**Write Here**
+{{PH-2: U09-transfer-response}}
 
 ### Extended Writing Task - Internal Bulletin Section
 
@@ -605,6 +638,9 @@ Bulletin support question:
 
 Write your bulletin section:
 
+**Write Here**
+{{PH-3: U09-extended-document}}
+
 ### Reflection
 
 1. What makes a notice effective or ineffective?  
@@ -619,6 +655,9 @@ Find an internal notice (English or Japanese). Rewrite it to follow the structur
 
 If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
 ---
+
+**Homework Draft**
+{{PH-3: U09-homework-document}}
 
 ## Unit 10 - Explaining Problems Clearly
 
@@ -820,6 +859,9 @@ Include:
 
 Write your explanation:
 
+**Write Here**
+{{PH-2: U10-guided-paragraph}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own problem descriptions, check:
@@ -859,6 +901,12 @@ In each explanation, include the issue, the effect, and the current status. Add 
 
 Write your explanations:
 
+**Explanation 1**
+{{PH-2: U10-freer-explanation-1}}
+
+**Explanation 2**
+{{PH-2: U10-freer-explanation-2}}
+
 ### Editing Practice: Repair the Problem Logic
 
 Rewrite this explanation so it is clearer and better organized.
@@ -868,6 +916,9 @@ Rewrite this explanation so it is clearer and better organized.
 There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
 
 **Rewrite:**
+
+**Write Your Revised Version**
+{{PH-2: U10-editing-rewrite}}
 
 ### Transfer Extension: Problem Note for a Manager
 
@@ -881,6 +932,9 @@ Write a short `5-6` sentence manager update that includes:
 - current status
 
 Keep the tone factual and neutral.
+
+**Write Here**
+{{PH-2: U10-transfer-response}}
 
 ### Extended Writing Task - Report-Style Description
 
@@ -898,6 +952,9 @@ Your paragraph should:
 
 Write your paragraph:
 
+**Write Your Paragraph**
+{{PH-2: U10-extended-paragraph}}
+
 ### Reflection
 
 1. What makes a problem explanation clear or unclear?
@@ -912,6 +969,9 @@ Find an example of unclear problem communication (from email or conversation). R
 
 If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
 ---
+
+**Homework Draft**
+{{PH-3: U10-homework-document}}
 
 ## Unit 11 - Writing Simple Meeting Summaries
 
@@ -1051,6 +1111,9 @@ Write a short paragraph (4-5 sentences) summarising the meeting.
 
 Write your summary:
 
+**Write Here**
+{{PH-2: U11-guided-paragraph}}
+
 ### Self-Check Before Freer Practice
 
 Before writing your own summaries, check:
@@ -1089,6 +1152,12 @@ Include the topic, the main point or decision, and one next step in each summary
 
 Write your summaries:
 
+**Summary 1**
+{{PH-2: U11-freer-summary-1}}
+
+**Summary 2**
+{{PH-2: U11-freer-summary-2}}
+
 ### Editing Practice: Make the Summary Usable
 
 Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
@@ -1099,6 +1168,9 @@ We talked about the forms and some schedule issues. IT also said something about
 
 **Rewrite:**
 
+**Write Your Revised Version**
+{{PH-2: U11-editing-rewrite}}
+
 ### Transfer Extension: Summary for a Manager
 
 Choose one summary you wrote in this unit.
@@ -1108,6 +1180,9 @@ Rewrite it for a manager by making:
 - the key point more direct
 - the action item clearer
 - the next step easier to see
+
+**Write Here**
+{{PH-2: U11-transfer-response}}
 
 ### Extended Writing Task - Meeting Report Section
 
@@ -1140,6 +1215,9 @@ Mini report frame:
 
 Write your report section:
 
+**Write Here**
+{{PH-3: U11-extended-document}}
+
 ### Reflection
 
 1. What part of meeting summaries is easiest for you?  
@@ -1153,6 +1231,9 @@ Write your report section:
 Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
 
 If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
+
+**Homework Draft**
+{{PH-2: U11-homework-paragraph}}
 
 ## Module 3 Review Workshop
 
