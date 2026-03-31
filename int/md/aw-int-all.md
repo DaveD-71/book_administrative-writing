@@ -1,4 +1,68 @@
-﻿# MODULE 1. Foundations of Clear Administrative Writing
+# **Administrative Writing, Intermediate**
+
+*(Administrative English Writing, Units 1–23)*
+
+## **a. Purpose of the Text**
+
+The Pre-Intermediate Writing Textbook develops learners’ ability to produce **clear, accurate, polite, concise, and work-appropriate administrative writing**.
+The text builds fundamental skills needed for routine professional communication, including email structure, explanations, notices, procedures, meeting summaries, clarification questions, and multi-audience writing tasks.
+It also introduces essential editing skills to improve clarity, tone, coherence, and accuracy.
+
+## **b. Target Audience**
+
+* CEFR **A2–B1+** workplace learners
+* Administrative staff, junior officers, interns, and non-specialist professionals
+* Learners who can understand and write basic sentences but lack control over:
+
+  * clarity
+  * professional tone
+  * structure
+  * accuracy
+  * email conventions
+* Learners preparing for higher-level writing tasks or promotion to roles requiring routine written communication
+
+## **c. Learning Objectives**
+
+By the end of the textbook, learners will be able to:
+
+### **Writing Skills**
+
+* Structure short paragraphs with clear topic, support, and closing sentences
+* Write clear explanations, notices, updates, procedures, and simple reports
+* Compose professional emails for internal and external audiences
+* Write polite requests, clarifications, and problem explanations
+* Produce meeting summaries and internal bulletins
+
+### **Editing Skills**
+
+* Edit writing for **accuracy** (grammar, articles, verb forms, prepositions)
+* Improve **clarity** by removing vague or confusing expressions
+* Apply **professional tone** appropriate to audience
+* Ensure **coherence** using logical order and connectors
+* Improve **conciseness** by removing unnecessary words
+
+### **Integrated Communication Skills**
+
+* Respond to multi-step administrative scenarios
+* Adjust tone and detail for external, internal, and colleague-to-colleague communication
+* Produce a small writing **portfolio** demonstrating revision and improvement
+
+## **d. Lesson Activities**
+
+Across 23 units, students engage in:
+
+* **Warm-up analysis tasks** (identify issues or missing information)
+* **Language focus sections** targeting specific writing features
+* **Guided practice** (structured, step-by-step writing)
+* **Freer writing activities** (emails, notices, explanations, procedures)
+* **Editing tasks** at word, sentence, and paragraph levels
+* **Multi-document communication sets** (Unit 22)
+* **Portfolio revision tasks** (Unit 23)
+
+Each unit builds on previous skills, culminating in integrated writing at workplace standards.
+
+
+# MODULE 1. Foundations of Clear Administrative Writing
 
 ## Module Guide
 
@@ -18,7 +82,7 @@ Use this module in the same way each time:
 - use the editing practice to repair common reader problems
 - finish the transfer extension so the skill moves beyond one exercise type
 
-## Unit 1 窶・Clear Sentence Structure
+## Unit 1 - Clear Sentence Structure
 
 ### Focus
 
@@ -80,7 +144,7 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 
-### Language 1: Basic Sentence Pattern (S窶天窶徹 / S窶天窶鼎)
+### Language 1: Basic Sentence Pattern (SVO / SVC)
 
 Most clear administrative English sentences follow this simple pattern:
 
@@ -98,7 +162,7 @@ Examples:
 
 - **The documents** (S) **are** (V) **ready** (C).
 
-#### Practice 窶・Identify the Parts
+#### Practice - Identify the Parts
 
 Identify the parts of each sentence using these actions:
 
@@ -118,9 +182,9 @@ Identify the parts of each sentence using these actions:
 
 5. The examiner requested more information.
 
-#### Practice 窶・Build Clear Sentences
+#### Practice - Build Clear Sentences
 
-Rewrite the word groups as clear S窶天窶徹 or S窶天窶鼎 sentences.
+Rewrite the word groups as clear SVO or SVC sentences.
 
 1. (application / our office / receive / yesterday)
 
@@ -178,16 +242,16 @@ Rewrite each sentence in a clearer, shorter way.
 Rewrite each sentence so that it is easier to read.
 
 1. We are now in the checking of your application and more time is needed by us.
-   竊・
+   ->
 
 2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
-   竊・
+   ->
 
 3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
-   竊・
+   ->
 
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
-   竊・
+   ->
 
 ### Self-Check Before Freer Practice
 
@@ -202,7 +266,7 @@ If the answer to one of these is `No`, rewrite the sentence before you continue.
 
 ### Freer Practice: Write Clear Administrative Sentences
 
-Write a short message to the applicant in **3窶・ clear sentences**.
+Write a short message to the applicant in **3-4 clear sentences**.
 
 **Situation:** The applicant sent the wrong form. You need to contact the applicant and ask for the correct form. The deadline is next Friday.
 
@@ -236,16 +300,16 @@ Mini model:
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
 
 1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
-   竊・
+   ->
 
 2. It has been explained by the supervisor that a new review step will be necessary for the application.
-   竊・
+   ->
 
 3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
-   竊・
+   ->
 
 4. We are writing for the purpose of asking you to send the correct version of the attached file.
-   竊・
+   ->
 
 ### Transfer Extension: Turn Sentences into a Mini Message
 
@@ -281,10 +345,10 @@ Then answer:
 
 ### Homework
 
-Choose one real email you sent at work (in Japanese). Translate the **main message** into 3窶・ clear English sentences using S窶天窶徹 structure.
+Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 ---
 
-## Unit 2 窶・Professional Tone Basics
+## Unit 2 - Professional Tone Basics
 
 ### Focus
 
@@ -302,9 +366,9 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
    b) Could you please send me the file?
 
-2. a) I don窶冲 understand this. Explain it.
+2. a) I don't understand this. Explain it.
 
-   b) I窶冦 not sure I understand this part. Could you explain it?
+   b) I'm not sure I understand this part. Could you explain it?
 
 3. a) What do you want me to do?
 
@@ -324,8 +388,8 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
 Look again at this pair:
 
-- Weak: *I don窶冲 understand this. Explain it.*
-- Stronger: *I窶冦 not sure I understand this part. Could you explain it?*
+- Weak: *I don't understand this. Explain it.*
+- Stronger: *I'm not sure I understand this part. Could you explain it?*
 
 The stronger version works because it:
 
@@ -342,31 +406,31 @@ Administrative emails often use **softened, polite expressions**.
 
 #### Useful Phrases for Requests
 
-- Could you please窶ｦ?
+- Could you please...?
 
-- Would it be possible to窶ｦ?
+- Would it be possible to...?
 
-- Could you let me know窶ｦ?
+- Could you let me know...?
 
-- I would appreciate it if you could窶ｦ
+- I would appreciate it if you could...
 
-- Please let me know if窶ｦ
+- Please let me know if...
 
-#### Practice 窶・Make the Request Polite
+#### Practice - Make the Request Polite
 
 Rewrite the message using a polite request phrase.
 
 1. Send the updated form.
-   竊・
+   ->
 
 2. Tell me the deadline.
-   竊・
+   ->
 
 3. Check the file.
-   竊・
+   ->
 
 4. Give me the information.
-   竊・
+   ->
 
 ### Language 2: Professional Tone in Explanations
 
@@ -402,17 +466,17 @@ If a message sounds calm and clear, the reader can focus on:
 
 Rewrite each sentence to make it sound more professional.
 
-1. You didn窶冲 send the document.
-   竊・
+1. You didn't send the document.
+   ->
 
-2. I can窶冲 do this because the system is broken.
-   竊・
+2. I can't do this because the system is broken.
+   ->
 
 3. That information is wrong.
-   竊・
+   ->
 
 4. I already told you this yesterday.
-   竊・
+   ->
 
 ### Common Useful Phrases for Professional Emails
 
@@ -420,27 +484,27 @@ You can use these phrases to make your tone more appropriate:
 
 #### Giving Information
 
-- I would like to inform you that窶ｦ
+- I would like to inform you that...
 
-- Please note that窶ｦ
+- Please note that...
 
-- I would like to confirm that窶ｦ
+- I would like to confirm that...
 
 #### Asking for Clarification
 
-- Could you clarify窶ｦ?
+- Could you clarify...?
 
-- I have one question regarding窶ｦ
+- I have one question regarding...
 
-- I窶冦 not sure I understand窶ｦ
+- I'm not sure I understand...
 
 #### Referring to Previous Communication
 
-- As mentioned in my previous email,窶ｦ
+- As mentioned in my previous email,...
 
-- As discussed,窶ｦ
+- As discussed,...
 
-- Thank you for your message regarding窶ｦ
+- Thank you for your message regarding...
 
 ### Guided Practice: Rewrite the Email
 
@@ -459,7 +523,7 @@ Mini contrast:
 
 **Original email:**
 > Hi,  
-> You didn窶冲 send the right file. Send the correct one today. I need it now.
+> You didn't send the right file. Send the correct one today. I need it now.
 
 **Rewrite here:**
 
@@ -476,7 +540,7 @@ If one answer is `No`, improve the draft before moving on.
 
 ### Freer Practice: Write Your Own Professional Email
 
-Choose one situation and write a short professional email in **3窶・ sentences**.
+Choose one situation and write a short professional email in **3-4 sentences**.
 
 #### Situations
 
@@ -497,16 +561,16 @@ Include:
 Rewrite each line so it keeps the same purpose but sounds more professional.
 
 1. You sent the wrong file again.
-   竊・
+   ->
 
 2. Tell me what happened.
-   竊・
+   ->
 
-3. Why didn窶冲 you check this before?
-   竊・
+3. Why didn't you check this before?
+   ->
 
 4. Send the update today.
-   竊・
+   ->
 
 ### Transfer Extension: Same Message, Better Relationship
 
@@ -549,7 +613,7 @@ Find one real English email you received that had a **very polite** or **not pol
 - How would you rewrite it in a more professional way?
 ---
 
-## Unit 3 窶・Paragraph Structure
+## Unit 3 - Paragraph Structure
 
 ### Focus
 
@@ -601,11 +665,11 @@ Start a new paragraph when:
 
 #### Examples of paragraph breaks
 
-1. Explaining the background 竊・Asking for an action
+1. Explaining the background ->Asking for an action
 
-2. Describing an issue 竊・Giving details 竊・Explaining next steps
+2. Describing an issue ->Giving details ->Explaining next steps
 
-3. Summarising a problem 竊・Reporting what you did 竊・What will happen next
+3. Summarising a problem ->Reporting what you did ->What will happen next
 
 ### Warm-Up: Which Is a Better Paragraph?
 
@@ -648,19 +712,19 @@ In administrative writing, this matters because the reader often needs to know:
 
 A strong paragraph usually includes:
 
-1. **Topic sentence** 窶・the main idea of the paragraph
+1. **Topic sentence** - the main idea of the paragraph
 
-2. **Supporting sentences** 窶・details, reasons, or examples
+2. **Supporting sentences** - details, reasons, or examples
 
-3. **Closing sentence** 窶・summary, result, or next step
+3. **Closing sentence** - summary, result, or next step
 
 #### Model Paragraph
 
-**Topic sentence:** We reviewed the applicant窶冱 file yesterday.  
+**Topic sentence:** We reviewed the applicant's file yesterday.  
 **Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.  
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 
-### Practice A 窶・Identify the Parts
+### Practice A - Identify the Parts
 
 Label each sentence:
 
@@ -700,11 +764,11 @@ Your labels:
 
 A paragraph should follow a clear, logical order:
 
-- Background 竊・Details 竊・Result
+- Background ->Details ->Result
 
-- Topic 竊・Explanation 竊・Action
+- Topic ->Explanation ->Action
 
-- Issue 竊・Impact 竊・What happens next
+- Issue ->Impact ->What happens next
 
 Before you write, make a short paragraph plan:
 
@@ -725,7 +789,7 @@ Choose the facts that belong to the same paragraph job:
 - summarising a result
 - preparing the next section
 
-### Practice B 窶・Reorder to Create a Clear Paragraph
+### Practice B - Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
@@ -751,12 +815,12 @@ Write the best order:
 3.
 
 Add one more supporting sentence that continues the explanation without giving instructions:
-竊・
-竊・
+->
+->
 
-### Guided Practice 窶・Write a Better Paragraph
+### Guided Practice - Write a Better Paragraph
 
-Rewrite this paragraph so it has a clear **topic 竊・support 竊・closing** structure. Expand it to **5窶・ sentences**, and make sure it reads like part of a larger report or document窶馬ot a complete message.
+Rewrite this paragraph so it has a clear **topic ->support ->closing** structure. Expand it to **5-6 sentences**, and make sure it reads like part of a larger report or document- not a complete message.
 
 **Original:**
 > We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
@@ -772,9 +836,9 @@ Check your paragraph before moving on:
 - Does the final sentence close the paragraph or lead forward?
 - Did I avoid mixing unrelated topics?
 
-### Freer Practice 窶・Write a Full Paragraph
+### Freer Practice - Write a Full Paragraph
 
-Write **one administrative paragraph** (5窶・ sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
+Write **one administrative paragraph** (5-6 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
 #### Situations
 
@@ -958,7 +1022,9 @@ Write one short note after revising:
 - which tone change mattered most
 - which paragraph move helped the reader fastest
 
-﻿# MODULE 2. Essential Email Writing for Administrative Contexts
+
+
+# MODULE 2. Essential Email Writing for Administrative Contexts
 
 ## Module Guide
 
@@ -974,12 +1040,12 @@ By the end of this module, you should be able to:
 Use the module support actively:
 
 - compare the model versions before you draft
-- use the 窶忤hy this works窶・notes to understand reader effect
+- use the `Why this works`notes to understand reader effect
 - check the self-edit prompts before freer writing
 - use the editing tasks to repair weak requests and unclear email structure
 - finish the transfer extension so the skill works in a new email situation
 
-## Unit 4 窶・Email Layout and Standard Phrases
+## Unit 4 - Email Layout and Standard Phrases
 
 ### Focus
 
@@ -995,17 +1061,17 @@ A professional email has a **clear structure** so that the reader can easily und
 
 #### Basic Email Layout
 
-1. **Subject line** 窶・a short summary of the purpose
+1. **Subject line** - a short summary of the purpose
 
-2. **Greeting** 窶・polite opening
+2. **Greeting** - polite opening
 
-3. **Opening sentence** 窶・main purpose of the email
+3. **Opening sentence** - main purpose of the email
 
-4. **Body** 窶・details, explanation, or information
+4. **Body** - details, explanation, or information
 
-5. **Closing sentence** 窶・final point or next step (not a command)
+5. **Closing sentence** - final point or next step (not a command)
 
-6. **Sign-off** 窶・polite closing phrase + name
+6. **Sign-off** - polite closing phrase + name
 
 ### Warm-Up: Which Email Is Better?
 
@@ -1017,7 +1083,7 @@ Subject: Question
 
 Hi,
 
-I don窶冲 understand this part.
+I don't understand this part.
 
 Can you tell me what it means?
 
@@ -1089,21 +1155,21 @@ A good subject line is:
 
 - Request for Corrected File
 
-#### Practice 窶・Improve the Subject Line
+#### Practice - Improve the Subject Line
 
 Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects lower-level writers often produce before they learn standard email patterns.
 
 1. Subject: I have a question about the document that you sent to me yesterday
-   竊・
+   ->
 
 2. Subject: I want to ask you about when I should submit the missing form for the application
-   竊・
+   ->
 
 3. Subject: I am writing this email because there is a problem with the online system today
-   竊・
+   ->
 
 4. Subject: I need to know the reason why the applicant has not received the confirmation message yet
-   竊・
+   ->
 
 **Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
 
@@ -1137,7 +1203,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 - Please let me know if you need further information.
 
-#### Practice 窶・Choose an Opening and Closing
+#### Practice - Choose an Opening and Closing
 
 Select an appropriate opening and closing for each situation.
 
@@ -1165,13 +1231,13 @@ The first sentence must tell the reader **why you are writing**.
 
 #### Useful Phrases
 
-- I am writing to ask about窶ｦ
+- I am writing to ask about...
 
-- I would like to confirm窶ｦ
+- I would like to confirm...
 
-- I have a question regarding窶ｦ
+- I have a question regarding...
 
-- I would like to provide an update about窶ｦ
+- I would like to provide an update about...
 
 **Teaching point**
 
@@ -1185,18 +1251,18 @@ It tells the reader what kind of message this is:
 
 That helps the reader prepare for the rest of the email.
 
-#### Practice 窶・Write the Opening Sentence
+#### Practice - Write the Opening Sentence
 
 Write a clear opening sentence for each situation.
 
 1. You want to ask about a missing document.
-   竊・
+   ->
 
 2. You want to confirm a deadline.
-   竊・
+   ->
 
 3. You want to give information about a system update.
-   竊・
+   ->
 
 ### Guided Practice: Build a Complete Email
 
@@ -1212,7 +1278,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Body (2窶・ sentences):**
+- **Body (2-3 sentences):**
 
 - **Closing sentence:**
 
@@ -1293,7 +1359,7 @@ This helps you separate the job of the subject line from the job of the opening 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 ---
 
-## Unit 5 窶・Requesting Clarification
+## Unit 5 - Requesting Clarification
 
 ### Focus
 
@@ -1351,25 +1417,25 @@ Use these phrases when the information is not clear.
 
 #### Asking for Clarification
 
-- Could you clarify窶ｦ?
+- Could you clarify...?
 
-- Could you explain窶ｦ?
+- Could you explain...?
 
-- I窶冦 not sure I understand窶ｦ
+- I'm not sure I understand...
 
-- Could you give me more information about窶ｦ?
+- Could you give me more information about...?
 
-- I have a question regarding窶ｦ
+- I have a question regarding...
 
 #### Checking Your Understanding
 
-- Do you mean that窶ｦ?
+- Do you mean that...?
 
-- Just to confirm,窶ｦ
+- Just to confirm,...
 
-- Should I understand that窶ｦ?
+- Should I understand that...?
 
-### Practice A 窶・Make These Questions Clearer
+### Practice A - Make These Questions Clearer
 
 Rewrite the questions to make them specific and professional.
 
@@ -1385,16 +1451,16 @@ Mini contrast:
 - Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
 
 1. What do you mean?  
-   竊・
+   ->
 
-2. I don窶冲 understand this part.  
-   竊・
+2. I don't understand this part.  
+   ->
 
 3. Tell me the details.  
-   竊・
+   ->
 
 4. What should I do?  
-   竊・
+   ->
 
 ### Language 2: Asking About Missing or Confusing Information
 
@@ -1414,7 +1480,7 @@ Mini contrast:
 
 - Could you explain what information is needed in Section 4?
 
-- I窶冦 not sure I understand the deadline窶播oes it mean Friday or Monday?
+- I'm not sure I understand the deadline: does it mean Friday or Monday?
 
 - Could you confirm whether the applicant needs to submit this document now or later?
 
@@ -1426,23 +1492,23 @@ Clarification writing is easier to answer when the reader does not need to guess
 - where the problem is
 - what kind of answer is needed
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
 1. "This is different from what you said before."  
-   竊・
+   ->
 
 2. "The instructions are confusing."  
-   竊・
+   ->
 
-3. "I don窶冲 know what to write in this part."  
-   竊・
+3. "I don't know what to write in this part."  
+   ->
 
-4. "The system doesn窶冲 work."  
-   竊・
+4. "The system doesn't work."  
+   ->
 
-### Practice C 窶・Clarification from Context
+### Practice C - Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
@@ -1467,23 +1533,23 @@ Your questions:
 1.
 2.
 
-### Extended Guided Practice 窶・Rewrite and Improve
+### Extended Guided Practice - Rewrite and Improve
 
 Rewrite each unclear message into a **clear, polite clarification request**.
 
-1. "I don窶冲 get this. Explain it."
-   竊・
+1. "I don't get this. Explain it."
+   ->
 
 2. "Which one is correct? These files look different."
-   竊・
+   ->
 
 3. "What am I supposed to do with this form?"
-   竊・
+   ->
 
 4. "This part is wrong."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Clarification Email
+### Guided Practice - Write a Clarification Email
 
 Write an email asking for clarification.
 
@@ -1512,9 +1578,9 @@ Before writing your own clarification email, check:
 3. Did I avoid blame or frustration?
 4. Could the reader answer without asking me another question first?
 
-### Freer Practice 窶・Write Two Clarification Emails
+### Freer Practice - Write Two Clarification Emails
 
-Write **two short emails**, each 3窶・ sentences, asking for clarification. Keep each email focused on **one topic only**.
+Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
 Choose **two** situations from the list below:
 
@@ -1534,17 +1600,17 @@ Write your emails:
 
 Rewrite each message as a better clarification request.
 
-1. I don窶冲 understand this instruction.
-   竊・
+1. I don't understand this instruction.
+   ->
 
 2. The file names are confusing.
-   竊・
+   ->
 
 3. The deadline message is different from the form.
-   竊・
+   ->
 
 4. The supervisor said to prepare the report.
-   竊・
+   ->
 
 ### Transfer Extension: One Topic, One Email
 
@@ -1560,9 +1626,9 @@ Then note:
 - what information you removed
 - why the stronger email is easier to answer
 
-### Extended Writing Task 窶・Clarification Summary Paragraph
+### Extended Writing Task - Clarification Summary Paragraph
 
-Write one **informational paragraph** (5窶・ sentences) explaining a situation where clarification is needed.
+Write one **informational paragraph** (5-6 sentences) explaining a situation where clarification is needed.
 Your paragraph should:
 
 - Describe the background
@@ -1604,7 +1670,7 @@ Write your paragraph:
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 ---
 
-## Unit 6 窶・Communicating Delays or Changes
+## Unit 6 - Communicating Delays or Changes
 
 ### Focus
 
@@ -1658,19 +1724,19 @@ The stronger version works because the reader learns:
 
 That reduces uncertainty and extra follow-up questions.
 
-### Language 1 窶・Useful Phrases for Delays and Changes
+### Language 1 - Useful Phrases for Delays and Changes
 
 #### Neutral Phrases
 
-- There will be a delay in窶ｦ
+- There will be a delay in...
 
 - The schedule has been adjusted.
 
 - The process will take longer than expected.
 
-- There has been a change in窶ｦ
+- There has been a change in...
 
-- The update will affect窶ｦ
+- The update will affect...
 
 #### Explaining the Reason (Optional in admin English)
 
@@ -1692,7 +1758,7 @@ That reduces uncertainty and extra follow-up questions.
 
 - The new schedule will be shared shortly.
 
-### Practice A 窶・Improve the Clarity
+### Practice A - Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
@@ -1708,18 +1774,18 @@ Mini contrast:
 - Stronger: "The meeting is delayed until Thursday because the updated file set is not yet complete."
 
 1. "The meeting is delayed."
-   竊・
+   ->
 
 2. "We changed the procedure."
-   竊・
+   ->
 
 3. "The file will be late."
-   竊・
+   ->
 
 4. "The system is slow."
-   竊・
+   ->
 
-### Language 2 窶・Logical Order for Update Messages
+### Language 2 - Logical Order for Update Messages
 
 A clear update message usually follows this pattern:
 
@@ -1746,7 +1812,7 @@ The paragraph moves in a useful order:
 
 This order helps the reader understand both the situation and the practical meaning of the delay.
 
-### Practice B 窶・Reorder to Make a Clear Update
+### Practice B - Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
 
@@ -1760,20 +1826,20 @@ Write the best order:
 2.
 3.
 
-### Practice C 窶・Add Supporting Information
+### Practice C - Add Supporting Information
 
-Expand each message to 2窶・ sentences by adding supporting information.
+Expand each message to 2-3 sentences by adding supporting information.
 
 1. "The deadline has been extended."
-   竊・
+   ->
 
-2. "The applicant窶冱 file will be reviewed next week."
-   竊・
+2. "The applicant's file will be reviewed next week."
+   ->
 
 3. "There has been a change in the procedure."
-   竊・
+   ->
 
-### Guided Practice 窶・Write an Update Email
+### Guided Practice - Write an Update Email
 
 Write a clear and neutral email explaining a delay or change.
 
@@ -1787,7 +1853,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Explanation (2窶・ sentences):**
+- **Explanation (2-3 sentences):**
 
 - **Neutral next step:**
 
@@ -1802,9 +1868,9 @@ Before writing your own update email, check:
 3. Did I show the effect on the reader or schedule?
 4. Did I include a neutral next-step line?
 
-### Freer Practice 窶・Choose a Scenario and Write
+### Freer Practice - Choose a Scenario and Write
 
-Write **two short update emails** (3窶・ sentences each).
+Write **two short update emails** (3-4 sentences each).
 
 #### Scenario Options
 
@@ -1828,16 +1894,16 @@ Write your emails:
 Rewrite each update so the reader does not need to ask a second question.
 
 1. The meeting changed.
-   竊・
+   ->
 
 2. We cannot finish this today.
-   竊・
+   ->
 
 3. There was a problem with the documents.
-   竊・
+   ->
 
 4. The system update will affect the process.
-   竊・
+   ->
 
 ### Transfer Extension: Turn an Email Update into a Report Line
 
@@ -1851,9 +1917,9 @@ Rewrite it as a short internal report paragraph by changing:
 
 Keep the same core facts, but make the new version sound like part of a report, not an email.
 
-### Extended Writing Task 窶・Update Summary Paragraph
+### Extended Writing Task - Update Summary Paragraph
 
-Write a paragraph (5窶・ sentences) summarising a delay or change as part of a report or internal update.
+Write a paragraph (5-6 sentences) summarising a delay or change as part of a report or internal update.
 
 Your paragraph should:
 
@@ -1880,7 +1946,7 @@ Write your paragraph:
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 ---
 
-## Unit 7 窶・Making Requests Politely
+## Unit 7 - Making Requests Politely
 
 ### Focus
 
@@ -1903,9 +1969,9 @@ Read each pair. Choose the request that sounds more professional.
 
    b) Could you let me know the deadline?
 
-3. a) I need the applicant窶冱 number.  
+3. a) I need the applicant's number.  
 
-   b) Could you provide the applicant窶冱 number?
+   b) Could you provide the applicant's number?
 
 **Discussion:** What makes the (b) sentences more polite?
 
@@ -1932,7 +1998,7 @@ The stronger version works because it:
 - tells the reader exactly what is needed
 - gives a reason that makes the request easier to understand
 
-### Language 1 窶・Levels of Politeness in Requests
+### Language 1 - Levels of Politeness in Requests
 
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
@@ -1942,33 +2008,33 @@ Different request forms sound **more or less polite**. In administrative writing
 
 - the formality of the situation
 
-#### Politeness Scale (from direct 竊・most polite)
+#### Politeness Scale (from direct ->most polite)
 
 | Form | Example | Tone/Use |
 
 |------|---------|-----------|
 
-| **Can you窶ｦ?** | Can you send the file? | Casual, spoken English; too direct for administrative emails. |
+| **Can you...?** | Can you send the file? | Casual, spoken English; too direct for administrative emails. |
 
-| **Could you窶ｦ?** | Could you send the file? | Standard polite request; appropriate for most situations. |
+| **Could you...?** | Could you send the file? | Standard polite request; appropriate for most situations. |
 
-| **Could you please窶ｦ?** | Could you please send the file? | Polite and slightly more formal. |
+| **Could you please...?** | Could you please send the file? | Polite and slightly more formal. |
 
-| **Would you be able to窶ｦ?** | Would you be able to send the file? | Polite, softer, useful when asking for something more difficult. |
+| **Would you be able to...?** | Would you be able to send the file? | Polite, softer, useful when asking for something more difficult. |
 
-| **Would it be possible to窶ｦ?** | Would it be possible to send the file? | Formal, respectful, avoids pressure. |
+| **Would it be possible to...?** | Would it be possible to send the file? | Formal, respectful, avoids pressure. |
 
-| **I would appreciate it if you could窶ｦ** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
+| **I would appreciate it if you could...** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
 
 #### Key Notes
 
-- **窶廚an you窶ｦ?窶・* is grammatically correct but **not appropriate** in most administrative emails.
+- **`Can you...?` is grammatically correct but **not appropriate** in most administrative emails.
 
-- **窶廚ould you窶ｦ?窶・* is the safest default.
+- **`Could you...?` is the safest default.
 
-- **窶弩ould you be able to窶ｦ窶・* softens the request and reduces pressure.
+- **`Would you be able to...?` softens the request and reduces pressure.
 
-- **窶廬 would appreciate it if窶ｦ窶・* shows gratitude in advance and sounds formal.
+- **`I would appreciate it if...` shows gratitude in advance and sounds formal.
 
 #### Adding Context (Why You Need the Information)
 
@@ -1980,7 +2046,7 @@ Often a request is clearer when you add **one short context sentence**.
 
 - This will help us complete the process.
 
-### Practice A 窶・Rewrite the Request
+### Practice A - Rewrite the Request
 
 Rewrite each message to make it **polite, clear, and complete**.
 
@@ -1998,18 +2064,18 @@ Mini request frame:
 - short reason
 
 1. "Send the updated file."
-   竊・
+   ->
 
 2. "Tell me the deadline."
-   竊・
+   ->
 
 3. "Check this."
-   竊・
+   ->
 
 4. "Give me the information."
-   竊・
+   ->
 
-### Language 2 窶・Requests with Specific Details
+### Language 2 - Requests with Specific Details
 
 A good request includes:
 
@@ -2025,9 +2091,9 @@ A good request includes:
 
 - Could you let me know **which office will handle the review**?
 
-- I would appreciate it if you could confirm **the applicant窶冱 submission date**.
+- I would appreciate it if you could confirm **the applicant's submission date**.
 
-### Practice B 窶・Make the Request More Specific
+### Practice B - Make the Request More Specific
 
 Each message below is polite but **not specific**. Improve it.
 
@@ -2043,24 +2109,24 @@ Mini contrast:
 - Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"
 
 1. "Could you send the document?"
-   竊・
+   ->
 
 2. "Could you check this?"
-   竊・
+   ->
 
 3. "Could you confirm the information?"
-   竊・
+   ->
 
 4. "Could you update me?"
-   竊・
+   ->
 
-### Language 3 窶・Requests Without Sounding Too Direct
+### Language 3 - Requests Without Sounding Too Direct
 
 Administrative English avoids:
 
-- Imperatives (Send, Tell, Check窶ｦ)
+- Imperatives (Send, Tell, Check...)
 
-- Emotional language (I really need窶ｦ, You didn窶冲窶ｦ, You must窶ｦ)
+- Emotional language (I really need..., You didn't..., You must...)
 
 - Pressure (ASAP, immediately)
 
@@ -2084,27 +2150,27 @@ Good request writing balances:
 
 - when available
 
-### Practice C 窶・Soften the Request
+### Practice C - Soften the Request
 
 Rewrite each message so it is **polite but not weak**, using softening phrases.
 
 1. "Send this today."
-   竊・
+   ->
 
 2. "Tell me the result now."
-   竊・
+   ->
 
 3. "Check this immediately."
-   竊・
+   ->
 
 4. "Give me the corrected file as soon as possible."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Request Email
+### Guided Practice - Write a Request Email
 
 Use the prompts to write a complete request email.
 
-**Situation:** You need to request the applicant窶冱 updated contact information for the next review stage.
+**Situation:** You need to request the applicant's updated contact information for the next review stage.
 
 Write your email:
 
@@ -2114,7 +2180,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Request (1窶・ sentences):**
+- **Request (1-2 sentences):**
 
 - **Context / reason (1 sentence):**
 
@@ -2131,9 +2197,9 @@ Before writing your request email, check:
 3. Did I add a short reason if it helps?
 4. Did I avoid pressure words or commands?
 
-### Freer Practice 窶・Write Two Request Emails
+### Freer Practice - Write Two Request Emails
 
-Write **two short emails** (3窶・ sentences each) requesting information or action.
+Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
 
 #### Options
@@ -2160,16 +2226,16 @@ Write your emails:
 Rewrite each message so it keeps the same request but sounds more professional.
 
 1. Send me the corrected file today.
-   竊・
+   ->
 
 2. Tell me the meeting time now.
-   竊・
+   ->
 
 3. Check this and reply quickly.
-   竊・
+   ->
 
 4. Give me the missing information.
-   竊・
+   ->
 
 ### Transfer Extension: One Need, Two Levels of Politeness
 
@@ -2185,9 +2251,9 @@ Then decide:
 - which version is better for a colleague
 - which version is better for an outside office
 
-### Extended Writing Task 窶・Request Paragraph
+### Extended Writing Task - Request Paragraph
 
-Write a **neutral paragraph** (5窶・ sentences) explaining:
+Write a **neutral paragraph** (5-6 sentences) explaining:
 
 - What information is needed
 
@@ -2197,7 +2263,7 @@ Write a **neutral paragraph** (5窶・ sentences) explaining:
 
 - What the next part of the report will describe
 
-(No direct request窶杯his is background information for a report.)
+(No direct request- this is background information for a report.)
 
 Write your paragraph:
 
@@ -2374,7 +2440,9 @@ This extra planning step helps the writer build emails that feel more purposeful
 
 
 
-﻿# MODULE 3. Writing Procedures & Internal Explanations
+
+
+# MODULE 3. Writing Procedures & Internal Explanations
 
 ## Module Guide
 
@@ -2395,7 +2463,7 @@ Work through the module with these habits:
 - complete the editing practice so you can repair structure, not only create it
 - use the transfer extension to move the skill into a new internal-writing context
 
-## Unit 8 窶・Writing Simple Procedures
+## Unit 8 - Writing Simple Procedures
 
 ### Focus
 
@@ -2427,7 +2495,7 @@ Steps to create a new file record:
 
 2. Select "New Record" from the main menu.
 
-3. Enter the applicant窶冱 basic information.
+3. Enter the applicant's basic information.
 
 4. Save the record and confirm the entry.
 
@@ -2481,7 +2549,7 @@ Procedures reduce reader error when:
 - each step has one job
 - the format stays consistent
 
-### Language 1 窶・Clear Instruction Verbs
+### Language 1 - Clear Instruction Verbs
 
 Common verbs used in procedures:
 
@@ -2517,23 +2585,23 @@ Mini contrast:
 
 The stronger version tells the reader exactly what action sequence to follow.
 
-### Practice A 窶・Improve the Verb Choice
+### Practice A - Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
 
 1. "Make sure the file is OK."
-   竊・
+   ->
 
 2. "Put the name in the system."
-   竊・
+   ->
 
 3. "Look at the form to see if something is missing."
-   竊・
+   ->
 
 4. "Send it to the right place."
-   竊・
+   ->
 
-### Language 2 窶・Logical Order
+### Language 2 - Logical Order
 
 Procedures must follow a logical sequence.
 
@@ -2542,12 +2610,12 @@ Procedures must follow a logical sequence.
 If the order is wrong, even correct instructions can cause mistakes.  
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 
-### Practice B 窶・Put the Steps in Order
+### Practice B - Put the Steps in Order
 
 Steps for verifying an application:
 A. Review the file for missing documents.
 B. Save the updated file.
-C. Enter the applicant窶冱 information into the system.
+C. Enter the applicant's information into the system.
 D. Confirm the submission date.
 
 Write the correct order:
@@ -2556,7 +2624,7 @@ Write the correct order:
 3.
 4.
 
-### Practice C 窶・Add Missing Steps
+### Practice C - Add Missing Steps
 
 Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
@@ -2570,15 +2638,15 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
 #### Procedure 2
 
-1. Review the applicant窶冱 form.
+1. Review the applicant's form.
 
 2. Check for required signatures.
 3.
 4.
 
-### Guided Practice 窶・Write a Simple Procedure
+### Guided Practice - Write a Simple Procedure
 
-Write a short procedure (4窶・ steps) based on the situation.
+Write a short procedure (4-5 steps) based on the situation.
 
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
@@ -2601,9 +2669,9 @@ Before writing your own procedures, check:
 3. Does the order match the real task?
 4. Will the user know when the task is finished?
 
-### Freer Practice 窶・Write Two Procedures
+### Freer Practice - Write Two Procedures
 
-Write **two different procedures** (4窶・ steps each).
+Write **two different procedures** (4-5 steps each).
 Choose any two situations below:
 
 #### Options
@@ -2633,7 +2701,7 @@ Procedure 2:
 6.
 7.
 
-### Extended Writing Task 窶・Write a Section of a Simple Manual
+### Extended Writing Task - Write a Section of a Simple Manual
 
 Write a **short manual section** using this fixed format:
 
@@ -2697,10 +2765,10 @@ This helps you turn short instructions into a more usable manual-style section.
 
 ### Homework
 
-Choose a routine task from your job. Write a 6窶・ step procedure explaining how to complete it.
+Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 ---
 
-## Unit 9 窶・Internal Notices
+## Unit 9 - Internal Notices
 
 ### Focus
 
@@ -2725,7 +2793,7 @@ An **internal notice** is a short message shared inside a department or organisa
 
 #### Example (Part of a Larger Internal Bulletin)
 
-Internal Notice 窶・File System Update  
+Internal Notice - File System Update  
 The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
 
 ### Warm-Up: Which Notice Is Clearer?
@@ -2738,7 +2806,7 @@ There was a problem with the system today. Please be careful. We will check it. 
 
 #### Notice B
 
-System Notice 窶・Temporary Error  
+System Notice - Temporary Error  
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
 **Discussion:** Why is Notice B clearer and more useful?
@@ -2773,7 +2841,7 @@ Notice A feels weak because the reader still does not know:
 A notice is useful when it reduces uncertainty.  
 The reader should be able to understand the situation without asking a second question immediately.
 
-### Language 1 窶・Structure of an Internal Notice
+### Language 1 - Structure of an Internal Notice
 
 A clear internal notice usually includes:
 
@@ -2787,16 +2855,16 @@ A clear internal notice usually includes:
 
 #### Model Notice
 
-Internal Notice 窶・Document Review Schedule  
+Internal Notice - Document Review Schedule  
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 
-### Practice A 窶・Identify the Parts
+### Practice A - Identify the Parts
 
 Label each part with: **H = Heading**, **B = Background**, **E = Essential information**, **N = Next step**.
 
 1. The application review will take place next Wednesday.
 
-2. Internal Notice 窶・Application Review
+2. Internal Notice - Application Review
 
 3. Additional checks may be required for older files.
 
@@ -2808,7 +2876,7 @@ Your answers:
 3.
 4.
 
-### Language 2 窶・Neutral Tone
+### Language 2 - Neutral Tone
 
 Internal notices use **neutral, factual language**. Avoid:
 
@@ -2821,16 +2889,16 @@ Internal notices use **neutral, factual language**. Avoid:
 #### Rewrite These to Make Them Neutral
 
 1. "The delay is very annoying."
-   竊・
+   ->
 
 2. "Everyone MUST check the new files today!"
-   竊・
+   ->
 
 3. "I think the system is acting strange again."
-   竊・
+   ->
 
 4. "Sorry everyone, but the meeting is suddenly cancelled."
-   竊・
+   ->
 
 ### Self-Check Before Freer Practice
 
@@ -2841,7 +2909,7 @@ Check your notice before moving on:
 3. Does the message tell the reader what happens next?
 4. Is the notice short but complete?
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each notice so it is clearer and more professional.
 
@@ -2859,22 +2927,22 @@ Mini notice frame:
 - what staff should do next
 
 1. "The meeting will change."
-   竊・
+   ->
 
 2. "There is something wrong with the file."
-   竊・
+   ->
 
 3. "We are doing something with the system tomorrow."
-   竊・
+   ->
 
 4. "The documents are not ready yet."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Short Internal Notice
+### Guided Practice - Write a Short Internal Notice
 
 Write a notice based on the situation below.
 
-**Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00窶・2:00. Users may not be able to access certain functions.
+**Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00-12:00. Users may not be able to access certain functions.
 
 Write your notice:
 
@@ -2886,7 +2954,7 @@ Write your notice:
 
 - **Next step:**
 
-### Freer Practice 窶・Write Two Notices
+### Freer Practice - Write Two Notices
 
 Choose two situations and write two internal notices.
 Write each notice for colleagues inside your organisation.
@@ -2901,6 +2969,19 @@ D. Monthly reports will be reviewed later than usual this month.
 Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
 
 Write your notices:
+
+### Notice Control Board
+
+Use this board before you draft so each notice tells staff what changed, why it matters, and what they should do next.
+
+| Checkpoint | Notice 1 | Notice 2 |
+|---|---|---|
+| What changed? |  |  |
+| Why does staff need to know now? |  |  |
+| What is the effect on work or schedule? |  |  |
+| What should the reader do next? |  |  |
+
+`Why this works`: internal notices are useful only when readers can quickly see the update, the reason, and the action point.
 
 ### Editing Practice: Strengthen the Notice
 
@@ -2936,9 +3017,9 @@ Expand it into a longer bulletin-style paragraph by adding:
 
 This shows how a short internal message can grow into a fuller internal information text.
 
-### Extended Writing Task 窶・Internal Bulletin Section
+### Extended Writing Task - Internal Bulletin Section
 
-Write a section for an internal bulletin (6窶・ sentences) read by staff in your department. Include:
+Write a section for an internal bulletin (6-8 sentences) read by staff in your department. Include:
 
 - Main topic
 
@@ -2977,7 +3058,7 @@ Write your bulletin section:
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 ---
 
-## Unit 10 窶・Explaining Problems Clearly
+## Unit 10 - Explaining Problems Clearly
 
 ### Focus
 
@@ -2992,23 +3073,23 @@ By the end of this unit, you should be able to:
 
 A good explanation of a problem includes:
 
-- **Background** 窶・what was expected
+- **Background** - what was expected
 
-- **Issue** 窶・what went wrong or what is unclear
+- **Issue** - what went wrong or what is unclear
 
-- **Cause** 窶・why it happened (if known)
+- **Cause** - why it happened (if known)
 
-- **Effect** 窶・impact on work or schedule
+- **Effect** - impact on work or schedule
 
-- **Current status** 窶・what is happening now
+- **Current status** - what is happening now
 
-This is not a request and not a complaint窶俳nly **neutral information**.
+This is not a request and not a complaint - only **neutral information**.
 
 ### Warm-Up: Identify the Missing Information
 
 Read the sentences. What is missing from each?
 
-1. "The system isn窶冲 working."
+1. "The system isn't working."
 
 2. "There is a problem with the file."
 
@@ -3038,7 +3119,7 @@ Write what information is missing:
 
 A weak explanation usually names only the problem:
 
-- *The system isn窶冲 working.*
+- *The system isn't working.*
 
 A stronger explanation helps the reader understand the full picture:
 
@@ -3052,13 +3133,13 @@ A stronger explanation helps the reader understand the full picture:
 Professional readers often need to make decisions after reading the explanation.  
 They need more than the problem label; they need a usable structure.
 
-### Language 1 窶・Useful Phrases
+### Language 1 - Useful Phrases
 
 #### Describing the Issue
 
-- There is an issue with窶ｦ
+- There is an issue with...
 
-- We found a problem in窶ｦ
+- We found a problem in...
 
 - The system is not responding.
 
@@ -3080,7 +3161,7 @@ They need more than the problem label; they need a usable structure.
 
 - This has delayed the review.
 
-- Users may not be able to access窶ｦ
+- Users may not be able to access...
 
 - The examination cannot continue at this stage.
 
@@ -3105,7 +3186,7 @@ These phrases help because they separate different jobs:
 
 When these jobs are mixed together, the explanation feels vague.
 
-### Practice A 窶・Improve the Explanation
+### Practice A - Improve the Explanation
 
 Rewrite each message to make it clearer and more complete.
 
@@ -3121,18 +3202,18 @@ Mini contrast:
 - Stronger: "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
 
 1. "There is a problem with the file."
-   竊・
+   ->
 
 2. "The system is slow."
-   竊・
+   ->
 
-3. "We can窶冲 finish the work."
-   竊・
+3. "We can't finish the work."
+   ->
 
 4. "The document is wrong."
-   竊・
+   ->
 
-### Practice B 窶・Add Details
+### Practice B - Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
 
@@ -3149,17 +3230,17 @@ Mini support model:
 - Detail 2: "The review can continue once the missing items are uploaded."
 
 1. The application cannot be opened.
-   竊・
+   ->
 
 2. The review is delayed.
-   竊・
+   ->
 
 3. The uploaded form is incomplete.
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Problem Explanation
+### Guided Practice - Write a Problem Explanation
 
-Write a short explanation (4窶・ sentences).
+Write a short explanation (4-5 sentences).
 
 **Situation:** You are updating your supervisor about a system error that has stopped reviewers from accessing several files.
 
@@ -3186,7 +3267,21 @@ Before writing your own problem descriptions, check:
 3. Did I explain the effect on work or schedule?
 4. Did I tell the reader the current status?
 
-### Freer Practice 窶・Write Two Problem Descriptions
+### Problem-Logic Planning Grid
+
+Complete this grid before you draft. It will help you keep the explanation useful for a busy reader.
+
+| Part | Your note |
+|---|---|
+| Background |  |
+| Issue |  |
+| Cause |  |
+| Effect |  |
+| Current status |  |
+
+Writers often lose clarity when they name the problem but do not explain the effect or the current situation.
+
+### Freer Practice - Write Two Problem Descriptions
 
 Choose two situations and write clear explanations.
 For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
@@ -3225,9 +3320,9 @@ Write a short `5-6` sentence manager update that includes:
 
 Keep the tone factual and neutral.
 
-### Extended Writing Task 窶・Report-Style Description
+### Extended Writing Task - Report-Style Description
 
-Write a paragraph (6窶・ sentences) describing a problem as part of a formal internal report for your manager or team lead.
+Write a paragraph (6-8 sentences) describing a problem as part of a formal internal report for your manager or team lead.
 
 Your paragraph should:
 
@@ -3254,7 +3349,7 @@ Write your paragraph:
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 ---
 
-## Unit 11 窶・Writing Simple Meeting Summaries
+## Unit 11 - Writing Simple Meeting Summaries
 
 ### Focus
 
@@ -3279,8 +3374,8 @@ A meeting summary is a **brief record** of important points from a meeting. It:
 
 #### Example (Part of a Larger Report)
 
-Meeting Summary 窶・Review Preparation Meeting  
-The team discussed the schedule for next week窶冱 review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
+Meeting Summary - Review Preparation Meeting  
+The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
 
 ### Warm-Up: Which Summary Is Clearer?
 
@@ -3319,7 +3414,7 @@ Summary A feels weak because it uses vague words like *many things* and *somethi
 A meeting summary is not a story of everything that happened.  
 It is a practical record for a reader who needs the important points quickly.
 
-### Language 1 窶・Key Elements of a Meeting Summary
+### Language 1 - Key Elements of a Meeting Summary
 
 A clear summary usually includes:
 
@@ -3333,15 +3428,15 @@ A clear summary usually includes:
 
 #### Useful Phrases
 
-- The team discussed窶ｦ
+- The team discussed...
 
-- It was agreed that窶ｦ
+- It was agreed that...
 
-- The following issues were raised窶ｦ
+- The following issues were raised...
 
-- The next meeting will be窶ｦ
+- The next meeting will be...
 
-- The team will窶ｦ
+- The team will...
 
 **Teaching point**
 
@@ -3353,7 +3448,7 @@ A stronger summary usually shows:
 - decision or key point
 - next step
 
-### Practice A 窶・Identify the Elements
+### Practice A - Identify the Elements
 
 Label each sentence with: **T = Topic**, **M = Main point**, **D = Decision**, **A = Action item**.
 
@@ -3371,22 +3466,22 @@ Your answers:
 3.
 4.
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each summary to make it clearer.
 
 1. "We talked about some documents. IT will do something."
-   竊・
+   ->
 
 2. "The meeting was long. Many ideas were shared. We will do more later."
-   竊・
+   ->
 
 3. "The form was discussed. Someone needs to fix it."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Short Meeting Summary
+### Guided Practice - Write a Short Meeting Summary
 
-Write a short paragraph (4窶・ sentences) summarising the meeting.
+Write a short paragraph (4-5 sentences) summarising the meeting.
 
 **Situation:** You are sending a short internal summary to a colleague who missed the meeting. The team met to discuss the April schedule. Two tasks need more time. IT must finish a system update before the review. The next meeting is planned for next Tuesday.
 
@@ -3401,7 +3496,20 @@ Before writing your own summaries, check:
 3. Did I add one next step?
 4. Did I remove unnecessary detail?
 
-### Freer Practice 窶・Write Two Summaries
+### Summary Action Check
+
+Use this check before drafting so the summary helps the next reader understand both the result and the follow-up.
+
+| Question | Yes / No |
+|---|---|
+| Does the opening state what the meeting was for? |  |
+| Is the main issue named clearly? |  |
+| Is there a visible decision or action item? |  |
+| Is the next step or follow-up timing clear? |  |
+
+A useful summary does more than report. It helps the next reader act.
+
+### Freer Practice - Write Two Summaries
 
 Choose two situations and write meeting summaries.
 For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
@@ -3437,9 +3545,9 @@ Rewrite it for a manager by making:
 - the action item clearer
 - the next step easier to see
 
-### Extended Writing Task 窶・Meeting Report Section
+### Extended Writing Task - Meeting Report Section
 
-Write a 6窶・ sentence section for a formal internal report summarising a meeting for your team or manager.
+Write a 6-8 sentence section for a formal internal report summarising a meeting for your team or manager.
 Include:
 
 - Purpose of the meeting
@@ -3478,7 +3586,7 @@ Write your report section:
 
 ### Homework
 
-Write a summary of a real meeting you attended this week. Keep it to 5窶・ sentences.
+Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
 
 ## Module 3 Review Workshop
 
@@ -3708,7 +3816,9 @@ This comparison matters because Module 3 improves most when the text becomes mor
 
 
 
-﻿# MODULE 4. Communicating with Applicants & Foreign Offices
+
+
+# MODULE 4. Communicating with Applicants & Foreign Offices
 
 ## Module Guide
 
@@ -3724,12 +3834,12 @@ By the end of this module, you should be able to:
 Use this module carefully:
 
 - notice how the model versions change for audience, not only for grammar
-- pay attention to the 窶忤hy this works窶・notes about reader confidence and clarity
+- pay attention to the `Why this works`notes about reader confidence and clarity
 - use the self-check to confirm that your message is answerable and well sequenced
 - complete the editing practice so you can repair weak audience control
 - use the transfer extension to move the unit skill into a related external or team context
 
-## Unit 12 窶・Writing Simple External Inquiries
+## Unit 12 - Writing Simple External Inquiries
 
 ### Focus
 
@@ -3768,11 +3878,11 @@ Compare the two versions.
 
 Subject: Question  
 Hi,
-I don窶冲 understand the guidelines. Please explain.
+I don't understand the guidelines. Please explain.
 
 #### Email B
 
-Subject: Question About Guidelines 窶・Section 4  
+Subject: Question About Guidelines - Section 4  
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
 
@@ -3802,19 +3912,19 @@ The reader still has to guess what part of the guidelines is causing the problem
 External readers do not share all of your office context.  
 A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
 
-### Language 1 窶・Structure of an External Inquiry
+### Language 1 - Structure of an External Inquiry
 
 A clear inquiry email usually includes:
 
-1. **Subject line** 窶・clear and specific
+1. **Subject line** - clear and specific
 
-2. **Greeting** 窶・polite and neutral
+2. **Greeting** - polite and neutral
 
-3. **Background** 窶・brief context so the reader understands the question
+3. **Background** - brief context so the reader understands the question
 
-4. **Inquiry question(s)** 窶・clear, specific questions
+4. **Inquiry question(s)** - clear, specific questions
 
-5. **Closing sentence** 窶・neutral, polite
+5. **Closing sentence** - neutral, polite
 
 6. **Sign-off**
 
@@ -3822,19 +3932,19 @@ A clear inquiry email usually includes:
 
 #### Background
 
-- We are currently reviewing窶ｦ
+- We are currently reviewing...
 
-- Our office is checking窶ｦ
+- Our office is checking...
 
-- We have a question regarding窶ｦ
+- We have a question regarding...
 
 #### Questions
 
-- Could you clarify窶ｦ?
+- Could you clarify...?
 
-- Would you be able to confirm窶ｦ?
+- Would you be able to confirm...?
 
-- Could you provide more information about窶ｦ?
+- Could you provide more information about...?
 
 #### Closing
 
@@ -3857,7 +3967,7 @@ An external inquiry often needs two jobs:
 1. show the reader why you are asking
 2. show the reader exactly what answer you need
 
-### Practice A 窶・Improve the Inquiry
+### Practice A - Improve the Inquiry
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
 
@@ -3875,19 +3985,19 @@ Mini model:
 
 The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
 
-1. "I don窶冲 understand this part. Tell me."
-   竊・
+1. "I don't understand this part. Tell me."
+   ->
 
 2. "What is the rule?"
-   竊・
+   ->
 
 3. "When is the deadline?"
-   竊・
+   ->
 
 4. "Explain Section 2."
-   竊・
+   ->
 
-### Practice B 窶・Add Background Information
+### Practice B - Add Background Information
 
 Add **one sentence of background** before each question.
 
@@ -3905,15 +4015,15 @@ Mini model:
 The better version helps the reader understand the task situation before they read the question itself.
 
 1. Could you clarify the new ID requirement?
-   竊・
+   ->
 
 2. Could you confirm the review schedule?
-   竊・
+   ->
 
 3. Could you explain how the updated rule applies?
-   竊・
+   ->
 
-### Guided Practice 窶・Write an External Inquiry Email
+### Guided Practice - Write an External Inquiry Email
 
 Write a complete inquiry email.
 
@@ -3942,7 +4052,7 @@ Before writing your own external inquiries, check:
 
 - **Sign-off:**
 
-### Freer Practice 窶・Write Two External Inquiry Emails
+### Freer Practice - Write Two External Inquiry Emails
 
 Choose two situations below.
 For each one, write a short email from your office to another office or organisation that can answer the question.
@@ -3982,9 +4092,9 @@ Write a short internal note for your team explaining:
 
 This helps connect external inquiry writing to internal reporting.
 
-### Extended Writing Task 窶・Inquiry Paragraph
+### Extended Writing Task - Inquiry Paragraph
 
-Write a **neutral paragraph** (5窶・ sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
+Write a **neutral paragraph** (5-6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
 Include:
 
 - Background
@@ -4026,7 +4136,7 @@ Write your paragraph:
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 ---
 
-## Unit 13 窶・Providing Simple Explanations
+## Unit 13 - Providing Simple Explanations
 
 ### Focus
 
@@ -4096,31 +4206,31 @@ The stronger version works because it gives:
 
 The reader does not need to guess the practical meaning.
 
-### Language 1 窶・Useful Phrases for Explanations
+### Language 1 - Useful Phrases for Explanations
 
 #### Giving Background
 
-- The purpose of this process is窶ｦ
+- The purpose of this process is...
 
-- This procedure is used when窶ｦ
+- This procedure is used when...
 
-- This step is required because窶ｦ
+- This step is required because...
 
 #### Explaining the Reason
 
-- because窶ｦ
+- because...
 
-- due to窶ｦ
+- due to...
 
-- as a result of窶ｦ
+- as a result of...
 
 #### Giving Additional Information
 
-- This means that窶ｦ
+- This means that...
 
-- In this case窶ｦ
+- In this case...
 
-- For this reason窶ｦ
+- For this reason...
 
 Mini explanation model:
 
@@ -4136,7 +4246,7 @@ background -> reason -> effect
 
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 
-### Practice A 窶・Improve the Explanation
+### Practice A - Improve the Explanation
 
 Rewrite the sentences to make the explanations clearer.
 
@@ -4155,18 +4265,18 @@ Mini model:
 This is stronger because the reader can follow fact, cause, and effect in one short explanation.
 
 1. "The schedule changed."
-   竊・
+   ->
 
 2. "The file is wrong."
-   竊・
+   ->
 
 3. "The review will take longer."
-   竊・
+   ->
 
 4. "The system is slow."
-   竊・
+   ->
 
-### Practice B 窶・Add a Reason or Background
+### Practice B - Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason**.
 
@@ -4183,17 +4293,17 @@ You can test your answer with three quick questions:
 3. Can the reader see why the information matters now?
 
 1. The applicant list is incomplete.
-   竊・
+   ->
 
 2. The document cannot be accepted.
-   竊・
+   ->
 
 3. The review must be rescheduled.
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Clear Explanation
+### Guided Practice - Write a Clear Explanation
 
-Write 4窶・ sentences.
+Write 4-5 sentences.
 
 **Situation:** You are explaining the situation to a colleague or supervisor. A document cannot be reviewed because the attached files do not match the information in the system.
 
@@ -4220,7 +4330,7 @@ Before writing your own explanations, check:
 3. Did I show the effect on work or timing?
 4. Is the explanation neutral and easy to follow?
 
-### Freer Practice 窶・Write Two Explanations
+### Freer Practice - Write Two Explanations
 
 Choose two situations and write explanations.
 For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
@@ -4257,9 +4367,9 @@ Rewrite it twice:
 
 Keep the facts the same, but decide how much detail each reader needs.
 
-### Extended Writing Task 窶・Explanatory Paragraph
+### Extended Writing Task - Explanatory Paragraph
 
-Write a paragraph (6窶・ sentences) explaining an issue as part of an internal report for your section lead or manager.
+Write a paragraph (6-8 sentences) explaining an issue as part of an internal report for your section lead or manager.
 Include:
 
 - Background
@@ -4301,7 +4411,7 @@ Write your paragraph:
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 ---
 
-## Unit 14 窶・Responding to Confusion
+## Unit 14 - Responding to Confusion
 
 ### Focus
 
@@ -4336,7 +4446,7 @@ Identify what the reader is confused about.
 
 2. "This form looks different from the one I used last year."
 
-3. "I窶冦 not sure which file I should upload."
+3. "I'm not sure which file I should upload."
 
 4. "The instructions say two things."
 
@@ -4373,7 +4483,7 @@ When someone is confused, the reader often needs both:
 
 If the writer gives only the correction, the response may feel too abrupt.
 
-### Language 1 窶・Useful Clarification Phrases
+### Language 1 - Useful Clarification Phrases
 
 #### Acknowledging the Confusion
 
@@ -4385,26 +4495,26 @@ If the writer gives only the correction, the response may feel too abrupt.
 
 #### Restating Information
 
-- To clarify窶ｦ
+- To clarify...
 
-- The correct information is窶ｦ
+- The correct information is...
 
-- The updated requirement is窶ｦ
+- The updated requirement is...
 
 #### Giving Additional Details
 
-- This applies only to窶ｦ
+- This applies only to...
 
-- In this case窶ｦ
+- In this case...
 
-- One important point is窶ｦ
+- One important point is...
 
 **Transfer reminder**
 
 The response should stay focused on solving the confusion.  
 Do not turn it into a complaint about the other person's mistake.
 
-### Practice A 窶・Improve the Response
+### Practice A - Improve the Response
 
 Rewrite each response to make it clear and polite.
 
@@ -4421,34 +4531,34 @@ Mini model:
 
 The stronger version corrects the information without blaming the reader.
 
-1. "No, that窶冱 wrong."
-   竊・
+1. "No, that's wrong."
+   ->
 
 2. "You misunderstood the instructions."
-   竊・
+   ->
 
 3. "The other form is for something else."
-   竊・
+   ->
 
 4. "Read the guidelines again."
-   竊・
+   ->
 
-### Practice B 窶・Add Clarifying Information
+### Practice B - Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
 1. The applicant uploaded the wrong file.
-   竊・
+   ->
 
 2. The deadline mentioned in the email is incorrect.
-   竊・
+   ->
 
 3. The instructions refer to two different processes.
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Clarification Response
+### Guided Practice - Write a Clarification Response
 
-Write 4窶・ sentences.
+Write 4-5 sentences.
 
 **Situation:** A colleague thinks that all documents must be submitted this Friday, but only two documents are required. You are replying to that colleague to correct the misunderstanding politely.
 
@@ -4471,7 +4581,7 @@ Before writing your own responses, check:
 3. Did I add one useful detail?
 4. Did I avoid blame?
 
-### Freer Practice 窶・Write Two Responses
+### Freer Practice - Write Two Responses
 
 Choose two situations and write your responses.
 For each one, write a short response to the person who is confused or has misunderstood the information.
@@ -4507,9 +4617,9 @@ Write a short internal record explaining:
 - what the correct information is
 - what staff should remember next time
 
-### Extended Writing Task 窶・Clarification Paragraph
+### Extended Writing Task - Clarification Paragraph
 
-Write a paragraph (6窶・ sentences) explaining a misunderstanding as part of an internal report for your team or manager.
+Write a paragraph (6-8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
 Include:
 
 - Background
@@ -4551,7 +4661,7 @@ Write your paragraph:
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 ---
 
-## Unit 15 窶・Maintaining Consistent Email Style
+## Unit 15 - Maintaining Consistent Email Style
 
 ### Focus
 
@@ -4582,7 +4692,7 @@ Consistency helps:
 
 - Prevent confusion caused by different writing styles
 
-#### Example 窶・Inconsistent vs. Consistent
+#### Example - Inconsistent vs. Consistent
 
 **Inconsistent:**  
 Hi, I checked it. Please tell me what to do. Thanks.
@@ -4641,7 +4751,7 @@ Inconsistent emails slow the reader down because the format and tone change from
 Consistency helps the reader know what to expect.  
 It also helps teams sound reliable instead of random.
 
-### Language 1 窶・Standard Email Elements
+### Language 1 - Standard Email Elements
 
 Use standardised components to create consistency.
 
@@ -4655,11 +4765,11 @@ Use standardised components to create consistency.
 
 #### Purpose Statements
 
-- I am writing to窶ｦ
+- I am writing to...
 
-- I would like to confirm窶ｦ
+- I would like to confirm...
 
-- We have a question regarding窶ｦ
+- We have a question regarding...
 
 #### Closings
 
@@ -4669,20 +4779,20 @@ Use standardised components to create consistency.
 
 - Please let me know if you need further information.
 
-### Practice A 窶・Improve Consistency
+### Practice A - Improve Consistency
 
 Rewrite the emails to make them consistent in tone and structure.
 
 1. "Hi, I checked it. What should I do now?"
-   竊・
+   ->
 
 2. "Hello, Please check. I think there is a problem."
-   竊・
+   ->
 
 3. "Team, The file is wrong. Fix it."
-   竊・
+   ->
 
-### Language 2 窶・Formatting for Clarity and Consistency
+### Language 2 - Formatting for Clarity and Consistency
 
 Emails should use:
 
@@ -4716,7 +4826,7 @@ Mini comparison:
 
 That is why formatting supports clarity, not only appearance.
 
-### Practice B 窶・Reformat the Email
+### Practice B - Reformat the Email
 
 Rewrite this email with clear formatting.
 
@@ -4746,7 +4856,7 @@ Hi, I saw the file. It looks wrong. Please explain. Thanks.
 
 Rewrite here:
 
-### Guided Practice 窶・Standardise a Draft Email
+### Guided Practice - Standardise a Draft Email
 
 Rewrite the following email to make it consistent.
 
@@ -4767,7 +4877,7 @@ Before writing your own consistent emails, check:
 3. Does the body sound like the same email as the opening?
 4. Does the closing match the tone?
 
-### Freer Practice 窶・Write Two Consistent Emails
+### Freer Practice - Write Two Consistent Emails
 
 Choose two situations and write emails using **consistent tone and structure**.
 For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
@@ -4788,10 +4898,10 @@ Write your emails:
 Rewrite the two short messages below so they follow the same team style.
 
 1. Hi, the file is not right. Check it.
-   竊・
+   ->
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
-   竊・
+   ->
 
 ### Transfer Extension: Mini Team Style Rule
 
@@ -4805,9 +4915,9 @@ For example:
 
 Then use those rules to check one email from your freer practice.
 
-### Extended Writing Task 窶・Email Style Guide Paragraph
+### Extended Writing Task - Email Style Guide Paragraph
 
-Write a paragraph (6窶・ sentences) explaining why your team should follow a consistent email style and what elements are important.
+Write a paragraph (6-8 sentences) explaining why your team should follow a consistent email style and what elements are important.
 
 Try to include both:
 
@@ -5058,7 +5168,9 @@ This practice matters because Module 4 improves when the writer stops treating "
 
 
 
-﻿# MODULE 5. Editing & Revision Skills (Basic)
+
+
+# MODULE 5. Editing & Revision Skills (Basic)
 
 ## Module Guide
 
@@ -5079,7 +5191,7 @@ Use the module support in this order:
 - complete the editing practice so you explain the revision, not only produce it
 - use the transfer extension to turn the editing skill into a repeatable workplace habit
 
-## Unit 16 窶・Editing for Accuracy
+## Unit 16 - Editing for Accuracy
 
 ### Focus
 
@@ -5090,7 +5202,7 @@ By the end of this unit, you should be able to:
 - I can revise a short email for more accurate language use.
 - I can edit a short paragraph for accuracy and clarity.
 
-### What Does 窶廣ccuracy窶・Mean in Writing?
+### What Does `Accuracy`Mean in Writing?
 
 Accuracy refers to the **correct use of language**, including:
 
@@ -5168,7 +5280,7 @@ Mini contrast:
 
 One small change can stop the reader from doubting the message.
 
-### Language 1 窶・Common Accuracy Problems
+### Language 1 - Common Accuracy Problems
 
 #### Verb Forms
 
@@ -5199,7 +5311,7 @@ When you edit for accuracy, check one error family at a time:
 
 This makes editing more reliable than trying to fix everything at once.
 
-### Practice A 窶・Correct the Sentences
+### Practice A - Correct the Sentences
 
 Rewrite each sentence correctly.
 
@@ -5216,20 +5328,20 @@ Accuracy check:
 - Does the noun or verb form match the message?
 
 1. *The system under maintenance today.*  
-   竊・
+   ->
 
 2. *We will checking the documents.*  
-   竊・
+   ->
 
 3. *Please send me informations about new procedure.*  
-   竊・
+   ->
 
 4. *The documents is complete.*  
-   竊・
+   ->
 
-### Practice B 窶・Edit for Accuracy
+### Practice B - Edit for Accuracy
 
-Each short text contains 4窶・ errors. Rewrite the corrected version.
+Each short text contains 4-5 errors. Rewrite the corrected version.
 
 #### Text 1
 
@@ -5243,7 +5355,7 @@ Corrected version:
 
 Corrected version:
 
-### Guided Practice 窶・Edit a Short Administrative Email
+### Guided Practice - Edit a Short Administrative Email
 
 You are editing a short email draft before it is sent to a colleague or applicant.
 
@@ -5263,7 +5375,7 @@ Before editing the next texts, ask:
 3. Are the articles and prepositions correct?
 4. Does the corrected version sound natural enough to send?
 
-### Freer Practice 窶・Edit Two Short Texts
+### Freer Practice - Edit Two Short Texts
 
 Choose two situations and write the **accurate, corrected version**.
 For each one, imagine you are the person checking the draft before it is sent or shared.
@@ -5287,9 +5399,9 @@ For each one, explain:
 - why the corrected version is better
 - what you should check next time
 
-### Extended Writing Task 窶・Editing a Paragraph
+### Extended Writing Task - Editing a Paragraph
 
-Rewrite this paragraph (6窶・ sentences) to correct errors and improve clarity.
+Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
 Treat it as a draft internal update that needs editing before your team shares it.
 
 **Original:**
@@ -5323,7 +5435,7 @@ Use your own wording, but make it a routine you could really use at work.
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 ---
 
-## Unit 17 窶・Editing for Clarity
+## Unit 17 - Editing for Clarity
 
 ### Focus
 
@@ -5334,7 +5446,7 @@ By the end of this unit, you should be able to:
 - I can reorganize information for better logical flow.
 - I can revise a paragraph so it is easier to understand.
 
-### What Does 窶廚larity窶・Mean in Writing?
+### What Does `Clarity`Mean in Writing?
 
 Clarity refers to how easily the reader can understand your message. Clear writing:
 
@@ -5346,7 +5458,7 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 - Avoids ambiguity or vague language
 
-#### Example (Before 竊・After)
+#### Example (Before ->After)
 
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
 **After:** The document appears to be missing some parts.
@@ -5397,17 +5509,17 @@ It is also:
 - show the main point earlier
 - put related ideas together
 
-### Language 1 窶・Common Clarity Problems
+### Language 1 - Common Clarity Problems
 
 #### Vague Language
 
-- 窶很ind of窶・ 窶徇aybe窶・ 窶彗 bit窶・ 窶徭omething窶・ 窶彿n some places窶・
+- "kind of" "maybe" "a bit" "something" "in some places"
 
 #### Unnecessary Words
 
-- The reason is because 竊・The reason is
+- The reason is because ->The reason is
 
-- Due to the fact that 竊・Because
+- Due to the fact that ->Because
 
 #### Long or Complicated Sentences
 
@@ -5426,31 +5538,31 @@ Mini contrast:
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
 
-### Practice A 窶・Make the Sentences Clearer
+### Practice A - Make the Sentences Clearer
 
 Rewrite each sentence.
 
 1. "It looks like the file maybe has a few issues."
-   竊・
+   ->
 
 2. "There are things missing from the form somewhere."
-   竊・
+   ->
 
 3. "We think that it could possibly be delayed for some reason."
-   竊・
+   ->
 
 4. "It would be appreciated if you could maybe check the document again."
-   竊・
+   ->
 
-### Language 2 窶・Improving Flow
+### Language 2 - Improving Flow
 
 Clear writing follows a **logical order**, often:
 
-- Background 竊・Main point 竊・Detail
+- Background ->Main point ->Detail
 
-- Issue 竊・Cause 竊・Effect
+- Issue ->Cause ->Effect
 
-- Topic 竊・Explanation 竊・Closing idea
+- Topic ->Explanation ->Closing idea
 
 #### Example
 
@@ -5458,7 +5570,7 @@ Clear writing follows a **logical order**, often:
 
 **After:** The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 
-### Practice B 窶・Reorganise for Better Flow
+### Practice B - Reorganise for Better Flow
 
 Rewrite the sentences in a clear, logical order.
 
@@ -5475,7 +5587,7 @@ Flow test:
 
 Sentences:
 A. Two forms are incomplete.  
-B. We reviewed the applicant窶冱 file this morning.  
+B. We reviewed the applicant's file this morning.  
 C. This will delay the next review stage.
 
 Write the best order:
@@ -5483,13 +5595,13 @@ Write the best order:
 2.
 3.
 
-### Guided Practice 窶・Edit for Clarity
+### Guided Practice - Edit for Clarity
 
-Rewrite this paragraph (4窶・ sentences) to make it clearer.
+Rewrite this paragraph (4-5 sentences) to make it clearer.
 Treat it as a draft update that a colleague wrote for internal use.
 
 **Original:**
-The system was slow today and we couldn窶冲 do much because of it. Also, there was a problem with the files and some people couldn窶冲 open them. So the schedule might change, and maybe we will need more time. There might be more information later.
+The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 
 **Rewrite:**
 
@@ -5502,7 +5614,7 @@ Before revising your own texts, check:
 3. Which sentence can be made shorter?
 4. Does the order help the reader follow the message?
 
-### Freer Practice 窶・Edit Two Texts for Clarity
+### Freer Practice - Edit Two Texts for Clarity
 
 Choose two situations and rewrite them clearly.
 For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
@@ -5538,9 +5650,9 @@ Write:
 - the stronger version
 - one line explaining why the stronger version is easier for the reader
 
-### Extended Writing Task 窶・Clear Paragraph Revision
+### Extended Writing Task - Clear Paragraph Revision
 
-Rewrite this paragraph (6窶・ sentences) to improve clarity and flow.
+Rewrite this paragraph (6-8 sentences) to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
 
 **Original:**
@@ -5558,10 +5670,10 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 ### Homework
 
-Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today窶冱 strategies.
+Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
 ---
 
-## Unit 18 窶・Editing for Tone
+## Unit 18 - Editing for Tone
 
 ### Focus
 
@@ -5572,7 +5684,7 @@ By the end of this unit, you should be able to:
 - I can rewrite a short email in a more professional tone.
 - I can revise a paragraph so it sounds more neutral and appropriate.
 
-### What Is 窶弋one窶・in Writing?
+### What Is `Tone`in Writing?
 
 Tone is **how your writing sounds** to the reader.
 A professional tone is:
@@ -5593,18 +5705,18 @@ A poor tone may be:
 
 - Impolite or demanding
 
-#### Example (Before 竊・After)
+#### Example (Before ->After)
 
-**Before:** You didn窶冲 send the right file. Send the correct one now.  
+**Before:** You didn't send the right file. Send the correct one now.  
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 
 ### Warm-Up: Why Is the Tone Wrong?
 
 Identify what makes the tone inappropriate.
 
-1. "You didn窶冲 do this correctly."
+1. "You didn't do this correctly."
 
-2. "Why didn窶冲 you check before sending it?"
+2. "Why didn't you check before sending it?"
 
 3. "Fix this immediately."
 
@@ -5630,7 +5742,7 @@ Write the issues:
 
 Compare:
 
-- Weak: *You didn窶冲 send the right file. Send the correct one now.*
+- Weak: *You didn't send the right file. Send the correct one now.*
 - Stronger: *Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
 
 The stronger version works because it:
@@ -5641,30 +5753,30 @@ The stronger version works because it:
 
 Tone editing is successful when the message stays useful and becomes easier to receive.
 
-### Language 1 窶・Softening Direct Language
+### Language 1 - Softening Direct Language
 
-#### Direct 竊・Polite
+#### Direct ->Polite
 
-- You didn窶冲 submit the file.  
-  竊・The file does not appear to have been submitted.
+- You didn't submit the file.  
+  ->The file does not appear to have been submitted.
 
 - You need to fix this.  
-  竊・This section may need correction.
+  ->This section may need correction.
 
 - That is wrong.  
-  竊・There seems to be an error in this section.
+  ->There seems to be an error in this section.
 
 #### Useful Softening Phrases
 
-- It appears that窶ｦ
+- It appears that...
 
-- It seems that窶ｦ
+- It seems that...
 
-- There may be an issue with窶ｦ
+- There may be an issue with...
 
-- Thank you for checking窶ｦ
+- Thank you for checking...
 
-### Practice A 窶・Make the Tone Polite
+### Practice A - Make the Tone Polite
 
 Rewrite the sentences politely.
 
@@ -5683,18 +5795,18 @@ Mini contrast:
 The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
-   竊・
+   ->
 
 2. "You made a mistake."
-   竊・
+   ->
 
 3. "Check it again."
-   竊・
+   ->
 
 4. "This is not acceptable."
-   竊・
+   ->
 
-### Language 2 窶・Tone in Emails
+### Language 2 - Tone in Emails
 
 Emails often need polite tone markers.
 
@@ -5710,11 +5822,11 @@ Emails often need polite tone markers.
 
 #### Common Tone Problems
 
-- Imperatives (Send窶ｦ, Check窶ｦ, Fix窶ｦ)
+- Imperatives (Send..., Check..., Fix...)
 
-- Emotional expressions (窶弋his is terrible,窶・窶廬窶冦 very upset窶・
+- Emotional expressions ("This is terrible," "I'm very upset")
 
-- Blaming language (窶弸ou didn窶冲窶ｦ, You should have窶ｦ窶・
+- Blaming language ("You didn't...", "You should have...")
 
 **Editing principle**
 
@@ -5725,25 +5837,25 @@ When revising for tone, try this order:
 3. add the needed action politely
 4. keep the original purpose
 
-### Practice B 窶・Improve the Email Tone
+### Practice B - Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
 #### Email 1
 
 Subject: Document  
-You didn窶冲 attach the correct file. Attach the right one now.
+You didn't attach the correct file. Attach the right one now.
 
 Rewrite:
 
 #### Email 2
 
 Subject: Problem  
-Why didn窶冲 you tell me about this earlier? Now we have a delay.
+Why didn't you tell me about this earlier? Now we have a delay.
 
 Rewrite:
 
-### Guided Practice 窶・Edit a Full Email
+### Guided Practice - Edit a Full Email
 
 Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
@@ -5764,7 +5876,7 @@ Before revising your own emails, check:
 3. Does the tone sound calm and professional?
 4. Would I be comfortable sending this version?
 
-### Freer Practice 窶・Write Two Tone-Improved Emails
+### Freer Practice - Write Two Tone-Improved Emails
 
 Choose two situations and write improved versions.
 For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
@@ -5802,13 +5914,13 @@ Then explain:
 - what changed
 - why the tone needed to change
 
-### Extended Writing Task 窶・Tone Revision Paragraph
+### Extended Writing Task - Tone Revision Paragraph
 
-Rewrite this paragraph (6窶・ sentences) to improve tone while keeping the same information.
+Rewrite this paragraph (6-8 sentences) to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
 
 **Original:**
-We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn窶冲 follow the instructions again. Now everything is delayed. We can窶冲 work like this. Someone needs to explain the rules again.
+We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
 
 **Rewrite:**
 
@@ -5959,7 +6071,9 @@ This memo matters because whole-document quality rarely comes from one fast corr
 
 
 
-﻿# MODULE 6. Capstone & Applied Administrative Writing
+
+
+# MODULE 6. Capstone & Applied Administrative Writing
 
 ## Module Guide
 
@@ -5975,12 +6089,12 @@ By the end of this module, you should be able to:
 When you use this module, do not skip the support layer:
 
 - compare the model versions before you draft
-- read the 窶忤hy this works窶・note for audience and document control
+- read the `Why this works`note for audience and document control
 - use the self-check before freer or final writing
 - complete the editing practice so you separate reader needs clearly
 - use the transfer extension to show that the skill can move to a new multi-document context
 
-## Unit 19 窶・Integrated Task 1: Combined Email + Internal Explanation
+## Unit 19 - Integrated Task 1: Combined Email + Internal Explanation
 
 ### Focus
 
@@ -5993,7 +6107,7 @@ By the end of this unit, you should be able to:
 
 ### Scenario Overview
 
-You receive an update from an external office stating that one of the applicant窶冱 documents cannot be accepted because a signature is missing. Your colleague has asked you to follow up and also explain the issue to your team.
+You receive an update from an external office stating that one of the applicant's documents cannot be accepted because a signature is missing. Your colleague has asked you to follow up and also explain the issue to your team.
 
 In this unit, you will write:
 
@@ -6005,7 +6119,7 @@ In this unit, you will write:
 
 Read the scenario and answer the questions.
 
-**Scenario:** The external office reports that the applicant窶冱 "Form B 窶・Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
+**Scenario:** The external office reports that the applicant's "Form B - Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
 
 1. What is the problem?  
 
@@ -6053,59 +6167,59 @@ Good multi-document writing keeps the same facts but changes:
 - detail
 - immediate purpose
 
-### Language 窶・Writing for Two Audiences
+### Language - Writing for Two Audiences
 
 #### External Email (Polite, Clear, Concise)
 
 - Thank you for your message.
 
-- We have checked the documents窶ｦ
+- We have checked the documents...
 
-- Could you please confirm窶ｦ?
+- Could you please confirm...?
 
 - We appreciate your assistance.
 
 #### Internal Explanation (Neutral, Informative)
 
-- The external office informed us that窶ｦ
+- The external office informed us that...
 
-- The issue concerns窶ｦ
+- The issue concerns...
 
-- The applicant will need to窶ｦ
+- The applicant will need to...
 
-- Further updates will follow once窶ｦ
+- Further updates will follow once...
 
 **Transfer reminder**
 
 If the two texts sound almost the same, the audience control is probably too weak.
 
-### Practice A 窶・Rewrite for Audience & Tone
+### Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
-#### External Office 竊・Make it polite
+#### External Office ->Make it polite
 
 "Send us the correct form."
-竊・
+->
 
-#### Internal Team 竊・Make it neutral and concise
+#### Internal Team ->Make it neutral and concise
 
 "They said the applicant messed up the form again."
-竊・
+->
 
-#### External Office 竊・Make it complete and professional
+#### External Office ->Make it complete and professional
 
 "What is the problem?"
-竊・
+->
 
-#### Internal Team 竊・Make it clear and factual
+#### Internal Team ->Make it clear and factual
 
-"The form is wrong but they didn窶冲 explain well."
-竊・
+"The form is wrong but they didn't explain well."
+->
 
-### Guided Practice 窶・Write the External Email
+### Guided Practice - Write the External Email
 
-Write a **4窶・ sentence** external follow-up email to the external office based on the scenario.
+Write a **4-5 sentence** external follow-up email to the external office based on the scenario.
 
 Include:
 
@@ -6121,9 +6235,9 @@ Include:
 
 Write your email:
 
-### Guided Practice 窶・Write the Internal Explanation
+### Guided Practice - Write the Internal Explanation
 
-Write a **4窶・ sentence** explanation for your colleagues or team.
+Write a **4-5 sentence** explanation for your colleagues or team.
 Include:
 
 - Background
@@ -6163,13 +6277,30 @@ Before writing the full pair, check:
 3. Does each text have a different immediate purpose?
 4. Will each reader understand what matters to them?
 
-### Freer Practice 窶・Choose One Integrated Scenario
+### Reader-Control Planning Board
+
+Before writing the full pair, note the same situation in two different ways.
+
+| Control point | External email | Internal explanation |
+|---|---|---|
+| Main job | ask for action or clarification | help the team understand the issue |
+| Tone | polite, cooperative | neutral, factual |
+| Key fact that must stay the same | | |
+| Detail that this reader needs most | | |
+| Next step to mention | | |
+
+**Why this works**
+
+Writers often lose audience control because they start drafting too quickly.  
+This board slows the decision down just enough to keep the two texts linked but not identical.
+
+### Freer Practice - Choose One Integrated Scenario
 
 Choose one scenario and write **both**:
 
-1. A short external inquiry email (4窶・ sentences)
+1. A short external inquiry email (4-5 sentences)
 
-2. A short internal explanation (4窶・ sentences)
+2. A short internal explanation (4-5 sentences)
 
 #### Options
 
@@ -6201,13 +6332,13 @@ Rewrite it as:
 
 Use the same core facts, but change the tone and detail for each audience.
 
-### Extended Writing Task 窶・Multi-Purpose Communication
+### Extended Writing Task - Multi-Purpose Communication
 
 Write:
 
-- One external-style email (6窶・ sentences)
+- One external-style email (6-8 sentences)
 
-- One internal paragraph (6窶・ sentences)
+- One internal paragraph (6-8 sentences)
 
 Each should:
 
@@ -6233,10 +6364,10 @@ Write your extended tasks:
 
 ### Homework
 
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external 竊・internal, or internal 竊・external).
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
 ---
 
-## Unit 20 窶・Integrated Task 2: Revision + Notice Writing
+## Unit 20 - Integrated Task 2: Revision + Notice Writing
 
 ### Focus
 
@@ -6273,7 +6404,7 @@ Document-control check:
 
 Read the scenario and answer the questions.
 
-**Scenario:** The review schedule for May was shared last week. The date for "Document Verification 窶・Stage 2" was listed as **24 May**, but the correct date is **27 May**.
+**Scenario:** The review schedule for May was shared last week. The date for "Document Verification - Stage 2" was listed as **24 May**, but the correct date is **27 May**.
 
 1. What information needs revision?  
 
@@ -6312,7 +6443,7 @@ Revision writing becomes trustworthy when:
 
 If the correction changes between texts, the writing may create more confusion instead of solving it.
 
-### Language 窶・Revision vs. Notice
+### Language - Revision vs. Notice
 
 #### Revision Message (External Office)
 
@@ -6322,9 +6453,9 @@ Useful phrases:
 
 - Thank you for your cooperation.
 
-- We would like to provide a correction regarding窶ｦ
+- We would like to provide a correction regarding...
 
-- The correct date is窶ｦ
+- The correct date is...
 
 - We apologise for any confusion.
 
@@ -6334,11 +6465,11 @@ Purpose: Inform staff of the correction.
 Tone: Neutral, informative.
 Useful phrases:
 
-- Please note the following correction窶ｦ
+- Please note the following correction...
 
-- The updated schedule is窶ｦ
+- The updated schedule is...
 
-- This change affects窶ｦ
+- This change affects...
 
 - Further updates will follow.
 
@@ -6347,33 +6478,33 @@ Useful phrases:
 The external revision message repairs the relationship with the outside reader.  
 The internal notice repairs shared team understanding.
 
-### Practice A 窶・Rewrite for Audience & Tone
+### Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
-#### External Office 竊・Make it polite and clear
+#### External Office ->Make it polite and clear
 
 "The schedule was wrong. Here is the real date."
-竊・
+->
 
-#### Internal Team 竊・Make it neutral and concise
+#### Internal Team ->Make it neutral and concise
 
 "Someone made a mistake in the schedule."
-竊・
+->
 
-#### External Office 竊・Make it complete
+#### External Office ->Make it complete
 
 "The day changed."
-竊・
+->
 
-#### Internal Team 竊・Make it professional
+#### Internal Team ->Make it professional
 
 "We told them the wrong date."
-竊・
+->
 
-### Guided Practice 窶・Write the Revision Message
+### Guided Practice - Write the Revision Message
 
-Write a **4窶・ sentence** message to the external office that received the earlier schedule.
+Write a **4-5 sentence** message to the external office that received the earlier schedule.
 
 Include:
 
@@ -6391,9 +6522,9 @@ Include:
 
 Write your message:
 
-### Guided Practice 窶・Write the Internal Notice
+### Guided Practice - Write the Internal Notice
 
-Write a **4窶・ sentence** internal notice for colleagues in your section.
+Write a **4-5 sentence** internal notice for colleagues in your section.
 
 Include:
 
@@ -6416,13 +6547,35 @@ Before writing both texts, ask:
 3. Is the internal version shorter and more factual?
 4. Can each reader see what happens next?
 
-### Freer Practice 窶・Choose One Scenario
+### Correction Control Board
+
+Use this board before drafting the full pair.
+
+| Question | External revision message | Internal notice |
+|---|---|---|
+| What was the original incorrect detail? | | |
+| What is the corrected detail? | | |
+| Who reads this text? | | |
+| What action should the reader take now? | | |
+| What tone is most useful here? | | |
+
+**Common problem**
+
+Many weak correction sets change the wording of the correction itself.  
+If the corrected fact changes between the two documents, the pair becomes less useful than the original mistake.
+
+**Safer drafting rule**
+
+Keep the corrected fact identical.  
+Change the tone, format, and amount of explanation around that fact.
+
+### Freer Practice - Choose One Scenario
 
 Choose one and write both texts:
 
-1. A revision/clarification message (4窶・ sentences)
+1. A revision/clarification message (4-5 sentences)
 
-2. A short internal notice (4窶・ sentences)
+2. A short internal notice (4-5 sentences)
 
 #### Options
 
@@ -6452,13 +6605,13 @@ Write a short `3-4` line correction log for one scenario in this unit:
 - who needs the correction
 - what document each reader receives
 
-### Extended Writing Task 窶・Combined Communication Pack
+### Extended Writing Task - Combined Communication Pack
 
 Write:
 
-- One external-style revision message (6窶・ sentences)
+- One external-style revision message (6-8 sentences)
 
-- One internal notice (6窶・ sentences)
+- One internal notice (6-8 sentences)
 
 each using:
 
@@ -6493,7 +6646,7 @@ A) a revision email, or
 B) an internal notice.
 ---
 
-## Unit 21 窶・Writing for Consistency Across a Team
+## Unit 21 - Writing for Consistency Across a Team
 
 ### Focus
 
@@ -6581,7 +6734,7 @@ Write the inconsistencies you notice:
 
 - Clarity:
 
-### Language 窶・Standardising Team Writing
+### Language - Standardising Team Writing
 
 #### Standard Openings
 
@@ -6591,11 +6744,11 @@ Write the inconsistencies you notice:
 
 #### Standard Purpose Statements
 
-- I am writing to confirm窶ｦ
+- I am writing to confirm...
 
-- We would like to request窶ｦ
+- We would like to request...
 
-- We have a question regarding窶ｦ
+- We have a question regarding...
 
 #### Standard Closings
 
@@ -6619,20 +6772,20 @@ Write the inconsistencies you notice:
 
 Team consistency is a reader-support tool, not only a style preference.
 
-### Practice A 窶・Improve Team Consistency
+### Practice A - Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
 
 1. "Hi, I checked it. What should I do now?"
-   竊・
+   ->
 
 2. "Hello, Please check. I think there is a problem."
-   竊・
+   ->
 
 3. "Team, The file is wrong. Fix it."
-   竊・
+   ->
 
-### Practice B 窶・Standardise Format & Tone
+### Practice B - Standardise Format & Tone
 
 Rewrite the email with correct formatting, tone, and clarity.
 
@@ -6656,18 +6809,18 @@ Mini standard:
 
 **Original:**
 Subject: Document  
-Hey, I don窶冲 think this is right. Check it and tell me.
+Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
 
-### Guided Practice 窶・Rewrite Three Short Messages
+### Guided Practice - Rewrite Three Short Messages
 
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
 
 #### Message 1
 
-We didn窶冲 get the form. Send it.
+We didn't get the form. Send it.
 
 #### Message 2
 
@@ -6688,9 +6841,9 @@ Before writing your style guide or rewritten set, check:
 3. Is the structure similar across the messages?
 4. Is the formatting predictable?
 
-### Freer Practice 窶・Create a Mini Style Guide
+### Freer Practice - Create a Mini Style Guide
 
-Write a short (6窶・ sentence) style guide for your team.
+Write a short (6-8 sentence) style guide for your team.
 Include:
 
 - Purpose of the guide
@@ -6726,14 +6879,14 @@ Then note:
 - which style rule you applied
 - how the revised version became easier to read
 
-### Extended Writing Task 窶・Rewrite a Set of Communications
+### Extended Writing Task - Rewrite a Set of Communications
 
 Rewrite the following **three related messages** so they all follow a consistent team style.
 Treat them as messages your team may send to colleagues or external contacts about related work.
 
 #### Original Messages
 
-1. "We told them already, but they didn窶冲 send the file. Ask again."
+1. "We told them already, but they didn't send the file. Ask again."
 
 2. "Hi, I think the new form is wrong. They need fix it."
 
@@ -6754,7 +6907,7 @@ Treat them as messages your team may send to colleagues or external contacts abo
 Find one email you wrote and one written by a colleague. Rewrite both so they follow the same writing standard.
 ---
 
-## Unit 22 窶・Multi-Document Communication Task
+## Unit 22 - Multi-Document Communication Task
 
 ### Focus
 
@@ -6825,9 +6978,9 @@ The tone, detail, and purpose change.
 
 If all three texts sound the same, the communication set does not match the real workplace need.
 
-### Language 窶・Three Audiences, Three Styles
+### Language - Three Audiences, Three Styles
 
-#### (A) Applicant Reply 窶・Polite, supportive, clear
+#### (A) Applicant Reply - Polite, supportive, clear
 
 - Thank you for your message.
 
@@ -6835,21 +6988,21 @@ If all three texts sound the same, the communication set does not match the real
 
 - One document has not yet been received.
 
-- We will update the status once窶ｦ
+- We will update the status once...
 
-#### (B) Colleague Message 窶・Neutral, cooperative
+#### (B) Colleague Message - Neutral, cooperative
 
-- I reviewed the applicant file and noticed窶ｦ
+- I reviewed the applicant file and noticed...
 
-- The status has not been updated because窶ｦ
+- The status has not been updated because...
 
-- Once the document is received, we can窶ｦ
+- Once the document is received, we can...
 
-#### (C) Internal Notice 窶・Concise, factual
+#### (C) Internal Notice - Concise, factual
 
-- Please note the following update窶ｦ
+- Please note the following update...
 
-- The applicant窶冱 file remains incomplete.
+- The applicant's file remains incomplete.
 
 - The review will continue once the missing document is submitted.
 
@@ -6857,25 +7010,25 @@ If all three texts sound the same, the communication set does not match the real
 
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 
-### Practice A 窶・Match Tone to Audience
+### Practice A - Match Tone to Audience
 
 Rewrite each sentence for the appropriate audience.
 
-1. (Applicant) "You didn窶冲 upload the file we need."
-   竊・
+1. (Applicant) "You didn't upload the file we need."
+   ->
 
-2. (Colleague) "The applicant didn窶冲 follow the instructions again."
-   竊・
+2. (Colleague) "The applicant didn't follow the instructions again."
+   ->
 
 3. (Internal Notice) "The file is wrong and causing trouble."
-   竊・
+   ->
 
 4. (Applicant) "Send the document quickly."
-   竊・
+   ->
 
-### Guided Practice 窶・Write the Applicant Reply
+### Guided Practice - Write the Applicant Reply
 
-Write a **4窶・ sentence** email replying directly to the applicant.
+Write a **4-5 sentence** email replying directly to the applicant.
 Include:
 
 - Thank-you / acknowledgement
@@ -6890,9 +7043,9 @@ Include:
 
 Write your reply:
 
-### Guided Practice 窶・Write the Colleague Explanation
+### Guided Practice - Write the Colleague Explanation
 
-Write a **4窶・ sentence** explanation for the colleague who assumed the file was complete.
+Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
 Include:
 
 - What you checked
@@ -6905,9 +7058,9 @@ Include:
 
 Write your explanation:
 
-### Guided Practice 窶・Write the Internal Notice
+### Guided Practice - Write the Internal Notice
 
-Write a **3窶・ sentence** notice for the wider team.
+Write a **3-4 sentence** notice for the wider team.
 Include:
 
 - Heading/topic
@@ -6947,19 +7100,40 @@ Before writing the full three-document set, check:
 3. Are the shared facts consistent across all three?
 4. Is the tone right for each audience?
 
-### Freer Practice 窶・Full Multi-Document Set
+### Planning Board - Three Documents from One Situation
+
+Before drafting the full set, map the same situation across the three readers.
+
+| Reader | Main need | Detail level | Tone | Next action |
+|---|---|---|---|---|
+| Applicant | | | | |
+| Colleague | | | | |
+| Team notice readers | | | | |
+
+**Why this works**
+
+In a three-document task, the biggest risk is not grammar.  
+It is overlap. One message starts doing another message's job.
+
+Use this quick test:
+
+- if a sentence helps only the applicant, keep it out of the team notice
+- if a sentence explains team workflow only, keep it out of the applicant reply
+- if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
+
+### Freer Practice - Full Multi-Document Set
 
 Choose **one** of the scenarios below and write all three documents:
 
-1. Applicant reply (5窶・ sentences)
+1. Applicant reply (5-6 sentences)
 
-2. Colleague message (4窶・ sentences)
+2. Colleague message (4-5 sentences)
 
-3. Internal notice (3窶・ sentences)
+3. Internal notice (3-4 sentences)
 
 #### Options
 
-A. A system error prevented an applicant窶冱 file from uploading correctly.  
+A. A system error prevented an applicant's file from uploading correctly.  
 B. Two versions of a form were submitted; one is incomplete.  
 C. The applicant sent the correct file, but in the wrong format.
 
@@ -6979,15 +7153,15 @@ Write:
 2. colleague opening
 3. team notice opening
 
-### Extended Writing Task 窶・Multi-Audience Communication Pack
+### Extended Writing Task - Multi-Audience Communication Pack
 
 From the original scenario (missing applicant document), write a polished communication set:
 
-- **Applicant email (8窶・0 sentences)**
+- **Applicant email (8-10 sentences)**
 
-- **Colleague explanation (6窶・ sentences)**
+- **Colleague explanation (6-8 sentences)**
 
-- **Internal notice (4窶・ sentences)**
+- **Internal notice (4-5 sentences)**
 
 All three must:
 
@@ -7003,6 +7177,32 @@ Make sure the applicant email, colleague explanation, and internal notice do not
 
 Write your communication pack:
 
+### Cross-Document Consistency Check
+
+Before finalizing the pack, compare the three drafts line by line.
+
+Use this control check:
+
+| Check point | Applicant email | Colleague explanation | Internal notice |
+|---|---|---|---|
+| same missing document named clearly | | | |
+| same status of the review process | | | |
+| same next step or condition for progress | | | |
+| tone matches the reader | | | |
+| unnecessary detail removed | | | |
+
+**Why this works**
+
+In a multi-document task, the reader may never see the other two texts, but the writer still needs the whole set to agree internally.
+
+If one document says the review is paused and another says the review will continue immediately, the communication pack is not yet usable.
+
+Safer final check:
+
+- keep the shared fact language stable
+- let the explanation depth change by reader
+- let the action sentence change only when the reader's job is different
+
 ### Reflection
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
@@ -7016,7 +7216,7 @@ Write your communication pack:
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 ---
 
-## Unit 23 窶・Portfolio Writing & Final Revision
+## Unit 23 - Portfolio Writing & Final Revision
 
 ### Focus
 
@@ -7057,7 +7257,7 @@ Your final submission should show:
 
 ### Warm-Up: Select Your Drafts
 
-Look back at your writing from Units 1窶・2.
+Look back at your writing from Units 1-22.
 Choose **three drafts** you want to improve:
 
 1. One email (internal or external)
@@ -7071,7 +7271,7 @@ Write the titles or sources of the drafts you chose:
 2.
 3.
 
-### Language 窶・Advanced Editing Checklist
+### Language - Advanced Editing Checklist
 
 Before revising your drafts, check for:
 
@@ -7128,7 +7328,7 @@ It should show that you can:
 Revision shows professional control.  
 A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
 
-### Practice A 窶・Edit a Draft Email
+### Practice A - Edit a Draft Email
 
 Choose **one email** from your previous work.
 Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
@@ -7137,7 +7337,7 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 
 **Revised email:**
 
-### Practice B 窶・Edit a Paragraph
+### Practice B - Edit a Paragraph
 
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
@@ -7160,7 +7360,7 @@ Revision focus:
 
 **Revised paragraph:**
 
-### Practice C 窶・Edit a Notice or Short Message
+### Practice C - Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
@@ -7191,18 +7391,40 @@ Before you submit your portfolio, ask:
 3. Are the final versions consistent in formatting and style?
 4. Does the new Unit 23 document fit the rest of the portfolio?
 
-### Guided Practice 窶・Create a New Document
+### Portfolio Assembly Board
+
+Use this board before creating the final set.
+
+| Portfolio item | Reader | Main job | Strongest skill it shows | What still needs revision |
+|---|---|---|---|---|
+| Revised external email | | | | |
+| Revised internal explanation or notice | | | | |
+| Revised report-style paragraph | | | | |
+| New Unit 23 document | | | | |
+
+**Why this works**
+
+A weaker portfolio often repeats the same writing job in slightly different forms.  
+A stronger portfolio shows range: different readers, different purposes, and visible revision improvement.
+
+Before finalizing, check:
+
+- Do two items sound too similar?
+- Is one item clearly weaker than the rest?
+- Does the new Unit 23 document add a skill the earlier pieces do not already show?
+
+### Guided Practice - Create a New Document
 
 Write **one new document** based on a scenario below.
 Choose ONE:
 
-- A clear update email to a colleague, supervisor, or applicant (6窶・ sentences)
+- A clear update email to a colleague, supervisor, or applicant (6-8 sentences)
 
-- A meeting summary for a colleague or manager (5窶・ sentences)
+- A meeting summary for a colleague or manager (5-6 sentences)
 
-- A short external inquiry email to another office (5窶・ sentences)
+- A short external inquiry email to another office (5-6 sentences)
 
-- A problem explanation for an internal report (6窶・ sentences)
+- A problem explanation for an internal report (6-8 sentences)
 
 Write your new document:
 
@@ -7247,6 +7469,40 @@ Portfolio quality reminder:
 - the set should show range, not repetition
 - each document should feel finished enough to keep in a real workplace file set
 - the new Unit 23 piece should not feel weaker than the revised earlier pieces
+
+### Portfolio Balance Check
+
+Before submission, test whether the portfolio really shows range.
+
+| Check question | Yes / No |
+|---|---|
+| Does the set include more than one audience type? | |
+| Does at least one piece explain a problem or status clearly? | |
+| Does at least one piece ask for or guide action? | |
+| Does at least one piece show revision from a weaker earlier draft? | |
+| Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? | |
+
+**If you answer `No` to any item**
+
+Do not only polish sentence-level grammar.  
+Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
+
+### Capstone Rebuild Routine
+
+If one portfolio item still feels weaker than the rest, do not only proofread it.  
+Run this short rebuild routine:
+
+1. underline the sentence that does the main job
+2. check whether the reader is clear in the opening
+3. circle one vague or unnecessary phrase
+4. replace one sentence so the next action becomes clearer
+5. read the whole document once more for tone consistency
+
+**Rebuild question**
+
+What is this document supposed to help the reader do next?
+
+If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
 
 ### Portfolio Review Rubric
 
@@ -7339,6 +7595,23 @@ Before you finish the course, use this routine on one integrated task set.
 - Check whether facts stay consistent when the audience changes.
 - Remove one sentence that belongs in a different document.
 - Add one sentence that makes the next step clearer.
+
+### Module 6 rebuild lab
+
+Use this quick lab on any integrated task from Units 19 to 23.
+
+1. Choose one pair or set of linked documents.
+2. Write the shared fact in one short sentence.
+3. Write one reader-only detail for each document.
+4. Check whether any sentence from one document was copied too directly into another.
+5. Rewrite the weakest opening so the reader and purpose are clear immediately.
+
+**What this lab trains**
+
+- cross-document consistency
+- audience separation
+- stronger opening control
+- cleaner carry-forward revision habits
 - Use the portfolio rubric to identify the weakest criterion and revise once more.
 
 ### Module 6 transfer task

@@ -595,8 +595,8 @@ Historical note:
 - Status: `monitor`
 - Scope: project/control
 - Context: cross-book formatting normalization during the intermediate intervention stage
-- Observation: the live intermediate module files now use the advanced-style unit heading format `## Unit X 窶・Title` instead of the earlier draft-style `## X. Title`. The intermediate wording remains simpler and level-appropriate, but the structural heading format is now aligned across both books.
-- Preferred behavior: keep the normalized `Unit X 窶・Title` heading format in future intermediate module edits unless a later project-level formatting decision intentionally replaces it
+- Observation: the live intermediate module files now use the advanced-style unit heading format `## Unit X - Title` instead of the earlier draft-style `## X. Title`. The intermediate wording remains simpler and level-appropriate, but the structural heading format is now aligned across both books.
+- Preferred behavior: keep the normalized `Unit X - Title` heading format in future intermediate module edits unless a later project-level formatting decision intentionally replaces it
 
 
 
@@ -620,3 +620,21 @@ Historical note:
 - Context: continuing `INT-5A` Wave 4 with `Module 6` as the first priority target
 - Observation: `int/md/first_draft_modules/aw-int_mod6.md` was expanded from about `7,249` words to about `8,233` words through targeted support additions rather than new task proliferation. The pass added explicit planning/control scaffolds for audience split, correction consistency, and cross-document consistency in Units 19, 20, and 22, plus stronger portfolio assembly, portfolio balance, and capstone rebuild support in Unit 23 and a module-level rebuild lab. This now clears the `INT-5A` Module 6 parity floor of `8,126` words.
 - Preferred behavior: treat Module 6 as having reached the floor with a stronger integrated-writing support layer, and move the next `INT-5A` priority pass to Module 3 unless a later quality review reveals a specific remaining Module 6 weakness
+
+
+### 2026-03-31T13:05:00+09:00 - Intermediate Module 3 Now Clears The INT-5A Parity Floor With Stronger Internal-Document Support
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: continuing `INT-5A` Wave 4 with `Module 3` as the second priority target after Module 6
+- Observation: `int/md/first_draft_modules/aw-int_mod3.md` was expanded from about `5,779` words to about `6,031` words through targeted support additions in Units 9, 10, and 11. The pass added a `Notice Control Board`, a `Problem-Logic Planning Grid`, and a `Summary Action Check` so students get clearer support for internal-notice purpose, problem-explanation logic, and action-oriented meeting summaries. This now clears the `INT-5A` Module 3 parity floor of `5,962` words.
+- Preferred behavior: treat Module 3 as having reached the floor with stronger internal-document planning and rebuild support, and move the next `INT-5A` priority pass to Module 4 unless a later quality review reveals a specific remaining Module 3 weakness
+
+
+### 2026-03-31T14:05:00+09:00 - Repo-Wide Mojibake Cleanup Now Uses A Dedicated UTF-8 Checker And A Clean Combined-Draft Rebuild
+
+- Status: `monitor`
+- Scope: project/tooling
+- Context: project-wide mojibake review after corruption was found outside the live module files
+- Observation: the repo-wide scan found remaining mojibake in planning files, project memory notes, and `int/md/aw-int-all.md`. The affected small files were normalized directly, and the combined intermediate draft was rebuilt from the clean intro plus the six live module files under explicit UTF-8 handling. A new repo utility, `scripts/check_mojibake.py`, now provides an explicit mojibake scan for common corruption patterns without depending on Windows console rendering.
+- Preferred behavior: run `python scripts/check_mojibake.py` before large regeneration steps and before commit whenever encoding drift is suspected; if the combined intermediate draft needs regeneration, rebuild it from the live UTF-8 source files rather than editing the combined file directly

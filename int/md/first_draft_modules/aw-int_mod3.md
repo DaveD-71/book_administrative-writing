@@ -526,6 +526,19 @@ Include a clear heading, short background, essential information, and a neutral 
 
 Write your notices:
 
+### Notice Control Board
+
+Use this board before you draft so each notice tells staff what changed, why it matters, and what they should do next.
+
+| Checkpoint | Notice 1 | Notice 2 |
+|---|---|---|
+| What changed? |  |  |
+| Why does staff need to know now? |  |  |
+| What is the effect on work or schedule? |  |  |
+| What should the reader do next? |  |  |
+
+`Why this works`: internal notices are useful only when readers can quickly see the update, the reason, and the action point.
+
 ### Editing Practice: Strengthen the Notice
 
 Rewrite this weak internal notice as a clearer one.
@@ -810,6 +823,20 @@ Before writing your own problem descriptions, check:
 3. Did I explain the effect on work or schedule?
 4. Did I tell the reader the current status?
 
+### Problem-Logic Planning Grid
+
+Complete this grid before you draft. It will help you keep the explanation useful for a busy reader.
+
+| Part | Your note |
+|---|---|
+| Background |  |
+| Issue |  |
+| Cause |  |
+| Effect |  |
+| Current status |  |
+
+Writers often lose clarity when they name the problem but do not explain the effect or the current situation.
+
 ### Freer Practice - Write Two Problem Descriptions
 
 Choose two situations and write clear explanations.
@@ -1024,6 +1051,19 @@ Before writing your own summaries, check:
 2. Did I include the main point or decision?
 3. Did I add one next step?
 4. Did I remove unnecessary detail?
+
+### Summary Action Check
+
+Use this check before drafting so the summary helps the next reader understand both the result and the follow-up.
+
+| Question | Yes / No |
+|---|---|
+| Does the opening state what the meeting was for? |  |
+| Is the main issue named clearly? |  |
+| Is there a visible decision or action item? |  |
+| Is the next step or follow-up timing clear? |  |
+
+A useful summary does more than report. It helps the next reader act.
 
 ### Freer Practice - Write Two Summaries
 

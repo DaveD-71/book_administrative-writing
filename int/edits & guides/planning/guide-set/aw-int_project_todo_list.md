@@ -1,5 +1,5 @@
 # Project To-Do List
-## *Administrative Writing, Intermediate* 遯ｶ繝ｻEditorial & Development Tasks
+## *Administrative Writing, Intermediate* - Editorial & Development Tasks
 
 ---
 
@@ -16,7 +16,7 @@ Update status as work progresses. Treat the detail fields as operational control
 
 ---
 
-## NOW 遯ｶ繝ｻActive Tasks
+## NOW - Active Tasks
 
 | # | Task | Detail | Status |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Update status as work progresses. Treat the detail fields as operational control
 
 ---
 
-## PINNED 遯ｶ繝ｻConfirmed For Later
+## PINNED - Confirmed For Later
 
 These items are agreed and will be handled at the appropriate later stage. They are not in question; only deferred.
 
@@ -47,7 +47,7 @@ These items are agreed and will be handled at the appropriate later stage. They 
 
 ---
 
-## REFERENCE 遯ｶ繝ｻAgreed Task Sequence
+## REFERENCE - Agreed Task Sequence
 
 The agreed order for completing the intermediate book is:
 
@@ -70,7 +70,7 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE 遯ｶ繝ｻStage Outputs And Control Files
+## REFERENCE - Stage Outputs And Control Files
 
 | Stage | Main Output / Control File |
 |---|---|
@@ -90,7 +90,7 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE 遯ｶ繝ｻKey Decisions Already Made
+## REFERENCE - Key Decisions Already Made
 
 | Decision | Detail |
 |---|---|
@@ -111,7 +111,7 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE 遯ｶ繝ｻCurrent Priorities Inside INT-5A
+## REFERENCE - Current Priorities Inside INT-5A
 
 The immediate revision priorities are:
 

@@ -1,4 +1,4 @@
-﻿# Unit Structural Profiles 窶・Master Planning Table
+﻿# Unit Structural Profiles - Master Planning Table
 ## *Administrative Writing, Intermediate*
 
 ---

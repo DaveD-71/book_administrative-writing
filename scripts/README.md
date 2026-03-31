@@ -14,6 +14,10 @@ Small stdlib-only CLI for:
 - validating common `N9` structural conventions in a module Markdown file
 - reporting unit headings and E/H word-count declarations
 
+### `check_mojibake.py`
+
+Small UTF-8 scanner for common mojibake patterns in repo text files.
+
 ## Usage
 
 From the repo root:
@@ -58,10 +62,15 @@ python scripts/module_tool.py replace-literal `
   --new-file scripts/tmp/new_block.md
 ```
 
+```powershell
+python scripts/check_mojibake.py
+```
+
 ## Notes
 
 - The script uses only the Python standard library.
 - Validation is intentionally conservative: it checks structure and conventions, not writing quality.
 - The script is meant to support pass-to-pass module work such as `N9` and `N10`, and can be extended later for broader QA work.
 - The editing commands use exact literal matching by default to reduce accidental wide-scope replacements.
+- Run `check_mojibake.py` before large regeneration steps or before commit if encoding drift is suspected.
 

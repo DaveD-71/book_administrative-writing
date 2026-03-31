@@ -901,7 +901,7 @@ Historical note:
 - Changed the unit heading format from draft-style:
   - `## 1. Title`
 - to the advanced-aligned structural format:
-  - `## Unit 1 窶・Title`
+  - `## Unit 1 - Title`
 - Kept the intermediate title wording itself unchanged so the learner-facing naming remains simpler than the advanced book while the cross-book structural format is now consistent
 
 
@@ -1171,3 +1171,39 @@ Historical note:
 - Result:
   - Module 6 now gives substantially stronger support for audience differentiation, cross-document consistency, portfolio assembly, and final rebuild habits
   - the module now clears the `INT-5A` parity floor for Module 6 and can be treated as the first completed Wave 4 priority target
+
+
+### 2026-03-31T13:05:00+09:00 - Applied A Focused Wave 4 Rebuild Pass To Intermediate Module 3 Until The Floor Was Cleared
+
+- Continued `INT-5A` on the live source file:
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+- Added targeted internal-document support rather than new generic tasks:
+  - `Notice Control Board` in Unit 9
+  - `Problem-Logic Planning Grid` in Unit 10
+  - `Summary Action Check` in Unit 11
+- Recounted the module after the pass:
+  - Module 3 now measures about `6,031` words
+- Result:
+  - Module 3 now gives stronger support for notice purpose control, problem-logic sequencing, and action-oriented summary writing
+  - the module now clears the `INT-5A` parity floor for Module 3 and can be treated as the second completed Wave 4 priority target
+
+
+### 2026-03-31T14:05:00+09:00 - Completed A Repo-Wide Mojibake Cleanup And Added A Dedicated Checker
+
+- Scanned the full repo for mojibake patterns rather than limiting the check to the live intermediate module files
+- Corrected the remaining mojibake in:
+  - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+  - `project-learning.md`
+  - `project-journal.md`
+  - `user-learning-mirror.md`
+- Rebuilt `int/md/aw-int-all.md` from:
+  - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
+  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Added a UTF-8 checker utility at `scripts/check_mojibake.py`
+- Verified the repo after cleanup by running:
+  - `python scripts/check_mojibake.py`
+- Result:
+  - the repo-level mojibake scan now returns clean
+  - the combined intermediate draft is now regenerated from clean source instead of carrying inherited corruption
