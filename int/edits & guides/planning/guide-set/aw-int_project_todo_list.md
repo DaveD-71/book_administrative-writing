@@ -1,5 +1,5 @@
 # Project To-Do List
-## *Administrative Writing, Intermediate* — Editorial & Development Tasks
+## *Administrative Writing, Intermediate* 遯ｶ繝ｻEditorial & Development Tasks
 
 ---
 
@@ -16,7 +16,7 @@ Update status as work progresses. Treat the detail fields as operational control
 
 ---
 
-## NOW — Active Tasks
+## NOW 遯ｶ繝ｻActive Tasks
 
 | # | Task | Detail | Status |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Update status as work progresses. Treat the detail fields as operational control
 
 ---
 
-## PINNED — Confirmed For Later
+## PINNED 遯ｶ繝ｻConfirmed For Later
 
 These items are agreed and will be handled at the appropriate later stage. They are not in question; only deferred.
 
@@ -43,10 +43,11 @@ These items are agreed and will be handled at the appropriate later stage. They 
 | P3 | Develop answer key / sample responses | Write answer-key and sample-response support only after the content, QA, and full review are stable. The answer-key layer should be based on the final module files, not on the earlier split-unit baseline. | INT-7 | Deferred |
 | P4 | Regenerate combined draft | Rebuild `int/md/aw-int-all.md` only after the module-file source set is revised and signed off. Do not treat the current combined draft as an editable working file. | INT-7 | Deferred |
 | P5 | Defer Word-formatting work until Markdown sign-off | Production formatting should follow content sign-off, not compete with revision control. Word-format work should happen only after the intermediate Markdown source is stable. | Late-stage | Deferred |
+| P6 | Build student-response placeholder and print-layout layer | After the student-book text is signed off, plan and insert the handwritten-response placeholders needed for the printed course book. Standardize the placeholder system, decide where document-space boxes belong, and prepare the final page-layout layer for print production. Use `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` as the source-of-truth planning document for placeholder types, placement rules, and layout labels. | INT-7, P4 | Deferred |
 
 ---
 
-## REFERENCE — Agreed Task Sequence
+## REFERENCE 遯ｶ繝ｻAgreed Task Sequence
 
 The agreed order for completing the intermediate book is:
 
@@ -58,8 +59,9 @@ The agreed order for completing the intermediate book is:
 6. pinned capstone / rubric follow-through that remains valid after the intervention rebuild
 7. `INT-6` whole-book QA gate
 8. `INT-7` full review
-9. `P3` answer key / sample responses
-10. `P4` regenerate combined draft
+9. `P4` regenerate combined draft
+10. `P6` student-response placeholder and print-layout layer
+11. `P3` answer key / sample responses
 
 Current active point in that sequence:
 
@@ -68,7 +70,7 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE — Stage Outputs And Control Files
+## REFERENCE 遯ｶ繝ｻStage Outputs And Control Files
 
 | Stage | Main Output / Control File |
 |---|---|
@@ -81,13 +83,14 @@ Current active point in that sequence:
 | Wave 4 execution brief | `int/edits & guides/planning/guide-set/aw-int_wave4_execution_brief.md` |
 | QA stage definition | `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` |
 | Full-review stage definition | `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` |
+| Student-response layout planning | `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` |
 | Live editing source | `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md` |
 | Reference-only unit baseline | `int/md/units/aw-int-01.md` to `aw-int-23.md` |
 | Reference-only combined draft | `int/md/aw-int-all.md` |
 
 ---
 
-## REFERENCE — Key Decisions Already Made
+## REFERENCE 遯ｶ繝ｻKey Decisions Already Made
 
 | Decision | Detail |
 |---|---|
@@ -108,7 +111,7 @@ Current active point in that sequence:
 
 ---
 
-## REFERENCE — Current Priorities Inside INT-5A
+## REFERENCE 遯ｶ繝ｻCurrent Priorities Inside INT-5A
 
 The immediate revision priorities are:
 

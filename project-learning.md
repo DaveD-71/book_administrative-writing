@@ -595,8 +595,28 @@ Historical note:
 - Status: `monitor`
 - Scope: project/control
 - Context: cross-book formatting normalization during the intermediate intervention stage
-- Observation: the live intermediate module files now use the advanced-style unit heading format `## Unit X — Title` instead of the earlier draft-style `## X. Title`. The intermediate wording remains simpler and level-appropriate, but the structural heading format is now aligned across both books.
-- Preferred behavior: keep the normalized `Unit X — Title` heading format in future intermediate module edits unless a later project-level formatting decision intentionally replaces it
+- Observation: the live intermediate module files now use the advanced-style unit heading format `## Unit X 窶・Title` instead of the earlier draft-style `## X. Title`. The intermediate wording remains simpler and level-appropriate, but the structural heading format is now aligned across both books.
+- Preferred behavior: keep the normalized `Unit X 窶・Title` heading format in future intermediate module edits unless a later project-level formatting decision intentionally replaces it
 
 
 
+
+
+### 2026-03-31T12:00:00+09:00 - Student-Response Placeholder And Print-Layout Stage Added For Both Books
+
+- Status: `monitor`
+- Scope: project/finish-sequence
+- Context: late-stage student-book production planning
+- Observation: both textbook tracks now explicitly include a post-text-sign-off student-response placeholder and print-layout stage. New source-of-truth planning files define a shared five-type placeholder system (`PH-1` to `PH-5`), placement rules, and standardized box labels for handwritten student responses:
+- adv/edits & guides/planning/guide-set/aw-adv_student-response-layout_plan.md
+- int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md
+- Preferred behavior: treat placeholder planning and insertion as a formal late-stage production task rather than an ad hoc formatting step; apply it after the content review stage and before final print production
+
+
+### 2026-03-31T12:35:00+09:00 - Intermediate Module 6 Now Clears The INT-5A Parity Floor With A Stronger Integrated-Task Support Layer
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: continuing `INT-5A` Wave 4 with `Module 6` as the first priority target
+- Observation: `int/md/first_draft_modules/aw-int_mod6.md` was expanded from about `7,249` words to about `8,233` words through targeted support additions rather than new task proliferation. The pass added explicit planning/control scaffolds for audience split, correction consistency, and cross-document consistency in Units 19, 20, and 22, plus stronger portfolio assembly, portfolio balance, and capstone rebuild support in Unit 23 and a module-level rebuild lab. This now clears the `INT-5A` Module 6 parity floor of `8,126` words.
+- Preferred behavior: treat Module 6 as having reached the floor with a stronger integrated-writing support layer, and move the next `INT-5A` priority pass to Module 3 unless a later quality review reveals a specific remaining Module 6 weakness

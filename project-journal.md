@@ -901,7 +901,7 @@ Historical note:
 - Changed the unit heading format from draft-style:
   - `## 1. Title`
 - to the advanced-aligned structural format:
-  - `## Unit 1 — Title`
+  - `## Unit 1 窶・Title`
 - Kept the intermediate title wording itself unchanged so the learner-facing naming remains simpler than the advanced book while the cross-book structural format is now consistent
 
 
@@ -910,7 +910,7 @@ Historical note:
 ### 2026-03-23T10:43:54.0114595+09:00 - Startup Bootstrap Pair Was Resynchronized After The Repo-Level AGENTS Update
 
 - Read the active user-level and repo-level `AGENTS.md` files plus the current user/project memory files for the active workspace
-- Confirmed the active workspace root as `\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing`
+- Confirmed the active workspace root as `\\prod-fs-gen01\WorkFile\04_蝨ｨ螳・共蜍兔笘・げ繝ｭ繝ｼ繝舌Ν繝薙ず繝阪せ謗ｨ騾ｲ驛ｨ・亥惠螳・ｼ噂繝ｩ繝ｳ繧ｲ繝ｼ繧ｸ繧ｵ繝ｼ繝薙せ隱ｲ\Dobson・亥惠螳・ｼ噂04. Projects\code\book_administrative-writing`
 - Confirmed the workspace is the `main` branch of a git repo with `origin` configured and no pending remote update reported by `git fetch --dry-run origin`
 - Detected drift in the duplicated bootstrap pair: the repo `AGENTS.md` had `Bootstrap-Version: 2026-03-22T16:33:28.5113488+09:00` while the user-level `AGENTS.md` was still at `2026-03-17T18:58:15.2116200+09:00`
 - Detected the same kind of startup-sync drift in user memory: `user-learning-mirror.md` carried the newer merged entry set while `%USERPROFILE%\.codex\memories\user-learning.md` lagged behind
@@ -1138,3 +1138,36 @@ Historical note:
 - Regenerated the combined intermediate draft from the final six module files so the live source set and combined reference draft are aligned again
 - Result:
   - the intermediate live modules, structural profiles, QA control layer, and combined draft now match the implemented INT-5A sync scope with the identified drift removed
+
+
+### 2026-03-31T12:00:00+09:00 - Added Student-Response Placeholder Planning Stage For Both Textbooks
+
+- Scanned the live advanced and intermediate student-book source files to identify where handwritten response space will be needed in print layout
+- Decided on a shared five-type placeholder system across the series:
+- `PH-1` short response
+- `PH-2` paragraph response
+- `PH-3` short document
+- `PH-4` long document
+- `PH-5` multi-part pack
+- Recorded the placement rules in new planning files:
+- adv/edits & guides/planning/guide-set/aw-adv_student-response-layout_plan.md
+- int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md
+- Updated both project to-do lists so the placeholder / print-layout layer is now an explicit late-stage production task rather than an informal downstream formatting step
+
+
+### 2026-03-31T12:35:00+09:00 - Applied Focused Wave 4 Rebuild Passes To Intermediate Module 6 Until The Floor Was Cleared
+
+- Continued `INT-5A` on the live source file:
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Added targeted integrated-task support rather than new generic exercises:
+  - `Reader-Control Planning Board` in Unit 19
+  - `Correction Control Board` in Unit 20
+  - `Planning Board - Three Documents from One Situation` in Unit 22
+  - `Cross-Document Consistency Check` in Unit 22
+  - `Portfolio Assembly Board`, `Portfolio Balance Check`, and `Capstone Rebuild Routine` in Unit 23
+  - `Module 6 rebuild lab` in the module review layer
+- Recounted the module after the pass:
+  - Module 6 now measures about `8,233` words
+- Result:
+  - Module 6 now gives substantially stronger support for audience differentiation, cross-document consistency, portfolio assembly, and final rebuild habits
+  - the module now clears the `INT-5A` parity floor for Module 6 and can be treated as the first completed Wave 4 priority target

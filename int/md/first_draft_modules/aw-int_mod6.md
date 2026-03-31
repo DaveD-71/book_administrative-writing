@@ -1,4 +1,4 @@
-﻿# MODULE 6. Capstone & Applied Administrative Writing
+# MODULE 6. Capstone & Applied Administrative Writing
 
 ## Module Guide
 
@@ -14,12 +14,12 @@ By the end of this module, you should be able to:
 When you use this module, do not skip the support layer:
 
 - compare the model versions before you draft
-- read the 窶忤hy this works窶・note for audience and document control
+- read the `Why this works`note for audience and document control
 - use the self-check before freer or final writing
 - complete the editing practice so you separate reader needs clearly
 - use the transfer extension to show that the skill can move to a new multi-document context
 
-## Unit 19 窶・Integrated Task 1: Combined Email + Internal Explanation
+## Unit 19 - Integrated Task 1: Combined Email + Internal Explanation
 
 ### Focus
 
@@ -32,7 +32,7 @@ By the end of this unit, you should be able to:
 
 ### Scenario Overview
 
-You receive an update from an external office stating that one of the applicant窶冱 documents cannot be accepted because a signature is missing. Your colleague has asked you to follow up and also explain the issue to your team.
+You receive an update from an external office stating that one of the applicant's documents cannot be accepted because a signature is missing. Your colleague has asked you to follow up and also explain the issue to your team.
 
 In this unit, you will write:
 
@@ -44,7 +44,7 @@ In this unit, you will write:
 
 Read the scenario and answer the questions.
 
-**Scenario:** The external office reports that the applicant窶冱 "Form B 窶・Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
+**Scenario:** The external office reports that the applicant's "Form B - Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
 
 1. What is the problem?  
 
@@ -92,59 +92,59 @@ Good multi-document writing keeps the same facts but changes:
 - detail
 - immediate purpose
 
-### Language 窶・Writing for Two Audiences
+### Language - Writing for Two Audiences
 
 #### External Email (Polite, Clear, Concise)
 
 - Thank you for your message.
 
-- We have checked the documents窶ｦ
+- We have checked the documents...
 
-- Could you please confirm窶ｦ?
+- Could you please confirm...?
 
 - We appreciate your assistance.
 
 #### Internal Explanation (Neutral, Informative)
 
-- The external office informed us that窶ｦ
+- The external office informed us that...
 
-- The issue concerns窶ｦ
+- The issue concerns...
 
-- The applicant will need to窶ｦ
+- The applicant will need to...
 
-- Further updates will follow once窶ｦ
+- Further updates will follow once...
 
 **Transfer reminder**
 
 If the two texts sound almost the same, the audience control is probably too weak.
 
-### Practice A 窶・Rewrite for Audience & Tone
+### Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
-#### External Office 竊・Make it polite
+#### External Office ->Make it polite
 
 "Send us the correct form."
-竊・
+->
 
-#### Internal Team 竊・Make it neutral and concise
+#### Internal Team ->Make it neutral and concise
 
 "They said the applicant messed up the form again."
-竊・
+->
 
-#### External Office 竊・Make it complete and professional
+#### External Office ->Make it complete and professional
 
 "What is the problem?"
-竊・
+->
 
-#### Internal Team 竊・Make it clear and factual
+#### Internal Team ->Make it clear and factual
 
-"The form is wrong but they didn窶冲 explain well."
-竊・
+"The form is wrong but they didn't explain well."
+->
 
-### Guided Practice 窶・Write the External Email
+### Guided Practice - Write the External Email
 
-Write a **4窶・ sentence** external follow-up email to the external office based on the scenario.
+Write a **4-5 sentence** external follow-up email to the external office based on the scenario.
 
 Include:
 
@@ -160,9 +160,9 @@ Include:
 
 Write your email:
 
-### Guided Practice 窶・Write the Internal Explanation
+### Guided Practice - Write the Internal Explanation
 
-Write a **4窶・ sentence** explanation for your colleagues or team.
+Write a **4-5 sentence** explanation for your colleagues or team.
 Include:
 
 - Background
@@ -202,13 +202,30 @@ Before writing the full pair, check:
 3. Does each text have a different immediate purpose?
 4. Will each reader understand what matters to them?
 
-### Freer Practice 窶・Choose One Integrated Scenario
+### Reader-Control Planning Board
+
+Before writing the full pair, note the same situation in two different ways.
+
+| Control point | External email | Internal explanation |
+|---|---|---|
+| Main job | ask for action or clarification | help the team understand the issue |
+| Tone | polite, cooperative | neutral, factual |
+| Key fact that must stay the same | | |
+| Detail that this reader needs most | | |
+| Next step to mention | | |
+
+**Why this works**
+
+Writers often lose audience control because they start drafting too quickly.  
+This board slows the decision down just enough to keep the two texts linked but not identical.
+
+### Freer Practice - Choose One Integrated Scenario
 
 Choose one scenario and write **both**:
 
-1. A short external inquiry email (4窶・ sentences)
+1. A short external inquiry email (4-5 sentences)
 
-2. A short internal explanation (4窶・ sentences)
+2. A short internal explanation (4-5 sentences)
 
 #### Options
 
@@ -240,13 +257,13 @@ Rewrite it as:
 
 Use the same core facts, but change the tone and detail for each audience.
 
-### Extended Writing Task 窶・Multi-Purpose Communication
+### Extended Writing Task - Multi-Purpose Communication
 
 Write:
 
-- One external-style email (6窶・ sentences)
+- One external-style email (6-8 sentences)
 
-- One internal paragraph (6窶・ sentences)
+- One internal paragraph (6-8 sentences)
 
 Each should:
 
@@ -272,10 +289,10 @@ Write your extended tasks:
 
 ### Homework
 
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external 竊・internal, or internal 竊・external).
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
 ---
 
-## Unit 20 窶・Integrated Task 2: Revision + Notice Writing
+## Unit 20 - Integrated Task 2: Revision + Notice Writing
 
 ### Focus
 
@@ -312,7 +329,7 @@ Document-control check:
 
 Read the scenario and answer the questions.
 
-**Scenario:** The review schedule for May was shared last week. The date for "Document Verification 窶・Stage 2" was listed as **24 May**, but the correct date is **27 May**.
+**Scenario:** The review schedule for May was shared last week. The date for "Document Verification - Stage 2" was listed as **24 May**, but the correct date is **27 May**.
 
 1. What information needs revision?  
 
@@ -351,7 +368,7 @@ Revision writing becomes trustworthy when:
 
 If the correction changes between texts, the writing may create more confusion instead of solving it.
 
-### Language 窶・Revision vs. Notice
+### Language - Revision vs. Notice
 
 #### Revision Message (External Office)
 
@@ -361,9 +378,9 @@ Useful phrases:
 
 - Thank you for your cooperation.
 
-- We would like to provide a correction regarding窶ｦ
+- We would like to provide a correction regarding...
 
-- The correct date is窶ｦ
+- The correct date is...
 
 - We apologise for any confusion.
 
@@ -373,11 +390,11 @@ Purpose: Inform staff of the correction.
 Tone: Neutral, informative.
 Useful phrases:
 
-- Please note the following correction窶ｦ
+- Please note the following correction...
 
-- The updated schedule is窶ｦ
+- The updated schedule is...
 
-- This change affects窶ｦ
+- This change affects...
 
 - Further updates will follow.
 
@@ -386,33 +403,33 @@ Useful phrases:
 The external revision message repairs the relationship with the outside reader.  
 The internal notice repairs shared team understanding.
 
-### Practice A 窶・Rewrite for Audience & Tone
+### Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
-#### External Office 竊・Make it polite and clear
+#### External Office ->Make it polite and clear
 
 "The schedule was wrong. Here is the real date."
-竊・
+->
 
-#### Internal Team 竊・Make it neutral and concise
+#### Internal Team ->Make it neutral and concise
 
 "Someone made a mistake in the schedule."
-竊・
+->
 
-#### External Office 竊・Make it complete
+#### External Office ->Make it complete
 
 "The day changed."
-竊・
+->
 
-#### Internal Team 竊・Make it professional
+#### Internal Team ->Make it professional
 
 "We told them the wrong date."
-竊・
+->
 
-### Guided Practice 窶・Write the Revision Message
+### Guided Practice - Write the Revision Message
 
-Write a **4窶・ sentence** message to the external office that received the earlier schedule.
+Write a **4-5 sentence** message to the external office that received the earlier schedule.
 
 Include:
 
@@ -430,9 +447,9 @@ Include:
 
 Write your message:
 
-### Guided Practice 窶・Write the Internal Notice
+### Guided Practice - Write the Internal Notice
 
-Write a **4窶・ sentence** internal notice for colleagues in your section.
+Write a **4-5 sentence** internal notice for colleagues in your section.
 
 Include:
 
@@ -455,13 +472,35 @@ Before writing both texts, ask:
 3. Is the internal version shorter and more factual?
 4. Can each reader see what happens next?
 
-### Freer Practice 窶・Choose One Scenario
+### Correction Control Board
+
+Use this board before drafting the full pair.
+
+| Question | External revision message | Internal notice |
+|---|---|---|
+| What was the original incorrect detail? | | |
+| What is the corrected detail? | | |
+| Who reads this text? | | |
+| What action should the reader take now? | | |
+| What tone is most useful here? | | |
+
+**Common problem**
+
+Many weak correction sets change the wording of the correction itself.  
+If the corrected fact changes between the two documents, the pair becomes less useful than the original mistake.
+
+**Safer drafting rule**
+
+Keep the corrected fact identical.  
+Change the tone, format, and amount of explanation around that fact.
+
+### Freer Practice - Choose One Scenario
 
 Choose one and write both texts:
 
-1. A revision/clarification message (4窶・ sentences)
+1. A revision/clarification message (4-5 sentences)
 
-2. A short internal notice (4窶・ sentences)
+2. A short internal notice (4-5 sentences)
 
 #### Options
 
@@ -491,13 +530,13 @@ Write a short `3-4` line correction log for one scenario in this unit:
 - who needs the correction
 - what document each reader receives
 
-### Extended Writing Task 窶・Combined Communication Pack
+### Extended Writing Task - Combined Communication Pack
 
 Write:
 
-- One external-style revision message (6窶・ sentences)
+- One external-style revision message (6-8 sentences)
 
-- One internal notice (6窶・ sentences)
+- One internal notice (6-8 sentences)
 
 each using:
 
@@ -532,7 +571,7 @@ A) a revision email, or
 B) an internal notice.
 ---
 
-## Unit 21 窶・Writing for Consistency Across a Team
+## Unit 21 - Writing for Consistency Across a Team
 
 ### Focus
 
@@ -620,7 +659,7 @@ Write the inconsistencies you notice:
 
 - Clarity:
 
-### Language 窶・Standardising Team Writing
+### Language - Standardising Team Writing
 
 #### Standard Openings
 
@@ -630,11 +669,11 @@ Write the inconsistencies you notice:
 
 #### Standard Purpose Statements
 
-- I am writing to confirm窶ｦ
+- I am writing to confirm...
 
-- We would like to request窶ｦ
+- We would like to request...
 
-- We have a question regarding窶ｦ
+- We have a question regarding...
 
 #### Standard Closings
 
@@ -658,20 +697,20 @@ Write the inconsistencies you notice:
 
 Team consistency is a reader-support tool, not only a style preference.
 
-### Practice A 窶・Improve Team Consistency
+### Practice A - Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
 
 1. "Hi, I checked it. What should I do now?"
-   竊・
+   ->
 
 2. "Hello, Please check. I think there is a problem."
-   竊・
+   ->
 
 3. "Team, The file is wrong. Fix it."
-   竊・
+   ->
 
-### Practice B 窶・Standardise Format & Tone
+### Practice B - Standardise Format & Tone
 
 Rewrite the email with correct formatting, tone, and clarity.
 
@@ -695,18 +734,18 @@ Mini standard:
 
 **Original:**
 Subject: Document  
-Hey, I don窶冲 think this is right. Check it and tell me.
+Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
 
-### Guided Practice 窶・Rewrite Three Short Messages
+### Guided Practice - Rewrite Three Short Messages
 
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
 
 #### Message 1
 
-We didn窶冲 get the form. Send it.
+We didn't get the form. Send it.
 
 #### Message 2
 
@@ -727,9 +766,9 @@ Before writing your style guide or rewritten set, check:
 3. Is the structure similar across the messages?
 4. Is the formatting predictable?
 
-### Freer Practice 窶・Create a Mini Style Guide
+### Freer Practice - Create a Mini Style Guide
 
-Write a short (6窶・ sentence) style guide for your team.
+Write a short (6-8 sentence) style guide for your team.
 Include:
 
 - Purpose of the guide
@@ -765,14 +804,14 @@ Then note:
 - which style rule you applied
 - how the revised version became easier to read
 
-### Extended Writing Task 窶・Rewrite a Set of Communications
+### Extended Writing Task - Rewrite a Set of Communications
 
 Rewrite the following **three related messages** so they all follow a consistent team style.
 Treat them as messages your team may send to colleagues or external contacts about related work.
 
 #### Original Messages
 
-1. "We told them already, but they didn窶冲 send the file. Ask again."
+1. "We told them already, but they didn't send the file. Ask again."
 
 2. "Hi, I think the new form is wrong. They need fix it."
 
@@ -793,7 +832,7 @@ Treat them as messages your team may send to colleagues or external contacts abo
 Find one email you wrote and one written by a colleague. Rewrite both so they follow the same writing standard.
 ---
 
-## Unit 22 窶・Multi-Document Communication Task
+## Unit 22 - Multi-Document Communication Task
 
 ### Focus
 
@@ -864,9 +903,9 @@ The tone, detail, and purpose change.
 
 If all three texts sound the same, the communication set does not match the real workplace need.
 
-### Language 窶・Three Audiences, Three Styles
+### Language - Three Audiences, Three Styles
 
-#### (A) Applicant Reply 窶・Polite, supportive, clear
+#### (A) Applicant Reply - Polite, supportive, clear
 
 - Thank you for your message.
 
@@ -874,21 +913,21 @@ If all three texts sound the same, the communication set does not match the real
 
 - One document has not yet been received.
 
-- We will update the status once窶ｦ
+- We will update the status once...
 
-#### (B) Colleague Message 窶・Neutral, cooperative
+#### (B) Colleague Message - Neutral, cooperative
 
-- I reviewed the applicant file and noticed窶ｦ
+- I reviewed the applicant file and noticed...
 
-- The status has not been updated because窶ｦ
+- The status has not been updated because...
 
-- Once the document is received, we can窶ｦ
+- Once the document is received, we can...
 
-#### (C) Internal Notice 窶・Concise, factual
+#### (C) Internal Notice - Concise, factual
 
-- Please note the following update窶ｦ
+- Please note the following update...
 
-- The applicant窶冱 file remains incomplete.
+- The applicant's file remains incomplete.
 
 - The review will continue once the missing document is submitted.
 
@@ -896,25 +935,25 @@ If all three texts sound the same, the communication set does not match the real
 
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 
-### Practice A 窶・Match Tone to Audience
+### Practice A - Match Tone to Audience
 
 Rewrite each sentence for the appropriate audience.
 
-1. (Applicant) "You didn窶冲 upload the file we need."
-   竊・
+1. (Applicant) "You didn't upload the file we need."
+   ->
 
-2. (Colleague) "The applicant didn窶冲 follow the instructions again."
-   竊・
+2. (Colleague) "The applicant didn't follow the instructions again."
+   ->
 
 3. (Internal Notice) "The file is wrong and causing trouble."
-   竊・
+   ->
 
 4. (Applicant) "Send the document quickly."
-   竊・
+   ->
 
-### Guided Practice 窶・Write the Applicant Reply
+### Guided Practice - Write the Applicant Reply
 
-Write a **4窶・ sentence** email replying directly to the applicant.
+Write a **4-5 sentence** email replying directly to the applicant.
 Include:
 
 - Thank-you / acknowledgement
@@ -929,9 +968,9 @@ Include:
 
 Write your reply:
 
-### Guided Practice 窶・Write the Colleague Explanation
+### Guided Practice - Write the Colleague Explanation
 
-Write a **4窶・ sentence** explanation for the colleague who assumed the file was complete.
+Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
 Include:
 
 - What you checked
@@ -944,9 +983,9 @@ Include:
 
 Write your explanation:
 
-### Guided Practice 窶・Write the Internal Notice
+### Guided Practice - Write the Internal Notice
 
-Write a **3窶・ sentence** notice for the wider team.
+Write a **3-4 sentence** notice for the wider team.
 Include:
 
 - Heading/topic
@@ -986,19 +1025,40 @@ Before writing the full three-document set, check:
 3. Are the shared facts consistent across all three?
 4. Is the tone right for each audience?
 
-### Freer Practice 窶・Full Multi-Document Set
+### Planning Board - Three Documents from One Situation
+
+Before drafting the full set, map the same situation across the three readers.
+
+| Reader | Main need | Detail level | Tone | Next action |
+|---|---|---|---|---|
+| Applicant | | | | |
+| Colleague | | | | |
+| Team notice readers | | | | |
+
+**Why this works**
+
+In a three-document task, the biggest risk is not grammar.  
+It is overlap. One message starts doing another message's job.
+
+Use this quick test:
+
+- if a sentence helps only the applicant, keep it out of the team notice
+- if a sentence explains team workflow only, keep it out of the applicant reply
+- if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
+
+### Freer Practice - Full Multi-Document Set
 
 Choose **one** of the scenarios below and write all three documents:
 
-1. Applicant reply (5窶・ sentences)
+1. Applicant reply (5-6 sentences)
 
-2. Colleague message (4窶・ sentences)
+2. Colleague message (4-5 sentences)
 
-3. Internal notice (3窶・ sentences)
+3. Internal notice (3-4 sentences)
 
 #### Options
 
-A. A system error prevented an applicant窶冱 file from uploading correctly.  
+A. A system error prevented an applicant's file from uploading correctly.  
 B. Two versions of a form were submitted; one is incomplete.  
 C. The applicant sent the correct file, but in the wrong format.
 
@@ -1018,15 +1078,15 @@ Write:
 2. colleague opening
 3. team notice opening
 
-### Extended Writing Task 窶・Multi-Audience Communication Pack
+### Extended Writing Task - Multi-Audience Communication Pack
 
 From the original scenario (missing applicant document), write a polished communication set:
 
-- **Applicant email (8窶・0 sentences)**
+- **Applicant email (8-10 sentences)**
 
-- **Colleague explanation (6窶・ sentences)**
+- **Colleague explanation (6-8 sentences)**
 
-- **Internal notice (4窶・ sentences)**
+- **Internal notice (4-5 sentences)**
 
 All three must:
 
@@ -1042,6 +1102,32 @@ Make sure the applicant email, colleague explanation, and internal notice do not
 
 Write your communication pack:
 
+### Cross-Document Consistency Check
+
+Before finalizing the pack, compare the three drafts line by line.
+
+Use this control check:
+
+| Check point | Applicant email | Colleague explanation | Internal notice |
+|---|---|---|---|
+| same missing document named clearly | | | |
+| same status of the review process | | | |
+| same next step or condition for progress | | | |
+| tone matches the reader | | | |
+| unnecessary detail removed | | | |
+
+**Why this works**
+
+In a multi-document task, the reader may never see the other two texts, but the writer still needs the whole set to agree internally.
+
+If one document says the review is paused and another says the review will continue immediately, the communication pack is not yet usable.
+
+Safer final check:
+
+- keep the shared fact language stable
+- let the explanation depth change by reader
+- let the action sentence change only when the reader's job is different
+
 ### Reflection
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
@@ -1055,7 +1141,7 @@ Write your communication pack:
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 ---
 
-## Unit 23 窶・Portfolio Writing & Final Revision
+## Unit 23 - Portfolio Writing & Final Revision
 
 ### Focus
 
@@ -1096,7 +1182,7 @@ Your final submission should show:
 
 ### Warm-Up: Select Your Drafts
 
-Look back at your writing from Units 1窶・2.
+Look back at your writing from Units 1-22.
 Choose **three drafts** you want to improve:
 
 1. One email (internal or external)
@@ -1110,7 +1196,7 @@ Write the titles or sources of the drafts you chose:
 2.
 3.
 
-### Language 窶・Advanced Editing Checklist
+### Language - Advanced Editing Checklist
 
 Before revising your drafts, check for:
 
@@ -1167,7 +1253,7 @@ It should show that you can:
 Revision shows professional control.  
 A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
 
-### Practice A 窶・Edit a Draft Email
+### Practice A - Edit a Draft Email
 
 Choose **one email** from your previous work.
 Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
@@ -1176,7 +1262,7 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 
 **Revised email:**
 
-### Practice B 窶・Edit a Paragraph
+### Practice B - Edit a Paragraph
 
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
@@ -1199,7 +1285,7 @@ Revision focus:
 
 **Revised paragraph:**
 
-### Practice C 窶・Edit a Notice or Short Message
+### Practice C - Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
@@ -1230,18 +1316,40 @@ Before you submit your portfolio, ask:
 3. Are the final versions consistent in formatting and style?
 4. Does the new Unit 23 document fit the rest of the portfolio?
 
-### Guided Practice 窶・Create a New Document
+### Portfolio Assembly Board
+
+Use this board before creating the final set.
+
+| Portfolio item | Reader | Main job | Strongest skill it shows | What still needs revision |
+|---|---|---|---|---|
+| Revised external email | | | | |
+| Revised internal explanation or notice | | | | |
+| Revised report-style paragraph | | | | |
+| New Unit 23 document | | | | |
+
+**Why this works**
+
+A weaker portfolio often repeats the same writing job in slightly different forms.  
+A stronger portfolio shows range: different readers, different purposes, and visible revision improvement.
+
+Before finalizing, check:
+
+- Do two items sound too similar?
+- Is one item clearly weaker than the rest?
+- Does the new Unit 23 document add a skill the earlier pieces do not already show?
+
+### Guided Practice - Create a New Document
 
 Write **one new document** based on a scenario below.
 Choose ONE:
 
-- A clear update email to a colleague, supervisor, or applicant (6窶・ sentences)
+- A clear update email to a colleague, supervisor, or applicant (6-8 sentences)
 
-- A meeting summary for a colleague or manager (5窶・ sentences)
+- A meeting summary for a colleague or manager (5-6 sentences)
 
-- A short external inquiry email to another office (5窶・ sentences)
+- A short external inquiry email to another office (5-6 sentences)
 
-- A problem explanation for an internal report (6窶・ sentences)
+- A problem explanation for an internal report (6-8 sentences)
 
 Write your new document:
 
@@ -1286,6 +1394,40 @@ Portfolio quality reminder:
 - the set should show range, not repetition
 - each document should feel finished enough to keep in a real workplace file set
 - the new Unit 23 piece should not feel weaker than the revised earlier pieces
+
+### Portfolio Balance Check
+
+Before submission, test whether the portfolio really shows range.
+
+| Check question | Yes / No |
+|---|---|
+| Does the set include more than one audience type? | |
+| Does at least one piece explain a problem or status clearly? | |
+| Does at least one piece ask for or guide action? | |
+| Does at least one piece show revision from a weaker earlier draft? | |
+| Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? | |
+
+**If you answer `No` to any item**
+
+Do not only polish sentence-level grammar.  
+Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
+
+### Capstone Rebuild Routine
+
+If one portfolio item still feels weaker than the rest, do not only proofread it.  
+Run this short rebuild routine:
+
+1. underline the sentence that does the main job
+2. check whether the reader is clear in the opening
+3. circle one vague or unnecessary phrase
+4. replace one sentence so the next action becomes clearer
+5. read the whole document once more for tone consistency
+
+**Rebuild question**
+
+What is this document supposed to help the reader do next?
+
+If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
 
 ### Portfolio Review Rubric
 
@@ -1378,6 +1520,23 @@ Before you finish the course, use this routine on one integrated task set.
 - Check whether facts stay consistent when the audience changes.
 - Remove one sentence that belongs in a different document.
 - Add one sentence that makes the next step clearer.
+
+### Module 6 rebuild lab
+
+Use this quick lab on any integrated task from Units 19 to 23.
+
+1. Choose one pair or set of linked documents.
+2. Write the shared fact in one short sentence.
+3. Write one reader-only detail for each document.
+4. Check whether any sentence from one document was copied too directly into another.
+5. Rewrite the weakest opening so the reader and purpose are clear immediately.
+
+**What this lab trains**
+
+- cross-document consistency
+- audience separation
+- stronger opening control
+- cleaner carry-forward revision habits
 - Use the portfolio rubric to identify the weakest criterion and revise once more.
 
 ### Module 6 transfer task

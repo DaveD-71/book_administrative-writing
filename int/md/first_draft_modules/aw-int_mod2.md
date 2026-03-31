@@ -1,4 +1,4 @@
-﻿# MODULE 2. Essential Email Writing for Administrative Contexts
+# MODULE 2. Essential Email Writing for Administrative Contexts
 
 ## Module Guide
 
@@ -14,12 +14,12 @@ By the end of this module, you should be able to:
 Use the module support actively:
 
 - compare the model versions before you draft
-- use the 窶忤hy this works窶・notes to understand reader effect
+- use the `Why this works`notes to understand reader effect
 - check the self-edit prompts before freer writing
 - use the editing tasks to repair weak requests and unclear email structure
 - finish the transfer extension so the skill works in a new email situation
 
-## Unit 4 窶・Email Layout and Standard Phrases
+## Unit 4 - Email Layout and Standard Phrases
 
 ### Focus
 
@@ -35,17 +35,17 @@ A professional email has a **clear structure** so that the reader can easily und
 
 #### Basic Email Layout
 
-1. **Subject line** 窶・a short summary of the purpose
+1. **Subject line** - a short summary of the purpose
 
-2. **Greeting** 窶・polite opening
+2. **Greeting** - polite opening
 
-3. **Opening sentence** 窶・main purpose of the email
+3. **Opening sentence** - main purpose of the email
 
-4. **Body** 窶・details, explanation, or information
+4. **Body** - details, explanation, or information
 
-5. **Closing sentence** 窶・final point or next step (not a command)
+5. **Closing sentence** - final point or next step (not a command)
 
-6. **Sign-off** 窶・polite closing phrase + name
+6. **Sign-off** - polite closing phrase + name
 
 ### Warm-Up: Which Email Is Better?
 
@@ -57,7 +57,7 @@ Subject: Question
 
 Hi,
 
-I don窶冲 understand this part.
+I don't understand this part.
 
 Can you tell me what it means?
 
@@ -129,21 +129,21 @@ A good subject line is:
 
 - Request for Corrected File
 
-#### Practice 窶・Improve the Subject Line
+#### Practice - Improve the Subject Line
 
 Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects lower-level writers often produce before they learn standard email patterns.
 
 1. Subject: I have a question about the document that you sent to me yesterday
-   竊・
+   ->
 
 2. Subject: I want to ask you about when I should submit the missing form for the application
-   竊・
+   ->
 
 3. Subject: I am writing this email because there is a problem with the online system today
-   竊・
+   ->
 
 4. Subject: I need to know the reason why the applicant has not received the confirmation message yet
-   竊・
+   ->
 
 **Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
 
@@ -177,7 +177,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 - Please let me know if you need further information.
 
-#### Practice 窶・Choose an Opening and Closing
+#### Practice - Choose an Opening and Closing
 
 Select an appropriate opening and closing for each situation.
 
@@ -205,13 +205,13 @@ The first sentence must tell the reader **why you are writing**.
 
 #### Useful Phrases
 
-- I am writing to ask about窶ｦ
+- I am writing to ask about...
 
-- I would like to confirm窶ｦ
+- I would like to confirm...
 
-- I have a question regarding窶ｦ
+- I have a question regarding...
 
-- I would like to provide an update about窶ｦ
+- I would like to provide an update about...
 
 **Teaching point**
 
@@ -225,18 +225,18 @@ It tells the reader what kind of message this is:
 
 That helps the reader prepare for the rest of the email.
 
-#### Practice 窶・Write the Opening Sentence
+#### Practice - Write the Opening Sentence
 
 Write a clear opening sentence for each situation.
 
 1. You want to ask about a missing document.
-   竊・
+   ->
 
 2. You want to confirm a deadline.
-   竊・
+   ->
 
 3. You want to give information about a system update.
-   竊・
+   ->
 
 ### Guided Practice: Build a Complete Email
 
@@ -252,7 +252,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Body (2窶・ sentences):**
+- **Body (2-3 sentences):**
 
 - **Closing sentence:**
 
@@ -333,7 +333,7 @@ This helps you separate the job of the subject line from the job of the opening 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 ---
 
-## Unit 5 窶・Requesting Clarification
+## Unit 5 - Requesting Clarification
 
 ### Focus
 
@@ -391,25 +391,25 @@ Use these phrases when the information is not clear.
 
 #### Asking for Clarification
 
-- Could you clarify窶ｦ?
+- Could you clarify...?
 
-- Could you explain窶ｦ?
+- Could you explain...?
 
-- I窶冦 not sure I understand窶ｦ
+- I'm not sure I understand...
 
-- Could you give me more information about窶ｦ?
+- Could you give me more information about...?
 
-- I have a question regarding窶ｦ
+- I have a question regarding...
 
 #### Checking Your Understanding
 
-- Do you mean that窶ｦ?
+- Do you mean that...?
 
-- Just to confirm,窶ｦ
+- Just to confirm,...
 
-- Should I understand that窶ｦ?
+- Should I understand that...?
 
-### Practice A 窶・Make These Questions Clearer
+### Practice A - Make These Questions Clearer
 
 Rewrite the questions to make them specific and professional.
 
@@ -425,16 +425,16 @@ Mini contrast:
 - Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
 
 1. What do you mean?  
-   竊・
+   ->
 
-2. I don窶冲 understand this part.  
-   竊・
+2. I don't understand this part.  
+   ->
 
 3. Tell me the details.  
-   竊・
+   ->
 
 4. What should I do?  
-   竊・
+   ->
 
 ### Language 2: Asking About Missing or Confusing Information
 
@@ -454,7 +454,7 @@ Mini contrast:
 
 - Could you explain what information is needed in Section 4?
 
-- I窶冦 not sure I understand the deadline窶播oes it mean Friday or Monday?
+- I'm not sure I understand the deadline: does it mean Friday or Monday?
 
 - Could you confirm whether the applicant needs to submit this document now or later?
 
@@ -466,23 +466,23 @@ Clarification writing is easier to answer when the reader does not need to guess
 - where the problem is
 - what kind of answer is needed
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
 1. "This is different from what you said before."  
-   竊・
+   ->
 
 2. "The instructions are confusing."  
-   竊・
+   ->
 
-3. "I don窶冲 know what to write in this part."  
-   竊・
+3. "I don't know what to write in this part."  
+   ->
 
-4. "The system doesn窶冲 work."  
-   竊・
+4. "The system doesn't work."  
+   ->
 
-### Practice C 窶・Clarification from Context
+### Practice C - Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
@@ -507,23 +507,23 @@ Your questions:
 1.
 2.
 
-### Extended Guided Practice 窶・Rewrite and Improve
+### Extended Guided Practice - Rewrite and Improve
 
 Rewrite each unclear message into a **clear, polite clarification request**.
 
-1. "I don窶冲 get this. Explain it."
-   竊・
+1. "I don't get this. Explain it."
+   ->
 
 2. "Which one is correct? These files look different."
-   竊・
+   ->
 
 3. "What am I supposed to do with this form?"
-   竊・
+   ->
 
 4. "This part is wrong."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Clarification Email
+### Guided Practice - Write a Clarification Email
 
 Write an email asking for clarification.
 
@@ -552,9 +552,9 @@ Before writing your own clarification email, check:
 3. Did I avoid blame or frustration?
 4. Could the reader answer without asking me another question first?
 
-### Freer Practice 窶・Write Two Clarification Emails
+### Freer Practice - Write Two Clarification Emails
 
-Write **two short emails**, each 3窶・ sentences, asking for clarification. Keep each email focused on **one topic only**.
+Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
 Choose **two** situations from the list below:
 
@@ -574,17 +574,17 @@ Write your emails:
 
 Rewrite each message as a better clarification request.
 
-1. I don窶冲 understand this instruction.
-   竊・
+1. I don't understand this instruction.
+   ->
 
 2. The file names are confusing.
-   竊・
+   ->
 
 3. The deadline message is different from the form.
-   竊・
+   ->
 
 4. The supervisor said to prepare the report.
-   竊・
+   ->
 
 ### Transfer Extension: One Topic, One Email
 
@@ -600,9 +600,9 @@ Then note:
 - what information you removed
 - why the stronger email is easier to answer
 
-### Extended Writing Task 窶・Clarification Summary Paragraph
+### Extended Writing Task - Clarification Summary Paragraph
 
-Write one **informational paragraph** (5窶・ sentences) explaining a situation where clarification is needed.
+Write one **informational paragraph** (5-6 sentences) explaining a situation where clarification is needed.
 Your paragraph should:
 
 - Describe the background
@@ -644,7 +644,7 @@ Write your paragraph:
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 ---
 
-## Unit 6 窶・Communicating Delays or Changes
+## Unit 6 - Communicating Delays or Changes
 
 ### Focus
 
@@ -698,19 +698,19 @@ The stronger version works because the reader learns:
 
 That reduces uncertainty and extra follow-up questions.
 
-### Language 1 窶・Useful Phrases for Delays and Changes
+### Language 1 - Useful Phrases for Delays and Changes
 
 #### Neutral Phrases
 
-- There will be a delay in窶ｦ
+- There will be a delay in...
 
 - The schedule has been adjusted.
 
 - The process will take longer than expected.
 
-- There has been a change in窶ｦ
+- There has been a change in...
 
-- The update will affect窶ｦ
+- The update will affect...
 
 #### Explaining the Reason (Optional in admin English)
 
@@ -732,7 +732,7 @@ That reduces uncertainty and extra follow-up questions.
 
 - The new schedule will be shared shortly.
 
-### Practice A 窶・Improve the Clarity
+### Practice A - Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
@@ -748,18 +748,18 @@ Mini contrast:
 - Stronger: "The meeting is delayed until Thursday because the updated file set is not yet complete."
 
 1. "The meeting is delayed."
-   竊・
+   ->
 
 2. "We changed the procedure."
-   竊・
+   ->
 
 3. "The file will be late."
-   竊・
+   ->
 
 4. "The system is slow."
-   竊・
+   ->
 
-### Language 2 窶・Logical Order for Update Messages
+### Language 2 - Logical Order for Update Messages
 
 A clear update message usually follows this pattern:
 
@@ -786,7 +786,7 @@ The paragraph moves in a useful order:
 
 This order helps the reader understand both the situation and the practical meaning of the delay.
 
-### Practice B 窶・Reorder to Make a Clear Update
+### Practice B - Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
 
@@ -800,20 +800,20 @@ Write the best order:
 2.
 3.
 
-### Practice C 窶・Add Supporting Information
+### Practice C - Add Supporting Information
 
-Expand each message to 2窶・ sentences by adding supporting information.
+Expand each message to 2-3 sentences by adding supporting information.
 
 1. "The deadline has been extended."
-   竊・
+   ->
 
-2. "The applicant窶冱 file will be reviewed next week."
-   竊・
+2. "The applicant's file will be reviewed next week."
+   ->
 
 3. "There has been a change in the procedure."
-   竊・
+   ->
 
-### Guided Practice 窶・Write an Update Email
+### Guided Practice - Write an Update Email
 
 Write a clear and neutral email explaining a delay or change.
 
@@ -827,7 +827,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Explanation (2窶・ sentences):**
+- **Explanation (2-3 sentences):**
 
 - **Neutral next step:**
 
@@ -842,9 +842,9 @@ Before writing your own update email, check:
 3. Did I show the effect on the reader or schedule?
 4. Did I include a neutral next-step line?
 
-### Freer Practice 窶・Choose a Scenario and Write
+### Freer Practice - Choose a Scenario and Write
 
-Write **two short update emails** (3窶・ sentences each).
+Write **two short update emails** (3-4 sentences each).
 
 #### Scenario Options
 
@@ -868,16 +868,16 @@ Write your emails:
 Rewrite each update so the reader does not need to ask a second question.
 
 1. The meeting changed.
-   竊・
+   ->
 
 2. We cannot finish this today.
-   竊・
+   ->
 
 3. There was a problem with the documents.
-   竊・
+   ->
 
 4. The system update will affect the process.
-   竊・
+   ->
 
 ### Transfer Extension: Turn an Email Update into a Report Line
 
@@ -891,9 +891,9 @@ Rewrite it as a short internal report paragraph by changing:
 
 Keep the same core facts, but make the new version sound like part of a report, not an email.
 
-### Extended Writing Task 窶・Update Summary Paragraph
+### Extended Writing Task - Update Summary Paragraph
 
-Write a paragraph (5窶・ sentences) summarising a delay or change as part of a report or internal update.
+Write a paragraph (5-6 sentences) summarising a delay or change as part of a report or internal update.
 
 Your paragraph should:
 
@@ -920,7 +920,7 @@ Write your paragraph:
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 ---
 
-## Unit 7 窶・Making Requests Politely
+## Unit 7 - Making Requests Politely
 
 ### Focus
 
@@ -943,9 +943,9 @@ Read each pair. Choose the request that sounds more professional.
 
    b) Could you let me know the deadline?
 
-3. a) I need the applicant窶冱 number.  
+3. a) I need the applicant's number.  
 
-   b) Could you provide the applicant窶冱 number?
+   b) Could you provide the applicant's number?
 
 **Discussion:** What makes the (b) sentences more polite?
 
@@ -972,7 +972,7 @@ The stronger version works because it:
 - tells the reader exactly what is needed
 - gives a reason that makes the request easier to understand
 
-### Language 1 窶・Levels of Politeness in Requests
+### Language 1 - Levels of Politeness in Requests
 
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
@@ -982,33 +982,33 @@ Different request forms sound **more or less polite**. In administrative writing
 
 - the formality of the situation
 
-#### Politeness Scale (from direct 竊・most polite)
+#### Politeness Scale (from direct ->most polite)
 
 | Form | Example | Tone/Use |
 
 |------|---------|-----------|
 
-| **Can you窶ｦ?** | Can you send the file? | Casual, spoken English; too direct for administrative emails. |
+| **Can you...?** | Can you send the file? | Casual, spoken English; too direct for administrative emails. |
 
-| **Could you窶ｦ?** | Could you send the file? | Standard polite request; appropriate for most situations. |
+| **Could you...?** | Could you send the file? | Standard polite request; appropriate for most situations. |
 
-| **Could you please窶ｦ?** | Could you please send the file? | Polite and slightly more formal. |
+| **Could you please...?** | Could you please send the file? | Polite and slightly more formal. |
 
-| **Would you be able to窶ｦ?** | Would you be able to send the file? | Polite, softer, useful when asking for something more difficult. |
+| **Would you be able to...?** | Would you be able to send the file? | Polite, softer, useful when asking for something more difficult. |
 
-| **Would it be possible to窶ｦ?** | Would it be possible to send the file? | Formal, respectful, avoids pressure. |
+| **Would it be possible to...?** | Would it be possible to send the file? | Formal, respectful, avoids pressure. |
 
-| **I would appreciate it if you could窶ｦ** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
+| **I would appreciate it if you could...** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
 
 #### Key Notes
 
-- **窶廚an you窶ｦ?窶・* is grammatically correct but **not appropriate** in most administrative emails.
+- **`Can you...?` is grammatically correct but **not appropriate** in most administrative emails.
 
-- **窶廚ould you窶ｦ?窶・* is the safest default.
+- **`Could you...?` is the safest default.
 
-- **窶弩ould you be able to窶ｦ窶・* softens the request and reduces pressure.
+- **`Would you be able to...?` softens the request and reduces pressure.
 
-- **窶廬 would appreciate it if窶ｦ窶・* shows gratitude in advance and sounds formal.
+- **`I would appreciate it if...` shows gratitude in advance and sounds formal.
 
 #### Adding Context (Why You Need the Information)
 
@@ -1020,7 +1020,7 @@ Often a request is clearer when you add **one short context sentence**.
 
 - This will help us complete the process.
 
-### Practice A 窶・Rewrite the Request
+### Practice A - Rewrite the Request
 
 Rewrite each message to make it **polite, clear, and complete**.
 
@@ -1038,18 +1038,18 @@ Mini request frame:
 - short reason
 
 1. "Send the updated file."
-   竊・
+   ->
 
 2. "Tell me the deadline."
-   竊・
+   ->
 
 3. "Check this."
-   竊・
+   ->
 
 4. "Give me the information."
-   竊・
+   ->
 
-### Language 2 窶・Requests with Specific Details
+### Language 2 - Requests with Specific Details
 
 A good request includes:
 
@@ -1065,9 +1065,9 @@ A good request includes:
 
 - Could you let me know **which office will handle the review**?
 
-- I would appreciate it if you could confirm **the applicant窶冱 submission date**.
+- I would appreciate it if you could confirm **the applicant's submission date**.
 
-### Practice B 窶・Make the Request More Specific
+### Practice B - Make the Request More Specific
 
 Each message below is polite but **not specific**. Improve it.
 
@@ -1083,24 +1083,24 @@ Mini contrast:
 - Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"
 
 1. "Could you send the document?"
-   竊・
+   ->
 
 2. "Could you check this?"
-   竊・
+   ->
 
 3. "Could you confirm the information?"
-   竊・
+   ->
 
 4. "Could you update me?"
-   竊・
+   ->
 
-### Language 3 窶・Requests Without Sounding Too Direct
+### Language 3 - Requests Without Sounding Too Direct
 
 Administrative English avoids:
 
-- Imperatives (Send, Tell, Check窶ｦ)
+- Imperatives (Send, Tell, Check...)
 
-- Emotional language (I really need窶ｦ, You didn窶冲窶ｦ, You must窶ｦ)
+- Emotional language (I really need..., You didn't..., You must...)
 
 - Pressure (ASAP, immediately)
 
@@ -1124,27 +1124,27 @@ Good request writing balances:
 
 - when available
 
-### Practice C 窶・Soften the Request
+### Practice C - Soften the Request
 
 Rewrite each message so it is **polite but not weak**, using softening phrases.
 
 1. "Send this today."
-   竊・
+   ->
 
 2. "Tell me the result now."
-   竊・
+   ->
 
 3. "Check this immediately."
-   竊・
+   ->
 
 4. "Give me the corrected file as soon as possible."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Request Email
+### Guided Practice - Write a Request Email
 
 Use the prompts to write a complete request email.
 
-**Situation:** You need to request the applicant窶冱 updated contact information for the next review stage.
+**Situation:** You need to request the applicant's updated contact information for the next review stage.
 
 Write your email:
 
@@ -1154,7 +1154,7 @@ Write your email:
 
 - **Opening sentence:**
 
-- **Request (1窶・ sentences):**
+- **Request (1-2 sentences):**
 
 - **Context / reason (1 sentence):**
 
@@ -1171,9 +1171,9 @@ Before writing your request email, check:
 3. Did I add a short reason if it helps?
 4. Did I avoid pressure words or commands?
 
-### Freer Practice 窶・Write Two Request Emails
+### Freer Practice - Write Two Request Emails
 
-Write **two short emails** (3窶・ sentences each) requesting information or action.
+Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
 
 #### Options
@@ -1200,16 +1200,16 @@ Write your emails:
 Rewrite each message so it keeps the same request but sounds more professional.
 
 1. Send me the corrected file today.
-   竊・
+   ->
 
 2. Tell me the meeting time now.
-   竊・
+   ->
 
 3. Check this and reply quickly.
-   竊・
+   ->
 
 4. Give me the missing information.
-   竊・
+   ->
 
 ### Transfer Extension: One Need, Two Levels of Politeness
 
@@ -1225,9 +1225,9 @@ Then decide:
 - which version is better for a colleague
 - which version is better for an outside office
 
-### Extended Writing Task 窶・Request Paragraph
+### Extended Writing Task - Request Paragraph
 
-Write a **neutral paragraph** (5窶・ sentences) explaining:
+Write a **neutral paragraph** (5-6 sentences) explaining:
 
 - What information is needed
 
@@ -1237,7 +1237,7 @@ Write a **neutral paragraph** (5窶・ sentences) explaining:
 
 - What the next part of the report will describe
 
-(No direct request窶杯his is background information for a report.)
+(No direct request- this is background information for a report.)
 
 Write your paragraph:
 

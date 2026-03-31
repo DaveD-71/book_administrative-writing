@@ -1,4 +1,4 @@
-﻿# MODULE 3. Writing Procedures & Internal Explanations
+# MODULE 3. Writing Procedures & Internal Explanations
 
 ## Module Guide
 
@@ -19,7 +19,7 @@ Work through the module with these habits:
 - complete the editing practice so you can repair structure, not only create it
 - use the transfer extension to move the skill into a new internal-writing context
 
-## Unit 8 窶・Writing Simple Procedures
+## Unit 8 - Writing Simple Procedures
 
 ### Focus
 
@@ -51,7 +51,7 @@ Steps to create a new file record:
 
 2. Select "New Record" from the main menu.
 
-3. Enter the applicant窶冱 basic information.
+3. Enter the applicant's basic information.
 
 4. Save the record and confirm the entry.
 
@@ -105,7 +105,7 @@ Procedures reduce reader error when:
 - each step has one job
 - the format stays consistent
 
-### Language 1 窶・Clear Instruction Verbs
+### Language 1 - Clear Instruction Verbs
 
 Common verbs used in procedures:
 
@@ -141,23 +141,23 @@ Mini contrast:
 
 The stronger version tells the reader exactly what action sequence to follow.
 
-### Practice A 窶・Improve the Verb Choice
+### Practice A - Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
 
 1. "Make sure the file is OK."
-   竊・
+   ->
 
 2. "Put the name in the system."
-   竊・
+   ->
 
 3. "Look at the form to see if something is missing."
-   竊・
+   ->
 
 4. "Send it to the right place."
-   竊・
+   ->
 
-### Language 2 窶・Logical Order
+### Language 2 - Logical Order
 
 Procedures must follow a logical sequence.
 
@@ -166,12 +166,12 @@ Procedures must follow a logical sequence.
 If the order is wrong, even correct instructions can cause mistakes.  
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 
-### Practice B 窶・Put the Steps in Order
+### Practice B - Put the Steps in Order
 
 Steps for verifying an application:
 A. Review the file for missing documents.
 B. Save the updated file.
-C. Enter the applicant窶冱 information into the system.
+C. Enter the applicant's information into the system.
 D. Confirm the submission date.
 
 Write the correct order:
@@ -180,7 +180,7 @@ Write the correct order:
 3.
 4.
 
-### Practice C 窶・Add Missing Steps
+### Practice C - Add Missing Steps
 
 Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
@@ -194,15 +194,15 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
 #### Procedure 2
 
-1. Review the applicant窶冱 form.
+1. Review the applicant's form.
 
 2. Check for required signatures.
 3.
 4.
 
-### Guided Practice 窶・Write a Simple Procedure
+### Guided Practice - Write a Simple Procedure
 
-Write a short procedure (4窶・ steps) based on the situation.
+Write a short procedure (4-5 steps) based on the situation.
 
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
@@ -225,9 +225,9 @@ Before writing your own procedures, check:
 3. Does the order match the real task?
 4. Will the user know when the task is finished?
 
-### Freer Practice 窶・Write Two Procedures
+### Freer Practice - Write Two Procedures
 
-Write **two different procedures** (4窶・ steps each).
+Write **two different procedures** (4-5 steps each).
 Choose any two situations below:
 
 #### Options
@@ -257,7 +257,7 @@ Procedure 2:
 6.
 7.
 
-### Extended Writing Task 窶・Write a Section of a Simple Manual
+### Extended Writing Task - Write a Section of a Simple Manual
 
 Write a **short manual section** using this fixed format:
 
@@ -321,10 +321,10 @@ This helps you turn short instructions into a more usable manual-style section.
 
 ### Homework
 
-Choose a routine task from your job. Write a 6窶・ step procedure explaining how to complete it.
+Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 ---
 
-## Unit 9 窶・Internal Notices
+## Unit 9 - Internal Notices
 
 ### Focus
 
@@ -349,7 +349,7 @@ An **internal notice** is a short message shared inside a department or organisa
 
 #### Example (Part of a Larger Internal Bulletin)
 
-Internal Notice 窶・File System Update  
+Internal Notice - File System Update  
 The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
 
 ### Warm-Up: Which Notice Is Clearer?
@@ -362,7 +362,7 @@ There was a problem with the system today. Please be careful. We will check it. 
 
 #### Notice B
 
-System Notice 窶・Temporary Error  
+System Notice - Temporary Error  
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
 **Discussion:** Why is Notice B clearer and more useful?
@@ -397,7 +397,7 @@ Notice A feels weak because the reader still does not know:
 A notice is useful when it reduces uncertainty.  
 The reader should be able to understand the situation without asking a second question immediately.
 
-### Language 1 窶・Structure of an Internal Notice
+### Language 1 - Structure of an Internal Notice
 
 A clear internal notice usually includes:
 
@@ -411,16 +411,16 @@ A clear internal notice usually includes:
 
 #### Model Notice
 
-Internal Notice 窶・Document Review Schedule  
+Internal Notice - Document Review Schedule  
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 
-### Practice A 窶・Identify the Parts
+### Practice A - Identify the Parts
 
 Label each part with: **H = Heading**, **B = Background**, **E = Essential information**, **N = Next step**.
 
 1. The application review will take place next Wednesday.
 
-2. Internal Notice 窶・Application Review
+2. Internal Notice - Application Review
 
 3. Additional checks may be required for older files.
 
@@ -432,7 +432,7 @@ Your answers:
 3.
 4.
 
-### Language 2 窶・Neutral Tone
+### Language 2 - Neutral Tone
 
 Internal notices use **neutral, factual language**. Avoid:
 
@@ -445,16 +445,16 @@ Internal notices use **neutral, factual language**. Avoid:
 #### Rewrite These to Make Them Neutral
 
 1. "The delay is very annoying."
-   竊・
+   ->
 
 2. "Everyone MUST check the new files today!"
-   竊・
+   ->
 
 3. "I think the system is acting strange again."
-   竊・
+   ->
 
 4. "Sorry everyone, but the meeting is suddenly cancelled."
-   竊・
+   ->
 
 ### Self-Check Before Freer Practice
 
@@ -465,7 +465,7 @@ Check your notice before moving on:
 3. Does the message tell the reader what happens next?
 4. Is the notice short but complete?
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each notice so it is clearer and more professional.
 
@@ -483,22 +483,22 @@ Mini notice frame:
 - what staff should do next
 
 1. "The meeting will change."
-   竊・
+   ->
 
 2. "There is something wrong with the file."
-   竊・
+   ->
 
 3. "We are doing something with the system tomorrow."
-   竊・
+   ->
 
 4. "The documents are not ready yet."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Short Internal Notice
+### Guided Practice - Write a Short Internal Notice
 
 Write a notice based on the situation below.
 
-**Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00窶・2:00. Users may not be able to access certain functions.
+**Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00-12:00. Users may not be able to access certain functions.
 
 Write your notice:
 
@@ -510,7 +510,7 @@ Write your notice:
 
 - **Next step:**
 
-### Freer Practice 窶・Write Two Notices
+### Freer Practice - Write Two Notices
 
 Choose two situations and write two internal notices.
 Write each notice for colleagues inside your organisation.
@@ -560,9 +560,9 @@ Expand it into a longer bulletin-style paragraph by adding:
 
 This shows how a short internal message can grow into a fuller internal information text.
 
-### Extended Writing Task 窶・Internal Bulletin Section
+### Extended Writing Task - Internal Bulletin Section
 
-Write a section for an internal bulletin (6窶・ sentences) read by staff in your department. Include:
+Write a section for an internal bulletin (6-8 sentences) read by staff in your department. Include:
 
 - Main topic
 
@@ -601,7 +601,7 @@ Write your bulletin section:
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 ---
 
-## Unit 10 窶・Explaining Problems Clearly
+## Unit 10 - Explaining Problems Clearly
 
 ### Focus
 
@@ -616,23 +616,23 @@ By the end of this unit, you should be able to:
 
 A good explanation of a problem includes:
 
-- **Background** 窶・what was expected
+- **Background** - what was expected
 
-- **Issue** 窶・what went wrong or what is unclear
+- **Issue** - what went wrong or what is unclear
 
-- **Cause** 窶・why it happened (if known)
+- **Cause** - why it happened (if known)
 
-- **Effect** 窶・impact on work or schedule
+- **Effect** - impact on work or schedule
 
-- **Current status** 窶・what is happening now
+- **Current status** - what is happening now
 
-This is not a request and not a complaint窶俳nly **neutral information**.
+This is not a request and not a complaint - only **neutral information**.
 
 ### Warm-Up: Identify the Missing Information
 
 Read the sentences. What is missing from each?
 
-1. "The system isn窶冲 working."
+1. "The system isn't working."
 
 2. "There is a problem with the file."
 
@@ -662,7 +662,7 @@ Write what information is missing:
 
 A weak explanation usually names only the problem:
 
-- *The system isn窶冲 working.*
+- *The system isn't working.*
 
 A stronger explanation helps the reader understand the full picture:
 
@@ -676,13 +676,13 @@ A stronger explanation helps the reader understand the full picture:
 Professional readers often need to make decisions after reading the explanation.  
 They need more than the problem label; they need a usable structure.
 
-### Language 1 窶・Useful Phrases
+### Language 1 - Useful Phrases
 
 #### Describing the Issue
 
-- There is an issue with窶ｦ
+- There is an issue with...
 
-- We found a problem in窶ｦ
+- We found a problem in...
 
 - The system is not responding.
 
@@ -704,7 +704,7 @@ They need more than the problem label; they need a usable structure.
 
 - This has delayed the review.
 
-- Users may not be able to access窶ｦ
+- Users may not be able to access...
 
 - The examination cannot continue at this stage.
 
@@ -729,7 +729,7 @@ These phrases help because they separate different jobs:
 
 When these jobs are mixed together, the explanation feels vague.
 
-### Practice A 窶・Improve the Explanation
+### Practice A - Improve the Explanation
 
 Rewrite each message to make it clearer and more complete.
 
@@ -745,18 +745,18 @@ Mini contrast:
 - Stronger: "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
 
 1. "There is a problem with the file."
-   竊・
+   ->
 
 2. "The system is slow."
-   竊・
+   ->
 
-3. "We can窶冲 finish the work."
-   竊・
+3. "We can't finish the work."
+   ->
 
 4. "The document is wrong."
-   竊・
+   ->
 
-### Practice B 窶・Add Details
+### Practice B - Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
 
@@ -773,17 +773,17 @@ Mini support model:
 - Detail 2: "The review can continue once the missing items are uploaded."
 
 1. The application cannot be opened.
-   竊・
+   ->
 
 2. The review is delayed.
-   竊・
+   ->
 
 3. The uploaded form is incomplete.
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Problem Explanation
+### Guided Practice - Write a Problem Explanation
 
-Write a short explanation (4窶・ sentences).
+Write a short explanation (4-5 sentences).
 
 **Situation:** You are updating your supervisor about a system error that has stopped reviewers from accessing several files.
 
@@ -810,7 +810,7 @@ Before writing your own problem descriptions, check:
 3. Did I explain the effect on work or schedule?
 4. Did I tell the reader the current status?
 
-### Freer Practice 窶・Write Two Problem Descriptions
+### Freer Practice - Write Two Problem Descriptions
 
 Choose two situations and write clear explanations.
 For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
@@ -849,9 +849,9 @@ Write a short `5-6` sentence manager update that includes:
 
 Keep the tone factual and neutral.
 
-### Extended Writing Task 窶・Report-Style Description
+### Extended Writing Task - Report-Style Description
 
-Write a paragraph (6窶・ sentences) describing a problem as part of a formal internal report for your manager or team lead.
+Write a paragraph (6-8 sentences) describing a problem as part of a formal internal report for your manager or team lead.
 
 Your paragraph should:
 
@@ -878,7 +878,7 @@ Write your paragraph:
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 ---
 
-## Unit 11 窶・Writing Simple Meeting Summaries
+## Unit 11 - Writing Simple Meeting Summaries
 
 ### Focus
 
@@ -903,8 +903,8 @@ A meeting summary is a **brief record** of important points from a meeting. It:
 
 #### Example (Part of a Larger Report)
 
-Meeting Summary 窶・Review Preparation Meeting  
-The team discussed the schedule for next week窶冱 review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
+Meeting Summary - Review Preparation Meeting  
+The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
 
 ### Warm-Up: Which Summary Is Clearer?
 
@@ -943,7 +943,7 @@ Summary A feels weak because it uses vague words like *many things* and *somethi
 A meeting summary is not a story of everything that happened.  
 It is a practical record for a reader who needs the important points quickly.
 
-### Language 1 窶・Key Elements of a Meeting Summary
+### Language 1 - Key Elements of a Meeting Summary
 
 A clear summary usually includes:
 
@@ -957,15 +957,15 @@ A clear summary usually includes:
 
 #### Useful Phrases
 
-- The team discussed窶ｦ
+- The team discussed...
 
-- It was agreed that窶ｦ
+- It was agreed that...
 
-- The following issues were raised窶ｦ
+- The following issues were raised...
 
-- The next meeting will be窶ｦ
+- The next meeting will be...
 
-- The team will窶ｦ
+- The team will...
 
 **Teaching point**
 
@@ -977,7 +977,7 @@ A stronger summary usually shows:
 - decision or key point
 - next step
 
-### Practice A 窶・Identify the Elements
+### Practice A - Identify the Elements
 
 Label each sentence with: **T = Topic**, **M = Main point**, **D = Decision**, **A = Action item**.
 
@@ -995,22 +995,22 @@ Your answers:
 3.
 4.
 
-### Practice B 窶・Improve the Clarity
+### Practice B - Improve the Clarity
 
 Rewrite each summary to make it clearer.
 
 1. "We talked about some documents. IT will do something."
-   竊・
+   ->
 
 2. "The meeting was long. Many ideas were shared. We will do more later."
-   竊・
+   ->
 
 3. "The form was discussed. Someone needs to fix it."
-   竊・
+   ->
 
-### Guided Practice 窶・Write a Short Meeting Summary
+### Guided Practice - Write a Short Meeting Summary
 
-Write a short paragraph (4窶・ sentences) summarising the meeting.
+Write a short paragraph (4-5 sentences) summarising the meeting.
 
 **Situation:** You are sending a short internal summary to a colleague who missed the meeting. The team met to discuss the April schedule. Two tasks need more time. IT must finish a system update before the review. The next meeting is planned for next Tuesday.
 
@@ -1025,7 +1025,7 @@ Before writing your own summaries, check:
 3. Did I add one next step?
 4. Did I remove unnecessary detail?
 
-### Freer Practice 窶・Write Two Summaries
+### Freer Practice - Write Two Summaries
 
 Choose two situations and write meeting summaries.
 For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
@@ -1061,9 +1061,9 @@ Rewrite it for a manager by making:
 - the action item clearer
 - the next step easier to see
 
-### Extended Writing Task 窶・Meeting Report Section
+### Extended Writing Task - Meeting Report Section
 
-Write a 6窶・ sentence section for a formal internal report summarising a meeting for your team or manager.
+Write a 6-8 sentence section for a formal internal report summarising a meeting for your team or manager.
 Include:
 
 - Purpose of the meeting
@@ -1102,7 +1102,7 @@ Write your report section:
 
 ### Homework
 
-Write a summary of a real meeting you attended this week. Keep it to 5窶・ sentences.
+Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
 
 ## Module 3 Review Workshop
 
