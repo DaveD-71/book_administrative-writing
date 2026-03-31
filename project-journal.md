@@ -1287,3 +1287,29 @@ Historical note:
     - `5C.4 Practice and transfer`
     - `5E.2 Instructional consistency`
     - `5H.1 Section-function fidelity`
+
+
+### 2026-03-31T17:15:00+09:00 - Re-ran Intermediate Round 1 Strictly And Replaced The Earlier Soft Pass Inflation
+
+- Rechecked the live modules and control files under the rule:
+  - if a criterion is not proven clearly enough from the active source, it fails
+- Rewrote `int/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
+- Current criterion-level outcome:
+  - `30` fails
+  - `7` passes
+- The stricter fail set now includes:
+  - Unit 21 design-purpose drift into style-guide writing
+  - unresolved option-quality and sign-off flags still present in the structural profiles
+  - self-study dependence on real workplace / colleague material
+  - uneven transfer signaling in Units 21 and 22
+  - heading / section-order inconsistency across the live module set
+- Result:
+  - the earlier binary rewrite that converted many unresolved items into passes is no longer the active reading
+  - the current Round 1 verdict remains `Fail`, but it is now a much stricter and much broader fail record
+## 2026-03-31
+
+- Saved `int/edits & guides/qa/aw-int_round1_remediation_plan.md`.
+- Implemented the Round 1 remediation pass across `aw-int_mod1.md` to `aw-int_mod6.md`.
+- Repaired Unit 21 and 22 late-book QA blockers, added self-study fallback coverage, normalized heading and output-band issues, and synchronized the structural profiles.
+- Rebuilt `int/edits & guides/qa/aw-int_qa_review_round1.md` as a clean-sheet post-remediation QA record.
+- Round 1 strict verdict now recorded as `Pass`; Intermediate moves next to `INT-7` full review.

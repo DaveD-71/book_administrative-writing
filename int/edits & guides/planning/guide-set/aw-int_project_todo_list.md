@@ -27,8 +27,8 @@ Update status as work progresses. Treat the detail fields as operational control
 | INT-4 | Run whole-book draft revision pass | Revise the live module files only against the completed planning stack. For each module, align unit structure, task sequencing, prompts, output expectations, and scenario spread with the structural profiles, activity framework, and prompt-writing policy. Do not continue active editing in the split unit files unless a later control decision explicitly reopens them as the live source. | Done |
 | INT-5 | Run language-instruction strengthening pass | After the structural revision pass, sharpen actual teaching inside the module files. Add or improve concise conceptual framing, model-text explanation, and guided support where the book still relies too heavily on exposure, phrase lists, or implicit noticing. Keep the teaching lighter and more explicit than the advanced book rather than importing advanced pedagogical density directly. | Done |
 | INT-5A | Run support-parity intervention stage | Execute the blocking intervention defined in `aw-int_Support-Parity Intervention Plan.md`. Revise the control layer and the six live module files until the intermediate book reaches advanced-equivalent support depth, development completeness, and the required `80-90%` module-volume parity band while remaining readable for A2-B1+ learners. | Done |
-| INT-6 | Run whole-book QA gate | Execute the dedicated QA stage only after `INT-5A` is complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, pinned-item confirmation, support-depth parity, and module-volume parity. | In Progress |
-| INT-7 | Run full review | Conduct a post-QA whole-book editorial review using `aw-int_full-review_protocol.md` as the stage definition. Record findings by round outside the planning folder, keep full-review findings distinct from QA findings, and do not proceed to answer-key work until the live module set is stable enough for final support materials. | Pending |
+| INT-6 | Run whole-book QA gate | Execute the dedicated QA stage only after `INT-5A` is complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, pinned-item confirmation, support-depth parity, and module-volume parity. | Done |
+| INT-7 | Run full review | Conduct a post-QA whole-book editorial review using `aw-int_full-review_protocol.md` as the stage definition. Record findings by round outside the planning folder, keep full-review findings distinct from QA findings, and do not proceed to answer-key work until the live module set is stable enough for final support materials. | In Progress |
 
 ---
 
@@ -65,8 +65,8 @@ The agreed order for completing the intermediate book is:
 
 Current active point in that sequence:
 
-- `INT-5A` is complete
-- `INT-6` is now the active stage
+- `INT-6` is complete
+- `INT-7` is now the active stage
 
 ---
 

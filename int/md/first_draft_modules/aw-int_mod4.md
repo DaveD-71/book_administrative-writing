@@ -235,7 +235,7 @@ Before writing your own external inquiries, check:
 ### Freer Practice - Write Two External Inquiry Emails
 
 Choose two situations below.
-For each one, write a short email from your office to another office or organisation that can answer the question.
+For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
 
 #### Options
 
@@ -314,6 +314,8 @@ Write your paragraph:
 ### Homework
 
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
+
+If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
 ---
 
 ## Unit 13 - Providing Simple Explanations
@@ -589,6 +591,8 @@ Write your paragraph:
 ### Homework
 
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
+
+If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
 ---
 
 ## Unit 14 - Responding to Confusion
@@ -839,6 +843,8 @@ Write your paragraph:
 ### Homework
 
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
+
+If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
 ---
 
 ## Unit 15 - Maintaining Consistent Email Style
@@ -1125,6 +1131,8 @@ Write your paragraph:
 ### Homework
 
 Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
+
+If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
 
 ## Module 4 Review Workshop
 

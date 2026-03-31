@@ -80,7 +80,7 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 
-### Language 1: Basic Sentence Pattern (SVO / SVC)
+### Language 1 - Basic Sentence Pattern (SVO / SVC)
 
 Most clear administrative English sentences follow this simple pattern:
 
@@ -132,7 +132,7 @@ Rewrite the word groups as clear SVO or SVC sentences.
 
 5. (system / show / error message / this morning)
 
-### Language 2: Avoiding Unnecessary Complexity
+### Language 2 - Avoiding Unnecessary Complexity
 
 Administrative English should be **short, direct, and clear**.
 
@@ -173,7 +173,7 @@ Rewrite each sentence in a clearer, shorter way.
 4. Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
    Clear:
 
-### Guided Practice: Rewrite for Clarity
+### Guided Practice - Rewrite for Clarity
 
 Rewrite each sentence so that it is easier to read.
 
@@ -200,7 +200,7 @@ Before you write your own message, check each sentence with these questions:
 
 If the answer to one of these is `No`, rewrite the sentence before you continue.
 
-### Freer Practice: Write Clear Administrative Sentences
+### Freer Practice - Write Clear Administrative Sentences
 
 Write a short message to the applicant in **3-4 clear sentences**.
 
@@ -282,6 +282,8 @@ Then answer:
 ### Homework
 
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
+
+If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
 ---
 
 ## Unit 2 - Professional Tone Basics
@@ -336,7 +338,7 @@ The stronger version works because it:
 Professional tone does not mean "very formal words only."  
 It means the reader can cooperate without feeling attacked.
 
-### Language 1: Polite Request Phrases
+### Language 1 - Polite Request Phrases
 
 Administrative emails often use **softened, polite expressions**.
 
@@ -368,7 +370,7 @@ Rewrite the message using a polite request phrase.
 4. Give me the information.
    ->
 
-### Language 2: Professional Tone in Explanations
+### Language 2 - Professional Tone in Explanations
 
 Professional tone is:
 
@@ -442,7 +444,7 @@ You can use these phrases to make your tone more appropriate:
 
 - Thank you for your message regarding...
 
-### Guided Practice: Rewrite the Email
+### Guided Practice - Rewrite the Email
 
 Rewrite the email to make it more polite and professional.
 
@@ -474,7 +476,7 @@ Before writing your own email, check:
 
 If one answer is `No`, improve the draft before moving on.
 
-### Freer Practice: Write Your Own Professional Email
+### Freer Practice - Write Your Own Professional Email
 
 Choose one situation and write a short professional email in **3-4 sentences**.
 
@@ -523,6 +525,8 @@ Then note:
 - why the professional version is better for the reader
 - which phrase from today you used
 
+If you do not want to use a real workplace situation, rewrite one of the Unit 2 freer-practice situations twice instead.
+
 ### Reflection
 
 1. Which polite expression do you want to remember?
@@ -547,6 +551,8 @@ Find one real English email you received that had a **very polite** or **not pol
 - What part sounded polite or not polite?
 
 - How would you rewrite it in a more professional way?
+
+If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
 ---
 
 ## Unit 3 - Paragraph Structure
@@ -644,7 +650,7 @@ In administrative writing, this matters because the reader often needs to know:
 2. what details matter
 3. what the result or next point is
 
-### Language 1: Three-Part Structure
+### Language 1 - Three-Part Structure
 
 A strong paragraph usually includes:
 
@@ -696,7 +702,7 @@ Your labels:
 2.
 3.
 
-### Language 2: Logical Flow Inside a Paragraph
+### Language 2 - Logical Flow Inside a Paragraph
 
 A paragraph should follow a clear, logical order:
 
@@ -827,6 +833,8 @@ If one part is missing, revise the paragraph once more before leaving the unit.
 ### Homework
 
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
+
+If you do not want to use a real paragraph, turn one of your Unit 3 paragraph drafts or one earlier Unit 1 or Unit 2 task into a stronger paragraph instead.
 
 ## Module 1 Review Workshop
 

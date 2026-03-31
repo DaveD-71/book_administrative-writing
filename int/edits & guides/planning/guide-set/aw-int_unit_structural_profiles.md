@@ -173,13 +173,13 @@ Introduce polite, professional email tone through request phrasing, neutral expl
 - `Common Useful Phrases`: provides a reusable phrase bank for early email writing
 - `Guided Practice`: rewrites an impolite draft email
 - `Freer Practice`: produces a short professional email from a bounded scenario set
-- `Reflection` / `Homework`: extends tone awareness to real workplace messages
+- `Reflection` / `Homework`: extends tone awareness to real workplace messages or built-in fallback situations
 
 **Output-length expectation**
 
 - guided output: one rewritten short email
 - freer output: `3-4` sentence professional email
-- homework output: analysis and rewrite of a real email example
+- homework output: analysis and rewrite of a real email example or a built-in fallback situation
 
 **Content flags for revision**
 
@@ -277,13 +277,13 @@ Build control over the basic architecture of a professional administrative email
 **Output-length expectation**
 
 - guided output: one complete short email with a `2-3` sentence body
-- freer output: one complete short email from a scenario choice
-- homework output: one rewritten real email using the unit's structure
+- freer output: one complete short email of `3-4` sentences from a scenario choice
+- homework output: one rewritten real email or built-in fallback email using the unit's structure
 
 **Content flags for revision**
 
 - this unit is the book's first full-email architecture unit and should remain clearly foundational rather than becoming a complex communication-skills unit
-- the freer task currently has no explicit sentence or word band; later revision should decide whether to keep that open or align it more visibly with the surrounding early-book scaffolding
+- the freer task now uses an explicit `3-4` sentence band; keep that visible so the unit stays aligned with the surrounding early-book scaffolding
 - later module planning should preserve the visible link from this layout work into the more function-specific email units that follow immediately after it
 
 **Approved exception**
@@ -316,21 +316,20 @@ Teach learners how to ask focused, polite clarification questions when instructi
 - `Guided Practice`: writes a full clarification email about one defined gap
 - `Freer Practice`: writes two focused short emails on separate clarification topics
 - `Extended Writing Task`: converts the unit skill into a neutral explanatory paragraph about why clarification is needed
-- `Reflection` / `Homework`: pushes transfer into a real unclear instruction or message
+- `Reflection` / `Homework`: pushes transfer into a real unclear instruction or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one complete clarification email
 - freer output: `2` short emails, each `3-5` sentences
 - extended output: one `5-6` sentence informational paragraph
-- homework output: one real-world clarification question based on recent instructions or email input
+- homework output: one clarification question based on recent instructions or on a built-in fallback scenario
 
 **Content flags for revision**
 
 - this unit still combines question-writing, email writing, and a short explanatory paragraph, but the freer layer is now limited to `2` short emails so the total production load stays more controlled
 - later profile drafting should preserve the unit's strong one-topic-per-email discipline, because that constraint helps keep clarification writing teachable at this level
-- before sign-off, the freer-practice options should all remain situation-anchored rather than collapsing back into topic-label shorthand
-- before sign-off, the freer-practice options should be checked for parallel detail level and apparent difficulty
+- the freer-practice options now use a shorter, more parallel set; keep them situation-anchored and one-topic-per-email
 
 **Approved exception**
 
@@ -361,14 +360,14 @@ Teach learners how to explain delays, schedule changes, and procedural updates i
 - `Guided Practice`: writes a complete short update email around a defined delay
 - `Freer Practice`: produces two short update emails from scenario choices
 - `Extended Writing Task`: transfers the skill into a report-style summary paragraph
-- `Reflection` / `Homework`: consolidates the neutral update language and applies it to a real notice or email
+- `Reflection` / `Homework`: consolidates the neutral update language and applies it to a real notice/email or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one update email with a `2-3` sentence explanation block
 - freer output: `2` short update emails, each `3-5` sentences
 - extended output: one `5-7` sentence update-summary paragraph
-- homework output: one rewritten delay/change notice or email
+- homework output: one rewritten delay/change notice or email, with a built-in fallback scenario available
 
 **Content flags for revision**
 
@@ -376,7 +375,7 @@ Teach learners how to explain delays, schedule changes, and procedural updates i
 - later revision should check whether the optional reason-language note is clear enough for learners to judge when explanation is needed and when it can stay minimal
 - later revision should name the register difference between `because` and `due to` more explicitly if both continue to appear in learner-facing practice items
 - later module planning should preserve the bridge from email updates into the short report-style paragraph, because that bridge prepares later internal update writing
-- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
+- the current freer-practice options are already parallel enough to preserve; keep them tied to one reader and one change family per email
 
 **Approved exception**
 
@@ -408,21 +407,21 @@ Build control over polite administrative requests by teaching learners how to ch
 - `Guided Practice`: writes a complete request email with reason and softened closing
 - `Freer Practice`: writes two short request emails from bounded options
 - `Extended Writing Task`: transfers the unit skill into a neutral background paragraph for report context
-- `Reflection` / `Homework`: consolidates preferred request structures and applies them to real workplace use
+- `Reflection` / `Homework`: consolidates preferred request structures and applies them to real workplace use or built-in fallback scenarios
 
 **Output-length expectation**
 
 - guided output: one complete request email with a `1-2` sentence request block plus brief context
 - freer output: `2` short request emails, each `3-5` sentences
 - extended output: one `5-6` sentence request-background paragraph
-- homework output: one real request rewritten using `2` different polite request structures
+- homework output: one request rewritten using `2` different polite request structures, with a built-in fallback scenario available
 
 **Content flags for revision**
 
 - this unit is appropriately dense because request writing needs explicit comparison of politeness levels, but later revision should keep the explanation readable and avoid turning the politeness scale into grammar-heavy theory
 - the table formatting in `Language 1` should be checked during later module revision because it is more formatting-sensitive than the surrounding units
 - later profile drafting should preserve the distinction between polite request language and the separate background-paragraph extension so the unit does not blur email action and report explanation into one uncontrolled task family
-- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
+- the current freer-practice options are bounded and parallel enough to keep; preserve the one-request / one-reason shape
 
 **Approved exception**
 
@@ -569,7 +568,7 @@ Teach learners how to explain workplace problems clearly and neutrally by organi
 **Content flags for revision**
 
 - this unit should remain clearly informational and non-complaint-based, since that distinction is part of the teaching load
-- the freer tasks currently do not state an explicit sentence band; later revision should decide whether to leave them open or align them more clearly with the surrounding paragraph-range scaffold
+- the freer tasks now use an explicit short-paragraph band so the problem-explanation sequence remains aligned with the surrounding scaffold
 - later module planning should preserve the background -> issue -> effect logic because it prepares the move into meeting summaries and later integrated internal writing
 
 **Approved exception**
@@ -605,14 +604,14 @@ Teach learners how to write short, clear meeting summaries that record topic, ma
 **Output-length expectation**
 
 - guided output: one short summary paragraph of `4-6` sentences
-- freer output: `2` meeting summaries from scenario choices
+- freer output: `2` meeting summaries of `4-5` sentences from scenario choices
 - extended output: one report section of `6-8` sentences
-- homework output: one real meeting summary of `5-7` sentences
+- homework output: one real meeting summary of `5-7` sentences or one built-in fallback scenario summary
 
 **Content flags for revision**
 
 - this unit should remain the book's main summary-and-action-point unit rather than drifting into minutes-writing or full report writing
-- later revision should check whether the freer tasks need a more explicit sentence-range cue for consistency with the guided and homework layers
+- the freer tasks now state an explicit short summary range to keep the unit aligned with the guided and homework layers
 - later module planning should preserve the emphasis on decisions and action items, because that feature gives the unit its strongest practical value and prepares later integrated workplace tasks
 
 **Approved exception**
@@ -659,21 +658,20 @@ Teach learners how to write short, polite external inquiry emails that provide e
 - `Guided Practice`: writes one complete external inquiry email from a defined unclear-process situation
 - `Freer Practice`: writes two inquiry emails from bounded scenario choices
 - `Extended Writing Task`: transfers the skill into a short neutral paragraph about why an inquiry is needed
-- `Reflection` / `Homework`: consolidates inquiry-writing choices and applies the skill to a real external notice or instruction
+- `Reflection` / `Homework`: consolidates inquiry-writing choices and applies the skill to a real external notice/instruction or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one complete external inquiry email
-- freer output: `2` external inquiry emails from scenario choices
+- freer output: `2` external inquiry emails of `3-4` sentences from scenario choices
 - extended output: one neutral inquiry paragraph of `5-6` sentences
-- homework output: one inquiry email asking one clear question about a real external instruction or notice
+- homework output: one inquiry email asking one clear question about a real external instruction/notice or a built-in fallback scenario
 
 **Content flags for revision**
 
 - this unit should remain clearly outward-facing and distinct from the clarification unit in Module 2 by keeping its emphasis on reader background and external-office tone
-- later revision should check whether the freer tasks need an explicit sentence-range cue for stronger consistency with nearby units
 - later module planning should preserve the unit's strong connection between background-setting and question clarity, because that is what makes the inquiry teachable at this level
-- later revision should keep at least one worked mini-inquiry directly beside the phrase-bank material so learners can see background, question, and closing operating together
+- keep the existing worked mini-inquiry directly beside the phrase-bank material so learners can see background, question, and closing operating together
 
 **Approved exception**
 
@@ -703,21 +701,20 @@ Teach learners how to provide clear, simple explanations of processes, changes, 
 - `Guided Practice`: writes one short structured explanation
 - `Freer Practice`: writes two explanations from bounded workplace situations
 - `Extended Writing Task`: transfers the skill into a report-style explanatory paragraph
-- `Reflection` / `Homework`: consolidates the explanatory structure and applies it to a real explanation text
+- `Reflection` / `Homework`: consolidates the explanatory structure and applies it to a real explanation text or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one explanation of `4-6` sentences
 - freer output: `2` explanations from scenario choices
 - extended output: one explanatory paragraph of `6-8` sentences
-- homework output: one rewritten real explanation using the unit structure
+- homework output: one rewritten real explanation or one built-in fallback explanation using the unit structure
 
 **Content flags for revision**
 
 - this unit should stay simpler and more reader-friendly than the problem-explanation unit in Module 3 by keeping its focus on plain explanation rather than diagnostic reporting
-- later revision should check whether the distinction between explanation, issue, and effect is clear enough for lower-level learners across the guided and freer tasks
 - later module planning should preserve the move from single explanation to report paragraph, because that bridge supports the later integrated units
-- later revision should keep at least one worked mini-example near the phrase-support section so learners can see background, reason, and effect operating together
+- keep the existing worked mini-example near the phrase-support section so learners can see background, reason, and effect operating together
 
 **Approved exception**
 
@@ -747,14 +744,14 @@ Teach learners how to respond politely and clearly when another person is confus
 - `Guided Practice`: writes one short clarification response
 - `Freer Practice`: writes two responses from bounded misunderstanding scenarios
 - `Extended Writing Task`: transfers the skill into a report-style clarification paragraph
-- `Reflection` / `Homework`: consolidates polite clarification language and applies it to a real unclear message
+- `Reflection` / `Homework`: consolidates polite clarification language and applies it to a real unclear message or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one clarification response of `4-6` sentences
 - freer output: `2` clarification responses from scenario choices
 - extended output: one clarification paragraph of `6-8` sentences
-- homework output: one clear, polite response to a real misunderstanding or unclear message
+- homework output: one clear, polite response to a real misunderstanding or a built-in fallback scenario
 
 **Content flags for revision**
 
@@ -791,14 +788,14 @@ Teach learners how to revise emails so they follow a consistent, professional te
 - `Guided Practice`: standardizes one short draft email
 - `Freer Practice`: writes two consistent emails from bounded situations
 - `Extended Writing Task`: shifts from product to principle by writing a short style-guide paragraph
-- `Reflection` / `Homework`: consolidates consistency issues and applies the unit skill to recent real emails
+- `Reflection` / `Homework`: consolidates consistency issues and applies the unit skill to recent real emails or built-in fallback scenarios
 
 **Output-length expectation**
 
 - guided output: one standardized email rewrite
 - freer output: `2` consistent emails from scenario choices
 - extended output: one email-style guide paragraph of `6-8` sentences
-- homework output: `2` recent emails rewritten into a shared standard format
+- homework output: `2` recent emails or `2` built-in fallback situations rewritten into a shared standard format
 
 **Content flags for revision**
 
@@ -848,21 +845,21 @@ Teach learners how to edit basic administrative writing for grammar, spelling, p
 - `Guided Practice`: rewrites a short administrative email for accurate language
 - `Freer Practice`: edits two short texts from bounded error-type scenarios
 - `Extended Writing Task`: revises a paragraph to improve both correctness and readability
-- `Reflection` / `Homework`: consolidates personal error awareness and transfers the editing skill to a real message or document
+- `Reflection` / `Homework`: consolidates personal error awareness and transfers the editing skill to a real message/document or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one corrected short administrative email
 - freer output: `2` corrected short texts from scenario choices
 - extended output: one corrected paragraph of `6-7` sentences
-- homework output: one real email or document edited for accuracy
+- homework output: one real email/document or one built-in fallback text edited for accuracy
 
 **Content flags for revision**
 
 - this unit should remain focused on basic but high-frequency accuracy issues rather than expanding into a full grammar syllabus
 - later revision should check whether the balance between error correction and clarity improvement remains controlled, since the unit's main role is accuracy-first editing
 - later module planning should preserve this unit as the first of the editing trilogy before clarity and tone revision
-- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design rather than only error-type shorthand
+- the current freer-practice options are now anchored to matched workplace situations rather than only error-type shorthand
 
 **Approved exception**
 
@@ -907,7 +904,7 @@ Teach learners how to revise writing so it is clearer, simpler, and better organ
 - this unit should stay focused on reader comprehension rather than slipping back into accuracy-only correction, since its distinct value is simplification and reorganization
 - later revision should check that the clearer-flow work remains visible and is not overshadowed by sentence-level tightening alone
 - later module planning should preserve the bridge from local sentence editing into whole-paragraph reorganization, because that prepares the capstone revision tasks
-- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
+- the current freer-practice options are parallel enough to preserve; keep the clarity problem types tied to comparable internal-reader tasks
 
 **Approved exception**
 
@@ -938,21 +935,21 @@ Teach learners how to revise workplace writing so it sounds more polite, neutral
 - `Guided Practice`: rewrites one full email into a neutral professional version
 - `Freer Practice`: writes two tone-improved emails from bounded situations
 - `Extended Writing Task`: revises a paragraph while preserving information but improving tone
-- `Reflection` / `Homework`: consolidates tone issues and transfers the revision skill to a real recent email
+- `Reflection` / `Homework`: consolidates tone issues and transfers the revision skill to a real recent email or a built-in fallback scenario
 
 **Output-length expectation**
 
 - guided output: one full tone-revised email
 - freer output: `2` tone-improved emails from scenario choices
 - extended output: one tone-revised paragraph of `6-8` sentences
-- homework output: one recent email rewritten using the unit's tone strategies
+- homework output: one recent email or one built-in fallback scenario rewritten using the unit's tone strategies
 
 **Content flags for revision**
 
 - this unit should remain clearly about tone revision rather than turning into another request-writing or clarification-writing unit, because the main skill is editorial control over how the message sounds
 - later revision should check whether the guided and freer tasks give enough variation in audience and problem type to make tone revision feel generalisable
 - later module planning should preserve this unit as the closing part of the editing trilogy before Module 6's integrated applied writing
-- before sign-off, the freer-practice options should be checked for situation anchoring and parallel option design
+- the current freer-practice options are bounded and parallel enough to keep; preserve the one-purpose tone-revision focus
 
 **Approved exception**
 
@@ -1082,26 +1079,28 @@ Teach learners how to standardize writing across multiple team members so messag
 - `Practice A`: rewrites short messages to match team standards
 - `Practice B`: standardizes one short email for format, tone, and clarity
 - `Guided Practice`: rewrites three short messages into one team-wide style
-- `Freer Practice`: writes a mini style guide for the team
+- `Freer Practice`: rewrites one bounded pair of related messages so both follow the same team standard
+- `Transfer Extension`: turns one successful rewrite pattern into a short reusable team rule
 - `Extended Writing Task`: rewrites a related set of messages in one unified style
-- `Reflection` / `Homework`: consolidates consistency concerns and transfers the skill to real team writing
+- `Reflection` / `Homework`: consolidates consistency concerns and transfers the skill through built-in message pairs or optional real writing
 
 **Output-length expectation**
 
 - guided output: one set of `3` short messages rewritten into a shared style
-- freer output: one mini style guide of `6-8` sentences
+- freer output: one rewritten pair of related messages using one shared standard
+- transfer output: one short team rule with one use/avoid example
 - extended output: one rewritten set of `3` related messages in a unified professional style
-- homework output: one self-written email plus one colleague email rewritten to follow the same standard
+- homework output: one additional rewritten message pair using either the built-in scenario or optional real writing
 
 **Content flags for revision**
 
 - this unit should remain clearly team-standard focused rather than collapsing into another single-email consistency lesson, because its distinct value is cross-message alignment
-- later revision should check that the style-guide freer task remains practical and not too abstract for the book's level
+- the unit now keeps style-guide thinking in a short transfer layer rather than as the main freer output; preserve that applied-writing focus
 - later module planning should preserve this unit as a preparation step for the multi-document communication pack that follows immediately afterward
 
 **Approved exception**
 
-This unit appropriately shifts from rewriting messages to writing a short team style guide because the learner needs to move from applying standards to articulating them.
+This unit appropriately keeps the main output family in rewritten communications while using a short transfer rule to help learners generalize the team standard.
 
 ### Unit 22 - Multi-Document Communication Task
 
@@ -1127,6 +1126,7 @@ Teach learners how to respond to one scenario through three linked documents wri
 - `Guided Practice - Colleague Explanation`: writes one short colleague message
 - `Guided Practice - Internal Notice`: writes one short team notice
 - `Freer Practice`: writes a full three-document set from a new scenario
+- `Transfer Extension`: runs a visible cross-document consistency check before finalizing the pack
 - `Extended Writing Task`: expands the three documents into a polished communication pack
 - `Reflection` / `Homework`: consolidates audience adaptation and transfers the three-document task to another scenario
 
@@ -1140,7 +1140,7 @@ Teach learners how to respond to one scenario through three linked documents wri
 **Content flags for revision**
 
 - this unit is one of the book's main capstone-preparation tasks and should remain clearly multi-document rather than being broken back into separate single-document activities
-- later revision should check that the difference between colleague explanation and internal notice remains visible, since both are internal-facing and could drift toward each other
+- keep the colleague explanation versus internal notice distinction explicit in task wording, self-checking, and transfer support, because both are internal-facing and can drift toward each other if the audience split is not reinforced
 - later module planning should preserve the explicit three-audience contrast because that is the core preparation for the final portfolio logic in Unit 23
 
 **Approved exception**

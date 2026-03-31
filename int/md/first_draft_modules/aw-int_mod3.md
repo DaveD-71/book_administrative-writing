@@ -311,6 +311,8 @@ Write:
 
 This helps you turn short instructions into a more usable manual-style section.
 
+If you do not want to use a real workplace task, choose one Unit 8 freer-practice scenario instead.
+
 ### Reflection
 
 1. What is difficult about writing procedures?
@@ -322,6 +324,8 @@ This helps you turn short instructions into a more usable manual-style section.
 ### Homework
 
 Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
+
+If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
 ---
 
 ## Unit 9 - Internal Notices
@@ -456,15 +460,6 @@ Internal notices use **neutral, factual language**. Avoid:
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    ->
 
-### Self-Check Before Freer Practice
-
-Check your notice before moving on:
-
-1. Is the topic clear?
-2. Is the language factual, not emotional?
-3. Does the message tell the reader what happens next?
-4. Is the notice short but complete?
-
 ### Practice B - Improve the Clarity
 
 Rewrite each notice so it is clearer and more professional.
@@ -509,6 +504,15 @@ Write your notice:
 - **Essential information:**
 
 - **Next step:**
+
+### Self-Check Before Freer Practice
+
+Check your notice before moving on:
+
+1. Is the topic clear?
+2. Is the language factual, not emotional?
+3. Does the message tell the reader what happens next?
+4. Is the notice short but complete?
 
 ### Freer Practice - Write Two Notices
 
@@ -612,6 +616,8 @@ Write your bulletin section:
 ### Homework
 
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
+
+If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
 ---
 
 ## Unit 10 - Explaining Problems Clearly
@@ -839,7 +845,7 @@ Writers often lose clarity when they name the problem but do not explain the eff
 
 ### Freer Practice - Write Two Problem Descriptions
 
-Choose two situations and write clear explanations.
+Choose two situations and write clear explanations of **4-5 sentences each**.
 For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
 
 #### Options
@@ -903,6 +909,8 @@ Write your paragraph:
 ### Homework
 
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
+
+If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
 ---
 
 ## Unit 11 - Writing Simple Meeting Summaries
@@ -1067,7 +1075,7 @@ A useful summary does more than report. It helps the next reader act.
 
 ### Freer Practice - Write Two Summaries
 
-Choose two situations and write meeting summaries.
+Choose two situations and write meeting summaries of **4-5 sentences each**.
 For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
 
 #### Options
@@ -1143,6 +1151,8 @@ Write your report section:
 ### Homework
 
 Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
+
+If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
 
 ## Module 3 Review Workshop
 

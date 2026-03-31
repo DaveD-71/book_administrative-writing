@@ -759,50 +759,65 @@ Rewrite all messages in a consistent style:
 
 ### Self-Check Before Freer Practice
 
-Before writing your style guide or rewritten set, check:
+Before writing your next rewritten message set, check:
 
 1. Do all messages sound like they come from one team?
 2. Is the tone level stable?
 3. Is the structure similar across the messages?
 4. Is the formatting predictable?
 
-### Freer Practice - Create a Mini Style Guide
+### Freer Practice - Rewrite Two Related Messages To One Standard
 
-Write a short (6-8 sentence) style guide for your team.
-Include:
+Choose **one** of the situations below and rewrite **both** messages so they follow one shared team standard.
 
-- Purpose of the guide
+#### Options
 
-- Tone expectations
+A. A colleague wrote a short file-update email and a follow-up reminder, but the two messages use different openings, tone levels, and closing styles.  
+B. A team mailbox message and a reply to an outside office describe the same deadline issue, but the structure and formatting do not match your team's normal pattern.  
+C. Two internal update emails about the same review problem sound as if they were written by different offices, even though they should reflect one team standard.
 
-- Formatting expectations
+For each pair, make sure both messages show:
 
-- Common phrases to use or avoid
+- the same level of formality
+- the same message structure
+- the same closing style
+- the same visible formatting logic
 
-Strong mini style guides usually answer these questions:
+Use this quick rewrite plan:
 
-- How should most messages open?
-- Where should the purpose appear?
-- What kind of wording sounds too direct?
-- How should messages close?
+1. decide the shared opening pattern
+2. place the purpose sentence near the top in both messages
+3. keep the body order similar
+4. use the same closing style
 
-You can also include one "use / avoid" contrast:
-
-- Use: "Could you confirm ..."
-- Avoid: "Fix this now."
-
-That makes the guide easier to apply in real rewriting.
-
-Write your guide:
+Write your revised pair:
 
 ### Editing Practice: Build One Standard
 
-Take one message from your guided practice and revise it again using your mini style guide.
+Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly.
 
 Then note:
 
-- which style rule you applied
+- which consistency rule you applied
 - how the revised version became easier to read
+
+### Transfer Extension: Turn Your Rewrite Into A Team Rule
+
+Choose one consistency feature from your freer-practice pair.
+
+Write:
+
+1. the rule in one short sentence
+2. one example your team should use
+3. one example your team should avoid
+
+For example:
+
+- Rule: Put the purpose sentence in line 1 or line 2.
+- Use: "We are writing to confirm the updated schedule."
+- Avoid: "I saw the message and have some thoughts about it."
+
+This keeps the unit focused on message rewriting first, then turns one successful pattern into a reusable team rule.
 
 ### Extended Writing Task - Rewrite a Set of Communications
 
@@ -829,7 +844,9 @@ Treat them as messages your team may send to colleagues or external contacts abo
 
 ### Homework
 
-Find one email you wrote and one written by a colleague. Rewrite both so they follow the same writing standard.
+Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
+
+If you want to use real workplace writing, you may do so, but it is not required.
 ---
 
 ## Unit 22 - Multi-Document Communication Task
@@ -1078,31 +1095,7 @@ Write:
 2. colleague opening
 3. team notice opening
 
-### Extended Writing Task - Multi-Audience Communication Pack
-
-From the original scenario (missing applicant document), write a polished communication set:
-
-- **Applicant email (8-10 sentences)**
-
-- **Colleague explanation (6-8 sentences)**
-
-- **Internal notice (4-5 sentences)**
-
-All three must:
-
-- Use accurate grammar
-
-- Be clear and concise
-
-- Use correct tone for each audience
-
-- Maintain logical flow and consistency
-
-Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type.
-
-Write your communication pack:
-
-### Cross-Document Consistency Check
+### Transfer Extension: Cross-Document Consistency Check
 
 Before finalizing the pack, compare the three drafts line by line.
 
@@ -1127,6 +1120,30 @@ Safer final check:
 - keep the shared fact language stable
 - let the explanation depth change by reader
 - let the action sentence change only when the reader's job is different
+
+### Extended Writing Task - Multi-Audience Communication Pack
+
+From the original scenario (missing applicant document), write a polished communication set:
+
+- **Applicant email (8-10 sentences)**
+
+- **Colleague explanation (6-8 sentences)**
+
+- **Internal notice (4-5 sentences)**
+
+All three must:
+
+- Use accurate grammar
+
+- Be clear and concise
+
+- Use correct tone for each audience
+
+- Maintain logical flow and consistency
+
+Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type.
+
+Write your communication pack:
 
 ### Reflection
 

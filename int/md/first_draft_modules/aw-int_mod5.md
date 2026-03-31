@@ -261,6 +261,8 @@ Use your own wording, but make it a routine you could really use at work.
 ### Homework
 
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
+
+If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
 ---
 
 ## Unit 17 - Editing for Clarity
@@ -274,7 +276,7 @@ By the end of this unit, you should be able to:
 - I can reorganize information for better logical flow.
 - I can revise a paragraph so it is easier to understand.
 
-### What Does `Clarity`Mean in Writing?
+### What Does `Clarity` Mean in Writing?
 
 Clarity refers to how easily the reader can understand your message. Clear writing:
 
@@ -286,7 +288,7 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 - Avoids ambiguity or vague language
 
-#### Example (Before ->After)
+#### Example (Before -> After)
 
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
 **After:** The document appears to be missing some parts.
@@ -512,7 +514,7 @@ By the end of this unit, you should be able to:
 - I can rewrite a short email in a more professional tone.
 - I can revise a paragraph so it sounds more neutral and appropriate.
 
-### What Is `Tone`in Writing?
+### What Is `Tone` in Writing?
 
 Tone is **how your writing sounds** to the reader.
 A professional tone is:
@@ -533,7 +535,7 @@ A poor tone may be:
 
 - Impolite or demanding
 
-#### Example (Before ->After)
+#### Example (Before -> After)
 
 **Before:** You didn't send the right file. Send the correct one now.  
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
@@ -763,6 +765,8 @@ We told the applicant many times, but they still submitted the wrong file. This 
 ### Homework
 
 Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
+
+If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
 
 ## Module 5 Review Workshop
 

@@ -109,7 +109,7 @@ It is weak because the reader still has to ask:
 A professional email helps the reader act quickly.  
 The reader should understand the purpose without guessing.
 
-### Language 1: Subject Lines
+### Language 1 - Subject Lines
 
 A good subject line is:
 
@@ -155,7 +155,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 - Confirmation Notice Status
 
-### Language 2: Openings and Closings
+### Language 2 - Openings and Closings
 
 #### Common Openings
 
@@ -199,7 +199,7 @@ Select an appropriate opening and closing for each situation.
 
    - Closing:
 
-### Language 3: Opening Sentences (Purpose)
+### Language 3 - Opening Sentences (Purpose)
 
 The first sentence must tell the reader **why you are writing**.
 
@@ -238,7 +238,7 @@ Write a clear opening sentence for each situation.
 3. You want to give information about a system update.
    ->
 
-### Guided Practice: Build a Complete Email
+### Guided Practice - Build a Complete Email
 
 Use the prompts to write a simple, clear email.
 
@@ -267,9 +267,9 @@ Before writing your own email, check:
 3. Is the body short but complete?
 4. Does the closing sound professional?
 
-### Freer Practice: Write Your Own Email
+### Freer Practice - Write Your Own Email
 
-Choose one situation and write one complete email.
+Choose one situation and write one complete email in **3-4 sentences**.
 
 #### Situations
 
@@ -331,6 +331,8 @@ This helps you separate the job of the subject line from the job of the opening 
 ### Homework
 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
+
+If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
 ---
 
 ## Unit 5 - Requesting Clarification
@@ -385,7 +387,7 @@ The stronger question works because it:
 
 The weak question may sound frustrated and gives the reader no clear starting point.
 
-### Language 1: Useful Clarification Phrases
+### Language 1 - Useful Clarification Phrases
 
 Use these phrases when the information is not clear.
 
@@ -436,7 +438,7 @@ Mini contrast:
 4. What should I do?  
    ->
 
-### Language 2: Asking About Missing or Confusing Information
+### Language 2 - Asking About Missing or Confusing Information
 
 #### Common Situations
 
@@ -558,15 +560,10 @@ Write **two short emails**, each 3-4 sentences, asking for clarification. Keep e
 
 Choose **two** situations from the list below:
 
-- You received a deadline notice, but the form and the email message show different submission dates.
-- Two files named "Application_Final" were attached, and you need to confirm which version should be used for this month's review.
+- The deadline notice and the form show different submission dates.
+- Two attached files use the same name, and you need to confirm which version should be used for this month's review.
 - A required attachment is missing from the document set, and you need to ask whether it should be sent now or in the next stage.
 - The written instructions and the checklist use different wording, and you need to confirm which instruction your team should follow.
-- A system message appears after upload, but the message does not explain what action the user must take next.
-- Applicant information in one section does not match the case record, and you need to confirm which detail is correct.
-- A meeting request asks for preparation work, but it does not say which documents participants should bring.
-- One step in a process description is missing, and you need to ask what should happen between two named actions.
-- The instructions use several abbreviations, and you need to confirm what two key abbreviations mean in this context.
 
 Write your emails:
 
@@ -642,6 +639,8 @@ Write your paragraph:
 ### Homework
 
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
+
+If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
 ---
 
 ## Unit 6 - Communicating Delays or Changes
@@ -918,6 +917,8 @@ Write your paragraph:
 ### Homework
 
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
+
+If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
 ---
 
 ## Unit 7 - Making Requests Politely
@@ -1225,6 +1226,8 @@ Then decide:
 - which version is better for a colleague
 - which version is better for an outside office
 
+If you do not want to use a real request, choose one Unit 7 freer-practice situation and write the two versions for that case.
+
 ### Extended Writing Task - Request Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) explaining:
@@ -1252,6 +1255,8 @@ Write your paragraph:
 ### Homework
 
 Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
+
+If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
 
 ## Module 2 Review Workshop
 

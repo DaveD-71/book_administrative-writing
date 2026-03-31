@@ -690,3 +690,32 @@ Historical note:
 - Context: user requested removal of the unclear `Monitor` outcome from the intermediate QA evaluation model
 - Observation: `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` now uses a binary review outcome only: `Pass` or `Fail`. Later-stage items are still checked, but they are judged as pass/fail based on whether they remain correctly tracked. `int/edits & guides/qa/aw-int_qa_review_round1.md` was rewritten to match that binary standard, and Round 1 now records a whole-book `Fail` rather than an open/monitor-heavy interim state.
 - Preferred behavior: when running `INT-6`, do not use soft watch-status language. If a category does not clearly clear the standard, record `Fail` and state the reason directly
+
+
+### 2026-03-31T17:15:00+09:00 - Strict Round 1 Re-Run Recast Intermediate QA As A 30-Fail Whole-Book Result
+
+- Status: `monitor`
+- Scope: project/qa
+- Context: after the earlier binary rewrite was criticized for converting unresolved items upward into unsupported passes
+- Observation: `int/edits & guides/qa/aw-int_qa_review_round1.md` has now been rerun under the stricter rule `if not proven from the live files and control layer, fail it`. The current criterion-level count is now `30` fails and `7` passes. The live pass set is limited to:
+  - `5C.5 Support-depth parity`
+  - `5I.3 Module-volume parity`
+  - `5K.1 Controlled-practice answerability`
+  - `5L.1 Markdown and structural hygiene`
+  - `5L.2 Production readiness`
+  - `5M.1 Confirm-at-QA pinned items`
+  - `5M.2 Deferred pinned items`
+  The fail set now explicitly includes design-purpose drift in Unit 21, unresolved option-quality flags still present in the structural profiles, self-study dependence on real workplace / colleague materials, uneven transfer signaling in late Module 6, and structural / instructional inconsistency across the live source.
+- Preferred behavior: treat this stricter fail-heavy Round 1 result as the authoritative `INT-6` position until the live source is revised and the same burden-of-proof re-run is completed
+## 2026-03-31 - Intermediate QA Round 1 remediation and re-run
+
+- Saved the Round 1 remediation plan at `int/edits & guides/qa/aw-int_round1_remediation_plan.md` and executed it directly against the six live intermediate module files.
+- Repaired the Round 1 defect families in source:
+  - Unit 21 task-family drift removed
+  - Units 21 and 22 explicit transfer signaling restored
+  - self-study fallbacks added where real workplace material had been too strongly required
+  - Unit 9 sequencing corrected
+  - output-band and heading-consistency issues normalized
+- Updated `aw-int_unit_structural_profiles.md` to match the repaired live source instead of leaving superseded sign-off flags in place.
+- Replaced the stale fail-heavy `aw-int_qa_review_round1.md` with a clean-sheet post-remediation Round 1 file.
+- Current strict QA position: Intermediate Round 1 now passes at whole-book level and the next stage is `INT-7` full review.
