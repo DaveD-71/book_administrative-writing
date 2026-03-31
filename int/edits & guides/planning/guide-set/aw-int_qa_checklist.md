@@ -43,12 +43,14 @@ QA should identify:
 Use the following source order:
 
 1. `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
-2. `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
-3. `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
-4. `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
-5. `int/edits & guides/planning/supporting/aw-int_project_context.md`
-6. active module files in `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
-7. baseline-audit or earlier development records only as narrow historical support
+2. `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md`
+3. `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+4. `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+5. `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
+6. `int/edits & guides/qa/aw-int_qa_round1.md`
+7. `int/edits & guides/planning/supporting/aw-int_project_context.md`
+8. active module files in `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+9. baseline-audit or earlier development records only as narrow historical support
 
 If sources disagree, prefer the higher source in this list unless a later explicit project decision says otherwise.
 
@@ -112,7 +114,10 @@ Before beginning the module-by-module pass, complete the following:
    - regeneration of the combined draft
 4. Note any approved structural exceptions already recorded in the structural profiles so they are not misread as accidental drift during QA.
    - and note any active whole-book control notes for scenario-family distribution or reflection progression
-5. Confirm whether project control still allows active QA or whether a blocking intervention stage is now in force.
+5. Read the active continuity QA record and any Round 1 addendum before capturing new findings.
+   - confirm whether an earlier book-level blocker is still active, has been cleared, or has been replaced by a new blocker
+   - do not silently continue QA from stale pre-intervention assumptions
+6. Confirm whether project control still allows active QA or whether a blocking intervention stage is now in force.
 
 These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
 
@@ -414,6 +419,7 @@ If the failure is:
 
 - [ ] The text is ready for later formatting work without major content-structure repair
 - [ ] The live module files are usable as the stable source set for later support layers
+- [ ] There are no obvious copy-paste artifacts, encoding problems, or broken references in the live source set
 
 ## 5M. Remaining Pinned-Item Checks
 
@@ -467,9 +473,7 @@ Use the following structure when recording module or unit findings:
 
 ## 8. QA Re-entry Priorities After INT-5A
 
-QA is currently blocked while `INT-5A` is active.
-
-When QA restarts, prioritise the first book-wide pass on:
+When QA restarts or resumes after `INT-5A`, prioritise the first book-wide pass on:
 
 1. confirming that the completed intervention rebuild did not create planning/live drift
 2. confirming that support-depth parity and module-volume parity now meet the corrected standard
