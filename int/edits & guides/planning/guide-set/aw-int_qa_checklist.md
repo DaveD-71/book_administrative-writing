@@ -87,11 +87,13 @@ The concrete test that can be answered during review.
 Use status values:
 
 - `Pass`
-- `Revise`
-- `Monitor`
-- `Deferred`
+- `Fail`
 
-Use `Deferred` only for items explicitly scheduled for a later stage, such as answer-key production, later rubric build-out, or combined-draft regeneration.
+Later-stage items are not given a separate status.  
+Instead, judge whether they are being controlled correctly now:
+
+- `Pass` if the deferred item is explicitly tracked and is not being mistaken for completed work
+- `Fail` if the deferred item has disappeared, is being misclassified, or is currently blocking sign-off without being recorded correctly
 
 ---
 
@@ -116,10 +118,14 @@ Before beginning the module-by-module pass, complete the following:
    - and note any active whole-book control notes for scenario-family distribution or reflection progression
 5. Read the active continuity QA record and any Round 1 addendum before capturing new findings.
    - confirm whether an earlier book-level blocker is still active, has been cleared, or has been replaced by a new blocker
+   - list any earlier `Fail` findings that remain unactioned, partially actioned, or superseded
    - do not silently continue QA from stale pre-intervention assumptions
 6. Confirm whether project control still allows active QA or whether a blocking intervention stage is now in force.
+7. Confirm that the review is being run against the mature advanced-style QA standard rather than a softer rebuild-confirmation standard.
+   - if a module only appears "serviceable" or "structurally present" but has not been stress-tested for subtle weakness, do not record `Pass`
+   - if the current evidence only shows that a blocker is absent, do not record `Pass`; record `Fail` until the category has been verified strongly enough to clear
 
-These preliminary items must be recorded before module findings are captured. A `Revise` at this stage blocks sign-off regardless of module-level results.
+These preliminary items must be recorded before module findings are captured. A `Fail` at this stage blocks sign-off regardless of module-level results.
 
 ### 4.1 Review order
 
@@ -145,7 +151,7 @@ Do not force every concern into a unit-local finding if it is really a whole-boo
 
 ### 4.3 Evidence rule
 
-Every `Revise` judgment should state:
+Every `Fail` judgment should state:
 
 - the file and unit/module affected
 - the failed criterion
@@ -158,8 +164,8 @@ QA should not silently rewrite the planning architecture.
 
 If the failure is:
 
-- a local content problem, mark `Revise`
-- a likely planning/live mismatch, mark `Monitor` and identify the architectural issue
+- a local content problem, mark `Fail`
+- a likely planning/live mismatch, mark `Fail` and identify the architectural issue clearly
 
 ---
 
@@ -241,6 +247,7 @@ If the failure is:
 - [ ] Guided layers visibly prepare freer layers
 - [ ] Phrase banks or checklist-style supports are explained enough to be usable, not just displayed
 - [ ] Units with phrase-bank-heavy sections include worked mini-examples where the learner needs to see the phrases operating inside a full message
+- [ ] Support is visible in the live unit, not merely inferable from surrounding sections or from what the teacher could explain orally
 
 ### 5C.4 Practice and transfer
 
@@ -254,6 +261,7 @@ If the failure is:
 - [ ] The unit does not stop at phrase exposure or short procedural advice where advanced-equivalent support would require transferable explanation
 - [ ] The unit includes visible support equivalents for model/example work, explicit rationale, review/self-edit, editing/revision, and transfer/extension
 - [ ] Lower level is achieved through readability and scaffolding, not through thinner pedagogy
+- [ ] "Functional equivalence" is not enough if the support move is too implicit, too compressed, or too easy to miss for a self-study learner
 
 ## 5D. Prompt And Task Design
 
@@ -262,12 +270,14 @@ If the failure is:
 - [ ] Completing the task requires practising the intended skill
 - [ ] The scenario is a vehicle for the skill, not a distraction from it
 - [ ] The task cannot be completed successfully by bypassing the intended writing behavior
+- [ ] The learner cannot satisfy the task mainly by copying surface language, choosing any plausible content, or relying on a generic message that ignores the target move
 
 ### 5D.2 Professional verisimilitude
 
 - [ ] Purpose, audience, situation, type, and role are recoverable at the right level for the task
 - [ ] Prompts are workplace-like without becoming dense or overly bureaucratic
 - [ ] Reader relationship is clear where it affects tone, content, or document type
+- [ ] The prompt does not hide a key requirement that the learner must infer from scattered clues or from unstated workplace assumptions
 
 ### 5D.3 Calibration
 
@@ -275,6 +285,7 @@ If the failure is:
 - [ ] Freer tasks are independent but still intermediate-appropriate
 - [ ] Later integrated tasks do not overload the learner with too many simultaneous demands
 - [ ] Output load remains believable for the unit's position in the book
+- [ ] The task does not quietly exceed its stated scope by asking for extra comparison, diagnosis, audience-shift, or document-management work that the prompt has not prepared clearly
 
 **Requirement sources:**
 
@@ -288,6 +299,7 @@ If the failure is:
 - [ ] Options represent genuinely different situations rather than cosmetic rewrites
 - [ ] Shared requirements are stated once at task level rather than scattered or repeated inconsistently
 - [ ] Freer-practice options are situation-anchored rather than reduced to topic labels or error-type shorthand
+- [ ] Option sets do not contain one obviously easier, more familiar, or more fully specified option that distorts task calibration
 
 ## 5E. Consistency And Cohesion
 
@@ -296,12 +308,14 @@ If the failure is:
 - [ ] Section patterns remain readable and consistent enough across the book
 - [ ] Headings and instructional labels behave predictably
 - [ ] Later integrated units remain recognisably part of the same book
+- [ ] Section order and visible section function are stable enough that a learner can transfer expectations from one unit to the next without re-learning the book each time
 
 ### 5E.2 Instructional consistency
 
 - [ ] Student-facing instructions use a stable professional tone
 - [ ] Terminology is consistent across units and modules
 - [ ] Added teaching supports behave consistently enough to be learnable
+- [ ] The same label is not used for materially different pedagogical jobs unless that variation is explicit and justified
 
 ### 5E.3 Variety without chaos
 
@@ -338,12 +352,14 @@ If the failure is:
 - [ ] Any deliberate structural exception is recorded in the profiles
 - [ ] The live unit does not silently erase an approved exception or add an unrecorded new one
 - [ ] The live `### Focus` section reflects the current profile Can-Do statements rather than an older pre-profile wording layer
+- [ ] Output expectations, audience framing, and task type remain aligned with the active profile wording rather than being only broadly similar in spirit
 
 ### 5G.2 Can-Do and framework compliance
 
 - [ ] The teaching sequence visibly supports the unit-level Can-Do statements in the structural profiles
 - [ ] The live unit behaves consistently with the intermediate activity framework
 - [ ] The live unit does not drift toward advanced-style architecture without an explicit decision
+- [ ] A unit is not counted compliant merely because all expected sections exist; the sections must perform the profile-assigned pedagogical job
 
 ## 5H. Activity And Section Fidelity
 
@@ -352,12 +368,14 @@ If the failure is:
 - [ ] Focus, Language, Practice, Guided Practice, Freer Practice, Reflection, and Homework perform the jobs assigned to them
 - [ ] No section label is doing the wrong pedagogical job
 - [ ] Extended Writing Task, where used, extends rather than duplicates the freer layer
+- [ ] Reflection and Homework do not carry hidden core teaching load that should have appeared earlier in the unit
 
 ### 5H.2 Student experience fidelity
 
 - [ ] The amount of support or independence matches the visible section label
 - [ ] Guided Practice meaningfully prepares Freer Practice
 - [ ] Revision-focused units still feel like editing/revision units rather than hidden new-drafting units
+- [ ] A learner experiencing the unit cold would describe the task type the same way the checklist labels it
 
 ## 5I. Progression
 
@@ -428,6 +446,7 @@ If the failure is:
 - [ ] The live source of truth remains the six module files, not the older split-unit baseline or combined draft
 - [ ] Deferred support items that affect later sign-off are still visible in the current project-control layer
 - [ ] The current QA round explicitly records any pinned item that is not meant to block QA yet
+- [ ] Any pinned item that affects current judgment is tested for visible live-file evidence, not treated as satisfied merely because it is still named in planning
 
 ### 5M.2 Deferred pinned items
 
@@ -436,6 +455,7 @@ If the failure is:
 - [ ] `P3` answer key / sample responses is recorded as a later stage, not mistaken for a current QA failure
 - [ ] `P4` combined-draft regeneration is recorded as a later stage, not mistaken for a missing live source file
 - [ ] `P5` Word-formatting work remains clearly deferred until Markdown sign-off
+- [ ] Deferred status is not used to hide a current content weakness that should already be judged in the live modules
 
 ---
 
@@ -444,15 +464,15 @@ If the failure is:
 Before treating intermediate QA as complete, answer:
 
 - [ ] Does the intermediate book now meet the agreed quality standard for a full review pass?
-- [ ] Are all `Revise` findings concrete, local, and fixable without reopening the planning architecture?
-- [ ] Have all `Deferred` items been explicitly named so they do not disappear between stages?
+- [ ] Are all `Fail` findings concrete, local, and fixable without reopening the planning architecture?
+- [ ] Have all later-stage items been explicitly named so they do not disappear between stages?
 - [ ] Is there any structural, pedagogical, or learner-suitability issue significant enough to block full review?
 - [ ] Is the book still materially thinner than the advanced book in support depth or development volume?
 
 If the answer to the last question is `Yes`, QA is not complete.
 
 Book-level support-parity failure is a blocker even when local unit-level issues also exist.  
-Do not reduce a systemic parity problem to only a list of local `Revise` items.
+Do not reduce a systemic parity problem to only a list of local `Fail` items.
 
 ---
 
@@ -465,7 +485,7 @@ Use the following structure when recording module or unit findings:
 - Category:
 - Criterion:
 - Check item:
-- Result: `Pass` / `Revise` / `Monitor` / `Deferred`
+- Result: `Pass` / `Fail`
 - Evidence:
 - Required action:
 

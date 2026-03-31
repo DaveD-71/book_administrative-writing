@@ -1242,3 +1242,48 @@ Historical note:
 - Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so:
   - `INT-5A` is now marked `Done`
   - `INT-6` is now marked `In Progress`
+
+
+### 2026-03-31T15:35:00+09:00 - Ran The First Strict Module-Level INT-6 Pass Against The Intermediate QA Checklist
+
+- Reviewed the six live module files against the current `aw-int_qa_checklist.md` rather than only against the earlier intervention-plan parity logic
+- Recorded in `int/edits & guides/qa/aw-int_qa_round1.md` that:
+  - Modules 1 to 5 currently pass the resumed QA gate at module level
+  - Module 6 also passes at module level, but now carries one `Monitor` item because Units 21 and 22 express transfer mainly through Reflection / Homework rather than through the more visibly standardized `Transfer Extension` labeling used elsewhere
+- Result:
+  - no fresh module-level blocker currently forces `INT-5A` back open
+  - Round 1 can continue through the remaining whole-book QA checks with one late-book signaling-consistency item still visible
+
+
+### 2026-03-31T16:20:00+09:00 - Created A Dedicated Intermediate QA Review-Round File
+
+- Added `int/edits & guides/qa/aw-int_qa_review_round1.md`
+- Structured it after the advanced QA review-round model rather than leaving Intermediate QA documented only in the continuity file
+- Recorded:
+  - Round 1 frame
+  - preliminary cross-check
+  - module coverage summary
+  - current carried-forward findings
+  - category-by-category status
+  - anti-drift consolidation
+  - decision gate
+  - current verdict
+- Important control stance:
+  - the new review-round file explicitly does not inherit the earlier softer resumed-`INT-6` pass language as final sign-off
+  - `aw-int_qa_round1.md` remains the continuity and blocker-history file
+  - `aw-int_qa_review_round1.md` is now the explicit review-round record to extend during strict `INT-6`
+
+
+### 2026-03-31T16:40:00+09:00 - Recast Intermediate Round 1 QA Into A Binary Pass/Fail Evaluation
+
+- Updated `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` so Intermediate QA now uses only:
+  - `Pass`
+  - `Fail`
+- Removed the earlier soft-watch review logic from the active QA standard
+- Rewrote `int/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
+- Current Round 1 result is now explicit:
+  - whole-book QA verdict: `Fail`
+  - reason: unresolved late-book transfer-signaling inconsistency in Module 6, affecting:
+    - `5C.4 Practice and transfer`
+    - `5E.2 Instructional consistency`
+    - `5H.1 Section-function fidelity`

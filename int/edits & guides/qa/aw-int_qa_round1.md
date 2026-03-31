@@ -438,3 +438,68 @@ Updated QA position after this addendum:
 - support parity should now be checked as a maintained achieved condition, not as an unresolved stage blocker
 
 *Addendum status: QA restarted from the preliminary cross-check after intervention-stage completion.*
+
+### 6.5 Module-review findings after QA re-entry
+
+#### QA-R1A-04 - Modules 1 to 5 currently pass the resumed QA gate at module level
+
+- File under review:
+  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/first_draft_modules/aw-int_mod5.md`
+- Unit or module:
+  - `Modules 1-5`
+- Category:
+  - `5A. Design For Purpose`
+  - `5C. Language And Learning`
+  - `5G. Structural-Profile Compliance`
+  - `5I. Progression`
+- Criterion:
+  - module-purpose alignment
+  - support-depth parity
+  - unit-profile compliance
+  - module-volume parity
+- Check item:
+  - the resumed QA pass should confirm whether the rebuilt modules now satisfy the corrected standard strongly enough to proceed toward later whole-book checks
+- Result:
+  - `Pass`
+- Evidence:
+  - Modules 1 to 5 now sit within the required intervention bands and visibly carry the expected support architecture:
+    - module guides
+    - model/example comparison work
+    - explicit rationale or `Why this works` teaching
+    - self-check support
+    - editing / revision practice
+    - transfer / extension support
+    - module review layers, strategy maps, clinics, or rebuild labs as appropriate
+  - direct module rechecks do not currently show a fresh structural or pedagogical blocker strong enough to reopen `INT-5A`
+- Required action:
+  - none at this stage
+
+#### QA-R1A-05 - Module 6 now passes at module level, but its late-book transfer labeling is slightly less explicit in Units 21 and 22 than elsewhere in the book
+
+- File under review:
+  - `int/md/first_draft_modules/aw-int_mod6.md`
+- Unit or module:
+  - `Module 6`
+- Category:
+  - `5C. Language And Learning`
+  - `5E. Consistency And Cohesion`
+  - `5H. Activity And Section Fidelity`
+- Criterion:
+  - `5C.5 Support-depth parity`
+  - `5E.2 Instructional consistency`
+  - `5H.1 Section-function fidelity`
+- Check item:
+  - the late integrated units should preserve visible transfer / extension support with the same clarity of signalling used elsewhere in the rebuilt book
+- Result:
+  - `Monitor`
+- Evidence:
+  - Module 6 now passes the resumed QA gate at module level and remains inside the required parity band
+  - however, Unit 21 and Unit 22 rely on Reflection / Homework to carry forward transfer more than on a visibly labeled `Transfer Extension` section
+  - this does not currently create a support-depth failure large enough to block QA re-entry, because transfer still functions in the live unit flow
+  - it does leave the late-book support signaling slightly less standardized than in most earlier units
+- Required action:
+  - keep this visible during the remainder of Round 1 and decide later whether a small labeling-standardization pass is needed before full review

@@ -663,3 +663,30 @@ Historical note:
   - Mod 6 `8,233`
   These values all now sit within the intervention-plan bands, and direct file checks support the judgment that the required support architecture is visibly present across the set.
 - Preferred behavior: treat `INT-5A` as complete on the rebuild side, preserve `QA-B01` as the historical blocker that triggered the intervention, and restart `INT-6` from the preliminary cross-check through a Round 1 addendum rather than by opening a new QA round prematurely
+
+
+### 2026-03-31T15:35:00+09:00 - Resumed QA Now Reads Modules 1 To 5 As Passing, With One Late-Book Signaling Monitor In Module 6
+
+- Status: `monitor`
+- Scope: project/qa
+- Context: first strict module-by-module `INT-6` pass after QA restart
+- Observation: the resumed QA pass does not currently surface a new blocker across Modules 1 to 5. Those modules now read as passing at module level against the corrected QA checklist. Module 6 also passes at module level, but Units 21 and 22 carry their transfer function more through Reflection / Homework than through the more visibly standardized `Transfer Extension` labeling used in much of the rest of the book.
+- Preferred behavior: continue `INT-6` without reopening `INT-5A`, but keep the late-book transfer-signaling issue visible as a `Monitor` item during the remainder of Round 1 and decide later whether a small consistency pass is worth making before full review
+
+
+### 2026-03-31T16:20:00+09:00 - Intermediate QA Now Has A Dedicated Review-Round Record Separate From The Continuity File
+
+- Status: `monitor`
+- Scope: project/qa
+- Context: after aligning the intermediate QA checklist more closely with the advanced book's review rigor
+- Observation: a new review-round file now exists at `int/edits & guides/qa/aw-int_qa_review_round1.md`. This file is intended to play the same role for `INT-6` that `aw-adv_n11_qa_review_round4.md` plays for advanced `N11`: an explicit round record with a frame, preliminary cross-check, category findings, anti-drift control, and decision gate. The older `int/edits & guides/qa/aw-int_qa_round1.md` remains the continuity and blocker-history record rather than the main review-round output.
+- Preferred behavior: continue strict `INT-6` review findings in `aw-int_qa_review_round1.md`, using `aw-int_qa_round1.md` only for continuity, historical blocker context, and re-entry evidence
+
+
+### 2026-03-31T16:40:00+09:00 - Intermediate QA Now Uses A Binary Pass/Fail Review Taxonomy
+
+- Status: `monitor`
+- Scope: project/qa
+- Context: user requested removal of the unclear `Monitor` outcome from the intermediate QA evaluation model
+- Observation: `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md` now uses a binary review outcome only: `Pass` or `Fail`. Later-stage items are still checked, but they are judged as pass/fail based on whether they remain correctly tracked. `int/edits & guides/qa/aw-int_qa_review_round1.md` was rewritten to match that binary standard, and Round 1 now records a whole-book `Fail` rather than an open/monitor-heavy interim state.
+- Preferred behavior: when running `INT-6`, do not use soft watch-status language. If a category does not clearly clear the standard, record `Fail` and state the reason directly
