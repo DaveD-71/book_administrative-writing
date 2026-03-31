@@ -251,3 +251,12 @@ Sync rule:
 - Failure: running a state-changing git command and a dependent verification command in parallel can return a stale pre-transition result, which creates a false mismatch and forces an unnecessary follow-up check
 - Correct behavior: when one verification step depends on the completion of a commit or push, run the commands serially: complete the git state change first, then run the dependent verification
 - Preferred behavior: reserve parallel tool use for independent checks only; if `git status`, ahead/behind confirmation, or similar output depends on a commit or push finishing, run it in a separate follow-up call
+
+### 2026-03-31T13:10:00+09:00 - Mojibake Across Projects Usually Means UTF-8 Text Was Read Or Rewritten Through The Wrong Windows Code Page
+
+- Status: `workaround`
+- Scope: user/environment
+- Pattern: Markdown or text files across projects showing corruption such as `窶・`, `竊・`, `didn窶冲`, or `applicant窶冱`
+- Failure: valid UTF-8 punctuation or apostrophes are misdecoded through a Windows default code page such as `cp932` / Shift-JIS and then saved back, which turns punctuation-heavy text into persistent mojibake
+- Correct behavior: treat this as an encoding mismatch first, not as a content-editing issue; read and write project text files explicitly as UTF-8, avoid tools that silently fall back to the system code page, and verify encoding before bulk rewrite passes
+- Preferred behavior: when mojibake appears, stop normal editing, scan the active source set for the corruption pattern, repair the file text under explicit UTF-8 handling, and only then continue content work so the corruption does not spread
