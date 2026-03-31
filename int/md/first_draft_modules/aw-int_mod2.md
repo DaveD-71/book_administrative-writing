@@ -1411,6 +1411,30 @@ Before you finish an email task, write one short follow-up note:
 
 This extra planning step helps the writer build emails that feel more purposeful and more realistic in workplace sequence.
 
+### Module 2 audience contrast check
+
+Take one short email from this module and test it against two readers:
+
+- an internal colleague who already knows the background
+- an outside office that only knows the immediate issue
+
+Then ask:
+
+- Which version needs more background before the main point?
+- Which version needs the narrower question or request?
+- Which version needs the calmest closing line?
+
+This comparison matters because the same email purpose can still need a different shape when the relationship changes.
+
+### Module 2 reply-path mini planner
+
+Before you send a clarification or request email, add one short planning line:
+
+- If the reply is clear, what is your next action?
+- If the reply is incomplete, what is your follow-up question?
+
+This keeps the message sequence practical and helps the first email lead more naturally to the next step.
+
 
 
 

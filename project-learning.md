@@ -638,3 +638,28 @@ Historical note:
 - Context: project-wide mojibake review after corruption was found outside the live module files
 - Observation: the repo-wide scan found remaining mojibake in planning files, project memory notes, and `int/md/aw-int-all.md`. The affected small files were normalized directly, and the combined intermediate draft was rebuilt from the clean intro plus the six live module files under explicit UTF-8 handling. A new repo utility, `scripts/check_mojibake.py`, now provides an explicit mojibake scan for common corruption patterns without depending on Windows console rendering.
 - Preferred behavior: run `python scripts/check_mojibake.py` before large regeneration steps and before commit whenever encoding drift is suspected; if the combined intermediate draft needs regeneration, rebuild it from the live UTF-8 source files rather than editing the combined file directly
+
+
+### 2026-03-31T14:25:00+09:00 - Intermediate Module 2 Now Clears The INT-5A Parity Floor With A Light Wave 4 Email-Reinforcement Layer
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: continuing `INT-5A` after confirming that Module 4 already cleared its floor and matched its Wave 4 brief
+- Observation: `int/md/first_draft_modules/aw-int_mod2.md` was expanded from about `6,011` words to about `6,155` words through a light reinforcement pass at the end of the module review layer. The pass added a `Module 2 audience contrast check` and a `Module 2 reply-path mini planner`, which strengthen the exact Wave 4 targets for Module 2: follow-up sequence, audience contrast, and reply-planning. This now clears the `INT-5A` Module 2 parity floor of `6,051` words.
+- Preferred behavior: treat Module 2 as having reached the floor with sufficient lighter email-sequence reinforcement, and move the next `INT-5A` priority pass to Module 5 unless a later quality review reveals a specific remaining Module 2 weakness
+
+
+### 2026-03-31T15:00:00+09:00 - Module-Level Rechecks Now Support Closing INT-5A And Restarting QA
+
+- Status: `monitor`
+- Scope: project/stage
+- Context: formal recheck of the intervention-plan standard after verifying Modules 6, 3, 4, 2, 5, and 1 directly against `aw-int_Support-Parity Intervention Plan.md`
+- Observation: the six live intermediate modules now appear to satisfy the module-level `INT-5A` requirements in both support depth and parity-band terms. Current live counts are:
+  - Mod 1 `4,762`
+  - Mod 2 `6,155`
+  - Mod 3 `6,031`
+  - Mod 4 `6,258`
+  - Mod 5 `4,265`
+  - Mod 6 `8,233`
+  These values all now sit within the intervention-plan bands, and direct file checks support the judgment that the required support architecture is visibly present across the set.
+- Preferred behavior: treat `INT-5A` as complete on the rebuild side, preserve `QA-B01` as the historical blocker that triggered the intervention, and restart `INT-6` from the preliminary cross-check through a Round 1 addendum rather than by opening a new QA round prematurely

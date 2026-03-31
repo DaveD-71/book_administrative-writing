@@ -1207,3 +1207,38 @@ Historical note:
 - Result:
   - the repo-level mojibake scan now returns clean
   - the combined intermediate draft is now regenerated from clean source instead of carrying inherited corruption
+
+
+### 2026-03-31T14:25:00+09:00 - Applied A Light Wave 4 Reinforcement Pass To Intermediate Module 2 Until The Floor Was Cleared
+
+- Confirmed first that `int/md/first_draft_modules/aw-int_mod4.md` already sat above its floor and already matched the saved Wave 4 focus, so no further Module 4 support additions were needed before moving on
+- Continued `INT-5A` on the live source file:
+  - `int/md/first_draft_modules/aw-int_mod2.md`
+- Added light email-sequence reinforcement rather than a heavier rebuild:
+  - `Module 2 audience contrast check`
+  - `Module 2 reply-path mini planner`
+- Recounted the module after the pass:
+  - Module 2 now measures about `6,155` words
+- Result:
+  - Module 2 now gives stronger support for follow-up sequence, audience contrast, and reply-path planning without drifting into a heavier rebuild than the brief required
+  - the module now clears the `INT-5A` parity floor for Module 2 and can be treated as another completed near-floor Wave 4 target
+
+
+### 2026-03-31T15:00:00+09:00 - Restarted Intermediate QA Through A Round 1 Addendum After Completing The Support-Parity Recheck
+
+- Rechecked the six live intermediate modules directly against `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md` instead of relying only on the Wave 4 brief or floor counts
+- Confirmed the live module totals now fall inside the required parity bands:
+  - Mod 1 `4,762`
+  - Mod 2 `6,155`
+  - Mod 3 `6,031`
+  - Mod 4 `6,258`
+  - Mod 5 `4,265`
+  - Mod 6 `8,233`
+- Confirmed the live modules now visibly carry the intervention support architecture strongly enough for QA re-entry
+- Updated `int/edits & guides/qa/aw-int_qa_round1.md` with a `Round 1 Addendum` that:
+  - records the re-entry preliminary cross-check
+  - clears the active blocker status of `QA-B01`
+  - restarts QA from the corrected continuity record rather than opening a new round prematurely
+- Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so:
+  - `INT-5A` is now marked `Done`
+  - `INT-6` is now marked `In Progress`

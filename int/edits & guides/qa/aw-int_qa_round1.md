@@ -313,3 +313,128 @@ So at this stage:
 ---
 
 *Round status: open.*
+
+---
+
+## 6. Round 1 Addendum - QA Re-entry After INT-5A Completion
+
+### 6.1 Addendum purpose
+
+This addendum records the QA re-entry restart required by:
+
+- `int/edits & guides/planning/guide-set/aw-int_Support-Parity Intervention Plan.md`
+- `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
+
+The purpose of this addendum is to confirm whether the completed intervention rebuild has now removed the earlier support-parity blocker strongly enough for normal QA to resume from the preliminary cross-check.
+
+### 6.2 Re-entry preliminary cross-check
+
+#### QA-R1A-01 - The live module set now falls within the required intervention parity bands
+
+- File under review:
+  - whole-book live module set
+- Unit or module:
+  - `Book-level re-entry check`
+- Category:
+  - `5C. Language And Learning`
+  - `5I. Progression`
+  - `6. Book-Level Sign-Off Questions`
+- Criterion:
+  - `5C.5 Support-depth parity`
+  - `5I.3 Module-volume parity`
+- Check item:
+  - the completed intervention rebuild must bring each live module into the required parity band or record an explicit approved exception
+- Result:
+  - `Pass`
+- Evidence:
+  - current live module totals now sit within the required intervention bands:
+    - Mod 1 `4,762 / 5,613`
+    - Mod 2 `6,155 / 7,564`
+    - Mod 3 `6,031 / 7,453`
+    - Mod 4 `6,258 / 7,738`
+    - Mod 5 `4,265 / 5,135`
+    - Mod 6 `8,233 / 10,158`
+  - no approved exception is needed for the current module set
+- Required action:
+  - continue Round 1 under resumed QA rather than treating support-parity failure as an active blocker
+
+#### QA-R1A-02 - The six live modules now show the required intervention support architecture visibly enough for QA restart
+
+- File under review:
+  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Unit or module:
+  - `Book-level re-entry check`
+- Category:
+  - `5C. Language And Learning`
+  - `5G. Structural-Profile Compliance`
+- Criterion:
+  - `5C.5 Support-depth parity`
+  - `5G.1 Unit-profile compliance`
+- Check item:
+  - every rebuilt module must now show visible evidence of the intervention standard rather than only count growth
+- Result:
+  - `Pass`
+- Evidence:
+  - the live modules now visibly include the expected support functions:
+    - module guides
+    - teachable model/example work
+    - explicit principle framing
+    - `Why this works` explanations
+    - self-check routines
+    - editing / revision support
+    - transfer / extension support
+    - module review workshops, strategy maps, clinics, planning grids, and rebuild labs where appropriate
+  - direct rechecks of Modules 1 to 6 now support the judgment that the rebuild has reached the intervention-plan module standard without requiring advanced-style structural cloning
+- Required action:
+  - continue QA against the corrected standard
+
+#### QA-R1A-03 - The control layer and QA rules now support normal QA re-entry
+
+- File under review:
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+  - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+  - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
+  - `int/edits & guides/qa/aw-int_qa_round1.md`
+- Unit or module:
+  - `Control-layer re-entry check`
+- Category:
+  - `5G. Structural-Profile Compliance`
+  - `6. Book-Level Sign-Off Questions`
+- Criterion:
+  - control documents and QA continuity records must now reflect parity as a binding standard and permit resumed QA under corrected rules
+- Check item:
+  - the planning layer must encode parity as binding
+  - the QA continuity file must preserve the earlier blocker historically while allowing that blocker to be cleared when evidence changes
+- Result:
+  - `Pass`
+- Evidence:
+  - the current control layer explicitly treats support parity and module-volume parity as binding requirements
+  - the continuity QA record already preserved the earlier `QA-B01` blocker as the correct historical intervention trigger
+  - this addendum now records the evidence that clears that blocker for resumed QA
+- Required action:
+  - continue Round 1 from the restarted preliminary cross-check and move next to the remaining whole-book QA checks
+
+### 6.3 QA-B01 blocker disposition
+
+`QA-B01` remains correct as the historical reason `INT-5A` was activated.
+
+Its blocker status is now treated as:
+
+- `Cleared by Round 1 Addendum`
+
+Reason:
+
+- the intervention rebuild has now moved all six live modules into the required parity bands
+- the live module set now shows the required support architecture strongly enough for QA re-entry
+
+### 6.4 Re-entry judgment
+
+Updated QA position after this addendum:
+
+- `INT-5A` no longer needs to remain the active blocking stage
+- `INT-6` may now restart from the preliminary cross-check under the corrected QA rules
+- Round 1 remains open, but it is now open as an active resumed QA pass rather than as a blocked continuity record
+- support parity should now be checked as a maintained achieved condition, not as an unresolved stage blocker
+
+*Addendum status: QA restarted from the preliminary cross-check after intervention-stage completion.*
