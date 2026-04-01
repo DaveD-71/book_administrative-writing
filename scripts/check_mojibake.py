@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scan repo text files for common mojibake patterns."""
+"""Check repo text files for UTF-8 validity and unexpected non-ASCII text."""
 
 from __future__ import annotations
 
@@ -18,37 +18,46 @@ DEFAULT_EXTENSIONS = {
     ".yaml",
 }
 
-PATTERNS = (
-    "窶",
-    "竊",
-    "遯ｶ繝ｻ",
-    "驕ｯ・ｶ郢晢ｽｻ",
-    "隨ｨ繝ｻ",
-    "﨟樣箕",
-    "﨟樊ｳｯ",
-    "﨟樊政",
-    "遶翫・",
-    "遶｢・ｳ",
-    "蜀ｲ",
-    "蜀ｱ",
-    "窶ｦ",
-    "窶釘",
-    "窶忤",
-    "窶廚",
-    "窶弩",
-    "窶廬",
-    "窶播oes",
-    "窶俳nly",
-)
-
 SKIP_DIRS = {
     ".git",
     "__pycache__",
 }
 
-SKIP_FILES = {
-    "check_mojibake.py",
+# A small set of intentional non-ASCII punctuation / symbols is used across the
+# repo. Everything else above ASCII is treated as suspicious unless explicitly
+# allowlisted by path.
+ALLOWED_NON_ASCII_CHARS = {
+    "\u00A7",  # section sign
+    "\u00E0",  # latin small letter a with grave
+    "\u00B7",  # middle dot
+    "\u00D7",  # multiplication sign
+    "\u2011",  # non-breaking hyphen
+    "\u2013",  # en dash
+    "\u2014",  # em dash
+    "\u2019",  # right single quotation mark
+    "\u201C",  # left double quotation mark
+    "\u201D",  # right double quotation mark
+    "\u2026",  # ellipsis
+    "\u2191",  # upwards arrow
+    "\u2192",  # rightwards arrow
+    "\u23F3",  # hourglass not done
+    "\u2605",  # black star
+    "\u26A0",  # warning sign
+    "\u2713",  # check mark
+    "\u2705",  # white heavy check mark
+    "\u274C",  # cross mark
+    "\u2B1C",  # white large square
+    "\uFE0F",  # variation selector-16
+    "\U0001F195",  # NEW button
+    "\U0001F4CB",  # clipboard
+    "\U0001F504",  # anticlockwise arrows button
+    "\U0001F534",  # red circle
+    "\U0001F7E1",  # yellow circle
 }
+
+# Paths listed here are allowed to contain additional intentional non-ASCII text.
+# Keep this list small and explicit so mojibake remains easy to catch.
+ALLOW_NON_ASCII_PATHS: tuple[str, ...] = ()
 
 
 def iter_files(root: Path):
@@ -57,42 +66,76 @@ def iter_files(root: Path):
             continue
         if any(part in SKIP_DIRS for part in path.parts):
             continue
-        if path.name in SKIP_FILES:
-            continue
         if path.suffix.lower() not in DEFAULT_EXTENSIONS:
             continue
         yield path
 
 
-def scan_file(path: Path):
+def is_non_ascii_allowed(path: Path, root: Path, extra_allowed: tuple[str, ...]) -> bool:
+    rel = path.relative_to(root).as_posix()
+    allowed = ALLOW_NON_ASCII_PATHS + extra_allowed
+    return any(
+        rel == pattern or rel.startswith(f"{pattern}/")
+        for pattern in allowed
+    )
+
+
+def find_unexpected_non_ascii(line: str):
+    return [
+        char for char in line
+        if ord(char) > 127 and char not in ALLOWED_NON_ASCII_CHARS
+    ]
+
+
+def scan_file(path: Path, root: Path, extra_allowed: tuple[str, ...]):
     try:
         text = path.read_text(encoding="utf-8")
     except UnicodeDecodeError:
         return [("decode-error", 0, "File is not valid UTF-8")]
 
+    if is_non_ascii_allowed(path, root, extra_allowed):
+        return []
+
     hits = []
     for lineno, line in enumerate(text.splitlines(), 1):
-        matched = [pattern for pattern in PATTERNS if pattern in line]
-        if matched:
-            hits.append(("pattern", lineno, f"{', '.join(matched)} :: {line.strip()}"))
+        bad_chars = find_unexpected_non_ascii(line)
+        if bad_chars:
+            unique_chars = " ".join(sorted(set(bad_chars)))
+            hits.append(
+                (
+                    "non-ascii",
+                    lineno,
+                    f"{unique_chars} :: {line.strip()}",
+                )
+            )
     return hits
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Check repository files for mojibake.")
+    parser = argparse.ArgumentParser(
+        description="Check repository files for UTF-8 validity and unexpected non-ASCII text."
+    )
     parser.add_argument("root", nargs="?", default=".", help="Root directory to scan")
+    parser.add_argument(
+        "--allow-non-ascii",
+        action="append",
+        default=[],
+        metavar="PATH",
+        help="Relative file or directory allowed to contain intentional non-ASCII text",
+    )
     args = parser.parse_args()
 
     root = Path(args.root).resolve()
+    extra_allowed = tuple(args.allow_non_ascii)
     findings = []
 
     for path in iter_files(root):
-        hits = scan_file(path)
+        hits = scan_file(path, root, extra_allowed)
         if hits:
             findings.append((path, hits))
 
     if not findings:
-        print("No mojibake patterns found.")
+        print("No encoding or non-ASCII issues found.")
         return 0
 
     for path, hits in findings:

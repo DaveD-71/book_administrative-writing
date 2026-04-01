@@ -14,10 +14,10 @@ Historical note:
 - Read the advanced N11 source set:
   - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
   - `adv/edits & guides/references/excerpt from Step14 thread.md`
-  - `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
+  - `adv/archive/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
-  - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_module_editing_protocol.md`
-  - `adv/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_qa_checklist_template.md`
+  - `adv/archive/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_module_editing_protocol.md`
+  - `adv/archive/md/revised_modules_n9/Codex QA protocol and checks/aw-adv_n9_qa_checklist_template.md`
 - Drafted the new book-wide QA framework:
   - `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md`
 - Updated the advanced to-do list so `N11` is now marked `In progress`
@@ -28,7 +28,7 @@ Historical note:
 
 - Ran initial structured checks against the active `n10` module files and supporting project docs
 - Recorded the first review note at:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
 - Confirmed in the active `n10` files:
   - `P2` B7 tasks are present in Units 11, 13, 17, and 21
   - `P6` B6 tasks are present in Units 15, 18, 19, and 22
@@ -46,7 +46,7 @@ Historical note:
   - Unit 14 `E4` clearly defines `Task 1` and `Task 2` word-count ranges
   - Unit 22 `E4` clearly defines planning-note and full-document ranges
   - Unit 22 includes explicit fallback and transfer support rather than assuming prior saved work
-- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md` so these items now record as `Pass`, with the tooling limitation noted separately
+- Updated `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round1.md` so these items now record as `Pass`, with the tooling limitation noted separately
 
 
 ### 2026-03-15T01:18:00+09:00 - N11 Broader Variety And Support Check
@@ -54,7 +54,7 @@ Historical note:
 - Counted explanation/support markers across the six active `n10` module files and confirmed the `N10` pedagogical layer is visibly embedded across the full book, though final sufficiency remains a qualitative QA question
 - Confirmed broad activity-type variety is present in the active files rather than only in the planning documents
 - Identified the remaining likely book-level variety risk as possible scenario-family / JPO-option overlap, especially in some Modules 2 and 4 interoffice coordination prompts
-- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md` with these findings
+- Updated `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round1.md` with these findings
 
 
 ### 2026-03-15T15:16:24.7226107+09:00 - N11 Sameness Pass Prompt Repairs
@@ -66,7 +66,7 @@ Historical note:
   - Unit 13 `H3`
   - Unit 15 `H3`
 - The revised prompts now preserve the target skill while using more distinct contexts from their paired freer-writing JPO options
-- Recorded the repaired-status finding in `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
+- Recorded the repaired-status finding in `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
 
 
 ### 2026-03-15T19:32:00+09:00 - N11 Checklist Tightened And Round 2 Findings Recorded
@@ -81,7 +81,7 @@ Historical note:
   - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Recorded the focused second-pass review at:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
 - Round 2 conclusion:
   - the earlier overlap repairs improved local distinctness
   - but Modules 2 and 4 still contain JPO prompts that are too dense and too clustered around trilateral / counterpart-office coordination
@@ -92,7 +92,7 @@ Historical note:
 
 - Re-read all six active `n10` module files as a genuine full-book Round 2 pass after the checklist revision
 - Treated the earlier Round 1 note as historical background only, because the revised checklist changed the operative QA standard
-- Rewrote `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md` so it now records:
+- Rewrote `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round2.md` so it now records:
   - full-book coverage across Units 1-23 and all A-H sections
   - broad passes in pedagogical support, learner-level scaffolding, progression, and activity-type variety
   - structural / coding cleanup still needed in Modules 1 and 3
@@ -103,15 +103,15 @@ Historical note:
 ### 2026-03-15T20:05:00+09:00 - Round 3 Completed After Claude Checklist Verification
 
 - Read and cross-checked:
-  - `adv/edits & guides/n11/aw-adv_n11_claude-fb_qa_checklist.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
-  - `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md`
-  - `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`
-  - `adv/edits & guides/steps/aw-adv_step11_learning-goals-mapping.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_claude-fb_qa_checklist.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
+  - `adv/archive/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md`
+  - `adv/archive/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`
+  - `adv/archive/edits & guides/steps/aw-adv_step11_learning-goals-mapping.md`
   - live active `n10` module files for the specific open blockers
 - Upgraded `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` so the main checklist now includes the stronger v2 controls rather than leaving them only in the Claude draft
 - Created the new operative QA record:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
 - Round 3 outcome:
   - kept the Modules 2 and 4 JPO prompt blockers as live
   - confirmed the unresolved H1/profile mismatch in Units 2, 3, 4, 6, and 11 as a real sign-off blocker
@@ -142,9 +142,9 @@ Historical note:
 
 ### 2026-03-17T19:48:30.4465385+09:00 - Implemented The Unit 23 Dual-Use Capstone Rubric
 
-- Replaced the old ten-item checklist-style `F3` table in `adv/md/n10/aw-adv_mod6_n10.md` with an eight-criterion learner-facing self-assessment rubric
+- Replaced the old ten-item checklist-style `F3` table in `adv/md/final/modules/aw-adv_mod6_n10.md` with an eight-criterion learner-facing self-assessment rubric
 - Added a framing note in Unit 23 explaining that the rubric categories map to the book's major cumulative skill strands
-- Created the companion Unit 23 rubric at `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
+- Created the companion Unit 23 rubric at `adv/md/final/supplemental/aw-adv_unit23_capstone_rubric.md`
 - Kept the learner and teacher rubrics aligned to the same eight analytic criteria:
   - Task Fulfillment
   - Source Coverage
@@ -163,9 +163,9 @@ Historical note:
 
 ### 2026-03-17T21:20:00+09:00 - Created A Formal N11 Grouped-Option Issue List
 
-- Re-audited the live `adv/md/n10` files for grouped-option parallelism before moving into full review
+- Re-audited the live `adv/md/final/modules` files for grouped-option parallelism before moving into full review
 - Confirmed that earlier Round 2 / Round 3 findings on JPO-option calibration and within-set parallelism were not sufficiently closed by the later targeted recheck
-- Created `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+- Created `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - The issue list:
   - carries forward the earlier grouped-option findings from the Round 1 / Round 2 / Round 3 QA history
   - records current live-file evidence for the still-open Module 2 and Module 4 issues
@@ -181,12 +181,12 @@ Historical note:
   - full review
   - `P4`
 - Added direct restart references in the to-do list pointing to:
-  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
-- Updated `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round1.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
+- Updated `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md` so the 2026-03-17 targeted recheck is now treated as an intermediate recheck rather than final sign-off
 
 
 ### 2026-03-18T00:00:00+09:00 - Reorganized Advanced Edit Guides Into Functional Subfolders
@@ -199,16 +199,16 @@ Historical note:
   - `references`
 - Moved the existing advanced guide files into those subfolders by document role
 - Updated repo references to the new relative paths so the moved files remain discoverable from the to-do list, QA notes, planning docs, and project memory
-- This cleanup is structural only; it does not change the active `adv/md/n10` content baseline or the reopened `N11` task scope
+- This cleanup is structural only; it does not change the active `adv/md/final/modules` content baseline or the reopened `N11` task scope
 
 
 ### 2026-03-18T00:25:00+09:00 - Began The Reopened N11 Source Pass On Grouped-Option Issues
 
 - Started the live source-edit pass for the known grouped-option issue list in:
-  - `adv/md/n10/aw-adv_mod2_n10.md`
-  - `adv/md/n10/aw-adv_mod4_n10.md`
-  - `adv/md/n10/aw-adv_mod6_n10.md`
-- Revised all ten `GO-01` to `GO-10` items listed in `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/md/final/modules/aw-adv_mod2_n10.md`
+  - `adv/md/final/modules/aw-adv_mod4_n10.md`
+  - `adv/md/final/modules/aw-adv_mod6_n10.md`
+- Revised all ten `GO-01` to `GO-10` items listed in `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - The edits focused on:
   - improving within-set option parallelism
   - reducing JPO-option load where it was inflated
@@ -229,8 +229,8 @@ Historical note:
   - `5D.4 Choice-list quality`
   - `5E.3 Variety without chaos`
 - Recorded the recheck result in:
-  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
 - Current state:
   - the known grouped-option issue list is now clear at unit level
   - `N11` remains open because the broader six-module book-level recheck has not yet been completed
@@ -238,18 +238,18 @@ Historical note:
 
 ### 2026-03-18T00:55:00+09:00 - Completed The Broader N11 Full-Book Recheck
 
-- Ran the broader recheck across all six live `adv/md/n10/aw-adv_mod*_n10.md` files against:
+- Ran the broader recheck across all six live `adv/md/final/modules/aw-adv_mod*_n10.md` files against:
   - `5B.1 Level appropriacy`
   - `5D.3 Calibration`
   - `5D.4 Choice-list quality`
   - `5E.3 Variety without chaos`
 - Identified and tightened two additional book-level outliers during the wider pass:
-  - `adv/md/n10/aw-adv_mod2_n10.md` Unit 6 `E1`
-  - `adv/md/n10/aw-adv_mod4_n10.md` Unit 13 `E1`
+  - `adv/md/final/modules/aw-adv_mod2_n10.md` Unit 6 `E1`
+  - `adv/md/final/modules/aw-adv_mod4_n10.md` Unit 13 `E1`
 - Reviewed the remaining JPO option sets in Modules 3 and 5 and retained them as acceptable rather than as active blockers
 - Updated the live QA/control files so they now reflect `N11` completion:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
-  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Current stage after this pass:
   - `N11` is now complete
@@ -260,15 +260,15 @@ Historical note:
 
 - Ran a new clean-sheet `N11` Round 4 full-book QA pass using `adv/edits & guides/planning/guide-set/aw-adv_n11_qa_checklist.md` as the operative standard and treating the earlier round files as historical evidence only
 - Created the standalone Round 4 artifact:
-  - `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 - During the live-file pass, found one remaining cross-module structural-consistency family that had not been fully closed earlier:
   - Module 2 still had code-first activity headings and mixed Section H labels
   - Modules 3, 4, and 5 still used inconsistent Section H labels
 - Corrected that formatting family in the live files:
-  - `adv/md/n10/aw-adv_mod2_n10.md`
-  - `adv/md/n10/aw-adv_mod3_n10.md`
-  - `adv/md/n10/aw-adv_mod4_n10.md`
-  - `adv/md/n10/aw-adv_mod5_n10.md`
+  - `adv/md/final/modules/aw-adv_mod2_n10.md`
+  - `adv/md/final/modules/aw-adv_mod3_n10.md`
+  - `adv/md/final/modules/aw-adv_mod4_n10.md`
+  - `adv/md/final/modules/aw-adv_mod5_n10.md`
 - Final Round 4 state:
   - the structural-consistency family was cleared in the same pass
   - no unresolved `Revise` blocker remained after correction
@@ -298,12 +298,12 @@ Historical note:
 ### 2026-03-22T18:04:57.9320799+09:00 - Applied E3 Role-Clarity Follow-Through And Locked It In On Main
 
 - Implemented the Unit 5, Unit 12, and Unit 19 E3 role-clarity rewrites in the live advanced `n10` source files:
-  - `adv/md/n10/aw-adv_mod2_n10.md`
-  - `adv/md/n10/aw-adv_mod4_n10.md`
-  - `adv/md/n10/aw-adv_mod6_n10.md`
+  - `adv/md/final/modules/aw-adv_mod2_n10.md`
+  - `adv/md/final/modules/aw-adv_mod4_n10.md`
+  - `adv/md/final/modules/aw-adv_mod6_n10.md`
 - Updated the Unit 5 planning / QA follow-through so the planning layer now reflects the live fix:
   - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
-  - `adv/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
+  - `adv/archive/edits & guides/n11/aw-adv_n11_grouped-option_issue_list_2026-03-17.md`
 - Encoded the E3 role-definition standard in the series source-of-truth documents:
   - `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
@@ -422,9 +422,9 @@ Historical note:
 ### 2026-03-22T20:05:00+09:00 - Resolved The Unit 23 Full-Review Rubric Drift
 
 - Updated the learner-facing Unit 23 rubric in:
-  - `adv/md/n10/aw-adv_mod6_n10.md`
+  - `adv/md/final/modules/aw-adv_mod6_n10.md`
 - Updated the companion teacher rubric in:
-  - `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
+  - `adv/md/final/supplemental/aw-adv_unit23_capstone_rubric.md`
 - Added a shared criterion-to-unit teaching map so each capstone criterion now points students and teachers back to the earlier units that teach the relevant skill
 - Kept the eight-criterion rubric architecture rather than restoring the older ten-item checklist
 - Moved word count handling to a submission reminder rather than treating it as a core analytic criterion
@@ -436,7 +436,7 @@ Historical note:
 ### 2026-03-22T20:20:00+09:00 - Closed The Remaining Round 1 Full-Review Items
 
 - Strengthened the Unit 18 `B6` instruction so learners are explicitly told to keep the paragraph for reuse in `D2`:
-  - `adv/md/n10/aw-adv_mod5_n10.md`
+  - `adv/md/final/modules/aw-adv_mod5_n10.md`
 - Made the editorial decision to keep Unit 12 `E3` shorter as an intentional bounded exception and recorded that decision in the planning layer:
   - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
 - Updated the Round 1 full-review record so the remaining two findings now include resolution notes and the round is treated as cleanup-complete:
@@ -447,10 +447,10 @@ Historical note:
 
 - Verified the live intermediate source set now used by the control layer:
   - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+  - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
   - `int/md/aw-int-all.md` as reference-only combined snapshot
 - Created the first intermediate audit artifact:
-  - `int/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`
+  - `int/archive/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`
 - Marked `INT-2` complete and moved `INT-3` to in progress in:
   - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
 - Started the structural-profile build by drafting Module 1 in:
@@ -465,12 +465,12 @@ Historical note:
 ### 2026-03-22T21:35:00+09:00 - Generated First-Draft Intermediate Module Files
 
 - Built a separate module-file layer from the current split unit files:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Preserved the current control-layer rule that the split unit files remain the canonical baseline for now
 - Updated the intermediate to-do list so `INT-4` now points to module-by-module revision using the new module-file layer once the profile build is ready
 
@@ -478,22 +478,22 @@ Historical note:
 ### 2026-03-22T21:45:00+09:00 - Moved Intermediate Split Unit Files Into A Dedicated Units Subfolder
 
 - Created the dedicated source subfolder:
-  - `int/md/units`
+  - `int/archive/md/units`
 - Moved the 23 split unit files into that subfolder:
-  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+  - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
 - Left the other intermediate Markdown layers in place:
   - `int/md/aw-int-all.md`
-  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
-- Updated the active intermediate control files so current live-source references now point to `int/md/units`
+  - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- Updated the active intermediate control files so current live-source references now point to `int/archive/md/units`
 
 
 ### 2026-03-22T22:20:00+09:00 - Switched Intermediate Active Editing To The Module Files Only
 
 - Updated the intermediate control layer so the live source set now uses:
   - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Reclassified these as reference-only support layers unless a later control decision changes them:
-  - `int/md/units/aw-int-01.md` to `aw-int-23.md`
+  - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
   - `int/md/aw-int-all.md`
 - Updated the current intermediate source-of-truth documents accordingly:
   - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
@@ -526,7 +526,7 @@ Historical note:
   - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
   - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md`
 - Preserved the intermediate book's own identity while strengthening the control layer:
-  - live source remains the module files under `int/md/first_draft_modules`
+  - live source remains the module files under `int/md/final/modules`
   - structural logic remains lower-load and non-`A-H`
   - prompt and QA standards remain calibrated for A2-B1+ workplace learners
 - Result:
@@ -594,7 +594,7 @@ Historical note:
 - Marked `INT-4` as in progress in:
   - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
 - Updated the active `INT-4` priority note so Module 1 is the immediate revision target
-- Revised `int/md/first_draft_modules/aw-int_mod1.md` to improve early prompt control:
+- Revised `int/md/final/modules/aw-int_mod1.md` to improve early prompt control:
   - Unit 1 freer practice now names the message purpose and required content more explicitly
   - Unit 2 freer practice now identifies the audience and expected email components more clearly
   - Unit 2 homework is now self-study friendly rather than classroom-dependent
@@ -603,7 +603,7 @@ Historical note:
 
 ### 2026-03-23T00:25:00+09:00 - Continued INT-4 With A Module 2 Prompt-And-Structure Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod2.md` to align better with the prompt policy and structural profiles:
+- Revised `int/md/final/modules/aw-int_mod2.md` to align better with the prompt policy and structural profiles:
   - Unit 4 freer practice now makes audience, message components, and email expectations explicit
   - Unit 5 no longer keeps an extra live writing task inside `Reflection`
   - Unit 6 freer practice now gives clearer audience framing and update-message requirements
@@ -613,7 +613,7 @@ Historical note:
 
 ### 2026-03-23T00:45:00+09:00 - Continued INT-4 With A Module 3 Prompt-And-Structure Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod3.md` to align better with the prompt policy and structural profiles:
+- Revised `int/md/final/modules/aw-int_mod3.md` to align better with the prompt policy and structural profiles:
   - Unit 8 guided, freer, and extended tasks now state the user, purpose, and expected procedure framing more explicitly
   - Unit 9 guided and freer notice tasks now identify the internal audience and required notice parts more clearly
   - Unit 10 guided, freer, and extended tasks now make the internal-reporting audience and expected problem-description components explicit
@@ -623,7 +623,7 @@ Historical note:
 
 ### 2026-03-23T01:05:00+09:00 - Continued INT-4 With A Module 4 Prompt-And-Structure Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod4.md` to align better with the prompt policy and structural profiles:
+- Revised `int/md/final/modules/aw-int_mod4.md` to align better with the prompt policy and structural profiles:
   - Unit 12 guided, freer, and extended tasks now state the outward-facing writer/reader relationship and the required inquiry-email components more explicitly
   - Unit 13 guided, freer, and extended tasks now identify the internal explanation audience and the main explanation components more clearly
   - Unit 14 guided, freer, and extended tasks now make the clarification-response relationship and required response moves more explicit
@@ -633,7 +633,7 @@ Historical note:
 
 ### 2026-03-23T01:20:00+09:00 - Continued INT-4 With A Module 5 Prompt-And-Structure Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod5.md` to align better with the structural profiles and keep the unit role explicitly editorial:
+- Revised `int/md/final/modules/aw-int_mod5.md` to align better with the structural profiles and keep the unit role explicitly editorial:
   - Unit 16 guided, freer, and extended tasks now state the editing role and draft-to-final revision purpose more clearly
   - Unit 17 guided, freer, and extended tasks now frame the work explicitly as revising unclear internal drafts for a reader
   - Unit 18 guided, freer, and extended tasks now frame the work explicitly as revising rough drafts into more professional versions
@@ -642,7 +642,7 @@ Historical note:
 
 ### 2026-03-23T01:35:00+09:00 - Continued INT-4 With A Module 6 Prompt-And-Structure Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod6.md` to align better with the structural profiles while preserving the integrated multi-document architecture:
+- Revised `int/md/final/modules/aw-int_mod6.md` to align better with the structural profiles while preserving the integrated multi-document architecture:
   - Unit 19 now makes the external/internal reader contrast and the paired-document purpose more explicit
   - Unit 20 now makes the revision-message vs. internal-notice audience contrast more explicit
   - Unit 21 now frames the consistency work more explicitly as revising different colleagues' drafts to one shared standard
@@ -656,13 +656,13 @@ Historical note:
 - Rechecked the full six-module live source set after the initial `INT-4` pass
 - Confirmed that no second targeted prompt-and-structure cleanup pass was needed before moving to the next stage
 - Corrected the one remaining residual live-text issue discovered in the sweep:
-  - the Unit 21 focus line in `int/md/first_draft_modules/aw-int_mod6.md`
+  - the Unit 21 focus line in `int/md/final/modules/aw-int_mod6.md`
 - Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so `INT-4` is closed and `INT-5` is now the active stage
 
 
 ### 2026-03-23T02:15:00+09:00 - Started INT-5 With A Module 1 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod1.md` to make the teaching layer more explicit without increasing overall difficulty:
+- Revised `int/md/final/modules/aw-int_mod1.md` to make the teaching layer more explicit without increasing overall difficulty:
   - Unit 1 now includes a short clear-sentence checklist and a concise simplification guide
   - Unit 2 now includes a short professional-tone explanation and a quick tone-check routine
   - Unit 3 now includes a simple paragraph-purpose frame and a short paragraph-planning routine
@@ -671,7 +671,7 @@ Historical note:
 
 ### 2026-03-23T02:30:00+09:00 - Continued INT-5 With A Module 2 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod2.md` to make the teaching layer more explicit without redesigning the email-task architecture:
+- Revised `int/md/final/modules/aw-int_mod2.md` to make the teaching layer more explicit without redesigning the email-task architecture:
   - Unit 4 now includes a short email-check routine for subject line, purpose, body, and closing
   - Unit 5 now includes a short definition of what makes a strong clarification question
   - Unit 6 now includes a four-question frame for writing useful update messages
@@ -681,7 +681,7 @@ Historical note:
 
 ### 2026-03-23T02:45:00+09:00 - Continued INT-5 With A Module 3 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod3.md` to make the teaching layer more explicit without changing the unit architecture:
+- Revised `int/md/final/modules/aw-int_mod3.md` to make the teaching layer more explicit without changing the unit architecture:
   - Unit 8 now includes a short description of what good procedures usually do
   - Unit 9 now includes a quick notice-check routine
   - Unit 10 now includes a five-question planning frame for problem explanations
@@ -691,7 +691,7 @@ Historical note:
 
 ### 2026-03-23T03:00:00+09:00 - Continued INT-5 With A Module 4 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod4.md` to make the teaching layer more explicit without altering the existing task sequence:
+- Revised `int/md/final/modules/aw-int_mod4.md` to make the teaching layer more explicit without altering the existing task sequence:
   - Unit 12 now includes a short description of what makes an effective external inquiry
   - Unit 13 now includes a short description of what a useful explanation helps the reader do
   - Unit 14 now includes a short description of what a good clarification response should do
@@ -701,7 +701,7 @@ Historical note:
 
 ### 2026-03-23T03:15:00+09:00 - Continued INT-5 With A Module 5 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod5.md` to make the editing-and-revision teaching layer more explicit:
+- Revised `int/md/final/modules/aw-int_mod5.md` to make the editing-and-revision teaching layer more explicit:
   - Unit 16 now includes a quick accuracy-check routine
   - Unit 17 now includes a quick clarity-check routine
   - Unit 18 now includes a quick tone-check routine
@@ -710,7 +710,7 @@ Historical note:
 
 ### 2026-03-23T03:30:00+09:00 - Continued INT-5 With A Module 6 Language-Instruction Pass
 
-- Revised `int/md/first_draft_modules/aw-int_mod6.md` to make the integrated-task teaching layer more explicit:
+- Revised `int/md/final/modules/aw-int_mod6.md` to make the integrated-task teaching layer more explicit:
   - Unit 19 now includes a short audience-and-purpose planning routine for paired documents
   - Unit 20 now includes a consistency check for connected correction documents
   - Unit 21 now includes a short note on what a shared team standard normally covers
@@ -727,7 +727,7 @@ Historical note:
   - `INT-5` is now closed
   - `INT-6` is now the active stage
 - Created the first live QA findings file:
-  - `int/edits & guides/qa/aw-int_qa_round1.md`
+  - `int/archive/edits & guides/qa/aw-int_qa_round1.md`
 - Recorded initial Round 1 findings, including:
   - one live `Revise` item for Unit 5 output-load calibration
   - one `Monitor` item for the Unit 8 mixed manual/step output model
@@ -749,7 +749,7 @@ Historical note:
 
 ### 2026-03-23T04:20:00+09:00 - Re-Evaluated QA Round 1 Against The Revised Hard-Gate Checklist
 
-- Reworked `int/edits & guides/qa/aw-int_qa_round1.md` so it now follows the revised QA workflow rather than the earlier lighter Round 1 structure
+- Reworked `int/archive/edits & guides/qa/aw-int_qa_round1.md` so it now follows the revised QA workflow rather than the earlier lighter Round 1 structure
 - Added a preliminary cross-check section covering:
   - live source-of-truth confirmation
   - post-`INT-4` / `INT-5` planning-live drift check
@@ -766,23 +766,23 @@ Historical note:
 
 ### 2026-03-23T04:45:00+09:00 - Cleared The Recorded Round 1 Intermediate QA Issue Set
 
-- Revised `int/md/first_draft_modules/aw-int_mod2.md` so Unit 5 now uses a lighter freer-writing load:
+- Revised `int/md/final/modules/aw-int_mod2.md` so Unit 5 now uses a lighter freer-writing load:
   - Freer Practice now asks for two clarification emails instead of three
 - Revised `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md` so Unit 5 now matches the live source again:
   - freer-writing load updated from three emails to two
   - stale Reflection-task note removed
-- Revised `int/md/first_draft_modules/aw-int_mod3.md` and the structural profiles so Unit 8 now defines a fixed manual-section format:
+- Revised `int/md/final/modules/aw-int_mod3.md` and the structural profiles so Unit 8 now defines a fixed manual-section format:
   - `1-2` opening sentences
   - `4-6` numbered steps
   - `1` closing sentence
 - Added the Unit 23 rubric support that had previously been deferred:
-  - learner-facing `Portfolio Review Rubric` in `int/md/first_draft_modules/aw-int_mod6.md`
-  - companion teacher / QA file at `int/edits & guides/qa/aw-int_unit23_portfolio_marking_note.md`
+  - learner-facing `Portfolio Review Rubric` in `int/md/final/modules/aw-int_mod6.md`
+  - companion teacher / QA file at `int/md/final/supplemental/aw-int_unit23_portfolio_marking_note.md`
 - Updated `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md` so:
   - `P1` is now done
   - `P2` is now done
   - the current `INT-6` priorities now point to continuing QA after the Round 1 corrections
-- Updated `int/edits & guides/qa/aw-int_qa_round1.md` so the four recorded issues now read as resolved rather than still open blockers
+- Updated `int/archive/edits & guides/qa/aw-int_qa_round1.md` so the four recorded issues now read as resolved rather than still open blockers
 
 
 ### 2026-03-23T10:00:00+09:00 - Activated The Intermediate Support-Parity Intervention And Reclassified QA
@@ -802,18 +802,18 @@ Historical note:
 - Corrected the two remaining local Round 1 source defects while reclassifying the broader blocker:
   - Unit 16 controlled-practice sentence now contains a clear answerable accuracy error
   - Unit 23 now defines the fourth portfolio item consistently
-- Updated `int/edits & guides/qa/aw-int_qa_round1.md` so the local Unit 16 and Unit 23 issues now read as corrected, but the current blocker is the book-level support-parity failure recorded as `QA-B01`
+- Updated `int/archive/edits & guides/qa/aw-int_qa_round1.md` so the local Unit 16 and Unit 23 issues now read as corrected, but the current blocker is the book-level support-parity failure recorded as `QA-B01`
 
 
 ### 2026-03-23T11:15:00+09:00 - Applied The First Whole-Book INT-5A Rebuild Wave Across Modules 1 To 6
 
 - Revised all six live intermediate module files:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Added a new support layer across the book:
   - unit-level model checks
   - explicit why-this-works explanations
@@ -839,12 +839,12 @@ Historical note:
 ### 2026-03-23T12:10:00+09:00 - Applied The Second Whole-Book INT-5A Rebuild Wave Across Modules 1 To 6
 
 - Revised all six live intermediate module files again:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Added a second module-level support layer across the book:
   - strategy maps
   - weak-to-strong or revision clinics
@@ -867,7 +867,7 @@ Historical note:
 
 - Added a new guide-set reference file:
   - `int/edits & guides/planning/guide-set/aw-int_advanced_activity_wordcount_reference.md`
-- Recorded the advanced activity-level averages from the live `adv/md/n10` source set:
+- Recorded the advanced activity-level averages from the live `adv/md/final/modules` source set:
   - overall coded-activity average: `118.72` words
   - per-activity-type averages from `A1` to `H3`
 - Purpose:
@@ -892,12 +892,12 @@ Historical note:
 ### 2026-03-23T12:55:00+09:00 - Normalized Intermediate Unit Headings To The Advanced Structural Format
 
 - Revised the live intermediate module files:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Changed the unit heading format from draft-style:
   - `## 1. Title`
 - to the advanced-aligned structural format:
@@ -921,12 +921,12 @@ Historical note:
 
 - Revised the highest-priority live activity gaps identified in:
   - `int/edits & guides/planning/guide-set/aw-int_activity_gap_worklist.md`
-- Updated `int/md/first_draft_modules/aw-int_mod4.md` to deepen the flagged thin activities in Units 12 to 15:
+- Updated `int/md/final/modules/aw-int_mod4.md` to deepen the flagged thin activities in Units 12 to 15:
   - stronger controlled-practice framing
   - clearer paragraph-planning support
   - fuller email-formatting rationale
   - stronger end-task guidance
-- Updated `int/md/first_draft_modules/aw-int_mod6.md` to deepen the flagged thin activities in Units 19 to 23:
+- Updated `int/md/final/modules/aw-int_mod6.md` to deepen the flagged thin activities in Units 19 to 23:
   - clearer document-pair differentiation
   - stronger multi-document control framing
   - fuller style-guide guidance
@@ -942,10 +942,10 @@ Historical note:
 ### 2026-03-23T13:45:00+09:00 - Completed The Remaining Targeted INT-5A Gap Pass Across Modules 1 To 5
 
 - Revised the remaining flagged activities in:
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod1.md`
 - Strengthened the live text with:
   - clearer task-framing cues
   - stronger explanation of what each activity should accomplish
@@ -960,12 +960,12 @@ Historical note:
 ### 2026-03-23T14:15:00+09:00 - Rebuilt The Flagged Activity-Gap Rows Against The Full INT-5A Standard
 
 - Reworked the flagged activity-gap rows across all six live module files with a heavier support-parity intervention pass:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - This pass moved beyond short framing additions and added more substantive support types inside the flagged activities:
   - mini contrasts and before/after models
   - stronger explanation of why the stronger version works
@@ -991,12 +991,12 @@ Historical note:
 ### 2026-03-23T14:40:00+09:00 - Added A Broader Module-Level Support Wave Across All Six Intermediate Modules
 
 - Added new module-level support structures to all six live intermediate module files:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - This wave moved beyond flagged activity rows and added broader control structures such as:
   - planning boards
   - audience/detail grids
@@ -1037,12 +1037,12 @@ Historical note:
 - Applied the first execution pass under:
   - `int/edits & guides/planning/guide-set/aw-int_wave4_execution_brief.md`
 - Added broader module-level support structures across the live source set, with the heaviest expansion in the still-short modules and lighter reinforcement in the near-floor modules:
-  - `int/md/first_draft_modules/aw-int_mod6.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod1.md`
 - Added broader support types such as:
   - audience-control matrices
   - reader-planning grids
@@ -1065,9 +1065,9 @@ Historical note:
 ### 2026-03-23T15:40:00+09:00 - Executed The Second Focused Wave 4 Pass On Modules 6, 3, And 4
 
 - Applied a second broader support pass to the modules still below the parity floor:
-  - `int/md/first_draft_modules/aw-int_mod6.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
 - Added heavier module-level support sections rather than more isolated row-level thickening, including:
   - multi-document rebuild workshops
   - portfolio completion ladders
@@ -1089,14 +1089,14 @@ Historical note:
 
 - Read the active project memory and current control files before regeneration
 - Confirmed the live source sets used for combination:
-  - advanced: `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
-  - intermediate: `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+  - advanced: `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+  - intermediate: `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Regenerated the combined output files by direct append without content editing:
   - `adv/md/aw-adv-all.md`
   - `int/md/aw-int-all.md`
 - Included the companion Unit 23 capstone rubric in the advanced combined file by appending:
-  - `adv/md/n10/aw-adv_unit23_capstone_rubric.md`
-  - immediately after `adv/md/n10/aw-adv_mod6_n10.md`
+  - `adv/md/final/supplemental/aw-adv_unit23_capstone_rubric.md`
+  - immediately after `adv/md/final/modules/aw-adv_mod6_n10.md`
 - Result:
   - the repo now has current combined Markdown drafts for both textbook tracks based on the present live module sources
 
@@ -1105,12 +1105,12 @@ Historical note:
 
 - Used the revised Claude v2 evaluation as a correction pass rather than as a redesign brief
 - Synced the live intermediate book to the existing structural-profile Can-Do architecture by rewriting all 23 `### Focus` sections in:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Reworked the flagged freer-practice prompt sets in Units 5, 6, 7, 16, 17, and 18 so the options now stay situation-anchored and more parallel in scope and detail
 - Added the missing support-layer refinements in the live book:
   - worked mini-examples beside the phrase-bank material in Units 12 and 13
@@ -1158,7 +1158,7 @@ Historical note:
 ### 2026-03-31T12:35:00+09:00 - Applied Focused Wave 4 Rebuild Passes To Intermediate Module 6 Until The Floor Was Cleared
 
 - Continued `INT-5A` on the live source file:
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 - Added targeted integrated-task support rather than new generic exercises:
   - `Reader-Control Planning Board` in Unit 19
   - `Correction Control Board` in Unit 20
@@ -1176,7 +1176,7 @@ Historical note:
 ### 2026-03-31T13:05:00+09:00 - Applied A Focused Wave 4 Rebuild Pass To Intermediate Module 3 Until The Floor Was Cleared
 
 - Continued `INT-5A` on the live source file:
-  - `int/md/first_draft_modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod3.md`
 - Added targeted internal-document support rather than new generic tasks:
   - `Notice Control Board` in Unit 9
   - `Problem-Logic Planning Grid` in Unit 10
@@ -1200,7 +1200,7 @@ Historical note:
   - `user-learning-mirror.md`
 - Rebuilt `int/md/aw-int-all.md` from:
   - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-  - `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Added a UTF-8 checker utility at `scripts/check_mojibake.py`
 - Verified the repo after cleanup by running:
   - `python scripts/check_mojibake.py`
@@ -1211,9 +1211,9 @@ Historical note:
 
 ### 2026-03-31T14:25:00+09:00 - Applied A Light Wave 4 Reinforcement Pass To Intermediate Module 2 Until The Floor Was Cleared
 
-- Confirmed first that `int/md/first_draft_modules/aw-int_mod4.md` already sat above its floor and already matched the saved Wave 4 focus, so no further Module 4 support additions were needed before moving on
+- Confirmed first that `int/md/final/modules/aw-int_mod4.md` already sat above its floor and already matched the saved Wave 4 focus, so no further Module 4 support additions were needed before moving on
 - Continued `INT-5A` on the live source file:
-  - `int/md/first_draft_modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod2.md`
 - Added light email-sequence reinforcement rather than a heavier rebuild:
   - `Module 2 audience contrast check`
   - `Module 2 reply-path mini planner`
@@ -1235,7 +1235,7 @@ Historical note:
   - Mod 5 `4,265`
   - Mod 6 `8,233`
 - Confirmed the live modules now visibly carry the intervention support architecture strongly enough for QA re-entry
-- Updated `int/edits & guides/qa/aw-int_qa_round1.md` with a `Round 1 Addendum` that:
+- Updated `int/archive/edits & guides/qa/aw-int_qa_round1.md` with a `Round 1 Addendum` that:
   - records the re-entry preliminary cross-check
   - clears the active blocker status of `QA-B01`
   - restarts QA from the corrected continuity record rather than opening a new round prematurely
@@ -1247,7 +1247,7 @@ Historical note:
 ### 2026-03-31T15:35:00+09:00 - Ran The First Strict Module-Level INT-6 Pass Against The Intermediate QA Checklist
 
 - Reviewed the six live module files against the current `aw-int_qa_checklist.md` rather than only against the earlier intervention-plan parity logic
-- Recorded in `int/edits & guides/qa/aw-int_qa_round1.md` that:
+- Recorded in `int/archive/edits & guides/qa/aw-int_qa_round1.md` that:
   - Modules 1 to 5 currently pass the resumed QA gate at module level
   - Module 6 also passes at module level, but now carries one `Monitor` item because Units 21 and 22 express transfer mainly through Reflection / Homework rather than through the more visibly standardized `Transfer Extension` labeling used elsewhere
 - Result:
@@ -1257,7 +1257,7 @@ Historical note:
 
 ### 2026-03-31T16:20:00+09:00 - Created A Dedicated Intermediate QA Review-Round File
 
-- Added `int/edits & guides/qa/aw-int_qa_review_round1.md`
+- Added `int/archive/edits & guides/qa/aw-int_qa_review_round1.md`
 - Structured it after the advanced QA review-round model rather than leaving Intermediate QA documented only in the continuity file
 - Recorded:
   - Round 1 frame
@@ -1280,7 +1280,7 @@ Historical note:
   - `Pass`
   - `Fail`
 - Removed the earlier soft-watch review logic from the active QA standard
-- Rewrote `int/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
+- Rewrote `int/archive/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
 - Current Round 1 result is now explicit:
   - whole-book QA verdict: `Fail`
   - reason: unresolved late-book transfer-signaling inconsistency in Module 6, affecting:
@@ -1293,7 +1293,7 @@ Historical note:
 
 - Rechecked the live modules and control files under the rule:
   - if a criterion is not proven clearly enough from the active source, it fails
-- Rewrote `int/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
+- Rewrote `int/archive/edits & guides/qa/aw-int_qa_review_round1.md` accordingly
 - Current criterion-level outcome:
   - `30` fails
   - `7` passes
@@ -1308,10 +1308,10 @@ Historical note:
   - the current Round 1 verdict remains `Fail`, but it is now a much stricter and much broader fail record
 ## 2026-03-31
 
-- Saved `int/edits & guides/qa/aw-int_round1_remediation_plan.md`.
+- Saved `int/archive/edits & guides/qa/aw-int_round1_remediation_plan.md`.
 - Implemented the Round 1 remediation pass across `aw-int_mod1.md` to `aw-int_mod6.md`.
 - Repaired Unit 21 and 22 late-book QA blockers, added self-study fallback coverage, normalized heading and output-band issues, and synchronized the structural profiles.
-- Rebuilt `int/edits & guides/qa/aw-int_qa_review_round1.md` as a clean-sheet post-remediation QA record.
+- Rebuilt `int/archive/edits & guides/qa/aw-int_qa_review_round1.md` as a clean-sheet post-remediation QA record.
 - Round 1 strict verdict now recorded as `Pass`; Intermediate moves next to `INT-7` full review.
 ## 2026-03-31
 
@@ -1320,6 +1320,29 @@ Historical note:
 ## 2026-03-31
 
 - Added student-response placeholder markers across all advanced `n10` modules and all intermediate live modules.
-- Corrected the advanced pass by removing accidental `H1` extension-task placeholders from `adv/md/n10/aw-adv_mod1_n10.md`.
+- Corrected the advanced pass by removing accidental `H1` extension-task placeholders from `adv/md/final/modules/aw-adv_mod1_n10.md`.
 - Tightened Intermediate Module 6 placeholder placement so Units 19 to 23 use audience-specific multi-box layouts for integrated communication tasks and final portfolio submission.
 - Re-verified the project with `python scripts/check_mojibake.py`; result remained clean.
+## 2026-04-01
+
+- Completed the student-response source layer in both books by adding the standardized helper-instruction text that had still been missing from the live module files.
+- Preserved audience-specific Module 6 labels in the intermediate book and the multi-part advanced late-book labels, while normalizing the helper-instruction pattern above the placeholder boxes.
+- Updated `aw-adv_project_todo_list.md` and `aw-int_project_todo_list.md` so the control layer now records the source-layer work as complete and leaves only the final print-layout replacement work deferred.
+- Created `adv/md/final/modules`, `adv/md/final/supplemental`, `int/md/final/modules`, and `int/md/final/supplemental` as the final source-layer structure.
+- Moved the Unit 23 companion rubric / marking-note files into the new final supplemental folders.
+- Archived the earlier module and unit source trees under `adv/archive/md` and `int/archive/md`.
+- Regenerated `adv/md/aw-adv-all.md` and `int/md/aw-int-all.md` from the canonical `final/modules` source sets.
+- Added `adv/md/README.md` and `int/md/README.md` to document the canonical, derived, and archived roles inside each `md` tree.
+- Moved the completed-stage `edits & guides` material into root-level archive trees:
+  - `adv/archive/edits & guides`
+  - `int/archive/edits & guides`
+- Moved the legacy advanced `old` folder under `adv/archive/old`.
+- Added README files in:
+  - `adv/archive`
+  - `int/archive`
+  - `adv/edits & guides`
+  - `int/edits & guides`
+- The active top-level structure for both books is now reduced to:
+  - `archive`
+  - `edits & guides`
+  - `md`

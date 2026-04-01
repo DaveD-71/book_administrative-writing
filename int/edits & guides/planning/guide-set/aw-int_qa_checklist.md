@@ -47,9 +47,9 @@ Use the following source order:
 3. `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
 4. `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
 5. `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
-6. `int/edits & guides/qa/aw-int_qa_round1.md`
+6. `int/archive/edits & guides/qa/aw-int_qa_round1.md`
 7. `int/edits & guides/planning/supporting/aw-int_project_context.md`
-8. active module files in `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+8. active module files in `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 9. baseline-audit or earlier development records only as narrow historical support
 
 If sources disagree, prefer the higher source in this list unless a later explicit project decision says otherwise.
@@ -104,7 +104,7 @@ Instead, judge whether they are being controlled correctly now:
 Before beginning the module-by-module pass, complete the following:
 
 1. Confirm the current project-control files and active source-of-truth decisions now in force:
-   - the six live module files in `int/md/first_draft_modules`
+   - the six live module files in `int/md/final/modules`
    - the completed structural-profile layer
    - the current intermediate prompt and activity standards
 2. Confirm that the completed `INT-4` and `INT-5` passes did not leave an unresolved planning/live mismatch in the active control layer.

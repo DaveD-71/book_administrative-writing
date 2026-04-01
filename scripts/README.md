@@ -16,7 +16,13 @@ Small stdlib-only CLI for:
 
 ### `check_mojibake.py`
 
-Small UTF-8 scanner for common mojibake patterns in repo text files.
+UTF-8 and ASCII-safety checker for repo text files.
+
+Default behavior:
+
+- fails if a scanned file is not valid UTF-8
+- fails if a scanned file contains any non-ASCII character outside the script's explicit allowed-character set
+- allows additional intentional non-ASCII through an explicit path allowlist
 
 ## Usage
 
@@ -24,31 +30,31 @@ From the repo root:
 
 ```powershell
 python scripts/module_tool.py scaffold `
-  --source adv/md/revised_modules_step13/aw-adv_mod4_revised.md `
-  --dest adv/md/revised_modules_n9/aw-adv_mod4_n9.md
+  --source adv/archive/md/revised_modules_step13/aw-adv_mod4_revised.md `
+  --dest adv/archive/md/revised_modules_n9/aw-adv_mod4_n9.md
 ```
 
 ```powershell
 python scripts/module_tool.py scaffold-pass `
-  --source adv/md/revised_modules_n9/aw-adv_mod1_n9.md `
-  --dest-dir adv/md/n10 `
+  --source adv/archive/md/revised_modules_n9/aw-adv_mod1_n9.md `
+  --dest-dir adv/md/final/modules `
   --from-tag _n9 `
   --to-tag _n10
 ```
 
 ```powershell
 python scripts/module_tool.py validate `
-  --path adv/md/revised_modules_n9/aw-adv_mod3_n9.md
+  --path adv/archive/md/revised_modules_n9/aw-adv_mod3_n9.md
 ```
 
 ```powershell
 python scripts/module_tool.py summary `
-  --path adv/md/revised_modules_n9/aw-adv_mod3_n9.md
+  --path adv/archive/md/revised_modules_n9/aw-adv_mod3_n9.md
 ```
 
 ```powershell
 python scripts/module_tool.py insert-after `
-  --path adv/md/n10/aw-adv_mod2_n10.md `
+  --path adv/md/final/modules/aw-adv_mod2_n10.md `
   --unit 4 `
   --marker "#### B1. Compare Two Versions`n" `
   --content "`n> **Why this works:** ...`n"
@@ -56,7 +62,7 @@ python scripts/module_tool.py insert-after `
 
 ```powershell
 python scripts/module_tool.py replace-literal `
-  --path adv/md/n10/aw-adv_mod2_n10.md `
+  --path adv/md/final/modules/aw-adv_mod2_n10.md `
   --unit 4 `
   --old-file scripts/tmp/old_block.md `
   --new-file scripts/tmp/new_block.md
@@ -66,11 +72,16 @@ python scripts/module_tool.py replace-literal `
 python scripts/check_mojibake.py
 ```
 
+```powershell
+python scripts/check_mojibake.py --allow-non-ascii references
+```
+
 ## Notes
 
 - The script uses only the Python standard library.
 - Validation is intentionally conservative: it checks structure and conventions, not writing quality.
 - The script is meant to support pass-to-pass module work such as `N9` and `N10`, and can be extended later for broader QA work.
 - The editing commands use exact literal matching by default to reduce accidental wide-scope replacements.
+- For this repo, the default expectation is ASCII-only source and control files, except for a small built-in allowlist of intentional punctuation / symbols and any paths explicitly allowlisted.
 - Run `check_mojibake.py` before large regeneration steps or before commit if encoding drift is suspected.
 

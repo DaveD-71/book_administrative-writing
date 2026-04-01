@@ -1,4 +1,4 @@
-﻿# Unit Structural Profiles - Master Planning Table
+# Unit Structural Profiles - Master Planning Table
 ## *Administrative Writing, Intermediate*
 
 ---
@@ -1183,7 +1183,7 @@ Teach learners how to assemble and revise a small writing portfolio that demonst
 **Content flags for revision**
 
 - this unit should remain clearly portfolio-and-revision based rather than turning into another scenario-response unit, because its distinct role is consolidation of earlier work
-- the final portfolio stage now includes a learner-facing rubric in Unit 23 and a companion teacher-facing marking note in `int/edits & guides/qa/aw-int_unit23_portfolio_marking_note.md`
+- the final portfolio stage now includes a learner-facing rubric in Unit 23 and a companion teacher-facing marking note in `int/md/final/supplemental/aw-int_unit23_portfolio_marking_note.md`
 - later module planning should preserve the explicit editing-checklist recap because it provides the clearest bridge from prior units into final revision decisions
 
 **Approved exception**

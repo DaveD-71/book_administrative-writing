@@ -23,11 +23,11 @@ A workplace-writing textbook for lower-level administrative and professional lea
 The current live working source is:
 
 - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-- `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 
 Treat:
 
-- `int/md/units/aw-int-01.md` to `int/md/units/aw-int-23.md`
+- `int/archive/md/units/aw-int-01.md` to `int/archive/md/units/aw-int-23.md`
 - `int/md/aw-int-all.md`
 
 as reference-only baseline/support material unless a later control decision reopens them as live source files.

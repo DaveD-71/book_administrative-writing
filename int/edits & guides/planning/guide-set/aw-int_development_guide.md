@@ -51,16 +51,16 @@ Current guide-set documents:
 For current intermediate development work, the live content source is:
 
 - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-- `int/md/first_draft_modules/aw-int_mod1.md`
-- `int/md/first_draft_modules/aw-int_mod2.md`
-- `int/md/first_draft_modules/aw-int_mod3.md`
-- `int/md/first_draft_modules/aw-int_mod4.md`
-- `int/md/first_draft_modules/aw-int_mod5.md`
-- `int/md/first_draft_modules/aw-int_mod6.md`
+- `int/md/final/modules/aw-int_mod1.md`
+- `int/md/final/modules/aw-int_mod2.md`
+- `int/md/final/modules/aw-int_mod3.md`
+- `int/md/final/modules/aw-int_mod4.md`
+- `int/md/final/modules/aw-int_mod5.md`
+- `int/md/final/modules/aw-int_mod6.md`
 
 Treat the following as reference-only unless a later control decision changes that:
 
-- `int/md/units/aw-int-01.md` to `aw-int-23.md`
+- `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
 - `int/md/aw-int-all.md`
 
 Do not let the older split-unit baseline silently resume authority now that the module files are the live editing source.

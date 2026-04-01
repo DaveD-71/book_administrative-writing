@@ -44,8 +44,8 @@ Use the following source order:
 2. `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
 3. `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
 4. `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
-5. `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
-6. active module files in `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+5. `adv/archive/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
+6. active module files in `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
 7. relevant implementation or review guides in `adv/edits & guides`
 8. earlier `N9` QA files only as narrow precedent, not as the final QA standard
 
@@ -98,7 +98,7 @@ Use `Deferred` only for items explicitly scheduled for a later stage, such as `P
 
 Before beginning the module-by-module pass, complete the following:
 
-1. Read the current `N10` feedback reports (`adv/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md` and `adv/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
+1. Read the current `N10` feedback reports (`adv/archive/edits & guides/n10/aw-adv_n10_claude-fb_mod1-3_v2.md` and `adv/archive/edits & guides/n10/aw-adv_n10_claude-fb_mod4-6_v2.md`) and list all findings that were identified but not yet actioned — including structural issues, content placement errors, missing activity codes, and word count inconsistencies.
 2. Confirm the recorded H1 decision now in force for the active book files: H1 Extension Task is retained as a consistent book-wide feature. If any active file or structural-profile entry still omits H1 or contradicts that decision, record as `Revise`.
 3. Note any other open decisions logged in the project to-do list that affect content currently under review.
 

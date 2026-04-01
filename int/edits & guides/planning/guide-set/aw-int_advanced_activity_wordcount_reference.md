@@ -16,7 +16,7 @@
 
 Source used:
 
-- `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+- `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
 
 Counting rule:
 

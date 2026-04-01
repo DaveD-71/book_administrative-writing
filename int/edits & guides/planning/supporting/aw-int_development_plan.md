@@ -9,9 +9,9 @@ The intermediate book should be developed as a **rigorous adaptation** of the ad
 The active working source should be:
 
 - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
-- `int/md/first_draft_modules/aw-int_mod1.md` to `aw-int_mod6.md`
+- `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 
-For now, `int/md/units/aw-int-01.md` to `int/md/units/aw-int-23.md` and `int/md/aw-int-all.md` should be treated as reference material rather than the live source of truth. The combined draft can be regenerated later after the module files have been revised and signed off.
+For now, `int/archive/md/units/aw-int-01.md` to `int/archive/md/units/aw-int-23.md` and `int/md/aw-int-all.md` should be treated as reference material rather than the live source of truth. The combined draft can be regenerated later after the module files have been revised and signed off.
 
 Project defaults already chosen:
 

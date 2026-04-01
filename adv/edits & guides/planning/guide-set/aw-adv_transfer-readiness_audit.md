@@ -30,14 +30,14 @@
 - The repo state is now much closer to a low-drift reference implementation of that structure than it was during the first audit pass.
 
 **Examples of spillover edits:**
-- `adv/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
-- `adv/edits & guides/n10/aw-adv_n10_language_instruction_plan.md`
-- `adv/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
-- `adv/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
-- `adv/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
-- `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
-- `adv/edits & guides/steps/aw-adv_step19_h1_codex_prompts.md`
-- `adv/old/aw-adv_project_todo_list.md`
+- `adv/archive/edits & guides/n10/aw-adv_n10_language_instruction_framework.md`
+- `adv/archive/edits & guides/n10/aw-adv_n10_language_instruction_plan.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_checklist_v2_claude.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round2.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round3.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+- `adv/archive/edits & guides/steps/aw-adv_step19_h1_codex_prompts.md`
+- `adv/archive/old/aw-adv_project_todo_list.md`
 
 **Audit judgment:**
 - Keep the architectural split.

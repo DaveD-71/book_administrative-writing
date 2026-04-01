@@ -38,7 +38,7 @@ Full review is **not**:
 
 `N11` already decided whether the book met the agreed quality gate for entering full review. The authoritative final `N11` record remains:
 
-- `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 
 Do not reopen `N11` findings by default during full review. Reopen only if new evidence shows that a significant issue remains live in the current source.
 
@@ -48,14 +48,14 @@ Do not reopen `N11` findings by default during full review. Reopen only if new e
 
 ### 3.1 Primary source under review
 
-The object under review is the live advanced `n10` source set:
+The object under review is the live advanced final module source set:
 
-- `adv/md/n10/aw-adv_mod1_n10.md`
-- `adv/md/n10/aw-adv_mod2_n10.md`
-- `adv/md/n10/aw-adv_mod3_n10.md`
-- `adv/md/n10/aw-adv_mod4_n10.md`
-- `adv/md/n10/aw-adv_mod5_n10.md`
-- `adv/md/n10/aw-adv_mod6_n10.md`
+- `adv/md/final/modules/aw-adv_mod1_n10.md`
+- `adv/md/final/modules/aw-adv_mod2_n10.md`
+- `adv/md/final/modules/aw-adv_mod3_n10.md`
+- `adv/md/final/modules/aw-adv_mod4_n10.md`
+- `adv/md/final/modules/aw-adv_mod5_n10.md`
+- `adv/md/final/modules/aw-adv_mod6_n10.md`
 
 These files are the finished content baseline for full review.
 
@@ -67,7 +67,7 @@ Use these as source-of-truth control documents when needed:
 - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
 - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
 - `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
-- `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+- `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 
 Use older step files, earlier `N11` rounds, and historical issue lists only as secondary historical references when a current inconsistency needs tracing.
 
@@ -194,7 +194,7 @@ The advanced full-review stage is complete when:
 
 At the time this protocol was created:
 
-- the authoritative final QA gate is `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+- the authoritative final QA gate is `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 - the first full-review findings file is `adv/edits & guides/full-review/aw-adv_full-review_round1.md`
 - `P4` remains deferred until the full-review findings are resolved or explicitly accepted
 

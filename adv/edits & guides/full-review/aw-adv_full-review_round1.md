@@ -4,11 +4,11 @@
 ---
 
 > **Scope**
-> This file records the first post-`N11` full-review pass on the live advanced baseline in `adv/md/n10`.
+> This file records the first post-`N11` full-review pass on the live advanced baseline in `adv/md/final/modules`.
 >
 > **Review baseline**
-> - live source set: `adv/md/n10/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
-> - final QA gate already cleared in `adv/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
+> - live source set: `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+> - final QA gate already cleared in `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md`
 > - planning/control references used only as source-of-truth support where needed
 
 ---
@@ -22,7 +22,7 @@
 **Files:**
 - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md:953`
 - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md:961`
-- `adv/md/n10/aw-adv_mod6_n10.md:1355`
+- `adv/md/final/modules/aw-adv_mod6_n10.md:1355`
 
 **Why this matters:**
 - The live Unit 23 capstone was deliberately revised under `P7` to an eight-criterion rubric aligned with the teacher rubric.
@@ -48,8 +48,8 @@
 **Severity:** `Should revise`
 
 **Files:**
-- `adv/md/n10/aw-adv_mod5_n10.md:662`
-- `adv/md/n10/aw-adv_mod5_n10.md:734`
+- `adv/md/final/modules/aw-adv_mod5_n10.md:662`
+- `adv/md/final/modules/aw-adv_mod5_n10.md:734`
 
 **Why this matters:**
 - Unit 18 is designed as a revision loop: learners write in `B6`, then revisit that writing in `D2`.
@@ -74,8 +74,8 @@
 **Severity:** `Monitor / possible revise`
 
 **Files:**
-- `adv/md/n10/aw-adv_mod4_n10.md:216`
-- `adv/md/n10/aw-adv_mod4_n10.md:285`
+- `adv/md/final/modules/aw-adv_mod4_n10.md:216`
+- `adv/md/final/modules/aw-adv_mod4_n10.md:285`
 
 **Why this matters:**
 - Module 4 otherwise works in the `~250-word` band for major output tasks.

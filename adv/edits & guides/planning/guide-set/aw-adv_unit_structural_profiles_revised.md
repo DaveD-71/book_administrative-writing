@@ -1001,4 +1001,4 @@ Content flags (for Task B — do not action now):
 
 ---
 
-*Document version: Draft 7 — Step 15, retained as the planning source-of-truth after N9 completion. All 23 units were revised with Can-Do statements at unit and activity level (table format, numbered sub-goals), module introductions, and content flags. The content flags remain as planning / QA reference notes for the completed N9 files in `adv/md/revised_modules_n9`. Activity Introduction Summary retained from Draft 5. Supersedes Draft 6 (Module 1 only) and earlier planning versions.*
+*Document version: Draft 7 — Step 15, retained as the planning source-of-truth after N9 completion. All 23 units were revised with Can-Do statements at unit and activity level (table format, numbered sub-goals), module introductions, and content flags. The content flags remain as planning / QA reference notes for the completed N9 files in `adv/archive/md/revised_modules_n9`. Activity Introduction Summary retained from Draft 5. Supersedes Draft 6 (Module 1 only) and earlier planning versions.*

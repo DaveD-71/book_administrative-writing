@@ -53,12 +53,12 @@ Full review focuses on the finished-book reading and usability level.
 
 The object under review is the live intermediate module source set:
 
-- `int/md/first_draft_modules/aw-int_mod1.md`
-- `int/md/first_draft_modules/aw-int_mod2.md`
-- `int/md/first_draft_modules/aw-int_mod3.md`
-- `int/md/first_draft_modules/aw-int_mod4.md`
-- `int/md/first_draft_modules/aw-int_mod5.md`
-- `int/md/first_draft_modules/aw-int_mod6.md`
+- `int/md/final/modules/aw-int_mod1.md`
+- `int/md/final/modules/aw-int_mod2.md`
+- `int/md/final/modules/aw-int_mod3.md`
+- `int/md/final/modules/aw-int_mod4.md`
+- `int/md/final/modules/aw-int_mod5.md`
+- `int/md/final/modules/aw-int_mod6.md`
 
 These files are the finished content baseline for full review.
 
@@ -72,7 +72,7 @@ Use these as source-of-truth control documents when needed:
 - `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
 - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
 
-Use supporting notes, baseline audits, and older unit-file baselines only as secondary historical references when a current inconsistency needs tracing.
+Use supporting notes, baseline audits, QA history, and older unit-file baselines only as secondary historical references when a current inconsistency needs tracing. These historical records now live under `int/archive`.
 
 ---
 
@@ -200,10 +200,10 @@ The intermediate full-review stage is complete when:
 
 At the current project stage:
 
-- this protocol is a forward control document
-- the book is still earlier than QA and full review
-- the current active work remains structural-profile completion under `INT-3`
-- this file defines the review standard in advance so the earlier stages can build toward it deliberately
+- `INT-6` is complete
+- `INT-7` full review is the active stage
+- the canonical live source set is `int/md/final/modules`
+- future review rounds should be recorded in `int/edits & guides/full-review`
 
 ---
 

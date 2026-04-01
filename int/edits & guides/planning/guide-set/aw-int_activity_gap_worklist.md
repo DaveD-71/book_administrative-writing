@@ -18,12 +18,12 @@ This worklist is based on:
 
 - `int/edits & guides/planning/guide-set/aw-int_advanced_activity_wordcount_reference.md`
 - the current live intermediate module files:
-  - `int/md/first_draft_modules/aw-int_mod1.md`
-  - `int/md/first_draft_modules/aw-int_mod2.md`
-  - `int/md/first_draft_modules/aw-int_mod3.md`
-  - `int/md/first_draft_modules/aw-int_mod4.md`
-  - `int/md/first_draft_modules/aw-int_mod5.md`
-  - `int/md/first_draft_modules/aw-int_mod6.md`
+  - `int/md/final/modules/aw-int_mod1.md`
+  - `int/md/final/modules/aw-int_mod2.md`
+  - `int/md/final/modules/aw-int_mod3.md`
+  - `int/md/final/modules/aw-int_mod4.md`
+  - `int/md/final/modules/aw-int_mod5.md`
+  - `int/md/final/modules/aw-int_mod6.md`
 
 Matching method:
 
