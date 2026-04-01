@@ -611,7 +611,7 @@ Revise the text above and write the full corrected version below.
 
 #### Homework Writing Task (H3)
 
-Write a **220–260 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
+Write a **200–240 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
 - 2–3 clearly identified risks
 - causes and impacts for each
@@ -1099,7 +1099,7 @@ Use this space for your first full draft.
 
 #### Scenario-Based Free Write (E1)
 
-Write a policy-aligned rationale of **200–240 words**. Your rationale must include:
+Write a policy-aligned rationale of **180–220 words**. Your rationale must include:
 
 - a clear recommendation
 - alignment with existing policy or guidelines

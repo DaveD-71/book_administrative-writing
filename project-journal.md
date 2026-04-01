@@ -1369,3 +1369,72 @@ Historical note:
   - the project should not move to `P8` until those findings are corrected or explicitly accepted
 - Merged the new checklist-level assessment structure directly into `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md` and removed the redundant standalone checklist file so the stage definition remains in one authoritative document.
 - Upgraded `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` to the same operational standard, with numbered Section 4 assessment criteria, stronger evidence/recording rules, and an explicit closure gate for `INT-7`.
+
+## 2026-04-01
+
+- Re-ran Advanced full review Round 2 again as a true whole-book pass against the strengthened protocol rather than as a narrow mismatch audit.
+- Rewrote `adv/edits & guides/full-review/aw-adv_full-review_round2.md` so it now records:
+  - key decisions checked
+  - findings first
+  - explicit Section 4 judgments for all five review questions
+  - a clear decision gate for `P4`
+- Updated the Round 2 result:
+  - blocker family is broader than previously recorded
+  - live/planning output-spec mismatches remain across Units 11, 13, 15, and 21
+  - a separate F/G section-label consistency issue remains open as non-blocking editorial cleanup
+- Stage result unchanged in direction but stronger in evidence:
+  - Advanced full review remains open
+  - `P4` readiness is still blocked
+
+## 2026-04-01
+
+- Corrected the live Advanced source to resolve the Round 2 output-spec blocker family:
+  - `adv/md/final/modules/aw-adv_mod3_n10.md`
+    - Unit 11 `H3` changed to `200–240 words`
+  - `adv/md/final/modules/aw-adv_mod4_n10.md`
+    - Unit 13 `H3` changed to `200–240 words`
+    - Unit 15 `E1` changed to `180–220 words`
+  - `adv/md/final/modules/aw-adv_mod6_n10.md`
+    - Unit 21 `E4` part bands changed to `80–100 / 80–100 / 40–50`
+- Normalized the remaining whole-book `F` / `G` section-label inconsistency in the live advanced modules:
+  - `F` -> `Review & Self-Assessment`
+  - `G` -> `Editing`
+- Regenerated `adv/md/final/aw-adv-all.md` as a UTF-8 direct append of:
+  - `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
+  - `adv/md/final/supplemental/aw-adv_unit23_capstone_rubric.md`
+- Re-ran the targeted full-review checks:
+  - the four output-spec mismatches are now resolved
+  - the visible `F` / `G` labels are now stable across the live manuscript
+  - the regenerated combined file matches the canonical append set exactly
+- Result:
+  - Advanced full review is now complete
+  - the next active advanced stage is `P8`
+
+## 2026-04-01
+
+- Ran the first full-review round for the Intermediate book against:
+  - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md`
+  - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
+  - `int/edits & guides/planning/guide-set/aw-int_unit_structural_profiles.md`
+  - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+  - `int/edits & guides/planning/guide-set/aw-int_prompt-writing-policy.md`
+  - `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md`
+  - `int/archive/edits & guides/qa/aw-int_qa_review_round1.md`
+- Recorded the round at:
+  - `int/edits & guides/full-review/aw-int_full-review_round1.md`
+- Round 1 found one real late-book source-layer problem in `int/md/final/modules/aw-int_mod6.md`:
+  - paired guided boxes in Units 19, 20, and 22 still used generic `Write Here` labels
+  - some of those paired guided boxes also reused the same placeholder IDs
+- Corrected the live source in the same pass:
+  - Unit 19 guided boxes now use `External Email` and `Internal Explanation`
+  - Unit 20 guided boxes now use `Revision Message` and `Internal Notice`
+  - Unit 22 guided boxes now use `Applicant Reply`, `Colleague Explanation`, and `Internal Notice`
+  - duplicate guided placeholder IDs were replaced with unique task-specific IDs
+- Regenerated `int/md/final/aw-int-all.md` from the six canonical module files.
+- Re-ran the targeted checks:
+  - no duplicate placeholder IDs remain in the live intermediate module set
+  - the regenerated combined file matches the canonical append set exactly
+  - `python scripts/check_mojibake.py int` passes
+- Result:
+  - Intermediate full review is now complete
+  - the next active intermediate stage is `P6`

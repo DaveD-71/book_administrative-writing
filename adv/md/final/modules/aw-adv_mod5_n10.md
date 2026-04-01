@@ -215,7 +215,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U16-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -485,7 +485,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U17-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -763,7 +763,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U18-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 

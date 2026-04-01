@@ -252,7 +252,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U19-E3-role-based-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -573,7 +573,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U20-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -943,11 +943,11 @@ Choose one scenario:
 3. Summary of feedback received on a proposed new interagency data-sharing protocol
 4. *(JPO context)* Implementation feedback received from three JPO regional examination teams following the rollout of an updated international filing procedure
 
-**Part A:** Write the Summary and Issues Identified sections (approximately 90-100 words combined).
+**Part A:** Write the Summary and Issues Identified sections (approximately 80-100 words combined).
 
-**Part B:** Write the Actions Taken and Outstanding Questions sections (approximately 90-110 words combined).
+**Part B:** Write the Actions Taken and Outstanding Questions sections (approximately 80-100 words combined).
 
-**Part C:** Write the Next Steps section and a one-sentence closing statement (approximately 70-90 words).
+**Part C:** Write the Next Steps section and a one-sentence closing statement (approximately 40-50 words).
 
 Your complete report should total approximately **250–300 words**. Use the five-section format. Maintain formal, neutral tone throughout.
 
@@ -975,7 +975,7 @@ Write each part in its own box.
 **Document 3 - Next Steps + Closing**
 {{PH-2: U21-E4-part-c-next-steps-closing}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -1249,7 +1249,7 @@ Write each part in its own box.
 **Document 1 - Full Administrative Document**
 {{PH-4: U22-E4-part-b-full-document}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -1494,7 +1494,7 @@ Write one complete version only.
 **Final Document**
 {{PH-4: U23-E4-part-b-capstone-document}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Self-Assessment Rubric (F3)
 

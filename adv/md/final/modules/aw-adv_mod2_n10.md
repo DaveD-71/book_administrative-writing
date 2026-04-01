@@ -260,7 +260,7 @@ Before submitting, check that your email:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -555,7 +555,7 @@ Before submitting, check that your writing:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -851,7 +851,7 @@ Before submitting, check that your writing:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -1132,7 +1132,7 @@ Before submitting, check that your message:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 

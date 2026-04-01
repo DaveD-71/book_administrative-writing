@@ -304,7 +304,6 @@ Then answer:
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
 If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
-
 ---
 
 **Homework Draft**
@@ -597,7 +596,6 @@ Find one real English email you received that had a **very polite** or **not pol
 - How would you rewrite it in a more professional way?
 
 If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
-
 ---
 
 **Homework Draft**
@@ -1035,8 +1033,6 @@ Write one short note after revising:
 - which tone change mattered most
 - which paragraph move helped the reader fastest
 
----
-
 # MODULE 2. Essential Email Writing for Administrative Contexts
 
 ## Module Guide
@@ -1392,7 +1388,6 @@ Write one sentence on each line where possible.
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 
 If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
-
 ---
 
 **Homework Draft**
@@ -1728,7 +1723,6 @@ Write your paragraph:
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 
 If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
-
 ---
 
 **Homework Draft**
@@ -2036,7 +2030,6 @@ Write your paragraph:
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 
 If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
-
 ---
 
 **Homework Draft**
@@ -2590,7 +2583,8 @@ Before you send a clarification or request email, add one short planning line:
 
 This keeps the message sequence practical and helps the first email lead more naturally to the next step.
 
----
+
+
 
 # MODULE 3. Writing Procedures & Internal Explanations
 
@@ -2945,7 +2939,6 @@ Write one sentence on each line where possible.
 Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 
 If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
-
 ---
 
 **Homework Draft**
@@ -3269,7 +3262,6 @@ Use this box for one complete version.
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 
 If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
-
 ---
 
 **Homework Draft**
@@ -3592,7 +3584,6 @@ Write your paragraph:
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 
 If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
-
 ---
 
 **Homework Draft**
@@ -4095,7 +4086,8 @@ Now rewrite one ending from your own summary work so it does the same three jobs
 
 This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.
 
----
+
+
 
 # MODULE 4. Communicating with Applicants & Foreign Offices
 
@@ -4440,7 +4432,6 @@ Use this box for one complete version.
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 
 If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
-
 ---
 
 **Homework Draft**
@@ -4747,7 +4738,6 @@ Write your paragraph:
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 
 If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
-
 ---
 
 **Homework Draft**
@@ -5029,7 +5019,6 @@ Write your paragraph:
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 
 If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
-
 ---
 
 **Homework Draft**
@@ -5568,7 +5557,10 @@ After writing, explain:
 
 This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
 
----
+
+
+
+
 
 # MODULE 5. Editing & Revision Skills (Basic)
 
@@ -5859,7 +5851,6 @@ Use your own wording, but make it a routine you could really use at work.
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 
 If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
-
 ---
 
 **Homework Draft**
@@ -6127,7 +6118,6 @@ We checked some things and there are maybe a few issues. The system did somethin
 ### H. Homework
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
-
 ---
 
 **Homework Draft**
@@ -6559,7 +6549,8 @@ Before you submit any later task, write a short memo:
 
 This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
 
----
+
+
 
 # MODULE 6. Capstone & Applied Administrative Writing
 
@@ -6725,8 +6716,8 @@ Write your email:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U19-guided-document}}
+**External Email**
+{{PH-3: U19-guided-external-email}}
 
 ### D. Guided Practice - Write the Internal Explanation
 
@@ -6763,8 +6754,8 @@ Write your explanation:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U19-guided-document}}
+**Internal Explanation**
+{{PH-3: U19-guided-internal-explanation}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -6893,7 +6884,6 @@ Write each document in its own box.
 ### H. Homework
 
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
-
 ---
 
 **Homework Draft**
@@ -7056,8 +7046,8 @@ Write your message:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U20-guided-document}}
+**Revision Message**
+{{PH-3: U20-guided-revision-message}}
 
 ### D. Guided Practice - Write the Internal Notice
 
@@ -7077,8 +7067,8 @@ Write your notice:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U20-guided-document}}
+**Internal Notice**
+{{PH-3: U20-guided-internal-notice}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -7216,7 +7206,6 @@ Choose a message from a previous unit. Rewrite it as:
 A) a revision email, or  
 
 B) an internal notice.
-
 ---
 
 **Homework Draft**
@@ -7534,7 +7523,6 @@ Write each document in its own box.
 Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
 
 If you want to use real workplace writing, you may do so, but it is not required.
-
 ---
 
 **Homework Draft**
@@ -7678,8 +7666,8 @@ Write your reply:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U22-guided-document}}
+**Applicant Reply**
+{{PH-3: U22-guided-applicant-reply}}
 
 ### D. Guided Practice - Write the Colleague Explanation
 
@@ -7698,8 +7686,8 @@ Write your explanation:
 
 Write one sentence on each line where possible.
 
-**Write Here**
-{{PH-2: U22-guided-paragraph}}
+**Colleague Explanation**
+{{PH-2: U22-guided-colleague-explanation}}
 
 ### D. Guided Practice - Write the Internal Notice
 
@@ -7736,8 +7724,8 @@ Write your notice:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U22-guided-document}}
+**Internal Notice**
+{{PH-3: U22-guided-internal-notice}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -7898,7 +7886,6 @@ Write each document in its own box.
 ### H. Homework
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
-
 ---
 
 **Homework Draft**
@@ -8547,3 +8534,7 @@ Use these prompts:
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
+
+
+
+

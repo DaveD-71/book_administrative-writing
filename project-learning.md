@@ -822,3 +822,57 @@ Historical note:
   - stronger round-file recording requirements
   - a concrete closure gate for the intermediate full-review stage
 - Preferred behavior: use the Intermediate full-review protocol itself as the single authoritative stage-definition and assessment document for `INT-7`, rather than treating it as a high-level description only.
+
+## 2026-04-01 - Advanced full review Round 2 has now been rerun as a real whole-book pass
+
+- The earlier narrow Round 2 mismatch note has been replaced with a protocol-based whole-book review record at `adv/edits & guides/full-review/aw-adv_full-review_round2.md`.
+- Section 4 coverage is now explicit and evidenced across:
+  - whole-book coherence
+  - progression
+  - live/planning alignment
+  - learner usability
+  - editorial readiness for `P4`
+- Current blocker family:
+  - live/planning output-spec mismatches remain across Units 11, 13, 15, and 21
+  - these mismatches are sufficient to keep Advanced full review open and to block answer-key / sample-response work
+- Non-blocking but still live:
+  - the manuscript uses inconsistent visible `F` and `G` section labels across modules even though the broader `A-H` shell is stable
+- Preferred behavior:
+  - treat multi-unit output-spec drift as a `P4` blocker
+  - treat F/G section-label variation as whole-book editorial cleanup, not as a reason to reopen `N11`
+
+## 2026-04-01 - Advanced full review now closes after targeted live-source corrections and recheck
+
+- The Round 2 blocker family has been resolved in source:
+  - Unit 11 `H3` now matches the structural-profile `200–240` band
+  - Unit 13 `H3` now matches the structural-profile `200–240` band
+  - Unit 15 `E1` now matches the structural-profile `180–220` band
+  - Unit 21 `E4` now matches the structural-profile three-part allocation `80–100 / 80–100 / 40–50` within the `250–300` total
+- The separate non-blocking `F` / `G` section-label inconsistency was also cleared by normalizing the visible labels to:
+  - `### F. Review & Self-Assessment`
+  - `### G. Editing`
+- `adv/md/final/aw-adv-all.md` was regenerated directly from the canonical six `adv/md/final/modules` files plus the Unit 23 supplemental rubric, and the regenerated file now exactly matches that append set.
+- Result:
+  - Advanced full review is complete
+  - the Advanced source baseline is stable enough for later post-review work
+  - `P8` is now the active next stage
+- Preferred behavior:
+  - when a full-review blocker is a binding planning/live mismatch, correct the live source to the structural profiles first, then regenerate the combined reference file and rerun the targeted review questions before closing the stage
+
+## 2026-04-01 - Intermediate full review closes after one targeted Module 6 source-layer correction
+
+- The first intermediate full-review round is now recorded at `int/edits & guides/full-review/aw-int_full-review_round1.md`.
+- Round 1 found one real live/control mismatch:
+  - the late Module 6 guided paired-document boxes still used generic `Write Here` labels and duplicate placeholder IDs even though the source-layer placeholder system was already marked complete in the control layer
+- The issue was corrected in `int/md/final/modules/aw-int_mod6.md` by:
+  - replacing the generic guided labels with audience-specific labels
+  - replacing the duplicate guided placeholder IDs with unique task-specific IDs
+- `int/md/final/aw-int-all.md` was then regenerated directly from the six canonical module files, and the recheck confirmed:
+  - no duplicate placeholder IDs remain in the live intermediate module set
+  - the combined file matches the canonical append set exactly
+  - `python scripts/check_mojibake.py int` passes
+- Result:
+  - Intermediate full review is complete
+  - `P6` is now the active next stage
+- Preferred behavior:
+  - when the live source-layer placeholder system is treated as complete, run one explicit uniqueness-and-label audit on late paired / multi-document tasks before closing full review

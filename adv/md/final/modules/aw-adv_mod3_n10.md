@@ -190,7 +190,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U08-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -464,7 +464,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U09-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -725,7 +725,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U10-E2-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -1004,7 +1004,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U11-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -1058,7 +1058,7 @@ Revise the text above and write the full corrected version below.
 
 #### Homework Writing Task (H3)
 
-Write a **200–230 word** executive-level summary of a high-level meeting. Your summary must include:
+Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
 - all four standard sections
 - an overview naming the date, participants, and purpose

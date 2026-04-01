@@ -252,7 +252,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U01-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Self-Editing Checklist (F3)
 
@@ -530,7 +530,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U02-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -816,7 +816,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U03-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -880,7 +880,6 @@ Choose one:
 1. Find a paragraph from a recent work document — a report, briefing note, or email — that you feel lacks cohesion. Rewrite it to improve logical flow, then write two or three sentences identifying the specific changes you made and why.
 2. Take the paragraph you wrote for the Homework task. Annotate it: mark every cohesive device, every reference word, and identify where thematic progression occurs. Then assess whether any transitions are missing or weak, and revise accordingly.
 3. Write a short guide (six to eight sentences) for a colleague who struggles with paragraph organisation. Explain thematic progression — what it is, why it matters, and how to apply it — using two original before-and-after examples.
-
 ## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
 
 *Homework target: ~200 words*
@@ -1143,7 +1142,7 @@ Before submitting, check that your email:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -1438,7 +1437,7 @@ Before submitting, check that your writing:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -1734,7 +1733,7 @@ Before submitting, check that your writing:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -2015,7 +2014,7 @@ Before submitting, check that your message:
 
 ---
 
-### G. Editing Skills
+### G. Editing
 
 #### Editing Exercise (G1)
 
@@ -2062,7 +2061,6 @@ Choose one:
 1. Rewrite a multi-part request message you have previously sent — apply sequencing markers, dependency logic, and diplomatic softening. Write a brief note explaining what you changed and why.
 2. Take a disorganised request email you have received and convert it into a clearly layered version. Identify the implicit priority order, make dependencies explicit, and note what structural changes you made.
 3. Find a message in which the priority order of requests was not stated. Analyse what effect the missing sequencing had on the reader's ability to act, and write an improved version that makes the order and dependencies explicit.
-
 ## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
 
 *Homework target: ~200 words*
@@ -2255,7 +2253,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U08-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -2335,6 +2333,7 @@ Choose one:
 2. Take the procedure you wrote for E1 or H3 and convert it into a shorter quick-reference version for experienced staff. Write two or three sentences explaining what you removed and why.
 3. Create a procedural verb guide for a new colleague: list at least ten verbs from this unit or your own workplace, group them by function, and write one example sentence for each group.
 
+---
 ---
 ## Unit 9 — Change Management Writing
 
@@ -2528,7 +2527,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U09-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -2610,6 +2609,7 @@ Choose one:
 2. Write two versions of the same notice: a short internal version for colleagues already familiar with the change, and a fuller version for partner offices that need more context. Add two or three sentences comparing the choices you made.
 3. Build a change-management phrase bank from this unit. Organise at least twelve expressions under these headings: announcing the change, describing old vs. new practice, giving rationale, stating required action, offering support.
 
+---
 ---
 ## Unit 10 — Explaining Complex Issues
 
@@ -2788,7 +2788,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U10-E2-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -2866,6 +2866,7 @@ Choose one:
 2. Create a checklist for multi-factor explanations based on this unit. Include at least eight criteria covering factor count, supporting detail, cause–effect logic, tone, and next-step clarity.
 3. Write two short explanations of the same issue: one for a supervisor who needs a quick overview, and one for a partner office that needs more background. Compare the difference in structure and supporting detail.
 
+---
 ---
 ## Unit 11 — Executive-Level Meeting Summaries
 
@@ -3066,7 +3067,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U11-E1-freer-write}}
 
-### F. Review & Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -3120,7 +3121,7 @@ Revise the text above and write the full corrected version below.
 
 #### Homework Writing Task (H3)
 
-Write a **200–230 word** executive-level summary of a high-level meeting. Your summary must include:
+Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
 - all four standard sections
 - an overview naming the date, participants, and purpose
@@ -3149,7 +3150,6 @@ Choose one:
 3. Create an executive-summary checklist for your own workplace. Include at least eight criteria covering structure, attribution, deadlines, tone, and usefulness for a reader who did not attend.
 
 ---
-
 ## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
 
 *Homework target: ~250 words*
@@ -3763,7 +3763,7 @@ Revise the text above and write the full corrected version below.
 
 #### Homework Writing Task (H3)
 
-Write a **220–260 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
+Write a **200–240 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
 - 2–3 clearly identified risks
 - causes and impacts for each
@@ -4251,7 +4251,7 @@ Use this space for your first full draft.
 
 #### Scenario-Based Free Write (E1)
 
-Write a policy-aligned rationale of **200–240 words**. Your rationale must include:
+Write a policy-aligned rationale of **180–220 words**. Your rationale must include:
 
 - a clear recommendation
 - alignment with existing policy or guidelines
@@ -4355,7 +4355,6 @@ Choose one:
 1. Find a rationale or justification document from your workplace. Evaluate it using the structure: recommendation → policy reference → reasoning → benefits. Identify where it is strong and where it could be improved.
 2. Draft two versions of a rationale: a short version (3–4 sentences) for a supervisor who is already familiar with the issue, and a full version (8–10 sentences) for an interagency partner who is not.
 3. Analyse a recent policy change in your organisation or sector and write a rationale as if you were proposing the change before it was introduced.
-
 ## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
 
 *Homework target: ~250 words*
@@ -4573,7 +4572,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U16-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -4651,6 +4650,7 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
 3. Write two versions of the same evaluation: one for internal use within your team, and one for an interagency partner. Compare the differences in tone, detail, and register.
 
+---
 ---
 
 ## Unit 17 — Drafting Executive Briefs
@@ -4842,7 +4842,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U17-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -4911,6 +4911,7 @@ Choose one scenario:
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
 3. Write a brief on a real coordination issue currently affecting your work. Focus especially on the Implications section — this is often the weakest part of executive briefs.
 
+---
 ---
 
 ## Unit 18 — Synthesising Information from Multiple Sources
@@ -5119,7 +5120,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U18-E1-freer-write}}
 
-### F. Peer Review & Self-Assessment
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -5199,7 +5200,6 @@ Choose one:
 3. Build a personal synthesis phrase bank organised under four headings: introducing a shared theme, showing agreement, showing contrast, and drawing a conclusion. Add two original example sentences under each heading.
 
 ---
-
 ## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
 
 *Homework target: ~280–350 words, with the longest tasks in Units 22–23*
@@ -5454,7 +5454,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U19-E3-role-based-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -5775,7 +5775,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U20-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -6145,11 +6145,11 @@ Choose one scenario:
 3. Summary of feedback received on a proposed new interagency data-sharing protocol
 4. *(JPO context)* Implementation feedback received from three JPO regional examination teams following the rollout of an updated international filing procedure
 
-**Part A:** Write the Summary and Issues Identified sections (approximately 90-100 words combined).
+**Part A:** Write the Summary and Issues Identified sections (approximately 80-100 words combined).
 
-**Part B:** Write the Actions Taken and Outstanding Questions sections (approximately 90-110 words combined).
+**Part B:** Write the Actions Taken and Outstanding Questions sections (approximately 80-100 words combined).
 
-**Part C:** Write the Next Steps section and a one-sentence closing statement (approximately 70-90 words).
+**Part C:** Write the Next Steps section and a one-sentence closing statement (approximately 40-50 words).
 
 Your complete report should total approximately **250–300 words**. Use the five-section format. Maintain formal, neutral tone throughout.
 
@@ -6177,7 +6177,7 @@ Write each part in its own box.
 **Document 3 - Next Steps + Closing**
 {{PH-2: U21-E4-part-c-next-steps-closing}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -6451,7 +6451,7 @@ Write each part in its own box.
 **Document 1 - Full Administrative Document**
 {{PH-4: U22-E4-part-b-full-document}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Comparative Peer Review (F2)
 
@@ -6696,7 +6696,7 @@ Write one complete version only.
 **Final Document**
 {{PH-4: U23-E4-part-b-capstone-document}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Self-Assessment Rubric (F3)
 
@@ -6779,3 +6779,72 @@ Choose one:
 ---
 
 *End of Module 6*
+# Unit 23 Capstone Assessment Rubric
+## Administrative Writing, Advanced
+
+This is the companion Unit 23 capstone rubric for `P7`.
+
+It is aligned with the learner-facing rubric in Unit 23 (`adv/md/final/modules/aw-adv_mod6_n10.md`, Section `F3`) and sits in the final supplemental set because it is part of the user-facing capstone material package. It can still be used for teacher marking, moderation, and final capstone sign-off.
+
+## How To Use This Rubric
+
+- Use the same eight criteria as the learner-facing rubric so self-assessment and teacher evaluation stay aligned.
+- Apply the rubric analytically. Do not convert it to points unless a separate grading policy is later introduced.
+- Judge the response against the brief and the chosen format. Unit 23 allows more than one valid output shape.
+- Acceptable formats include:
+  - a consolidated report for the supervisor
+  - an administrative notice for all offices
+  - an integrated briefing document combining both audiences
+- Reward fitness for purpose, not conformity to one fixed template.
+- A strong response should show cumulative control across the book's major skill strands: task fulfillment, source handling, synthesis, judgment, action logic, tone, structure, and language precision.
+
+## Where To Send Students For Review
+
+Each criterion below points back to taught skills in earlier units. When a student shows a weakness in one criterion, direct them to the linked units before or during revision.
+
+| Criterion | Review units | What those units teach |
+|---|---|---|
+| Task Fulfillment | Units 4, 14, 17, 21, 22 | fit format to purpose, audience, and document type |
+| Source Coverage | Units 11, 18, 21, 22 | use all source inputs accurately and completely |
+| Synthesis | Units 11, 18, 21 | group information thematically instead of listing source by source |
+| Issue Analysis and Judgment | Units 13, 16, 20, 21 | identify real issues, evaluate significance, justify priorities and decisions |
+| Actions and Next Steps | Units 7, 11, 17, 21 | recommend specific actions, sequencing, deadlines, and responsibilities |
+| Audience, Tone, and Register | Units 2, 6, 12, 14, 19 | maintain diplomatic tone and adapt writing to reader and context |
+| Structure and Cohesion | Units 1, 3, 4, 17, 21 | organise information clearly and control flow, grouping, and sequencing |
+| Language Precision | Units 1, 5, 10, 13, 15, 20 | write specifically, avoid vagueness, and use controlled professional phrasing |
+
+## Note On The Earlier Ten-Item Version
+
+The earlier Unit 23 self-edit table used ten narrower checklist-style items. In the current rubric:
+
+- old `document format is appropriate` is now part of `Task Fulfillment`
+- old `next steps include deadlines and responsibilities` is now part of `Actions and Next Steps`
+- old `no vague, informal, or emotional language` is now split across `Audience, Tone, and Register` and `Language Precision`
+- old `word count is within range` is no longer treated as an analytic criterion and should be handled as a submission requirement
+
+This keeps the current eight-part rubric aligned with the skills taught across the book while making the criterion architecture clearer and more usable for both learners and teachers.
+
+## Analytic Rubric
+
+| Criterion | Strong | Developing | Needs work | Evidence prompt |
+|---|---|---|---|---|
+| Task Fulfillment | Fully addresses the capstone brief and chooses a document type that clearly fits the stated purpose and audience. | Addresses most of the brief, but the format choice, focus, or response scope is uneven. | Misses important parts of the brief or uses a document type that does not fit the communicative purpose. | Does the response clearly answer the supervisor's need and use a suitable format for that need? |
+| Source Coverage | Uses all five inputs accurately and incorporates them into the response without distortion or omission. | Uses most inputs, but some details are blurred, underused, or only partially incorporated. | Omits, misreads, or mishandles one or more key inputs. | Are all five source inputs present in the response, and are they represented accurately? |
+| Synthesis | Integrates information thematically, grouping related issues and relationships rather than treating sources as separate mini-summaries. | Shows some synthesis, but parts of the response still move source by source or rely on loose aggregation. | Primarily lists source information separately with little integration. | Does the response combine information into shared issues, patterns, or action areas rather than listing inputs one by one? |
+| Issue Analysis and Judgment | Identifies the real administrative problems clearly and shows sound professional judgment about their significance and implications. | Identifies the main issues, but the analysis is partial, uneven, or not fully prioritised. | Treats issues vaguely, superficially, or with weak judgment about what matters most. | Does the response identify the real issues and show sensible judgment about priorities, implications, and decision logic? |
+| Actions and Next Steps | Recommends specific, realistic, time-bound actions with clear responsibilities where appropriate. | Recommends partly useful actions, but some are vague, weakly sequenced, or not fully time-bound. | Provides vague, unrealistic, or missing actions and next steps. | Are the proposed actions concrete, realistic, and clearly tied to deadlines and responsibilities? |
+| Audience, Tone, and Register | Maintains a formal, neutral, diplomatic register consistently and adapts appropriately to the chosen audience. | Tone is mostly appropriate, but there are moments of inconsistency, drift, or under-calibration. | Tone is informal, vague, emotional, or poorly matched to the reader and context. | Does the language remain professional and reader-appropriate throughout? |
+| Structure and Cohesion | Organises the document clearly, with strong paragraph flow, readable sequencing, and purposeful grouping of information. | Overall organisation is workable, but grouping, progression, or paragraph flow is uneven. | Structure is hard to follow, poorly grouped, or weakly sequenced. | Is the response easy to follow as a document, not just as a set of sentences? |
+| Language Precision | Uses clear, specific, controlled language; avoids vague phrasing and distracting language-control problems. | Meaning is mostly clear, but some phrasing is loose, repetitive, or imprecise. | Vague, imprecise, or distracting language significantly weakens the response. | Is the language specific and controlled enough to support confident professional reading? |
+
+## Overall Judgment
+
+| Overall judgment | Select one | Notes |
+|---|---|---|
+| Capstone readiness | Ready / Nearly ready / Not yet ready | |
+
+Judgment guidance:
+
+- `Ready`: demonstrates reliable independent capstone-level control across the major criteria and would support full-review sign-off.
+- `Nearly ready`: shows a sound overall response but still has one or two meaningful weaknesses that should be revised before sign-off.
+- `Not yet ready`: still shows material gaps in task fulfillment, source handling, synthesis, judgment, action clarity, tone, structure, or language precision.

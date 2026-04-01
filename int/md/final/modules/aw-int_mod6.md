@@ -162,8 +162,8 @@ Write your email:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U19-guided-document}}
+**External Email**
+{{PH-3: U19-guided-external-email}}
 
 ### D. Guided Practice - Write the Internal Explanation
 
@@ -200,8 +200,8 @@ Write your explanation:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U19-guided-document}}
+**Internal Explanation**
+{{PH-3: U19-guided-internal-explanation}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -492,8 +492,8 @@ Write your message:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U20-guided-document}}
+**Revision Message**
+{{PH-3: U20-guided-revision-message}}
 
 ### D. Guided Practice - Write the Internal Notice
 
@@ -513,8 +513,8 @@ Write your notice:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U20-guided-document}}
+**Internal Notice**
+{{PH-3: U20-guided-internal-notice}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -1112,8 +1112,8 @@ Write your reply:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U22-guided-document}}
+**Applicant Reply**
+{{PH-3: U22-guided-applicant-reply}}
 
 ### D. Guided Practice - Write the Colleague Explanation
 
@@ -1132,8 +1132,8 @@ Write your explanation:
 
 Write one sentence on each line where possible.
 
-**Write Here**
-{{PH-2: U22-guided-paragraph}}
+**Colleague Explanation**
+{{PH-2: U22-guided-colleague-explanation}}
 
 ### D. Guided Practice - Write the Internal Notice
 
@@ -1170,8 +1170,8 @@ Write your notice:
 
 Use this box for one complete version.
 
-**Write Here**
-{{PH-3: U22-guided-document}}
+**Internal Notice**
+{{PH-3: U22-guided-internal-notice}}
 
 ### F. Self-Check Before Freer Practice
 
@@ -1980,7 +1980,6 @@ Use these prompts:
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
-
 
 
 

@@ -97,11 +97,11 @@ Full review should focus on finished-book questions such as:
 
 ---
 
-## 4.1 Operational Assessment Structure
+### Operational Assessment Structure
 
 Use the following checklist-level structure when running an intermediate full-review round. This section exists to make the Section 4 review questions concrete enough that the round can be thorough, explicit, and repeatable.
 
-### 4.1.1 Preliminary cross-check
+### 4.1 Preliminary cross-check
 
 Before recording findings, confirm the following:
 
@@ -118,7 +118,7 @@ Before recording findings, confirm the following:
 
 Any failure here must be recorded before the round proceeds.
 
-### 4.1.2 Review sequence
+### Review sequence
 
 Run full review in this order:
 
@@ -130,143 +130,143 @@ Run full review in this order:
 6. editorial readiness for support materials
 7. book-level synthesis and decision gate
 
-### 4.1.3 Whole-book coherence
+### 4.2 Whole-book coherence
 
-#### 4.1.3.1 Sequencing coherence
+#### 4.2.1 Sequencing coherence
 
 - The six modules read as one intentional book rather than six disconnected files.
 - Unit order still feels cumulative from Unit 1 to Unit 23.
 - Module openings and transitions do not create sudden resets in tone, load, or support style.
 - Late-book integrated units still feel like developments of earlier learning rather than like a different textbook.
 
-#### 4.1.3.2 Tonal coherence
+#### 4.2.2 Tonal coherence
 
 - Student-facing instructions maintain a stable intermediate-friendly professional voice across the book.
 - Explanatory voice remains compatible across modules even where activity types vary.
 - The book does not swing unpredictably between overly simplified wording and advanced-like density.
 - Review, editing, transfer, and homework layers feel like parts of the same editorial system.
 
-#### 4.1.3.3 Expectation coherence
+#### 4.2.3 Expectation coherence
 
 - The book communicates a stable sense of what learners are expected to produce at each stage.
 - Guided, freer, review, editing, transfer, and homework layers behave consistently enough to be learnable book-wide.
 - Later multi-document and portfolio tasks do not introduce unexplained expectations that earlier units failed to prepare.
 - Placeholder labels, section names, and review cues support one coherent learner experience.
 
-#### 4.1.3.4 Book-identity coherence
+#### 4.2.4 Book-identity coherence
 
 - The book retains a recognisable intermediate administrative-writing identity across all six modules.
 - The hybrid `A-H` shell and learner-friendly headings still function as one system rather than a mixed architecture.
 - Late-book integration intensifies the same teaching model rather than changing the book’s identity or level.
 
-### 4.1.4 Progression
+### 4.3 Progression
 
-#### 4.1.4.1 Within-module progression
+#### 4.3.1 Within-module progression
 
 - Each module shows a sensible rise in independence, integration, or complexity across its units.
 - Later units in a module do not dip below earlier units without an explicit accepted reason.
 - Sentence-band or word-band controls within a module feel intentional rather than erratic.
 - Revision, audience-control, or multi-document demands build in an intelligible way inside each module.
 
-#### 4.1.4.2 Book-level progression
+#### 4.3.2 Book-level progression
 
 - The book’s major output demands rise from short controlled production to later integrated tasks in a believable arc.
 - Output-control expectations and multi-part task demands broadly support that arc.
 - Module 6 still reads as a culminating phase rather than just another set of independent units.
 - No live unit creates a progression dip or spike large enough to distort the book-level learning path.
 
-#### 4.1.4.3 Local calibration against surroundings
+#### 4.3.3 Local calibration against surroundings
 
 - Each unit’s main freer and homework tasks sit plausibly against the output range of adjacent units.
 - A shorter or longer task is recorded as an accepted exception if it departs from the surrounding band.
 - Multi-part task allocations remain compatible with the declared total output expectations.
 - Part-level loads inside paired or portfolio tasks still feel proportionate to the rhetorical job of each part.
 
-#### 4.1.4.4 Capstone progression readiness
+#### 4.3.4 Capstone progression readiness
 
 - The late-book units prepare learners for Unit 23 rather than leaving portfolio demands under-signaled.
 - Audience-shift, revision, explanation, and integrated-task units together create a plausible runway into the final portfolio work.
 - Portfolio expectations do not depend on unstated jumps in document length, structure, or self-review demands.
 
-### 4.1.5 Live/planning alignment
+### 4.4 Live/planning alignment
 
-#### 4.1.5.1 Structural-profile alignment
+#### 4.4.1 Structural-profile alignment
 
 - The live module files still match the structural profiles on core task identity, output shape, and activity purpose.
 - Output expectations in the live source still match the structural profiles unless a later explicit decision says otherwise.
 - Accepted exceptions recorded in the planning layer or project memory are actually reflected in the live source.
 - No live activity has silently drifted away from its planned task architecture.
 
-#### 4.1.5.2 Prompt-policy alignment
+#### 4.4.2 Prompt-policy alignment
 
 - Live prompts still comply with the active intermediate prompt-writing policy where that policy is meant to govern them.
 - The hybrid `A-H` overlay remains consistent with the accepted intermediate structural model.
 - JPO-context use still follows the intermediate project decision to keep contextualization limited and purposeful.
 - Output-control choices remain compatible with the intermediate book’s readability and teachability standard.
 
-#### 4.1.5.3 Activity-framework alignment
+#### 4.4.3 Activity-framework alignment
 
 - Activity labels and section functions still describe the task types they are attached to.
 - Late adjustments have not turned an activity into a different task family while keeping the old label.
 - Any unusual or stretched activity implementation is either still defensible or explicitly signaled as an accepted exception.
 
-#### 4.1.5.4 Control-layer alignment
+#### 4.4.4 Control-layer alignment
 
 - The project to-do list, structural profiles, and active memory all still describe the same current Intermediate book.
 - Resolved QA and remediation decisions are consistently reflected across the live files and control layer.
 - No obsolete planning note is being mistaken for a current binding requirement.
 - No live change has been allowed to override a planning commitment silently.
 
-### 4.1.6 Learner usability
+### 4.5 Learner usability
 
-#### 4.1.6.1 Task-flow usability
+#### 4.5.1 Task-flow usability
 
 - Learners can move through each unit’s task chain without hidden dependencies.
 - Where later tasks depend on earlier writing, that dependency is made visible at the point of first production.
 - Multi-stage writing chains remain useable in self-study or interrupted-use contexts.
 - Section transitions give learners enough orientation to understand why they are doing the next task.
 
-#### 4.1.6.2 Self-study and interrupted-use usability
+#### 4.5.2 Self-study and interrupted-use usability
 
 - The book remains usable for a learner who pauses between sections or returns later.
 - Key carry-forward materials are clearly retained or referenced where needed.
 - Optional workplace-material use does not become an impossible dependency without fallback support where the live design expects independent use.
 - Peer-review or partner activities remain interpretable for self-study learners.
 
-#### 4.1.6.3 Support-structure usability
+#### 4.5.3 Support-structure usability
 
 - Model, language-focus, guided, freer, review, editing, transfer, and homework layers work together as a usable learning chain.
 - Checklists and review routines are specific enough to guide revision rather than functioning as generic ritual.
 - Placeholder labels and helper instructions support, rather than obscure, the intended writing action.
 - Multi-document tasks clearly tell learners what belongs in each box or subtask.
 
-#### 4.1.6.4 Teacher / facilitator usability
+#### 4.5.4 Teacher / facilitator usability
 
 - A teacher or reviewer can tell what each task is for without re-deriving the unit design from scratch.
 - Review and editing stages are practical enough to run in classroom or guided settings.
 - Late-book integrated tasks are administratively manageable rather than editorially confusing.
 
-### 4.1.7 Editorial readiness for support materials
+### 4.6 Editorial readiness for support materials
 
-#### 4.1.7.1 Stability of source text
+#### 4.6.1 Stability of source text
 
 - The live intermediate source no longer contains moving-target requirements that would undermine answer-key, sample-response, or rubric-support work.
 - Major output bands, task shapes, and portfolio structures are stable enough to write against.
 - The review did not surface unresolved source-of-truth conflicts that would force support-material rework later.
 
-#### 4.1.7.2 Sample-response supportability
+#### 4.6.2 Sample-response supportability
 
 - The main productive tasks are specific enough that strong sample responses can be written without guessing the intended output shape.
 - Multi-part tasks define their sections clearly enough to support later exemplars.
 - Any accepted variability still leaves a stable enough task core for answer-key work.
 
-#### 4.1.7.3 Editorial closure readiness
+#### 4.6.3 Editorial closure readiness
 
 - All remaining findings are either small enough to fix locally or clear enough to accept or defer by decision.
 - No unresolved issue remains severe enough to block post-review support-material work.
 - The live book is stable enough that later stages will not be writing against contradictory planning/live expectations.
 
-#### 4.1.7.4 Decision gate
+#### 4.6.4 Decision gate
 
 - On current evidence, the book can move to answer-key, sample-response, and later support-material work without writing against moving targets.
 - If the answer is no, the blocking finding family is named explicitly in the round record.

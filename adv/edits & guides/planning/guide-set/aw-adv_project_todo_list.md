@@ -47,8 +47,8 @@ These items are agreed and will be addressed after content is planned and drafte
 
 The following is the agreed order for completing the project:
 
-1. **Full review** - in progress; stage definition at `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md`, Round 1 findings/resolution at `adv/edits & guides/full-review/aw-adv_full-review_round1.md`, and active Round 2 redo findings at `adv/edits & guides/full-review/aw-adv_full-review_round2.md`
-2. **P8 - Student-response placeholder and print-layout layer** - live source markers / labels / helper instructions are complete in `adv/md/final/modules`; the remaining work after full-review sign-off is final print-layout / Pandoc replacement using `adv/edits & guides/planning/guide-set/aw-adv_student-response-layout_plan.md`
+1. **Full review** - done; stage definition at `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md`, Round 1 findings/resolution at `adv/edits & guides/full-review/aw-adv_full-review_round1.md`, and Round 2 closure at `adv/edits & guides/full-review/aw-adv_full-review_round2.md`
+2. **P8 - Student-response placeholder and print-layout layer** - in progress; live source markers / labels / helper instructions are complete in `adv/md/final/modules`; the remaining work after full-review sign-off is final print-layout / Pandoc replacement using `adv/edits & guides/planning/guide-set/aw-adv_student-response-layout_plan.md`
 3. **P4 - Answer key / sample responses** - after all content is finalised
 
 Reference files for the completed `N11` pass:
@@ -82,8 +82,8 @@ Reference files for the completed `N11` pass:
 | JPO customisation | JPO scenario variants embedded as option 4 in E (Freer Writing) and H (Homework) sections across 10 units (Step 11); no separate supplement |
 | Learning goals mapping | 14 improvement recommendations identified (Step 11); deferred - requires sign-off before implementation |
 | QA scope | Final QA will be book-level and hierarchical, covering structural profile compliance, prompt-policy compliance, pedagogical quality, model-text quality, learner suitability, self-study accessibility, and formatting / instructional consistency |
-| Full review status | Round 1 cleanup is closed, but Round 2 remains active because the redone protocol-based review found unresolved live/planning mismatches in the current advanced baseline. Full review must stay open until those findings are corrected or explicitly accepted. |
+| Full review status | Round 1 cleanup is closed and Round 2 is now also closed. The targeted 2026-04-01 follow-through corrected the live output-spec mismatches in Units 11, 13, 15, and 21, normalized the visible F/G section labels, regenerated `adv/md/final/aw-adv-all.md` from the canonical source set, and cleared the stage for post-review work. |
 
 ---
 
-*Document version: Updated after final `N11` closure, the completed Round 1 full-review cleanup, the active Round 2 redo pass, `P7` completion, the Unit 5 / 12 / 19 E3 role-clarity revisions, and the md-folder cleanup that promoted `adv/md/final/modules` to the canonical final source set and archived earlier module layers under `adv/archive/md`. `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md` remains the authoritative final `N11` record.*
+*Document version: Updated after final `N11` closure, the completed Round 1 full-review cleanup, the closed Round 2 whole-book pass and targeted 2026-04-01 live-source correction sweep, `P7` completion, the Unit 5 / 12 / 19 E3 role-clarity revisions, and the md-folder cleanup that promoted `adv/md/final/modules` to the canonical final source set and archived earlier module layers under `adv/archive/md`. `adv/archive/edits & guides/n11/aw-adv_n11_qa_review_round4.md` remains the authoritative final `N11` record.*

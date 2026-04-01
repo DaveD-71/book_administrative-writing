@@ -252,7 +252,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U01-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Self-Editing Checklist (F3)
 
@@ -530,7 +530,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U02-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 
@@ -816,7 +816,7 @@ Use this space for your first full draft.
 **Draft Here**
 {{PH-4: U03-E1-freer-write}}
 
-### F. Review / Self-Edit
+### F. Review & Self-Assessment
 
 #### Guided Peer Review (F1)
 

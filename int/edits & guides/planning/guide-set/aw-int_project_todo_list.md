@@ -28,7 +28,7 @@ Update status as work progresses. Treat the detail fields as operational control
 | INT-5 | Run language-instruction strengthening pass | After the structural revision pass, sharpen actual teaching inside the module files. Add or improve concise conceptual framing, model-text explanation, and guided support where the book still relies too heavily on exposure, phrase lists, or implicit noticing. Keep the teaching lighter and more explicit than the advanced book rather than importing advanced pedagogical density directly. | Done |
 | INT-5A | Run support-parity intervention stage | Execute the blocking intervention defined in `aw-int_Support-Parity Intervention Plan.md`. Revise the control layer and the six live module files until the intermediate book reaches advanced-equivalent support depth, development completeness, and the required `80-90%` module-volume parity band while remaining readable for A2-B1+ learners. | Done |
 | INT-6 | Run whole-book QA gate | Execute the dedicated QA stage only after `INT-5A` is complete. Use `aw-int_qa_checklist.md` as the operative standard and check the completed module files against learner suitability, prompt/task quality, structural-profile compliance, progression, self-study usability, answer-key supportability, formatting readiness, pinned-item confirmation, support-depth parity, and module-volume parity. | Done |
-| INT-7 | Run full review | Conduct a post-QA whole-book editorial review using `aw-int_full-review_protocol.md` as the stage definition. Record findings by round outside the planning folder, keep full-review findings distinct from QA findings, and do not proceed to answer-key work until the live module set is stable enough for final support materials. | In Progress |
+| INT-7 | Run full review | Conduct a post-QA whole-book editorial review using `aw-int_full-review_protocol.md` as the stage definition. Record findings by round outside the planning folder, keep full-review findings distinct from QA findings, and do not proceed to answer-key work until the live module set is stable enough for final support materials. | Done |
 
 ---
 
@@ -43,7 +43,7 @@ These items are agreed and will be handled at the appropriate later stage. They 
 | P3 | Develop answer key / sample responses | Write answer-key and sample-response support only after the content, QA, and full review are stable. The answer-key layer should be based on the final module files, not on the earlier split-unit baseline. | INT-7 | Deferred |
 | P4 | Regenerate combined draft | `int/md/final/aw-int-all.md` has now been rebuilt from the canonical `int/md/final/modules` source set. Keep it reference-only, and regenerate again after any later full-review edits if the final modules change. | INT-7 | Done |
 | P5 | Defer Word-formatting work until Markdown sign-off | Production formatting should follow content sign-off, not compete with revision control. Word-format work should happen only after the intermediate Markdown source is stable. | Late-stage | Deferred |
-| P6 | Build student-response placeholder and print-layout layer | The live source-layer placeholder system is now in place in `int/md/final/modules`, including markers, box labels, and the standardized helper-instruction layer. The remaining work is the final page-layout / Pandoc replacement stage for print production after the final source set is stable. Use `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` as the source-of-truth planning document for placeholder types, placement rules, and layout labels. | INT-7, P4 | In Progress - live source layer complete; final print-layout replacement still deferred |
+| P6 | Build student-response placeholder and print-layout layer | The live source-layer placeholder system is now in place in `int/md/final/modules`, including markers, box labels, and the standardized helper-instruction layer. The last late-book guided-label / duplicate-marker issue was corrected during `INT-7`, so the remaining work is now only the final page-layout / Pandoc replacement stage for print production after the final source set is stable. Use `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` as the source-of-truth planning document for placeholder types, placement rules, and layout labels. | INT-7, P4 | In Progress - live source layer complete; final print-layout replacement still deferred |
 
 ---
 
@@ -66,7 +66,8 @@ The agreed order for completing the intermediate book is:
 Current active point in that sequence:
 
 - `INT-6` is complete
-- `INT-7` is now the active stage
+- `INT-7` is complete
+- `P6` is now the active stage
 
 ---
 
@@ -141,4 +142,4 @@ The intervention priorities were:
 
 ---
 
-*Document status: authoritative intermediate project-control file. The canonical final source set now lives in `int/md/final/modules`, earlier working-source layers have been archived under `int/archive/md`, and the current stage is `INT-7` full review.*
+*Document status: authoritative intermediate project-control file. The canonical final source set now lives in `int/md/final/modules`, earlier working-source layers have been archived under `int/archive/md`, and the current stage is `P6` final print-layout replacement for the completed student-response source layer.*
