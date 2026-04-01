@@ -1356,3 +1356,16 @@ Historical note:
   - Unit 23 now places the model check before the advanced editing checklist
 - Rebuilt `int/md/final/aw-int-all.md` from `int/md/final/modules`.
 - Reapplied the combined-draft separator safeguard so the regenerated Intermediate `all` file does not trigger accidental setext-heading promotion from body text followed by `---`.
+## 2026-04-01
+
+- Discarded the earlier ad hoc Advanced full-review Round 2 result after confirming it had used the wrong authority logic.
+- Restored the affected structural-profile control notes instead of preserving the invalid "planning should match live source" rewrite.
+- Reran Advanced full review Round 2 directly from the full-review protocol and the active control layer.
+- The redone Round 2 pass found two unresolved live/planning mismatches:
+  - Unit 15 `E1` now uses a different freer-writing band from the structural profile
+  - Unit 21 `E4` now uses a different part-allocation model from the structural profile
+- Result:
+  - Advanced full review remains in progress
+  - the project should not move to `P8` until those findings are corrected or explicitly accepted
+- Merged the new checklist-level assessment structure directly into `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md` and removed the redundant standalone checklist file so the stage definition remains in one authoritative document.
+- Upgraded `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` to the same operational standard, with numbered Section 4 assessment criteria, stronger evidence/recording rules, and an explicit closure gate for `INT-7`.

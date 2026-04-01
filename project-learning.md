@@ -787,3 +787,38 @@ Historical note:
   - `H` transfer / homework
 - Module-review support sections remain uncoded in this pass; the hybrid shell applies to unit activity headings only.
 - Combined-draft safeguard remains necessary after regeneration: if a body-text line is followed immediately by `---`, insert a blank line in the combined file so Markdown does not promote the body text into a setext header.
+
+## 2026-04-01 - Advanced full review Round 2 was rerun under the protocol and keeps the stage open
+
+- The earlier ad hoc Round 2 attempt was invalid because it treated planning/live mismatches as reasons to rewrite the planning layer to fit the live modules and because it included derived-file housekeeping as if it were a substantive review finding.
+- The redone Round 2 pass now uses the proper authority order:
+  - full-review protocol
+  - advanced project to-do list
+  - revised structural profiles
+  - prompt-writing policy
+  - master activity menu
+  - still-active key decisions in project memory
+- Current Round 2 result:
+  - Unit 15 `E1` live word-count band does not match the structural-profile commitment
+  - Unit 21 `E4` live part-allocation model does not match the structural-profile commitment
+- Preferred behavior: keep Advanced full review open until those live/planning mismatches are corrected in source or explicitly accepted by a later recorded project decision.
+
+## 2026-04-01 - Advanced full-review protocol now contains its own operational assessment structure
+
+- The checklist-level question set for Advanced full review has been merged directly into `adv/edits & guides/planning/guide-set/aw-adv_full-review_protocol.md`.
+- The protocol now includes:
+  - a preliminary cross-check
+  - explicit criteria and checks for all five Section 4 review questions
+  - stronger output requirements for round files
+  - a concrete closure gate for the full-review stage
+- Preferred behavior: use the full-review protocol itself as the single authoritative stage-definition and assessment document, rather than splitting the logic across a protocol file and a separate checklist.
+
+## 2026-04-01 - Intermediate full-review protocol now matches the stronger operational standard
+
+- `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` has been upgraded from a lighter stage-definition file into a checklist-backed operational protocol.
+- It now includes:
+  - a preliminary cross-check
+  - explicit criteria and checks for all five Section 4 review questions
+  - stronger round-file recording requirements
+  - a concrete closure gate for the intermediate full-review stage
+- Preferred behavior: use the Intermediate full-review protocol itself as the single authoritative stage-definition and assessment document for `INT-7`, rather than treating it as a high-level description only.
