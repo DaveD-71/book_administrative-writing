@@ -2336,7 +2336,6 @@ Choose one:
 3. Create a procedural verb guide for a new colleague: list at least ten verbs from this unit or your own workplace, group them by function, and write one example sentence for each group.
 
 ---
----
 ## Unit 9 — Change Management Writing
 
 ### Unit Overview
@@ -2612,7 +2611,6 @@ Choose one:
 3. Build a change-management phrase bank from this unit. Organise at least twelve expressions under these headings: announcing the change, describing old vs. new practice, giving rationale, stating required action, offering support.
 
 ---
----
 ## Unit 10 — Explaining Complex Issues
 
 ### Unit Overview
@@ -2868,7 +2866,6 @@ Choose one:
 2. Create a checklist for multi-factor explanations based on this unit. Include at least eight criteria covering factor count, supporting detail, cause–effect logic, tone, and next-step clarity.
 3. Write two short explanations of the same issue: one for a supervisor who needs a quick overview, and one for a partner office that needs more background. Compare the difference in structure and supporting detail.
 
----
 ---
 ## Unit 11 — Executive-Level Meeting Summaries
 
@@ -4655,7 +4652,6 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 3. Write two versions of the same evaluation: one for internal use within your team, and one for an interagency partner. Compare the differences in tone, detail, and register.
 
 ---
----
 
 ## Unit 17 — Drafting Executive Briefs
 
@@ -4915,7 +4911,6 @@ Choose one scenario:
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
 3. Write a brief on a real coordination issue currently affecting your work. Focus especially on the Implications section — this is often the weakest part of executive briefs.
 
----
 ---
 
 ## Unit 18 — Synthesising Information from Multiple Sources

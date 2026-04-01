@@ -304,6 +304,7 @@ Then answer:
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
 If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
+
 ---
 
 **Homework Draft**
@@ -596,6 +597,7 @@ Find one real English email you received that had a **very polite** or **not pol
 - How would you rewrite it in a more professional way?
 
 If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
+
 ---
 
 **Homework Draft**
@@ -1388,6 +1390,7 @@ Write one sentence on each line where possible.
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 
 If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
+
 ---
 
 **Homework Draft**
@@ -1723,6 +1726,7 @@ Write your paragraph:
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 
 If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
+
 ---
 
 **Homework Draft**
@@ -2030,6 +2034,7 @@ Write your paragraph:
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 
 If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
+
 ---
 
 **Homework Draft**
@@ -2936,6 +2941,7 @@ Write one sentence on each line where possible.
 Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 
 If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
+
 ---
 
 **Homework Draft**
@@ -3259,6 +3265,7 @@ Use this box for one complete version.
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 
 If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
+
 ---
 
 **Homework Draft**
@@ -3581,6 +3588,7 @@ Write your paragraph:
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 
 If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
+
 ---
 
 **Homework Draft**
@@ -4426,6 +4434,7 @@ Use this box for one complete version.
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 
 If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
+
 ---
 
 **Homework Draft**
@@ -4732,6 +4741,7 @@ Write your paragraph:
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 
 If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
+
 ---
 
 **Homework Draft**
@@ -5013,6 +5023,7 @@ Write your paragraph:
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 
 If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
+
 ---
 
 **Homework Draft**
@@ -5840,6 +5851,7 @@ Use your own wording, but make it a routine you could really use at work.
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 
 If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
+
 ---
 
 **Homework Draft**
@@ -6107,6 +6119,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 ### Homework
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
+
 ---
 
 **Homework Draft**
@@ -6870,6 +6883,7 @@ Write each document in its own box.
 ### Homework
 
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
+
 ---
 
 **Homework Draft**
@@ -7192,6 +7206,7 @@ Choose a message from a previous unit. Rewrite it as:
 A) a revision email, or  
 
 B) an internal notice.
+
 ---
 
 **Homework Draft**
@@ -7509,6 +7524,7 @@ Write each document in its own box.
 Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
 
 If you want to use real workplace writing, you may do so, but it is not required.
+
 ---
 
 **Homework Draft**
@@ -7872,6 +7888,7 @@ Write each document in its own box.
 ### Homework
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
+
 ---
 
 **Homework Draft**
