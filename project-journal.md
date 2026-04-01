@@ -448,7 +448,7 @@ Historical note:
 - Verified the live intermediate source set now used by the control layer:
   - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
   - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
-  - `int/md/aw-int-all.md` as reference-only combined snapshot
+  - `int/md/final/aw-int-all.md` as reference-only combined snapshot
 - Created the first intermediate audit artifact:
   - `int/archive/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`
 - Marked `INT-2` complete and moved `INT-3` to in progress in:
@@ -482,7 +482,7 @@ Historical note:
 - Moved the 23 split unit files into that subfolder:
   - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
 - Left the other intermediate Markdown layers in place:
-  - `int/md/aw-int-all.md`
+  - `int/md/final/aw-int-all.md`
   - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Updated the active intermediate control files so current live-source references now point to `int/archive/md/units`
 
@@ -494,7 +494,7 @@ Historical note:
   - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Reclassified these as reference-only support layers unless a later control decision changes them:
   - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
-  - `int/md/aw-int-all.md`
+  - `int/md/final/aw-int-all.md`
 - Updated the current intermediate source-of-truth documents accordingly:
   - `int/edits & guides/planning/guide-set/aw-int_project_todo_list.md`
   - `int/edits & guides/planning/guide-set/aw-int_qa_checklist.md`
@@ -1092,8 +1092,8 @@ Historical note:
   - advanced: `adv/md/final/modules/aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`
   - intermediate: `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Regenerated the combined output files by direct append without content editing:
-  - `adv/md/aw-adv-all.md`
-  - `int/md/aw-int-all.md`
+  - `adv/md/final/aw-adv-all.md`
+  - `int/md/final/aw-int-all.md`
 - Included the companion Unit 23 capstone rubric in the advanced combined file by appending:
   - `adv/md/final/supplemental/aw-adv_unit23_capstone_rubric.md`
   - immediately after `adv/md/final/modules/aw-adv_mod6_n10.md`
@@ -1134,7 +1134,7 @@ Historical note:
   - Module 5 reflection prompts had not yet been upgraded to the later-stage metacognitive standard
   - Unit 13 still needed the live mini explanation model beside the phrase-support section
   - Unit 13's structural profile still needed the explicit worked-mini-example flag
-  - `int/md/aw-int-all.md` needed regeneration after the follow-up live-module corrections
+  - `int/md/final/aw-int-all.md` needed regeneration after the follow-up live-module corrections
 - Regenerated the combined intermediate draft from the final six module files so the live source set and combined reference draft are aligned again
 - Result:
   - the intermediate live modules, structural profiles, QA control layer, and combined draft now match the implemented INT-5A sync scope with the identified drift removed
@@ -1198,7 +1198,7 @@ Historical note:
   - `project-learning.md`
   - `project-journal.md`
   - `user-learning-mirror.md`
-- Rebuilt `int/md/aw-int-all.md` from:
+- Rebuilt `int/md/final/aw-int-all.md` from:
   - `int/edits & guides/planning/supporting/int_writing_text_intro.md`
   - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
 - Added a UTF-8 checker utility at `scripts/check_mojibake.py`
@@ -1331,7 +1331,7 @@ Historical note:
 - Created `adv/md/final/modules`, `adv/md/final/supplemental`, `int/md/final/modules`, and `int/md/final/supplemental` as the final source-layer structure.
 - Moved the Unit 23 companion rubric / marking-note files into the new final supplemental folders.
 - Archived the earlier module and unit source trees under `adv/archive/md` and `int/archive/md`.
-- Regenerated `adv/md/aw-adv-all.md` and `int/md/aw-int-all.md` from the canonical `final/modules` source sets.
+- Regenerated `adv/md/final/aw-adv-all.md` and `int/md/final/aw-int-all.md` from the canonical `final/modules` source sets.
 - Added `adv/md/README.md` and `int/md/README.md` to document the canonical, derived, and archived roles inside each `md` tree.
 - Moved the completed-stage `edits & guides` material into root-level archive trees:
   - `adv/archive/edits & guides`

@@ -20,7 +20,7 @@ Update status as work progresses. Treat the detail fields as operational control
 
 | # | Task | Detail | Status |
 |---|---|---|---|
-| INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` as the live working source. Treat `int/archive/md/units/aw-int-01.md` to `aw-int-23.md` and `int/md/aw-int-all.md` as reference-only unless a later control decision replaces this. | Done |
+| INT-0 | Freeze live source set | Treat `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` as the live working source. Treat `int/archive/md/units/aw-int-01.md` to `aw-int-23.md` and `int/md/final/aw-int-all.md` as reference-only unless a later control decision replaces this. | Done |
 | INT-1 | Establish planning control stack | Create the intermediate `guide-set` / `supporting` planning structure and seed the core control documents. | Done |
 | INT-2 | Run baseline audit | Record current unit patterns, section logic, output-length behavior, repeated scenario families, and obvious cleanup classes before broad revision. Baseline record now exists at `int/archive/edits & guides/baseline-audit/aw-int_baseline_audit_round1.md`. | Done |
 | INT-3 | Build revised structural profiles | Complete all 23 unit profiles in `aw-int_unit_structural_profiles.md`. For each unit, record: module purpose, unit learning goal, 3 to 4 learner-facing Can-Do statements, activity-purpose map, current output expectations, revision flags, and approved exceptions. Build from the live module files rather than from the advanced book or the old split-unit baseline. | Done |
@@ -41,7 +41,7 @@ These items are agreed and will be handled at the appropriate later stage. They 
 | P1 | Add Unit 23 learner-facing rubric | Implemented in `int/md/final/modules/aw-int_mod6.md` as the Unit 23 `Portfolio Review Rubric`. The rubric keeps an intermediate-level self-review structure and points back to taught units. | INT-5 | Done |
 | P2 | Add companion teacher-facing rubric or marking note | Implemented in `int/md/final/supplemental/aw-int_unit23_portfolio_marking_note.md` as the aligned teacher / QA companion note for Unit 23. | INT-5 | Done |
 | P3 | Develop answer key / sample responses | Write answer-key and sample-response support only after the content, QA, and full review are stable. The answer-key layer should be based on the final module files, not on the earlier split-unit baseline. | INT-7 | Deferred |
-| P4 | Regenerate combined draft | `int/md/aw-int-all.md` has now been rebuilt from the canonical `int/md/final/modules` source set during the md-folder cleanup. Keep it reference-only, and regenerate again after any later full-review edits if the final modules change. | INT-7 | Done |
+| P4 | Regenerate combined draft | `int/md/final/aw-int-all.md` has now been rebuilt from the canonical `int/md/final/modules` source set. Keep it reference-only, and regenerate again after any later full-review edits if the final modules change. | INT-7 | Done |
 | P5 | Defer Word-formatting work until Markdown sign-off | Production formatting should follow content sign-off, not compete with revision control. Word-format work should happen only after the intermediate Markdown source is stable. | Late-stage | Deferred |
 | P6 | Build student-response placeholder and print-layout layer | The live source-layer placeholder system is now in place in `int/md/final/modules`, including markers, box labels, and the standardized helper-instruction layer. The remaining work is the final page-layout / Pandoc replacement stage for print production after the final source set is stable. Use `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` as the source-of-truth planning document for placeholder types, placement rules, and layout labels. | INT-7, P4 | In Progress - live source layer complete; final print-layout replacement still deferred |
 
@@ -86,7 +86,7 @@ Current active point in that sequence:
 | Student-response layout planning | `int/edits & guides/planning/guide-set/aw-int_student-response-layout_plan.md` |
 | Live editing source | `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` |
 | Reference-only unit baseline | `int/archive/md/units/aw-int-01.md` to `aw-int-23.md` |
-| Reference-only combined draft | `int/md/aw-int-all.md` |
+| Reference-only combined draft | `int/md/final/aw-int-all.md` |
 
 ---
 
@@ -96,7 +96,7 @@ Current active point in that sequence:
 |---|---|
 | Live editing source | Edit the intermediate book in the six module files only: `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` |
 | Unit-file role | `int/archive/md/units/aw-int-01.md` to `aw-int-23.md` are reference-only baseline files unless a later control decision restores them as active source |
-| Combined draft role | `int/md/aw-int-all.md` is a regenerated reference-only snapshot built from `int/md/final/modules`; do not edit it directly |
+| Combined draft role | `int/md/final/aw-int-all.md` is a regenerated reference-only snapshot built from `int/md/final/modules`; do not edit it directly |
 | Workflow model | rigorous adaptation of the advanced workflow, not direct cloning |
 | Book identity | keep a simpler, more scaffolded, and more teachable intermediate structure and voice than the advanced book |
 | Learner level | A2-B1+ workplace learners |

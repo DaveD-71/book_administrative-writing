@@ -28,7 +28,7 @@ The current live working source is:
 Treat:
 
 - `int/archive/md/units/aw-int-01.md` to `int/archive/md/units/aw-int-23.md`
-- `int/md/aw-int-all.md`
+- `int/md/final/aw-int-all.md`
 
 as reference-only baseline/support material unless a later control decision reopens them as live source files.
 

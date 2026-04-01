@@ -347,7 +347,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/state
 - Context: start of `INT-2` against the live intermediate source set
-- Observation: the live intermediate baseline is structurally intact at `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`, with `int/md/aw-int-all.md` retained as a reference-only combined snapshot. The draft already shows a strong repeated lower-intermediate progression from focus and explanation into guided and freer writing, then shifts into integrated multi-audience work in Units 19-23.
+- Observation: the live intermediate baseline is structurally intact at `int/edits & guides/planning/supporting/int_writing_text_intro.md` plus `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`, with `int/md/final/aw-int-all.md` retained as a reference-only combined snapshot. The draft already shows a strong repeated lower-intermediate progression from focus and explanation into guided and freer writing, then shifts into integrated multi-audience work in Units 19-23.
 - Preferred behavior: treat the live draft as a usable structured baseline to be formalised and controlled, not as an unstructured rough draft that needs its architecture invented from scratch
 
 
@@ -374,7 +374,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/structure
 - Context: tightening the intermediate source layout after the first module-file layer was created
-- Observation: the 23 split intermediate unit files now live under `int/archive/md/units`, while `int/md/aw-int-all.md` remains the combined reference snapshot and `int/md/final/modules` holds the first module-file layer. This separates unit sources, module scaffolds, and the combined draft more clearly inside `int/md`.
+- Observation: the 23 split intermediate unit files now live under `int/archive/md/units`, while `int/md/final/aw-int-all.md` remains the combined reference snapshot and `int/md/final/modules` holds the first module-file layer. This separates unit sources, module scaffolds, and the combined draft more clearly inside `int/md`.
 - Preferred behavior: use `int/archive/md/units` as the canonical split-unit source location in all current intermediate control documents, and avoid leaving active references pointed at the older flat `int/md` unit paths
 
 
@@ -383,7 +383,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/decision
 - Context: explicit source-of-truth switch for active intermediate drafting
-- Observation: the active intermediate editing layer is now `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` together with `int/edits & guides/planning/supporting/int_writing_text_intro.md`. The split unit files in `int/archive/md/units` and the combined draft in `int/md/aw-int-all.md` are now reference-only unless a later control decision explicitly restores them as active source files.
+- Observation: the active intermediate editing layer is now `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md` together with `int/edits & guides/planning/supporting/int_writing_text_intro.md`. The split unit files in `int/archive/md/units` and the combined draft in `int/md/final/aw-int-all.md` are now reference-only unless a later control decision explicitly restores them as active source files.
 - Preferred behavior: perform all future intermediate editing in the module files only, and update QA/full-review/control references to treat the module layer as the live book
 
 
@@ -636,7 +636,7 @@ Historical note:
 - Status: `monitor`
 - Scope: project/tooling
 - Context: project-wide mojibake review after corruption was found outside the live module files
-- Observation: the repo-wide scan found remaining mojibake in planning files, project memory notes, and `int/md/aw-int-all.md`. The affected small files were normalized directly, and the combined intermediate draft was rebuilt from the clean intro plus the six live module files under explicit UTF-8 handling. A new repo utility, `scripts/check_mojibake.py`, now provides an explicit mojibake scan for common corruption patterns without depending on Windows console rendering.
+- Observation: the repo-wide scan found remaining mojibake in planning files, project memory notes, and the intermediate combined draft. The affected small files were normalized directly, and the combined intermediate draft was rebuilt from the clean intro plus the six live module files under explicit UTF-8 handling. A new repo utility, `scripts/check_mojibake.py`, now provides an explicit mojibake scan for common corruption patterns without depending on Windows console rendering.
 - Preferred behavior: run `python scripts/check_mojibake.py` before large regeneration steps and before commit whenever encoding drift is suspected; if the combined intermediate draft needs regeneration, rebuild it from the live UTF-8 source files rather than editing the combined file directly
 
 
@@ -750,7 +750,7 @@ Historical note:
 - Promoted `adv/md/final/modules` and `int/md/final/modules` to the canonical live source sets for both books.
 - Promoted `adv/md/final/supplemental` and `int/md/final/supplemental` to the canonical final companion-material locations.
 - Archived the prior working-source trees under `adv/archive/md` and `int/archive/md` so the project no longer has competing live module locations.
-- Regenerated `adv/md/aw-adv-all.md` and `int/md/aw-int-all.md` from the canonical `final/modules` source sets and kept both combined files reference-only.
+- Regenerated `adv/md/final/aw-adv-all.md` and `int/md/final/aw-int-all.md` from the canonical `final/modules` source sets and kept both combined files reference-only.
 - Added `adv/md/README.md` and `int/md/README.md` so the canonical-versus-archived folder roles are explicit inside each `md` tree.
 
 ## 2026-04-01 - Root-level archive policy adopted for adv and int trees

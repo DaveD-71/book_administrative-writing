@@ -21,7 +21,7 @@ Verified live working source:
 
 Verified reference-only combined snapshot:
 
-- `int/md/aw-int-all.md`
+- `int/md/final/aw-int-all.md`
 
 Verified directory state:
 

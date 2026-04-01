@@ -61,7 +61,7 @@ For current intermediate development work, the live content source is:
 Treat the following as reference-only unless a later control decision changes that:
 
 - `int/archive/md/units/aw-int-01.md` to `aw-int-23.md`
-- `int/md/aw-int-all.md`
+- `int/md/final/aw-int-all.md`
 
 Do not let the older split-unit baseline silently resume authority now that the module files are the live editing source.
 
