@@ -100,7 +100,7 @@ Current active point in that sequence:
 | Workflow model | rigorous adaptation of the advanced workflow, not direct cloning |
 | Book identity | keep a simpler, more scaffolded, and more teachable intermediate structure and voice than the advanced book |
 | Learner level | A2-B1+ workplace learners |
-| Structural model | do not import the advanced `A-H` coded architecture wholesale; keep the intermediate structure readable and lower-load |
+| Structural model | use the hybrid `A-H` overlay defined in `aw-int_hybrid_ah_activity_standard.md`; keep the intermediate structure readable and lower-load while aligning the visible unit shell more clearly with the advanced book |
 | Prompt policy | prompts must stay short, concrete, explicit, and teachable for A2-B1+ workplace learners |
 | JPO scope | limited JPO contextualization only where it clearly improves realism |
 | Output-control baseline | record and preserve the current sentence-band scaffolding before deciding later where word-range normalization is appropriate |

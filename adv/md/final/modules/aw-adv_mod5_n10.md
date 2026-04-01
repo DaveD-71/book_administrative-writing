@@ -33,8 +33,8 @@ This unit develops learners' ability to write balanced, objective evaluations of
 Below are eight evaluation statements. Sort each one into the correct column.
 
 | Balanced & Professional | Unbalanced or Unprofessional |
-|---|---|
-| | |
+| --- | --- |
+|  |  |
 
 **Statements:**
 
@@ -222,12 +222,12 @@ Use this space for your first full draft.
 Exchange your Freer Writing with a partner. Compare the two texts. For each criterion below, identify which text does this more effectively and explain why.
 
 | Criterion | Text A | Text B | Notes |
-|---|---|---|---|
-| Balanced — acknowledges both strengths and weaknesses | | | |
-| Neutral tone — avoids emotional or vague language | | | |
-| Specific — references particular sections or features | | | |
-| Constructive — recommendations are solutions, not criticisms | | | |
-| Well structured — follows clear evaluation format | | | |
+| --- | --- | --- | --- |
+| Balanced — acknowledges both strengths and weaknesses |  |  |  |
+| Neutral tone — avoids emotional or vague language |  |  |  |
+| Specific — references particular sections or features |  |  |  |
+| Constructive — recommendations are solutions, not criticisms |  |  |  |
+| Well structured — follows clear evaluation format |  |  |  |
 
 Discuss your findings with your partner.
 
@@ -257,12 +257,12 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 ---
 
 | Change | Accept / Reject | Reason |
-|---|---|---|
-| *bad* → *in need of significant revision* | | |
-| *instructions are confusing* → *instructions in Section 2 lack sufficient clarity for new users* | | |
-| *Nobody* → *No office* | | |
-| *a lot of* → *additional* | | |
-| *nice* / *great* → *clear and well-formatted* / *useful* | | |
+| --- | --- | --- |
+| *bad* → *in need of significant revision* |  |  |
+| *instructions are confusing* → *instructions in Section 2 lack sufficient clarity for new users* |  |  |
+| *Nobody* → *No office* |  |  |
+| *a lot of* → *additional* |  |  |
+| *nice* / *great* → *clear and well-formatted* / *useful* |  |  |
 
 **Discuss:** Which changes improve tone? Which improve precision? Are any changes unnecessary?
 
@@ -362,7 +362,7 @@ Study the table below, then use the data to draft a Key Points section for an ex
 **Applicant Processing — Q3 Summary**
 
 | Office | Forms Processed | Error Rate | Average Processing Time |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Office A | 412 | 4.1% | 6.2 days |
 | Office B | 389 | 7.8% | 8.5 days |
 | Office C | 451 | 3.2% | 5.9 days |
@@ -682,8 +682,8 @@ Below are twelve phrases drawn from the model text and language focus. Organise 
 - *Several offices noted that…*
 
 | Introducing themes | Showing agreement | Showing contrast | Drawing conclusions |
-|---|---|---|---|
-| | | | |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 Keep this phrase bank — you will use it in the Freer Writing task and in future units.
 
@@ -770,12 +770,12 @@ Use this space for your first full draft.
 Exchange your Freer Writing with a partner. Compare the two syntheses. For each criterion, identify which text does this more effectively and explain why.
 
 | Criterion | Text A | Text B | Notes |
-|---|---|---|---|
-| Organised by theme, not source-by-source | | | |
-| Shows contrasts or agreements clearly | | | |
-| Moves beyond listing to provide insight | | | |
-| Uses appropriate synthesis language | | | |
-| Formal, neutral tone throughout | | | |
+| --- | --- | --- | --- |
+| Organised by theme, not source-by-source |  |  |  |
+| Shows contrasts or agreements clearly |  |  |  |
+| Moves beyond listing to provide insight |  |  |  |
+| Uses appropriate synthesis language |  |  |  |
+| Formal, neutral tone throughout |  |  |  |
 
 #### Self-Editing Checklist (F3)
 

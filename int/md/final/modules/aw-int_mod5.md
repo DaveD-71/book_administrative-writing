@@ -30,7 +30,7 @@ By the end of this unit, you should be able to:
 - I can revise a short email for more accurate language use.
 - I can edit a short paragraph for accuracy and clarity.
 
-### What Does `Accuracy`Mean in Writing?
+### A. What Does `Accuracy`Mean in Writing?
 
 Accuracy refers to the **correct use of language**, including:
 
@@ -48,7 +48,7 @@ Accuracy refers to the **correct use of language**, including:
 
 Accurate writing is easier for readers to understand and avoids mistakes in administrative processes.
 
-### Warm-Up: Spot the Errors
+### A. Warm-Up: Spot the Errors
 
 Correct the mistakes in each sentence.
 
@@ -76,7 +76,7 @@ Write your corrections:
 
 - Is the punctuation clear?
 
-### Model Check: Why Accuracy Matters To The Reader
+### B. Model Check: Why Accuracy Matters To The Reader
 
 Compare:
 
@@ -108,7 +108,7 @@ Mini contrast:
 
 One small change can stop the reader from doubting the message.
 
-### Language 1 - Common Accuracy Problems
+### C. Language 1 - Common Accuracy Problems
 
 #### Verb Forms
 
@@ -139,7 +139,7 @@ When you edit for accuracy, check one error family at a time:
 
 This makes editing more reliable than trying to fix everything at once.
 
-### Practice A - Correct the Sentences
+### C. Practice A - Correct the Sentences
 
 Rewrite each sentence correctly.
 
@@ -167,7 +167,7 @@ Accuracy check:
 4. *The documents is complete.*  
    ->
 
-### Practice B - Edit for Accuracy
+### C. Practice B - Edit for Accuracy
 
 Each short text contains 4-5 errors. Rewrite the corrected version.
 
@@ -183,7 +183,7 @@ Corrected version:
 
 Corrected version:
 
-### Guided Practice - Edit a Short Administrative Email
+### D. Guided Practice - Edit a Short Administrative Email
 
 You are editing a short email draft before it is sent to a colleague or applicant.
 
@@ -199,7 +199,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U16-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before editing the next texts, ask:
 
@@ -208,7 +208,7 @@ Before editing the next texts, ask:
 3. Are the articles and prepositions correct?
 4. Does the corrected version sound natural enough to send?
 
-### Freer Practice - Edit Two Short Texts
+### E. Freer Practice - Edit Two Short Texts
 
 Choose two situations and write the **accurate, corrected version**.
 For each one, imagine you are the person checking the draft before it is sent or shared.
@@ -230,7 +230,7 @@ Write each document in its own box.
 **Version 2**
 {{PH-2: U16-freer-version-2}}
 
-### Editing Practice: Explain The Change
+### G. Editing Practice: Explain The Change
 
 Choose two corrections from your work in this unit.
 
@@ -245,7 +245,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U16-editing-rewrite}}
 
-### Extended Writing Task - Editing a Paragraph
+### E. Extended Writing Task - Editing a Paragraph
 
 Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
 Treat it as a draft internal update that needs editing before your team shares it.
@@ -258,7 +258,7 @@ The review process start tomorrow. The team are preparing the documents now. The
 **Write Your Paragraph**
 {{PH-2: U16-extended-paragraph}}
 
-### Transfer Extension: Accuracy Review Routine
+### H. Transfer Extension: Accuracy Review Routine
 
 Write a short editing routine of `4-5` lines for yourself.
 
@@ -274,7 +274,7 @@ Use your own wording, but make it a routine you could really use at work.
 **Planning Notes**
 {{PH-1: U16-transfer-notes}}
 
-### Reflection
+### F. Reflection
 
 1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
 
@@ -282,7 +282,7 @@ Use your own wording, but make it a routine you could really use at work.
 
 3. What check should come first in your own editing routine next time, and why?
 
-### Homework
+### H. Homework
 
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 
@@ -303,7 +303,7 @@ By the end of this unit, you should be able to:
 - I can reorganize information for better logical flow.
 - I can revise a paragraph so it is easier to understand.
 
-### What Does `Clarity` Mean in Writing?
+### A. What Does `Clarity` Mean in Writing?
 
 Clarity refers to how easily the reader can understand your message. Clear writing:
 
@@ -320,7 +320,7 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
 **After:** The document appears to be missing some parts.
 
-### Warm-Up: What Makes These Sentences Unclear?
+### A. Warm-Up: What Makes These Sentences Unclear?
 
 Identify the problems.
 
@@ -348,7 +348,7 @@ Write the problems (too vague? too long? unnecessary words?):
 
 - cut extra words that do not help the reader
 
-### Model Check: Why The Clearer Version Works
+### B. Model Check: Why The Clearer Version Works
 
 Compare:
 
@@ -366,7 +366,7 @@ It is also:
 - show the main point earlier
 - put related ideas together
 
-### Language 1 - Common Clarity Problems
+### C. Language 1 - Common Clarity Problems
 
 #### Vague Language
 
@@ -395,7 +395,7 @@ Mini contrast:
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
 
-### Practice A - Make the Sentences Clearer
+### C. Practice A - Make the Sentences Clearer
 
 Rewrite each sentence.
 
@@ -411,7 +411,7 @@ Rewrite each sentence.
 4. "It would be appreciated if you could maybe check the document again."
    ->
 
-### Language 2 - Improving Flow
+### C. Language 2 - Improving Flow
 
 Clear writing follows a **logical order**, often:
 
@@ -427,7 +427,7 @@ Clear writing follows a **logical order**, often:
 
 **After:** The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 
-### Practice B - Reorganise for Better Flow
+### C. Practice B - Reorganise for Better Flow
 
 Rewrite the sentences in a clear, logical order.
 
@@ -452,7 +452,7 @@ Write the best order:
 2.
 3.
 
-### Guided Practice - Edit for Clarity
+### D. Guided Practice - Edit for Clarity
 
 Rewrite this paragraph (4-5 sentences) to make it clearer.
 Treat it as a draft update that a colleague wrote for internal use.
@@ -467,7 +467,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U17-guided-paragraph}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before revising your own texts, check:
 
@@ -476,7 +476,7 @@ Before revising your own texts, check:
 3. Which sentence can be made shorter?
 4. Does the order help the reader follow the message?
 
-### Freer Practice - Edit Two Texts for Clarity
+### E. Freer Practice - Edit Two Texts for Clarity
 
 Choose two situations and rewrite them clearly.
 For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
@@ -500,7 +500,7 @@ Write each document in its own box.
 **Version 2**
 {{PH-2: U17-freer-version-2}}
 
-### Editing Practice: From Vague To Usable
+### G. Editing Practice: From Vague To Usable
 
 Rewrite this draft so it becomes clearer for an internal reader.
 
@@ -515,7 +515,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U17-editing-rewrite}}
 
-### Transfer Extension: Explain Your Revision Choice
+### H. Transfer Extension: Explain Your Revision Choice
 
 Choose one sentence you improved in this unit.
 
@@ -530,7 +530,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U17-transfer-response}}
 
-### Extended Writing Task - Clear Paragraph Revision
+### E. Extended Writing Task - Clear Paragraph Revision
 
 Rewrite this paragraph (6-8 sentences) to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
@@ -543,7 +543,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 **Write Your Paragraph**
 {{PH-2: U17-extended-paragraph}}
 
-### Reflection
+### F. Reflection
 
 1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
 
@@ -551,7 +551,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
 
-### Homework
+### H. Homework
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
 ---
@@ -570,7 +570,7 @@ By the end of this unit, you should be able to:
 - I can rewrite a short email in a more professional tone.
 - I can revise a paragraph so it sounds more neutral and appropriate.
 
-### What Is `Tone` in Writing?
+### A. What Is `Tone` in Writing?
 
 Tone is **how your writing sounds** to the reader.
 A professional tone is:
@@ -596,7 +596,7 @@ A poor tone may be:
 **Before:** You didn't send the right file. Send the correct one now.  
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 
-### Warm-Up: Why Is the Tone Wrong?
+### A. Warm-Up: Why Is the Tone Wrong?
 
 Identify what makes the tone inappropriate.
 
@@ -624,7 +624,7 @@ Write the issues:
 
 - keep the original purpose
 
-### Model Check: Why The Softer Version Works
+### B. Model Check: Why The Softer Version Works
 
 Compare:
 
@@ -639,7 +639,7 @@ The stronger version works because it:
 
 Tone editing is successful when the message stays useful and becomes easier to receive.
 
-### Language 1 - Softening Direct Language
+### C. Language 1 - Softening Direct Language
 
 #### Direct ->Polite
 
@@ -662,7 +662,7 @@ Tone editing is successful when the message stays useful and becomes easier to r
 
 - Thank you for checking...
 
-### Practice A - Make the Tone Polite
+### C. Practice A - Make the Tone Polite
 
 Rewrite the sentences politely.
 
@@ -692,7 +692,7 @@ The stronger version keeps the message usable and professional.
 4. "This is not acceptable."
    ->
 
-### Language 2 - Tone in Emails
+### C. Language 2 - Tone in Emails
 
 Emails often need polite tone markers.
 
@@ -723,7 +723,7 @@ When revising for tone, try this order:
 3. add the needed action politely
 4. keep the original purpose
 
-### Practice B - Improve the Email Tone
+### C. Practice B - Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
@@ -741,7 +741,7 @@ Why didn't you tell me about this earlier? Now we have a delay.
 
 Rewrite:
 
-### Guided Practice - Edit a Full Email
+### D. Guided Practice - Edit a Full Email
 
 Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
@@ -758,7 +758,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U18-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before revising your own emails, check:
 
@@ -767,7 +767,7 @@ Before revising your own emails, check:
 3. Does the tone sound calm and professional?
 4. Would I be comfortable sending this version?
 
-### Freer Practice - Write Two Tone-Improved Emails
+### E. Freer Practice - Write Two Tone-Improved Emails
 
 Choose two situations and write improved versions.
 For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
@@ -791,7 +791,7 @@ Write each document in its own box.
 **Email 2**
 {{PH-2: U18-freer-email-2}}
 
-### Editing Practice: Keep The Meaning, Change The Tone
+### G. Editing Practice: Keep The Meaning, Change The Tone
 
 Rewrite this draft so it stays clear but sounds more professional.
 
@@ -806,7 +806,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U18-editing-rewrite}}
 
-### Transfer Extension: Tone Choice For Two Readers
+### H. Transfer Extension: Tone Choice For Two Readers
 
 Take one message from this unit and write:
 
@@ -823,7 +823,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U18-transfer-response}}
 
-### Extended Writing Task - Tone Revision Paragraph
+### E. Extended Writing Task - Tone Revision Paragraph
 
 Rewrite this paragraph (6-8 sentences) to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
@@ -836,7 +836,7 @@ We told the applicant many times, but they still submitted the wrong file. This 
 **Write Your Paragraph**
 {{PH-2: U18-extended-paragraph}}
 
-### Reflection
+### F. Reflection
 
 1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
 
@@ -844,7 +844,7 @@ We told the applicant many times, but they still submitted the wrong file. This 
 
 3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
 
-### Homework
+### H. Homework
 
 Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
 
@@ -960,7 +960,7 @@ This prepares you for later whole-document revision, where the hardest part is o
 When a draft still feels weak after one edit, use this board to decide the next pass.
 
 | Problem you notice first | Best first pass | Why |
-|---|---|---|
+| --- | --- | --- |
 | grammar or word-form error changes the meaning | accuracy | the reader may misread the basic fact |
 | the reader cannot see the main point quickly | clarity | the message job is hidden inside the wording |
 | the message sounds blaming, abrupt, or too casual | tone | the relationship may fail even if the facts are correct |

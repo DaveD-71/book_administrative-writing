@@ -1320,12 +1320,12 @@ The phrases below are drawn from this unit's model text and language focus. Orga
 *For our confirmation, we would appreciate clarification on… / In Section 3.1 of the attached document… / To ensure accuracy, may we confirm whether… / Could you confirm which version is correct? / According to the table in Annex B… / Once confirmed, we will proceed with… / We would be grateful if you could clarify… / Could you specify which version is currently valid? / There may be a discrepancy regarding… / The term used on page 4… / It appears that… / We will update our internal records once we receive your response.*
 
 | Introducing clarification | Referencing documents |
-|---|---|
-|   |   |
+| --- | --- |
+|  |  |
 
 | Formulating questions | Next steps |
-|---|---|
-|   |   |
+| --- | --- |
+|  |  |
 
 Keep this phrase bank for reference throughout the module.
 
@@ -2939,7 +2939,7 @@ Executive summaries convert raw meeting or status data into management-ready inf
 The table below shows attendance and submission status from a recent interagency working group meeting. Study the data, then complete the task that follows.
 
 | Office | Attendees | Items on Agenda | Items Resolved | Items Deferred |
-|--------|-----------|-----------------|----------------|----------------|
+| -------- | ----------- | ----------------- | ---------------- | ---------------- |
 | Office A | 2 | 4 | 3 | 1 |
 | Office B | 1 | 3 | 1 | 2 |
 | Office C | 3 | 5 | 4 | 1 |
@@ -3552,7 +3552,7 @@ Risk language should come from evidence, not from alarm. In a data-based risk no
 The table below shows processing delay data from the three months following the introduction of a revised applicant intake form.
 
 | Month | Incomplete submissions (%) | Average processing time (days) | Reported terminology queries |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | January | 12% | 8.4 | 6 |
 | February | 19% | 11.2 | 14 |
 | March | 24% | 13.7 | 21 |
@@ -3737,7 +3737,7 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 **Key structures:**
 
 | Structure | Example | Use |
-|---|---|---|
+| --- | --- | --- |
 | *may / might + verb* | *This may result in delays.* | Expressing possibility |
 | *could + verb* | *This could affect timelines.* | Expressing potential impact |
 | *if + present, will/may/could* | *If the guidance is unclear, agencies may interpret it differently.* | Conditional risk |
@@ -4391,8 +4391,8 @@ This unit develops learners' ability to write balanced, objective evaluations of
 Below are eight evaluation statements. Sort each one into the correct column.
 
 | Balanced & Professional | Unbalanced or Unprofessional |
-|---|---|
-| | |
+| --- | --- |
+|  |  |
 
 **Statements:**
 
@@ -4580,12 +4580,12 @@ Use this space for your first full draft.
 Exchange your Freer Writing with a partner. Compare the two texts. For each criterion below, identify which text does this more effectively and explain why.
 
 | Criterion | Text A | Text B | Notes |
-|---|---|---|---|
-| Balanced — acknowledges both strengths and weaknesses | | | |
-| Neutral tone — avoids emotional or vague language | | | |
-| Specific — references particular sections or features | | | |
-| Constructive — recommendations are solutions, not criticisms | | | |
-| Well structured — follows clear evaluation format | | | |
+| --- | --- | --- | --- |
+| Balanced — acknowledges both strengths and weaknesses |  |  |  |
+| Neutral tone — avoids emotional or vague language |  |  |  |
+| Specific — references particular sections or features |  |  |  |
+| Constructive — recommendations are solutions, not criticisms |  |  |  |
+| Well structured — follows clear evaluation format |  |  |  |
 
 Discuss your findings with your partner.
 
@@ -4615,12 +4615,12 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 ---
 
 | Change | Accept / Reject | Reason |
-|---|---|---|
-| *bad* → *in need of significant revision* | | |
-| *instructions are confusing* → *instructions in Section 2 lack sufficient clarity for new users* | | |
-| *Nobody* → *No office* | | |
-| *a lot of* → *additional* | | |
-| *nice* / *great* → *clear and well-formatted* / *useful* | | |
+| --- | --- | --- |
+| *bad* → *in need of significant revision* |  |  |
+| *instructions are confusing* → *instructions in Section 2 lack sufficient clarity for new users* |  |  |
+| *Nobody* → *No office* |  |  |
+| *a lot of* → *additional* |  |  |
+| *nice* / *great* → *clear and well-formatted* / *useful* |  |  |
 
 **Discuss:** Which changes improve tone? Which improve precision? Are any changes unnecessary?
 
@@ -4719,7 +4719,7 @@ Study the table below, then use the data to draft a Key Points section for an ex
 **Applicant Processing — Q3 Summary**
 
 | Office | Forms Processed | Error Rate | Average Processing Time |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Office A | 412 | 4.1% | 6.2 days |
 | Office B | 389 | 7.8% | 8.5 days |
 | Office C | 451 | 3.2% | 5.9 days |
@@ -5038,8 +5038,8 @@ Below are twelve phrases drawn from the model text and language focus. Organise 
 - *Several offices noted that…*
 
 | Introducing themes | Showing agreement | Showing contrast | Drawing conclusions |
-|---|---|---|---|
-| | | | |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
 Keep this phrase bank — you will use it in the Freer Writing task and in future units.
 
@@ -5126,12 +5126,12 @@ Use this space for your first full draft.
 Exchange your Freer Writing with a partner. Compare the two syntheses. For each criterion, identify which text does this more effectively and explain why.
 
 | Criterion | Text A | Text B | Notes |
-|---|---|---|---|
-| Organised by theme, not source-by-source | | | |
-| Shows contrasts or agreements clearly | | | |
-| Moves beyond listing to provide insight | | | |
-| Uses appropriate synthesis language | | | |
-| Formal, neutral tone throughout | | | |
+| --- | --- | --- | --- |
+| Organised by theme, not source-by-source |  |  |  |
+| Shows contrasts or agreements clearly |  |  |  |
+| Moves beyond listing to provide insight |  |  |  |
+| Uses appropriate synthesis language |  |  |  |
+| Formal, neutral tone throughout |  |  |  |
 
 #### Self-Editing Checklist (F3)
 
@@ -5949,7 +5949,7 @@ The second version is more useful because it groups the data into an issue patte
 The table below shows status update data submitted by five offices following the distribution of Circular 2024/09.
 
 | Office | Briefing completed | Updated form in use | Outstanding queries submitted | Implementation status |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Office A | Yes | Yes | 2 | On track |
 | Office B | Yes | No | 4 | Delayed |
 | Office C | No | No | 7 | Not started |
@@ -6705,7 +6705,7 @@ Write one complete version only.
 **Where to review this skill**
 
 | Criterion | Review units | What those units teach |
-|---|---|---|
+| --- | --- | --- |
 | Task Fulfillment | Units 4, 14, 17, 21, 22 | fit format to purpose, audience, and document type |
 | Source Coverage | Units 11, 18, 21, 22 | use all source inputs accurately and completely |
 | Synthesis | Units 11, 18, 21 | group information thematically instead of listing source by source |
@@ -6720,15 +6720,15 @@ Write one complete version only.
 Evaluate your capstone document against each criterion. Rate yourself: **Strong / Developing / Needs work**.
 
 | Criterion | Strong | Developing | Needs work | Your rating | Notes |
-|---|---|---|---|---|---|
-| Task Fulfillment | Meets the brief and uses a suitable format for the purpose and audience | Meets most of the brief, but the format or focus is uneven | Misses part of the brief or uses an unsuitable format | | |
-| Source Coverage | Uses all five input sources accurately | Uses most inputs, but some details are blurred or omitted | Omits, misreads, or underuses key inputs | | |
-| Synthesis | Integrates sources thematically rather than listing them | Shows some synthesis, but parts still read source by source | Mostly lists source information separately | | |
-| Issue Analysis and Judgment | Identifies the real issues and shows sound administrative judgment | Identifies the main issues, but analysis is partial or uneven | Issues are vague, shallow, or poorly judged | | |
-| Actions and Next Steps | Recommends specific, realistic, time-bound actions | Recommends partly useful actions, but some are not specific or time-bound | Actions are vague, unrealistic, or missing | | |
-| Audience, Tone, and Register | Maintains a formal, neutral, diplomatic tone suited to the reader | Tone is mostly appropriate, but inconsistent in places | Tone is informal, vague, emotional, or poorly matched to the reader | | |
-| Structure and Cohesion | Organises information clearly and makes the document easy to follow | Organisation is generally clear, but grouping or flow is uneven | Structure is hard to follow or poorly grouped | | |
-| Language Precision | Uses clear, specific, controlled language throughout | Meaning is mostly clear, but some phrasing is loose or imprecise | Vague or imprecise language weakens the document | | |
+| --- | --- | --- | --- | --- | --- |
+| Task Fulfillment | Meets the brief and uses a suitable format for the purpose and audience | Meets most of the brief, but the format or focus is uneven | Misses part of the brief or uses an unsuitable format |  |  |
+| Source Coverage | Uses all five input sources accurately | Uses most inputs, but some details are blurred or omitted | Omits, misreads, or underuses key inputs |  |  |
+| Synthesis | Integrates sources thematically rather than listing them | Shows some synthesis, but parts still read source by source | Mostly lists source information separately |  |  |
+| Issue Analysis and Judgment | Identifies the real issues and shows sound administrative judgment | Identifies the main issues, but analysis is partial or uneven | Issues are vague, shallow, or poorly judged |  |  |
+| Actions and Next Steps | Recommends specific, realistic, time-bound actions | Recommends partly useful actions, but some are not specific or time-bound | Actions are vague, unrealistic, or missing |  |  |
+| Audience, Tone, and Register | Maintains a formal, neutral, diplomatic tone suited to the reader | Tone is mostly appropriate, but inconsistent in places | Tone is informal, vague, emotional, or poorly matched to the reader |  |  |
+| Structure and Cohesion | Organises information clearly and makes the document easy to follow | Organisation is generally clear, but grouping or flow is uneven | Structure is hard to follow or poorly grouped |  |  |
+| Language Precision | Uses clear, specific, controlled language throughout | Meaning is mostly clear, but some phrasing is loose or imprecise | Vague or imprecise language weakens the document |  |  |
 
 Identify your two weakest criteria. Then look up the linked units for each weak area, review the key teaching points there, and revise your capstone document using those unit reminders rather than editing randomly.
 

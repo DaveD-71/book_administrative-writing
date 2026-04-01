@@ -25,8 +25,8 @@ That means:
 - freer tasks should still feel like achievable workplace writing, not compressed advanced tasks
 - the final instructional result should still be as fully developed as the advanced book in support depth and editorial seriousness
 
-This framework does **not** import the advanced `A-H` coded system.  
-It governs the intermediate book through clear section functions and progression rules instead.
+This framework now works with the hybrid `A-H` overlay defined in `aw-int_hybrid_ah_activity_standard.md`.  
+The intermediate book keeps its learner-friendly section labels, but the live unit headings now also carry a visible `A-H` shell for cross-book alignment.
 
 ### 1.1 Support-parity rule
 

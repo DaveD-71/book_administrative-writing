@@ -29,7 +29,7 @@ By the end of this unit, you should be able to:
 - I can write a short, clear subject line for a workplace email.
 - I can write a simple professional email with an appropriate opening and closing.
 
-### What Does a Professional Email Look Like?
+### A. What Does a Professional Email Look Like?
 
 A professional email has a **clear structure** so that the reader can easily understand the purpose.
 
@@ -47,7 +47,7 @@ A professional email has a **clear structure** so that the reader can easily und
 
 6. **Sign-off** - polite closing phrase + name
 
-### Warm-Up: Which Email Is Better?
+### A. Warm-Up: Which Email Is Better?
 
 Read the two emails and choose which one is clearer and more professional.
 
@@ -87,7 +87,7 @@ Thank you,
 
 - Does the closing sound polite and professional?
 
-### Model Check: Why Email B Works Better
+### B. Model Check: Why Email B Works Better
 
 Email B is stronger because every part has a clear job:
 
@@ -109,7 +109,7 @@ It is weak because the reader still has to ask:
 A professional email helps the reader act quickly.  
 The reader should understand the purpose without guessing.
 
-### Language 1 - Subject Lines
+### C. Language 1 - Subject Lines
 
 A good subject line is:
 
@@ -155,7 +155,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 - Confirmation Notice Status
 
-### Language 2 - Openings and Closings
+### C. Language 2 - Openings and Closings
 
 #### Common Openings
 
@@ -199,7 +199,7 @@ Select an appropriate opening and closing for each situation.
 
    - Closing:
 
-### Language 3 - Opening Sentences (Purpose)
+### C. Language 3 - Opening Sentences (Purpose)
 
 The first sentence must tell the reader **why you are writing**.
 
@@ -238,7 +238,7 @@ Write a clear opening sentence for each situation.
 3. You want to give information about a system update.
    ->
 
-### Guided Practice - Build a Complete Email
+### D. Guided Practice - Build a Complete Email
 
 Use the prompts to write a simple, clear email.
 
@@ -263,7 +263,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U04-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before writing your own email, check:
 
@@ -272,7 +272,7 @@ Before writing your own email, check:
 3. Is the body short but complete?
 4. Does the closing sound professional?
 
-### Freer Practice - Write Your Own Email
+### E. Freer Practice - Write Your Own Email
 
 Choose one situation and write one complete email in **3-4 sentences**.
 
@@ -301,7 +301,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U04-freer-document}}
 
-### Editing Practice: Repair the Email Structure
+### G. Editing Practice: Repair the Email Structure
 
 Rewrite the email so each part has a clear job.
 
@@ -322,7 +322,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U04-editing-rewrite}}
 
-### Transfer Extension: Build Two Purpose Lines
+### H. Transfer Extension: Build Two Purpose Lines
 
 For each situation below, write:
 
@@ -340,7 +340,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U04-transfer-response}}
 
-### Reflection
+### F. Reflection
 
 1. Which part of the email is easiest for you?  
 
@@ -348,7 +348,7 @@ Write one sentence on each line where possible.
 
 3. Which new phrase do you want to use in real emails?
 
-### Homework
+### H. Homework
 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 
@@ -369,7 +369,7 @@ By the end of this unit, you should be able to:
 - I can write a short clarification email about one clear problem.
 - I can explain, in a short paragraph, why clarification is needed in a workplace situation.
 
-### Warm-Up: What Is Unclear?
+### A. Warm-Up: What Is Unclear?
 
 Read the sentences below. Identify what is **unclear** or **missing**.
 
@@ -395,7 +395,7 @@ Write what you would need to know:
 
 - stays polite and neutral
 
-### Model Check: Why a Better Clarification Question Works
+### B. Model Check: Why a Better Clarification Question Works
 
 Compare:
 
@@ -410,7 +410,7 @@ The stronger question works because it:
 
 The weak question may sound frustrated and gives the reader no clear starting point.
 
-### Language 1 - Useful Clarification Phrases
+### C. Language 1 - Useful Clarification Phrases
 
 Use these phrases when the information is not clear.
 
@@ -434,7 +434,7 @@ Use these phrases when the information is not clear.
 
 - Should I understand that...?
 
-### Practice A - Make These Questions Clearer
+### C. Practice A - Make These Questions Clearer
 
 Rewrite the questions to make them specific and professional.
 
@@ -461,7 +461,7 @@ Mini contrast:
 4. What should I do?  
    ->
 
-### Language 2 - Asking About Missing or Confusing Information
+### C. Language 2 - Asking About Missing or Confusing Information
 
 #### Common Situations
 
@@ -491,7 +491,7 @@ Clarification writing is easier to answer when the reader does not need to guess
 - where the problem is
 - what kind of answer is needed
 
-### Practice B - Improve the Clarity
+### C. Practice B - Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
@@ -507,7 +507,7 @@ Rewrite each sentence as a better clarification question.
 4. "The system doesn't work."  
    ->
 
-### Practice C - Clarification from Context
+### C. Practice C - Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
@@ -532,7 +532,7 @@ Your questions:
 1.
 2.
 
-### Extended Guided Practice - Rewrite and Improve
+### D. Extended Guided Practice - Rewrite and Improve
 
 Rewrite each unclear message into a **clear, polite clarification request**.
 
@@ -548,7 +548,7 @@ Rewrite each unclear message into a **clear, polite clarification request**.
 4. "This part is wrong."
    ->
 
-### Guided Practice - Write a Clarification Email
+### D. Guided Practice - Write a Clarification Email
 
 Write an email asking for clarification.
 
@@ -573,7 +573,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U05-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before writing your own clarification email, check:
 
@@ -582,7 +582,7 @@ Before writing your own clarification email, check:
 3. Did I avoid blame or frustration?
 4. Could the reader answer without asking me another question first?
 
-### Freer Practice - Write Two Clarification Emails
+### E. Freer Practice - Write Two Clarification Emails
 
 Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
@@ -603,7 +603,7 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U05-freer-email-2}}
 
-### Editing Practice: Fix the Clarification Problem
+### G. Editing Practice: Fix the Clarification Problem
 
 Rewrite each message as a better clarification request.
 
@@ -624,7 +624,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U05-editing-rewrite}}
 
-### Transfer Extension: One Topic, One Email
+### H. Transfer Extension: One Topic, One Email
 
 Choose one of the freer-practice topics.
 
@@ -641,7 +641,7 @@ Then note:
 **Planning Notes**
 {{PH-1: U05-transfer-notes}}
 
-### Extended Writing Task - Clarification Summary Paragraph
+### E. Extended Writing Task - Clarification Summary Paragraph
 
 Write one **informational paragraph** (5-6 sentences) explaining a situation where clarification is needed.
 Your paragraph should:
@@ -675,7 +675,7 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U05-extended-paragraph}}
 
-### Reflection
+### F. Reflection
 
 1. Which clarification phrase is most useful for you?  
 
@@ -683,7 +683,7 @@ Write your paragraph:
 
 3. Write one clarification question you can use in your work.
 
-### Homework
+### H. Homework
 
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 
@@ -704,7 +704,7 @@ By the end of this unit, you should be able to:
 - I can write a short update email about a delay or schedule change.
 - I can summarise a delay or change in a short report-style paragraph.
 
-### Warm-Up: What Information Is Missing?
+### A. Warm-Up: What Information Is Missing?
 
 Read each message and identify what information a reader would still need.
 
@@ -732,7 +732,7 @@ Write what is missing:
 
 4. What happens next?
 
-### Model Check: Why a Good Update Helps the Reader
+### B. Model Check: Why a Good Update Helps the Reader
 
 Compare these two ideas:
 
@@ -747,7 +747,7 @@ The stronger version works because the reader learns:
 
 That reduces uncertainty and extra follow-up questions.
 
-### Language 1 - Useful Phrases for Delays and Changes
+### C. Language 1 - Useful Phrases for Delays and Changes
 
 #### Neutral Phrases
 
@@ -781,7 +781,7 @@ That reduces uncertainty and extra follow-up questions.
 
 - The new schedule will be shared shortly.
 
-### Practice A - Improve the Clarity
+### C. Practice A - Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
@@ -808,7 +808,7 @@ Mini contrast:
 4. "The system is slow."
    ->
 
-### Language 2 - Logical Order for Update Messages
+### C. Language 2 - Logical Order for Update Messages
 
 A clear update message usually follows this pattern:
 
@@ -835,7 +835,7 @@ The paragraph moves in a useful order:
 
 This order helps the reader understand both the situation and the practical meaning of the delay.
 
-### Practice B - Reorder to Make a Clear Update
+### C. Practice B - Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
 
@@ -849,7 +849,7 @@ Write the best order:
 2.
 3.
 
-### Practice C - Add Supporting Information
+### C. Practice C - Add Supporting Information
 
 Expand each message to 2-3 sentences by adding supporting information.
 
@@ -862,7 +862,7 @@ Expand each message to 2-3 sentences by adding supporting information.
 3. "There has been a change in the procedure."
    ->
 
-### Guided Practice - Write an Update Email
+### D. Guided Practice - Write an Update Email
 
 Write a clear and neutral email explaining a delay or change.
 
@@ -887,7 +887,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U06-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before writing your own update email, check:
 
@@ -896,7 +896,7 @@ Before writing your own update email, check:
 3. Did I show the effect on the reader or schedule?
 4. Did I include a neutral next-step line?
 
-### Freer Practice - Choose a Scenario and Write
+### E. Freer Practice - Choose a Scenario and Write
 
 Write **two short update emails** (3-4 sentences each).
 
@@ -925,7 +925,7 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U06-freer-email-2}}
 
-### Editing Practice: Remove the Reader's Uncertainty
+### G. Editing Practice: Remove the Reader's Uncertainty
 
 Rewrite each update so the reader does not need to ask a second question.
 
@@ -946,7 +946,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U06-editing-rewrite}}
 
-### Transfer Extension: Turn an Email Update into a Report Line
+### H. Transfer Extension: Turn an Email Update into a Report Line
 
 Choose one update message you wrote in this unit.
 
@@ -963,7 +963,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U06-transfer-response}}
 
-### Extended Writing Task - Update Summary Paragraph
+### E. Extended Writing Task - Update Summary Paragraph
 
 Write a paragraph (5-6 sentences) summarising a delay or change as part of a report or internal update.
 
@@ -982,7 +982,7 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U06-extended-paragraph}}
 
-### Reflection
+### F. Reflection
 
 1. What phrases do you find most useful for explaining delays or changes?
 
@@ -990,7 +990,7 @@ Write your paragraph:
 
 3. Which part of this unit was easiest or hardest for you?
 
-### Homework
+### H. Homework
 
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 
@@ -1011,7 +1011,7 @@ By the end of this unit, you should be able to:
 - I can soften a request without making it unclear.
 - I can write a short professional email requesting information or action.
 
-### Warm-Up: Which Request Sounds More Appropriate?
+### A. Warm-Up: Which Request Sounds More Appropriate?
 
 Read each pair. Choose the request that sounds more professional.
 
@@ -1039,7 +1039,7 @@ Read each pair. Choose the request that sounds more professional.
 
 - close without pressure
 
-### Model Check: Why the Polite Version Works
+### B. Model Check: Why the Polite Version Works
 
 Compare:
 
@@ -1052,7 +1052,7 @@ The stronger version works because it:
 - tells the reader exactly what is needed
 - gives a reason that makes the request easier to understand
 
-### Language 1 - Levels of Politeness in Requests
+### C. Language 1 - Levels of Politeness in Requests
 
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
@@ -1100,7 +1100,7 @@ Often a request is clearer when you add **one short context sentence**.
 
 - This will help us complete the process.
 
-### Practice A - Rewrite the Request
+### C. Practice A - Rewrite the Request
 
 Rewrite each message to make it **polite, clear, and complete**.
 
@@ -1129,7 +1129,7 @@ Mini request frame:
 4. "Give me the information."
    ->
 
-### Language 2 - Requests with Specific Details
+### C. Language 2 - Requests with Specific Details
 
 A good request includes:
 
@@ -1147,7 +1147,7 @@ A good request includes:
 
 - I would appreciate it if you could confirm **the applicant's submission date**.
 
-### Practice B - Make the Request More Specific
+### C. Practice B - Make the Request More Specific
 
 Each message below is polite but **not specific**. Improve it.
 
@@ -1174,7 +1174,7 @@ Mini contrast:
 4. "Could you update me?"
    ->
 
-### Language 3 - Requests Without Sounding Too Direct
+### C. Language 3 - Requests Without Sounding Too Direct
 
 Administrative English avoids:
 
@@ -1204,7 +1204,7 @@ Good request writing balances:
 
 - when available
 
-### Practice C - Soften the Request
+### C. Practice C - Soften the Request
 
 Rewrite each message so it is **polite but not weak**, using softening phrases.
 
@@ -1220,7 +1220,7 @@ Rewrite each message so it is **polite but not weak**, using softening phrases.
 4. "Give me the corrected file as soon as possible."
    ->
 
-### Guided Practice - Write a Request Email
+### D. Guided Practice - Write a Request Email
 
 Use the prompts to write a complete request email.
 
@@ -1247,7 +1247,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U07-guided-document}}
 
-### Self-Check Before Freer Practice
+### F. Self-Check Before Freer Practice
 
 Before writing your request email, check:
 
@@ -1256,7 +1256,7 @@ Before writing your request email, check:
 3. Did I add a short reason if it helps?
 4. Did I avoid pressure words or commands?
 
-### Freer Practice - Write Two Request Emails
+### E. Freer Practice - Write Two Request Emails
 
 Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
@@ -1288,7 +1288,7 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U07-freer-email-2}}
 
-### Editing Practice: Keep the Request, Improve the Tone
+### G. Editing Practice: Keep the Request, Improve the Tone
 
 Rewrite each message so it keeps the same request but sounds more professional.
 
@@ -1309,7 +1309,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U07-editing-rewrite}}
 
-### Transfer Extension: One Need, Two Levels of Politeness
+### H. Transfer Extension: One Need, Two Levels of Politeness
 
 Choose one request from your real work.
 
@@ -1330,7 +1330,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U07-transfer-response}}
 
-### Extended Writing Task - Request Paragraph
+### E. Extended Writing Task - Request Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) explaining:
 
@@ -1349,7 +1349,7 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U07-extended-paragraph}}
 
-### Reflection
+### F. Reflection
 
 1. What polite request phrase do you prefer using?
 
@@ -1357,7 +1357,7 @@ Write your paragraph:
 
 3. Which softening phrase will you try in future emails?
 
-### Homework
+### H. Homework
 
 Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
 
@@ -1501,7 +1501,7 @@ After writing, answer these questions:
 Use this grid when one email still feels underbuilt.
 
 | Situation | Reader | Detail the reader needs | Detail the reader does not need | Most important sentence job |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | clarification request | office or colleague | exact information gap | unrelated background | precise question |
 | delay or change update | colleague or office | current status and next step | repeated apology | reassurance through clarity |
 | action request | colleague, applicant, or office | exact action and reason | extra history | clear request |

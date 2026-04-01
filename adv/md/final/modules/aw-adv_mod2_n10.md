@@ -437,12 +437,12 @@ The phrases below are drawn from this unit's model text and language focus. Orga
 *For our confirmation, we would appreciate clarification on… / In Section 3.1 of the attached document… / To ensure accuracy, may we confirm whether… / Could you confirm which version is correct? / According to the table in Annex B… / Once confirmed, we will proceed with… / We would be grateful if you could clarify… / Could you specify which version is currently valid? / There may be a discrepancy regarding… / The term used on page 4… / It appears that… / We will update our internal records once we receive your response.*
 
 | Introducing clarification | Referencing documents |
-|---|---|
-|   |   |
+| --- | --- |
+|  |  |
 
 | Formulating questions | Next steps |
-|---|---|
-|   |   |
+| --- | --- |
+|  |  |
 
 Keep this phrase bank for reference throughout the module.
 

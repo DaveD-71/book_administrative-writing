@@ -877,7 +877,7 @@ Executive summaries convert raw meeting or status data into management-ready inf
 The table below shows attendance and submission status from a recent interagency working group meeting. Study the data, then complete the task that follows.
 
 | Office | Attendees | Items on Agenda | Items Resolved | Items Deferred |
-|--------|-----------|-----------------|----------------|----------------|
+| -------- | ----------- | ----------------- | ---------------- | ---------------- |
 | Office A | 2 | 4 | 3 | 1 |
 | Office B | 1 | 3 | 1 | 2 |
 | Office C | 3 | 5 | 4 | 1 |

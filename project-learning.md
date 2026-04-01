@@ -767,3 +767,23 @@ Historical note:
   - `int/archive/md`
   - `int/archive/edits & guides`
 - Preferred behavior: keep only live workflow folders at the top of each book tree and push completed-stage material into the root archive with explicit README guidance.
+
+## 2026-04-01 - Intermediate adopts a hybrid A-H activity overlay
+
+- The Intermediate book no longer relies on function-only unit headings in the live source.
+- New control standard: keep `### Focus` unchanged, but apply a visible hybrid `A-H` shell to unit activity headings while preserving learner-friendly labels.
+- Source of truth for this change: `int/edits & guides/planning/guide-set/aw-int_hybrid_ah_activity_standard.md`.
+- Implementation scope for this pass:
+  - `int/md/final/modules/aw-int_mod1.md` to `aw-int_mod6.md`
+  - rebuilt `int/md/final/aw-int-all.md`
+- Default mapping adopted:
+  - `A` opening / activation / orientation
+  - `B` model check
+  - `C` language and controlled practice
+  - `D` guided practice
+  - `E` freer / extended production
+  - `F` self-check / reflection / self-review
+  - `G` editing / revision
+  - `H` transfer / homework
+- Module-review support sections remain uncoded in this pass; the hybrid shell applies to unit activity headings only.
+- Combined-draft safeguard remains necessary after regeneration: if a body-text line is followed immediately by `---`, insert a blank line in the combined file so Markdown does not promote the body text into a setext header.

@@ -400,7 +400,7 @@ Risk language should come from evidence, not from alarm. In a data-based risk no
 The table below shows processing delay data from the three months following the introduction of a revised applicant intake form.
 
 | Month | Incomplete submissions (%) | Average processing time (days) | Reported terminology queries |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | January | 12% | 8.4 | 6 |
 | February | 19% | 11.2 | 14 |
 | March | 24% | 13.7 | 21 |
@@ -585,7 +585,7 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 **Key structures:**
 
 | Structure | Example | Use |
-|---|---|---|
+| --- | --- | --- |
 | *may / might + verb* | *This may result in delays.* | Expressing possibility |
 | *could + verb* | *This could affect timelines.* | Expressing potential impact |
 | *if + present, will/may/could* | *If the guidance is unclear, agencies may interpret it differently.* | Conditional risk |

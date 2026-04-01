@@ -1346,3 +1346,13 @@ Historical note:
   - `archive`
   - `edits & guides`
   - `md`
+## 2026-04-01
+
+- Created `int/edits & guides/planning/guide-set/aw-int_hybrid_ah_activity_standard.md` to define the new Intermediate hybrid `A-H` activity shell.
+- Updated the active Intermediate control layer so the hybrid `A-H` overlay is now the current structural model rather than the earlier function-only rule.
+- Applied the hybrid `A-H` prefixes across the six live Intermediate module files while keeping `### Focus` uncoded and preserving learner-friendly section names.
+- Corrected two late-book ordering problems exposed by the retrofit:
+  - Unit 21 now places the warm-up before the model check
+  - Unit 23 now places the model check before the advanced editing checklist
+- Rebuilt `int/md/final/aw-int-all.md` from `int/md/final/modules`.
+- Reapplied the combined-draft separator safeguard so the regenerated Intermediate `all` file does not trigger accidental setext-heading promotion from body text followed by `---`.
