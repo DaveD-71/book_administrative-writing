@@ -1438,3 +1438,58 @@ Historical note:
 - Result:
   - Intermediate full review is now complete
   - the next active intermediate stage is `P6`
+
+## 2026-05-10
+
+- Implemented the Advanced Step 1 Markdown normalization pass on the working copy:
+  - `adv/md/final/aw-adv-all_0510.md`
+- Saved/used the implementation plan at:
+  - `adv/edits & guides/style edits/step1-markdown/codex_step1_implementation_plan.md`
+- Created a timestamped backup before edits:
+  - `adv/md/final/aw-adv-all_0510_backup_20260510-114949.md`
+- Applied the direct implementation checklist from:
+  - `adv/edits & guides/style edits/step1-markdown/aw_adv_all_lines_to_change.csv`
+- Result:
+  - activity headings are standardized without demoting main unit headings
+  - instructional callouts now use approved semantic Div classes
+  - placeholder IDs and token count were preserved
+  - Unit 23 supplemental rubric hierarchy was corrected under Unit 23
+  - target file passed UTF-8 and mojibake validation
+
+## 2026-05-10
+
+- Rechecked the Advanced Step 1 Markdown implementation after finding the initial verification had been too narrow
+- Restored from the pre-consistency-pass backup before continuing, then completed the remaining plan-bound semantic work directly against the implementation CSV categories
+- Corrected the remaining implementation gaps in:
+  - worked-example semantic class use
+  - model-bad / model-good wrapping across Compare Two Texts sections
+  - lingering `Improved (...)` model labels
+  - blockquote pseudo-section labels inside model/example material
+- Re-ran the final checks:
+  - 23 Compare Two Texts sections
+  - 23 `model-bad` blocks
+  - 23 `model-good` blocks
+  - 21 `worked-example` blocks
+  - 0 lingering `Improved (...)` labels
+  - 0 bold blockquote pseudo-labels
+  - placeholder IDs preserved
+  - Div spacing and list-adjacency checks clean
+
+## 2026-05-10
+
+- Applied the final Advanced Step 1 cleanup pass after external audit feedback
+- Fixed:
+  - 10 missing blank lines before headings
+  - 2 plain self-study notes now using `self-study` Divs
+- Rechecked the remaining 36 blockquote groups and confirmed they are genuine quoted/model/source text rather than instructional callouts
+- Final audit state:
+  - old semantic classes: 0
+  - old visible model labels: 0
+  - bad activity-code order: 0
+  - generic `Activity Focus`: 0
+  - Div opens/closes: 366 / 366
+  - placeholder tokens: 127, all unique
+  - activity headings with codes/star: 294
+  - noncanonical activity headings: 0
+  - missing blank lines before headings: 0
+  - plain self-study notes: 0
