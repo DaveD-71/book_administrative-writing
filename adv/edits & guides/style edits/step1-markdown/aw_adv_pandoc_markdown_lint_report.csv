@@ -1,0 +1,409 @@
+﻿line,severity,category,message,text
+17,medium,frequent_duplicate_heading,Heading repeated 23 times; likely semantic component not structural heading: Unit Overview,Unit Overview
+30,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Identifying Confusing Sentences (A2)
+60,medium,frequent_duplicate_heading,Heading repeated 18 times; likely semantic component not structural heading: Compare Two Versions (B1),Compare Two Versions (B1)
+60,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+69,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The revised version is clearer not because every sentence is short, but because each sentence has one main communicative job. Verification, action, internal checking, and possible consequence are separated into stages, so the reader does not have to process several competing re"
+73,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+84,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Teaching point:** Segmentation is a relationship between two sentences, not a feature inside one sentence. Writers use it when one sentence is carrying too many logical jobs at once and the reader needs the information separated into clearer stages."
+90,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Key principle:** Sentence clarity is not primarily about length — it is about logical load. A sentence becomes unclear when the reader has to track too many competing relationships at once. The three tools below — coordination, subordination, and segmentation — each help manage logical load in a"
+106,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Note on contrast:** Both *but* and *however* express contrast between equal ideas. Use *but* for lighter contrast within a single sentence; use *; however,* when the contrast is emphatic or the ideas are more complex. Compare this with *although* (subordination), which makes the contrast idea se"
+125,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Note on contrast:** *Although* and *while* express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams "
+138,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 3. Clarity Patterns for Administrative Writing (C3)
+154,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Patterns 1 and 2 compared:** Both connect an action with a rationale. The difference is emphasis and order: Pattern 1 leads with the action (what will happen); Pattern 2 leads with the purpose (why it matters). Use Pattern 2 when the reason needs to come first to frame the request — especially i
+186,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Model Text (D1)
+201,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Write Your Own Complex Sentence (D2)
+205,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Before you write:** Do not choose the longest sentence as the ""best"" version automatically. Choose the version that makes the relationship between ideas easiest for the intended reader to process."
+235,medium,frequent_duplicate_heading,Heading repeated 12 times; likely semantic component not structural heading: Scenario-Based Free Write (E1),Scenario-Based Free Write (E1)
+235,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+257,medium,frequent_duplicate_heading,Heading repeated 22 times; likely semantic component not structural heading: Self-Editing Checklist (F3),Self-Editing Checklist (F3)
+257,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+271,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+289,medium,frequent_duplicate_heading,Heading repeated 23 times; likely semantic component not structural heading: Homework Writing Task (H3),Homework Writing Task (H3)
+289,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+305,medium,frequent_duplicate_heading,Heading repeated 23 times; likely semantic component not structural heading: Extension Task (H1),Extension Task (H1)
+305,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+335,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Discussion Questions (A1)
+358,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+367,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The revised version protects the working relationship. It reduces blame, gives a professional reason for the request, and makes cooperation easier by showing what the reader can do next without feeling attacked."
+371,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+386,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 1. Softening Strategies (C2)
+420,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 2. Neutral Clarification Language (C3)
+444,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 3. Audience-Appropriate Tone (C2)
+475,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Model Text (D1)
+490,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Tone Transformation (D4)
+500,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Keep the communicative purpose constant across both versions. What changes is the level of explicitness, softening, and diplomatic framing needed for the reader."
+512,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+535,medium,frequent_duplicate_heading,Heading repeated 12 times; likely semantic component not structural heading: Guided Peer Review (F1),Guided Peer Review (F1)
+535,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+542,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+556,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+575,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+589,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+615,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sorting / Categorisation (A3)
+654,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+663,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The revised paragraph guides the reader through a sequence: topic, explanation, then implication. Each sentence grows out of the previous one, so the reader is not forced to reconstruct the logic independently."
+667,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+682,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 1. Cohesive Devices (C6)
+713,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 2. Reference and Continuity (C3)
+734,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 3. Thematic Progression (C3)
+765,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rebuild the Disjointed Model (D1)
+779,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Reorganise and Rewrite (D5)
+791,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Transfer reminder:** Do not just put the sentences into a correct order. Build a paragraph that moves the reader forward from topic to detail to action or implication.
+803,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+821,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+828,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+842,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+860,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+876,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+883,medium,missing_blank_before_heading,Missing blank line before heading,## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
+912,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+928,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+944,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version helps the reader act efficiently because each part of the email has a clear job. Context, purpose, explanation, request, and next step are separated, so the reader can understand what matters and what action is needed without reconstructing the logic."
+949,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Structural Deconstruction (B3) ★
+1006,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice A — Identify the Function (C2)
+1019,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice B — Sentence Rewriting (C3)
+1032,medium,frequent_duplicate_heading,Heading repeated 12 times; likely semantic component not structural heading: Model Rewriting (D1),Model Rewriting (D1)
+1032,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+1051,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Template-Guided Writing (D3) ★
+1055,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Treat the template as a sequence of communicative jobs, not as a rigid formula. Each section should help the reader understand why you are writing, what you need, and what happens next."
+1060,medium,long_blockquote,Long blockquote group (11 lines); check if quote or callout/example,> *[Opening — acknowledge or establish context]*
+1076,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario Writing (D2)
+1095,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Task — Write a Full High-Level Email (E1)
+1122,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Peer Review (F1)
+1133,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+1147,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+1165,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+1188,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+1214,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+1230,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+1247,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Why this works:** The improved version is easier to answer because each question is anchored to a specific place in the document and asks for one clear piece of clarification. The reader does not have to guess what is unclear or what kind of answer is needed.
+1252,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+1289,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice A — Sentence Rewriting (C3)
+1315,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice B — Phrase Bank Building (C8) ★
+1323,low,multiple_spaces,Multiple consecutive spaces,|  |  |
+1327,low,multiple_spaces,Multiple consecutive spaces,|  |  |
+1341,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+1359,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Two-Audience Version Task (D4)
+1370,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Transfer reminder:** Precision should stay constant across both versions. What changes is the level of diplomatic framing and the amount of background support the reader needs.
+1389,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Role-Based Writing Task ★ (E3)
+1417,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Peer Review (F1)
+1428,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+1442,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+1464,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+1486,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+1512,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Contrastive Warm-Up (A6) ★
+1532,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+1548,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version identifies the problem without accusing the reader. It separates the issue itself, the evidence for noticing it, the shared goal behind the request, and the action needed next, which helps keep the exchange cooperative."
+1554,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Annotated Model (B4) ★
+1595,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice A — Sentence Rewriting (C3)
+1621,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice B — Error Identification & Correction (C4) ★
+1645,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+1663,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario Writing (D2)
+1673,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Keep these functions separate in your draft: identify the issue, explain its impact, request the correction, and state the next step. When these functions are combined too heavily, the message often starts to sound blaming or unclear."
+1686,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Task — Write a Diplomatic Error Notification (E1)
+1713,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Peer Review (F1)
+1724,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+1738,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+1759,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real-World Task (H2) ★
+1774,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+1797,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+1823,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+1837,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+1853,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version reduces confusion by showing the reader which action comes first, which action depends on that first answer, and why the sequence matters. Priority and dependency are stated explicitly instead of being left for the reader to infer."
+1858,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+1889,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Practice A — Sentence Rewriting (C3)
+1900,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 2. Paragraph-Level Transformation (C5) ★
+1927,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+1945,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario Writing (D2)
+1954,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Transfer reminder:** Do not just add sequence markers mechanically. Use them to show the reader which action unlocks the next stage and why that order matters.
+1967,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Task — Write a Multi-Part Request Message (E1)
+1994,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Peer Review (F1)
+2005,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+2019,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+2035,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+2057,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+2064,medium,missing_blank_before_heading,Missing blank line before heading,## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
+2094,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real Document Analysis (A5)
+2100,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Office Circular — Document Verification Procedure (Revised)**
+2117,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+2141,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version reduces reader error because each step has one clear job, appears in a predictable order, and uses a consistent instruction style. The reader does not have to infer what happens first, what depends on a condition, or when the procedure is complete."
+2143,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+2158,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sequencing / Ordering Task (C6)
+2171,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+2197,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+2212,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Information Reorganisation (D5)
+2214,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** When you reorganise paragraph information into a procedure, keep the action order, condition signals, and instruction style consistent. If two actions happen at different stages, separate them instead of burying them in one sentence."
+2232,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+2258,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+2267,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+2282,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+2308,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+2328,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+2338,medium,missing_blank_before_heading,Missing blank line before heading,## Unit 9 — Change Management Writing
+2354,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Prediction Task (A4)
+2360,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Scenario:** Your office has updated the procedure for reviewing applicant submissions. The main change is that the initial review stage, which previously required sign-off from two officers, now requires only one. This change takes effect on 1 November. Staff in your office and in three partner "
+2382,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+2399,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved notice balances three jobs at once: it states the change clearly, explains why the change has been introduced, and reassures the reader that support is available. That combination helps readers understand the change and act on it without unnecessary uncertainty."
+2401,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Annotated Model (B4)
+2419,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+2431,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Expansion Task (C7)
+2452,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+2468,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Template-Guided Writing (D3)
+2470,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Do not treat the template as five isolated boxes. Use it to preserve the logic of effective change communication: state the change, explain why it matters, guide the reader’s action, and reduce uncertainty through support."
+2506,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+2532,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+2541,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+2556,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+2583,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+2604,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+2614,medium,missing_blank_before_heading,Missing blank line before heading,## Unit 10 — Explaining Complex Issues
+2630,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+2647,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+2664,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version is easier for a non-specialist reader to process because it names the number of factors up front, separates them clearly, and supports each one with specific detail. The reader can understand both the problem and its effect without sorting through vague gen"
+2666,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Noticing Task (B2)
+2682,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Classification / Matching (C2)
+2702,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+2726,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+2742,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Writing (D2)
+2767,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Constrained Free Write (E2)
+2773,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Transfer reminder:** This constraint is not arbitrary. It forces you to apply the unit’s main principle: each broad explanation must be anchored in concrete evidence so the reader can understand the issue without guessing.
+2793,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+2802,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+2817,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise (G1)
+2840,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+2861,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+2871,medium,missing_blank_before_heading,Missing blank line before heading,## Unit 11 — Executive-Level Meeting Summaries
+2887,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+2903,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+2911,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Meeting Summary — Guideline Revision Discussion (12 October)**
+2911,medium,long_blockquote,Long blockquote group (15 lines); check if quote or callout/example,> **Meeting Summary — Guideline Revision Discussion (12 October)**
+2934,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version does not retell the meeting in time order. Instead, it groups information by managerial function: what the meeting was about, what mattered, what was decided, and what happens next. That makes the summary more useful for a reader who needs action and accoun"
+2936,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Data Interpretation Input (B7)
+2959,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+2971,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Paragraph-Level Transformation (C5)
+2991,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+3007,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Format Conversion (D7)
+3009,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** When you convert notes into an executive summary, group information by significance and action, not by the order in which points appeared during the meeting."
+3045,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+3072,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+3081,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+3096,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+3122,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+3144,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+3153,medium,missing_blank_before_heading,Missing blank line before heading,## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
+3183,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real Document Analysis (A5)
+3213,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+3230,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved inquiry helps an external reader because it provides enough background to identify the case, asks focused questions that can be answered directly, and signals why the information is needed on the writer’s side."
+3234,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Structural Deconstruction (B3)
+3269,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Classification / Matching (C2)
+3307,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Phrase Bank Building (C8)
+3343,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Inquiry (D1)
+3358,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Two-Audience Version Task (D4)
+3360,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** When you switch from an external to an internal audience, change the level of background explanation, not the core information. A familiar internal reader needs less orientation, but the task, status, and next-step logic should still remain clear."
+3378,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Role-Based Writing Task (E3)
+3405,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Comparative Peer Review (F2)
+3416,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+3431,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+3455,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real-World Task (H2)
+3465,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+3486,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+3514,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Prediction Task (A4)
+3527,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+3544,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved paragraph separates four different jobs that weak risk writing often blurs together: identifying the risk, explaining its cause, showing the likely impact, and proposing mitigation. That makes the assessment more analytical and more useful for decision-making."
+3548,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Data Interpretation Input (B7)
+3589,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+3625,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Error Identification & Correction (C4)
+3640,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Text (D1)
+3655,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Risk Assessment (D2)
+3657,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Keep the sequence visible in your draft: evidence or issue first, then likely impact, then response. If those functions are mixed together, the assessment often starts to sound vague or overstated."
+3683,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+3709,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+3718,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+3733,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Exercise — Conditional and Hedging Structures (G1)
+3764,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+3784,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+3812,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Contrastive Warm-Up (A6)
+3831,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+3848,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version shows what changes across audiences and what stays stable. The core instruction remains the same for everyone, but the supporting context is adjusted so that less-informed readers can still understand the message without being left behind."
+3852,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Annotated Model (B4)
+3891,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+3913,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Paragraph-Level Transformation (C5)
+3933,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Message (D1)
+3948,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Two-Audience Version Task (D4)
+3950,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Keep the core message stable across both versions. What should change is the amount of context, the explicitness of audience signals, and the level of explanation needed for each reader group."
+3973,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Multi-Part Portfolio Task (E4)
+3997,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+4006,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+4021,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+4045,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+4059,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+4087,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real Document Analysis (A5)
+4109,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+4126,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved rationale is more persuasive because it links three elements clearly: the policy requirement, the operational problem, and the benefit of the proposed change. The reasoning is visible rather than implied."
+4130,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Reading-to-Write Input (B6)
+4170,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting (C3)
+4190,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Expansion Task (C7)
+4211,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Rationale (D1)
+4225,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Template-Guided Writing (D3)
+4227,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Use the template as a logic chain rather than as fixed wording. A strong rationale moves from recommendation to policy support to operational reasoning to benefit, without leaving any link implicit."
+4252,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+4279,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+4288,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+4303,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Track-Change Simulation (G3)
+4330,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+4351,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+4358,medium,missing_blank_before_heading,Missing blank line before heading,## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
+4388,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sorting / Categorisation (A3)
+4394,low,multiple_spaces,Multiple consecutive spaces,|  |  |
+4413,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+4421,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Overall Assessment:** The revised document provides clearer guidance in several sections, particularly the updated chronology table. The structure is generally easier to follow than the previous version."
+4421,medium,long_blockquote,Long blockquote group (11 lines); check if quote or callout/example,"> **Overall Assessment:** The revised document provides clearer guidance in several sections, particularly the updated chronology table. The structure is generally easier to follow than the previous version."
+4440,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved evaluation is more credible because it separates observation from judgement. It names specific strengths and weaknesses, supports them with evidence, and frames recommendations as constructive improvements rather than personal criticism."
+4442,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Annotated Model (B4)
+4461,medium,heading_contains_activity_code,Heading contains activity code metadata,"#### Sentence Rewriting — Objective, Neutral Language (C3)"
+4481,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Error Identification & Correction (C4)
+4504,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+4521,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Revision Chain (D6)
+4523,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** As you revise, check whether each claim matches the strength of the evidence. If the problem is local, describe it locally. If the document has both strengths and weaknesses, make both visible."
+4552,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+4577,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Comparative Peer Review (F2)
+4583,low,multiple_spaces,Multiple consecutive spaces,| Balanced — acknowledges both strengths and weaknesses |  |  |  |
+4584,low,multiple_spaces,Multiple consecutive spaces,| Neutral tone — avoids emotional or vague language |  |  |  |
+4585,low,multiple_spaces,Multiple consecutive spaces,| Specific — references particular sections or features |  |  |  |
+4586,low,multiple_spaces,Multiple consecutive spaces,"| Constructive — recommendations are solutions, not criticisms |  |  |  |"
+4587,low,multiple_spaces,Multiple consecutive spaces,| Well structured — follows clear evaluation format |  |  |  |
+4591,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+4605,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Track-Change Simulation (G3)
+4618,low,multiple_spaces,Multiple consecutive spaces,| *bad* → *in need of significant revision* |  |  |
+4619,low,multiple_spaces,Multiple consecutive spaces,| *instructions are confusing* → *instructions in Section 2 lack sufficient clarity for new users* |  |  |
+4620,low,multiple_spaces,Multiple consecutive spaces,| *Nobody* → *No office* |  |  |
+4621,low,multiple_spaces,Multiple consecutive spaces,| *a lot of* → *additional* |  |  |
+4622,low,multiple_spaces,Multiple consecutive spaces,| *nice* / *great* → *clear and well-formatted* / *useful* |  |  |
+4633,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+4647,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+4672,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Prediction Task (A4)
+4686,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+4694,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Overview:** The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility."
+4711,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved brief foregrounds decision-relevant content. Instead of retelling the discussion, it selects the points an executive needs in order to understand the issue, its implications, and the recommended next step."
+4713,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Data Interpretation Input (B7)
+4734,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting — Writing Clear Overviews and Key Points (C3)
+4759,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Paragraph-Level Transformation (C5)
+4777,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+4793,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Format Conversion (D7)
+4795,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Group information by significance, not by the order in which comments were made. A strong executive brief selects what matters for the decision rather than reproducing the meeting record."
+4821,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+4847,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+4857,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+4869,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+4887,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+4908,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+4933,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real Document Analysis (A5)
+4955,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions (B1)
+4972,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved paragraph is more useful because it groups information by theme rather than by source. It shows where sources overlap, where they differ, and what the combined evidence suggests."
+4974,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Reading-to-Write Input (B6)
+4992,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Sentence Rewriting — Grouping Information and Showing Relationships (C3)
+5023,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Phrase Bank Building (C8)
+5043,low,multiple_spaces,Multiple consecutive spaces,|  |  |  |  |
+5059,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+5075,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario Writing (D2)
+5077,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** In your revision, do not just add synthesis phrases mechanically. Use them to group related evidence, show relationships across sources, and end with a point that goes beyond listing."
+5079,low,trailing_space,Trailing whitespace,Return to the paragraph you wrote in Section B (B6). Compare it with the Improved Version from Section B1. 
+5100,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+5125,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Comparative Peer Review (F2)
+5131,low,multiple_spaces,Multiple consecutive spaces,"| Organised by theme, not source-by-source |  |  |  |"
+5132,low,multiple_spaces,Multiple consecutive spaces,| Shows contrasts or agreements clearly |  |  |  |
+5133,low,multiple_spaces,Multiple consecutive spaces,| Moves beyond listing to provide insight |  |  |  |
+5134,low,multiple_spaces,Multiple consecutive spaces,| Uses appropriate synthesis language |  |  |  |
+5135,low,multiple_spaces,Multiple consecutive spaces,"| Formal, neutral tone throughout |  |  |  |"
+5137,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+5149,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+5167,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real-World Task (H2)
+5181,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+5194,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+5203,medium,missing_blank_before_heading,Missing blank line before heading,## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
+5233,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Contrastive Warm-Up (A6)
+5251,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Reading-to-Write Input (B6)
+5274,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare the Versions (B1)
+5294,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved version is more accessible because it keeps the policy meaning intact while replacing specialist references with clear action-oriented explanation. It tells non-expert readers what is changing, why it matters, and what they need to do."
+5386,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Model Text (D1)
+5401,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Format Conversion (D7)
+5403,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** When you simplify a specialist bulletin, preserve what matters for the reader’s action. Change the wording and explanation density, but do not drop the deadline, the core requirement, or the consequence of non-action."
+5429,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Role-Based Writing Task (E3)
+5431,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Role reminder:** Your position in this task shapes how you write. You sit between the teams that produce policy and the offices that must implement it. Your job is not just to pass information on — it is to make sure that non-expert readers understand what is changing and what they need to do, w"
+5459,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+5471,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+5488,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+5511,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+5533,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+5561,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Problem Identification (A2)
+5577,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare the Versions (B1)
+5595,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The stronger justification makes the logic visible. It states the decision, identifies the problem that required it, links the change to a policy or standards basis, and explains the benefit that follows."
+5717,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Justification (D1)
+5732,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Draft a Justification for One Scenario (D2)
+5734,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Keep the sequence visible in your paragraph. State the decision first, then show why it was made, then explain what improvement it is expected to produce."
+5754,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Scenario-Based Free Write (E1)
+5780,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Guided Peer Review (F1)
+5792,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+5807,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+5830,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+5850,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+5878,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Real Document Analysis (A5)
+5898,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare the Versions (B1)
+5906,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation",> **Summary**
+5906,medium,long_blockquote,Long blockquote group (20 lines); check if quote or callout/example,> **Summary**
+5927,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The improved report is easier to use because it groups information by reporting function rather than by office or by chronology. Readers can immediately see the overall status, the issues, the actions already taken, the unresolved questions, and what happens next."
+5929,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Structural Deconstruction (B3)
+5939,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Data Interpretation Input (B7)
+6082,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Rewrite the Original Report (D1)
+6098,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Information Reorganisation (D5)
+6117,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Format Conversion (D7)
+6119,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** When converting a narrative update into a report, group points under the section that matches their function. Do not let unresolved questions remain buried inside status description."
+6137,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Multi-Part Portfolio Task (E4)
+6182,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Comparative Peer Review (F2)
+6190,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+6206,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Editing Workshop — Paragraph-Level (G2)
+6230,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+6245,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+6273,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Prediction Task (A4)
+6295,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Reading-to-Write Input (B6)
+6323,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare the Versions (B1)
+6336,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** The integrated response is more useful because it brings the inputs together under a shared purpose. Instead of reacting to each source separately, it identifies the common implementation problem and turns it into coordinated action."
+6342,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 1. Error Identification and Correction (C4)
+6356,medium,heading_contains_activity_code,Heading contains activity code metadata,#### 2. Paragraph-Level Transformation (C5)
+6381,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Model Rewriting (D1)
+6396,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Revision Chain (D6)
+6398,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** In revision, check whether your draft synthesises issues, uses a format that fits the audience, and turns the inputs into clear action. If it still reads like a list of separate source notes, the integration is not yet complete."
+6423,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Multi-Part Portfolio Task (E4)
+6456,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Comparative Peer Review (F2)
+6464,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Editing Checklist (F3)
+6480,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Track-Change Simulation (G3)
+6504,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+6520,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+6548,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Discussion Questions (A1)
+6560,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Compare Two Versions — Exemplar Analysis (B1)
+6603,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Why this works:** Response B succeeds because it integrates multiple course-level skills at once: synthesis across inputs, neutral administrative tone, grouped issue reporting, and action-focused next steps. The response is strong not because it is longer, but because each sentence performs a cl"
+6609,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Error Identification and Correction — Self-Diagnosis (C4)
+6637,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Revision Chain — Prior Work (D6)
+6639,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Transfer reminder:** Use this revision step to check your writing against the major skill strands of the course: synthesis, tone control, justification, structure, and action clarity. If one strand is weak, revise that strand deliberately rather than editing randomly."
+6665,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Multi-Part Portfolio Task (E4)
+6667,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Planning reminder:** The strongest capstone responses start by choosing a format that matches the supervisor’s stated need, then grouping issues thematically before drafting any sentences."
+6701,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Self-Assessment Rubric (F3)
+6703,high,blockquote_as_callout,"Blockquote appears to be a labelled callout, not a quotation","> **Rubric note:** These categories reflect the book's major skill strands: meeting the brief, handling source material, synthesising information, showing judgment, proposing actions, controlling tone, structuring ideas, and writing precisely. Use the rubric to diagnose how well your capstone respon"
+6724,low,multiple_spaces,Multiple consecutive spaces,"| Task Fulfillment | Meets the brief and uses a suitable format for the purpose and audience | Meets most of the brief, but the format or focus is uneven | Misses part of the brief or uses an unsuitable format |  |  |"
+6725,low,multiple_spaces,Multiple consecutive spaces,"| Source Coverage | Uses all five input sources accurately | Uses most inputs, but some details are blurred or omitted | Omits, misreads, or underuses key inputs |  |  |"
+6726,low,multiple_spaces,Multiple consecutive spaces,"| Synthesis | Integrates sources thematically rather than listing them | Shows some synthesis, but parts still read source by source | Mostly lists source information separately |  |  |"
+6727,low,multiple_spaces,Multiple consecutive spaces,"| Issue Analysis and Judgment | Identifies the real issues and shows sound administrative judgment | Identifies the main issues, but analysis is partial or uneven | Issues are vague, shallow, or poorly judged |  |  |"
+6728,low,multiple_spaces,Multiple consecutive spaces,"| Actions and Next Steps | Recommends specific, realistic, time-bound actions | Recommends partly useful actions, but some are not specific or time-bound | Actions are vague, unrealistic, or missing |  |  |"
+6729,low,multiple_spaces,Multiple consecutive spaces,"| Audience, Tone, and Register | Maintains a formal, neutral, diplomatic tone suited to the reader | Tone is mostly appropriate, but inconsistent in places | Tone is informal, vague, emotional, or poorly matched to the reader |  |  |"
+6730,low,multiple_spaces,Multiple consecutive spaces,"| Structure and Cohesion | Organises information clearly and makes the document easy to follow | Organisation is generally clear, but grouping or flow is uneven | Structure is hard to follow or poorly grouped |  |  |"
+6731,low,multiple_spaces,Multiple consecutive spaces,"| Language Precision | Uses clear, specific, controlled language throughout | Meaning is mostly clear, but some phrasing is loose or imprecise | Vague or imprecise language weakens the document |  |  |"
+6739,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Track-Change Simulation (G3)
+6755,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Homework Writing Task (H3)
+6771,medium,heading_contains_activity_code,Heading contains activity code metadata,#### Extension Task (H1)
+6782,medium,missing_blank_after_heading,Missing blank line after heading,# Unit 23 Capstone Assessment Rubric
+6782,medium,missing_blank_before_heading,Missing blank line before heading,# Unit 23 Capstone Assessment Rubric
+6783,medium,missing_blank_before_heading,Missing blank line before heading,"## Administrative Writing, Advanced"
+6795,low,multiple_spaces,Multiple consecutive spaces,  - a consolidated report for the supervisor
+6796,low,multiple_spaces,Multiple consecutive spaces,  - an administrative notice for all offices
+6797,low,multiple_spaces,Multiple consecutive spaces,  - an integrated briefing document combining both audiences

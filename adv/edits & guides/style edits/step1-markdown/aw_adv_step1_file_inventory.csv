@@ -1,0 +1,8 @@
+﻿file_key,filename,exists,type,size_bytes,status
+edit_lines,aw_adv_markdown_edit_instruction_lines.csv,True,.csv,186997,
+normalization_guide,aw_adv_markdown_normalization_guide.md,True,.md,3539,
+lint_report,aw_adv_pandoc_markdown_lint_report.csv,True,.csv,62717,
+lint_summary,aw_adv_pandoc_markdown_lint_summary.md,True,.md,2003,
+activity_missing,activity_headings_missing_subtitles.csv,True,.csv,14397,
+final_decisions,final_step1_decisions.md,True,.md,1709,
+old_master,aw_adv_step1_master_spec.md,True,.md,5266,
