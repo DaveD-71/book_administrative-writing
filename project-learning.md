@@ -840,6 +840,7 @@ Historical note:
 - Preferred behavior: use `--no-pagebreak-filter` for this manuscript; the Advanced Lua filter suppresses standalone `---` separators, and Textmaker's built-in pagebreak filter must not run.
 - Preferred behavior: semantic Div title lines keep the semantic Div paragraph style. Do not replace them with `Label Base Para`/`Label Para`; set label spacing after to 4pt and moved content spacing before to 0pt.
 - Preferred behavior: after inserting the reference unit-title table, clear the original unit heading paragraph so it does not remain visible under or around the table.
+- Preferred behavior: list paragraphs inside semantic Divs should keep their list paragraph style while receiving the Div's block-level paragraph formatting from postprocess, because Word cannot apply both styles to one paragraph.
 
 ## 2026-04-01 - Intermediate full-review protocol now matches the stronger operational standard
 

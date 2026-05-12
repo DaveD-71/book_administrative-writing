@@ -1566,3 +1566,4 @@ Historical note:
 - Corrected the final conversion command to include `--no-pagebreak-filter`, preventing standalone `---` separators from being converted into extra page breaks; the generated PDF returned to 186 pages.
 - Updated semantic Div title processing so title rows keep their semantic Div paragraph style while using 4pt space after and 0pt space before the moved content paragraph.
 - Updated unit-title table insertion so the original unit heading text is removed after inserting the reference table.
+- Regenerated the final DOCX/PDF after Textmaker added support for nested list paragraphs inside semantic Divs. Validation confirmed list paragraphs keep their list styles and receive Div block-level paragraph formatting.

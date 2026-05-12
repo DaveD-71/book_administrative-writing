@@ -5483,28 +5483,27 @@ Write your predictions, then compare with a partner after completing Section B.
 
 ::: model-good
 **Revised Text — Concise Executive Brief**
-**Overview:** The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility.
-
+**Overview:** *"The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility*
 
 **Key Points:**
 
-- Several offices raised concerns regarding ambiguous terminology.
-- The current revision may delay processing due to additional verification steps.
-- Stakeholders agree that further clarification is required before the form is finalised.
+  - *Several offices raised concerns regarding ambiguous terminology*
+  - *The current revision may delay processing due to additional verification steps*
+  - *Stakeholders agree that further clarification is required before the form is finalised.*
 
 
-**Implications:** Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.
+**Implications:** *Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.*
 
 
-**Recommendation:** Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.
+**Recommendation:** *Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.*
 
 
 **Identify Improvements In:**
 
-- clarity
-- structure
-- level of detail
-- usefulness for decision-making
+  - *clarity*
+  - *structure*
+  - *level of detail*
+  - *usefulness for decision-making"*
 :::
 
 ::: learn-process
@@ -6213,9 +6212,7 @@ Plain explanation is not the same as oversimplification. The goal is to remove s
 
 
 ::: learn-language
-**Learn — Example:**
-
-*Original:* Section 12(4) requires procedural harmonisation across offices.
+**Learn — Example:** *Original:* Section 12(4) requires procedural harmonisation across offices.
 *Simplified:* All offices are now required to follow the same process.
 :::
 
