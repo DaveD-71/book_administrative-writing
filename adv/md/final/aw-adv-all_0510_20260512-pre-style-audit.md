@@ -115,14 +115,13 @@ Use coordination when both ideas deserve similar weight in the reader's mind. In
 
 ::: learn-note
 **Learn — Common Patterns:**
-:::
-
 
 - *X and Y* (addition)
 - *X but Y* (contrast — equal ideas in tension)
 - *X or Y* (choice)
 - *X; however, Y* (strong contrast — equal ideas in tension, more formal)
 - *X; therefore, Y* (logical result)
+:::
 
 
 ::: learn-language
@@ -204,12 +203,11 @@ Use two or more shorter sentences when:
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *Dense:* *Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review.*
 
 *Segmented:* *The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review.*
+:::
 
 **Practice C — Apply the Patterns (C3)**
 
@@ -404,7 +402,10 @@ Reflect on your own professional writing experience:
 3. What differences do you notice between messages written to colleagues in your own office and those written to foreign organisations?
 4. What makes a diplomatic message feel genuine rather than evasive?
 
-*Self-study learners: Write your responses before continuing.*
+::: self-study
+**Self-Study:** Write your responses before continuing.
+:::
+
 
 ---
 
@@ -464,8 +465,6 @@ Softening does not mean being vague or weak. It means presenting a problem in a 
 
 ::: learn-note
 **Learn — Common Forms:**
-:::
-
 
 - *It appears that…*
 - *There may have been an oversight regarding…*
@@ -474,6 +473,7 @@ Softening does not mean being vague or weak. It means presenting a problem in a 
 - *Would it be possible to…*
 - *To ensure accuracy…*
 - *For our internal confirmation…*
+:::
 
 **Practice A — Match the Function**
 
@@ -502,13 +502,12 @@ Neutral clarification language is useful when you need accurate information but 
 
 ::: learn-note
 **Learn — Examples:**
-:::
-
 
 - *Could you clarify whether…*
 - *We would like to confirm the status of…*
 - *For consistency, may we ask if…*
 - *If available, could you share…*
+:::
 
 **Practice B — Rewrite Direct Questions**
 
@@ -528,16 +527,14 @@ Rewrite each question using neutral clarification language.
 **International / foreign office →** requires extra diplomacy and clarity
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 - Internal: *Could you send the corrected file today?*
 - Interagency: *Could you confirm whether an updated file is available for this case?*
 - Foreign office: *We would appreciate it if you could confirm whether an updated file is available at your earliest convenience.*
 
 The core request stays the same, but the amount of softening and explicit reader support increases as the relationship becomes more formal or distant.
+:::
 
 **Practice C — Choose the Appropriate Version**
 
@@ -830,10 +827,9 @@ Reference improves flow when the reader can still identify the meaning clearly. 
 
 ::: learn-note
 **Learn — Examples:**
-:::
-
 
 - *this issue, these concerns, that step, such changes, the matter*
+:::
 
 **Practice B — Replace Repetition**
 
@@ -853,24 +849,21 @@ Good paragraphs start with known information and move forward to new information
 
 ::: learn-note
 **Learn — Pattern:**
-:::
-
 
 - Sentence 1: Introduce the topic
 - Sentence 2: Add detail or explanation
 - Sentence 3: Show the implication or next step
-
-
-::: learn-note
-**Learn — Worked Example:**
 :::
 
 
+::: worked-example
+**Worked Example:**
 - *The coordination meeting identified three problems with the new submission process.*
 - *These problems mainly concerned terminology, deadline confusion, and inconsistent file naming.*
 - *As a result, the team agreed to issue a revised guidance note before the next reporting cycle.*
 
 The topic begins with the meeting outcome, develops into the specific problems, and ends with the consequence or next step.
+:::
 
 **Practice C — Add Logical Connectors**
 
@@ -1021,6 +1014,7 @@ Choose one:
 1. Find a paragraph from a recent work document — a report, briefing note, or email — that you feel lacks cohesion. Rewrite it to improve logical flow, then write two or three sentences identifying the specific changes you made and why.
 2. Take the paragraph you wrote for the Homework task. Annotate it: mark every cohesive device, every reference word, and identify where thematic progression occurs. Then assess whether any transitions are missing or weak, and revise accordingly.
 3. Write a short guide (six to eight sentences) for a colleague who struggles with paragraph organisation. Explain thematic progression — what it is, why it matters, and how to apply it — using two original before-and-after examples.
+
 ## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
 
 *Homework target: ~200 words*
@@ -1068,13 +1062,17 @@ Consider:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-**Original Text — Too informal and disorganised
 
-> *"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
+::: model-bad
+**Original Text — Too Informal And Disorganised**
+*"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
+:::
 
-**Improved Version** — Structured and diplomatic
 
-> *"Thank you for your message. We would like to confirm whether the updated file is available, as the version received may not reflect the latest corrections. In addition, our team noted several inconsistencies in the translation and would appreciate your review of these points. Once the updated materials are received, we will proceed with the remaining steps of the review."*
+::: model-good
+**Revised Text — Structured And Diplomatic**
+*"Thank you for your message. We would like to confirm whether the updated file is available, as the version received may not reflect the latest corrections. In addition, our team noted several inconsistencies in the translation and would appreciate your review of these points. Once the updated materials are received, we will proceed with the remaining steps of the review."*
+:::
 
 Compare the two versions. Identify differences in:
 
@@ -1140,14 +1138,12 @@ High-level professional emails typically follow this sequence:
 - *We plan to proceed with…*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Thank you for your message regarding the revised file. We are writing to confirm whether the version received includes the latest terminology updates. Our team noted two terms that may differ from the version currently on record. We would appreciate it if you could confirm which version should be treated as final. Once confirmed, we will update our internal records and proceed with the review.*
 
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
+:::
 
 ---
 
@@ -1211,8 +1207,6 @@ Use the template below to write a high-level email. Fill in each section using t
 
 ::: learn-note
 **Learn — Template:**
-:::
-
 
 > *[Opening — acknowledge or establish context]*
 >
@@ -1225,6 +1219,7 @@ Use the template below to write a high-level email. Fill in each section using t
 > *[Next step — explain what you will do once the reader responds]*
 >
 > *[Closing — end professionally]*
+:::
 
 
 ::: learn-note
@@ -1402,13 +1397,17 @@ Consider:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-**Original Text — Vague
 
-> *"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
+::: model-bad
+**Original Text — Vague**
+*"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
+:::
 
-**Improved Version** — Precise and structured
 
-> *"Thank you for sharing the revised document. For our confirmation, we would appreciate clarification on two points. First, in Section 2.3, the date listed appears to differ from the timeline provided in Annex A; could you confirm which version is correct? Second, the term 'applicant request' is used in several places — could you clarify whether it refers specifically to written submission or includes verbal requests as well? Once confirmed, we will proceed with updating our internal records."*
+::: model-good
+**Revised Text — Precise And Structured**
+*"Thank you for sharing the revised document. For our confirmation, we would appreciate clarification on two points. First, in Section 2.3, the date listed appears to differ from the timeline provided in Annex A; could you confirm which version is correct? Second, the term 'applicant request' is used in several places — could you clarify whether it refers specifically to written submission or includes verbal requests as well? Once confirmed, we will proceed with updating our internal records."*
+:::
 
 Identify differences in:
 
@@ -1505,14 +1504,12 @@ The phrases below are drawn from this unit's model text and language focus. Orga
 Keep this phrase bank for reference throughout the module.
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.*
 
 This example works because each question is tied to a specific reference, each point asks for one answerable clarification, and the next step shows why the reply matters.
+:::
 
 ---
 
@@ -1734,13 +1731,17 @@ Discuss:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-**Original Text — Too direct
 
-> *"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
+::: model-bad
+**Original Text — Too Direct**
+*"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
+:::
 
-**Improved Version** — Diplomatic
 
-> *"Thank you for sharing the updated document. Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm whether the dates should be updated. Once clarified, we will be able to proceed with the remaining steps in the review."*
+::: model-good
+**Revised Text — Diplomatic**
+*"Thank you for sharing the updated document. Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm whether the dates should be updated. Once clarified, we will be able to proceed with the remaining steps in the review."*
+:::
 
 Compare the two versions. Identify improvements in:
 
@@ -1861,17 +1862,14 @@ Each sentence below contains one problem — either a tone issue, a missing refe
 6. *Please correct all of the errors before we can continue.*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Direct:* *You used the wrong date in Section 3, and this has delayed our work.*
 
 *Diplomatic:* *Upon review, it appears that the date in Section 3 may differ from the revised timeline circulated on 12 July. To ensure consistency in the next stage of processing, we would appreciate your confirmation of the correct date.*
 
 The revised version removes accusation, adds a specific reference, and explains the impact in neutral terms.
-
+:::
 
 ---
 
@@ -2088,13 +2086,17 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-**Original Text — Unstructured
 
-> *"Please check the translation, send the corrected file, and confirm the date. We need everything as soon as possible."*
+::: model-bad
+**Original Text — Unstructured**
+*"Please check the translation, send the corrected file, and confirm the date. We need everything as soon as possible."*
+:::
 
-**Improved Version** — Layered and prioritised
 
-> *"To proceed with the review, we would appreciate your support with the following points. First, could you confirm whether the date in Section 2.1 should align with the revision issued on 3 August? Once confirmed, we would be grateful if you could review the attached translation for consistency. Finally, if an updated version of the file is available, kindly share it at your convenience. These steps will allow us to complete the review accurately."*
+::: model-good
+**Revised Text — Layered And Prioritised**
+*"To proceed with the review, we would appreciate your support with the following points. First, could you confirm whether the date in Section 2.1 should align with the revision issued on 3 August? Once confirmed, we would be grateful if you could review the attached translation for consistency. Finally, if an updated version of the file is available, kindly share it at your convenience. These steps will allow us to complete the review accurately."*
+:::
 
 Identify differences in:
 
@@ -2167,17 +2169,14 @@ Rewrite the paragraph as a structured, diplomatically phrased request. Your vers
 - maintain the same factual content
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Unsequenced:* *Please confirm the date, review the terminology, and send the updated file.*
 
 *Sequenced:* *As a first step, could you confirm whether the date in Section 2 should match the revision issued on 3 August? Once this point is confirmed, we would appreciate your review of the terminology used in the attached translation. Finally, if an updated file is available, kindly share it so that we can complete the review accurately.*
 
 The second version is easier to follow because the order, dependency, and reason for the sequence are made explicit.
-
+:::
 
 ---
 
@@ -2337,6 +2336,7 @@ Choose one:
 1. Rewrite a multi-part request message you have previously sent — apply sequencing markers, dependency logic, and diplomatic softening. Write a brief note explaining what you changed and why.
 2. Take a disorganised request email you have received and convert it into a clearly layered version. Identify the implicit priority order, make dependencies explicit, and note what structural changes you made.
 3. Find a message in which the priority order of requests was not stated. Analyse what effect the missing sequencing had on the reader's ability to act, and write an improved version that makes the order and dependencies explicit.
+
 ## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
 
 *Homework target: ~200 words*
@@ -2373,9 +2373,13 @@ Read the following internal procedure notice.
 
 ---
 
-> **Office Circular — Document Verification Procedure (Revised)**
->
-> All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
+
+::: example
+**Office Circular — Document Verification Procedure (Revised)**
+
+All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
+:::
+
 
 ---
 
@@ -2392,12 +2396,15 @@ Answer the following questions:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Unclear And Disordered**
+*"Review the application and update the record. If the applicant submitted a revision, confirm the changes. Send notification. Check if the timeline should be updated. Follow the guidelines."*
+:::
 
-> *"Review the application and update the record. If the applicant submitted a revision, confirm the changes. Send notification. Check if the timeline should be updated. Follow the guidelines."*
 
-**Improved (Structured Procedure)**
-
+::: model-good
+**Revised Text — Structured Procedure**
 **Procedure for Reviewing Applicant Submissions**
 
 1. **Initial Review:** Examine the application and confirm that all required fields are complete.
@@ -2408,16 +2415,15 @@ Answer the following questions:
 6. **Guideline Compliance:** Ensure all steps comply with the latest procedural guidelines before closing the file.
 
 
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
 :::
+
+Compare the two versions. Identify improvements in:
 
 
 - clarity and completeness of each step
 - logical sequencing
 - use of labels and formatting
 - how conditions are handled
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved version reduces reader error because each step has one clear job, appears in a predictable order, and uses a consistent instruction style. The reader does not have to infer what happens first, what depends on a condition, or when the procedure is complete.
@@ -2474,16 +2480,14 @@ Rewrite each sentence using a more precise procedural verb. Replace the underlin
 :::
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Vague instruction:* *Check the file and do the update.*
 
 *Procedural instruction:* *Examine the file for missing information, then update the internal record to reflect any confirmed changes.*
 
 The revised version works better because the actions are separated, the verbs are precise, and the order is explicit.
+:::
 
 ---
 
@@ -2648,6 +2652,7 @@ Choose one:
 
 ---
 ---
+
 ## Unit 9 — Change Management Writing
 
 ### Unit Overview
@@ -2698,25 +2703,27 @@ After reading the model, return to your list and answer:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Incomplete And Unclear**
-
-> *"The instructions have changed. Make sure to follow the new steps and use the updated form. The previous version is no longer valid."*
-
-**Improved (Clear Change Notification)**
-
-> *"Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November. The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability. We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice. Should any questions arise regarding the transition, please do not hesitate to contact our office."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+*"The instructions have changed. Make sure to follow the new steps and use the updated form. The previous version is no longer valid."*
 :::
+
+
+::: model-good
+**Revised Text — Clear Change Notification**
+*"Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November. The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability. We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice. Should any questions arise regarding the transition, please do not hesitate to contact our office."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - clarity about what has changed
 - explanation of why the change was made
 - instructions for required actions
 - tone and reassurance
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved notice balances three jobs at once: it states the change clearly, explains why the change has been introduced, and reassures the reader that support is available. That combination helps readers understand the change and act on it without unnecessary uncertainty.
@@ -2771,16 +2778,14 @@ Each sentence below is a bare statement of fact. Expand each one into 2–3 sent
 4. *The coordinating office has revised its communication procedure.* [Add: what specifically has changed + the benefit this brings to partner offices]
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Bare announcement:* *Staff should use the updated form.*
 
 *Expanded change message:* *From 1 December, staff should use the updated form in place of the previous version circulated in September. The revised form includes a separate section for multi-stage submissions, which will reduce the need for follow-up clarification during review.*
 
 The expanded version tells the reader when to act, what has changed, and why the change is useful.
+:::
 
 ---
 
@@ -2966,6 +2971,7 @@ Choose one:
 
 ---
 ---
+
 ## Unit 10 — Explaining Complex Issues
 
 ### Unit Overview
@@ -3001,25 +3007,27 @@ Answer the following questions:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Vague And Overgeneralised**
-
-> *"The report was delayed because there were problems with the data and also the instructions were confusing. We need more time to finish it."*
-
-**Improved (Clear, Multi-Factor Explanation)**
-
-> *"The completion of the report has been delayed due to two main factors. First, discrepancies were identified in the applicant data submitted by the coordinating office, requiring additional verification before analysis can proceed. Second, the updated instructions issued on 3 October contain several ambiguous points — in particular, the definition of 'response period' appears to be used inconsistently across sections. Both issues are currently being addressed. Once these are resolved, we anticipate being able to finalise the report within five working days."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+*"The report was delayed because there were problems with the data and also the instructions were confusing. We need more time to finish it."*
 :::
+
+
+::: model-good
+**Revised Text — Clear, Multi-Factor Explanation**
+*"The completion of the report has been delayed due to two main factors. First, discrepancies were identified in the applicant data submitted by the coordinating office, requiring additional verification before analysis can proceed. Second, the updated instructions issued on 3 October contain several ambiguous points — in particular, the definition of 'response period' appears to be used inconsistently across sections. Both issues are currently being addressed. Once these are resolved, we anticipate being able to finalise the report within five working days."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - how many factors are identified and how clearly they are separated
 - the level of detail supporting each factor
 - tone and neutrality
 - the clarity of the next-step statement
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved version is easier for a non-specialist reader to process because it names the number of factors up front, separates them clearly, and supports each one with specific detail. The reader can understand both the problem and its effect without sorting through vague generalisations.
@@ -3087,16 +3095,14 @@ Rewrite each vague sentence as a clear, professionally phrased statement. Add th
 5. *This is affecting the process.* [Add: how / what cannot proceed as a result]
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Overgeneralised:* *The instructions are unclear and this is causing problems.*
 
 *Clear explanation:* *The updated instructions in Section 4 use the term "response period" in two different ways, which means the review team cannot confirm which deadline should apply to the current file.*
 
 The clearer version keeps the issue specific, shows why it matters, and gives the reader something concrete to act on.
+:::
 
 ---
 
@@ -3268,6 +3274,7 @@ Choose one:
 
 ---
 ---
+
 ## Unit 11 — Executive-Level Meeting Summaries
 
 ### Unit Overview
@@ -3302,54 +3309,47 @@ Answer the following questions:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Incomplete And Unstructured**
-
-> *"The meeting was held on Monday. People discussed the guideline revisions and some offices had concerns. We decided to continue the discussion later."*
-
-**Improved (Executive-Level Summary)**
-
-> **Meeting Summary — Guideline Revision Discussion (12 October)**
->
-
-::: learn-note
-**Learn — Overview:** Representatives from four offices met to review proposed guideline revisions. The discussion focused on three areas: terminology consistency, timeline alignment, and the applicant communication process.
-:::
-
->
-
-::: learn-note
-**Learn — Key Points Discussed:**
-:::
-
-> - Several offices noted that the updated terminology may conflict with wording in existing procedural documents.
-> - The current implementation timeline was identified as unrealistic given the system updates required.
-> - Additional clarification is needed regarding the process for notifying applicants of the revised guidelines.
->
-
-::: learn-note
-**Learn — Decisions / Action Items:**
-:::
-
-> - Office A will submit a consolidated list of terminology inconsistencies by 18 October.
-> - Office B will prepare a revised implementation timeline for circulation by 20 October.
-> - The working group will reconvene on 25 October.
->
-
-::: learn-note
-**Learn — Next Steps:** All offices are requested to share outstanding questions with the working group coordinator in advance of the next meeting.
+*"The meeting was held on Monday. People discussed the guideline revisions and some offices had concerns. We decided to continue the discussion later."*
 :::
 
 
-::: learn-note
-**Learn — Compare The Two Versions. Identify Differences In:**
+::: model-good
+**Revised Text — Executive-Level Summary**
+**Meeting Summary — Guideline Revision Discussion (12 October)**
+
+
+**Overview:** Representatives from four offices met to review proposed guideline revisions. The discussion focused on three areas: terminology consistency, timeline alignment, and the applicant communication process.
+
+
+**Key Points Discussed:**
+
+- Several offices noted that the updated terminology may conflict with wording in existing procedural documents.
+- The current implementation timeline was identified as unrealistic given the system updates required.
+- Additional clarification is needed regarding the process for notifying applicants of the revised guidelines.
+
+
+**Decisions / Action Items:**
+
+- Office A will submit a consolidated list of terminology inconsistencies by 18 October.
+- Office B will prepare a revised implementation timeline for circulation by 20 October.
+- The working group will reconvene on 25 October.
+
+
+**Next Steps:** All offices are requested to share outstanding questions with the working group coordinator in advance of the next meeting.
+
+
 :::
+
+Compare the two versions. Identify differences in:
 
 
 - structure and use of section labels
 - level of detail
 - clarity of decisions and responsibilities
 - usefulness for a manager who did not attend
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved version does not retell the meeting in time order. Instead, it groups information by managerial function: what the meeting was about, what mattered, what was decided, and what happens next. That makes the summary more useful for a reader who needs action and accountability, not narrative detail.
@@ -3404,16 +3404,14 @@ Do not add information that is not in the original — focus on reorganising and
 > *"The meeting on 5 November brought together representatives from Offices A, B, and C. Most of the time was spent discussing the new reporting template. Office B said the template doesn't include a section for multi-stage submissions. Office C agreed and said this causes problems when summarising complex cases. Everyone agreed that the template needs to be revised before it is rolled out. Office A said they would prepare a revised draft. This should be ready by 12 November. The group will look at the draft at the next meeting, which is scheduled for 15 November."*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Meeting-note wording:* *Everyone agreed that the template needs to be revised before it is rolled out.*
 
 *Executive-summary wording:* *The group agreed that the reporting template requires revision before implementation.*
 
 The executive-summary version removes conversational narrative and foregrounds the decision itself.
+:::
 
 ---
 
@@ -3599,6 +3597,7 @@ Choose one:
 3. Create an executive-summary checklist for your own workplace. Include at least eight criteria covering structure, attribution, deadlines, tone, and usefulness for a reader who did not attend.
 
 ---
+
 ## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
 
 *Homework target: ~250 words*
@@ -3661,25 +3660,27 @@ Read the following external inquiry, then answer the questions below.
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-##### Original Text — Unclear And Imprecise
 
-> *"We want to know what is going on with the applicant. Please explain what is happening and send us the correct information."*
-
-##### Improved (Diplomatic, Structured External Inquiry)
-
-> *"We would appreciate your assistance in confirming the current status of the applicant's submission. For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps. Your support is appreciated, and please let us know if any further information is required on our side."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+::: model-bad
+**Original Text — Unclear And Imprecise**
+*"We want to know what is going on with the applicant. Please explain what is happening and send us the correct information."*
 :::
+
+
+::: model-good
+**Revised Text — Diplomatic, Structured External Inquiry**
+*"We would appreciate your assistance in confirming the current status of the applicant's submission. For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps. Your support is appreciated, and please let us know if any further information is required on our side."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - clarity and specificity of questions
 - provision of background context
 - diplomatic tone
 - overall structure and reader support
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved inquiry helps an external reader because it provides enough background to identify the case, asks focused questions that can be answered directly, and signals why the information is needed on the writer’s side.
@@ -3719,7 +3720,6 @@ Background context should orient the reader without overloading them. In an exte
 
 ::: learn-note
 **Learn — Example:**
-:::
 
 *We are writing to confirm the status of the revised documents submitted on 3 May in connection with application reference 2024/88.*
 
@@ -3729,6 +3729,7 @@ Useful expressions:
 - *For our internal processing…*
 - *With regard to the submission made on [date]…*
 - *In connection with [reference / process]…*
+:::
 
 #### Classification / Matching — Match Functions And Forms (C2)
 
@@ -3772,7 +3773,6 @@ An answerable inquiry question asks for one specific piece of confirmation or cl
 
 ::: learn-note
 **Learn — Example:**
-:::
 
 *Could you confirm whether the corrected version submitted on 14 January has been reviewed?*
 
@@ -3782,6 +3782,7 @@ Useful structures:
 - *Would you be able to clarify whether…?*
 - *Could you advise if…?*
 - *We would appreciate confirmation of whether…*
+:::
 
 #### Phrase Bank Building — Build Reusable Language (C8)
 
@@ -3915,7 +3916,10 @@ In a group of three, exchange your freer writing tasks. Read both of your classm
 3. Which inquiry uses more effective diplomatic softening? Give one example from each text.
 4. Which inquiry would you be more likely to respond to promptly — and why?
 
-*Self-study note: Read your own inquiry as if you are the recipient. Answer questions 1–4 from the perspective of the reader.*
+::: self-study
+**Self-Study:** Read your own inquiry as if you are the recipient. Answer questions 1–4 from the perspective of the reader.
+:::
+
 
 #### Self-Editing Checklist — Final Revision Audit (F3)
 
@@ -4042,25 +4046,27 @@ Write your predictions. Then, as you work through this unit, compare your list a
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-##### Original Text — Unclear And Vague
 
-> *"There are some risks with the new procedure. People might be confused and things might be delayed. We need to check everything carefully."*
-
-##### Improved (Structured Risk & Impact Assessment)
-
-> *"The revised procedure presents two key risks. First, the removal of the preliminary verification step may increase the likelihood of incomplete submissions, resulting in additional processing time. Second, the updated terminology has not yet been standardised across agencies, which may lead to inconsistent interpretation during coordination. These risks may affect overall processing timelines; however, clear guidance and interagency briefing sessions can mitigate their impact."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+::: model-bad
+**Original Text — Unclear And Vague**
+*"There are some risks with the new procedure. People might be confused and things might be delayed. We need to check everything carefully."*
 :::
+
+
+::: model-good
+**Revised Text — Structured Risk & Impact Assessment**
+*"The revised procedure presents two key risks. First, the removal of the preliminary verification step may increase the likelihood of incomplete submissions, resulting in additional processing time. Second, the updated terminology has not yet been standardised across agencies, which may lead to inconsistent interpretation during coordination. These risks may affect overall processing timelines; however, clear guidance and interagency briefing sessions can mitigate their impact."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - specificity of risks identified
 - cause–effect structure
 - tone and neutrality
 - inclusion of mitigation measures
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved paragraph separates four different jobs that weak risk writing often blurs together: identifying the risk, explaining its cause, showing the likely impact, and proposing mitigation. That makes the assessment more analytical and more useful for decision-making.
@@ -4113,7 +4119,6 @@ Risk writing is evidence-based and conditional. The writer is not claiming that 
 
 ::: learn-note
 **Learn — Example:**
-:::
 
 *There is a risk that inconsistent terminology may delay interagency coordination.*
 
@@ -4123,6 +4128,7 @@ Useful structures:
 - *One concern is that…*
 - *A potential issue relates to…*
 - *This may result in…*
+:::
 
 #### Sentence Rewriting — Guided Skill Practice (C3)
 
@@ -4147,7 +4153,6 @@ Rewrite each sentence to clearly express a specific, well-defined risk. Add a ca
 
 ::: learn-note
 **Learn — Example:**
-:::
 
 *This may result in additional review time and delayed processing. To mitigate this risk, a pre-submission checklist could be introduced.*
 
@@ -4158,18 +4163,17 @@ Useful patterns:
 - *This risk can be reduced by…*
 - *To mitigate this issue…*
 - *A possible solution would be to…*
-
-
-::: learn-note
-**Learn — Worked Example:**
 :::
 
 
+::: worked-example
+**Worked Example:**
 *Observed issue:* *Terminology queries increased from 6 in January to 21 in March.*
 
 *Risk statement with impact and mitigation:* *This trend may lead to inconsistent interpretation across agencies and longer processing times during implementation. To mitigate this risk, a shared terminology briefing and reference sheet could be issued before the next rollout stage.*
 
 The second version does more than report a problem: it explains the likely consequence and proposes a realistic response.
+:::
 
 #### Error Identification & Correction — Find And Fix Errors (C4)
 
@@ -4413,25 +4417,27 @@ Discuss:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-##### Original Text — Assumes Too Much Knowledge
 
-> *"We shared the new instructions last week, so please start using the updated timeline. As you know, this fixes the issues identified earlier."*
-
-##### Improved (Clear Multi-Audience Message)
-
-> *"We would like to confirm that the updated instructions circulated on 3 October should now be used for all applicant submissions. For colleagues already familiar with the revision, the main change concerns the applicant communication timeline in Section 2.2. For partner offices, we note that the revision was introduced to resolve inconsistencies identified in the previous version. Should any questions arise regarding the updated process, please feel free to contact our office."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+::: model-bad
+**Original Text — Assumes Too Much Knowledge**
+*"We shared the new instructions last week, so please start using the updated timeline. As you know, this fixes the issues identified earlier."*
 :::
+
+
+::: model-good
+**Revised Text — Clear Multi-Audience Message**
+*"We would like to confirm that the updated instructions circulated on 3 October should now be used for all applicant submissions. For colleagues already familiar with the revision, the main change concerns the applicant communication timeline in Section 2.2. For partner offices, we note that the revision was introduced to resolve inconsistencies identified in the previous version. Should any questions arise regarding the updated process, please feel free to contact our office."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - accessibility for readers with different levels of knowledge
 - use of context and background
 - audience signals
 - tone and overall clarity
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved version shows what changes across audiences and what stays stable. The core instruction remains the same for everyone, but the supporting context is adjusted so that less-informed readers can still understand the message without being left behind.
@@ -4484,11 +4490,11 @@ Audience signals are cues about assumed knowledge. They tell the reader whether 
 
 ::: learn-note
 **Learn — Examples:**
-:::
 
 - *For colleagues already familiar with the revision…*
 - *For partner offices not involved in earlier discussions…*
 - *For agencies unfamiliar with the previous version, we note that…*
+:::
 
 #### Sentence Rewriting — Guided Skill Practice (C3)
 
@@ -4513,11 +4519,11 @@ Reader-aware explanation is not the same as oversimplification. The goal is to k
 
 ::: learn-note
 **Learn — Examples:**
-:::
 
 - *To provide context for those unfamiliar with the earlier consultation…*
 - *This change responds to issues raised during the September review.*
 - *As background, the revision was introduced to address…*
+:::
 
 #### Paragraph-Level Transformation — Paragraph Revision Practice (C5)
 
@@ -4528,16 +4534,14 @@ Rewrite the following paragraph so that it is accessible to a reader who has no 
 Your rewritten version should be 5–7 sentences and address at least two different reader groups.
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Knowledge-assuming:* *Please start using the updated form from Monday.*
 
 *Reader-aware version:* *From Monday, all offices should begin using the updated applicant submission form circulated on 3 October. For teams that attended the briefing, the main change concerns the revised timeline field in Section 2. For partner offices receiving this update for the first time, the revision was introduced to resolve inconsistencies in the previous version.*
 
 The revised version preserves the core instruction but changes the explanation density for different readers.
+:::
 
 ---
 
@@ -4751,25 +4755,27 @@ Read the following excerpt from an internal policy proposal. Answer the question
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
-##### Original Text — Weak And Unsupported
 
-> *"We should update the form because people don't like the old version. A new form would be better and easier to use."*
-
-##### Improved (Policy-Aligned Rationale)
-
-> *"Updating the form will improve alignment with the revised guidelines issued in August, which require clearer terminology and updated data fields. The new format will also reduce the likelihood of incomplete submissions, supporting the agency's objective of improving processing efficiency. As a result, adopting the revised form is consistent with current policy and enhances overall workflow accuracy."*
-
-
-::: learn-note
-**Learn — Compare The Two Versions. Identify Improvements In:**
+::: model-bad
+**Original Text — Weak And Unsupported**
+*"We should update the form because people don't like the old version. A new form would be better and easier to use."*
 :::
+
+
+::: model-good
+**Revised Text — Policy-Aligned Rationale**
+*"Updating the form will improve alignment with the revised guidelines issued in August, which require clearer terminology and updated data fields. The new format will also reduce the likelihood of incomplete submissions, supporting the agency's objective of improving processing efficiency. As a result, adopting the revised form is consistent with current policy and enhances overall workflow accuracy."*
+
+
+:::
+
+Compare the two versions. Identify improvements in:
 
 
 - clarity and strength of justification
 - use of policy alignment
 - evidence and reasoning
 - professional objectivity
-
 
 ::: learn-process
 **Learn — Why This Works:** The improved rationale is more persuasive because it links three elements clearly: the policy requirement, the operational problem, and the benefit of the proposed change. The reasoning is visible rather than implied.
@@ -4822,12 +4828,12 @@ Strong policy-aligned writing does not just cite a rule. It shows how the rule s
 
 ::: learn-note
 **Learn — Examples:**
-:::
 
 - *In accordance with the guidelines introduced in March…*
 - *To comply with the updated framework…*
 - *Consistent with the agency's objective of…*
 - *As required by the revised coordination protocol…*
+:::
 
 #### Sentence Rewriting — Guided Skill Practice (C3)
 
@@ -4850,11 +4856,11 @@ Rewrite each sentence to include a clear, specific policy or guideline reference
 
 ::: learn-note
 **Learn — Examples:**
-:::
 
 - *This change reduces the likelihood of inconsistent interpretation across agencies.*
 - *This will improve processing efficiency and reduce unnecessary delays.*
 - *This supports the agency's objective of standardising interagency communication.*
+:::
 
 #### Expansion Task — Develop Supporting Detail (C7)
 
@@ -4866,16 +4872,14 @@ Expand each bare sentence into 2–3 sentences that include a policy reference, 
 4. *A new verification step has been introduced.*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Bare rationale:* *We should complete portal registration soon.*
 
 *Policy-aligned rationale:* *Completing portal registration before 30 April is consistent with the revised interagency processing guidelines, which require all partner offices to use the designated submission portal. Early registration will reduce the risk of delayed file transfers and support a consistent audit trail across agencies. As a result, prioritising registration now will improve compliance and reduce avoidable processing disruption.*
 
 This example works because it moves from policy reference, to reason, to expected benefit in a clear sequence.
+:::
 
 ---
 
@@ -4920,12 +4924,11 @@ Use the structure below to draft a policy-aligned rationale for one of the follo
 
 ::: learn-note
 **Learn — Template:**
-:::
-
 
 *[Recommendation statement].* This change is consistent with *[policy / guideline reference]*, which requires *[relevant requirement]*. Current practice has resulted in *[identified problem]*, which affects *[process or outcome]*. Implementing *[the change]* will *[primary benefit]* and *[secondary benefit]*. As a result, *[conclusion linking change to policy alignment or organisational objective]*.
 
 Adapt the template as needed. Your rationale should be 5–7 sentences.
+:::
 
 
 ---
@@ -5062,6 +5065,7 @@ Choose one:
 1. Find a rationale or justification document from your workplace. Evaluate it using the structure: recommendation → policy reference → reasoning → benefits. Identify where it is strong and where it could be improved.
 2. Draft two versions of a rationale: a short version (3–4 sentences) for a supervisor who is already familiar with the issue, and a full version (8–10 sentences) for an interagency partner who is not.
 3. Analyse a recent policy change in your organisation or sector and write a rationale as if you were proposing the change before it was introduced.
+
 ## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
 
 *Homework target: ~250 words*
@@ -5127,50 +5131,41 @@ Below are eight evaluation statements. Sort each one into the correct column.
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Unbalanced And Vague**
-
-> *"The revised document is not good. It has many problems and needs to be improved. Some parts are unclear."*
-
-**Improved (Balanced, Structured Evaluation)**
-
-
-::: learn-note
-**Learn — Overall Assessment:** The revised document provides clearer guidance in several sections, particularly the updated chronology table. The structure is generally easier to follow than the previous version.
-:::
-
->
-
-::: learn-note
-**Learn — Strengths:**
-:::
-
-> - Terminology has been standardised across most sections.
-> - The explanation of the verification process is noticeably clearer.
->
-
-::: learn-note
-**Learn — Areas For Improvement:**
-:::
-
-> - Several definitions remain ambiguous, particularly in Section 3.2.
-> - The transition between Steps 4 and 5 is unclear and may cause misinterpretation.
->
-
-::: learn-note
-**Learn — Recommendation:** Clarifying key definitions and improving the logical flow between steps would significantly enhance overall usability.
+*"The revised document is not good. It has many problems and needs to be improved. Some parts are unclear."*
 :::
 
 
-::: learn-note
-**Learn — Identify Improvements In:**
-:::
+::: model-good
+**Revised Text — Balanced, Structured Evaluation**
+**Overall Assessment:** The revised document provides clearer guidance in several sections, particularly the updated chronology table. The structure is generally easier to follow than the previous version.
+
+
+**Strengths:**
+
+- Terminology has been standardised across most sections.
+- The explanation of the verification process is noticeably clearer.
+
+
+**Areas For Improvement:**
+
+- Several definitions remain ambiguous, particularly in Section 3.2.
+- The transition between Steps 4 and 5 is unclear and may cause misinterpretation.
+
+
+**Recommendation:** Clarifying key definitions and improving the logical flow between steps would significantly enhance overall usability.
+
+
+**Identify Improvements In:**
 
 - tone
 - structure
 - level of detail
 - balance (strengths + areas for improvement)
 - professionalism
-
+:::
 
 ::: learn-process
 **Learn — Why This Works:** The improved evaluation is more credible because it separates observation from judgement. It names specific strengths and weaknesses, supports them with evidence, and frames recommendations as constructive improvements rather than personal criticism.
@@ -5216,13 +5211,13 @@ Objective evaluation language is evidence-based, criterion-based, and proportion
 
 ::: learn-note
 **Learn — Useful Expressions:**
-:::
 
 - *The document provides…*
 - *One area that may require revision is…*
 - *The structure supports…*
 - *In terms of [criterion], the text…*
 - *This section would benefit from…*
+:::
 
 **Rewrite the following sentences using neutral, professional language.**
 
@@ -5243,16 +5238,14 @@ Each sentence below contains a problem with tone, precision, or balance. Identif
 4. *The conclusion is weak and pointless — it adds nothing.*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Subjective claim:* *Nobody will understand this section.*
 
 *Evidence-based evaluation:* *The explanation in Section 4 may be difficult for new users to follow because key terms are introduced without definition.*
 
 The revised version works better because it narrows the claim, names the relevant criterion, and ties the judgement to observable evidence.
+:::
 
 ---
 
@@ -5468,48 +5461,38 @@ Write your predictions, then compare with a partner after completing Section B.
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Overly General**
-
-> *"We discussed the form revision issue and people had different views. We need to talk more about it and decide later."*
-
-**Improved (Concise Executive Brief)**
-
-
-::: learn-note
-**Learn — Overview:** The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility.
-:::
-
->
-
-::: learn-note
-**Learn — Key Points:**
-:::
-
-> - Several offices raised concerns regarding ambiguous terminology.
-> - The current revision may delay processing due to additional verification steps.
-> - Stakeholders agree that further clarification is required before the form is finalised.
->
-
-::: learn-note
-**Learn — Implications:** Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.
-:::
-
->
-
-::: learn-note
-**Learn — Recommendation:** Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.
+*"We discussed the form revision issue and people had different views. We need to talk more about it and decide later."*
 :::
 
 
-::: learn-note
-**Learn — Identify Improvements In:**
-:::
+::: model-good
+**Revised Text — Concise Executive Brief**
+**Overview:** The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility.
+
+
+**Key Points:**
+
+- Several offices raised concerns regarding ambiguous terminology.
+- The current revision may delay processing due to additional verification steps.
+- Stakeholders agree that further clarification is required before the form is finalised.
+
+
+**Implications:** Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.
+
+
+**Recommendation:** Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.
+
+
+**Identify Improvements In:**
 
 - clarity
 - structure
 - level of detail
 - usefulness for decision-making
-
+:::
 
 ::: learn-process
 **Learn — Why This Works:** The improved brief foregrounds decision-relevant content. Instead of retelling the discussion, it selects the points an executive needs in order to understand the issue, its implications, and the recommended next step.
@@ -5553,22 +5536,22 @@ An overview is not a compressed detail list. Its job is to frame the issue at a 
 
 ::: learn-note
 **Learn — Useful Expressions — Overviews:**
-:::
 
 - *This brief summarises…*
 - *The purpose of this brief is to…*
 - *This document outlines…*
 - *The following summarises the key outcomes of…*
+:::
 
 
 ::: learn-note
 **Learn — Useful Expressions — Key Points:**
-:::
 
 - *Key issues include…*
 - *Stakeholders noted that…*
 - *The primary challenge is…*
 - *Offices have reported that…*
+:::
 
 **Rewrite the following sentences for an executive audience.**
 
@@ -5584,16 +5567,14 @@ The paragraph below is written as an informal meeting summary. Rewrite it as the
 > *"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Detail-heavy note:* *One of the offices said it could cause delays if we go ahead without fixing it first.*
 
 *Executive-brief wording:* *Proceeding without revision may delay processing in the next quarter.*
 
 The second version is shorter, more decision-focused, and removes meeting-room narrative that an executive does not need.
+:::
 
 ---
 
@@ -5801,25 +5782,26 @@ Read the three short extracts below. They come from three different sources on t
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Listing Without Synthesis**
-
-> *"Office A says terminology is unclear. Office B says the timeline is unrealistic. Office C says both are issues. There are problems we need to fix."*
-
-**Improved (Synthesised Across Sources)**
-
-> *"Across the three offices, two main concerns emerge: unclear terminology and an unrealistic implementation timeline. While Offices A and C identified terminology as the primary obstacle, Offices B and C raised concerns about the feasibility of the proposed schedule. Taken together, these findings indicate that both the terminology and the implementation timeline require revision before the process can be rolled out consistently."*
-
-
-::: learn-note
-**Learn — Identify Improvements In:**
+*"Office A says terminology is unclear. Office B says the timeline is unrealistic. Office C says both are issues. There are problems we need to fix."*
 :::
+
+
+::: model-good
+**Revised Text — Synthesised Across Sources**
+*"Across the three offices, two main concerns emerge: unclear terminology and an unrealistic implementation timeline. While Offices A and C identified terminology as the primary obstacle, Offices B and C raised concerns about the feasibility of the proposed schedule. Taken together, these findings indicate that both the terminology and the implementation timeline require revision before the process can be rolled out consistently."*
+
+
+**Identify Improvements In:**
 
 - structure
 - integration of ideas
 - clarity of themes
 - level of detail
 - tone and usefulness
-
+:::
 
 ::: learn-process
 **Learn — Why This Works:** The improved paragraph is more useful because it groups information by theme rather than by source. It shows where sources overlap, where they differ, and what the combined evidence suggests.
@@ -5856,32 +5838,32 @@ Grouping by theme is different from listing by source. A source-by-source paragr
 
 ::: learn-note
 **Learn — Useful Patterns — Grouping By Theme:**
-:::
 
 - *Across the sources…*
 - *Two themes emerge from the feedback:…*
 - *A second concern, raised by several offices, is…*
 - *Both [Source A] and [Source B] note that…*
+:::
 
 
 ::: learn-note
 **Learn — Useful Patterns — Contrast And Agreement:**
-:::
 
 - *While… , …*
 - *In contrast to…*
 - *However, …*
 - *[Source A] and [Source B] agree that… ; however, [Source C] suggests…*
+:::
 
 
 ::: learn-note
 **Learn — Useful Patterns — Insight:**
-:::
 
 - *Together, these findings indicate that…*
 - *These points suggest that…*
 - *Overall, the information implies that…*
 - *Taken together, … points to a need for…*
+:::
 
 **Rewrite the following as thematic, synthesised sentences.**
 
@@ -5919,16 +5901,14 @@ Below are twelve phrases drawn from the model text and language focus. Organise 
 Keep this phrase bank — you will use it in the Freer Writing task and in future units.
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Source-listing:* *Office A says instructions are unclear. Office B says the timeline is too short. Office C says both are issues.*
 
 *Integrated synthesis:* *Across the three offices, two linked concerns emerge: unclear instructions and an unrealistic implementation timeline. While Office A focuses mainly on instruction clarity, Offices B and C emphasise the pressure created by the current schedule. Taken together, the feedback suggests that both guidance and timing require revision before rollout.*
 
 The integrated version works better because it groups the points by theme, shows contrast, and ends with an insight.
+:::
 
 ---
 
@@ -6099,6 +6079,7 @@ Choose one:
 3. Build a personal synthesis phrase bank organised under four headings: introducing a shared theme, showing agreement, showing contrast, and drawing a conclusion. Add two original example sentences under each heading.
 
 ---
+
 ## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
 
 *Homework target: ~280–350 words, with the longest tasks in Units 22–23*
@@ -6176,15 +6157,19 @@ Aim for 60–80 words. You will compare your version with the model text in the 
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Too Technical**
+*"Offices must comply with the updated three-stage verification procedure under Circular 2024/07, effective 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to implementation. Non-compliance may result in referral under Article 9."*
+:::
 
-> *"Offices must comply with the updated three-stage verification procedure under Circular 2024/07, effective 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to implementation. Non-compliance may result in referral under Article 9."*
 
-**Improved (Plain-Language Policy Summary)**
+::: model-good
+**Revised Text — Plain-Language Policy Summary**
+*"A new document-checking process will come into effect on 1 March. Offices will now carry out three verification steps instead of two before an application proceeds. This change is designed to reduce errors and create a consistent approach across all offices.*
 
-> *"A new document-checking process will come into effect on 1 March. Offices will now carry out three verification steps instead of two before an application proceeds. This change is designed to reduce errors and create a consistent approach across all offices.*
->
-> *If your office has not yet completed the required training, please inform the coordinating unit at least two weeks before the deadline. Offices that do not follow the updated process may experience delays or be subject to a formal review."*
+*If your office has not yet completed the required training, please inform the coordinating unit at least two weeks before the deadline. Offices that do not follow the updated process may experience delays or be subject to a formal review."*
+:::
 
 Identify differences in:
 
@@ -6216,11 +6201,10 @@ Plain explanation is not the same as oversimplification. The goal is to remove s
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *Original:* Section 12(4) requires procedural harmonisation across offices.
 *Simplified:* All offices are now required to follow the same process.
+:::
 
 **Practice A — Simplify the Statement**
 
@@ -6243,8 +6227,6 @@ Rewrite each sentence to remove or replace technical references.
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"This change is intended to reduce inconsistency across offices and ensure that applications are reviewed on a comparable basis."*
 
@@ -6254,18 +6236,17 @@ Useful structures:
 - *This aims to ensure that…*
 - *This will help to…*
 - *The purpose of this update is to…*
-
-
-::: learn-note
-**Learn — Worked Example:**
 :::
 
 
+::: worked-example
+**Worked Example:**
 *Technical statement:* *Compliance is mandatory with effect from 1 March under Circular 2024/07.*
 
 *Reader-facing explanation:* *The new process must be used from 1 March. The purpose of the change is to reduce errors and make the same checking steps apply across all offices.*
 
 The second version keeps the core requirement but explains it in terms a general reader can act on.
+:::
 
 **Practice B — Add a Purpose Statement**
 
@@ -6290,8 +6271,6 @@ Required actions should tell readers exactly what they need to do, by when, and 
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"Offices should begin using the updated form from 1 March. If you have questions, please contact the coordinating unit by 15 February."*
 
@@ -6301,6 +6280,7 @@ Useful expressions:
 - *Offices are asked to…*
 - *The required action is to…*
 - *By [date], offices should…*
+:::
 
 **Practice C — Rewrite to Include the Required Action**
 
@@ -6534,13 +6514,17 @@ Discuss:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Insufficient And Vague**
+*"We changed the process because the old one was confusing. The new one should be better."*
+:::
 
-> *"We changed the process because the old one was confusing. The new one should be better."*
 
-**Improved (Concise, Policy-Aligned Justification)**
-
-> *"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
+::: model-good
+**Revised Text — Concise, Policy-Aligned Justification**
+*"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
+:::
 
 Identify improvements in:
 
@@ -6572,8 +6556,6 @@ Readers need the decision before they can understand the rationale. If the openi
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"The office has adopted the revised document-verification procedure with effect from 1 April."*
 
@@ -6583,6 +6565,7 @@ Useful expressions:
 - *It has been decided that…*
 - *The office will implement…*
 - *[Name of change] will take effect from…*
+:::
 
 **Practice A — Rewrite the Decision Statement**
 
@@ -6607,8 +6590,6 @@ Rationale is not the same as background description. A rationale explains why th
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"This revision aligns with the updated standards issued in July and removes inconsistencies identified during the last coordination review."*
 
@@ -6618,6 +6599,7 @@ Useful patterns:
 - *This change is required by…*
 - *This revision addresses…*
 - *Evidence from [source] indicates that…*
+:::
 
 **Practice B — Strengthen the Rationale**
 
@@ -6642,8 +6624,6 @@ Benefits are the practical gains expected from the decision. They are not the sa
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"This will reduce review time and support a more consistent approach across partner offices."*
 
@@ -6653,6 +6633,7 @@ Useful expressions:
 - *This reduces the risk of…*
 - *This supports…*
 - *As a result, offices will be able to…*
+:::
 
 **Practice C — Add a Benefit Statement**
 
@@ -6675,13 +6656,12 @@ Add a sentence describing the expected benefit.
 
 ::: learn-note
 **Learn — Recommended Structure:**
-:::
-
 
 1. State the decision.
 2. Identify the problem or trigger that required the decision.
 3. Explain the policy or evidential basis for the decision.
 4. Describe the expected benefit.
+:::
 
 **Practice D — Organise the Justification**
 
@@ -6693,16 +6673,14 @@ C. *"The previous list contained terms used inconsistently across offices, leadi
 D. *"This revision aligns with the updated interagency style guidelines issued in March."*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Loose justification:* *We should shorten the process because it takes too long.*
 
 *Structured justification:* *The office will reduce the approval sequence from four steps to two. This change responds to delays identified in the last coordination review and aligns with the revised workflow guidance issued in March. As a result, offices will be able to process routine requests more consistently and with fewer avoidable delays.*
 
 The second version works because it moves from decision, to rationale, to benefit in a clear sequence.
+:::
 
 ---
 
@@ -6908,33 +6886,36 @@ Discuss:
 
 #### Compare Two Texts — Tone And Clarity Analysis (B1)
 
+
+::: model-bad
 **Original Text — Vague And Unstructured**
+*"Some offices are confused about the new guidelines. Other offices have not used the new form. We need to send another message and explain everything again."*
+:::
 
-> *"Some offices are confused about the new guidelines. Other offices have not used the new form. We need to send another message and explain everything again."*
 
-**Improved (Consolidated Administrative Report)**
+::: model-good
+**Revised Text — Consolidated Administrative Report**
+**Summary**
+This report consolidates status updates from four offices following the distribution of the revised applicant communication guidelines (Circular 2024/07).
 
-> **Summary**
-> This report consolidates status updates from four offices following the distribution of the revised applicant communication guidelines (Circular 2024/07).
->
-> **Issues Identified**
-> - Two offices reported uncertainty regarding the updated terminology in Section 3.
-> - One office has not yet adopted the revised form due to an internal system delay.
-> - Several offices require clarification on the applicant communication timeline.
->
-> **Actions Taken**
-> - Office A conducted an internal briefing session to address terminology questions.
-> - Office B is working with its IT team to resolve the system delay.
-> - A draft Q&A document was prepared and circulated to all offices.
->
-> **Outstanding Questions**
-> - Whether the revised communication timeline applies to applications already in progress.
-> - Whether additional guidance on the updated terminology is needed.
->
-> **Next Steps**
-> - Offices will submit remaining questions by 22 November.
-> - A coordination meeting will be held on 29 November to finalise implementation.
+**Issues Identified**
+- Two offices reported uncertainty regarding the updated terminology in Section 3.
+- One office has not yet adopted the revised form due to an internal system delay.
+- Several offices require clarification on the applicant communication timeline.
 
+**Actions Taken**
+- Office A conducted an internal briefing session to address terminology questions.
+- Office B is working with its IT team to resolve the system delay.
+- A draft Q&A document was prepared and circulated to all offices.
+
+**Outstanding Questions**
+- Whether the revised communication timeline applies to applications already in progress.
+- Whether additional guidance on the updated terminology is needed.
+
+**Next Steps**
+- Offices will submit remaining questions by 22 November.
+- A coordination meeting will be held on 29 November to finalise implementation.
+:::
 
 ::: learn-process
 **Learn — Why This Works:** The improved report is easier to use because it groups information by reporting function rather than by office or by chronology. Readers can immediately see the overall status, the issues, the actions already taken, the unresolved questions, and what happens next.
@@ -6954,16 +6935,14 @@ Discuss: Why does a predictable report structure help readers process informatio
 #### Data Interpretation Input — Source Data Analysis (B7)
 
 
-::: learn-note
-**Learn — Mini-Worked Example:**
-:::
-
-
+::: worked-example
+**Mini-Worked Example:**
 *Office-by-office listing:* *Office B is delayed, Office C has not started, and Office B and C submitted several queries.*
 
 *Grouped report wording:* *Implementation concerns are concentrated in offices that have not yet fully adopted the revised form. Delays or non-start status appear to be linked with unresolved queries and incomplete rollout preparation.*
 
 The second version is more useful because it groups the data into an issue pattern instead of repeating the table row by row.
+:::
 
 The table below shows status update data submitted by five offices following the distribution of Circular 2024/09.
 
@@ -7004,8 +6983,6 @@ A summary opening should tell the reader what the report covers, why it was prod
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"This report summarises implementation updates from five offices following the introduction of the revised applicant processing guidelines."*
 
@@ -7014,6 +6991,7 @@ Useful structures:
 - *This report consolidates…*
 - *This report summarises updates from…*
 - *The following report presents…*
+:::
 
 **Practice A — Write the Opening Sentence**
 
@@ -7038,8 +7016,6 @@ Neutral issue description reports a problem without assigning blame. It identifi
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"Several offices expressed uncertainty regarding how to apply the updated review timeline to applications submitted before the circular's entry into force."*
 
@@ -7049,6 +7025,7 @@ Useful phrasing:
 - *Uncertainty was expressed regarding…*
 - *A number of offices identified challenges related to…*
 - *It was noted that…*
+:::
 
 **Practice B — Rewrite for Clarity and Neutrality**
 
@@ -7071,8 +7048,6 @@ Rewrite each item to make it a clear, neutral issue description suitable for an 
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"Office C prepared a plain-language summary of the revised procedure for internal circulation."*
 
@@ -7081,6 +7056,7 @@ Useful structures:
 - *[Office] completed…*
 - *A [briefing / training session / document] was conducted / prepared / circulated…*
 - *Steps have been taken to…*
+:::
 
 **Practice C — Clarify the Action**
 
@@ -7105,8 +7081,6 @@ Next steps are not just future intentions. They need an action, a responsible pa
 
 ::: learn-note
 **Learn — Example:**
-:::
-
 
 *"Offices will submit outstanding questions to the coordinating unit by 20 October. A follow-up meeting will be held on 4 November to review progress."*
 
@@ -7116,6 +7090,7 @@ Useful patterns:
 - *A [meeting / briefing / review] is scheduled for…*
 - *The coordinating unit will [action] by…*
 - *Outstanding questions will be addressed at…*
+:::
 
 **Practice D — Add a Next-Step Statement**
 
@@ -7389,17 +7364,18 @@ Now read the integrated response below.
 
 ---
 
-**Integrated Response — Administrative Notice**
+::: model-good
+**Revised Text — Integrated Administrative Notice**
+*"This notice summarises the current implementation status of Circular 2024/11 and identifies actions required from all examining offices.*
 
-> *"This notice summarises the current implementation status of Circular 2024/11 and identifies actions required from all examining offices.*
->
-> *Two issues have been reported since distribution. Office A has requested clarification regarding the revised terminology in Section 3 — specifically, whether 'submitted' and 'received' now refer to distinct processing stages. Office B has indicated that the 1 February deadline may not be feasible given current staffing constraints and has requested an extension.*
->
-> *In addition, meeting notes from the recent coordination call indicate that several offices continue to use outdated forms, and that no formal follow-up was assigned. All offices are reminded that acknowledgement of receipt of Circular 2024/11 is required within seven days of its distribution.*
->
-> *To address the above: a clarification note on revised terminology will be circulated by 20 January. Offices facing implementation challenges are asked to submit a brief status update, including any specific obstacles, by 14 January. The coordinating unit will review requests for deadline extensions on a case-by-case basis.*
->
-> *All offices are expected to confirm transition to the revised forms no later than 1 February. Offices that have not yet acknowledged receipt of the circular should do so immediately."*
+*Two issues have been reported since distribution. Office A has requested clarification regarding the revised terminology in Section 3 — specifically, whether 'submitted' and 'received' now refer to distinct processing stages. Office B has indicated that the 1 February deadline may not be feasible given current staffing constraints and has requested an extension.*
+
+*In addition, meeting notes from the recent coordination call indicate that several offices continue to use outdated forms, and that no formal follow-up was assigned. All offices are reminded that acknowledgement of receipt of Circular 2024/11 is required within seven days of its distribution.*
+
+*To address the above: a clarification note on revised terminology will be circulated by 20 January. Offices facing implementation challenges are asked to submit a brief status update, including any specific obstacles, by 14 January. The coordinating unit will review requests for deadline extensions on a case-by-case basis.*
+
+*All offices are expected to confirm transition to the revised forms no later than 1 February. Offices that have not yet acknowledged receipt of the circular should do so immediately."*
+:::
 
 ---
 
@@ -7407,7 +7383,10 @@ Now read the integrated response below.
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
+::: model-bad
+**Original Text — Sequential Listing Without Synthesis**
 *"Office A asked about terminology. Please see the attached clarification. Office B said the deadline is too tight. We will consider this. Some offices are using old forms. Please stop doing this. Everyone needs to acknowledge the circular."*
+:::
 
 Identify how the integrated response differs in:
 
@@ -7454,16 +7433,14 @@ Your rewritten paragraph must:
 - maintain formal, neutral tone
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Disconnected listing:* *Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues.*
 
 *Integrated paragraph:* *Several implementation issues have emerged since distribution of the circular, including unresolved terminology questions, concerns about deadline feasibility, and continued use of outdated forms. Taken together, these issues indicate that clearer guidance and more structured follow-up are now required.*
 
 The revised version works better because it identifies a shared implementation theme rather than treating each source as a separate mini-message.
+:::
 
 ---
 
@@ -7696,16 +7673,20 @@ You receive:
 
 ---
 
-**Response A (Weak)**
 
+::: model-bad
+**Original Text — Weak Response**
 *"There are several problems that offices are having. Office A doesn't understand the terminology. Office B is using old forms. The meeting had questions but nothing was decided. The new circular came out. A report is needed. Offices should fix these issues and use the right materials."*
+:::
 
-**Response B (Strong)**
 
+::: model-good
+**Revised Text — Strong Response**
 *"This report summarises current implementation challenges arising from the distribution of Circular 2024/12.*
 *Two main issues have been identified. First, terminology in the revised guidelines is being applied inconsistently: Office A has noted that the term 'submission date' is being interpreted differently across examining staff, creating variation in how applications are assessed. Second, implementation delays have been reported because some staff in Office B continue to use a previous version of the applicant form, despite the updated version having been distributed.*
 *Additionally, a number of offices raised questions during the recent coordination call regarding applicant communication timelines. No resolution was reached and no follow-up action was formally assigned.*
 *To address these issues, the following steps are proposed: a clarification note on revised terminology will be prepared and circulated within five working days; Office B is asked to confirm full adoption of the updated form by 31 January; and a brief follow-up consultation will be scheduled to resolve outstanding timeline questions. Offices that have not yet acknowledged receipt of Circular 2024/12 are asked to do so by end of week."*
+:::
 
 ---
 
@@ -7740,16 +7721,14 @@ Below are five sentences typical of common weaknesses at B2 level. For each one,
 5. *"Hopefully the situation will improve once the clarification is sent out."*
 
 
-::: learn-note
-**Learn — Worked Example:**
-:::
-
-
+::: worked-example
+**Worked Example:**
 *Weak sentence:* *The meeting didn't really come to any conclusions about what to do next.*
 
 *Stronger administrative version:* *No follow-up action was agreed during the meeting, and further clarification is required before next steps can be assigned.*
 
 The stronger version replaces vague commentary with a specific statement of status and consequence.
+:::
 
 Now review the freer writing or homework tasks you produced across Units 19–22. Identify two or three patterns in your own writing that resemble the errors above. Note them for revision in Section D.
 
@@ -7940,7 +7919,9 @@ Choose one:
 ---
 
 *End of Module 6*
+
 ### Unit 23 Capstone Assessment Rubric
+
 #### Administrative Writing, Advanced
 
 This is the companion Unit 23 capstone rubric for `P7`.

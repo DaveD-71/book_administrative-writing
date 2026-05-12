@@ -27,7 +27,7 @@ This unit helps learners produce clear, precise, and unambiguous sentences in ad
 
 ### A. Opening & Activation
 
-#### Identifying Confusing Sentences — Guided Skill Practice (A2)
+#### Identifying Confusing Sentences — Guided Skill Practice
 
 Read the following sentences. Identify what makes each one difficult to follow, and underline the section where the sentence loses clarity.
 
@@ -62,7 +62,7 @@ Below are two versions of an excerpt from an internal explanation memo.
 :::
 
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 Identify:
 
@@ -79,7 +79,7 @@ Identify:
 
 ---
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 In the revised version, highlight or underline:
 
@@ -113,16 +113,15 @@ Useful for linking parallel information without implying hierarchy.
 Use coordination when both ideas deserve similar weight in the reader's mind. In administrative writing, this is useful when you want to present linked facts, actions, or contrasts without making one idea background information.
 
 
-::: learn-note
+::: learn-language
 **Learn — Common Patterns:**
-:::
-
 
 - *X and Y* (addition)
 - *X but Y* (contrast — equal ideas in tension)
 - *X or Y* (choice)
 - *X; however, Y* (strong contrast — equal ideas in tension, more formal)
 - *X; therefore, Y* (logical result)
+:::
 
 
 ::: learn-language
@@ -130,7 +129,7 @@ Use coordination when both ideas deserve similar weight in the reader's mind. In
 :::
 
 
-**Practice A — Add Coordinators (C2)**
+##### Practice A — Add Coordinators
 
 Choose the most appropriate connector for each sentence.
 
@@ -146,7 +145,7 @@ Choose the most appropriate connector for each sentence.
 Indicates relationship and hierarchy between ideas. The subordinate clause is less central than the main clause — it provides context, reason, time reference, or qualification.
 
 
-::: learn-note
+::: learn-language
 **Learn — Common Subordinators:** *because, although, when, while, since, unless, even if, even though*
 :::
 
@@ -156,7 +155,7 @@ Indicates relationship and hierarchy between ideas. The subordinate clause is le
 :::
 
 
-**Practice B — Identify the Subordination Function (C2)**
+##### Practice B — Identify the Subordination Function
 
 State whether the subordinate clause expresses **reason**, **contrast**, or **time**.
 
@@ -167,85 +166,75 @@ State whether the subordinate clause expresses **reason**, **contrast**, or **ti
 
 ---
 
-#### 3. Clarity Patterns For Administrative Writing — Guided Skill Practice (C3)
+#### 3. Clarity Patterns For Administrative Writing — Guided Skill Practice
 
+The arrow (→) in each pattern title shows the order in which ideas are presented in the sentence.
 
-::: learn-note
-**Learn — Notation Note:** The arrow (→) in each pattern title shows the order in which ideas are presented in the sentence.
-:::
+- Pattern 1: Main Idea → Reason
 
+  State the action or conclusion first, then give the reason.
 
-##### Pattern 1: Main Idea → Reason
+  *We will request an updated version **because** several inconsistencies were found.*
 
-State the action or conclusion first, then give the reason.
+- Pattern 2: Purpose Clause → Main Action
 
-- *We will request an updated version **because** several inconsistencies were found.*
+  Open with a short purpose or condition clause, then state the main action. This pattern is useful when the purpose or context needs to be foregrounded before the request.
 
-##### Pattern 2: Purpose Clause → Main Action
+  *To ensure consistency, **please confirm the applicant's name spelling.***
 
-Open with a short purpose or condition clause, then state the main action. This pattern is useful when the purpose or context needs to be foregrounded before the request.
-
-- *To ensure consistency, **please confirm the applicant's name spelling.***
-
-
-::: learn-note
+::: learn-language
 **Learn — Patterns 1 And 2 Compared:** Both connect an action with a rationale. The difference is emphasis and order: Pattern 1 leads with the action (what will happen); Pattern 2 leads with the purpose (why it matters). Use Pattern 2 when the reason needs to come first to frame the request — especially in external or formal correspondence.
 :::
 
+- Pattern 3: Segmenting Dense Content
 
-##### Pattern 3: Segmenting Dense Content
+  Use two or more shorter sentences when:
 
-Use two or more shorter sentences when:
+  - the main clause competes with multiple long subordinate clauses
+  - there are more than two logical relationships in one sentence
+  - new information is introduced too quickly
 
-- the main clause competes with multiple long subordinate clauses
-- there are more than two logical relationships in one sentence
-- new information is introduced too quickly
+  *Dense:* Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review.
 
+  *Segmented:* The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review.
 
-::: learn-note
-**Learn — Example:**
-:::
-
-
-*Dense:* *Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review.*
-
-*Segmented:* *The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review.*
-
-**Practice C — Apply the Patterns (C3)**
+##### Practice C — Apply the Patterns
 
 Rewrite each sentence below using the clarity pattern indicated.
 
-1. *Although we received the applicant's correction, we still need to confirm whether the previous version remains valid because the internal database has not been updated.* → Use **segmentation** (split into two sentences).
+  1. *Although we received the applicant's correction, we still need to confirm whether the previous version remains valid because the internal database has not been updated.*
+  → Use **segmentation** (split into two sentences).
 
-2. *Since several offices raised concerns about the inconsistency, we will draft a revised explanation to ensure alignment.* → Rewrite using **Pattern 1** (main idea → reason).
+  2. *Since several offices raised concerns about the inconsistency, we will draft a revised explanation to ensure alignment.*
+  → Rewrite using **Pattern 1** (main idea → reason).
 
-3. *We must confirm whether the translation is final, and we must also check whether the correct version was submitted, and this is needed before the examination can proceed.* → Use **segmentation** to make the ideas clearer.
+  3. *We must confirm whether the translation is final, and we must also check whether the correct version was submitted, and this is needed before the examination can proceed.*
+  → Use **segmentation** to make the ideas clearer.
 
-4. *The department will review the file once the updated form has been received and after the confirmation from the regional office has been processed.* → Rewrite using **Pattern 2** (purpose clause → main action).
+  4. *The department will review the file once the updated form has been received and after the confirmation from the regional office has been processed.*
+  → Rewrite using **Pattern 2** (purpose clause → main action).
 
 ---
 
 ### D. Guided Writing
 
-#### Rewrite The Model Text — Model Revision Practice (D1)
+#### Rewrite The Model Text — Model Revision Practice
 
 Rewrite the **original** model text (the unclear version) as **three to four clear sentences**. Follow these steps:
 
-1. Identify the **core action**.
-2. Group supporting information logically.
-3. Remove unnecessary subordination.
-4. Add connectors to show clear relationships between sentences.
-
+  1. Identify the **core action**.
+  2. Group supporting information logically.
+  3. Remove unnecessary subordination.
+  4. Add connectors to show clear relationships between sentences.
 
 Use this space for your first full draft.
-
 
 ::: placeholder
 Draft {{PH-2: U01-D1-guided-rewrite}}
 :::
 
 
-#### Write Your Own Complex Sentence — Sentence-Control Practice (D2)
+#### Write Your Own Complex Sentence — Sentence-Control Practice
 
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
 
@@ -257,9 +246,9 @@ Choose a work situation that involves **two or three related factors** — for e
 
 Write **three versions** of the same core message:
 
-1. a fully subordinated version (ideas embedded in one long sentence)
-2. a coordinated version (ideas joined as equals)
-3. a segmented, multi-sentence version
+  1. a fully subordinated version (ideas embedded in one long sentence)
+  2. a coordinated version (ideas joined as equals)
+  3. a segmented, multi-sentence version
 
 Then explain which version would be most appropriate for an internal memo, and why.
 
@@ -289,19 +278,21 @@ Planning Notes {{PH-1: U01-D2-version-choice-note}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write approximately **150 words** explaining the cause of an administrative problem to an internal reader. Your explanation should:
 
-- use at least one coordinated sentence
-- use at least one subordinated sentence
-- use at least one segmented explanation (two to three sentences)
+  - use at least one coordinated sentence
+  - use at least one subordinated sentence
+  - use at least one segmented explanation (two to three sentences)
 
 Choose one situation:
 
-1. A new document submission system was introduced three weeks ago, but several teams are still submitting files in the previous format. Your supervisor has asked you to explain the situation in writing before Thursday's coordination call.
-2. An applicant's file has been placed on hold because two pieces of required documentation were submitted in different versions. You need to explain the issue to a colleague who will follow up with the applicant.
-3. A joint interagency report was submitted late due to a series of internal delays. You have been asked to provide a written account of the contributing factors for inclusion in a project review note.
+  1. A new document submission system was introduced three weeks ago, but several teams are still submitting files in the previous format. Your supervisor has asked you to explain the situation in writing before Thursday's coordination call.
+
+  2. An applicant's file has been placed on hold because two pieces of required documentation were submitted in different versions. You need to explain the issue to a colleague who will follow up with the applicant.
+
+  3. A joint interagency report was submitted late due to a series of internal delays. You have been asked to provide a written account of the contributing factors for inclusion in a project review note.
 
 
 Use this space for your first full draft.
@@ -314,7 +305,7 @@ Draft {{PH-4: U01-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Check your writing for the following:
 
@@ -328,14 +319,15 @@ Check your writing for the following:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following sentences to eliminate ambiguity. For each one, identify the source of the problem before rewriting.
 
-1. *We informed the office that the report was incorrect, which caused confusion.*
-2. *They updated the database after reviewing the submitted documents that contained several errors.*
-3. *The revision was sent to the department because they requested clarification even though the previous version was approved.*
+  1. *We informed the office that the report was incorrect, which caused confusion.*
 
+  2. *They updated the database after reviewing the submitted documents that contained several errors.*
+
+  3. *The revision was sent to the department because they requested clarification even though the previous version was approved.*
 
 ---
 
@@ -349,15 +341,17 @@ Revised Draft {{PH-2: U01-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write approximately **150 words** explaining a work situation that involves multiple related causes or factors. Your explanation should be appropriate for internal or interagency communication, and should use coordination, subordination, and segmentation to manage the logical relationships clearly.
 
 Choose one situation:
 
-1. A filing deadline was missed by your team. Several factors contributed, including a system issue, a staffing gap, and unclear instructions from a partner office. Write an explanation for your supervisor.
-2. An applicant's case has been delayed at two separate stages of review. The delays have different causes and different implications for next steps. Write an internal note explaining the situation to a colleague who will need to follow up.
-3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
+  1. A filing deadline was missed by your team. Several factors contributed, including a system issue, a staffing gap, and unclear instructions from a partner office. Write an explanation for your supervisor.
+
+  2. An applicant's case has been delayed at two separate stages of review. The delays have different causes and different implications for next steps. Write an internal note explaining the situation to a colleague who will need to follow up.
+
+  3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
 
 
 ---
@@ -368,7 +362,7 @@ Draft {{PH-4: U01-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -395,7 +389,7 @@ This unit develops learners' ability to use nuanced politeness, diplomatic phras
 
 ### A. Opening & Activation
 
-#### Discussion Questions — Activate Prior Knowledge (A1)
+#### Discussion Questions — Activate Prior Knowledge
 
 Reflect on your own professional writing experience:
 
@@ -426,7 +420,7 @@ Reflect on your own professional writing experience:
 :::
 
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 Identify the differences in:
 
@@ -443,7 +437,7 @@ Identify the differences in:
 
 ---
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 Highlight examples of the following in the revised text:
 
@@ -458,17 +452,15 @@ Reflect: How do these features change the reader's experience of the message?
 
 ### C. Language Focus
 
-#### 1. Softening Strategies — Guided Skill Practice (C2)
+#### 1. Softening Strategies — Guided Skill Practice
 
 Useful for avoiding blame, maintaining cooperation, and showing respect.
 
 Softening does not mean being vague or weak. It means presenting a problem in a way that keeps the reader cooperative, especially when the message could otherwise sound accusatory, impatient, or embarrassing.
 
 
-::: learn-note
+::: learn-language
 **Learn — Common Forms:**
-:::
-
 
 - *It appears that…*
 - *There may have been an oversight regarding…*
@@ -477,43 +469,46 @@ Softening does not mean being vague or weak. It means presenting a problem in a 
 - *Would it be possible to…*
 - *To ensure accuracy…*
 - *For our internal confirmation…*
+:::
 
-**Practice A — Match the Function**
+##### Practice A — Match the Function
 
 Match each softening phrase (A–D) to its function (1–4).
 
-A. *It appears that…*
-B. *We would appreciate it if you could…*
-C. *For our internal confirmation…*
-D. *To ensure accuracy…*
+  A. *It appears that…*
+
+  B. *We would appreciate it if you could…*
+
+  C. *For our internal confirmation…*
+
+  D. *To ensure accuracy…*
 
 Functions:
 
-1. providing a neutral justification
-2. making an indirect request
-3. introducing a possible issue without assigning blame
-4. clarifying the purpose or reason for a request
+  1. providing a neutral justification
+  2. making an indirect request
+  3. introducing a possible issue without assigning blame
+  4. clarifying the purpose or reason for a request
 
 ---
 
-#### 2. Neutral Clarification Language — Guided Skill Practice (C3)
+#### 2. Neutral Clarification Language — Guided Skill Practice
 
 Used for gathering information without sounding accusatory.
 
 Neutral clarification language is useful when you need accurate information but do not want to imply fault before the facts are confirmed. The goal is to keep the question professional, answerable, and non-defensive.
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
-
 
 - *Could you clarify whether…*
 - *We would like to confirm the status of…*
 - *For consistency, may we ask if…*
 - *If available, could you share…*
+:::
 
-**Practice B — Rewrite Direct Questions**
+##### Practice B — Rewrite Direct Questions
 
 Rewrite each question using neutral clarification language.
 
@@ -524,7 +519,7 @@ Rewrite each question using neutral clarification language.
 
 ---
 
-#### 3. Audience-Appropriate Tone — Guided Skill Practice (C2)
+#### 3. Audience-Appropriate Tone — Guided Skill Practice
 
 **Internal →** can be slightly more direct
 **Interagency →** requires neutrality and objectivity
@@ -533,31 +528,35 @@ Rewrite each question using neutral clarification language.
 
 ::: worked-example
 **Worked Example:**
-- Internal: *Could you send the corrected file today?*
-- Interagency: *Could you confirm whether an updated file is available for this case?*
-- Foreign office: *We would appreciate it if you could confirm whether an updated file is available at your earliest convenience.*
+| Label | Details |
+|---|---|
+| Internal | *Could you send the corrected file today?* |
+| Interagency | *Could you confirm whether an updated file is available for this case?* |
+| Foreign office | *We would appreciate it if you could confirm whether an updated file is available at your earliest convenience.* |
 
 The core request stays the same, but the amount of softening and explicit reader support increases as the relationship becomes more formal or distant.
 :::
 
-**Practice C — Choose the Appropriate Version**
+##### Practice C — Choose the Appropriate Version
 
 Three versions of the same request are shown below. For each audience (A, B, C), select the most appropriate version and explain your choice.
 
-Version 1: *"Send the corrected file today."*
-Version 2: *"Could you kindly share the corrected file when available?"*
-Version 3: *"We would appreciate receiving the updated file at your earliest convenience."*
+  Version 1: *"Send the corrected file today."*
+  Version 2: *"Could you kindly share the corrected file when available?"*
+  Version 3: *"We would appreciate receiving the updated file at your earliest convenience."*
 
 Audiences:
-A. Internal colleague (same office)
-B. Domestic agency counterpart
-C. Foreign IP office
+  A. Internal colleague (same office)
+
+  B. Domestic agency counterpart
+
+  C. Foreign IP office
 
 ---
 
 ### D. Guided Writing
 
-#### Rewrite The Model Text — Model Revision Practice (D1)
+#### Rewrite The Model Text — Model Revision Practice
 
 Rewrite the original (direct) model text into a diplomatic version. Your rewrite must include:
 
@@ -575,13 +574,13 @@ Draft {{PH-2: U02-D1-guided-rewrite}}
 :::
 
 
-#### Tone Transformation — Adjust Register And Diplomacy (D4)
+#### Tone Transformation — Adjust Register And Diplomacy
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
 
-Scenario A: A translation of a key procedural document was submitted last week, but the version received does not match the one referenced in the covering note. You need to ask for the correct version to be resubmitted.
+**Scenario A:** A translation of a key procedural document was submitted last week, but the version received does not match the one referenced in the covering note. You need to ask for the correct version to be resubmitted.
 
-Scenario B: During a review of a recently processed case, it has come to light that a required procedural step was not completed before the file was forwarded. You need to inform the relevant office.
+**Scenario B:** During a review of a recently processed case, it has come to light that a required procedural step was not completed before the file was forwarded. You need to inform the relevant office.
 
 After writing, compare the two versions. Identify at least two specific differences in phrasing or structure.
 
@@ -603,7 +602,7 @@ Draft {{PH-3: U02-D4-two-audience-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write approximately **150 words**. Your message must include:
 
@@ -629,14 +628,14 @@ Draft {{PH-4: U02-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 - Is the tone appropriate for the intended audience?
 - Does any sentence sound accusatory or impatient?
 - Is the reason for the request clearly stated?
 - Does the message close cooperatively?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Check your writing for:
 
@@ -650,7 +649,7 @@ Check your writing for:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite these sentences to make them more diplomatic. For each one, identify which softening strategy you have used.
 
@@ -672,7 +671,7 @@ Revised Draft {{PH-2: U02-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write approximately **150 words**. Your message must use at least three softening strategies, include clear reason-giving, and close cooperatively. Choose one situation:
 
@@ -689,7 +688,7 @@ Draft {{PH-4: U02-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -715,7 +714,7 @@ This unit develops learners' ability to construct clear, logically organised par
 
 ### A. Opening & Activation
 
-#### Sorting / Categorisation — Classify Writing Choices (A3)
+#### Sorting / Categorisation — Classify Writing Choices
 
 Below are eight short excerpts from administrative paragraphs. Sort them into two groups:
 
@@ -759,7 +758,7 @@ After sorting, discuss: What specific features make the cohesive examples easier
 :::
 
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 Identify:
 
@@ -776,7 +775,7 @@ Identify:
 
 ---
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 In the revised model, highlight or underline examples of:
 
@@ -791,7 +790,7 @@ Reflect: How do these elements work together to improve readability?
 
 ### C. Language Focus
 
-#### 1. Cohesive Devices — Guided Skill Practice (C6)
+#### 1. Cohesive Devices — Guided Skill Practice
 
 ##### A. Adding Information
 
@@ -811,32 +810,34 @@ Reflect: How do these elements work together to improve readability?
 
 Cohesive devices do more than "make writing smoother". They tell the reader exactly how one idea relates to the next: addition, result, contrast, or specification. Without that signalling, the paragraph may contain the right information but still feel hard to follow.
 
-**Practice A — Sequence for Logical Flow**
+##### Practice A — Sequence for Logical Flow
 
 The following sentences form a paragraph but are in the wrong order. Arrange them in the most logical sequence, then explain your reasoning.
 
 A. *We will draft a revised explanation to ensure consistency across offices.*
+
 B. *Several agencies reported confusion about the updated guidelines.*
+
 C. *To address these concerns, we agreed to prepare additional clarification.*
+
 D. *Once the revised explanation has been approved internally, it will be distributed to all relevant offices.*
 
 ---
 
-#### 2. Reference And Continuity — Guided Skill Practice (C3)
+#### 2. Reference And Continuity — Guided Skill Practice
 
 Using reference words helps maintain flow and avoid repetition.
 
 Reference improves flow when the reader can still identify the meaning clearly. If the reference word becomes vague, repetition is better. Good writers choose between repetition and reference based on what gives the reader the clearest path through the paragraph.
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
-
 
 - *this issue, these concerns, that step, such changes, the matter*
+:::
 
-**Practice B — Replace Repetition**
+##### Practice B — Replace Repetition
 
 Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriate reference words.
 
@@ -847,19 +848,20 @@ Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriat
 
 ---
 
-#### 3. Thematic Progression — Guided Skill Practice (C3)
+#### 3. Thematic Progression — Guided Skill Practice
 
 Good paragraphs start with known information and move forward to new information.
 
 
-::: learn-note
+::: learn-language
 **Learn — Pattern:**
+
+| Label | Details |
+|---|---|
+| Sentence 1 | Introduce the topic |
+| Sentence 2 | Add detail or explanation |
+| Sentence 3 | Show the implication or next step |
 :::
-
-
-- Sentence 1: Introduce the topic
-- Sentence 2: Add detail or explanation
-- Sentence 3: Show the implication or next step
 
 
 ::: worked-example
@@ -871,7 +873,7 @@ Good paragraphs start with known information and move forward to new information
 The topic begins with the meeting outcome, develops into the specific problems, and ends with the consequence or next step.
 :::
 
-**Practice C — Add Logical Connectors**
+##### Practice C — Add Logical Connectors
 
 Add appropriate connectors to the following sentences. More than one answer may be correct — explain your choice.
 
@@ -884,7 +886,7 @@ Add appropriate connectors to the following sentences. More than one answer may 
 
 ### D. Guided Writing
 
-#### Rebuild The Disjointed Model — Cohesion Rebuild Practice (D1)
+#### Rebuild The Disjointed Model — Cohesion Rebuild Practice
 
 Rewrite the original (disjointed) model text as **one cohesive paragraph**. Include:
 
@@ -901,7 +903,7 @@ Draft {{PH-2: U03-D1-guided-rewrite}}
 :::
 
 
-#### Reorganise And Rewrite — Paragraph Organization Practice (D5)
+#### Reorganise And Rewrite — Paragraph Organization Practice
 
 Below are seven pieces of information presented without structure or logical order. Reorganise them into a coherent two-paragraph explanation. You may add connectors and reference words, but do not add new content.
 
@@ -931,7 +933,7 @@ Draft {{PH-3: U03-D5-reorganised-version}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write approximately **150 words**. Your paragraph should use cohesive devices, reference words, and clear thematic progression, and should close with an implication or next step.
 
@@ -952,14 +954,14 @@ Draft {{PH-4: U03-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 - Does the paragraph have a clear topic sentence?
 - Is each sentence logically connected to the one before it?
 - Are reference words used correctly?
 - Does the paragraph end with an implication or next step?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Check your writing for:
 
@@ -973,7 +975,7 @@ Check your writing for:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite these paragraphs for better cohesion. Identify at least two specific changes you have made and explain why.
 
@@ -994,7 +996,7 @@ Revised Draft {{PH-2: U03-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
@@ -1013,7 +1015,7 @@ Draft {{PH-4: U03-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -1050,7 +1052,7 @@ This unit develops learners' ability to structure multi-part professional emails
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the following email. Identify what is missing or unclear — and explain why it would be difficult for the reader to act on it.
 
@@ -1066,7 +1068,7 @@ Consider:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -1094,7 +1096,7 @@ Compare the two versions. Identify differences in:
 
 ---
 
-#### Structural Deconstruction — Document Structure Analysis (B3) ★
+#### Structural Deconstruction — Document Structure Analysis
 
 High-level email structure is not just a format rule. Each section supports the reader in a different way: orienting them, explaining why the message matters, stating what action is needed, and making clear what will happen next.
 
@@ -1121,7 +1123,7 @@ High-level professional emails typically follow this sequence:
 5. **Next steps** — explain what will happen once the reader acts
 6. **Closing** — end professionally
 
-#### Useful Phrases
+##### Useful Phrases
 
 **Opening / Context**
 - *Thank you for your message regarding…*
@@ -1153,7 +1155,7 @@ Notice how each sentence performs one clear function: opening, purpose, explanat
 
 ---
 
-#### Practice A — Identify The Function (C2)
+##### Practice A — Identify The Function
 
 Label each sentence as **opening**, **purpose**, **explanation**, **request**, or **next step**.
 
@@ -1166,7 +1168,7 @@ Label each sentence as **opening**, **purpose**, **explanation**, **request**, o
 
 ---
 
-#### Practice B — Sentence Rewriting (C3)
+##### Practice B — Sentence Rewriting
 
 Rewrite each sentence to match the function indicated. Keep the same core information but change the phrasing appropriately.
 
@@ -1179,7 +1181,7 @@ Rewrite each sentence to match the function indicated. Keep the same core inform
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original (informal) model email as a structured, diplomatic version. Your rewrite must include:
 
@@ -1201,7 +1203,7 @@ Draft {{PH-2: U04-D1-guided-rewrite}}
 :::
 
 
-#### Template-Guided Writing — Guided Template Practice (D3) ★
+#### Template-Guided Writing — Guided Template Practice
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
@@ -1211,10 +1213,8 @@ Use the template below to write a high-level email. Fill in each section using t
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Template:**
-:::
-
 
 > *[Opening — acknowledge or establish context]*
 >
@@ -1227,16 +1227,17 @@ Use the template below to write a high-level email. Fill in each section using t
 > *[Next step — explain what you will do once the reader responds]*
 >
 > *[Closing — end professionally]*
+:::
 
 
-::: learn-note
+::: learn-process
 **Learn — Scenario:** Your office received a revised procedural document from an interagency partner. Two sections appear to use different terminology from the version you were working from. You need to request clarification before updating your internal records.
 :::
 
 
 ---
 
-#### Scenario Writing — Guided Skill Practice (D2)
+#### Scenario Writing — Guided Skill Practice
 
 Choose one scenario and write a structured email of 5–7 sentences.
 
@@ -1258,7 +1259,7 @@ Draft {{PH-3: U04-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Task — Write A Full High-Level Email (E1)
+#### Task — Write A Full High-Level Email
 
 Write a high-level professional email of **190–220 words**. Your email must include:
 
@@ -1288,7 +1289,7 @@ Draft {{PH-4: U04-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Peer Review — Structured Feedback Exchange (F1)
+#### Peer Review — Structured Feedback Exchange
 
 Partners respond to the following:
 
@@ -1299,7 +1300,7 @@ Partners respond to the following:
 
 ---
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check that your email:
 
@@ -1313,7 +1314,7 @@ Before submitting, check that your email:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
@@ -1334,7 +1335,7 @@ Revised Draft {{PH-2: U04-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **190–220 word** high-level email to an interagency counterpart. Your email must include:
 
@@ -1360,7 +1361,7 @@ Draft {{PH-4: U04-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -1386,7 +1387,7 @@ This unit develops learners' ability to write clear, targeted, and professional 
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the following clarification request. Identify the specific problems that would make it difficult for the reader to respond usefully.
 
@@ -1402,7 +1403,7 @@ Consider:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -1431,7 +1432,7 @@ Identify differences in:
 
 ---
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 Highlight the following in the improved version:
 
@@ -1461,14 +1462,14 @@ Precision in clarification writing means reducing the reader's interpretive work
 - *According to the table in Annex B…*
 - *The term used on page 4…*
 
-**Formulating clear questions**
+##### Formulating clear questions
 - *Could you confirm whether X and Y refer to the same procedure?*
 - *Could you clarify whether the date should match the revision dated…?*
 - *Could you specify which version is currently valid?*
 
 ---
 
-#### Practice A — Sentence Rewriting Practice (C3)
+##### Practice A — Sentence Rewriting Practice
 
 Rewrite the following to make each request more precise and diplomatic. Add a specific reference, a clear scope, and softening language where appropriate.
 
@@ -1494,7 +1495,7 @@ When several questions appear in one message, the writer should still make each 
 
 ---
 
-#### Practice B — Phrase Bank Building (C8) ★
+##### Practice B — Phrase Bank Building
 
 The phrases below are drawn from this unit's model text and language focus. Organise them into your own personal phrase bank by sorting them under the four headings below. Add any additional phrases from this unit that you find useful.
 
@@ -1522,7 +1523,7 @@ This example works because each question is tied to a specific reference, each p
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original (vague) model text as a precise, structured clarification request. Your rewrite must include:
 
@@ -1543,12 +1544,12 @@ Draft {{PH-2: U05-D1-guided-rewrite}}
 :::
 
 
-#### Two-Audience Version Task — Adapt For Two Audiences (D4)
+#### Two-Audience Version Task — Adapt For Two Audiences
 
 Using the scenario below, write two versions of the same clarification request.
 
 
-::: learn-note
+::: learn-process
 **Learn — Scenario:** A partner organisation has submitted a revised report. One figure in the summary table appears to conflict with a figure in the body of the document, and a key term is used differently across the two sections.
 :::
 
@@ -1584,7 +1585,7 @@ Draft {{PH-3: U05-D4-version-b}}
 
 ### E. Freer Writing
 
-#### Role-Based Writing Task — Audience-Specific Response (E3) ★
+#### Role-Based Writing Task — Audience-Specific Response
 
 You are the person in your office responsible for reviewing documents received from partner organisations and raising any inconsistencies before they are acted on. When you identify a problem, you write directly to the contact at the sending office to request clarification.
 
@@ -1615,7 +1616,7 @@ Draft {{PH-4: U05-E3-role-based-write}}
 
 ### F. Review & Self-Assessment
 
-#### Peer Review — Structured Feedback Exchange (F1)
+#### Peer Review — Structured Feedback Exchange
 
 Partners identify:
 
@@ -1626,7 +1627,7 @@ Partners identify:
 
 ---
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check that your writing:
 
@@ -1640,7 +1641,7 @@ Before submitting, check that your writing:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following clarification requests. Each is too vague, too direct, or missing a reference. Provide the improved version and note what you changed.
 
@@ -1665,7 +1666,7 @@ Revised Draft {{PH-2: U05-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **190–220 word** clarification request to a partner office regarding inconsistencies found in a shared document. Your message must include:
 
@@ -1690,7 +1691,7 @@ Draft {{PH-4: U05-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -1716,7 +1717,7 @@ This unit develops learners' ability to communicate errors, inconsistencies, and
 
 ### A. Opening & Activation
 
-#### Contrastive Warm-Up — Compare Initial Choices (A6) ★
+#### Contrastive Warm-Up — Compare Initial Choices
 
 Read the two messages below. Without any explanation yet, identify what makes the second version more effective. Be as specific as possible.
 
@@ -1736,7 +1737,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -1766,48 +1767,48 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### Annotated Model — Model Feature Analysis (B4) ★
+#### Annotated Model — Model Feature Analysis
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
 > *"Thank you for sharing the updated document."*
 
-::: annotation
+::: learn-note
 **Annotation:** Opens by acknowledging the reader's action rather than immediately raising the problem — this reduces defensiveness.
 :::
 
 
 > *"Upon review, it appears that the timeline in Section 3 may differ…"*
 
-::: annotation
+::: learn-note
 **Annotation:** "It appears that" and "may differ" soften the identification of error — the problem is presented as a possible observation, not a confirmed accusation.
 :::
 
 
 > *"…from the revised instructions circulated on 12 July."*
 
-::: annotation
+::: learn-note
 **Annotation:** Specific reference to a date and a document type adds credibility and gives the reader a clear starting point for checking the issue.
 :::
 
 
 > *"For consistency, we would appreciate it if you could confirm…"*
 
-::: annotation
+::: learn-note
 **Annotation:** The request is framed around a shared professional goal ("consistency") rather than a personal demand — this shifts the focus from fault to resolution.
 :::
 
 
 > *"…that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm…"*
 
-::: annotation
+::: learn-note
 **Annotation:** The message keeps three functions separate: it identifies the issue first, then signals why the difference matters, and only then asks for action. This separation makes the request easier to process and keeps the tone non-blaming.
 :::
 
 
 > *"Once clarified, we will be able to proceed…"*
 
-::: annotation
+::: learn-note
 **Annotation:** The next-step statement shows that the writer is ready to act — it frames the request as a necessary step, not a complaint.
 :::
 
@@ -1831,7 +1832,7 @@ Use these openings to introduce an issue without assigning blame:
 
 ---
 
-#### Practice A — Sentence Rewriting Practice (C3)
+##### Practice A — Sentence Rewriting Practice
 
 Rewrite each sentence using a diplomatic frame. Keep the same factual content but remove any blaming or accusatory tone.
 
@@ -1857,7 +1858,7 @@ A neutral impact statement explains why the correction matters without presentin
 
 ---
 
-#### Practice B — Error Identification & Correction (C4) ★
+##### Practice B — Error Identification & Correction
 
 Each sentence below contains one problem — either a tone issue, a missing reference, a blaming phrase, or a structural problem. Identify the problem type and rewrite the sentence to correct it.
 
@@ -1882,7 +1883,7 @@ The revised version removes accusation, adds a specific reference, and explains 
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original (too direct) model using the diplomatic techniques from this unit. Your version must include:
 
@@ -1903,7 +1904,7 @@ Draft {{PH-2: U06-D1-guided-rewrite}}
 :::
 
 
-#### Scenario Writing — Guided Skill Practice (D2)
+#### Scenario Writing — Guided Skill Practice
 
 Choose one scenario and write a diplomatic error-notification message of 5–7 sentences.
 
@@ -1931,7 +1932,7 @@ Draft {{PH-3: U06-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Task — Write A Diplomatic Error Notification (E1)
+#### Task — Write A Diplomatic Error Notification
 
 Write a diplomatic error-notification message of **190–220 words**. Your message must include:
 
@@ -1961,7 +1962,7 @@ Draft {{PH-4: U06-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Peer Review — Structured Feedback Exchange (F1)
+#### Peer Review — Structured Feedback Exchange
 
 Partners respond to the following:
 
@@ -1972,7 +1973,7 @@ Partners respond to the following:
 
 ---
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check that your writing:
 
@@ -1986,7 +1987,7 @@ Before submitting, check that your writing:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following sentences. Each is too direct, too vague, or missing a key diplomatic element. For each rewrite, note what you changed and why.
 
@@ -2010,7 +2011,7 @@ Revised Draft {{PH-2: U06-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Real-World Task — Workplace Transfer Practice (H2) ★
+#### Real-World Task — Workplace Transfer Practice
 
 Find an email or written message from your own professional experience (or a realistic example from your workplace context) that involves communicating a problem, error, or discrepancy to a colleague or external partner.
 
@@ -2025,7 +2026,7 @@ Rewrite the message applying the techniques from this unit. If you cannot use a 
 
 ---
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **190–220 word** diplomatic error-notification message to a domestic or foreign office. Your message must include:
 
@@ -2051,7 +2052,7 @@ Draft {{PH-4: U06-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -2077,7 +2078,7 @@ This unit develops learners' ability to write layered, prioritised, and logicall
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the three messages below. For each one, identify: how many distinct requests does the message contain? Are all requests equally clear?
 
@@ -2091,7 +2092,7 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -2119,7 +2120,7 @@ Identify differences in:
 
 ---
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 Highlight the following in the improved version:
 
@@ -2150,7 +2151,7 @@ Use these phrases to establish a clear order:
 
 ---
 
-#### Practice A — Sentence Rewriting Practice (C3)
+##### Practice A — Sentence Rewriting Practice
 
 Rewrite each unsequenced list as a structured, logically ordered request. Add sequencing markers and, where relevant, a brief rationale.
 
@@ -2161,7 +2162,7 @@ Rewrite each unsequenced list as a structured, logically ordered request. Add se
 
 ---
 
-#### 2. Paragraph-Level Transformation — Guided Skill Practice (C5) ★
+#### 2. Paragraph-Level Transformation — Guided Skill Practice
 
 Read the paragraph below. It contains all the necessary information, but the requests are unsequenced, the priority order is unclear, and there are no dependency markers.
 
@@ -2189,7 +2190,7 @@ The second version is easier to follow because the order, dependency, and reason
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original (unstructured) model into a layered, prioritised request message. Include:
 
@@ -2210,7 +2211,7 @@ Draft {{PH-2: U07-D1-guided-rewrite}}
 :::
 
 
-#### Scenario Writing — Guided Skill Practice (D2)
+#### Scenario Writing — Guided Skill Practice
 
 Choose one scenario and write a structured multi-part request of 6–8 sentences.
 
@@ -2237,7 +2238,7 @@ Draft {{PH-3: U07-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Task — Write A Multi-Part Request Message (E1)
+#### Task — Write A Multi-Part Request Message
 
 Write a multi-part request message of **190–220 words**. Your message must include:
 
@@ -2267,7 +2268,7 @@ Draft {{PH-4: U07-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Peer Review — Structured Feedback Exchange (F1)
+#### Peer Review — Structured Feedback Exchange
 
 Partners respond to the following:
 
@@ -2278,7 +2279,7 @@ Partners respond to the following:
 
 ---
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check that your message:
 
@@ -2292,7 +2293,7 @@ Before submitting, check that your message:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
@@ -2311,7 +2312,7 @@ Revised Draft {{PH-2: U07-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
 
@@ -2336,7 +2337,7 @@ Draft {{PH-4: U07-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -2374,7 +2375,7 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 
 ### A. Opening & Activation
 
-#### Real Document Analysis — Workplace Document Analysis (A5)
+#### Real Document Analysis — Workplace Document Analysis
 
 Read the following internal procedure notice.
 
@@ -2401,7 +2402,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -2412,7 +2413,7 @@ Answer the following questions:
 
 ::: model-good
 **Revised Text — Structured Procedure**
-**Procedure for Reviewing Applicant Submissions**
+#### Procedure for Reviewing Applicant Submissions
 
 1. **Initial Review:** Examine the application and confirm that all required fields are complete.
 2. **Revision Check:** If a revised document has been submitted, verify the changes against the previous version.
@@ -2437,7 +2438,7 @@ Compare the two versions. Identify improvements in:
 :::
 
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 Highlight or underline the following features in the improved version:
 
@@ -2447,7 +2448,7 @@ Highlight or underline the following features in the improved version:
 4. **Step labels** — how do the labels help the reader navigate the procedure?
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discussion:** The improved version contains no exceptions. Why might a real procedure need at least one exception clause? What would you add here?
 :::
 
@@ -2456,20 +2457,25 @@ Highlight or underline the following features in the improved version:
 
 ### C. Language Focus
 
-#### Sequencing / Ordering Task — Guided Skill Practice (C6)
+#### Sequencing / Ordering Task — Guided Skill Practice
 
 In procedural writing, order is part of the meaning. Readers need a sequence they can follow without guessing which action starts the process, which actions depend on earlier checks, and which step closes the task.
 
 The following steps belong to a procedure for processing an applicant's corrected submission. They are not in the correct order. Number them 1–6 in the most logical sequence, then briefly explain your reasoning for two of your choices.
 
 A. *Send a confirmation to the applicant acknowledging receipt of the corrected submission.*
+
 B. *If the correction resolves the identified issue, update the processing record accordingly.*
+
 C. *Forward the file to the reviewing officer for final assessment.*
+
 D. *Compare the corrected submission against the original to identify all changes made.*
+
 E. *If new discrepancies are found, return the file with a written explanation of the outstanding issues.*
+
 F. *Log the corrected submission in the internal tracking system upon receipt.*
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+#### Sentence Rewriting — Guided Skill Practice
 
 Procedural instructions are not the same as general explanation. A procedure tells the reader exactly what action to perform, using precise verbs and a stable instruction style, rather than broad descriptive language.
 
@@ -2482,7 +2488,7 @@ Rewrite each sentence using a more precise procedural verb. Replace the underlin
 5. *<u>Check</u> whether the timeline needs to be changed.*
 
 
-::: learn-note
+::: learn-language
 **Learn — Useful Verbs:** *conduct, examine, verify, process, ensure, determine, cross-check, update, confirm*
 :::
 
@@ -2500,7 +2506,7 @@ The revised version works better because the actions are separated, the verbs ar
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original unclear procedure from Section B into a structured, formal version. Your rewrite must include:
 
@@ -2518,7 +2524,7 @@ Draft {{PH-2: U08-D1-guided-rewrite}}
 :::
 
 
-#### Information Reorganisation — Restructure Source Information (D5)
+#### Information Reorganisation — Restructure Source Information
 
 
 ::: learn-transfer
@@ -2545,7 +2551,7 @@ Draft {{PH-3: U08-D5-reorganised-version}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a complete internal or interagency procedure of **180–220 words**. Your procedure must include:
 
@@ -2574,7 +2580,7 @@ Draft {{PH-4: U08-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your procedure with a partner. Using the questions below, provide written feedback on their work.
 
@@ -2583,7 +2589,7 @@ Exchange your procedure with a partner. Using the questions below, provide writt
 3. Is the sequence logical? Would a new staff member be able to follow this without asking questions?
 4. Are there any vague verbs that should be replaced with more precise ones?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your procedure against the following:
 
@@ -2598,7 +2604,7 @@ Before submitting, check your procedure against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
@@ -2627,7 +2633,7 @@ Revised Draft {{PH-3: U08-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–230 word** procedure for an internal or interagency audience. Your procedure must include:
 
@@ -2649,7 +2655,7 @@ Draft {{PH-4: U08-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -2676,14 +2682,14 @@ This unit develops learners' ability to write clear, well-structured messages th
 
 ### A. Opening & Activation
 
-#### Prediction Task — Anticipate Reader Needs (A4)
+#### Prediction Task — Anticipate Reader Needs
 
 Read the following scenario. Before turning to the model text, write down five elements you would expect a well-written change management notice to include.
 
 ---
 
 
-::: learn-note
+::: learn-process
 **Learn — Scenario:** Your office has updated the procedure for reviewing applicant submissions. The main change is that the initial review stage, which previously required sign-off from two officers, now requires only one. This change takes effect on 1 November. Staff in your office and in three partner offices need to be informed.
 :::
 
@@ -2708,7 +2714,7 @@ After reading the model, return to your list and answer:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -2737,7 +2743,7 @@ Compare the two versions. Identify improvements in:
 :::
 
 
-#### Annotated Model — Model Feature Analysis (B4)
+#### Annotated Model — Model Feature Analysis
 
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
 
@@ -2763,7 +2769,7 @@ Re-read the improved version. The annotations below explain the purpose of speci
 
 ### C. Language Focus
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+#### Sentence Rewriting — Guided Skill Practice
 
 Change messages usually combine three communicative functions: state the change, explain its impact or rationale, and reassure the reader about what to do next. If one of these functions is missing, the message often feels abrupt, incomplete, or difficult to act on.
 
@@ -2775,7 +2781,7 @@ Rewrite each sentence using a more formal and informative structure. The target 
 4. *The process is longer.* [Explain the change and give a reason]
 5. *Use the new version from now on.* [Write a polite instruction with appropriate register]
 
-#### Expansion Task — Develop Supporting Detail (C7)
+#### Expansion Task — Develop Supporting Detail
 
 Each sentence below is a bare statement of fact. Expand each one into 2–3 sentences by adding the missing elements indicated in brackets.
 
@@ -2798,7 +2804,7 @@ The expanded version tells the reader when to act, what has changed, and why the
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original unclear message from Section B. Your version must include:
 
@@ -2817,7 +2823,7 @@ Draft {{PH-2: U09-D1-guided-rewrite}}
 :::
 
 
-#### Template-Guided Writing — Guided Template Practice (D3)
+#### Template-Guided Writing — Guided Template Practice
 
 
 ::: learn-transfer
@@ -2830,7 +2836,7 @@ Use the template below to draft a change management notice for one of the scenar
 
 ---
 
-**Change Management Notice Template**
+#### Change Management Notice Template
 
 *[Opening signal phrase + effective date]*
 
@@ -2862,7 +2868,7 @@ Draft {{PH-3: U09-D3-guided-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a complete change management notice of **200–230 words**. Your notice must include:
 
@@ -2891,7 +2897,7 @@ Draft {{PH-4: U09-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your change management notice with a partner and answer the following questions in writing:
 
@@ -2900,7 +2906,7 @@ Exchange your change management notice with a partner and answer the following q
 3. Are required actions easy to identify and follow?
 4. Does the tone feel appropriate for the intended audience — neither too informal nor unnecessarily bureaucratic?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your notice against the following:
 
@@ -2915,7 +2921,7 @@ Before submitting, check your notice against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
@@ -2945,7 +2951,7 @@ Revised Draft {{PH-3: U09-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–230 word** change management notice for an internal or interagency audience. Your notice must include:
 
@@ -2968,7 +2974,7 @@ Draft {{PH-4: U09-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -2995,7 +3001,7 @@ This unit develops learners' ability to explain multi-factor issues clearly and 
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the following explanation.
 
@@ -3012,7 +3018,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -3041,7 +3047,7 @@ Compare the two versions. Identify improvements in:
 :::
 
 
-#### Noticing Task — Identify The Writing Pattern (B2)
+#### Noticing Task — Identify The Writing Pattern
 
 Highlight or underline the following features in the improved version:
 
@@ -3052,7 +3058,7 @@ Highlight or underline the following features in the improved version:
 5. Any language that keeps the tone neutral and non-blaming
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discussion:** Why is it important to use neutral language when explaining a delay or problem to a partner office? What can go wrong when the tone becomes evaluative or accusatory?
 :::
 
@@ -3061,14 +3067,14 @@ Highlight or underline the following features in the improved version:
 
 ### C. Language Focus
 
-#### Classification / Matching — Match Functions And Forms (C2)
+#### Classification / Matching — Match Functions And Forms
 
 Accessible explanation is not the same as making the issue simpler than it really is. The writer’s job is to control information load by breaking the issue into clear parts, naming each part explicitly, and showing how the parts affect the next stage of work.
 
 Match each sentence (1–6) to its function in a complex explanation (A–D). Some functions may be used more than once.
 
 
-::: learn-note
+::: learn-process
 **Learn — Functions:**
 :::
 
@@ -3078,7 +3084,7 @@ Match each sentence (1–6) to its function in a complex explanation (A–D). So
 - D. Explaining impact or next steps
 
 
-::: learn-note
+::: learn-language
 **Learn — Sentences:**
 :::
 
@@ -3089,7 +3095,7 @@ Match each sentence (1–6) to its function in a complex explanation (A–D). So
 5. *A second challenge concerns the incomplete submission received from Office B.*
 6. *Once these points are resolved, we will be in a position to proceed with the final assessment.*
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+#### Sentence Rewriting — Guided Skill Practice
 
 Simplification should make the message clearer, not thinner. A strong explanation replaces vague statements with specific information and keeps the necessary meaning, instead of removing the detail the reader needs in order to understand the issue.
 
@@ -3115,7 +3121,7 @@ The clearer version keeps the issue specific, shows why it matters, and gives th
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original vague explanation from Section B. Your version must include:
 
@@ -3134,7 +3140,7 @@ Draft {{PH-2: U10-D1-guided-rewrite}}
 :::
 
 
-#### Scenario-Based Writing — Administrative Scenario Response (D2)
+#### Scenario-Based Writing — Administrative Scenario Response
 
 Write a structured explanation of **100–130 words**. Your explanation must include:
 
@@ -3162,12 +3168,12 @@ Draft {{PH-3: U10-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Constrained Free Write — Controlled Independent Response (E2)
+#### Constrained Free Write — Controlled Independent Response
 
 Write a complete explanation of **180–210 words**.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Constraint:** Every general statement must be followed immediately by a specific detail.
 :::
 
@@ -3198,7 +3204,7 @@ Draft {{PH-4: U10-E2-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your explanation with a partner and answer the following questions in writing:
 
@@ -3207,7 +3213,7 @@ Exchange your explanation with a partner and answer the following questions in w
 3. Is the explanation logically structured? Could the reader act on this information?
 4. Is the tone neutral and professional throughout — no evaluative language, no implied blame?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your explanation against the following:
 
@@ -3222,7 +3228,7 @@ Before submitting, check your explanation against the following:
 
 ### G. Editing
 
-#### Editing Exercise — Improve Clarity And Flow (G1)
+#### Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
@@ -3248,7 +3254,7 @@ Revised Draft {{PH-2: U10-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
 
@@ -3271,7 +3277,7 @@ Draft {{PH-4: U10-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -3298,7 +3304,7 @@ This unit develops learners' ability to write clear, concise, and accurate execu
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the following meeting summary.
 
@@ -3314,7 +3320,7 @@ Answer the following questions:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -3325,7 +3331,7 @@ Answer the following questions:
 
 ::: model-good
 **Revised Text — Executive-Level Summary**
-**Meeting Summary — Guideline Revision Discussion (12 October)**
+#### Meeting Summary — Guideline Revision Discussion (12 October)
 
 
 **Overview:** Representatives from four offices met to review proposed guideline revisions. The discussion focused on three areas: terminology consistency, timeline alignment, and the applicant communication process.
@@ -3363,7 +3369,7 @@ Compare the two versions. Identify differences in:
 :::
 
 
-#### Data Interpretation Input — Source Data Analysis (B7)
+#### Data Interpretation Input — Source Data Analysis
 
 Executive summaries convert raw meeting or status data into management-ready information. That means writers do not simply repeat numbers: they decide what the data shows about outcomes, outstanding items, responsibilities, and follow-up needs.
 
@@ -3377,7 +3383,7 @@ The table below shows attendance and submission status from a recent interagency
 | Office D | 2 | 2 | 2 | 0 |
 
 
-::: learn-note
+::: learn-process
 **Learn — Task:** Using the data in the table, write the *Decisions / Action Items* and *Next Steps* sections of an executive meeting summary. You do not need to invent what was discussed. Focus on what the table allows you to report about outcomes and outstanding items.
 :::
 
@@ -3390,7 +3396,7 @@ Write in formal, complete sentences.
 
 ### C. Language Focus
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+#### Sentence Rewriting — Guided Skill Practice
 
 Executive-summary language is action-focused. Instead of narrating who said what during the meeting, it highlights decisions, responsibilities, unresolved items, and next steps in a neutral, concise form.
 
@@ -3402,7 +3408,7 @@ Rewrite each informal or subjective sentence as a neutral, formal summary statem
 4. *People weren't happy about the lack of communication from the coordinating office.*
 5. *We decided to check things again next week.*
 
-#### Paragraph-Level Transformation — Paragraph Revision Practice (C5)
+#### Paragraph-Level Transformation — Paragraph Revision Practice
 
 The paragraph below is written as a narrative account. Rewrite it as a structured executive summary using the four standard sections: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3424,7 +3430,7 @@ The executive-summary version removes conversational narrative and foregrounds t
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original incomplete summary from Section B as a full executive-level summary. Use the four-section structure: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3443,7 +3449,7 @@ Draft {{PH-2: U11-D1-guided-rewrite}}
 :::
 
 
-#### Format Conversion — Change Document Format (D7)
+#### Format Conversion — Change Document Format
 
 
 ::: learn-transfer
@@ -3488,7 +3494,7 @@ Draft {{PH-3: U11-D7-format-conversion}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a complete executive-level meeting summary of **200–230 words**. Your summary must include:
 
@@ -3518,7 +3524,7 @@ Draft {{PH-4: U11-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your summary with a partner and answer the following questions in writing:
 
@@ -3527,7 +3533,7 @@ Exchange your summary with a partner and answer the following questions in writi
 3. Are all action items specific and attributed? Is it clear who must do what, and by when?
 4. Is there any subjective or informal language that should be replaced?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your summary against the following:
 
@@ -3542,7 +3548,7 @@ Before submitting, check your summary against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
@@ -3571,7 +3577,7 @@ Revised Draft {{PH-3: U11-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
@@ -3595,7 +3601,7 @@ Draft {{PH-4: U11-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -3635,7 +3641,7 @@ This unit develops learners' ability to write formal, diplomatic external inquir
 
 ### A. Opening & Activation
 
-#### Real Document Analysis — Workplace Document Analysis (A5)
+#### Real Document Analysis — Workplace Document Analysis
 
 Read the following external inquiry, then answer the questions below.
 
@@ -3665,7 +3671,7 @@ Read the following external inquiry, then answer the questions below.
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -3696,7 +3702,7 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### Structural Deconstruction — Document Structure Analysis (B3)
+#### Structural Deconstruction — Document Structure Analysis
 
 External inquiries usually need more explicit reader orientation than internal messages. The reader may not share the same case background, timeline, or internal priorities, so context has to come before detailed questions.
 
@@ -3720,14 +3726,13 @@ Discuss: Why does an effective external inquiry follow this sequence? What would
 Background context should orient the reader without overloading them. In an external inquiry, that usually means giving just enough reference information, timing, and process context for the recipient to locate the issue and understand why the questions are being asked now.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Give the reader enough information to locate the issue and understand what you are asking about.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
 
 *We are writing to confirm the status of the revised documents submitted on 3 May in connection with application reference 2024/88.*
 
@@ -3737,13 +3742,14 @@ Useful expressions:
 - *For our internal processing…*
 - *With regard to the submission made on [date]…*
 - *In connection with [reference / process]…*
+:::
 
-#### Classification / Matching — Match Functions And Forms (C2)
+#### Classification / Matching — Match Functions And Forms
 
 Match each expression (1–8) to its function (A–D). Write the letter.
 
 
-::: learn-note
+::: learn-language
 **Learn — Expressions:**
 :::
 
@@ -3757,7 +3763,7 @@ Match each expression (1–8) to its function (A–D). Write the letter.
 8. *We would appreciate your assistance in…*
 
 
-::: learn-note
+::: learn-process
 **Learn — Functions:**
 :::
 
@@ -3773,14 +3779,13 @@ Match each expression (1–8) to its function (A–D). Write the letter.
 An answerable inquiry question asks for one specific piece of confirmation or clarification. Broad topic prompts such as *What is happening?* force the reader to guess what information the writer actually needs.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Ask questions that are precise, specific, and easy for the recipient to answer without further clarification.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
 
 *Could you confirm whether the corrected version submitted on 14 January has been reviewed?*
 
@@ -3790,13 +3795,14 @@ Useful structures:
 - *Would you be able to clarify whether…?*
 - *Could you advise if…?*
 - *We would appreciate confirmation of whether…*
+:::
 
-#### Phrase Bank Building — Build Reusable Language (C8)
+#### Phrase Bank Building — Build Reusable Language
 
 The phrases below are drawn from this unit's model texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
 
 
-::: learn-note
+::: learn-language
 **Learn — Phrases:**
 :::
 
@@ -3839,7 +3845,7 @@ This example works because the context identifies the case first, the questions 
 
 ### D. Guided Writing
 
-#### Rewrite The Original Inquiry — Inquiry Revision Practice (D1)
+#### Rewrite The Original Inquiry — Inquiry Revision Practice
 
 Rewrite the original text from Section B using:
 
@@ -3857,7 +3863,7 @@ Draft {{PH-2: U12-D1-guided-rewrite}}
 :::
 
 
-#### Two-Audience Version Task — Adapt For Two Audiences (D4)
+#### Two-Audience Version Task — Adapt For Two Audiences
 
 
 ::: learn-transfer
@@ -3884,7 +3890,7 @@ Draft {{PH-3: U12-D4-two-audience-draft}}
 
 ### E. Freer Writing
 
-#### Role-Based Writing Task — Audience-Specific Response (E3)
+#### Role-Based Writing Task — Audience-Specific Response
 
 Write a formal external inquiry of **180–220 words**. Your inquiry must include:
 
@@ -3914,7 +3920,7 @@ Draft {{PH-4: U12-E3-role-based-write}}
 
 ### F. Review & Self-Assessment
 
-#### Comparative Peer Review — Compare Revision Choices (F2)
+#### Comparative Peer Review — Compare Revision Choices
 
 In a group of three, exchange your freer writing tasks. Read both of your classmates' inquiries and answer the following:
 
@@ -3928,7 +3934,7 @@ In a group of three, exchange your freer writing tasks. Read both of your classm
 :::
 
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check whether your inquiry:
 
@@ -3943,7 +3949,7 @@ Before submitting, check whether your inquiry:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
@@ -3970,7 +3976,7 @@ Revised Draft {{PH-3: U12-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Real-World Task — Workplace Transfer Practice (H2)
+#### Real-World Task — Workplace Transfer Practice
 
 Identify one situation in your current or recent work where a more clearly structured external inquiry would have improved communication outcomes. Draft the inquiry as it should have been written, or as it might be needed in a future situation.
 
@@ -3983,7 +3989,7 @@ Draft {{PH-3: U12-H2-real-world-draft}}
 :::
 
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **220–250 word** external inquiry to an interagency or international partner. Include:
 
@@ -4006,7 +4012,7 @@ Draft {{PH-4: U12-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -4034,12 +4040,12 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 
 ### A. Opening & Activation
 
-#### Prediction Task — Anticipate Reader Needs (A4)
+#### Prediction Task — Anticipate Reader Needs
 
 Read the scenario below. Before you look at any model texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
 
-::: learn-note
+::: learn-process
 **Learn — Scenario:**
 :::
 
@@ -4051,7 +4057,7 @@ Write your predictions. Then, as you work through this unit, compare your list a
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -4082,7 +4088,7 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### Data Interpretation Input — Source Data Analysis (B7)
+#### Data Interpretation Input — Source Data Analysis
 
 Risk language should come from evidence, not from alarm. In a data-based risk note, the writer identifies the trend first, then explains what the trend suggests, what impact it may have, and what response would reduce that risk.
 
@@ -4095,12 +4101,12 @@ The table below shows processing delay data from the three months following the 
 | March | 24% | 13.7 | 21 |
 
 
-::: learn-note
+::: learn-process
 **Learn — Scenario:** Your supervisor has asked you to prepare a short internal risk note before Thursday's implementation review meeting. Use the data to identify what appears to be going wrong and what action may now be needed.
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Writing Task:** Using the data in the table, write a 3–4 sentence risk assessment paragraph. Your paragraph should:
 :::
 
@@ -4119,14 +4125,13 @@ The table below shows processing delay data from the three months following the 
 Risk writing is evidence-based and conditional. The writer is not claiming that a problem has already fully occurred; the writer is identifying what may happen, why it may happen, and how strongly the available information supports that concern.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Clearly identify the nature and source of a risk using neutral, precise language.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
 
 *There is a risk that inconsistent terminology may delay interagency coordination.*
 
@@ -4136,8 +4141,9 @@ Useful structures:
 - *One concern is that…*
 - *A potential issue relates to…*
 - *This may result in…*
+:::
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+##### Sentence Rewriting — Guided Skill Practice
 
 Factual status statements describe what is happening now. Risk statements project what may happen if the current condition continues. Strong risk writing keeps those two functions distinct.
 
@@ -4153,14 +4159,13 @@ Rewrite each sentence to clearly express a specific, well-defined risk. Add a ca
 #### 2. Explaining Impact and Proposing Mitigation
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Explain the consequence of a risk and propose a realistic step to reduce it.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
 
 *This may result in additional review time and delayed processing. To mitigate this risk, a pre-submission checklist could be introduced.*
 
@@ -4171,6 +4176,7 @@ Useful patterns:
 - *This risk can be reduced by…*
 - *To mitigate this issue…*
 - *A possible solution would be to…*
+:::
 
 
 ::: worked-example
@@ -4182,7 +4188,7 @@ Useful patterns:
 The second version does more than report a problem: it explains the likely consequence and proposes a realistic response.
 :::
 
-#### Error Identification & Correction — Find And Fix Errors (C4)
+#### Error Identification & Correction — Find And Fix Errors
 
 Each sentence below contains one error: it may be vague, emotionally toned, grammatically imprecise, or poorly structured. Identify the error type, then rewrite the sentence.
 
@@ -4197,7 +4203,7 @@ Each sentence below contains one error: it may be vague, emotionally toned, gram
 
 ### D. Guided Writing
 
-#### Rewrite The Original Text — Model Revision Practice (D1)
+#### Rewrite The Original Text — Model Revision Practice
 
 Rewrite the vague original model from Section B using:
 
@@ -4215,7 +4221,7 @@ Draft {{PH-2: U13-D1-guided-rewrite}}
 :::
 
 
-#### Scenario-Based Risk Assessment — Risk And Response Planning (D2)
+#### Scenario-Based Risk Assessment — Risk And Response Planning
 
 
 ::: learn-transfer
@@ -4250,7 +4256,7 @@ Draft {{PH-3: U13-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a risk and impact assessment of **200–240 words** for internal circulation. Your assessment must include:
 
@@ -4279,7 +4285,7 @@ Draft {{PH-4: U13-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -4288,7 +4294,7 @@ Exchange your freer writing task with a partner and answer the following:
 3. Are the mitigation measures realistic and connected to the identified risk?
 4. Is the tone neutral and professional throughout? Identify any emotional or evaluative language.
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check whether your assessment:
 
@@ -4303,12 +4309,12 @@ Before submitting, check whether your assessment:
 
 ### G. Editing
 
-#### Editing Exercise — Conditional And Hedging Structures (G1)
+#### Editing Exercise — Conditional And Hedging Structures
 
 Risk and impact writing relies heavily on conditional and hedging language to express possibility without overstating certainty.
 
 
-::: learn-note
+::: learn-language
 **Learn — Key Structures:**
 :::
 
@@ -4345,7 +4351,7 @@ Revised Draft {{PH-2: U13-G1-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–240 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
@@ -4367,7 +4373,7 @@ Draft {{PH-4: U13-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -4395,7 +4401,7 @@ This unit develops learners' ability to write messages intended for multiple aud
 
 ### A. Opening & Activation
 
-#### Contrastive Warm-Up — Compare Initial Choices (A6)
+#### Contrastive Warm-Up — Compare Initial Choices
 
 Read both versions of the same message. Before any explanation, identify the differences.
 
@@ -4422,7 +4428,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -4453,7 +4459,7 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### Annotated Model — Model Feature Analysis (B4)
+#### Annotated Model — Model Feature Analysis
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
@@ -4490,20 +4496,20 @@ Read the improved version again. The following annotations explain specific deci
 Audience signals are cues about assumed knowledge. They tell the reader whether the next sentence gives shared-background detail, extra context for less-informed readers, or an instruction that applies to everyone.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Address different readers explicitly and provide information appropriate to each audience.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
 
 - *For colleagues already familiar with the revision…*
 - *For partner offices not involved in earlier discussions…*
 - *For agencies unfamiliar with the previous version, we note that…*
+:::
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+##### Sentence Rewriting — Guided Skill Practice
 
 Rewrite each sentence so that it addresses a specific audience group and includes appropriate supporting context.
 
@@ -4519,20 +4525,20 @@ Rewrite each sentence so that it addresses a specific audience group and include
 Reader-aware explanation is not the same as oversimplification. The goal is to keep the core content accurate while adding enough background for readers who did not attend earlier meetings or receive previous messages.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Ensure that readers who did not attend earlier meetings or receive previous messages can still understand the message fully.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
 
 - *To provide context for those unfamiliar with the earlier consultation…*
 - *This change responds to issues raised during the September review.*
 - *As background, the revision was introduced to address…*
+:::
 
-#### Paragraph-Level Transformation — Paragraph Revision Practice (C5)
+##### Paragraph-Level Transformation — Paragraph Revision Practice
 
 Rewrite the following paragraph so that it is accessible to a reader who has no prior knowledge of the situation. Add context, audience signals, and a clear explanation of the change.
 
@@ -4554,7 +4560,7 @@ The revised version preserves the core instruction but changes the explanation d
 
 ### D. Guided Writing
 
-#### Rewrite The Original Message — Message Revision Practice (D1)
+#### Rewrite The Original Message — Message Revision Practice
 
 Rewrite the original text from Section B using:
 
@@ -4572,7 +4578,7 @@ Draft {{PH-2: U14-D1-guided-rewrite}}
 :::
 
 
-#### Two-Audience Version Task — Adapt For Two Audiences (D4)
+#### Two-Audience Version Task — Adapt For Two Audiences
 
 
 ::: learn-transfer
@@ -4605,20 +4611,20 @@ Draft {{PH-3: U14-D4-version-b}}
 
 ### E. Freer Writing
 
-#### Multi-Part Portfolio Task — Integrated Portfolio Practice (E4)
+#### Multi-Part Portfolio Task — Integrated Portfolio Practice
 
 
-::: learn-note
+::: learn-process
 **Learn — Shared Scenario:** A national coordination office has updated its interagency referral process. The changes affect both internal processing staff and external partner agencies. The new process launches in two weeks.
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Task 1 — Internal Notice (80–100 Words):** Write a brief internal notice for your own office's processing team. Assume they attended the briefing session and are familiar with the background.
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Task 2 — External Notice (160–200 Words):** Write a formal notice for partner agencies who have not attended any briefing. Include full background, an explanation of the changes, required actions, and contact details for queries.
 :::
 
@@ -4643,7 +4649,7 @@ Draft {{PH-4: U14-E4-task-2}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your freer writing tasks with a partner and answer the following:
 
@@ -4652,7 +4658,7 @@ Exchange your freer writing tasks with a partner and answer the following:
 3. Are the required actions clear in both versions?
 4. Is the tone appropriate to each audience?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check whether your writing:
 
@@ -4667,7 +4673,7 @@ Before submitting, check whether your writing:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
@@ -4694,7 +4700,7 @@ Revised Draft {{PH-3: U14-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **220–260 word** multi-audience notice for a procedural or policy change. Include:
 
@@ -4710,7 +4716,7 @@ Draft {{PH-4: U14-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -4738,7 +4744,7 @@ This unit develops learners' ability to write clear, well-reasoned rationales th
 
 ### A. Opening & Activation
 
-#### Real Document Analysis — Workplace Document Analysis (A5)
+#### Real Document Analysis — Workplace Document Analysis
 
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
@@ -4760,7 +4766,7 @@ Read the following excerpt from an internal policy proposal. Answer the question
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -4791,7 +4797,7 @@ Compare the two versions. Identify improvements in:
 
 ---
 
-#### Reading-To-Write Input — Source-Based Preparation (B6)
+#### Reading-To-Write Input — Source-Based Preparation
 
 Policy references only strengthen a rationale when they are linked directly to the current decision. Simply naming a guideline is not enough; the writer has to show what the requirement means for the recommendation being proposed.
 
@@ -4807,7 +4813,7 @@ Read the following extract from an interagency coordination guideline, then comp
 ---
 
 
-::: learn-note
+::: learn-process
 **Learn — Writing Task:** Using only the information in the extract above, write a plain-language rationale explaining why your office should prioritise completing portal registration before the deadline. Your rationale should:
 :::
 
@@ -4828,21 +4834,21 @@ Aim for **60–80 words**.
 Strong policy-aligned writing does not just cite a rule. It shows how the rule supports the recommendation and why the current action follows logically from that requirement.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Ground the rationale in existing rules, requirements, or organisational objectives.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
 
 - *In accordance with the guidelines introduced in March…*
 - *To comply with the updated framework…*
 - *Consistent with the agency's objective of…*
 - *As required by the revised coordination protocol…*
+:::
 
-#### Sentence Rewriting — Guided Skill Practice (C3)
+##### Sentence Rewriting — Guided Skill Practice
 
 Rewrite each sentence to include a clear, specific policy or guideline reference.
 
@@ -4856,20 +4862,20 @@ Rewrite each sentence to include a clear, specific policy or guideline reference
 #### 2. Building the Rationale: Reasoning and Benefits
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Provide objective reasons grounded in process needs, and explain how the change improves outcomes.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Examples:**
-:::
 
 - *This change reduces the likelihood of inconsistent interpretation across agencies.*
 - *This will improve processing efficiency and reduce unnecessary delays.*
 - *This supports the agency's objective of standardising interagency communication.*
+:::
 
-#### Expansion Task — Develop Supporting Detail (C7)
+##### Expansion Task — Develop Supporting Detail
 
 Expand each bare sentence into 2–3 sentences that include a policy reference, reasoning, and a benefit statement.
 
@@ -4892,7 +4898,7 @@ This example works because it moves from policy reference, to reason, to expecte
 
 ### D. Guided Writing
 
-#### Rewrite The Original Rationale — Rationale Revision Practice (D1)
+#### Rewrite The Original Rationale — Rationale Revision Practice
 
 Rewrite the weak original from Section B. Your rationale should include:
 
@@ -4909,7 +4915,7 @@ Draft {{PH-2: U15-D1-guided-rewrite}}
 :::
 
 
-#### Template-Guided Writing — Guided Template Practice (D3)
+#### Template-Guided Writing — Guided Template Practice
 
 
 ::: learn-transfer
@@ -4920,7 +4926,7 @@ Draft {{PH-2: U15-D1-guided-rewrite}}
 Use the structure below to draft a policy-aligned rationale for one of the following recommendations:
 
 
-::: learn-note
+::: learn-process
 **Learn — Recommendations:**
 :::
 
@@ -4929,14 +4935,13 @@ Use the structure below to draft a policy-aligned rationale for one of the follo
 3. Replacing an informal email update system with a structured weekly briefing
 
 
-::: learn-note
+::: learn-process
 **Learn — Template:**
-:::
-
 
 *[Recommendation statement].* This change is consistent with *[policy / guideline reference]*, which requires *[relevant requirement]*. Current practice has resulted in *[identified problem]*, which affects *[process or outcome]*. Implementing *[the change]* will *[primary benefit]* and *[secondary benefit]*. As a result, *[conclusion linking change to policy alignment or organisational objective]*.
 
 Adapt the template as needed. Your rationale should be 5–7 sentences.
+:::
 
 
 ---
@@ -4951,7 +4956,7 @@ Draft {{PH-3: U15-D3-guided-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a policy-aligned rationale of **180–220 words**. Your rationale must include:
 
@@ -4981,7 +4986,7 @@ Draft {{PH-4: U15-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -4990,7 +4995,7 @@ Exchange your freer writing task with a partner and answer the following:
 3. Are the reasons objective and evidence-based? Identify any that rely on opinion or preference.
 4. Are the benefits clearly stated? Are they linked directly to the recommendation?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check whether your rationale:
 
@@ -5005,7 +5010,7 @@ Before submitting, check whether your rationale:
 
 ### G. Editing
 
-#### Track-Change Simulation — Revision Decision Practice (G3)
+#### Track-Change Simulation — Revision Decision Practice
 
 The following rationale has been reviewed by a colleague, who has proposed several edits. Read the original and the proposed changes. For each change, decide whether to **accept** or **reject** it. Write your decision and a brief reason.
 
@@ -5043,7 +5048,7 @@ Draft {{PH-2: U15-G3-decision-notes}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
 
@@ -5066,7 +5071,7 @@ Draft {{PH-4: U15-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -5104,7 +5109,7 @@ This unit develops learners' ability to write balanced, objective evaluations of
 
 ### A. Opening & Activation
 
-#### Sorting / Categorisation — Classify Writing Choices (A3)
+#### Sorting / Categorisation — Classify Writing Choices
 
 Below are eight evaluation statements. Sort each one into the correct column.
 
@@ -5128,7 +5133,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 8. *While the overview is clearly structured, the recommendations section would benefit from greater specificity.*
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discuss:** What distinguishes the language in the professional column from the language in the unprofessional column?
 :::
 
@@ -5137,7 +5142,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -5180,7 +5185,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 :::
 
 
-#### Annotated Model — Model Feature Analysis (B4)
+#### Annotated Model — Model Feature Analysis
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
@@ -5198,7 +5203,7 @@ Read the improved evaluation again. Match each annotation label (a–e) to the c
 - f. *Uses cautious wording such as "generally" or "may" to calibrate claims to the available evidence rather than overstating certainty*
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discuss:** Why is providing at least one genuine strength essential in formal evaluations — even when the document has significant weaknesses?
 :::
 
@@ -5207,34 +5212,34 @@ Read the improved evaluation again. Match each annotation label (a–e) to the c
 
 ### C. Language Focus
 
-#### Sentence Rewriting — Objective, Neutral Language (C3)
+#### Sentence Rewriting — Objective, Neutral Language
 
 Objective evaluation language is evidence-based, criterion-based, and proportionate. It describes what the document does well or badly in relation to clarity, structure, consistency, or usability, rather than reacting to it with personal approval or frustration.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Describe strengths and weaknesses without judgmental language.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Useful Expressions:**
-:::
 
 - *The document provides…*
 - *One area that may require revision is…*
 - *The structure supports…*
 - *In terms of [criterion], the text…*
 - *This section would benefit from…*
+:::
 
-**Rewrite the following sentences using neutral, professional language.**
+#### Rewrite the following sentences using neutral, professional language.
 
 1. *This part is terrible.*
 2. *The writer obviously didn't think about clarity.*
 3. *The whole section needs to be redone.*
 4. *It's impossible to understand what they're asking.*
 
-#### Error Identification & Correction — Find And Fix Errors (C4)
+#### Error Identification & Correction — Find And Fix Errors
 
 Overclaiming sounds certain without enough evidence. Strong evaluation writing is more cautious: it makes room for partial success, localised weaknesses, and improvement needs without turning every weakness into a total verdict.
 
@@ -5259,7 +5264,7 @@ The revised version works better because it narrows the claim, names the relevan
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original evaluation (from Section B) as a complete, balanced evaluation.
 
@@ -5279,7 +5284,7 @@ Draft {{PH-2: U16-D1-guided-rewrite}}
 :::
 
 
-#### Revision Chain — Step-By-Step Revision (D6)
+#### Revision Chain — Step-By-Step Revision
 
 
 ::: learn-transfer
@@ -5321,7 +5326,7 @@ Revised Draft {{PH-3: U16-D6-revision-chain}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a **220–260 word** balanced evaluation. Choose one scenario:
 
@@ -5349,7 +5354,7 @@ Draft {{PH-4: U16-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Comparative Peer Review — Compare Revision Choices (F2)
+#### Comparative Peer Review — Compare Revision Choices
 
 Exchange your Freer Writing with a partner. Compare the two texts. For each criterion below, identify which text does this more effectively and explain why.
 
@@ -5363,7 +5368,7 @@ Exchange your Freer Writing with a partner. Compare the two texts. For each crit
 
 Discuss your findings with your partner.
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting your work, check each item below.
 
@@ -5377,7 +5382,7 @@ Before submitting your work, check each item below.
 
 ### G. Editing
 
-#### Track-Change Simulation — Revision Decision Practice (G3)
+#### Track-Change Simulation — Revision Decision Practice
 
 The text below is a draft evaluation. It includes five proposed edits, shown as strikethroughs (deleted text) and insertions (new text in brackets). For each change, decide: **Accept** or **Reject** — and give a brief reason.
 
@@ -5397,7 +5402,7 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 | *nice* / *great* → *clear and well-formatted* / *useful* |  |  |
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discuss:** Which changes improve tone? Which improve precision? Are any changes unnecessary?
 :::
 
@@ -5412,7 +5417,7 @@ Draft {{PH-2: U16-G3-decision-notes}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **220–260 word** balanced evaluation of a document or process relevant to your work. Your evaluation must include:
 
@@ -5428,7 +5433,7 @@ Draft {{PH-4: U16-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 1. Find a short evaluation from your workplace (or a public-facing review document). Identify whether it is balanced, and rewrite any unprofessional or vague sections.
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
@@ -5453,7 +5458,7 @@ Executive briefs summarise complex issues for decision-makers who require clarit
 
 ### A. Opening & Activation
 
-#### Prediction Task — Anticipate Reader Needs (A4)
+#### Prediction Task — Anticipate Reader Needs
 
 You are about to read an executive brief on a coordination issue between three regional offices. Before reading, predict:
 
@@ -5467,7 +5472,7 @@ Write your predictions, then compare with a partner after completing Section B.
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -5507,7 +5512,7 @@ Write your predictions, then compare with a partner after completing Section B.
 :::
 
 
-#### Data Interpretation Input — Source Data Analysis (B7)
+#### Data Interpretation Input — Source Data Analysis
 
 An overview sentence in an executive brief gives immediate context and frames the issue before the details appear. It tells the reader what the brief is about, why it matters, and what kind of decision or action may be required.
 
@@ -5523,7 +5528,7 @@ Study the table below, then use the data to draft a Key Points section for an ex
 | Office D | 298 | 11.3% | 10.1 days |
 
 
-::: learn-note
+::: learn-process
 **Learn — Task:** Write three Key Points that an executive would need in order to understand and act on this data. Focus on patterns, concerns, and implications — not on listing all figures.
 :::
 
@@ -5532,43 +5537,43 @@ Study the table below, then use the data to draft a Key Points section for an ex
 
 ### C. Language Focus
 
-#### Sentence Rewriting — Writing Clear Overviews And Key Points (C3)
+#### Sentence Rewriting — Writing Clear Overviews And Key Points
 
 An overview is not a compressed detail list. Its job is to frame the issue at a high level so that the following key points can be read as evidence for the main decision problem.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Provide immediate context and distil information to essentials.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Useful Expressions — Overviews:**
-:::
 
 - *This brief summarises…*
 - *The purpose of this brief is to…*
 - *This document outlines…*
 - *The following summarises the key outcomes of…*
-
-
-::: learn-note
-**Learn — Useful Expressions — Key Points:**
 :::
+
+
+::: learn-language
+**Learn — Useful Expressions — Key Points:**
 
 - *Key issues include…*
 - *Stakeholders noted that…*
 - *The primary challenge is…*
 - *Offices have reported that…*
+:::
 
-**Rewrite the following sentences for an executive audience.**
+#### Rewrite the following sentences for an executive audience.
 
 1. *We talked about problems in the process.*
 2. *Many people mentioned various issues about the form and some people didn't understand the changes, so they talked about many parts for a long time.*
 3. *There have been quite a few issues with delays lately and it's becoming a bigger problem.*
 4. *The staff are confused and nobody knows what the right procedure is anymore.*
 
-#### Paragraph-Level Transformation — Paragraph Revision Practice (C5)
+#### Paragraph-Level Transformation — Paragraph Revision Practice
 
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
@@ -5588,7 +5593,7 @@ The second version is shorter, more decision-focused, and removes meeting-room n
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original brief (from Section B) as a complete executive brief.
 
@@ -5607,7 +5612,7 @@ Draft {{PH-2: U17-D1-guided-rewrite}}
 :::
 
 
-#### Format Conversion — Change Document Format (D7)
+#### Format Conversion — Change Document Format
 
 
 ::: learn-transfer
@@ -5642,7 +5647,7 @@ Draft {{PH-3: U17-D7-format-conversion}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a **200–240 word** executive brief. Choose one scenario:
 
@@ -5671,7 +5676,7 @@ Draft {{PH-4: U17-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your Freer Writing with a partner. Use the questions below to give feedback.
 
@@ -5681,7 +5686,7 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 4. Is the recommendation specific and actionable?
 5. Is there any detail that an executive would not need? If so, which sentences?
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 - [ ] Does the overview establish context within one or two sentences?
 - [ ] Are key points concise — one idea per bullet point?
@@ -5693,7 +5698,7 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
@@ -5714,7 +5719,7 @@ Revised Draft {{PH-3: U17-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **200–240 word** executive brief. Your brief must include:
 
@@ -5737,7 +5742,7 @@ Draft {{PH-4: U17-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 1. Find a long report or meeting summary from your workplace and reduce it to a one-page executive brief using the four-part structure.
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
@@ -5762,7 +5767,7 @@ This unit develops learners' ability to combine information from several documen
 
 ### A. Opening & Activation
 
-#### Real Document Analysis — Workplace Document Analysis (A5)
+#### Real Document Analysis — Workplace Document Analysis
 
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
@@ -5776,7 +5781,7 @@ Read the three short extracts below. They come from three different sources on t
 > *"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."*
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Discuss:**
 :::
 
@@ -5788,7 +5793,7 @@ Read the three short extracts below. They come from three different sources on t
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -5816,7 +5821,7 @@ Read the three short extracts below. They come from three different sources on t
 :::
 
 
-#### Reading-To-Write Input — Source-Based Preparation (B6)
+#### Reading-To-Write Input — Source-Based Preparation
 
 Synthesis begins by looking for themes and relationships across sources. Instead of asking "What did each source say?", the writer asks "What patterns emerge, where do the sources agree, and what does the combined evidence imply?"
 
@@ -5834,58 +5839,58 @@ Keep this paragraph. You will return to it in Section D2 and revise it, so do no
 
 ### C. Language Focus
 
-#### Sentence Rewriting — Grouping Information And Showing Relationships (C3)
+#### Sentence Rewriting — Grouping Information And Showing Relationships
 
 Grouping by theme is different from listing by source. A source-by-source paragraph keeps switching the reader’s attention from document to document; a synthesis paragraph reorganises the material around the issues that matter most.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Combine information from multiple sources into thematic, coherent sentences.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Useful Patterns — Grouping By Theme:**
-:::
 
 - *Across the sources…*
 - *Two themes emerge from the feedback:…*
 - *A second concern, raised by several offices, is…*
 - *Both [Source A] and [Source B] note that…*
-
-
-::: learn-note
-**Learn — Useful Patterns — Contrast And Agreement:**
 :::
+
+
+::: learn-language
+**Learn — Useful Patterns — Contrast And Agreement:**
 
 - *While… , …*
 - *In contrast to…*
 - *However, …*
 - *[Source A] and [Source B] agree that… ; however, [Source C] suggests…*
-
-
-::: learn-note
-**Learn — Useful Patterns — Insight:**
 :::
+
+
+::: learn-language
+**Learn — Useful Patterns — Insight:**
 
 - *Together, these findings indicate that…*
 - *These points suggest that…*
 - *Overall, the information implies that…*
 - *Taken together, … points to a need for…*
+:::
 
-**Rewrite the following as thematic, synthesised sentences.**
+#### Rewrite the following as thematic, synthesised sentences.
 
 1. *Office A says instructions are unclear. Office C also says instructions are unclear.*
 2. *Office A says the timeline is fine. Office B says it is too short.*
 3. *Three offices reported delays.*
 4. *Office A: unclear instructions. Office B: outdated file version. Office C: unclear instructions. Office D: outdated file version.*
 
-#### Phrase Bank Building — Build Reusable Language (C8)
+#### Phrase Bank Building — Build Reusable Language
 
 Below are twelve phrases drawn from the model text and language focus. Organise them into a personal phrase bank under the four headings provided.
 
 
-::: learn-note
+::: learn-language
 **Learn — Phrases:**
 :::
 
@@ -5922,7 +5927,7 @@ The integrated version works better because it groups the points by theme, shows
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Rewrite the original synthesis (from Section B) as a complete, integrated synthesis paragraph.
 
@@ -5941,7 +5946,7 @@ Draft {{PH-2: U18-D1-guided-rewrite}}
 :::
 
 
-#### Scenario Writing — Guided Skill Practice (D2)
+#### Scenario Writing — Guided Skill Practice
 
 
 ::: learn-transfer
@@ -5973,7 +5978,7 @@ Draft {{PH-3: U18-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Write a **220–260 word** synthesis. Choose one scenario:
 
@@ -6001,7 +6006,7 @@ Draft {{PH-4: U18-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Comparative Peer Review — Compare Revision Choices (F2)
+#### Comparative Peer Review — Compare Revision Choices
 
 Exchange your Freer Writing with a partner. Compare the two syntheses. For each criterion, identify which text does this more effectively and explain why.
 
@@ -6013,7 +6018,7 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 | Uses appropriate synthesis language |  |  |  |
 | Formal, neutral tone throughout |  |  |  |
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 - [ ] Have I grouped information by theme rather than listing it source-by-source?
 - [ ] Have I shown at least one contrast or agreement between sources?
@@ -6025,7 +6030,7 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
@@ -6046,7 +6051,7 @@ Revised Draft {{PH-3: U18-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Real-World Task — Workplace Transfer Practice (H2)
+#### Real-World Task — Workplace Transfer Practice
 
 Find three real documents from your workplace that address the same issue or process. They may be emails, meeting notes, reports, or procedural instructions.
 
@@ -6063,7 +6068,7 @@ Draft {{PH-3: U18-H2-real-world-draft}}
 :::
 
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **220–260 word** synthesis combining information from three or more sources. Your synthesis must include:
 
@@ -6078,7 +6083,7 @@ Draft {{PH-4: U18-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -6118,7 +6123,7 @@ This unit develops learners' ability to summarise policy content for readers who
 
 ### A. Opening & Activation
 
-#### Contrastive Warm-Up — Compare Initial Choices (A6)
+#### Contrastive Warm-Up — Compare Initial Choices
 
 Read the two statements below. Both describe the same policy change.
 
@@ -6136,7 +6141,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Reading-To-Write Input — Source-Based Preparation (B6)
+#### Reading-To-Write Input — Source-Based Preparation
 
 Plain-language adaptation means retaining the essential policy meaning while reducing specialist burden. The writer must decide which technical details matter to the reader and which can be simplified, replaced, or explained in more accessible terms.
 
@@ -6149,7 +6154,7 @@ Read the following extract from an internal policy circular.
 ---
 
 
-::: learn-note
+::: learn-process
 **Learn — Writing Task:** Using only the information in the extract above, write a plain-language version of this policy requirement for a general staff audience. Your version should:
 :::
 
@@ -6163,7 +6168,7 @@ Aim for 60–80 words. You will compare your version with the model text in the 
 
 ---
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -6202,20 +6207,19 @@ Identify differences in:
 Plain explanation is not the same as oversimplification. The goal is to remove specialist labels that block understanding while preserving the requirement or consequence that the reader still needs to know.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Replace section numbers, annexes, and legal citations with plain descriptions of what they require.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *Original:* Section 12(4) requires procedural harmonisation across offices.
 *Simplified:* All offices are now required to follow the same process.
+:::
 
-**Practice A — Simplify the Statement**
+##### Practice A — Simplify the Statement
 
 Rewrite each sentence to remove or replace technical references.
 
@@ -6229,15 +6233,13 @@ Rewrite each sentence to remove or replace technical references.
 #### 2. Explaining Purpose and Impact
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Help non-expert readers understand why the policy exists and what it will change for them.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"This change is intended to reduce inconsistency across offices and ensure that applications are reviewed on a comparable basis."*
 
@@ -6247,6 +6249,7 @@ Useful structures:
 - *This aims to ensure that…*
 - *This will help to…*
 - *The purpose of this update is to…*
+:::
 
 
 ::: worked-example
@@ -6258,7 +6261,7 @@ Useful structures:
 The second version keeps the core requirement but explains it in terms a general reader can act on.
 :::
 
-**Practice B — Add a Purpose Statement**
+##### Practice B — Add a Purpose Statement
 
 Each sentence describes a policy change. Add a sentence explaining its purpose or likely impact.
 
@@ -6274,15 +6277,13 @@ Each sentence describes a policy change. Add a sentence explaining its purpose o
 Required actions should tell readers exactly what they need to do, by when, and where to ask for help if something prevents them from completing the change.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Ensure non-expert readers know exactly what they need to do and when.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"Offices should begin using the updated form from 1 March. If you have questions, please contact the coordinating unit by 15 February."*
 
@@ -6292,8 +6293,9 @@ Useful expressions:
 - *Offices are asked to…*
 - *The required action is to…*
 - *By [date], offices should…*
+:::
 
-**Practice C — Rewrite to Include the Required Action**
+##### Practice C — Rewrite to Include the Required Action
 
 Rewrite each sentence so the required action is clear and direct.
 
@@ -6306,7 +6308,7 @@ Rewrite each sentence so the required action is clear and direct.
 
 ### D. Guided Writing
 
-#### Rewrite The Model Text — Model Revision Practice (D1)
+#### Rewrite The Model Text — Model Revision Practice
 
 Using the improved version as your guide, rewrite the original technical text from Section B in your own words. Your version must include:
 
@@ -6324,7 +6326,7 @@ Draft {{PH-2: U19-D1-guided-rewrite}}
 :::
 
 
-#### Format Conversion — Change Document Format (D7)
+#### Format Conversion — Change Document Format
 
 
 ::: learn-transfer
@@ -6359,10 +6361,10 @@ Draft {{PH-3: U19-D7-format-conversion}}
 
 ### E. Freer Writing
 
-#### Role-Based Writing Task — Audience-Specific Response (E3)
+#### Role-Based Writing Task — Audience-Specific Response
 
 
-::: learn-note
+::: learn-teaching
 **Learn — Role Reminder:** Your position in this task shapes how you write. You sit between the teams that produce policy and the offices that must implement it. Your job is not just to pass information on — it is to make sure that non-expert readers understand what is changing and what they need to do, without having to interpret specialist language on their own.
 :::
 
@@ -6396,7 +6398,7 @@ Draft {{PH-4: U19-E3-role-based-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your briefing with a partner. Evaluate their writing using the questions below.
 
@@ -6408,10 +6410,10 @@ Exchange your briefing with a partner. Evaluate their writing using the question
 
 Provide two specific suggestions for improvement.
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 
-::: learn-note
+::: learn-teaching
 **Learn — How To Use The Checklist:** Each category reflects a major course skill strand: synthesis of inputs, professional tone, structure for the reader, justification of action, and next-step clarity. Use it to identify which strand is weakest before you revise.
 :::
 
@@ -6429,7 +6431,7 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The paragraph below was written for a general staff audience but contains several problems. Identify all the issues, then rewrite the paragraph as a clear, accessible plain-language summary.
 
@@ -6455,7 +6457,7 @@ Revised Draft {{PH-3: U19-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **280–320 word** plain-language policy summary for a non-expert internal or interagency audience. Choose one:
 
@@ -6480,7 +6482,7 @@ Draft {{PH-4: U19-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -6507,7 +6509,7 @@ This unit develops learners' ability to write concise, logically structured just
 
 ### A. Opening & Activation
 
-#### Problem Identification — Identify Communication Issues (A2)
+#### Problem Identification — Identify Communication Issues
 
 Read the following attempt at a justification.
 
@@ -6523,7 +6525,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -6560,15 +6562,13 @@ Identify improvements in:
 Readers need the decision before they can understand the rationale. If the opening only hints at a possible change, the rest of the paragraph has no clear anchor.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Begin with a short, direct statement of what was decided. Avoid vague or hedged opening phrases.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"The office has adopted the revised document-verification procedure with effect from 1 April."*
 
@@ -6578,8 +6578,9 @@ Useful expressions:
 - *It has been decided that…*
 - *The office will implement…*
 - *[Name of change] will take effect from…*
+:::
 
-**Practice A — Rewrite the Decision Statement**
+##### Practice A — Rewrite the Decision Statement
 
 Rewrite each sentence to make the decision clear and direct.
 
@@ -6595,15 +6596,13 @@ Rewrite each sentence to make the decision clear and direct.
 Rationale is not the same as background description. A rationale explains why this decision follows from a problem, a policy requirement, or evidence; background description only tells the reader what situation exists.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Explain why the decision was made. Ground the rationale in policy, evidence, or procedural requirements — not personal preference.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"This revision aligns with the updated standards issued in July and removes inconsistencies identified during the last coordination review."*
 
@@ -6613,8 +6612,9 @@ Useful patterns:
 - *This change is required by…*
 - *This revision addresses…*
 - *Evidence from [source] indicates that…*
+:::
 
-**Practice B — Strengthen the Rationale**
+##### Practice B — Strengthen the Rationale
 
 Rewrite each sentence to add a clear, policy-grounded rationale.
 
@@ -6630,15 +6630,13 @@ Rewrite each sentence to add a clear, policy-grounded rationale.
 Benefits are the practical gains expected from the decision. They are not the same as the rationale itself, and they should not be left as vague claims that the change will simply be "better".
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Describe the practical or procedural advantages of the decision in specific, measurable terms where possible.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"This will reduce review time and support a more consistent approach across partner offices."*
 
@@ -6648,8 +6646,9 @@ Useful expressions:
 - *This reduces the risk of…*
 - *This supports…*
 - *As a result, offices will be able to…*
+:::
 
-**Practice C — Add a Benefit Statement**
+##### Practice C — Add a Benefit Statement
 
 Add a sentence describing the expected benefit.
 
@@ -6663,28 +6662,30 @@ Add a sentence describing the expected benefit.
 #### 4. Structuring a Complete Justification
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Combine decision, rationale, and benefit into a short, well-organised paragraph.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Recommended Structure:**
-:::
-
 
 1. State the decision.
 2. Identify the problem or trigger that required the decision.
 3. Explain the policy or evidential basis for the decision.
 4. Describe the expected benefit.
+:::
 
-**Practice D — Organise the Justification**
+##### Practice D — Organise the Justification
 
 The sentences below form a complete justification but are in the wrong order. Arrange them into a logical paragraph and make any small adjustments needed for flow.
 
 A. *"This will support cross-office consistency and reduce the risk of processing delays."*
+
 B. *"The office will adopt the revised applicant terminology list from 1 May."*
+
 C. *"The previous list contained terms used inconsistently across offices, leading to variation in how applications were assessed."*
+
 D. *"This revision aligns with the updated interagency style guidelines issued in March."*
 
 
@@ -6701,7 +6702,7 @@ The second version works because it moves from decision, to rationale, to benefi
 
 ### D. Guided Writing
 
-#### Rewrite The Original Justification — Justification Revision Practice (D1)
+#### Rewrite The Original Justification — Justification Revision Practice
 
 Using the improved model from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
 
@@ -6719,7 +6720,7 @@ Draft {{PH-2: U20-D1-guided-rewrite}}
 :::
 
 
-#### Draft A Justification For One Scenario — Justification Writing Practice (D2)
+#### Draft A Justification For One Scenario — Justification Writing Practice
 
 
 ::: learn-transfer
@@ -6748,7 +6749,7 @@ Draft {{PH-3: U20-D2-guided-draft}}
 
 ### E. Freer Writing
 
-#### Scenario-Based Free Write — Realistic Administrative Response (E1)
+#### Scenario-Based Free Write — Realistic Administrative Response
 
 Choose one scenario and write a complete, standalone justification.
 
@@ -6777,7 +6778,7 @@ Draft {{PH-4: U20-E1-freer-write}}
 
 ### F. Review & Self-Assessment
 
-#### Guided Peer Review — Structured Feedback Exchange (F1)
+#### Guided Peer Review — Structured Feedback Exchange
 
 Exchange your justification with a partner. Evaluate their writing using the following questions.
 
@@ -6789,7 +6790,7 @@ Exchange your justification with a partner. Evaluate their writing using the fol
 
 Provide two specific suggestions for improvement.
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your own writing against the following:
 
@@ -6804,7 +6805,7 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The paragraph below is a poor justification for an administrative decision. Identify all the problems, then rewrite it as a concise, policy-aligned justification.
 
@@ -6830,7 +6831,7 @@ Revised Draft {{PH-3: U20-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **230–270 word** concise justification for an administrative or interagency decision. Choose one:
 
@@ -6852,7 +6853,7 @@ Draft {{PH-4: U20-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -6879,7 +6880,7 @@ This unit trains learners to integrate information from multiple sources into a 
 
 ### A. Opening & Activation
 
-#### Real Document Analysis — Workplace Document Analysis (A5)
+#### Real Document Analysis — Workplace Document Analysis
 
 The following extract is taken from an internal coordination report.
 
@@ -6899,7 +6900,7 @@ Discuss:
 
 ### B. Model Text
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 
 ::: model-bad
@@ -6923,7 +6924,7 @@ This report consolidates status updates from four offices following the distribu
 - Office B is working with its IT team to resolve the system delay.
 - A draft Q&A document was prepared and circulated to all offices.
 
-**Outstanding Questions**
+#### Outstanding Questions
 - Whether the revised communication timeline applies to applications already in progress.
 - Whether additional guidance on the updated terminology is needed.
 
@@ -6937,7 +6938,7 @@ This report consolidates status updates from four offices following the distribu
 :::
 
 
-#### Structural Deconstruction — Document Structure Analysis (B3)
+#### Structural Deconstruction — Document Structure Analysis
 
 Each section in a consolidated report performs a different job. Predictable sectioning reduces reader effort because the reader does not have to work out whether a sentence is reporting an issue, an action already taken, or a next step still to come.
 
@@ -6947,7 +6948,7 @@ Discuss: Why does a predictable report structure help readers process informatio
 
 ---
 
-#### Data Interpretation Input — Source Data Analysis (B7)
+#### Data Interpretation Input — Source Data Analysis
 
 
 ::: worked-example
@@ -6970,7 +6971,7 @@ The table below shows status update data submitted by five offices following the
 | Office E | Yes | Yes | 1 | On track |
 
 
-::: learn-note
+::: learn-process
 **Learn — Writing Task:** Using the data above, write the *Issues Identified* and *Outstanding Questions* sections of a consolidated administrative report. Your writing should:
 :::
 
@@ -6991,15 +6992,13 @@ Write in formal, complete sentences. Aim for 60–80 words across both sections 
 A summary opening should tell the reader what the report covers, why it was produced, and how many sources or offices it brings together. It should not begin with a low-value detail or a narrative aside.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Begin with a single sentence that explains what the report covers, why it was produced, and how many sources it draws from.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"This report summarises implementation updates from five offices following the introduction of the revised applicant processing guidelines."*
 
@@ -7008,8 +7007,9 @@ Useful structures:
 - *This report consolidates…*
 - *This report summarises updates from…*
 - *The following report presents…*
+:::
 
-**Practice A — Write the Opening Sentence**
+##### Practice A — Write the Opening Sentence
 
 Write an appropriate opening sentence for each situation.
 
@@ -7025,15 +7025,13 @@ Write an appropriate opening sentence for each situation.
 Neutral issue description reports a problem without assigning blame. It identifies what difficulty exists, how widely it appears, and what part of the process it affects.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Describe problems or challenges specifically and without attribution of blame.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"Several offices expressed uncertainty regarding how to apply the updated review timeline to applications submitted before the circular's entry into force."*
 
@@ -7043,8 +7041,9 @@ Useful phrasing:
 - *Uncertainty was expressed regarding…*
 - *A number of offices identified challenges related to…*
 - *It was noted that…*
+:::
 
-**Practice B — Rewrite for Clarity and Neutrality**
+##### Practice B — Rewrite for Clarity and Neutrality
 
 Rewrite each item to make it a clear, neutral issue description suitable for an administrative report.
 
@@ -7058,15 +7057,13 @@ Rewrite each item to make it a clear, neutral issue description suitable for an 
 #### 3. Describing Actions Taken
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** Document completed actions in specific, factual terms.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"Office C prepared a plain-language summary of the revised procedure for internal circulation."*
 
@@ -7075,8 +7072,9 @@ Useful structures:
 - *[Office] completed…*
 - *A [briefing / training session / document] was conducted / prepared / circulated…*
 - *Steps have been taken to…*
+:::
 
-**Practice C — Clarify the Action**
+##### Practice C — Clarify the Action
 
 Rewrite each item as a specific, clearly documented action taken.
 
@@ -7092,15 +7090,13 @@ Rewrite each item as a specific, clearly documented action taken.
 Next steps are not just future intentions. They need an action, a responsible party, and a time point so that the report can support follow-up.
 
 
-::: learn-note
+::: learn-principle
 **Learn — Writing Goal:** State what will happen next, who is responsible, and by when.
 :::
 
 
-::: learn-note
+::: learn-language
 **Learn — Example:**
-:::
-
 
 *"Offices will submit outstanding questions to the coordinating unit by 20 October. A follow-up meeting will be held on 4 November to review progress."*
 
@@ -7110,8 +7106,9 @@ Useful patterns:
 - *A [meeting / briefing / review] is scheduled for…*
 - *The coordinating unit will [action] by…*
 - *Outstanding questions will be addressed at…*
+:::
 
-**Practice D — Add a Next-Step Statement**
+##### Practice D — Add a Next-Step Statement
 
 Rewrite each item to include a clear, time-bound next step.
 
@@ -7124,7 +7121,7 @@ Rewrite each item to include a clear, time-bound next step.
 
 ### D. Guided Writing
 
-#### Rewrite The Original Report — Report Revision Practice (D1)
+#### Rewrite The Original Report — Report Revision Practice
 
 Using the improved model as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
 
@@ -7143,7 +7140,7 @@ Draft {{PH-2: U21-D1-guided-rewrite}}
 :::
 
 
-#### Information Reorganisation — Restructure Source Information (D5)
+#### Information Reorganisation — Restructure Source Information
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
 
@@ -7165,7 +7162,7 @@ Draft {{PH-3: U21-D5-reorganised-version}}
 :::
 
 
-#### Format Conversion — Change Document Format (D7)
+#### Format Conversion — Change Document Format
 
 
 ::: learn-transfer
@@ -7192,7 +7189,7 @@ Draft {{PH-3: U21-D7-format-conversion}}
 
 ### E. Freer Writing
 
-#### Multi-Part Portfolio Task — Integrated Portfolio Practice (E4)
+#### Multi-Part Portfolio Task — Integrated Portfolio Practice
 
 You are responsible for preparing a consolidated report following a coordination round on a new procedural requirement.
 
@@ -7204,17 +7201,17 @@ Choose one scenario:
 4. *(JPO context)* Implementation feedback received from three JPO regional examination teams following the rollout of an updated international filing procedure
 
 
-::: learn-note
+::: learn-process
 **Learn — Part A:** Write the Summary and Issues Identified sections (approximately 80-100 words combined).
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Part B:** Write the Actions Taken and Outstanding Questions sections (approximately 80-100 words combined).
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Part C:** Write the Next Steps section and a one-sentence closing statement (approximately 40-50 words).
 :::
 
@@ -7252,7 +7249,7 @@ Draft {{PH-2: U21-E4-part-c-next-steps-closing}}
 
 ### F. Review & Self-Assessment
 
-#### Comparative Peer Review — Compare Revision Choices (F2)
+#### Comparative Peer Review — Compare Revision Choices
 
 Exchange reports with a partner. Read both reports and identify the stronger version of each section. For each section, note:
 
@@ -7260,7 +7257,7 @@ Exchange reports with a partner. Read both reports and identify the stronger ver
 - what specific language or structural choice makes it more effective
 - one improvement the weaker version could make
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your own writing against the following:
 
@@ -7276,7 +7273,7 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-#### Editing Workshop — Paragraph-Level (G2)
+#### Editing Workshop — Paragraph-Level
 
 The paragraph below is an attempt at a consolidated report. It contains multiple problems. Identify all the issues, then rewrite it as a structured, professional consolidated report.
 
@@ -7303,7 +7300,7 @@ Revised Draft {{PH-3: U21-G2-editing-rewrite}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Write a **270–310 word** consolidated administrative report. Choose one scenario:
 
@@ -7320,7 +7317,7 @@ Draft {{PH-4: U21-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -7347,7 +7344,7 @@ This unit brings together all the major writing skills developed in Units 1–21
 
 ### A. Opening & Activation
 
-#### Prediction Task — Anticipate Reader Needs (A4)
+#### Prediction Task — Anticipate Reader Needs
 
 Read the four input items below. Before reading further, predict: what type of administrative document would you need to produce, and what would it need to include?
 
@@ -7369,7 +7366,7 @@ Now discuss: Which offices need to be contacted? What information does each need
 
 ### B. Model Text
 
-#### Reading-To-Write Input — Source-Based Preparation (B6)
+#### Reading-To-Write Input — Source-Based Preparation
 
 Integrated response writing begins by identifying common issues across different input types. The writer then decides which format can best group those issues, assign action, and address the needs of the intended audience.
 
@@ -7398,7 +7395,7 @@ Now read the integrated response below.
 
 ---
 
-#### Compare Two Texts — Tone And Clarity Analysis (B1)
+#### Compare Two Texts — Tone And Clarity Analysis
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
@@ -7424,7 +7421,7 @@ Identify how the integrated response differs in:
 
 ### C. Language Focus
 
-#### 1. Error Identification And Correction — Guided Skill Practice (C4)
+#### 1. Error Identification And Correction — Guided Skill Practice
 
 This unit is trying to eliminate recurring weaknesses that undermine integrated documents: blame-heavy wording, loose structure, vague purpose statements, and instructions that do not clearly tell readers what to do next.
 
@@ -7438,7 +7435,7 @@ Each sentence below contains an error — of tone, structure, or professional re
 
 ---
 
-#### 2. Paragraph-Level Transformation — Guided Skill Practice (C5)
+#### 2. Paragraph-Level Transformation — Guided Skill Practice
 
 The paragraph below presents information from multiple sources as a list of disconnected items. Rewrite it as a single, cohesive paragraph that synthesises the information.
 
@@ -7465,7 +7462,7 @@ The revised version works better because it identifies a shared implementation t
 
 ### D. Guided Writing
 
-#### Model Rewriting — Model Revision Practice (D1)
+#### Model Rewriting — Model Revision Practice
 
 Using the integrated response in Section B as your guide, rewrite the inadequate version — the one that addresses each input separately without synthesis. Your version must:
 
@@ -7483,7 +7480,7 @@ Draft {{PH-2: U22-D1-guided-rewrite}}
 :::
 
 
-#### Revision Chain — Step-By-Step Revision (D6)
+#### Revision Chain — Step-By-Step Revision
 
 
 ::: learn-transfer
@@ -7517,17 +7514,17 @@ Revised Draft {{PH-3: U22-D6-revision-chain}}
 
 ### E. Freer Writing
 
-#### Multi-Part Portfolio Task — Integrated Portfolio Practice (E4)
+#### Multi-Part Portfolio Task — Integrated Portfolio Practice
 
 Use the four inputs from Section A as the basis for a complete administrative response.
 
 
-::: learn-note
+::: learn-process
 **Learn — Part A — Analysis (NOT SUBMITTED; Approximately 60 Words):** Write a brief planning note identifying: the main issues, the audiences who need to be addressed, and the most appropriate document format.
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Part B — Full Administrative Document (Approximately 200–240 Words):** Write the document itself. Choose the format that best fits the scenario:
 :::
 
@@ -7562,7 +7559,7 @@ Draft {{PH-4: U22-E4-part-b-full-document}}
 
 ### F. Review & Self-Assessment
 
-#### Comparative Peer Review — Compare Revision Choices (F2)
+#### Comparative Peer Review — Compare Revision Choices
 
 Exchange your portfolio task with a partner. Read both documents and complete the following.
 
@@ -7570,7 +7567,7 @@ Exchange your portfolio task with a partner. Read both documents and complete th
 2. Which document states required actions more clearly? Quote the relevant sentence.
 3. Identify one section of the weaker document that could be improved, and explain what the improvement would be.
 
-#### Self-Editing Checklist — Final Revision Audit (F3)
+#### Self-Editing Checklist — Final Revision Audit
 
 Before submitting, check your own writing against the following:
 
@@ -7586,13 +7583,15 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-#### Track-Change Simulation — Revision Decision Practice (G3)
+#### Track-Change Simulation — Revision Decision Practice
 
 The administrative document below was submitted by a colleague for review. Read it carefully and mark the following using the conventions below.
 
 - **[D]** = delete (unnecessary or repeated content)
-- **[R: …]** = replace with your suggested revision
-- **[+: …]** = add content that is missing
+| Label | Details |
+|---|---|
+| **[R | …]** = replace with your suggested revision |
+| **[+ | …]** = add content that is missing |
 
 
 ---
@@ -7613,7 +7612,7 @@ Draft {{PH-3: U22-G3-clean-copy}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Using the scenario package from this unit (the four inputs in Section A), write a **300–340 word** integrated administrative document. Choose the format that best fits the purpose: a notice for all offices, a briefing for your supervisor, or a consolidation report.
 
@@ -7631,7 +7630,7 @@ Draft {{PH-4: U22-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -7658,7 +7657,7 @@ This capstone unit gives learners the opportunity to demonstrate integrated writ
 
 ### A. Opening & Activation
 
-#### Discussion Questions — Activate Prior Knowledge (A1)
+#### Discussion Questions — Activate Prior Knowledge
 
 Reflect on your learning across this course and discuss:
 
@@ -7670,13 +7669,13 @@ Reflect on your learning across this course and discuss:
 
 ### B. Model Text
 
-#### Compare Two Texts — Exemplar Analysis (B1)
+#### Compare Two Texts — Exemplar Analysis
 
 Read both responses to the capstone scenario below.
 
 ---
 
-**Capstone Scenario**
+#### Capstone Scenario
 
 You receive:
 
@@ -7727,7 +7726,7 @@ Identify how Response B demonstrates:
 
 ### C. Language Focus
 
-#### Error Identification And Correction — Self-Diagnosis (C4)
+#### Error Identification And Correction — Self-Diagnosis
 
 These sentence-level problems are signals of larger writing issues: weak synthesis, vague tone, unclear structure, missing action logic, and under-specified recommendations. The purpose of this task is to help you recognise those broader patterns in your own writing.
 
@@ -7757,7 +7756,7 @@ If you do not have your earlier writing available, use one of your drafts from t
 
 ### D. Guided Writing
 
-#### Revision Chain — Prior Work (D6)
+#### Revision Chain — Prior Work
 
 
 ::: learn-transfer
@@ -7792,10 +7791,10 @@ Revised Draft {{PH-3: U23-D6-revision-chain}}
 
 ### E. Freer Writing
 
-#### Multi-Part Portfolio Task — Integrated Portfolio Practice (E4)
+#### Multi-Part Portfolio Task — Integrated Portfolio Practice
 
 
-::: learn-note
+::: learn-process
 **Learn — Planning Reminder:** The strongest capstone responses start by choosing a format that matches the supervisor’s stated need, then grouping issues thematically before drafting any sentences.
 :::
 
@@ -7803,12 +7802,12 @@ Revised Draft {{PH-3: U23-D6-revision-chain}}
 Using the capstone scenario from Section B, produce a complete administrative response.
 
 
-::: learn-note
+::: learn-process
 **Learn — Part A — Planning (Not Submitted):** Write a brief planning note identifying: the main issues, the intended audience, and the document format you will use.
 :::
 
 
-::: learn-note
+::: learn-process
 **Learn — Part B — Full Administrative Document (300–350 Words):** Write your response. Choose the format most appropriate for the scenario:
 :::
 
@@ -7844,7 +7843,7 @@ Final Version {{PH-4: U23-E4-part-b-capstone-document}}
 
 ### F. Review & Self-Assessment
 
-#### Self-Assessment Rubric — Evaluate Your Draft (F3)
+#### Self-Assessment Rubric — Evaluate Your Draft
 
 
 ::: learn-note
@@ -7852,7 +7851,7 @@ Final Version {{PH-4: U23-E4-part-b-capstone-document}}
 :::
 
 
-**Where to review this skill**
+#### Where to review this skill
 
 | Criterion | Review units | What those units teach |
 | --- | --- | --- |
@@ -7890,7 +7889,7 @@ Identify your two weakest criteria. Then look up the linked units for each weak 
 
 ### G. Editing
 
-#### Track-Change Simulation — Revision Decision Practice (G3)
+#### Track-Change Simulation — Revision Decision Practice
 
 The following draft was produced in response to the capstone scenario. It contains several weaknesses. Using the conventions from Unit 22, mark the draft for deletion **[D]**, replacement **[R: …]**, and addition **[+: …]**, then write a clean revised version.
 
@@ -7909,7 +7908,7 @@ Draft {{PH-3: U23-G3-clean-copy}}
 
 ### H. Homework & Extension
 
-#### Homework Writing Task — Independent Administrative Writing (H3)
+#### Homework Writing Task — Independent Administrative Writing
 
 Using the capstone scenario from this unit, write a **300–350 word** capstone administrative document. Choose the format that best represents your full range of writing ability.
 
@@ -7927,7 +7926,7 @@ Draft {{PH-4: U23-H3-homework-draft}}
 :::
 
 
-#### Extension Task — Advanced Transfer Practice (H1)
+#### Extension Task — Advanced Transfer Practice
 
 Choose one:
 
@@ -8006,6 +8005,8 @@ This keeps the current eight-part rubric aligned with the skills taught across t
 
 Judgment guidance:
 
-- `Ready`: demonstrates reliable independent capstone-level control across the major criteria and would support full-review sign-off.
-- `Nearly ready`: shows a sound overall response but still has one or two meaningful weaknesses that should be revised before sign-off.
-- `Not yet ready`: still shows material gaps in task fulfillment, source handling, synthesis, judgment, action clarity, tone, structure, or language precision.
+| Label | Details |
+|---|---|
+| `Ready` | demonstrates reliable independent capstone-level control across the major criteria and would support full-review sign-off. |
+| `Nearly ready` | shows a sound overall response but still has one or two meaningful weaknesses that should be revised before sign-off. |
+| `Not yet ready` | still shows material gaps in task fulfillment, source handling, synthesis, judgment, action clarity, tone, structure, or language precision. |

@@ -813,6 +813,34 @@ Historical note:
   - a concrete closure gate for the full-review stage
 - Preferred behavior: use the full-review protocol itself as the single authoritative stage-definition and assessment document, rather than splitting the logic across a protocol file and a separate checklist.
 
+## 2026-05-10 - Advanced DOCX Conversion Must Suppress Markdown Separators
+
+- Status: `monitor`
+- Scope: project/tooling
+- Context: Advanced Step 2 Pandoc DOCX conversion from `adv/md/final/aw-adv-all_0510.md`
+- Observation: standalone `---` lines in the combined Markdown are structural separators/safeguards, not intended visual rules or page breaks. Textmaker's `pagebreak.lua` converts horizontal rules to page breaks, while Pandoc's default DOCX writer renders them as visible horizontal lines.
+- Preferred behavior: for the Advanced full-book DOCX conversion, do not use `pagebreak.lua`; instead use the textbook DOCX Lua filter that returns `{}` for `HorizontalRule` and maps semantic Divs to Word custom styles.
+
+## 2026-05-12 - Verify Conversion Paths Before Launching Textmaker
+
+- Status: `workaround`
+- Scope: project/tooling
+- Context: repeated failed Advanced DOCX conversion launches caused by Windows command quoting around `adv/edits & guides/...` Lua-filter paths.
+- Observation: paths containing shell metacharacters such as `&` can be split by `cmd.exe` or by fragile `Start-Process -ArgumentList` joins even when the file exists.
+- Preferred behavior: before any Textmaker conversion run, verify all source, reference, Lua-filter, output-parent, and temporary paths first. If a required path contains spaces or shell metacharacters, use an argument-safe invocation or copy the referenced file to a no-spaces/no-metacharacters temp path before launching the conversion.
+
+## 2026-05-13 - Advanced DOCX Uses Reference Styles And List Number 3 For Alphabetic Options
+
+- Status: `active`
+- Scope: project/tooling
+- Context: Advanced full-book DOCX/PDF generation from `adv/md/final/aw-adv-all_0510.md`.
+- Decision: run conversion through Textmaker with `adv/aw-adv-styleref.docx` as the Pandoc reference DOCX and the Advanced Div-style Lua filter enabled.
+- Preferred behavior: generated DOCX output must use only styles present in `adv/aw-adv-styleref.docx`; postprocess should remove generated fallback style usage/definitions and fail visibly when required reference styles are missing.
+- Preferred behavior: alphabetic option lists use the modified built-in `List Number 3` style from the reference; literal source markers such as `A. ` are removed after list style assignment so labels are not doubled in PDF output.
+- Preferred behavior: use `--no-pagebreak-filter` for this manuscript; the Advanced Lua filter suppresses standalone `---` separators, and Textmaker's built-in pagebreak filter must not run.
+- Preferred behavior: semantic Div title lines keep the semantic Div paragraph style. Do not replace them with `Label Base Para`/`Label Para`; set label spacing after to 4pt and moved content spacing before to 0pt.
+- Preferred behavior: after inserting the reference unit-title table, clear the original unit heading paragraph so it does not remain visible under or around the table.
+
 ## 2026-04-01 - Intermediate full-review protocol now matches the stronger operational standard
 
 - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` has been upgraded from a lighter stage-definition file into a checklist-backed operational protocol.

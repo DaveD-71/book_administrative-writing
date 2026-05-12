@@ -1493,3 +1493,76 @@ Historical note:
   - noncanonical activity headings: 0
   - missing blank lines before headings: 0
   - plain self-study notes: 0
+
+## 2026-05-10
+
+- Created a new clean Pandoc reference DOCX for Advanced Step 2 from:
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_full_style_sheet.md`
+- Output artifacts:
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_clean_reference.docx`
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_div_styles.lua`
+- Important finding:
+  - Pandoc 3.8.3 does not apply Word styles from plain Div classes such as `::: learn-process`
+  - semantic Div styling requires `custom-style` attributes or the generated Lua filter that maps class names to Word style names
+- Validation:
+  - sample DOCX conversion applied Heading, semantic Div, placeholder, list, and table styles
+  - sample DOCX rendered through LibreOffice/Poppler for visual sanity check
+  - full `aw-adv-all_0510.md` smoke conversion completed successfully with the reference DOCX and Lua filter
+
+## 2026-05-10
+
+- Generated the Advanced Step 2 DOCX output at `adv/docx/aw-adv-all_0510.docx` from `adv/md/final/aw-adv-all_0510.md`.
+- Used the Textmaker CLI conversion path with the clean Advanced reference DOCX and the generated Div-style Lua filter.
+- Deliberately removed the Textmaker `pagebreak.lua` filter from this conversion because the project decision for `---` separators is the combined-draft setext-heading safeguard, not conversion of separators into Word page breaks.
+- Validation:
+  - semantic Div styles are present in `word/document.xml`
+  - explicit Word page breaks: 0
+  - placeholder style count: 127
+  - self-study style count: 2
+  - LibreOffice rendered the DOCX to a 158-page A4 PDF successfully
+
+## 2026-05-10
+
+- Corrected the Advanced Step 2 reference DOCX and DOCX conversion after review found the first reference was too weak and the full conversion rendered `---` as visible horizontal rules.
+- Added a repeatable generator:
+  - `adv/edits & guides/style edits/step2-stylereference/build_aw_textbook_reference.py`
+- Regenerated:
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_clean_reference.docx`
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_div_styles.lua`
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_style_specimen.md`
+  - `adv/edits & guides/style edits/step2-stylereference/aw_textbook_style_specimen.docx`
+  - `adv/docx/aw-adv-all_0510.docx`
+- Corrections:
+  - fixed paragraph spacing units in OOXML
+  - forced heading line spacing to single
+  - explicitly disabled bold on reduced-weight styles
+  - added odd/even/first footer parts
+  - suppressed standalone Markdown horizontal rules through the DOCX Lua filter
+  - mapped Markdown strong/emphasis to Word character styles to avoid direct bold/italic overrides
+- Validation:
+  - explicit Word page breaks: 0
+  - literal `---`: 0
+  - direct paragraph-rule borders in document body: 0
+  - direct bold tags in full DOCX body: 0
+  - LibreOffice rendered the corrected full DOCX to a 147-page A4 PDF
+
+## 2026-05-12
+
+- Recorded a conversion-launch workflow rule after repeated Windows path quoting failures around `adv/edits & guides/...` Lua-filter paths.
+- New default before Textmaker conversion runs: verify all referenced paths first, and avoid passing paths containing shell metacharacters such as `&` through fragile shell argument joins.
+- Backed up `adv/md/final/aw-adv-all_0510.md` to `adv/md/final/aw-adv-all_0510_20260512-pre-style-audit.md`, generated before/after Markdown style-audit CSVs, normalized activity-heading structure and table-like/list-like source patterns, then regenerated the final DOCX/PDF through the Textmaker `markdown-to-docx` CLI with `adv/aw-adv-styleref.docx` passed as the Pandoc reference DOCX.
+
+## 2026-05-13
+
+- Regenerated `adv/md/final/aw-adv-all_0510.docx` through the Textmaker CLI using `adv/aw-adv-styleref.docx` as the style reference and the Advanced Div-style Lua filter.
+- Exported `adv/md/final/aw-adv-all_0510.pdf` from the validated DOCX with LibreOffice.
+- Validation confirmed:
+  - all used styles exist in the reference DOCX
+  - no extra generated style definitions remain
+  - no `Strong` or `Emphasis` run styles remain
+  - no direct bold tags remain
+  - no activity-code suffixes remain in headings/title rows
+  - alphabetic option lists use `List Number 3` without doubled literal markers
+- Corrected the final conversion command to include `--no-pagebreak-filter`, preventing standalone `---` separators from being converted into extra page breaks; the generated PDF returned to 186 pages.
+- Updated semantic Div title processing so title rows keep their semantic Div paragraph style while using 4pt space after and 0pt space before the moved content paragraph.
+- Updated unit-title table insertion so the original unit heading text is removed after inserting the reference table.
