@@ -7,6 +7,7 @@ local style_for_class = {
   ["learn-transfer"] = "Learn Transfer",
   ["learn-teaching"] = "Learn Teaching",
   ["learn-note"] = "Learn Note",
+  ["model"] = "Model",
   ["model-bad"] = "Model Bad",
   ["model-good"] = "Model Good",
   ["worked-example"] = "Worked Example",
@@ -30,12 +31,20 @@ function Emph(el)
   return el
 end
 
+local function preserve_div_line_breaks(el)
+  return pandoc.walk_block(el, {
+    SoftBreak = function(_)
+      return pandoc.LineBreak()
+    end
+  })
+end
+
 function Div(el)
   for _, class in ipairs(el.classes) do
     local style = style_for_class[class]
     if style then
       el.attributes['custom-style'] = style
-      return el
+      return preserve_div_line_breaks(el)
     end
   end
   return el
