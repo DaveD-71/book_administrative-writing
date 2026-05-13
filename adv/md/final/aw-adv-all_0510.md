@@ -4463,7 +4463,11 @@ Read the following excerpt from an internal policy proposal. Answer the question
 ::: model
 *Subject: Proposal — Introduction of Standardised Terminology Protocol*
 
-*Our office recommends the adoption of a standardised terminology protocol for all interagency communications. In accordance with the revised coordination guidelines issued in November, all partner offices are required to use consistent terminology when referring to applicant submission stages. Current practice has resulted in a range of informal terms being used across offices, which has contributed to misunderstandings during case review. The proposed protocol would reduce this inconsistency, support more efficient processing, and align our communications with the updated framework. We recommend piloting the protocol with two partner offices before full implementation.*
+*Our office recommends the adoption of a standardised terminology protocol for all interagency communications. In accordance with the revised coordination guidelines issued in November, all partner offices are required to use consistent terminology when referring to applicant submission stages.*
+
+*Current practice has resulted in a range of informal terms being used across offices, which has contributed to misunderstandings during case review. The proposed protocol would reduce this inconsistency, support more efficient processing, and align our communications with the updated framework.*
+
+*We recommend piloting the protocol with two partner offices before full implementation.*
 :::
 
 ---
