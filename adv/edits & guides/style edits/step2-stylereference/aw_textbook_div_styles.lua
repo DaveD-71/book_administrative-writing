@@ -14,6 +14,7 @@ local style_for_class = {
   ["example"] = "Example",
   ["placeholder"] = "Placeholder",
   ["self-study"] = "Self Study",
+  ["annotation"] = "Annotation",
 }
 
 -- The book source uses standalone --- as combined-draft separators.
@@ -24,7 +25,7 @@ end
 
 -- Avoid Pandoc's direct bold/italic output overriding the lighter Word style system.
 function Strong(el)
-  return pandoc.Span(el.content, pandoc.Attr('', {}, {['custom-style'] = 'Strong'}))
+  return el
 end
 
 function Emph(el)
