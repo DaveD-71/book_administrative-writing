@@ -1,0 +1,347 @@
+{
+  "source_markdown": "adv/md/final/aw-adv-all_0514.md",
+  "columns": [
+    "markdown_class",
+    "emoji",
+    "emoji_hex",
+    "titles",
+    "title_counts",
+    "planned_changes"
+  ],
+  "categories": [
+    {
+      "markdown_class": "model-bad",
+      "emoji": "⚠️",
+      "emoji_hex": [
+        "U+26A0",
+        "U+FE0F"
+      ],
+      "titles": [
+        "Original Text"
+      ],
+      "title_counts": [
+        23
+      ],
+      "planned_changes": [
+        "Standardized to the single label `Original Text`."
+      ]
+    },
+    {
+      "markdown_class": "model-good",
+      "emoji": "✅",
+      "emoji_hex": [
+        "U+2705"
+      ],
+      "titles": [
+        "Revised Text",
+        "Overview",
+        "Key Points Discussed",
+        "Decisions / Action Items",
+        "Next Steps",
+        "Overall Assessment",
+        "Strengths",
+        "Areas For Improvement",
+        "Recommendation",
+        "Identify Improvements In",
+        "Key Points",
+        "Implications",
+        "Summary",
+        "Issues Identified",
+        "Actions Taken"
+      ],
+      "title_counts": [
+        23,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Primary model title is standardized to `Revised Text`; subordinate section labels remain in use inside some `model-good` blocks."
+      ]
+    },
+    {
+      "markdown_class": "learn-process",
+      "emoji": "🔍",
+      "emoji_hex": [
+        "U+1F50D"
+      ],
+      "titles": [
+        "Learn — Why This Works",
+        "Learn — Template",
+        "Learn — Scenario",
+        "Learn — Functions",
+        "Learn — Task"
+      ],
+      "title_counts": [
+        23,
+        2,
+        5,
+        2,
+        5
+      ],
+      "planned_changes": [
+        "Consolidation has been applied; no further change is currently planned."
+      ]
+    },
+    {
+      "markdown_class": "learn-teaching",
+      "emoji": "🎓",
+      "emoji_hex": [
+        "U+1F393"
+      ],
+      "titles": [
+        "Learn — Teaching Point",
+        "Learn — Patterns 1 And 2 Compared",
+        "Learn — Discuss",
+        "Learn — Role Reminder",
+        "Learn — How To Use The Checklist"
+      ],
+      "title_counts": [
+        1,
+        1,
+        6,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Consolidation has been applied; no further change is currently planned."
+      ]
+    },
+    {
+      "markdown_class": "learn-principle",
+      "emoji": "💡",
+      "emoji_hex": [
+        "U+1F4A1"
+      ],
+      "titles": [
+        "Learn — Key Principle",
+        "Learn — Writing Goal"
+      ],
+      "title_counts": [
+        2,
+        22
+      ],
+      "planned_changes": [
+        "Consolidation has been applied; no further change is currently planned."
+      ]
+    },
+    {
+      "markdown_class": "learn-language",
+      "emoji": "💬",
+      "emoji_hex": [
+        "U+1F4AC"
+      ],
+      "titles": [
+        "Learn — Patterns",
+        "Learn — Note On Contrast",
+        "Learn — Examples",
+        "Learn — Useful Language",
+        "Learn — Sentences",
+        "Overviews",
+        "Key Points",
+        "Grouping By Theme",
+        "Contrast And Agreement",
+        "Insight"
+      ],
+      "title_counts": [
+        6,
+        2,
+        20,
+        6,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Core consolidation has been applied in `aw-adv-all_0514`; the current titles are the active reduced set."
+      ]
+    },
+    {
+      "markdown_class": "placeholder",
+      "emoji": "✏️",
+      "emoji_hex": [
+        "U+270F",
+        "U+FE0F"
+      ],
+      "titles": [
+        "Draft",
+        "Planning Notes",
+        "Revised Draft",
+        "Final Version"
+      ],
+      "title_counts": [
+        101,
+        3,
+        22,
+        1
+      ],
+      "planned_changes": [
+        "Standardized to four visible labels: `Draft`, `Revised Draft`, `Planning Notes`, and `Final Version`."
+      ]
+    },
+    {
+      "markdown_class": "learn-note",
+      "emoji": "📝",
+      "emoji_hex": [
+        "U+1F4DD"
+      ],
+      "titles": [
+        "Learn — Before You Write",
+        "Annotation",
+        "Learn — Note",
+        "Learn — Practice",
+        "Learn — Version A",
+        "Learn — Version B",
+        "Learn — Reflection",
+        "Learn — Original",
+        "Learn — Proposed Changes",
+        "Learn — Statements",
+        "Learn — Annotations",
+        "Learn — Revision Checklist"
+      ],
+      "title_counts": [
+        1,
+        12,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Partial consolidation has been applied; if you want a smaller final set, review `Learn — Original`, `Version A`, `Version B`, `Proposed Changes`, `Statements`, and `Annotations`."
+      ]
+    },
+    {
+      "markdown_class": "self-study",
+      "emoji": "📖",
+      "emoji_hex": [
+        "U+1F4D6"
+      ],
+      "titles": [
+        "Self-Study"
+      ],
+      "title_counts": [
+        2
+      ],
+      "planned_changes": [
+        "Keep `Self-Study` as the single standardized label."
+      ]
+    },
+    {
+      "markdown_class": "worked-example",
+      "emoji": "🧭",
+      "emoji_hex": [
+        "U+1F9ED"
+      ],
+      "titles": [
+        "Worked Example"
+      ],
+      "title_counts": [
+        20
+      ],
+      "planned_changes": [
+        "Standardized to the single label `Worked Example`."
+      ]
+    },
+    {
+      "markdown_class": "learn-transfer",
+      "emoji": "🔁",
+      "emoji_hex": [
+        "U+1F501"
+      ],
+      "titles": [
+        "Learn — Transfer Reminder"
+      ],
+      "title_counts": [
+        18
+      ],
+      "planned_changes": [
+        "Keep `Learn — Transfer Reminder` as the single standardized label."
+      ]
+    },
+    {
+      "markdown_class": "learn-pattern",
+      "emoji": "",
+      "emoji_hex": [],
+      "titles": [
+        "Learn — Patterns"
+      ],
+      "title_counts": [
+        1
+      ],
+      "planned_changes": [
+        "This title duplicates `Learn — Patterns` under `learn-language`; keep the class only if it needs distinct styling or handling."
+      ]
+    },
+    {
+      "markdown_class": "model",
+      "emoji": "",
+      "emoji_hex": [],
+      "titles": [],
+      "title_counts": [],
+      "planned_changes": [
+        "No title inventory is recorded for this class; keep it unlabeled unless you want to define a canonical model title."
+      ]
+    },
+    {
+      "markdown_class": "example",
+      "emoji": "📌",
+      "emoji_hex": [
+        "U+1F4CC"
+      ],
+      "titles": [
+        "Office Circular — Document Verification Procedure (Revised)"
+      ],
+      "title_counts": [
+        1
+      ],
+      "planned_changes": [
+        "Optional: standardize the specific title to `Example` if you want this class fully generic."
+      ]
+    }
+  ],
+  "duplicate_titles_across_classes": [
+    {
+      "title": "Key Points",
+      "classes": [
+        "learn-language",
+        "model-good"
+      ],
+      "counts_by_class": {
+        "learn-language": 1,
+        "model-good": 1
+      }
+    },
+    {
+      "title": "Learn — Patterns",
+      "classes": [
+        "learn-language",
+        "learn-pattern"
+      ],
+      "counts_by_class": {
+        "learn-language": 6,
+        "learn-pattern": 1
+      }
+    }
+  ]
+}

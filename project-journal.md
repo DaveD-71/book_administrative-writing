@@ -1567,3 +1567,16 @@ Historical note:
 - Updated semantic Div title processing so title rows keep their semantic Div paragraph style while using 4pt space after and 0pt space before the moved content paragraph.
 - Updated unit-title table insertion so the original unit heading text is removed after inserting the reference table.
 - Regenerated the final DOCX/PDF after Textmaker added support for nested list paragraphs inside semantic Divs. Validation confirmed list paragraphs keep their list styles and receive Div block-level paragraph formatting.
+
+## 2026-05-14
+
+- Created `adv/md/final/aw-adv-all_0514.md` as a working derivative of `aw-adv-all_0510.md` for div-title and activity-heading normalization work.
+- Consolidated the Advanced semantic Div title system in the `0514` derivative, reducing the active title set and standardizing repeated labels such as `Original Text`, `Revised Text`, `Worked Example`, and the core `Learn — ...` families.
+- Restructured semantic Div blocks in the `0514` derivative so div titles sit on their own line and body content starts below them, which makes the source safer for DOCX conversion and reduces dependence on inline mixed label/body paragraphs.
+- Removed standalone `---` separator lines from `adv/md/final/aw-adv-all_0514.md` so this derivative no longer depends on the later conversion-stage cleanup that strips them.
+- Added refreshed `0514` style-edit audit artifacts:
+  - `adv/edits & guides/style edits/aw-adv-all_0514_div_inventory.json`
+  - `adv/edits & guides/style edits/aw-adv-all_0514_div_inventory.md`
+  - `adv/edits & guides/style edits/aw-adv-all_0514_heading_activity_audit.json`
+  - `adv/edits & guides/style edits/aw-adv-all_0514_heading_activity_audit.md`
+- The refreshed div inventory now records cross-class duplicate titles explicitly in the audit layer rather than treating them as a source-level normalization requirement.

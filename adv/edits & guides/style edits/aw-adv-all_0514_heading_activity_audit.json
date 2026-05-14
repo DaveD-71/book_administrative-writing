@@ -1,0 +1,2309 @@
+{
+  "source_markdown": "adv/md/final/aw-adv-all_0514.md",
+  "heading_scope": [
+    "H4",
+    "H5"
+  ],
+  "total_heading_instances": 331,
+  "unique_titles": 121,
+  "category_summary": [
+    {
+      "category": "practice-exercise",
+      "heading_count": 75,
+      "unique_titles": 27,
+      "types": [
+        {
+          "type": "Advanced Transfer Practice",
+          "count": 23
+        },
+        {
+          "type": "Guided Skill Practice",
+          "count": 19
+        },
+        {
+          "type": "Improve Clarity And Flow",
+          "count": 8
+        },
+        {
+          "type": "Integrated Portfolio Practice",
+          "count": 4
+        },
+        {
+          "type": "Revision Decision Practice",
+          "count": 4
+        },
+        {
+          "type": "Compare Initial Choices",
+          "count": 3
+        },
+        {
+          "type": "Workplace Transfer Practice",
+          "count": 3
+        },
+        {
+          "type": "Paragraph Revision Practice",
+          "count": 2
+        },
+        {
+          "type": "Build Reusable Language",
+          "count": 2
+        },
+        {
+          "type": "Sentence-Control Practice",
+          "count": 1
+        },
+        {
+          "type": "Paragraph Organization Practice",
+          "count": 1
+        },
+        {
+          "type": "Conditional And Hedging Structures",
+          "count": 1
+        },
+        {
+          "type": "Objective, Neutral Language",
+          "count": 1
+        },
+        {
+          "type": "Writing Clear Overviews And Key Points",
+          "count": 1
+        },
+        {
+          "type": "Grouping Information And Showing Relationships",
+          "count": 1
+        },
+        {
+          "type": "Justification Writing Practice",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "task-writing",
+      "heading_count": 67,
+      "unique_titles": 19,
+      "types": [
+        {
+          "type": "Independent Administrative Writing",
+          "count": 23
+        },
+        {
+          "type": "Realistic Administrative Response",
+          "count": 12
+        },
+        {
+          "type": "Identify The Writing Pattern",
+          "count": 7
+        },
+        {
+          "type": "Anticipate Reader Needs",
+          "count": 4
+        },
+        {
+          "type": "Adapt For Two Audiences",
+          "count": 3
+        },
+        {
+          "type": "Audience-Specific Response",
+          "count": 3
+        },
+        {
+          "type": "Classify Writing Choices",
+          "count": 2
+        },
+        {
+          "type": "Develop Supporting Detail",
+          "count": 2
+        },
+        {
+          "type": "Write A Full High-Level Email",
+          "count": 1
+        },
+        {
+          "type": "Write A Diplomatic Error Notification",
+          "count": 1
+        },
+        {
+          "type": "Write A Multi-Part Request Message",
+          "count": 1
+        },
+        {
+          "type": "Administrative Scenario Response",
+          "count": 1
+        },
+        {
+          "type": "Controlled Independent Response",
+          "count": 1
+        },
+        {
+          "type": "Risk And Response Planning",
+          "count": 1
+        },
+        {
+          "type": "2. Writing a Concise Rationale",
+          "count": 1
+        },
+        {
+          "type": "1. Writing a Summary Opening",
+          "count": 1
+        },
+        {
+          "type": "2. Writing Clear Issue Descriptions",
+          "count": 1
+        },
+        {
+          "type": "4. Writing Next Steps",
+          "count": 1
+        },
+        {
+          "type": "Administrative Writing, Advanced",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "heading_count": 49,
+      "unique_titles": 10,
+      "types": [
+        {
+          "type": "Tone And Clarity Analysis",
+          "count": 22
+        },
+        {
+          "type": "Identify Communication Issues",
+          "count": 6
+        },
+        {
+          "type": "Workplace Document Analysis",
+          "count": 5
+        },
+        {
+          "type": "Model Feature Analysis",
+          "count": 4
+        },
+        {
+          "type": "Source Data Analysis",
+          "count": 4
+        },
+        {
+          "type": "Document Structure Analysis",
+          "count": 3
+        },
+        {
+          "type": "Find And Fix Errors",
+          "count": 2
+        },
+        {
+          "type": "Guided Skill Practice",
+          "count": 1
+        },
+        {
+          "type": "Exemplar Analysis",
+          "count": 1
+        },
+        {
+          "type": "Self-Diagnosis",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "other-heading",
+      "heading_count": 29,
+      "unique_titles": 16,
+      "types": [
+        {
+          "type": "Paragraph-Level",
+          "count": 10
+        },
+        {
+          "type": "Activate Prior Knowledge",
+          "count": 2
+        },
+        {
+          "type": "Restructure Source Information",
+          "count": 2
+        },
+        {
+          "type": "Match Functions And Forms",
+          "count": 2
+        },
+        {
+          "type": "Step-By-Step Revision",
+          "count": 2
+        },
+        {
+          "type": "Adjust Register And Diplomacy",
+          "count": 1
+        },
+        {
+          "type": "Guideline Revision Discussion (12 October)",
+          "count": 1
+        },
+        {
+          "type": "Rewrite the following sentences using neutral, professional language",
+          "count": 1
+        },
+        {
+          "type": "Rewrite the following sentences for an executive audience",
+          "count": 1
+        },
+        {
+          "type": "Rewrite the following as thematic, synthesised sentences",
+          "count": 1
+        },
+        {
+          "type": "Outstanding Questions",
+          "count": 1
+        },
+        {
+          "type": "Capstone Scenario",
+          "count": 1
+        },
+        {
+          "type": "Prior Work",
+          "count": 1
+        },
+        {
+          "type": "Where to review this skill",
+          "count": 1
+        },
+        {
+          "type": "Note On The Earlier Ten-Item Version",
+          "count": 1
+        },
+        {
+          "type": "Overall Judgment",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "heading_count": 23,
+      "unique_titles": 23,
+      "types": [
+        {
+          "type": "1. Coordination (Joining Equal Ideas)",
+          "count": 1
+        },
+        {
+          "type": "2. Subordination (Showing Supporting Or Secondary Ideas)",
+          "count": 1
+        },
+        {
+          "type": "1. Structural Building Blocks",
+          "count": 1
+        },
+        {
+          "type": "1. Useful Phrases for Precise Clarification",
+          "count": 1
+        },
+        {
+          "type": "2. Structuring Multi-Part Questions",
+          "count": 1
+        },
+        {
+          "type": "1. Diplomatic Frames for Highlighting Errors",
+          "count": 1
+        },
+        {
+          "type": "2. Explaining Impact Without Assigning Blame",
+          "count": 1
+        },
+        {
+          "type": "1. Sequencing and Prioritising Requests",
+          "count": 1
+        },
+        {
+          "type": "1. Providing Background Context",
+          "count": 1
+        },
+        {
+          "type": "2. Asking Clear, Answerable Questions",
+          "count": 1
+        },
+        {
+          "type": "1. Describing Risk",
+          "count": 1
+        },
+        {
+          "type": "2. Explaining Impact and Proposing Mitigation",
+          "count": 1
+        },
+        {
+          "type": "1. Audience Signals and Layered Explanation",
+          "count": 1
+        },
+        {
+          "type": "2. Avoiding Assumed Knowledge",
+          "count": 1
+        },
+        {
+          "type": "1. Referencing Policy or Guidelines",
+          "count": 1
+        },
+        {
+          "type": "2. Building the Rationale: Reasoning and Benefits",
+          "count": 1
+        },
+        {
+          "type": "1. Simplifying Technical References",
+          "count": 1
+        },
+        {
+          "type": "2. Explaining Purpose and Impact",
+          "count": 1
+        },
+        {
+          "type": "3. Stating Required Actions Clearly",
+          "count": 1
+        },
+        {
+          "type": "1. Stating the Decision Clearly",
+          "count": 1
+        },
+        {
+          "type": "3. Stating Expected Benefits",
+          "count": 1
+        },
+        {
+          "type": "4. Structuring a Complete Justification",
+          "count": 1
+        },
+        {
+          "type": "3. Describing Actions Taken",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "heading_count": 23,
+      "unique_titles": 5,
+      "types": [
+        {
+          "type": "Structured Feedback Exchange",
+          "count": 16
+        },
+        {
+          "type": "Compare Revision Choices",
+          "count": 5
+        },
+        {
+          "type": "Procedure for Reviewing Applicant Submissions",
+          "count": 1
+        },
+        {
+          "type": "Where To Send Students For Review",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "checklist",
+      "heading_count": 22,
+      "unique_titles": 1,
+      "types": [
+        {
+          "type": "Final Revision Audit",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "category": "model-revision",
+      "heading_count": 22,
+      "unique_titles": 9,
+      "types": [
+        {
+          "type": "Model Revision Practice",
+          "count": 16
+        },
+        {
+          "type": "Cohesion Rebuild Practice",
+          "count": 1
+        },
+        {
+          "type": "Inquiry Revision Practice",
+          "count": 1
+        },
+        {
+          "type": "Message Revision Practice",
+          "count": 1
+        },
+        {
+          "type": "Rationale Revision Practice",
+          "count": 1
+        },
+        {
+          "type": "Justification Revision Practice",
+          "count": 1
+        },
+        {
+          "type": "Report Revision Practice",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "template-format",
+      "heading_count": 8,
+      "unique_titles": 3,
+      "types": [
+        {
+          "type": "Change Document Format",
+          "count": 4
+        },
+        {
+          "type": "Guided Template Practice",
+          "count": 3
+        },
+        {
+          "type": "Change Management Notice Template",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "subheading",
+      "heading_count": 6,
+      "unique_titles": 4,
+      "types": [
+        {
+          "type": "Sentence Rewriting",
+          "count": 3
+        },
+        {
+          "type": "Useful Phrases",
+          "count": 1
+        },
+        {
+          "type": "Formulating clear questions",
+          "count": 1
+        },
+        {
+          "type": "Paragraph Revision",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "category": "source-input",
+      "heading_count": 4,
+      "unique_titles": 1,
+      "types": [
+        {
+          "type": "Source-Based Preparation",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "category": "rubric-assessment",
+      "heading_count": 3,
+      "unique_titles": 3,
+      "types": [
+        {
+          "type": "Evaluate Your Draft",
+          "count": 1
+        },
+        {
+          "type": "How To Use This Rubric",
+          "count": 1
+        },
+        {
+          "type": "Analytic Rubric",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "title_inventory": [
+    {
+      "category": "practice-exercise",
+      "title_type": "Advanced Transfer Practice",
+      "title_head": "Extension Task",
+      "title": "Extension Task — Advanced Transfer Practice",
+      "count": 23,
+      "heading_levels": {
+        "H4": 23
+      },
+      "line_numbers": [
+        336,
+        633,
+        916,
+        1225,
+        1531,
+        1890,
+        2156,
+        2450,
+        2734,
+        3009,
+        3312,
+        3687,
+        4013,
+        4370,
+        4685,
+        5019,
+        5310,
+        5627,
+        6001,
+        6347,
+        6775,
+        7066,
+        7326
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Independent Administrative Writing",
+      "title_head": "Homework Writing Task",
+      "title": "Homework Writing Task — Independent Administrative Writing",
+      "count": 23,
+      "heading_levels": {
+        "H4": 23
+      },
+      "line_numbers": [
+        319,
+        620,
+        901,
+        1203,
+        1510,
+        1868,
+        2135,
+        2430,
+        2713,
+        2988,
+        3290,
+        3666,
+        3993,
+        4356,
+        4664,
+        5005,
+        5289,
+        5614,
+        5980,
+        6327,
+        6760,
+        7050,
+        7310
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Tone And Clarity Analysis",
+      "title_head": "Compare",
+      "title": "Compare — Tone And Clarity Analysis",
+      "count": 22,
+      "heading_levels": {
+        "H4": 22
+      },
+      "line_numbers": [
+        60,
+        387,
+        697,
+        968,
+        1266,
+        1582,
+        1927,
+        2214,
+        2503,
+        2776,
+        3050,
+        3379,
+        3727,
+        4067,
+        4419,
+        4751,
+        5054,
+        5362,
+        5711,
+        6042,
+        6390,
+        6855
+      ]
+    },
+    {
+      "category": "checklist",
+      "title_type": "Final Revision Audit",
+      "title_head": "Self-Editing Checklist",
+      "title": "Self-Editing Checklist — Final Revision Audit",
+      "count": 22,
+      "heading_levels": {
+        "H4": 22
+      },
+      "line_numbers": [
+        287,
+        589,
+        871,
+        1171,
+        1476,
+        1821,
+        2105,
+        2389,
+        2671,
+        2950,
+        3249,
+        3617,
+        3943,
+        4317,
+        4618,
+        4963,
+        5259,
+        5570,
+        5936,
+        6289,
+        6720,
+        7009
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "title_type": "Structured Feedback Exchange",
+      "title_head": "Guided Peer Review",
+      "title": "Guided Peer Review — Structured Feedback Exchange",
+      "count": 12,
+      "heading_levels": {
+        "H4": 12
+      },
+      "line_numbers": [
+        582,
+        864,
+        2380,
+        2662,
+        2941,
+        3240,
+        3934,
+        4308,
+        4609,
+        5249,
+        5924,
+        6277
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Model Revision Practice",
+      "title_head": "Model Rewriting",
+      "title": "Model Rewriting — Model Revision Practice",
+      "count": 12,
+      "heading_levels": {
+        "H4": 12
+      },
+      "line_numbers": [
+        1074,
+        1387,
+        1743,
+        2028,
+        2315,
+        2582,
+        2872,
+        3158,
+        4869,
+        5175,
+        5488,
+        6921
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Realistic Administrative Response",
+      "title_head": "Scenario-Based Free Write",
+      "title": "Scenario-Based Free Write — Realistic Administrative Response",
+      "count": 12,
+      "heading_levels": {
+        "H4": 12
+      },
+      "line_numbers": [
+        263,
+        559,
+        846,
+        2355,
+        2637,
+        3214,
+        3909,
+        4583,
+        4924,
+        5223,
+        5533,
+        6252
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Paragraph-Level",
+      "title_head": "Editing Workshop",
+      "title": "Editing Workshop — Paragraph-Level",
+      "count": 10,
+      "heading_levels": {
+        "H4": 10
+      },
+      "line_numbers": [
+        2403,
+        2685,
+        3263,
+        3631,
+        4331,
+        5270,
+        5581,
+        5956,
+        6303,
+        6735
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Improve Clarity And Flow",
+      "title_head": "Editing Exercise",
+      "title": "Editing Exercise — Improve Clarity And Flow",
+      "count": 8,
+      "heading_levels": {
+        "H4": 8
+      },
+      "line_numbers": [
+        300,
+        602,
+        884,
+        1184,
+        1489,
+        1834,
+        2118,
+        2964
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Identify The Writing Pattern",
+      "title_head": "Noticing Task",
+      "title": "Noticing Task — Identify The Writing Pattern",
+      "count": 7,
+      "heading_levels": {
+        "H4": 7
+      },
+      "line_numbers": [
+        76,
+        403,
+        713,
+        1301,
+        1961,
+        2248,
+        2802
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Identify Communication Issues",
+      "title_head": "Problem Identification",
+      "title": "Problem Identification — Identify Communication Issues",
+      "count": 6,
+      "heading_levels": {
+        "H4": 6
+      },
+      "line_numbers": [
+        951,
+        1249,
+        1914,
+        2758,
+        3033,
+        6025
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "title_type": "Compare Revision Choices",
+      "title_head": "Comparative Peer Review",
+      "title": "Comparative Peer Review — Compare Revision Choices",
+      "count": 5,
+      "heading_levels": {
+        "H4": 5
+      },
+      "line_numbers": [
+        3602,
+        4949,
+        5558,
+        6712,
+        7001
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Workplace Document Analysis",
+      "title_head": "Real Document Analysis",
+      "title": "Real Document Analysis — Workplace Document Analysis",
+      "count": 5,
+      "heading_levels": {
+        "H4": 5
+      },
+      "line_numbers": [
+        2192,
+        3349,
+        4394,
+        5332,
+        6371
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Model Feature Analysis",
+      "title_head": "Annotated Model",
+      "title": "Annotated Model — Model Feature Analysis",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        1616,
+        2529,
+        4094,
+        4793
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Source Data Analysis",
+      "title_head": "Data Interpretation Input",
+      "title": "Data Interpretation Input — Source Data Analysis",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        3097,
+        3754,
+        5095,
+        6440
+      ]
+    },
+    {
+      "category": "template-format",
+      "title_type": "Change Document Format",
+      "title_head": "Format Conversion",
+      "title": "Format Conversion — Change Document Format",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        3175,
+        5192,
+        5860,
+        6643
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Integrated Portfolio Practice",
+      "title_head": "Multi-Part Portfolio Task",
+      "title": "Multi-Part Portfolio Task — Integrated Portfolio Practice",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        4279,
+        6667,
+        6968,
+        7212
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "title_type": "Structured Feedback Exchange",
+      "title_head": "Peer Review",
+      "title": "Peer Review — Structured Feedback Exchange",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        1161,
+        1466,
+        1811,
+        2095
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Anticipate Reader Needs",
+      "title_head": "Prediction Task",
+      "title": "Prediction Task — Anticipate Reader Needs",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        2474,
+        3712,
+        5041,
+        6799
+      ]
+    },
+    {
+      "category": "source-input",
+      "title_type": "Source-Based Preparation",
+      "title_head": "Reading-To-Write Input",
+      "title": "Reading-To-Write Input — Source-Based Preparation",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        4446,
+        5388,
+        5685,
+        6828
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "Scenario Writing",
+      "title": "Scenario Writing — Guided Skill Practice",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        1117,
+        1760,
+        2045,
+        5505
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "Sentence Rewriting",
+      "title": "Sentence Rewriting — Guided Skill Practice",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        2284,
+        2548,
+        2847,
+        3123
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Revision Decision Practice",
+      "title_head": "Track-Change Simulation",
+      "title": "Track-Change Simulation — Revision Decision Practice",
+      "count": 4,
+      "heading_levels": {
+        "H4": 4
+      },
+      "line_numbers": [
+        4632,
+        4976,
+        7024,
+        7293
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Compare Initial Choices",
+      "title_head": "Contrastive Warm-Up",
+      "title": "Contrastive Warm-Up — Compare Initial Choices",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1555,
+        4038,
+        5664
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Workplace Transfer Practice",
+      "title_head": "Real-World Task",
+      "title": "Real-World Task — Workplace Transfer Practice",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1854,
+        3656,
+        5600
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Model Revision Practice",
+      "title_head": "Rewrite The Model Text",
+      "title": "Rewrite The Model Text — Model Revision Practice",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        211,
+        519,
+        5845
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Audience-Specific Response",
+      "title_head": "Role-Based Writing Task",
+      "title": "Role-Based Writing Task — Audience-Specific Response",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1439,
+        3576,
+        5891
+      ]
+    },
+    {
+      "category": "subheading",
+      "title_type": "",
+      "title_head": "Sentence Rewriting",
+      "title": "Sentence Rewriting",
+      "count": 3,
+      "heading_levels": {
+        "H5": 3
+      },
+      "line_numbers": [
+        3805,
+        4185,
+        4494
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Document Structure Analysis",
+      "title_head": "Structural Deconstruction",
+      "title": "Structural Deconstruction — Document Structure Analysis",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1002,
+        3406,
+        6431
+      ]
+    },
+    {
+      "category": "template-format",
+      "title_type": "Guided Template Practice",
+      "title_head": "Template-Guided Writing",
+      "title": "Template-Guided Writing — Guided Template Practice",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1092,
+        2598,
+        4556
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Adapt For Two Audiences",
+      "title_head": "Two-Audience Version Task",
+      "title": "Two-Audience Version Task — Adapt For Two Audiences",
+      "count": 3,
+      "heading_levels": {
+        "H4": 3
+      },
+      "line_numbers": [
+        1404,
+        3551,
+        4251
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "2. Paragraph-Level Transformation",
+      "title": "2. Paragraph-Level Transformation — Guided Skill Practice",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        1999,
+        6893
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Match Functions And Forms",
+      "title_head": "Classification / Matching",
+      "title": "Classification / Matching — Match Functions And Forms",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        2821,
+        3447
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Activate Prior Knowledge",
+      "title_head": "Discussion Questions",
+      "title": "Discussion Questions — Activate Prior Knowledge",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        359,
+        7090
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Find And Fix Errors",
+      "title_head": "Error Identification & Correction",
+      "title": "Error Identification & Correction — Find And Fix Errors",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        3849,
+        4845
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Develop Supporting Detail",
+      "title_head": "Expansion Task",
+      "title": "Expansion Task — Develop Supporting Detail",
+      "count": 2,
+      "heading_levels": {
+        "H4": 1,
+        "H5": 1
+      },
+      "line_numbers": [
+        2560,
+        4520
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Restructure Source Information",
+      "title_head": "Information Reorganisation",
+      "title": "Information Reorganisation — Restructure Source Information",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        2330,
+        6624
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Paragraph Revision Practice",
+      "title_head": "Paragraph-Level Transformation",
+      "title": "Paragraph-Level Transformation — Paragraph Revision Practice",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        3135,
+        5154
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Build Reusable Language",
+      "title_head": "Phrase Bank Building",
+      "title": "Phrase Bank Building — Build Reusable Language",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        3497,
+        5448
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Step-By-Step Revision",
+      "title_head": "Revision Chain",
+      "title": "Revision Chain — Step-By-Step Revision",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        4887,
+        6936
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Classify Writing Choices",
+      "title_head": "Sorting / Categorisation",
+      "title": "Sorting / Categorisation — Classify Writing Choices",
+      "count": 2,
+      "heading_levels": {
+        "H4": 2
+      },
+      "line_numbers": [
+        657,
+        4721
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Audience Signals and Layered Explanation",
+      "title": "1. Audience Signals and Layered Explanation",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4167
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "1. Cohesive Devices",
+      "title": "1. Cohesive Devices — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        729
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Coordination (Joining Equal Ideas)",
+      "title": "1. Coordination (Joining Equal Ideas)",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        102
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Describing Risk",
+      "title": "1. Describing Risk",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3782
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Diplomatic Frames for Highlighting Errors",
+      "title": "1. Diplomatic Frames for Highlighting Errors",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1683
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Guided Skill Practice",
+      "title_head": "1. Error Identification And Correction",
+      "title": "1. Error Identification And Correction — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6880
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Providing Background Context",
+      "title": "1. Providing Background Context",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3424
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Referencing Policy or Guidelines",
+      "title": "1. Referencing Policy or Guidelines",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4475
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Sequencing and Prioritising Requests",
+      "title": "1. Sequencing and Prioritising Requests",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1976
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Simplifying Technical References",
+      "title": "1. Simplifying Technical References",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5742
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "1. Softening Strategies",
+      "title": "1. Softening Strategies — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        417
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Stating the Decision Clearly",
+      "title": "1. Stating the Decision Clearly",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6071
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Structural Building Blocks",
+      "title": "1. Structural Building Blocks",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1013
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "1. Useful Phrases for Precise Clarification",
+      "title": "1. Useful Phrases for Precise Clarification",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1315
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "",
+      "title_head": "1. Writing a Summary Opening",
+      "title": "1. Writing a Summary Opening",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6478
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Asking Clear, Answerable Questions",
+      "title": "2. Asking Clear, Answerable Questions",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3474
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Avoiding Assumed Knowledge",
+      "title": "2. Avoiding Assumed Knowledge",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4195
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Building the Rationale: Reasoning and Benefits",
+      "title": "2. Building the Rationale: Reasoning and Benefits",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4504
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Explaining Impact and Proposing Mitigation",
+      "title": "2. Explaining Impact and Proposing Mitigation",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3817
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Explaining Impact Without Assigning Blame",
+      "title": "2. Explaining Impact Without Assigning Blame",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1707
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Explaining Purpose and Impact",
+      "title": "2. Explaining Purpose and Impact",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5769
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "2. Neutral Clarification Language",
+      "title": "2. Neutral Clarification Language — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        455
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "2. Reference And Continuity",
+      "title": "2. Reference And Continuity — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        755
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Structuring Multi-Part Questions",
+      "title": "2. Structuring Multi-Part Questions",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1349
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "2. Subordination (Showing Supporting Or Secondary Ideas)",
+      "title": "2. Subordination (Showing Supporting Or Secondary Ideas)",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        129
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "",
+      "title_head": "2. Writing a Concise Rationale",
+      "title": "2. Writing a Concise Rationale",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6104
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "",
+      "title_head": "2. Writing Clear Issue Descriptions",
+      "title": "2. Writing Clear Issue Descriptions",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6510
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "3. Audience-Appropriate Tone",
+      "title": "3. Audience-Appropriate Tone — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        480
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "3. Clarity Patterns For Administrative Writing",
+      "title": "3. Clarity Patterns For Administrative Writing — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        150
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "3. Describing Actions Taken",
+      "title": "3. Describing Actions Taken",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6543
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "3. Stating Expected Benefits",
+      "title": "3. Stating Expected Benefits",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6137
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "3. Stating Required Actions Clearly",
+      "title": "3. Stating Required Actions Clearly",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5810
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "3. Thematic Progression",
+      "title": "3. Thematic Progression — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        777
+      ]
+    },
+    {
+      "category": "numbered-skill-section",
+      "title_type": "",
+      "title_head": "4. Structuring a Complete Justification",
+      "title": "4. Structuring a Complete Justification",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6170
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "",
+      "title_head": "4. Writing Next Steps",
+      "title": "4. Writing Next Steps",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6573
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "",
+      "title_head": "Administrative Writing, Advanced",
+      "title": "Administrative Writing, Advanced",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7339
+      ]
+    },
+    {
+      "category": "rubric-assessment",
+      "title_type": "",
+      "title_head": "Analytic Rubric",
+      "title": "Analytic Rubric",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7383
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Capstone Scenario",
+      "title": "Capstone Scenario",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7106
+      ]
+    },
+    {
+      "category": "template-format",
+      "title_type": "",
+      "title_head": "Change Management Notice Template",
+      "title": "Change Management Notice Template",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2609
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Exemplar Analysis",
+      "title_head": "Compare",
+      "title": "Compare — Exemplar Analysis",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7101
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Controlled Independent Response",
+      "title_head": "Constrained Free Write",
+      "title": "Constrained Free Write — Controlled Independent Response",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2912
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Justification Writing Practice",
+      "title_head": "Draft A Justification For One Scenario",
+      "title": "Draft A Justification For One Scenario — Justification Writing Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6227
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Conditional And Hedging Structures",
+      "title_head": "Editing Exercise",
+      "title": "Editing Exercise — Conditional And Hedging Structures",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3957
+      ]
+    },
+    {
+      "category": "analysis-comparison",
+      "title_type": "Self-Diagnosis",
+      "title_head": "Error Identification And Correction",
+      "title": "Error Identification And Correction — Self-Diagnosis",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7152
+      ]
+    },
+    {
+      "category": "subheading",
+      "title_type": "",
+      "title_head": "Formulating clear questions",
+      "title": "Formulating clear questions",
+      "count": 1,
+      "heading_levels": {
+        "H5": 1
+      },
+      "line_numbers": [
+        1331
+      ]
+    },
+    {
+      "category": "rubric-assessment",
+      "title_type": "",
+      "title_head": "How To Use This Rubric",
+      "title": "How To Use This Rubric",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7345
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "Identifying Confusing Sentences",
+      "title": "Identifying Confusing Sentences — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        28
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Guideline Revision Discussion (12 October)",
+      "title_head": "Meeting Summary",
+      "title": "Meeting Summary — Guideline Revision Discussion (12 October)",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3060
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Note On The Earlier Ten-Item Version",
+      "title": "Note On The Earlier Ten-Item Version",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7372
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Outstanding Questions",
+      "title": "Outstanding Questions",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6414
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Overall Judgment",
+      "title": "Overall Judgment",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7396
+      ]
+    },
+    {
+      "category": "subheading",
+      "title_type": "",
+      "title_head": "Paragraph Revision",
+      "title": "Paragraph Revision",
+      "count": 1,
+      "heading_levels": {
+        "H5": 1
+      },
+      "line_numbers": [
+        4213
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "title_type": "",
+      "title_head": "Procedure for Reviewing Applicant Submissions",
+      "title": "Procedure for Reviewing Applicant Submissions",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2224
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Cohesion Rebuild Practice",
+      "title_head": "Rebuild The Disjointed Model",
+      "title": "Rebuild The Disjointed Model — Cohesion Rebuild Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        805
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Paragraph Organization Practice",
+      "title_head": "Reorganise And Rewrite",
+      "title": "Reorganise And Rewrite — Paragraph Organization Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        819
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Prior Work",
+      "title_head": "Revision Chain",
+      "title": "Revision Chain — Prior Work",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7181
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Rewrite the following as thematic, synthesised sentences",
+      "title": "Rewrite the following as thematic, synthesised sentences",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5441
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Rewrite the following sentences for an executive audience",
+      "title": "Rewrite the following sentences for an executive audience",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5147
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Rewrite the following sentences using neutral, professional language",
+      "title": "Rewrite the following sentences using neutral, professional language",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4838
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Inquiry Revision Practice",
+      "title_head": "Rewrite The Original Inquiry",
+      "title": "Rewrite The Original Inquiry — Inquiry Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3536
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Justification Revision Practice",
+      "title_head": "Rewrite The Original Justification",
+      "title": "Rewrite The Original Justification — Justification Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6212
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Message Revision Practice",
+      "title_head": "Rewrite The Original Message",
+      "title": "Rewrite The Original Message — Message Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4236
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Rationale Revision Practice",
+      "title_head": "Rewrite The Original Rationale",
+      "title": "Rewrite The Original Rationale — Rationale Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4542
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Report Revision Practice",
+      "title_head": "Rewrite The Original Report",
+      "title": "Rewrite The Original Report — Report Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        6608
+      ]
+    },
+    {
+      "category": "model-revision",
+      "title_type": "Model Revision Practice",
+      "title_head": "Rewrite The Original Text",
+      "title": "Rewrite The Original Text — Model Revision Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3863
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Risk And Response Planning",
+      "title_head": "Scenario-Based Risk Assessment",
+      "title": "Scenario-Based Risk Assessment — Risk And Response Planning",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        3878
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Administrative Scenario Response",
+      "title_head": "Scenario-Based Writing",
+      "title": "Scenario-Based Writing — Administrative Scenario Response",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2888
+      ]
+    },
+    {
+      "category": "rubric-assessment",
+      "title_type": "Evaluate Your Draft",
+      "title_head": "Self-Assessment Rubric",
+      "title": "Self-Assessment Rubric — Evaluate Your Draft",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7248
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Grouping Information And Showing Relationships",
+      "title_head": "Sentence Rewriting",
+      "title": "Sentence Rewriting — Grouping Information And Showing Relationships",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5406
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Objective, Neutral Language",
+      "title_head": "Sentence Rewriting",
+      "title": "Sentence Rewriting — Objective, Neutral Language",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        4818
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Writing Clear Overviews And Key Points",
+      "title_head": "Sentence Rewriting",
+      "title": "Sentence Rewriting — Writing Clear Overviews And Key Points",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        5119
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Guided Skill Practice",
+      "title_head": "Sequencing / Ordering Task",
+      "title": "Sequencing / Ordering Task — Guided Skill Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2266
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Write A Diplomatic Error Notification",
+      "title_head": "Task",
+      "title": "Task — Write A Diplomatic Error Notification",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1785
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Write A Full High-Level Email",
+      "title_head": "Task",
+      "title": "Task — Write A Full High-Level Email",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        1135
+      ]
+    },
+    {
+      "category": "task-writing",
+      "title_type": "Write A Multi-Part Request Message",
+      "title_head": "Task",
+      "title": "Task — Write A Multi-Part Request Message",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        2069
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "Adjust Register And Diplomacy",
+      "title_head": "Tone Transformation",
+      "title": "Tone Transformation — Adjust Register And Diplomacy",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        534
+      ]
+    },
+    {
+      "category": "subheading",
+      "title_type": "",
+      "title_head": "Useful Phrases",
+      "title": "Useful Phrases",
+      "count": 1,
+      "heading_levels": {
+        "H5": 1
+      },
+      "line_numbers": [
+        1026
+      ]
+    },
+    {
+      "category": "other-heading",
+      "title_type": "",
+      "title_head": "Where to review this skill",
+      "title": "Where to review this skill",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7256
+      ]
+    },
+    {
+      "category": "review-feedback",
+      "title_type": "",
+      "title_head": "Where To Send Students For Review",
+      "title": "Where To Send Students For Review",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        7357
+      ]
+    },
+    {
+      "category": "practice-exercise",
+      "title_type": "Sentence-Control Practice",
+      "title_head": "Write Your Own Complex Sentence",
+      "title": "Write Your Own Complex Sentence — Sentence-Control Practice",
+      "count": 1,
+      "heading_levels": {
+        "H4": 1
+      },
+      "line_numbers": [
+        226
+      ]
+    }
+  ]
+}
