@@ -1580,3 +1580,4 @@ Historical note:
   - `adv/edits & guides/style edits/aw-adv-all_0514_heading_activity_audit.json`
   - `adv/edits & guides/style edits/aw-adv-all_0514_heading_activity_audit.md`
 - The refreshed div inventory now records cross-class duplicate titles explicitly in the audit layer rather than treating them as a source-level normalization requirement.
+- Follow-up source normalization in `adv/md/final/aw-adv-all_0514.md` folded the standalone `learn-pattern` block into `learn-language` and converted the one-off `example` block into the standardized `worked-example` pattern while preserving the specific example name inside the block body.

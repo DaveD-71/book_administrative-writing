@@ -155,7 +155,7 @@
         "Insight"
       ],
       "title_counts": [
-        6,
+        7,
         2,
         20,
         6,
@@ -257,10 +257,10 @@
         "Worked Example"
       ],
       "title_counts": [
-        20
+        21
       ],
       "planned_changes": [
-        "Standardized to the single label `Worked Example`."
+        "Standardized to the single label `Worked Example`; the specific example name can be preserved in body text when needed."
       ]
     },
     {
@@ -280,20 +280,6 @@
       ]
     },
     {
-      "markdown_class": "learn-pattern",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Learn — Patterns"
-      ],
-      "title_counts": [
-        1
-      ],
-      "planned_changes": [
-        "This title duplicates `Learn — Patterns` under `learn-language`; keep the class only if it needs distinct styling or handling."
-      ]
-    },
-    {
       "markdown_class": "model",
       "emoji": "",
       "emoji_hex": [],
@@ -301,22 +287,6 @@
       "title_counts": [],
       "planned_changes": [
         "No title inventory is recorded for this class; keep it unlabeled unless you want to define a canonical model title."
-      ]
-    },
-    {
-      "markdown_class": "example",
-      "emoji": "📌",
-      "emoji_hex": [
-        "U+1F4CC"
-      ],
-      "titles": [
-        "Office Circular — Document Verification Procedure (Revised)"
-      ],
-      "title_counts": [
-        1
-      ],
-      "planned_changes": [
-        "Optional: standardize the specific title to `Example` if you want this class fully generic."
       ]
     }
   ],
@@ -330,17 +300,6 @@
       "counts_by_class": {
         "learn-language": 1,
         "model-good": 1
-      }
-    },
-    {
-      "title": "Learn — Patterns",
-      "classes": [
-        "learn-language",
-        "learn-pattern"
-      ],
-      "counts_by_class": {
-        "learn-language": 6,
-        "learn-pattern": 1
       }
     }
   ]

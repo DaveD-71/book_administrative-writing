@@ -9,22 +9,19 @@ Source markdown: `adv/md/final/aw-adv-all_0514.md`
 | `learn-process` | 🔍 | `U+1F50D` | Learn — Why This Works<br>Learn — Template<br>Learn — Scenario<br>Learn — Functions<br>Learn — Task | 23<br>2<br>5<br>2<br>5 | Consolidation has been applied; no further change is currently planned. |
 | `learn-teaching` | 🎓 | `U+1F393` | Learn — Teaching Point<br>Learn — Patterns 1 And 2 Compared<br>Learn — Discuss<br>Learn — Role Reminder<br>Learn — How To Use The Checklist | 1<br>1<br>6<br>1<br>1 | Consolidation has been applied; no further change is currently planned. |
 | `learn-principle` | 💡 | `U+1F4A1` | Learn — Key Principle<br>Learn — Writing Goal | 2<br>22 | Consolidation has been applied; no further change is currently planned. |
-| `learn-language` | 💬 | `U+1F4AC` | Learn — Patterns<br>Learn — Note On Contrast<br>Learn — Examples<br>Learn — Useful Language<br>Learn — Sentences<br>Overviews<br>Key Points<br>Grouping By Theme<br>Contrast And Agreement<br>Insight | 6<br>2<br>20<br>6<br>1<br>1<br>1<br>1<br>1<br>1 | Core consolidation has been applied in `aw-adv-all_0514`; the current titles are the active reduced set. |
+| `learn-language` | 💬 | `U+1F4AC` | Learn — Patterns<br>Learn — Note On Contrast<br>Learn — Examples<br>Learn — Useful Language<br>Learn — Sentences<br>Overviews<br>Key Points<br>Grouping By Theme<br>Contrast And Agreement<br>Insight | 7<br>2<br>20<br>6<br>1<br>1<br>1<br>1<br>1<br>1 | Core consolidation has been applied in `aw-adv-all_0514`; the current titles are the active reduced set. |
 | `placeholder` | ✏️ | `U+270F, U+FE0F` | Draft<br>Planning Notes<br>Revised Draft<br>Final Version | 101<br>3<br>22<br>1 | Standardized to four visible labels: `Draft`, `Revised Draft`, `Planning Notes`, and `Final Version`. |
 | `learn-note` | 📝 | `U+1F4DD` | Learn — Before You Write<br>Annotation<br>Learn — Note<br>Learn — Practice<br>Learn — Version A<br>Learn — Version B<br>Learn — Reflection<br>Learn — Original<br>Learn — Proposed Changes<br>Learn — Statements<br>Learn — Annotations<br>Learn — Revision Checklist | 1<br>12<br>3<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1 | Partial consolidation has been applied; if you want a smaller final set, review `Learn — Original`, `Version A`, `Version B`, `Proposed Changes`, `Statements`, and `Annotations`. |
 | `self-study` | 📖 | `U+1F4D6` | Self-Study | 2 | Keep `Self-Study` as the single standardized label. |
-| `worked-example` | 🧭 | `U+1F9ED` | Worked Example | 20 | Standardized to the single label `Worked Example`. |
+| `worked-example` | 🧭 | `U+1F9ED` | Worked Example | 21 | Standardized to the single label `Worked Example`; the specific example name can be preserved in body text when needed. |
 | `learn-transfer` | 🔁 | `U+1F501` | Learn — Transfer Reminder | 18 | Keep `Learn — Transfer Reminder` as the single standardized label. |
-| `learn-pattern` |  | `` | Learn — Patterns | 1 | This title duplicates `Learn — Patterns` under `learn-language`; keep the class only if it needs distinct styling or handling. |
 | `model` |  | `` |  |  | No title inventory is recorded for this class; keep it unlabeled unless you want to define a canonical model title. |
-| `example` | 📌 | `U+1F4CC` | Office Circular — Document Verification Procedure (Revised) | 1 | Optional: standardize the specific title to `Example` if you want this class fully generic. |
 
 ## Duplicate Titles Across Classes
 
 | Title | Classes | Counts by class |
 |---|---|---|
 | Key Points | learn-language<br>model-good | learn-language: 1<br>model-good: 1 |
-| Learn — Patterns | learn-language<br>learn-pattern | learn-language: 6<br>learn-pattern: 1 |
 
 ## Heading-Based Activity Candidates
 

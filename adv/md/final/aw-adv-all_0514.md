@@ -778,7 +778,7 @@ Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriat
 
 Good paragraphs start with known information and move forward to new information.
 
-::: learn-pattern
+::: learn-language
 **Learn — Patterns:**
 
 | Sentence | Example |
@@ -2194,8 +2194,10 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 Read the following internal procedure notice.
 
 
-::: example
-**Office Circular — Document Verification Procedure (Revised)**
+::: worked-example
+**Worked Example:**
+
+*Office Circular — Document Verification Procedure (Revised)*
 
 All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
 :::
