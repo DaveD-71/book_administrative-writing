@@ -1581,3 +1581,13 @@ Historical note:
   - `adv/edits & guides/style edits/aw-adv-all_0514_heading_activity_audit.md`
 - The refreshed div inventory now records cross-class duplicate titles explicitly in the audit layer rather than treating them as a source-level normalization requirement.
 - Follow-up source normalization in `adv/md/final/aw-adv-all_0514.md` folded the standalone `learn-pattern` block into `learn-language` and converted the one-off `example` block into the standardized `worked-example` pattern while preserving the specific example name inside the block body.
+- Locked the activity-div redesign to a six-class model:
+  - `activity-input`
+  - `activity-analysis`
+  - `activity-language-control`
+  - `activity-rewrite`
+  - `activity-edit`
+  - `activity-draft`
+- Converted the remaining activity/task/practice layer in `adv/md/final/aw-adv-all_0514.md` from mixed `H4`/`H5` headings and inline `**Practice — ...**` labels into the six activity div classes while keeping the visible task titles.
+- Refreshed the `0514` div inventory so it now reflects the converted activity layer directly and added a dedicated `Activity Div Classes` section for the six-class model.
+- Regenerated the residual `0514` heading audit after activity conversion; the remaining `H4`/`H5` headings are now primarily numbered guidance, rubric, reference-support, and course-meta headings rather than the activity layer.
