@@ -25,37 +25,47 @@ Source markdown: `adv/md/final/aw-adv-all_0514.md`
 
 ## Heading-Based Activity Candidates
 
-Keyword filter: `task`, `activity`, `exercise`, `write`
+Sources included: H4/H5 heading candidates plus inline `**Practice — ...**` labels
 
-| Title | Heading level | Count |
-|---|---|---:|
-| Noticing Task — Identify The Writing Pattern | H4: 7 | 7 |
-| Rewrite The Model Text — Model Revision Practice | H4: 3 | 3 |
-| Write Your Own Complex Sentence — Sentence-Control Practice | H4: 1 | 1 |
-| Scenario-Based Free Write — Realistic Administrative Response | H4: 12 | 12 |
-| Editing Exercise — Improve Clarity And Flow | H4: 8 | 8 |
-| Homework Writing Task — Independent Administrative Writing | H4: 23 | 23 |
-| Extension Task — Advanced Transfer Practice | H4: 23 | 23 |
-| Reorganise And Rewrite — Paragraph Organization Practice | H4: 1 | 1 |
-| Task — Write A Full High-Level Email | H4: 1 | 1 |
-| Two-Audience Version Task — Adapt For Two Audiences | H4: 3 | 3 |
-| Role-Based Writing Task — Audience-Specific Response | H4: 3 | 3 |
-| Task — Write A Diplomatic Error Notification | H4: 1 | 1 |
-| Real-World Task — Workplace Transfer Practice | H4: 3 | 3 |
-| Task — Write A Multi-Part Request Message | H4: 1 | 1 |
-| Sequencing / Ordering Task — Guided Skill Practice | H4: 1 | 1 |
-| Prediction Task — Anticipate Reader Needs | H4: 4 | 4 |
-| Expansion Task — Develop Supporting Detail | H4: 1<br>H5: 1 | 2 |
-| Constrained Free Write — Controlled Independent Response | H4: 1 | 1 |
-| Rewrite The Original Inquiry — Inquiry Revision Practice | H4: 1 | 1 |
-| Rewrite The Original Text — Model Revision Practice | H4: 1 | 1 |
-| Editing Exercise — Conditional And Hedging Structures | H4: 1 | 1 |
-| Rewrite The Original Message — Message Revision Practice | H4: 1 | 1 |
-| Multi-Part Portfolio Task — Integrated Portfolio Practice | H4: 4 | 4 |
-| Reading-To-Write Input — Source-Based Preparation | H4: 4 | 4 |
-| Rewrite The Original Rationale — Rationale Revision Practice | H4: 1 | 1 |
-| Rewrite the following sentences using neutral, professional language | H4: 1 | 1 |
-| Rewrite the following sentences for an executive audience | H4: 1 | 1 |
-| Rewrite the following as thematic, synthesised sentences | H4: 1 | 1 |
-| Rewrite The Original Justification — Justification Revision Practice | H4: 1 | 1 |
-| Rewrite The Original Report — Report Revision Practice | H4: 1 | 1 |
+| Div class | Emoji | Emoji hex | Titles | Title counts | Heading level | Planned changes |
+|---|---|---|---|---|---|---|
+| `activity-noticing` |  | `` | Noticing Task — Identify The Writing Pattern | 7 | H4 | Focused noticing / analysis task before writing. |
+| `activity-connector-practice` |  | `` | Practice — Add Coordinators<br>Practice — Add Logical Connectors | 1<br>1 | inline label<br>inline label | Connector insertion practice. |
+| `activity-identification-practice` |  | `` | Practice — Identify the Subordination Function<br>Practice — Identify The Function | 1<br>1 | inline label<br>inline label | Identification practice. |
+| `activity-pattern-application` |  | `` | Practice — Apply the Patterns | 1 | inline label | Pattern application practice. |
+| `activity-model-rewrite` |  | `` | Rewrite The Model Text — Model Revision Practice | 3 | H4 | Model-based rewrite practice. |
+| `activity-controlled-write` |  | `` | Write Your Own Complex Sentence — Sentence-Control Practice | 1 | H4 | Controlled writing practice at sentence level. |
+| `activity-free-draft` |  | `` | Scenario-Based Free Write — Realistic Administrative Response | 12 | H4 | Open drafting task from a scenario prompt. |
+| `activity-editing-practice` |  | `` | Editing Exercise — Improve Clarity And Flow<br>Editing Exercise — Conditional And Hedging Structures | 8<br>1 | H4<br>H4 | Controlled editing practice focused on revision decisions. |
+| `activity-homework-draft` |  | `` | Homework Writing Task — Independent Administrative Writing | 23 | H4 | Independent homework drafting task. |
+| `activity-transfer-extension` |  | `` | Extension Task — Advanced Transfer Practice | 23 | H4 | Extension / transfer task beyond the core lesson target. |
+| `activity-function-matching` |  | `` | Practice — Match the Function | 1 | inline label | Function-matching practice. |
+| `activity-question-rewrite` |  | `` | Practice — Rewrite Direct Questions | 1 | inline label | Question-rewrite practice. |
+| `activity-version-choice` |  | `` | Practice — Choose the Appropriate Version | 1 | inline label | Version-selection practice. |
+| `activity-organisation-practice` |  | `` | Practice — Sequence for Logical Flow<br>Sequencing / Ordering Task — Guided Skill Practice | 1<br>1 | inline label<br>H4 | Organisation / sequencing practice. |
+| `activity-revision-practice` |  | `` | Practice — Replace Repetition | 1 | inline label | Revision practice focused on reducing repetition. |
+| `activity-organisation-rewrite` |  | `` | Reorganise And Rewrite — Paragraph Organization Practice | 1 | H4 | Organisation rewrite task focused on restructuring. |
+| `activity-sentence-rewrite` |  | `` | Practice — Sentence Rewriting<br>Practice — Sentence Rewriting Practice<br>Rewrite the following sentences using neutral, professional language<br>Rewrite the following sentences for an executive audience<br>Rewrite the following as thematic, synthesised sentences | 1<br>3<br>1<br>1<br>1 | inline label<br>inline label<br>H4<br>H4<br>H4 | Sentence-level rewrite practice. |
+| `activity-guided-draft` |  | `` | Task — Write A Full High-Level Email<br>Task — Write A Diplomatic Error Notification<br>Task — Write A Multi-Part Request Message | 1<br>1<br>1 | H4<br>H4<br>H4 | Guided drafting task with an explicit output target. |
+| `activity-language-bank` |  | `` | Practice — Phrase Bank Building | 1 | inline label | Language-bank building practice. |
+| `activity-audience-adaptation` |  | `` | Two-Audience Version Task — Adapt For Two Audiences | 3 | H4 | Audience-adaptation drafting task. |
+| `activity-role-based-draft` |  | `` | Role-Based Writing Task — Audience-Specific Response | 3 | H4 | Role-based drafting task with situational framing. |
+| `activity-error-correction` |  | `` | Practice — Error Identification & Correction | 1 | inline label | Error-identification and correction practice. |
+| `activity-workplace-transfer` |  | `` | Real-World Task — Workplace Transfer Practice | 3 | H4 | Workplace-transfer writing task. |
+| `activity-planning-prediction` |  | `` | Prediction Task — Anticipate Reader Needs | 4 | H4 | Planning task that anticipates reader needs or likely issues. |
+| `activity-expansion-practice` |  | `` | Expansion Task — Develop Supporting Detail | 2 | H4<br>H5 | Expansion practice that develops detail from a base idea. |
+| `activity-constrained-draft` |  | `` | Constrained Free Write — Controlled Independent Response | 1 | H4 | Partly constrained drafting task with controlled freedom. |
+| `activity-rewrite-original` |  | `` | Rewrite The Original Inquiry — Inquiry Revision Practice<br>Rewrite The Original Text — Model Revision Practice<br>Rewrite The Original Message — Message Revision Practice<br>Rewrite The Original Rationale — Rationale Revision Practice<br>Rewrite The Original Justification — Justification Revision Practice<br>Rewrite The Original Report — Report Revision Practice | 1<br>1<br>1<br>1<br>1<br>1 | H4<br>H4<br>H4<br>H4<br>H4<br>H4 | Rewrite task that revises an original source version. |
+| `activity-portfolio-task` |  | `` | Multi-Part Portfolio Task — Integrated Portfolio Practice | 4 | H4 | Integrated multi-part production task. |
+| `activity-source-input` |  | `` | Reading-To-Write Input — Source-Based Preparation | 4 | H4 | Source-based reading input used to prepare a later writing task. |
+| `activity-simplification-practice` |  | `` | Practice — Simplify the Statement | 1 | inline label | Simplification practice. |
+| `activity-purpose-statement` |  | `` | Practice — Add a Purpose Statement | 1 | inline label | Purpose-statement writing practice. |
+| `activity-action-rewrite` |  | `` | Practice — Rewrite to Include the Required Action | 1 | inline label | Rewrite practice that adds the required action. |
+| `activity-decision-rewrite` |  | `` | Practice — Rewrite the Decision Statement | 1 | inline label | Decision-statement rewrite practice. |
+| `activity-rationale-strengthening` |  | `` | Practice — Strengthen the Rationale | 1 | inline label | Rationale-strengthening practice. |
+| `activity-benefit-statement` |  | `` | Practice — Add a Benefit Statement | 1 | inline label | Benefit-statement writing practice. |
+| `activity-justification-organisation` |  | `` | Practice — Organise the Justification | 1 | inline label | Justification-organisation practice. |
+| `activity-opening-sentence` |  | `` | Practice — Write the Opening Sentence | 1 | inline label | Opening-sentence drafting practice. |
+| `activity-clarity-neutrality-rewrite` |  | `` | Practice — Rewrite for Clarity and Neutrality | 1 | inline label | Clarity and neutrality rewrite practice. |
+| `activity-action-clarification` |  | `` | Practice — Clarify the Action | 1 | inline label | Action-clarification practice. |
+| `activity-next-step-statement` |  | `` | Practice — Add a Next-Step Statement | 1 | inline label | Next-step statement writing practice. |
