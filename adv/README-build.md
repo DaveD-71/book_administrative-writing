@@ -35,7 +35,6 @@ pandoc adv/md/final/aw-adv-all_0514.md \
   --to docx \
   --reference-doc adv/md/final/aw-adv-styleref.docx \
   --lua-filter ../textmaker/scripts/style_bridge.lua \
-  --toc --toc-depth=2 \
   -o adv/docx/aw-adv-all.docx
 ```
 
@@ -47,7 +46,6 @@ pandoc adv/md/final/aw-adv-all_0514.md ^
   --to docx ^
   --reference-doc adv/md/final/aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
-  --toc --toc-depth=2 ^
   -o adv/docx/aw-adv-all.docx
 ```
 
@@ -58,7 +56,6 @@ pandoc adv/md/final/aw-adv-all_0514.md ^
 ```bash
 python ../textmaker/scripts/postprocess_docx.py \
   adv/docx/aw-adv-all.docx \
-  --toc \
   --reference-doc adv/md/final/aw-adv-styleref.docx
 ```
 
@@ -87,7 +84,6 @@ When you want emoji labels, Div label character styles, and unit title tables:
 ```cmd
 python ..\textmaker\scripts\postprocess_docx.py ^
   adv\docx\aw-adv-all.docx ^
-  --toc ^
   --reference-doc adv\md\final\aw-adv-styleref.docx ^
   --apply-semantic-labels
 ```
