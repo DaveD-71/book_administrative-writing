@@ -1,0 +1,297 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-size: 13px; color: var(--color-text-primary); background: transparent; }
+
+  h2.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }
+
+  .controls {
+    display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; align-items: center;
+  }
+  .controls input {
+    flex: 1; min-width: 160px; font-size: 13px;
+    padding: 6px 10px; border-radius: var(--border-radius-md);
+    border: 0.5px solid var(--color-border-secondary);
+    background: var(--color-background-primary);
+    color: var(--color-text-primary);
+  }
+  .controls select {
+    font-size: 13px; padding: 6px 10px; border-radius: var(--border-radius-md);
+    border: 0.5px solid var(--color-border-secondary);
+    background: var(--color-background-primary);
+    color: var(--color-text-primary);
+  }
+  .count { font-size: 12px; color: var(--color-text-secondary); margin-left: auto; white-space: nowrap; }
+
+  table {
+    width: 100%; border-collapse: collapse; font-size: 12px; table-layout: fixed;
+  }
+  colgroup col:nth-child(1) { width: 18%; }
+  colgroup col:nth-child(2) { width: 10%; }
+  colgroup col:nth-child(3) { width: 10%; }
+  colgroup col:nth-child(4) { width: 10%; }
+  colgroup col:nth-child(5) { width: 10%; }
+  colgroup col:nth-child(6) { width: 10%; }
+  colgroup col:nth-child(7) { width: 32%; }
+
+  thead tr th {
+    background: var(--color-background-secondary);
+    color: var(--color-text-secondary);
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 7px 8px;
+    text-align: left;
+    border-bottom: 1px solid var(--color-border-secondary);
+    position: sticky; top: 0; z-index: 2;
+  }
+
+  tbody tr { border-bottom: 0.5px solid var(--color-border-tertiary); }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover td { background: var(--color-background-secondary); }
+
+  td {
+    padding: 6px 8px;
+    vertical-align: top;
+    word-break: break-word;
+    line-height: 1.5;
+    color: var(--color-text-primary);
+    background: var(--color-background-primary);
+  }
+
+  .style-name {
+    font-weight: 500;
+    font-size: 12px;
+    color: var(--color-text-primary);
+  }
+  .cat-badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 2px 7px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .cat-heading   { background: #E6F1FB; color: #0C447C; }
+  .cat-body      { background: #EAF3DE; color: #27500A; }
+  .cat-callout   { background: #EEEDFE; color: #3C3489; }
+  .cat-model     { background: #F5F5F5; color: #444441; }
+  .cat-list      { background: #FAEEDA; color: #633806; }
+  .cat-char      { background: #FBEAF0; color: #72243E; }
+  .cat-response  { background: #E1F5EE; color: #085041; }
+  .cat-table     { background: #FAECE7; color: #712B13; }
+  .cat-special   { background: #F1EFE8; color: #444441; }
+
+  .swatch {
+    display: inline-block; width: 12px; height: 12px;
+    border-radius: 3px; border: 0.5px solid var(--color-border-secondary);
+    vertical-align: middle; margin-right: 4px;
+  }
+  .notes-text { color: var(--color-text-secondary); font-size: 11.5px; line-height: 1.5; }
+
+  .group-header td {
+    background: var(--color-background-secondary) !important;
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-secondary);
+    padding: 5px 8px;
+    border-bottom: 0.5px solid var(--color-border-secondary);
+  }
+
+  .hidden { display: none; }
+
+  .scroll-wrap { max-height: 580px; overflow-y: auto; border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); }
+</style>
+
+<h2 class="sr-only">Administrative Writing Advanced — complete typographic style specification table</h2>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search styles…" oninput="filterTable()">
+  <select id="catFilter" onchange="filterTable()">
+    <option value="">All categories</option>
+    <option value="Heading">Heading</option>
+    <option value="Body">Body</option>
+    <option value="Call-out">Call-out</option>
+    <option value="Model Text">Model Text</option>
+    <option value="List">List</option>
+    <option value="Character">Character</option>
+    <option value="Response Box">Response Box</option>
+    <option value="Table">Table</option>
+    <option value="Special">Special</option>
+  </select>
+  <span class="count" id="count"></span>
+</div>
+
+<div class="scroll-wrap">
+<table id="styleTable">
+<colgroup>
+  <col><col><col><col><col><col><col>
+</colgroup>
+<thead>
+  <tr>
+    <th>Style name</th>
+    <th>Category</th>
+    <th>Font</th>
+    <th>Size</th>
+    <th>Weight</th>
+    <th>Colour</th>
+    <th>Key visual / notes</th>
+  </tr>
+</thead>
+<tbody id="tableBody"></tbody>
+</table>
+</div>
+
+<script>
+const BLUE = '#2E5F8A';
+const GREY = '#888780';
+const BLACK = '#2C2C2A';
+const WHITE = '#FFFFFF';
+
+const styles = [
+  { group: 'HEADING STYLES' },
+  { name:'H-BOOK', cat:'Heading', font:'Calibri Bold', size:'28pt', weight:'Bold', colour:BLUE, colourLabel:'Slate blue', notes:'Cover / title page only. Left aligned.' },
+  { name:'H-MODULE', cat:'Heading', font:'Calibri Bold', size:'14pt', weight:'Bold', colour:WHITE, colourLabel:'White on blue band', notes:'Full-width slate-blue filled band. All caps. Spacing: before 18pt, after 0.' },
+  { name:'H-MOD-TARGET', cat:'Heading', font:'Calibri Italic', size:'9pt', weight:'Italic', colour:'#444444', colourLabel:'Dark grey', notes:'Homework target line after module heading. Light blue tint bg (#E8F0F8). Before 4pt, after 8pt.' },
+  { name:'H-UNIT', cat:'Heading', font:'Calibri Bold', size:'13pt', weight:'Bold', colour:BLUE, colourLabel:'Slate blue', notes:'Blue text + 1.5pt bottom rule in slate blue. Spacing: before 18pt, after 4pt.' },
+  { name:'H-SECTION', cat:'Heading', font:'Calibri Bold Small Caps', size:'11pt', weight:'Bold', colour:BLACK, colourLabel:'Black', notes:'A–H instructional sections. Small caps. Before 14pt, after 3pt. No rule.' },
+  { name:'H-ACTIVITY', cat:'Heading', font:'Calibri SemiBold', size:'10.5pt', weight:'SemiBold', colour:BLUE, colourLabel:'Slate blue', notes:'Activity titles (most frequent heading). Before 10pt, after 2pt. No rule, no caps.' },
+  { name:'H-PATTERN', cat:'Heading', font:'Calibri Bold Italic', size:'10pt', weight:'Bold Italic', colour:BLACK, colourLabel:'Black', notes:'H5 sub-patterns in Language Focus. Before 8pt, after 2pt.' },
+
+  { group: 'BODY TEXT STYLES' },
+  { name:'BODY', cat:'Body', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'All running prose. 13.5pt leading. Justified. 0 first-line indent. Before 0, after 6pt.' },
+  { name:'BODY-INTRO', cat:'Body', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'First paragraph after module/unit heading. Same as BODY — no additional spacing needed.' },
+  { name:'BODY-LABEL', cat:'Character', font:'Palatino Linotype Bold', size:'(matching)', weight:'Bold', colour:BLACK, colourLabel:'Black', notes:'Inline bold labels: Original Version, Version A, etc. Character style only, not paragraph.' },
+
+  { group: 'CALL-OUT BOX STYLES' },
+  { name:'BOX-WHY', cat:'Call-out', font:'Palatino Italic', size:'10pt', weight:'Italic', colour:BLUE, colourLabel:'Slate blue label', notes:'After every B1 activity. Left indent 6mm, right 6mm. 3pt solid blue left border. Bg #EEF4FB. Bold non-italic label "Why this works:" runs into italic body. Before 8pt, after 8pt.' },
+  { name:'BOX-TEACH', cat:'Call-out', font:'Palatino Italic', size:'10pt', weight:'Italic', colour:BLUE, colourLabel:'Slate blue label', notes:'Teaching point / Key principle / Writing goal / Transfer reminder / Role reminder / Rubric note. Same visual as BOX-WHY. Label text varies.' },
+  { name:'BOX-NOTE', cat:'Call-out', font:'Palatino Italic', size:'10pt', weight:'Italic', colour:BLUE, colourLabel:'Slate blue label', notes:'"Note on…" asides. Identical to BOX-TEACH.' },
+  { name:'BOX-WARN', cat:'Call-out', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Process cautions / "Before you write" prompts. 2pt blue left border (thinner). Bg #F5F5F5 (neutral grey, not blue). Not italic. Before 6pt, after 6pt.' },
+
+  { group: 'MODEL TEXT STYLES' },
+  { name:'MT-LABEL', cat:'Model Text', font:'Palatino Linotype Bold', size:'10.5pt', weight:'Bold', colour:'#333333', colourLabel:'Dark grey', notes:'Label before model block: Original Version, Improved Version, etc. Before 10pt, after 0. Em-dash qualifier in regular weight on same line.' },
+  { name:'MT-BLOCK', cat:'Model Text', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Email / memo / notice model texts. Indent L+R 8mm. Bg #F7F7F7. All-sides border 0.5pt mid-grey #AAAAAA. Padding 6pt all sides. Before 0, after 8pt.' },
+  { name:'MT-STRUCTURED', cat:'Model Text', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Model texts with internal section headings (Overview:, Key Points:, etc.). Same container as MT-BLOCK. Internal headings: Bold, 10pt, run-in inline.' },
+  { name:'MT-BULLET', cat:'Model Text', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLUE, colourLabel:'Blue en-dash', notes:'Bullets inside model text block. 4mm additional indent + 4mm hanging. En-dash bullet in slate blue. 12pt line spacing.' },
+
+  { group: 'LIST STYLES' },
+  { name:'LIST-LEARN', cat:'List', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLUE, colourLabel:'Blue filled bullet', notes:'Learning objectives under Unit Overview. Small filled circle in slate blue. Indent 8mm, hang 4mm. After items 2pt, after final 6pt.' },
+  { name:'LIST-CHECK', cat:'List', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLUE, colourLabel:'Blue checkbox', notes:'Self-editing checklists ([ ] items). Checkbox char ☐ in slate blue 11pt. Indent 8mm, hang 6mm. After items 2pt.' },
+  { name:'LIST-BULLET', cat:'List', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLACK, colourLabel:'Black en-dash', notes:'General instructional bullets. En-dash bullet, black. Indent 8mm, hang 4mm. After items 2pt, after final 6pt.' },
+  { name:'LIST-NUM', cat:'List', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Numbered instructions, practice items, scenarios, extension options. 1. 2. 3. format. Indent 8mm, hang 6mm. After items 3pt, after final 6pt.' },
+  { name:'LIST-NUM-NESTED', cat:'List', font:'Palatino Linotype', size:'10.5pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Sub-items within numbered lists. a. b. c. or A. B. C. format. Left indent 14mm from margin.' },
+  { name:'LIST-ALPHA', cat:'List', font:'Palatino Italic', size:'10.5pt', weight:'Italic', colour:BLACK, colourLabel:'Black', notes:'Lettered sentences for sequencing/ordering tasks (A. B. C. D.). Items in italic as sample sentences.' },
+  { name:'LIST-PHRASE', cat:'List', font:'Palatino Italic', size:'10.5pt', weight:'Italic', colour:BLUE, colourLabel:'Blue en-dash', notes:'Useful expressions / phrase banks in Language Focus. Phrase text italic. Group heading (e.g. Introducing clarification) in Bold above sub-list, before 6pt, after 2pt. 12pt line spacing (slightly tighter).' },
+
+  { group: 'CHARACTER STYLES (INLINE)' },
+  { name:'CHAR-SAMPLE', cat:'Character', font:'Palatino Italic', size:'(matching)', weight:'Italic', colour:BLACK, colourLabel:'Black', notes:'Inline sample sentences throughout. Most frequent character style in the book. No colour change.' },
+  { name:'CHAR-BOLD', cat:'Character', font:'Palatino Bold', size:'(matching)', weight:'Bold', colour:BLACK, colourLabel:'Black', notes:'Key terms, required elements in task instructions, pattern labels.' },
+  { name:'CHAR-BOLD-ITALIC', cat:'Character', font:'Palatino Bold Italic', size:'(matching)', weight:'Bold Italic', colour:BLACK, colourLabel:'Black', notes:'Rare — terms needing both key-term weight and sample-sentence framing.' },
+  { name:'CHAR-CODE', cat:'Character', font:'Calibri', size:'9.5pt', weight:'Regular', colour:BLUE, colourLabel:'Slate blue', notes:'Activity codes (B1), (C3); first-use star ★. Pulled from body text visually without size increase.' },
+  { name:'CHAR-BLANK', cat:'Character', font:'Palatino Linotype', size:'(matching)', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Fill-in blanks (___) in gap-fill exercises. Underlined. Use tab with underline leader or underscored string.' },
+
+  { group: 'RESPONSE BOX STYLES' },
+  { name:'BOX-RESPONSE-SM', cat:'Response Box', font:'—', size:'—', weight:'—', colour:BLACK, colourLabel:'Grey border', notes:'PH-1 placeholder. ~3cm height. Grey 0.5pt border, white fill. Brief notes / planning jottings. Bold label above box.' },
+  { name:'BOX-RESPONSE-MD', cat:'Response Box', font:'—', size:'—', weight:'—', colour:BLACK, colourLabel:'Grey border', notes:'PH-2 placeholder. ~5cm height. Short rewrites ~100–150 words.' },
+  { name:'BOX-RESPONSE-LG', cat:'Response Box', font:'—', size:'—', weight:'—', colour:BLACK, colourLabel:'Grey border', notes:'PH-3 placeholder. ~8cm height. Full emails / summaries ~200 words.' },
+  { name:'BOX-RESPONSE-XL', cat:'Response Box', font:'—', size:'—', weight:'—', colour:BLACK, colourLabel:'Grey border', notes:'PH-4 placeholder. ~11cm height. Freer writing / homework ~250–350 words.' },
+
+  { group: 'TABLE STYLES' },
+  { name:'TBL-DATA', cat:'Table', font:'Palatino 10pt / Calibri header 10pt', size:'10pt', weight:'Regular / Bold header', colour:BLUE, colourLabel:'Blue header', notes:'B7 data input tables (status, figures, attendance). Header: blue fill, white bold text. Body: alternating white/#F5F5F5. Cell padding 3pt top/bottom, 4pt left/right. 0.5pt light-grey borders.' },
+  { name:'TBL-PHRASE', cat:'Table', font:'Palatino Italic', size:'10pt', weight:'Italic body', colour:BLUE, colourLabel:'Blue cell headers', notes:'2×2 phrase-bank sorting tables (C8). Equal columns. Blue header per cell, white text. Phrase text italic inside cells.' },
+  { name:'TBL-COMPARE', cat:'Table', font:'Palatino Linotype', size:'9.5pt', weight:'Regular', colour:BLUE, colourLabel:'Blue header', notes:'Multi-column comparison tables (peer review criteria, audience grids). 3–6 columns. Same visual as TBL-DATA but 9.5pt body to accommodate width.' },
+  { name:'TBL-CHECKLIST', cat:'Table', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLUE, colourLabel:'Blue header', notes:'Track-change decision table (G3). 3 cols: Change / Accept-Reject / Reason. Minimum 18pt row height for writing. Reason column widest (~55%).' },
+  { name:'TBL-RUBRIC', cat:'Table', font:'Palatino Linotype', size:'9pt', weight:'Regular', colour:BLUE, colourLabel:'Blue header', notes:'Capstone self-assessment rubric (Unit 23 F3). 6 columns at 9pt. Rating and Notes cols bg #FAFAFA (write-here signal). Col widths: Criterion 18%, Strong 18%, Dev 18%, Needs work 18%, Rating 10%, Notes 18%.' },
+  { name:'TBL-REVIEW', cat:'Table', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLUE, colourLabel:'Blue header', notes:'Comparative peer review tables (F2). 4 cols. Tall rows for brief written responses. Same visual as TBL-DATA.' },
+
+  { group: 'SEPARATOR & SPACING ELEMENTS' },
+  { name:'SEP-RULE', cat:'Special', font:'—', size:'—', weight:'—', colour:GREY, colourLabel:'Medium grey', notes:'Horizontal rule (--- in Markdown). 0.5pt bottom border on empty paragraph. #AAAAAA. Before 10pt, after 10pt.' },
+
+  { group: 'SPECIAL STYLES' },
+  { name:'SELF-STUDY', cat:'Special', font:'Palatino Italic', size:'10pt', weight:'Italic', colour:'#555555', colourLabel:'Grey', notes:'Self-study instruction lines. Grey italic. Indent 8mm left. Before 4pt, after 4pt.' },
+  { name:'WORKED-EXAMPLE', cat:'Special', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Before/after contrast blocks (Worked example:, Mini contrast:). Indent L+R 8mm. Bg #FFFBF0 cream tint. Grey 0.5pt border. Bold label runs into content. Before/after sub-labels in italic.' },
+  { name:'INLINE-POLICY', cat:'Special', font:'Palatino Linotype', size:'10pt', weight:'Regular', colour:BLACK, colourLabel:'Black', notes:'Authentic policy / circular extracts (B6 input). Indent L+R 8mm. White bg (signals authenticity). 1pt grey border all sides. SEP-RULE separators above and below.' },
+  { name:'INLINE-NOTES', cat:'Special', font:'Palatino Italic', size:'10pt', weight:'Italic', colour:BLACK, colourLabel:'Black', notes:'Informal raw notes used as input material (D7 tasks). Same border as INLINE-POLICY. Bg #FAFAFA light grey (less formal than INLINE-POLICY white).' },
+];
+
+function catClass(cat) {
+  const map = {
+    'Heading':'cat-heading','Body':'cat-body','Call-out':'cat-callout',
+    'Model Text':'cat-model','List':'cat-list','Character':'cat-char',
+    'Response Box':'cat-response','Table':'cat-table','Special':'cat-special'
+  };
+  return map[cat] || 'cat-special';
+}
+
+function swatchHtml(colour) {
+  if (!colour || colour === BLACK) return '';
+  return `<span class="swatch" style="background:${colour}"></span>`;
+}
+
+function renderTable(data) {
+  const tbody = document.getElementById('tableBody');
+  tbody.innerHTML = '';
+  let count = 0;
+  let lastGroup = null;
+
+  data.forEach(row => {
+    if (row.group) {
+      lastGroup = row.group;
+      return;
+    }
+    if (lastGroup) {
+      const gr = document.createElement('tr');
+      gr.className = 'group-header';
+      gr.innerHTML = `<td colspan="7">${lastGroup}</td>`;
+      tbody.appendChild(gr);
+      lastGroup = null;
+    }
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td><span class="style-name">${row.name}</span></td>
+      <td><span class="cat-badge ${catClass(row.cat)}">${row.cat}</span></td>
+      <td>${row.font}</td>
+      <td>${row.size}</td>
+      <td>${row.weight}</td>
+      <td>${swatchHtml(row.colour)}${row.colourLabel}</td>
+      <td><span class="notes-text">${row.notes}</span></td>
+    `;
+    tbody.appendChild(tr);
+    count++;
+  });
+  document.getElementById('count').textContent = `${count} style${count !== 1 ? 's' : ''}`;
+}
+
+function filterTable() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const cat = document.getElementById('catFilter').value;
+  const filtered = [];
+  let currentGroup = null;
+  let groupPushed = false;
+
+  styles.forEach(row => {
+    if (row.group) {
+      currentGroup = row;
+      groupPushed = false;
+      return;
+    }
+    const matchQ = !q || row.name.toLowerCase().includes(q) || row.notes.toLowerCase().includes(q) || row.cat.toLowerCase().includes(q) || row.font.toLowerCase().includes(q);
+    const matchCat = !cat || row.cat === cat;
+    if (matchQ && matchCat) {
+      if (currentGroup && !groupPushed) {
+        filtered.push(currentGroup);
+        groupPushed = true;
+      }
+      filtered.push(row);
+    }
+  });
+  renderTable(filtered);
+}
+
+renderTable(styles.filter(r => !r.group ? true : true));
+filterTable();
+</script>

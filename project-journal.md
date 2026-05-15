@@ -1570,6 +1570,8 @@ Historical note:
 
 ## 2026-05-14
 
+- Flattened the six `activity-*` visible title families in `adv/md/final/aw-adv-all_0514.md` to one label per class (`Source Input`, `Analysis Task`, `Language Practice`, `Rewrite Task`, `Editing Task`, `Writing Task`) and preserved each former task-specific title in a new `Focus:` line inside the block so instructional meaning is retained while the title system stays compact.
+- Refreshed the `0514` div inventory JSON/Markdown so the activity rows now show the reduced one-title-per-class state and record that the detailed task meaning now lives in the `Focus:` lines rather than in the visible div titles.
 - Created `adv/md/final/aw-adv-all_0514.md` as a working derivative of `aw-adv-all_0510.md` for div-title and activity-heading normalization work.
 - Consolidated the Advanced semantic Div title system in the `0514` derivative, reducing the active title set and standardizing repeated labels such as `Original Text`, `Revised Text`, `Worked Example`, and the core `Learn — ...` families.
 - Restructured semantic Div blocks in the `0514` derivative so div titles sit on their own line and body content starts below them, which makes the source safer for DOCX conversion and reduces dependence on inline mixed label/body paragraphs.
@@ -1591,3 +1593,4 @@ Historical note:
 - Converted the remaining activity/task/practice layer in `adv/md/final/aw-adv-all_0514.md` from mixed `H4`/`H5` headings and inline `**Practice — ...**` labels into the six activity div classes while keeping the visible task titles.
 - Refreshed the `0514` div inventory so it now reflects the converted activity layer directly and added a dedicated `Activity Div Classes` section for the six-class model.
 - Regenerated the residual `0514` heading audit after activity conversion; the remaining `H4`/`H5` headings are now primarily numbered guidance, rubric, reference-support, and course-meta headings rather than the activity layer.
+- Restored a small set of `0514` div-title exceptions after cross-checking against `aw-adv-all_0510.md`: `Learn — Key Structures`, `Learn — Recommended Structure`, `Original Text — Weak Response`, `Revised Text — Executive-Level Summary`, and `Revised Text — Strong Response` were brought back because the flattened replacements had dropped instructional meaning that was not explicit enough in the surrounding labels.

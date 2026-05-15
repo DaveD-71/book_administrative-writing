@@ -10,20 +10,37 @@
   ],
   "categories": [
     {
-      "markdown_class": "model-bad",
-      "emoji": "⚠️",
+      "markdown_class": "model",
+      "emoji": "📄",
       "emoji_hex": [
-        "U+26A0",
-        "U+FE0F"
+        "U+1F4C4"
       ],
       "titles": [
-        "Original Text"
+        "Model Text"
       ],
       "title_counts": [
-        24
+        59
       ],
       "planned_changes": [
-        "Standardized to the single label `Original Text`."
+        "Canonical label `Model Text` has been applied so neutral model blocks can now receive explicit label styling and emoji during post-processing."
+      ]
+    },
+    {
+      "markdown_class": "model-bad",
+      "emoji": "❌",
+      "emoji_hex": [
+        "U+274C"
+      ],
+      "titles": [
+        "Original Text",
+        "Original Text — Weak Response"
+      ],
+      "title_counts": [
+        23,
+        1
+      ],
+      "planned_changes": [
+        "Mostly standardized to `Original Text`, but `Original Text — Weak Response` has been restored where the evaluative framing still carries instructional meaning."
       ]
     },
     {
@@ -34,48 +51,30 @@
       ],
       "titles": [
         "Revised Text",
-        "Overall Assessment",
-        "Strengths",
-        "Areas For Improvement",
-        "Recommendation",
-        "Identify Improvements In",
-        "Overview",
-        "Key Points",
-        "Implications",
-        "Summary",
-        "Issues Identified",
-        "Actions Taken"
+        "Revised Text — Executive-Level Summary",
+        "Revised Text — Strong Response"
       ],
       "title_counts": [
-        23,
-        1,
-        1,
-        1,
-        2,
-        3,
-        1,
-        1,
-        1,
-        1,
+        21,
         1,
         1
       ],
       "planned_changes": [
-        "Primary model title is standardized to `Revised Text`; subordinate section labels remain in use inside some `model-good` blocks."
+        "`Revised Text` remains the main standardized label, but `Revised Text — Executive-Level Summary` and `Revised Text — Strong Response` have been restored where the title itself still carries teaching meaning. Subordinate section labels remain in use inside some `model-good` blocks."
       ]
     },
     {
       "markdown_class": "learn-process",
-      "emoji": "🔍",
+      "emoji": "🧭",
       "emoji_hex": [
-        "U+1F50D"
+        "U+1F9ED"
       ],
       "titles": [
-        "Learn — Why This Works",
-        "Learn — Template",
-        "Learn — Scenario",
-        "Learn — Functions",
-        "Learn — Task"
+        "Learn — Why This Works:",
+        "Learn — Template:",
+        "Learn — Scenario:",
+        "Learn — Functions:",
+        "Learn — Task:"
       ],
       "title_counts": [
         23,
@@ -89,27 +88,31 @@
       ]
     },
     {
-      "markdown_class": "learn-teaching",
-      "emoji": "🎓",
+      "markdown_class": "learn-language",
+      "emoji": "💬",
       "emoji_hex": [
-        "U+1F393"
+        "U+1F4AC"
       ],
       "titles": [
-        "Learn — Teaching Point",
-        "Learn — Patterns 1 And 2 Compared",
-        "Learn — Discuss",
-        "Learn — Role Reminder",
-        "Learn — How To Use The Checklist"
+        "Learn — Patterns:",
+        "Learn — Note On Contrast:",
+        "Learn — Key Structures:",
+        "Learn — Recommended Structure:",
+        "Learn — Useful Language:",
+        "Learn — Sentences:",
+        "Learn — Examples:"
       ],
       "title_counts": [
+        7,
+        2,
         1,
         1,
         6,
         1,
-        1
+        18
       ],
       "planned_changes": [
-        "Consolidation has been applied; no further change is currently planned."
+        "Core consolidation has been applied in `aw-adv-all_0514`, but `Learn — Key Structures` and `Learn — Recommended Structure` have been restored where `Learn — Examples` was too weak to preserve the instructional meaning."
       ]
     },
     {
@@ -119,8 +122,8 @@
         "U+1F4A1"
       ],
       "titles": [
-        "Learn — Key Principle",
-        "Learn — Writing Goal"
+        "Learn — Key Principle:",
+        "Learn — Writing Goal:"
       ],
       "title_counts": [
         2,
@@ -131,81 +134,65 @@
       ]
     },
     {
-      "markdown_class": "learn-language",
-      "emoji": "💬",
+      "markdown_class": "learn-transfer",
+      "emoji": "🔁",
       "emoji_hex": [
-        "U+1F4AC"
+        "U+1F501"
       ],
       "titles": [
-        "Learn — Patterns",
-        "Learn — Note On Contrast",
-        "Learn — Examples",
-        "Learn — Useful Language",
-        "Learn — Sentences",
-        "Overviews",
-        "Key Points",
-        "Grouping By Theme",
-        "Contrast And Agreement",
-        "Insight"
+        "Learn — Transfer Reminder:"
       ],
       "title_counts": [
-        7,
-        2,
-        20,
-        6,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        18
       ],
       "planned_changes": [
-        "Core consolidation has been applied in `aw-adv-all_0514`; the current titles are the active reduced set."
+        "Keep `Learn — Transfer Reminder` as the single standardized label."
       ]
     },
     {
-      "markdown_class": "placeholder",
-      "emoji": "✏️",
+      "markdown_class": "learn-teaching",
+      "emoji": "📘",
       "emoji_hex": [
-        "U+270F",
-        "U+FE0F"
+        "U+1F4D8"
       ],
       "titles": [
-        "Draft",
-        "Planning Notes",
-        "Revised Draft",
-        "Final Version"
+        "Learn — Teaching Point:",
+        "Learn — Patterns 1 And 2 Compared:",
+        "Learn — Discuss:",
+        "Learn — Role Reminder:",
+        "Learn — How To Use The Checklist:"
       ],
       "title_counts": [
-        101,
-        3,
-        22,
+        1,
+        1,
+        6,
+        1,
         1
       ],
       "planned_changes": [
-        "Standardized to four visible labels: `Draft`, `Revised Draft`, `Planning Notes`, and `Final Version`."
+        "Consolidation has been applied; no further change is currently planned."
       ]
     },
     {
       "markdown_class": "learn-note",
-      "emoji": "📝",
+      "emoji": "🗒️",
       "emoji_hex": [
-        "U+1F4DD"
+        "U+1F5D2",
+        "U+FE0F"
       ],
       "titles": [
-        "Learn — Before You Write",
-        "Annotation",
-        "Learn — Note",
-        "Learn — Practice",
-        "Learn — Version A",
-        "Learn — Version B",
-        "Learn — Reflection",
-        "Learn — Original",
-        "Learn — Proposed Changes",
-        "Learn — Statements",
-        "Learn — Annotations",
-        "Learn — Revision Checklist"
+        "Learn — Before You Write:",
+        "Annotation:",
+        "Learn — Note:",
+        "Learn — Practice:",
+        "Learn — Version A:",
+        "Learn — Version B:",
+        "Learn — Reflection:",
+        "Learn — Original:",
+        "Learn — Proposed Changes:",
+        "Learn — Statements:",
+        "Learn — Annotations:",
+        "Learn — Revision Checklist:"
       ],
       "title_counts": [
         1,
@@ -226,29 +213,13 @@
       ]
     },
     {
-      "markdown_class": "self-study",
-      "emoji": "📖",
-      "emoji_hex": [
-        "U+1F4D6"
-      ],
-      "titles": [
-        "Self-Study"
-      ],
-      "title_counts": [
-        2
-      ],
-      "planned_changes": [
-        "Keep `Self-Study` as the single standardized label."
-      ]
-    },
-    {
       "markdown_class": "worked-example",
-      "emoji": "🧭",
+      "emoji": "🧩",
       "emoji_hex": [
-        "U+1F9ED"
+        "U+1F9E9"
       ],
       "titles": [
-        "Worked Example"
+        "Worked Example:"
       ],
       "title_counts": [
         21
@@ -258,605 +229,281 @@
       ]
     },
     {
-      "markdown_class": "learn-transfer",
-      "emoji": "🔁",
+      "markdown_class": "placeholder",
+      "emoji": "⬜",
       "emoji_hex": [
-        "U+1F501"
+        "U+2B1C"
       ],
       "titles": [
-        "Learn — Transfer Reminder"
+        "Draft",
+        "Planning Notes",
+        "Revised Draft",
+        "Final Version"
       ],
       "title_counts": [
-        18
+        101,
+        3,
+        22,
+        1
       ],
       "planned_changes": [
-        "Keep `Learn — Transfer Reminder` as the single standardized label."
+        "Standardized to four visible labels: `Draft`, `Revised Draft`, `Planning Notes`, and `Final Version`."
       ]
     },
     {
-      "markdown_class": "model",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [],
-      "title_counts": [],
+      "markdown_class": "self-study",
+      "emoji": "📚",
+      "emoji_hex": [
+        "U+1F4DA"
+      ],
+      "titles": [
+        "Self-Study:"
+      ],
+      "title_counts": [
+        2
+      ],
       "planned_changes": [
-        "No title inventory is recorded for this class; keep it unlabeled unless you want to define a canonical model title."
+        "Keep `Self-Study` as the single standardized label."
+      ]
+    },
+    {
+      "markdown_class": "guidance-step",
+      "emoji": "🔷",
+      "emoji_hex": [
+        "U+1F537"
+      ],
+      "titles": [
+        "1. Coordination (Joining Equal Ideas)",
+        "2. Subordination (Showing Supporting Or Secondary Ideas)",
+        "1. Structural Building Blocks",
+        "Useful Phrases",
+        "1. Useful Phrases for Precise Clarification",
+        "Formulating clear questions",
+        "2. Structuring Multi-Part Questions",
+        "1. Diplomatic Frames for Highlighting Errors",
+        "2. Explaining Impact Without Assigning Blame",
+        "1. Sequencing and Prioritising Requests",
+        "1. Providing Background Context",
+        "2. Asking Clear, Answerable Questions",
+        "1. Describing Risk",
+        "2. Explaining Impact and Proposing Mitigation",
+        "1. Audience Signals and Layered Explanation",
+        "2. Avoiding Assumed Knowledge",
+        "1. Referencing Policy or Guidelines",
+        "2. Building the Rationale: Reasoning and Benefits",
+        "1. Simplifying Technical References",
+        "2. Explaining Purpose and Impact",
+        "3. Stating Required Actions Clearly",
+        "1. Stating the Decision Clearly",
+        "2. Writing a Concise Rationale",
+        "3. Stating Expected Benefits",
+        "4. Structuring a Complete Justification",
+        "1. Writing a Summary Opening",
+        "2. Writing Clear Issue Descriptions",
+        "3. Describing Actions Taken",
+        "4. Writing Next Steps"
+      ],
+      "title_counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Converted the remaining numbered guidance and subheadings from H4/H5 into semantic Divs; the visible step titles are preserved in full."
+      ]
+    },
+    {
+      "markdown_class": "reference-support",
+      "emoji": "📎",
+      "emoji_hex": [
+        "U+1F4CE"
+      ],
+      "titles": [
+        "Procedure for Reviewing Applicant Submissions",
+        "Change Management Notice Template",
+        "Meeting Summary — Guideline Revision Discussion (12 October)",
+        "Outstanding Questions",
+        "Capstone Scenario"
+      ],
+      "title_counts": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Converted the remaining reference-support headings into semantic Divs; titles remain explicit because they identify document/template/support material."
+      ]
+    },
+    {
+      "markdown_class": "rubric-assessment",
+      "emoji": "📋",
+      "emoji_hex": [
+        "U+1F4CB"
+      ],
+      "titles": [
+        "Self-Assessment Rubric — Evaluate Your Draft",
+        "How To Use This Rubric",
+        "Analytic Rubric",
+        "Overall Judgment"
+      ],
+      "title_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Converted the remaining rubric headings into semantic Divs; the assessment titles remain explicit rather than flattened."
+      ]
+    },
+    {
+      "markdown_class": "course-meta",
+      "emoji": "ℹ️",
+      "emoji_hex": [
+        "U+2139",
+        "U+FE0F"
+      ],
+      "titles": [
+        "Where to review this skill",
+        "Administrative Writing, Advanced",
+        "Where To Send Students For Review",
+        "Note On The Earlier Ten-Item Version"
+      ],
+      "title_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "planned_changes": [
+        "Converted the remaining course-meta headings into semantic Divs; the titles remain explicit because they signal navigation and review metadata."
       ]
     },
     {
       "markdown_class": "activity-input",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "📥",
+      "emoji_hex": [
+        "U+1F4E5"
+      ],
       "titles": [
-        "Data Interpretation Input — Source Data Analysis",
-        "Reading-To-Write Input — Source-Based Preparation"
+        "Source Input"
       ],
       "title_counts": [
-        4,
-        4
+        8
       ],
       "planned_changes": [
-        "Six-class activity model applied; source-input tasks now use `activity-input` while keeping the visible task titles."
+        "Applied. Visible activity titles are now flattened to `Source Input`. The former task-specific title is preserved in a `Focus:` line inside each block so source-use meaning is not lost."
       ]
     },
     {
       "markdown_class": "activity-analysis",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "🔎",
+      "emoji_hex": [
+        "U+1F50E"
+      ],
       "titles": [
-        "Identifying Confusing Sentences — Guided Skill Practice",
-        "Noticing Task — Identify The Writing Pattern",
-        "Compare — Tone And Clarity Analysis",
-        "Practice — Identify the Subordination Function",
-        "Discussion Questions — Activate Prior Knowledge",
-        "Practice — Match the Function",
-        "1. Softening Strategies — Guided Skill Practice",
-        "Practice — Choose the Appropriate Version",
-        "3. Audience-Appropriate Tone — Guided Skill Practice",
-        "Sorting / Categorisation — Classify Writing Choices",
-        "Practice — Sequence for Logical Flow",
-        "1. Cohesive Devices — Guided Skill Practice",
-        "Problem Identification — Identify Communication Issues",
-        "Structural Deconstruction — Document Structure Analysis",
-        "Practice — Identify The Function",
-        "Contrastive Warm-Up — Compare Initial Choices",
-        "Annotated Model — Model Feature Analysis",
-        "Real Document Analysis — Workplace Document Analysis",
-        "Sequencing / Ordering Task — Guided Skill Practice",
-        "Prediction Task — Anticipate Reader Needs",
-        "Classification / Matching — Match Functions And Forms",
-        "Compare — Exemplar Analysis"
+        "Analysis Task"
       ],
       "title_counts": [
-        1,
-        7,
-        22,
-        1,
-        2,
-        1,
-        1,
-        1,
-        1,
-        2,
-        1,
-        1,
-        6,
-        3,
-        1,
-        3,
-        4,
-        5,
-        1,
-        4,
-        2,
-        1
+        71
       ],
       "planned_changes": [
-        "Six-class activity model applied; comparison, noticing, diagnosis, and analysis tasks now share `activity-analysis`."
+        "Applied. Visible activity titles are now flattened to `Analysis Task`. The former task-specific title is preserved in a `Focus:` line inside each block so analytical lenses such as comparison, noticing, prediction, and document analysis remain explicit."
       ]
     },
     {
       "markdown_class": "activity-language-control",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "🔤",
+      "emoji_hex": [
+        "U+1F524"
+      ],
       "titles": [
-        "Practice — Add Coordinators",
-        "Practice — Apply the Patterns",
-        "3. Clarity Patterns For Administrative Writing — Guided Skill Practice",
-        "Write Your Own Complex Sentence — Sentence-Control Practice",
-        "Practice — Add Logical Connectors",
-        "3. Thematic Progression — Guided Skill Practice",
-        "Practice — Phrase Bank Building",
-        "Expansion Task — Develop Supporting Detail",
-        "Phrase Bank Building — Build Reusable Language",
-        "Sentence Rewriting — Objective, Neutral Language",
-        "Sentence Rewriting — Writing Clear Overviews And Key Points",
-        "Sentence Rewriting — Grouping Information And Showing Relationships",
-        "Practice — Add a Purpose Statement",
-        "Practice — Add a Benefit Statement",
-        "Practice — Write the Opening Sentence",
-        "Practice — Clarify the Action",
-        "Practice — Add a Next-Step Statement"
+        "Language Practice"
       ],
       "title_counts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        19
       ],
       "planned_changes": [
-        "Six-class activity model applied; sentence-control and micro-language tasks now share `activity-language-control`."
+        "Applied. Visible activity titles are now flattened to `Language Practice`. The former task-specific title is preserved in a `Focus:` line inside each block so sentence-control, phrase-building, and micro-language aims remain explicit."
       ]
     },
     {
       "markdown_class": "activity-rewrite",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "🔄",
+      "emoji_hex": [
+        "U+1F504"
+      ],
       "titles": [
-        "Rewrite The Model Text — Model Revision Practice",
-        "Practice — Rewrite Direct Questions",
-        "2. Neutral Clarification Language — Guided Skill Practice",
-        "Practice — Replace Repetition",
-        "2. Reference And Continuity — Guided Skill Practice",
-        "Reorganise And Rewrite — Paragraph Organization Practice",
-        "Rebuild The Disjointed Model — Cohesion Rebuild Practice",
-        "Practice — Sentence Rewriting",
-        "Model Rewriting — Model Revision Practice",
-        "Practice — Sentence Rewriting Practice",
-        "2. Paragraph-Level Transformation — Guided Skill Practice",
-        "Sentence Rewriting — Guided Skill Practice",
-        "Information Reorganisation — Restructure Source Information",
-        "Paragraph-Level Transformation — Paragraph Revision Practice",
-        "Format Conversion — Change Document Format",
-        "Rewrite The Original Inquiry — Inquiry Revision Practice",
-        "Sentence Rewriting",
-        "Rewrite The Original Text — Model Revision Practice",
-        "Paragraph Revision",
-        "Rewrite The Original Message — Message Revision Practice",
-        "Rewrite The Original Rationale — Rationale Revision Practice",
-        "Rewrite the following sentences using neutral, professional language",
-        "Rewrite the following sentences for an executive audience",
-        "Rewrite the following as thematic, synthesised sentences",
-        "Practice — Rewrite to Include the Required Action",
-        "Practice — Rewrite the Decision Statement",
-        "Practice — Strengthen the Rationale",
-        "Practice — Organise the Justification",
-        "Rewrite The Original Justification — Justification Revision Practice",
-        "Practice — Rewrite for Clarity and Neutrality",
-        "Rewrite The Original Report — Report Revision Practice"
+        "Rewrite Task"
       ],
       "title_counts": [
-        3,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        12,
-        3,
-        2,
-        4,
-        2,
-        2,
-        4,
-        1,
-        3,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        57
       ],
       "planned_changes": [
-        "Six-class activity model applied; rewriting, restructuring, and model-revision tasks now share `activity-rewrite`."
+        "Applied. Visible activity titles are now flattened to `Rewrite Task`. The former task-specific title is preserved in a `Focus:` line inside each block so revision targets such as model rewriting, paragraph transformation, and audience-specific rewriting are not lost."
       ]
     },
     {
       "markdown_class": "activity-edit",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "✏️",
+      "emoji_hex": [
+        "U+270F",
+        "U+FE0F"
+      ],
       "titles": [
-        "Self-Editing Checklist — Final Revision Audit",
-        "Editing Exercise — Improve Clarity And Flow",
-        "Guided Peer Review — Structured Feedback Exchange",
-        "Peer Review — Structured Feedback Exchange",
-        "Practice — Error Identification & Correction",
-        "Editing Workshop — Paragraph-Level",
-        "Comparative Peer Review — Compare Revision Choices",
-        "Error Identification & Correction — Find And Fix Errors",
-        "Editing Exercise — Conditional And Hedging Structures",
-        "Track-Change Simulation — Revision Decision Practice",
-        "Revision Chain — Step-By-Step Revision",
-        "Practice — Simplify the Statement",
-        "1. Error Identification And Correction — Guided Skill Practice",
-        "Error Identification And Correction — Self-Diagnosis",
-        "Revision Chain — Prior Work"
+        "Editing Task"
       ],
       "title_counts": [
-        22,
-        8,
-        12,
-        4,
-        1,
-        10,
-        5,
-        2,
-        1,
-        4,
-        2,
-        1,
-        1,
-        1,
-        1
+        75
       ],
       "planned_changes": [
-        "Six-class activity model applied; peer review, checklist, editing, and revision-monitoring tasks now share `activity-edit`."
+        "Applied. Visible activity titles are now flattened to `Editing Task`. The former task-specific title is preserved in a `Focus:` line inside each block so review mode, error focus, and revision procedure remain explicit."
       ]
     },
     {
       "markdown_class": "activity-draft",
-      "emoji": "",
-      "emoji_hex": [],
+      "emoji": "📝",
+      "emoji_hex": [
+        "U+1F4DD"
+      ],
       "titles": [
-        "Scenario-Based Free Write — Realistic Administrative Response",
-        "Homework Writing Task — Independent Administrative Writing",
-        "Extension Task — Advanced Transfer Practice",
-        "Tone Transformation — Adjust Register And Diplomacy",
-        "Template-Guided Writing — Guided Template Practice",
-        "Scenario Writing — Guided Skill Practice",
-        "Task — Write A Full High-Level Email",
-        "Two-Audience Version Task — Adapt For Two Audiences",
-        "Role-Based Writing Task — Audience-Specific Response",
-        "Task — Write A Diplomatic Error Notification",
-        "Real-World Task — Workplace Transfer Practice",
-        "Task — Write A Multi-Part Request Message",
-        "Scenario-Based Writing — Administrative Scenario Response",
-        "Constrained Free Write — Controlled Independent Response",
-        "Scenario-Based Risk Assessment — Risk And Response Planning",
-        "Multi-Part Portfolio Task — Integrated Portfolio Practice",
-        "Draft A Justification For One Scenario — Justification Writing Practice"
+        "Writing Task"
       ],
       "title_counts": [
-        12,
-        23,
-        23,
-        1,
-        3,
-        4,
-        1,
-        3,
-        3,
-        1,
-        3,
-        1,
-        1,
-        1,
-        1,
-        4,
-        1
+        86
       ],
       "planned_changes": [
-        "Six-class activity model applied; guided, freer, and scenario-based writing tasks now share `activity-draft`."
+        "Applied. Visible activity titles are now flattened to `Writing Task`. The former task-specific title is preserved in a `Focus:` line inside each block so audience, scenario, transfer, homework, and drafting conditions remain explicit."
       ]
     }
   ],
-  "duplicate_titles": [
-    {
-      "title": "Key Points",
-      "classes": [
-        "model-good",
-        "learn-language"
-      ],
-      "counts_by_class": {
-        "model-good": 1,
-        "learn-language": 1
-      }
-    }
-  ],
-  "activity_classes": [
-    {
-      "markdown_class": "activity-input",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Data Interpretation Input — Source Data Analysis",
-        "Reading-To-Write Input — Source-Based Preparation"
-      ],
-      "title_counts": [
-        4,
-        4
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; source-input tasks now use `activity-input` while keeping the visible task titles."
-      ]
-    },
-    {
-      "markdown_class": "activity-analysis",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Identifying Confusing Sentences — Guided Skill Practice",
-        "Noticing Task — Identify The Writing Pattern",
-        "Compare — Tone And Clarity Analysis",
-        "Practice — Identify the Subordination Function",
-        "Discussion Questions — Activate Prior Knowledge",
-        "Practice — Match the Function",
-        "1. Softening Strategies — Guided Skill Practice",
-        "Practice — Choose the Appropriate Version",
-        "3. Audience-Appropriate Tone — Guided Skill Practice",
-        "Sorting / Categorisation — Classify Writing Choices",
-        "Practice — Sequence for Logical Flow",
-        "1. Cohesive Devices — Guided Skill Practice",
-        "Problem Identification — Identify Communication Issues",
-        "Structural Deconstruction — Document Structure Analysis",
-        "Practice — Identify The Function",
-        "Contrastive Warm-Up — Compare Initial Choices",
-        "Annotated Model — Model Feature Analysis",
-        "Real Document Analysis — Workplace Document Analysis",
-        "Sequencing / Ordering Task — Guided Skill Practice",
-        "Prediction Task — Anticipate Reader Needs",
-        "Classification / Matching — Match Functions And Forms",
-        "Compare — Exemplar Analysis"
-      ],
-      "title_counts": [
-        1,
-        7,
-        22,
-        1,
-        2,
-        1,
-        1,
-        1,
-        1,
-        2,
-        1,
-        1,
-        6,
-        3,
-        1,
-        3,
-        4,
-        5,
-        1,
-        4,
-        2,
-        1
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; comparison, noticing, diagnosis, and analysis tasks now share `activity-analysis`."
-      ]
-    },
-    {
-      "markdown_class": "activity-language-control",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Practice — Add Coordinators",
-        "Practice — Apply the Patterns",
-        "3. Clarity Patterns For Administrative Writing — Guided Skill Practice",
-        "Write Your Own Complex Sentence — Sentence-Control Practice",
-        "Practice — Add Logical Connectors",
-        "3. Thematic Progression — Guided Skill Practice",
-        "Practice — Phrase Bank Building",
-        "Expansion Task — Develop Supporting Detail",
-        "Phrase Bank Building — Build Reusable Language",
-        "Sentence Rewriting — Objective, Neutral Language",
-        "Sentence Rewriting — Writing Clear Overviews And Key Points",
-        "Sentence Rewriting — Grouping Information And Showing Relationships",
-        "Practice — Add a Purpose Statement",
-        "Practice — Add a Benefit Statement",
-        "Practice — Write the Opening Sentence",
-        "Practice — Clarify the Action",
-        "Practice — Add a Next-Step Statement"
-      ],
-      "title_counts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2,
-        2,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; sentence-control and micro-language tasks now share `activity-language-control`."
-      ]
-    },
-    {
-      "markdown_class": "activity-rewrite",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Rewrite The Model Text — Model Revision Practice",
-        "Practice — Rewrite Direct Questions",
-        "2. Neutral Clarification Language — Guided Skill Practice",
-        "Practice — Replace Repetition",
-        "2. Reference And Continuity — Guided Skill Practice",
-        "Reorganise And Rewrite — Paragraph Organization Practice",
-        "Rebuild The Disjointed Model — Cohesion Rebuild Practice",
-        "Practice — Sentence Rewriting",
-        "Model Rewriting — Model Revision Practice",
-        "Practice — Sentence Rewriting Practice",
-        "2. Paragraph-Level Transformation — Guided Skill Practice",
-        "Sentence Rewriting — Guided Skill Practice",
-        "Information Reorganisation — Restructure Source Information",
-        "Paragraph-Level Transformation — Paragraph Revision Practice",
-        "Format Conversion — Change Document Format",
-        "Rewrite The Original Inquiry — Inquiry Revision Practice",
-        "Sentence Rewriting",
-        "Rewrite The Original Text — Model Revision Practice",
-        "Paragraph Revision",
-        "Rewrite The Original Message — Message Revision Practice",
-        "Rewrite The Original Rationale — Rationale Revision Practice",
-        "Rewrite the following sentences using neutral, professional language",
-        "Rewrite the following sentences for an executive audience",
-        "Rewrite the following as thematic, synthesised sentences",
-        "Practice — Rewrite to Include the Required Action",
-        "Practice — Rewrite the Decision Statement",
-        "Practice — Strengthen the Rationale",
-        "Practice — Organise the Justification",
-        "Rewrite The Original Justification — Justification Revision Practice",
-        "Practice — Rewrite for Clarity and Neutrality",
-        "Rewrite The Original Report — Report Revision Practice"
-      ],
-      "title_counts": [
-        3,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        12,
-        3,
-        2,
-        4,
-        2,
-        2,
-        4,
-        1,
-        3,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; rewriting, restructuring, and model-revision tasks now share `activity-rewrite`."
-      ]
-    },
-    {
-      "markdown_class": "activity-edit",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Self-Editing Checklist — Final Revision Audit",
-        "Editing Exercise — Improve Clarity And Flow",
-        "Guided Peer Review — Structured Feedback Exchange",
-        "Peer Review — Structured Feedback Exchange",
-        "Practice — Error Identification & Correction",
-        "Editing Workshop — Paragraph-Level",
-        "Comparative Peer Review — Compare Revision Choices",
-        "Error Identification & Correction — Find And Fix Errors",
-        "Editing Exercise — Conditional And Hedging Structures",
-        "Track-Change Simulation — Revision Decision Practice",
-        "Revision Chain — Step-By-Step Revision",
-        "Practice — Simplify the Statement",
-        "1. Error Identification And Correction — Guided Skill Practice",
-        "Error Identification And Correction — Self-Diagnosis",
-        "Revision Chain — Prior Work"
-      ],
-      "title_counts": [
-        22,
-        8,
-        12,
-        4,
-        1,
-        10,
-        5,
-        2,
-        1,
-        4,
-        2,
-        1,
-        1,
-        1,
-        1
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; peer review, checklist, editing, and revision-monitoring tasks now share `activity-edit`."
-      ]
-    },
-    {
-      "markdown_class": "activity-draft",
-      "emoji": "",
-      "emoji_hex": [],
-      "titles": [
-        "Scenario-Based Free Write — Realistic Administrative Response",
-        "Homework Writing Task — Independent Administrative Writing",
-        "Extension Task — Advanced Transfer Practice",
-        "Tone Transformation — Adjust Register And Diplomacy",
-        "Template-Guided Writing — Guided Template Practice",
-        "Scenario Writing — Guided Skill Practice",
-        "Task — Write A Full High-Level Email",
-        "Two-Audience Version Task — Adapt For Two Audiences",
-        "Role-Based Writing Task — Audience-Specific Response",
-        "Task — Write A Diplomatic Error Notification",
-        "Real-World Task — Workplace Transfer Practice",
-        "Task — Write A Multi-Part Request Message",
-        "Scenario-Based Writing — Administrative Scenario Response",
-        "Constrained Free Write — Controlled Independent Response",
-        "Scenario-Based Risk Assessment — Risk And Response Planning",
-        "Multi-Part Portfolio Task — Integrated Portfolio Practice",
-        "Draft A Justification For One Scenario — Justification Writing Practice"
-      ],
-      "title_counts": [
-        12,
-        23,
-        23,
-        1,
-        3,
-        4,
-        1,
-        3,
-        3,
-        1,
-        3,
-        1,
-        1,
-        1,
-        1,
-        4,
-        1
-      ],
-      "planned_changes": [
-        "Six-class activity model applied; guided, freer, and scenario-based writing tasks now share `activity-draft`."
-      ]
-    }
-  ]
+  "duplicate_titles": {}
 }

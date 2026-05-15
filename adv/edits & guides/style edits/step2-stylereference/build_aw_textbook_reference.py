@@ -35,6 +35,8 @@ COLORS = {
     "grey": "6E6E6E",
     "muted_blue": "3F6EB4",
     "blue_grey": "56768C",
+    "muted_teal": "3E867C",
+    "muted_purple": "7561A8",
     "muted_green": "528F4A",
     "muted_red": "B03E3E",
     "muted_orange": "C47D2A",
@@ -46,6 +48,8 @@ COLORS = {
     "very_light_green": "F4FAF2",
     "very_light_red": "FCF4F4",
     "very_light_orange": "FDF8F0",
+    "very_light_teal": "EEF8F6",
+    "very_light_purple": "F4F1FB",
     "border_grey": "CDD2D6",
 }
 
@@ -254,6 +258,16 @@ def define_semantic_styles(doc: Document):
         ("Learn Transfer", COLORS["muted_orange"], COLORS["very_light_orange"], 6, 10, 10, 0.35, 0, 1.20, False),
         ("Learn Teaching", COLORS["muted_blue"], COLORS["very_light_blue"], 4.5, 10, 10, 0.35, 0, 1.20, False),
         ("Learn Note", COLORS["soft_grey"], COLORS["very_light_grey"], 3, 8, 8, 0.35, 0, 1.20, False),
+        ("Guidance Step", COLORS["blue_grey"], "F4F7FA", 4.5, 8, 8, 0.35, 0, 1.15, False),
+        ("Reference Support", COLORS["soft_grey"], COLORS["very_light_grey"], 3, 8, 8, 0.35, 0, 1.15, False),
+        ("Rubric Assessment", COLORS["muted_green"], "F2F8F1", 4.5, 8, 8, 0.35, 0, 1.15, False),
+        ("Course Meta", COLORS["soft_grey"], COLORS["very_light_grey"], 3, 8, 8, 0.35, 0, 1.15, False),
+        ("Activity Input", COLORS["blue_grey"], "F1F6F9", 4.5, 10, 10, 0.35, 0, 1.20, False),
+        ("Activity Analysis", COLORS["muted_blue"], COLORS["very_light_blue"], 4.5, 10, 10, 0.35, 0, 1.20, False),
+        ("Activity Language Control", COLORS["muted_teal"], COLORS["very_light_teal"], 4.5, 10, 10, 0.35, 0, 1.20, False),
+        ("Activity Rewrite", COLORS["muted_purple"], COLORS["very_light_purple"], 4.5, 10, 10, 0.35, 0, 1.20, False),
+        ("Activity Edit", COLORS["muted_orange"], COLORS["very_light_orange"], 4.5, 10, 10, 0.35, 0, 1.20, False),
+        ("Activity Draft", COLORS["muted_green"], COLORS["very_light_green"], 4.5, 10, 10, 0.35, 0, 1.20, False),
         ("Model", COLORS["blue_grey"], "F7FAFC", 4.5, 10, 10, 0.35, 0.35, 1.20, False),
         ("Model Bad", COLORS["muted_red"], COLORS["very_light_red"], 6, 10, 10, 0.5, 0.5, 1.20, False),
         ("Model Good", COLORS["muted_green"], COLORS["very_light_green"], 6, 10, 10, 0.5, 0.5, 1.20, False),
@@ -310,6 +324,17 @@ def define_character_styles(doc: Document):
         ("Div Label Transfer Char", FONTS["heading"], 10, COLORS["muted_orange"], False, False),
         ("Div Label Teaching Char", FONTS["heading"], 10, COLORS["muted_blue"], False, False),
         ("Div Label Note Char", FONTS["heading"], 10, COLORS["grey"], False, False),
+        ("Div Label Guidance Step Char", FONTS["heading"], 10, COLORS["blue_grey"], False, False),
+        ("Div Label Reference Support Char", FONTS["heading"], 10, COLORS["grey"], False, False),
+        ("Div Label Rubric Assessment Char", FONTS["heading"], 10, COLORS["muted_green"], False, False),
+        ("Div Label Course Meta Char", FONTS["heading"], 10, COLORS["grey"], False, False),
+        ("Div Label Activity Input Char", FONTS["heading"], 10, COLORS["blue_grey"], False, False),
+        ("Div Label Activity Analysis Char", FONTS["heading"], 10, COLORS["muted_blue"], False, False),
+        ("Div Label Activity Language Control Char", FONTS["heading"], 10, COLORS["muted_teal"], False, False),
+        ("Div Label Activity Rewrite Char", FONTS["heading"], 10, COLORS["muted_purple"], False, False),
+        ("Div Label Activity Edit Char", FONTS["heading"], 10, COLORS["muted_orange"], False, False),
+        ("Div Label Activity Draft Char", FONTS["heading"], 10, COLORS["muted_green"], False, False),
+        ("Div Label Model Char", FONTS["heading"], 10, COLORS["blue_grey"], False, False),
         ("Div Label Bad Char", FONTS["heading_medium"], 10, COLORS["muted_red"], False, False),
         ("Div Label Good Char", FONTS["heading_medium"], 10, COLORS["muted_green"], False, False),
         ("Div Label Worked Example Char", FONTS["heading"], 10, COLORS["blue_grey"], False, False),
@@ -376,6 +401,16 @@ def write_lua_filter():
         "learn-transfer": "Learn Transfer",
         "learn-teaching": "Learn Teaching",
         "learn-note": "Learn Note",
+        "guidance-step": "Guidance Step",
+        "reference-support": "Reference Support",
+        "rubric-assessment": "Rubric Assessment",
+        "course-meta": "Course Meta",
+        "activity-input": "Activity Input",
+        "activity-analysis": "Activity Analysis",
+        "activity-language-control": "Activity Language Control",
+        "activity-rewrite": "Activity Rewrite",
+        "activity-edit": "Activity Edit",
+        "activity-draft": "Activity Draft",
         "model": "Model",
         "model-bad": "Model Bad",
         "model-good": "Model Good",
@@ -647,11 +682,11 @@ Could you please send this by the end of today if possible?
 
 def main():
     build_reference()
-    build_specimen()
+    # build_specimen()  # Skip specimen build due to pandoc dependency
     print(f"Wrote {REFERENCE}")
     print(f"Wrote {LUA_FILTER}")
-    print(f"Wrote {SPECIMEN_MD}")
-    print(f"Wrote {SPECIMEN_DOCX}")
+    # print(f"Wrote {SPECIMEN_MD}")
+    # print(f"Wrote {SPECIMEN_DOCX}")
 
 
 if __name__ == "__main__":
