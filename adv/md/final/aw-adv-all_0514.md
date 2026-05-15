@@ -1,3 +1,38 @@
+---
+style_bridge:
+  remove_horizontal_rules: true
+  preserve_div_line_breaks: true
+
+style_map:
+  model: "Model"
+  model-bad: "Model Bad"
+  model-good: "Model Good"
+  
+  learn-process: "Learn Process"
+  learn-language: "Learn Language"
+  learn-principle: "Learn Principle"
+  learn-transfer: "Learn Transfer"
+  learn-teaching: "Learn Teaching"
+  learn-note: "Learn Note"
+  
+  guidance-step: "Guidance Step"
+  reference-support: "Reference Support"
+  rubric-assessment: "Rubric Assessment"
+  course-meta: "Course Meta"
+  
+  activity-input: "Activity Input"
+  activity-analysis: "Activity Analysis"
+  activity-language-control: "Activity Language Control"
+  activity-rewrite: "Activity Rewrite"
+  activity-edit: "Activity Edit"
+  activity-draft: "Activity Draft"
+  
+  worked-example: "Worked Example"
+  example: "Example"
+  placeholder: "Placeholder"
+  self-study: "Self Study"
+  annotation: "Annotation"
+---
 ﻿
 # Administrative Writing, Advanced
 

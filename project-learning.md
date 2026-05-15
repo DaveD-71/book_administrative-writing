@@ -842,6 +842,20 @@ Historical note:
 - Preferred behavior: after inserting the reference unit-title table, clear the original unit heading paragraph so it does not remain visible under or around the table.
 - Preferred behavior: list paragraphs inside semantic Divs should keep their list paragraph style while receiving the Div's block-level paragraph formatting from postprocess, because Word cannot apply both styles to one paragraph.
 
+## 2026-05-15 - Style-Safe Advanced DOCX Pipeline Now In Place
+
+- Status: `active`
+- Scope: project/tooling
+- Context: Advanced book DOCX build pipeline redesign based on `adv/edits & guides/style edits/step2-stylereference/Instructions_from_ChatGPT_0515.md`.
+- Decision: the reference DOCX `adv/md/final/aw-adv-styleref.docx` is the single source of truth for all style definitions. The build pipeline must never create or redefine styles.
+- Decision: replaced hardcoded `aw_textbook_div_styles.lua` with `style_bridge.lua` (in textmaker/scripts). Style mapping now lives in the Markdown YAML front matter (`style_map` block) and is read at Pandoc build time.
+- Decision: `postprocess_docx.py` is now style-safe by default. Semantic label rendering requires `--apply-semantic-labels`. Normal builds run structural cleanup only.
+- New file: `adv/style_specs/aw-div-label-styles.yaml` — YAML spec for all 24 Div label styles with MIT-palette colors and font replacement rules. Input to `manage_docx_styles.py` for manual reference DOCX maintenance.
+- New file: `adv/README-build.md` — documents the correct Pandoc build command, postprocess commands, style validation, and reference maintenance workflow with actual file paths.
+- Preferred behavior: for each Pandoc build, pass `style_bridge.lua` as `--lua-filter` and `adv/md/final/aw-adv-styleref.docx` as `--reference-doc`. Run `validate_docx_against_reference.py` after build. Use `--apply-semantic-labels` only for full Windows/Word semantic builds.
+- Preferred behavior: reference DOCX color updates must be done via `manage_docx_styles.py --input ... --spec adv/style_specs/aw-div-label-styles.yaml`. Never patch `word/styles.xml` directly without the three-location sync rule.
+- Preferred behavior: `aw-adv-all_0514.md` is the current canonical combined source. The YAML `style_map` block in its front matter governs all Div-to-style mappings.
+
 ## 2026-04-01 - Intermediate full-review protocol now matches the stronger operational standard
 
 - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` has been upgraded from a lighter stage-definition file into a checklist-backed operational protocol.

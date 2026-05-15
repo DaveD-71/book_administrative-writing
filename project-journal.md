@@ -1594,3 +1594,11 @@ Historical note:
 - Refreshed the `0514` div inventory so it now reflects the converted activity layer directly and added a dedicated `Activity Div Classes` section for the six-class model.
 - Regenerated the residual `0514` heading audit after activity conversion; the remaining `H4`/`H5` headings are now primarily numbered guidance, rubric, reference-support, and course-meta headings rather than the activity layer.
 - Restored a small set of `0514` div-title exceptions after cross-checking against `aw-adv-all_0510.md`: `Learn — Key Structures`, `Learn — Recommended Structure`, `Original Text — Weak Response`, `Revised Text — Executive-Level Summary`, and `Revised Text — Strong Response` were brought back because the flattened replacements had dropped instructional meaning that was not explicit enough in the surrounding labels.
+
+## 2026-05-15
+
+- Implemented the style-safe Advanced DOCX build pipeline. GitHub CoPilot began the work but lost context mid-task; Claude Code completed all 10 tasks based on `adv/edits & guides/style edits/step2-stylereference/Instructions_from_ChatGPT_0515.md`.
+- Added YAML `style_map` front matter to `adv/md/final/aw-adv-all_0514.md` mapping 24 Div classes to Word style names. This drives the new `style_bridge.lua` filter; the old hardcoded Lua filter `aw_textbook_div_styles.lua` is no longer the documented build path.
+- Created `adv/style_specs/aw-div-label-styles.yaml` — YAML spec for all 24 Div label styles with MIT-palette colors and Calibri font replacement rules. Input to `textmaker/scripts/manage_docx_styles.py` for manual reference DOCX color/font maintenance.
+- Created `adv/README-build.md` — documents the correct Pandoc build command (with `style_bridge.lua` and `aw-adv-styleref.docx`), structural postprocess command, style validation command, and reference maintenance workflow with actual repo-relative paths.
+- Reference DOCX for the Advanced book is `adv/md/final/aw-adv-styleref.docx`. Style definitions live only there. The build pipeline must not create or redefine styles.
