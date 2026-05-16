@@ -97,7 +97,7 @@ Identify:
 - where the writer paused to create a new sentence and why
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The revised version is clearer not because every sentence is short, but because each sentence has one main communicative job. Verification, action, internal checking, and possible consequence are separated into stages, so the reader does not have to process several competing relationships at once.
 :::
@@ -117,7 +117,7 @@ In the revised version, highlight or underline:
 Reflect: How do these features make the revised version easier to process?
 
 ::: learn
-Learn — Teaching Point
+Teaching Point
 
 Segmentation is a relationship between two sentences, not a feature inside one sentence. Writers use it when one sentence is carrying too many logical jobs at once and the reader needs the information separated into clearer stages.
 :::
@@ -126,7 +126,7 @@ Segmentation is a relationship between two sentences, not a feature inside one s
 ### C. Language Focus
 
 ::: learn
-Learn — Key Principle
+Key Principle
 
 Sentence clarity is not primarily about length — it is about logical load. A sentence becomes unclear when the reader has to track too many competing relationships at once. The three tools below — coordination, subordination, and segmentation — each help manage logical load in a different way.
 :::
@@ -193,7 +193,7 @@ The arrow (→) in each pattern title shows the order in which ideas are present
 | **Pattern 3: Segmenting Dense Content**<br>Use two or more shorter sentences when: the main clause competes with multiple long subordinate clauses; there are more than two logical relationships in one sentence; or new information is introduced too quickly. | **Dense:** *"Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review."*<br><br>**Segmented:** *"The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review."* |
 
 ::: learn
-Learn — Patterns 1 and 2 Compared
+Patterns 1 and 2 Compared
 
 Both connect an action with a rationale. The difference is emphasis and order: Pattern 1 leads with the action (what will happen); Pattern 2 leads with the purpose (why it matters). Use Pattern 2 when the reason needs to come first to frame the request — especially in external or formal correspondence.
 :::
@@ -214,13 +214,13 @@ Rewrite each sentence below using the clarity pattern indicated.
 4. *The department will review the file once the updated form has been received and after the confirmation from the regional office has been processed.* → Rewrite using **Pattern 2** (purpose clause → main action).
 
 ::: learn
-Learn — A Note on Expressing Equal Contrast
+A Note on Expressing Equal Contrast
 
 Both *but* and *however* express contrast between equal ideas. Use *but* for lighter contrast within a single sentence; use *; however,* when the contrast is emphatic or the ideas are more complex. Compare this with *although* (subordination), which makes the contrast idea secondary — see item 2.
 :::
 
 ::: learn
-Learn — A Note on Expressing Subordinate Contrast
+A Note on Expressing Subordinate Contrast
 
 *Although* and *while* express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams continued using the previous version* (revision is background; continued use is the main point).
 :::
@@ -250,7 +250,7 @@ Write Your Own Complex Sentence
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
 
 ::: learn
-Learn — Before You Write
+Before You Write
 
 Do not choose the longest sentence as the "best" version automatically. Choose the version that makes the relationship between ideas easiest for the intended reader to process.
 :::
@@ -414,7 +414,7 @@ Identify the differences in:
 - likely reader response
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The revised version protects the working relationship. It reduces blame, gives a professional reason for the request, and makes cooperation easier by showing what the reader can do next without feeling attacked.
 :::
@@ -577,7 +577,7 @@ You will write **two versions** of each message below: one for a domestic agency
 After writing, compare the two versions. Identify at least two specific differences in phrasing or structure.
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Keep the communicative purpose constant across both versions. What changes is the level of explicitness, softening, and diplomatic framing needed for the reader.
 :::
@@ -746,7 +746,7 @@ Identify:
 - how the final sentence signals a next step
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The revised paragraph guides the reader through a sequence: topic, explanation, then implication. Each sentence grows out of the previous one, so the reader is not forced to reconstruct the logic independently.
 :::
@@ -773,7 +773,7 @@ Reflect: How do these elements work together to improve readability?
 #### 1. Cohesive Devices
 
 ::: learn
-Learn — Cohesive Devices by Relationship Type
+Cohesive Devices by Relationship Type
 
 |||
 |---|---|
@@ -886,7 +886,7 @@ Below are seven pieces of information presented without structure or logical ord
 - *The issues related to terminology, submission formats, and internal deadlines.*
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Do not just put the sentences into a correct order. Build a paragraph that moves the reader forward from topic to detail to action or implication.
 :::
@@ -1059,7 +1059,7 @@ Compare the two versions. Identify differences in:
 - how each version supports the reader
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version helps the reader act efficiently because each part of the email has a clear job. Context, purpose, explanation, request, and next step are separated, so the reader can understand what matters and what action is needed without reconstructing the logic.
 :::
@@ -1167,7 +1167,7 @@ Template-Guided Writing
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
 ::: learn
-Learn — Template
+Template
 
 1. **Opening** — acknowledge or establish context
 
@@ -1377,7 +1377,7 @@ Identify differences in:
 - reader support
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version is easier to answer because each question is anchored to a specific place in the document and asks for one clear piece of clarification. The reader does not have to guess what is unclear or what kind of answer is needed.
 :::
@@ -1496,7 +1496,7 @@ Two-Audience Version Task
 Using the scenario below, write two versions of the same clarification request.
 
 ::: learn
-Learn — Scenario
+Scenario
 
 A partner organisation has submitted a revised report. One figure in the summary table appears to conflict with a figure in the body of the document, and a key term is used differently across the two sections.
 :::
@@ -1703,7 +1703,7 @@ Compare the two versions. Identify improvements in:
 - reader support
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version identifies the problem without accusing the reader. It separates the issue itself, the evidence for noticing it, the shared goal behind the request, and the action needed next, which helps keep the exchange cooperative.
 :::
@@ -1883,7 +1883,7 @@ Choose one scenario and write a diplomatic error-notification message of 5–7 s
 Your message must include: a neutral identification of the issue, an impact statement, a specific reference, a polite correction request, and a next step.
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Keep these functions separate in your draft: identify the issue, explain its impact, request the correction, and state the next step. When these functions are combined too heavily, the message often starts to sound blaming or unclear.
 :::
@@ -2074,7 +2074,7 @@ Identify differences in:
 - tone and reader support
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version reduces confusion by showing the reader which action comes first, which action depends on that first answer, and why the sequence matters. Priority and dependency are stated explicitly instead of being left for the reader to infer.
 :::
@@ -2181,7 +2181,7 @@ Choose one scenario and write a structured multi-part request of 6–8 sentences
 Your message must include: a rationale, a clearly sequenced set of requests, dependency markers, diplomatic phrasing, and a next-step statement.
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Do not just add sequence markers mechanically. Use them to show the reader which action unlocks the next stage and why that order matters.
 :::
@@ -2376,7 +2376,7 @@ Compare the two versions. Identify improvements in:
 - how conditions are handled
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version reduces reader error because each step has one clear job, appears in a predictable order, and uses a consistent instruction style. The reader does not have to infer what happens first, what depends on a condition, or when the procedure is complete.
 :::
@@ -2393,7 +2393,7 @@ Highlight or underline the following features in the improved version:
 4. **Step labels** — how do the labels help the reader navigate the procedure?
 
 ::: learn
-Learn — Discuss
+Discuss
 
 The improved version contains no exceptions. Why might a real procedure need at least one exception clause? What would you add here?
 :::
@@ -2476,7 +2476,7 @@ Information Reorganisation
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 When you reorganise paragraph information into a procedure, keep the action order, condition signals, and instruction style consistent. If two actions happen at different stages, separate them instead of burying them in one sentence.
 :::
@@ -2629,7 +2629,7 @@ Prediction Task
 Read the following scenario. Before turning to the model text, write down five elements you would expect a well-written change management notice to include.
 
 ::: learn
-Learn — Scenario
+Scenario
 
 Your office has updated the procedure for reviewing applicant submissions. The main change is that the initial review stage, which previously required sign-off from two officers, now requires only one. This change takes effect on 1 November. Staff in your office and in three partner offices need to be informed.
 :::
@@ -2676,7 +2676,7 @@ Compare the two versions. Identify improvements in:
 - tone and reassurance
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved notice balances three jobs at once: it states the change clearly, explains why the change has been introduced, and reassures the reader that support is available. That combination helps readers understand the change and act on it without unnecessary uncertainty.
 :::
@@ -2695,7 +2695,7 @@ Re-read the improved version. The annotations below explain the purpose of speci
 5. *Offers support and invites questions. This reduces uncertainty and signals that the office is accessible — important in change communication.*
 
 ::: learn
-Learn — A Note on Reassurance in Change Notices
+A Note on Reassurance in Change Notices
 
 Reassurance in a change notice should reduce uncertainty without becoming vague. In this model, the final sentence works because it offers support after the change and required action have already been stated clearly.
 :::
@@ -2764,7 +2764,7 @@ Template-Guided Writing
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Do not treat the template as five isolated boxes. Use it to preserve the logic of effective change communication: state the change, explain why it matters, guide the reader’s action, and reduce uncertainty through support.
 :::
@@ -2969,7 +2969,7 @@ Compare the two versions. Identify improvements in:
 - the clarity of the next-step statement
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version is easier for a non-specialist reader to process because it names the number of factors up front, separates them clearly, and supports each one with specific detail. The reader can understand both the problem and its effect without sorting through vague generalisations.
 :::
@@ -2987,7 +2987,7 @@ Highlight or underline the following features in the improved version:
 5. Any language that keeps the tone neutral and non-blaming
 
 ::: learn
-Learn — Discuss
+Discuss
 
 Why is it important to use neutral language when explaining a delay or problem to a partner office? What can go wrong when the tone becomes evaluative or accusatory?
 :::
@@ -3005,7 +3005,7 @@ Accessible explanation is not the same as making the issue simpler than it reall
 Match each sentence (1–6) to its function in a complex explanation (A–D). Some functions may be used more than once.
 
 ::: learn
-Learn — Functions
+Functions
 :::
 
 - A. Introducing the number of factors
@@ -3100,7 +3100,7 @@ Constrained Free Write
 Write a complete explanation of **180–210 words**.
 
 ::: learn
-Learn — Key Principle
+Key Principle
 
 Every general statement must be followed immediately by a specific detail.
 :::
@@ -3286,7 +3286,7 @@ Compare the two versions. Identify differences in:
 - usefulness for a manager who did not attend
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version does not retell the meeting in time order. Instead, it groups information by managerial function: what the meeting was about, what mattered, what was decided, and what happens next. That makes the summary more useful for a reader who needs action and accountability, not narrative detail.
 :::
@@ -3383,7 +3383,7 @@ Format Conversion
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 When you convert notes into an executive summary, group information by significance and action, not by the order in which points appeared during the meeting.
 :::
@@ -3611,7 +3611,7 @@ Compare the two versions. Identify improvements in:
 - overall structure and reader support
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved inquiry helps an external reader because it provides enough background to identify the case, asks focused questions that can be answered directly, and signals why the information is needed on the writer’s side.
 :::
@@ -3642,7 +3642,7 @@ Discuss: Why does an effective external inquiry follow this sequence? What would
 Background context should orient the reader without overloading them. In an external inquiry, that usually means giving just enough reference information, timing, and process context for the recipient to locate the issue and understand why the questions are being asked now.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Give the reader enough information to locate the issue and understand what you are asking about.
 :::
@@ -3680,7 +3680,7 @@ Learn — Useful Language
 8. *We would appreciate your assistance in…*
 
 ::: learn
-Learn — Functions
+Functions
 :::
 
 - A — Providing context
@@ -3694,7 +3694,7 @@ Learn — Functions
 An answerable inquiry question asks for one specific piece of confirmation or clarification. Broad topic prompts such as *What is happening?* force the reader to guess what information the writer actually needs.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Ask questions that are precise, specific, and easy for the recipient to answer without further clarification.
 :::
@@ -3774,7 +3774,7 @@ Two-Audience Version Task
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 When you switch from an external to an internal audience, change the level of background explanation, not the core information. A familiar internal reader needs less orientation, but the task, status, and next-step logic should still remain clear.
 :::
@@ -3944,7 +3944,7 @@ Prediction Task
 Read the scenario below. Before you look at any model texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
 ::: learn
-Learn — Scenario
+Scenario
 :::
 
 *A national processing office is introducing a revised applicant tracking system. The old system will be decommissioned in four weeks. Several partner agencies are not yet familiar with the new interface, and staff training has not been completed for all teams.*
@@ -3979,7 +3979,7 @@ Compare the two versions. Identify improvements in:
 - inclusion of mitigation measures
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved paragraph separates four different jobs that weak risk writing often blurs together: identifying the risk, explaining its cause, showing the likely impact, and proposing mitigation. That makes the assessment more analytical and more useful for decision-making.
 :::
@@ -3999,7 +3999,7 @@ The table below shows processing delay data from the three months following the 
 | March | 24% | 13.7 | 21 |
 
 ::: learn
-Learn — Scenario
+Scenario
 
 Your supervisor has asked you to prepare a short internal risk note before Thursday's implementation review meeting. Use the data to identify what appears to be going wrong and what action may now be needed.
 :::
@@ -4019,7 +4019,7 @@ Using the data in the table, write a 3–4 sentence risk assessment paragraph. Y
 Risk writing is evidence-based and conditional. The writer is not claiming that a problem has already fully occurred; the writer is identifying what may happen, why it may happen, and how strongly the available information supports that concern.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Clearly identify the nature and source of a risk using neutral, precise language.
 :::
@@ -4053,7 +4053,7 @@ Rewrite each sentence to clearly express a specific, well-defined risk. Add a ca
 #### 2. Explaining Impact and Proposing Mitigation
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Explain the consequence of a risk and propose a realistic step to reduce it.
 :::
@@ -4119,7 +4119,7 @@ Scenario-Based Risk Assessment
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Keep the sequence visible in your draft: evidence or issue first, then likely impact, then response. If those functions are mixed together, the assessment often starts to sound vague or overstated.
 :::
@@ -4214,7 +4214,7 @@ Learn — Patterns
 | *is likely to + verb* | *Processing is likely to be delayed.* | Expressing probability |
 
 ::: learn
-Learn — Practice
+Practice
 
 Rewrite each sentence using an appropriate hedging or conditional structure. Avoid overstating certainty.
 :::
@@ -4282,7 +4282,7 @@ Contrastive Warm-Up
 Read both versions of the same message. Before any explanation, identify the differences.
 
 ::: learn
-Learn — Version A:
+Version A
 :::
 
 ::: example
@@ -4292,7 +4292,7 @@ Model Text
 :::
 
 ::: learn
-Learn — Version B:
+Version B
 :::
 
 ::: example
@@ -4335,7 +4335,7 @@ Compare the two versions. Identify improvements in:
 - tone and overall clarity
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version shows what changes across audiences and what stays stable. The core instruction remains the same for everyone, but the supporting context is adjusted so that less-informed readers can still understand the message without being left behind.
 :::
@@ -4420,7 +4420,7 @@ The writer separates audience-specific detail into distinct signals, which preve
 :::
 
 ::: learn
-Learn — Reflection
+Reflection
 
 Why does separating audience signals into distinct sentences or phrases improve clarity? What might happen if the writer tried to address all audiences in a single combined statement?
 :::
@@ -4433,7 +4433,7 @@ Why does separating audience signals into distinct sentences or phrases improve 
 Audience signals are cues about assumed knowledge. They tell the reader whether the next sentence gives shared-background detail, extra context for less-informed readers, or an instruction that applies to everyone.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Address different readers explicitly and provide information appropriate to each audience.
 :::
@@ -4462,7 +4462,7 @@ Rewrite each sentence so that it addresses a specific audience group and include
 Reader-aware explanation is not the same as oversimplification. The goal is to keep the core content accurate while adding enough background for readers who did not attend earlier meetings or receive previous messages.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Ensure that readers who did not attend earlier meetings or receive previous messages can still understand the message fully.
 :::
@@ -4524,7 +4524,7 @@ Two-Audience Version Task
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Keep the core message stable across both versions. What should change is the amount of context, the explicitness of audience signals, and the level of explanation needed for each reader group.
 :::
@@ -4549,7 +4549,7 @@ Draft {{PH-3: U14-D4-version-b}}
 Multi-Part Portfolio Task
 
 ::: learn
-Learn — Scenario
+Scenario
 
 A national coordination office has updated its interagency referral process. The changes affect both internal processing staff and external partner agencies. The new process launches in two weeks.
 :::
@@ -4715,7 +4715,7 @@ Compare the two versions. Identify improvements in:
 - professional objectivity
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved rationale is more persuasive because it links three elements clearly: the policy requirement, the operational problem, and the benefit of the proposed change. The reasoning is visible rather than implied.
 :::
@@ -4754,7 +4754,7 @@ Aim for **60–80 words**.
 Strong policy-aligned writing does not just cite a rule. It shows how the rule supports the recommendation and why the current action follows logically from that requirement.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Ground the rationale in existing rules, requirements, or organisational objectives.
 :::
@@ -4782,7 +4782,7 @@ Rewrite each sentence to include a clear, specific policy or guideline reference
 #### 2. Building the Rationale: Reasoning and Benefits
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Provide objective reasons grounded in process needs, and explain how the change improves outcomes.
 :::
@@ -4846,7 +4846,7 @@ Use the structure below to draft a policy-aligned rationale for one of the follo
 3. Replacing an informal email update system with a structured weekly briefing
 
 ::: learn
-Learn — Template
+Template
 
 *Recommendation statement.* This change is consistent with *policy / guideline reference*, which requires *relevant requirement*. Current practice has resulted in *identified problem*, which affects *process or outcome*. Implementing *the change* will *primary benefit* and *secondary benefit*. As a result, *conclusion linking change to policy alignment or organisational objective*.
 
@@ -4919,7 +4919,7 @@ Track-Change Simulation
 The following rationale has been reviewed by a colleague, who has proposed several edits. Read the original and the proposed changes. For each change, decide whether to **accept** or **reject** it. Write your decision and a brief reason.
 
 ::: learn
-Learn — Original
+Original
 :::
 
 ::: example
@@ -4929,7 +4929,7 @@ Model Text
 :::
 
 ::: learn
-Learn — Proposed Changes
+Proposed Changes
 :::
 
 1. Replace *"We think the form should be changed because it is old and confusing"* with *"The form should be revised to align with the updated submission guidelines issued in February, which require standardised data fields across all partner offices."* — Accept or Reject?
@@ -5013,7 +5013,7 @@ Below are eight evaluation statements. Sort each one into the correct column.
 |  |  |
 
 ::: learn
-Learn — Statements
+Statements
 :::
 
 1. *The document fails to address several key points and is poorly written.*
@@ -5026,7 +5026,7 @@ Learn — Statements
 8. *While the overview is clearly structured, the recommendations section would benefit from greater specificity.*
 
 ::: learn
-Learn — Discuss
+Discuss
 
 What distinguishes the language in the professional column from the language in the unprofessional column?
 :::
@@ -5075,7 +5075,7 @@ Clarifying key definitions and improving the logical flow between steps would si
 :::
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved evaluation is more credible because it separates observation from judgement. It names specific strengths and weaknesses, supports them with evidence, and frames recommendations as constructive improvements rather than personal criticism.
 :::
@@ -5088,7 +5088,7 @@ Annotated Model
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
 ::: learn
-Learn — Annotations
+Annotations
 :::
 
 - a. *Opens with an overall impression without committing to a simple positive or negative verdict*
@@ -5100,7 +5100,7 @@ Learn — Annotations
 - f. *Uses cautious wording such as "generally" or "may" to calibrate claims to the available evidence rather than overstating certainty*
 
 ::: learn
-Learn — Discuss
+Discuss
 
 Why is providing at least one genuine strength essential in formal evaluations — even when the document has significant weaknesses?
 :::
@@ -5115,7 +5115,7 @@ Objective, Neutral Language
 Objective evaluation language is evidence-based, criterion-based, and proportionate. It describes what the document does well or badly in relation to clarity, structure, consistency, or usability, rather than reacting to it with personal approval or frustration.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Describe strengths and weaknesses without judgmental language.
 :::
@@ -5190,7 +5190,7 @@ Draft {{PH-2: U16-D1-guided-rewrite}}
 Revision Chain
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 As you revise, check whether each claim matches the strength of the evidence. If the problem is local, describe it locally. If the document has both strengths and weaknesses, make both visible.
 :::
@@ -5204,7 +5204,7 @@ If you do not have your Unit 15 writing, use this short alternative text instead
 Using the skills from this unit, revise your text. Apply the following checklist:
 
 ::: learn
-Learn — Revision Checklist
+Revision Checklist
 :::
 
 - Replace any subjective or emotional language with neutral alternatives
@@ -5292,7 +5292,7 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 | *nice* / *great* → *clear and well-formatted* / *useful* |  |  |
 
 ::: learn
-Learn — Discuss
+Discuss
 
 Which changes improve tone? Which improve precision? Are any changes unnecessary?
 :::
@@ -5394,7 +5394,7 @@ Revised Text
 :::
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved brief foregrounds decision-relevant content. Instead of retelling the discussion, it selects the points an executive needs in order to understand the issue, its implications, and the recommended next step.
 :::
@@ -5432,7 +5432,7 @@ Writing Clear Overviews and Key Points
 An overview is not a compressed detail list. Its job is to frame the issue at a high level so that the following key points can be read as evidence for the main decision problem.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Provide immediate context and distil information to essentials.
 :::
@@ -5514,7 +5514,7 @@ Format Conversion
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Group information by significance, not by the order in which comments were made. A strong executive brief selects what matters for the decision rather than reproducing the meeting record.
 :::
@@ -5682,7 +5682,7 @@ Model Text
 :::
 
 ::: learn
-Learn — Discuss
+Discuss
 :::
 
 1. What themes appear across all three sources?
@@ -5717,7 +5717,7 @@ Revised Text
 :::
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved paragraph is more useful because it groups information by theme rather than by source. It shows where sources overlap, where they differ, and what the combined evidence suggests.
 :::
@@ -5749,7 +5749,7 @@ Grouping Information and Showing Relationships
 Grouping by theme is different from listing by source. A source-by-source paragraph keeps switching the reader’s attention from document to document; a synthesis paragraph reorganises the material around the issues that matter most.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Combine information from multiple sources into thematic, coherent sentences.
 :::
@@ -5854,7 +5854,7 @@ Draft {{PH-2: U18-D1-guided-rewrite}}
 Scenario Writing
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 In your revision, do not just add synthesis phrases mechanically. Use them to group related evidence, show relationships across sources, and end with a point that goes beyond listing.
 :::
@@ -6092,7 +6092,7 @@ Identify differences in:
 - assumed level of reader knowledge
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved version is more accessible because it keeps the policy meaning intact while replacing specialist references with clear action-oriented explanation. It tells non-expert readers what is changing, why it matters, and what they need to do.
 :::
@@ -6105,7 +6105,7 @@ The improved version is more accessible because it keeps the policy meaning inta
 Plain explanation is not the same as oversimplification. The goal is to remove specialist labels that block understanding while preserving the requirement or consequence that the reader still needs to know.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Replace section numbers, annexes, and legal citations with plain descriptions of what they require.
 :::
@@ -6132,7 +6132,7 @@ Rewrite each sentence to remove or replace technical references.
 #### 2. Explaining Purpose and Impact
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Help non-expert readers understand why the policy exists and what it will change for them.
 :::
@@ -6178,7 +6178,7 @@ Each sentence describes a policy change. Add a sentence explaining its purpose o
 Required actions should tell readers exactly what they need to do, by when, and where to ask for help if something prevents them from completing the change.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Ensure non-expert readers know exactly what they need to do and when.
 :::
@@ -6230,7 +6230,7 @@ Format Conversion
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 When you simplify a specialist bulletin, preserve what matters for the reader’s action. Change the wording and explanation density, but do not drop the deadline, the core requirement, or the consequence of non-action.
 :::
@@ -6261,7 +6261,7 @@ Role-Based Writing Task
 
 
 ::: learn
-Learn — Role Reminder
+Role Reminder
 
 Your position in this task shapes how you write. You sit between the teams that produce policy and the offices that must implement it. Your job is not just to pass information on — it is to make sure that non-expert readers understand what is changing and what they need to do, without having to interpret specialist language on their own.
 :::
@@ -6307,7 +6307,7 @@ Provide two specific suggestions for improvement.
 Self-Editing Checklist
 
 ::: learn
-Learn — How to Use the Checklist
+How to Use the Checklist
 
 Each category reflects a major course skill strand: synthesis of inputs, professional tone, structure for the reader, justification of action, and next-step clarity. Use it to identify which strand is weakest before you revise.
 :::
@@ -6441,7 +6441,7 @@ Identify improvements in:
 - overall tone and precision
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The stronger justification makes the logic visible. It states the decision, identifies the problem that required it, links the change to a policy or standards basis, and explains the benefit that follows.
 :::
@@ -6454,7 +6454,7 @@ The stronger justification makes the logic visible. It states the decision, iden
 Readers need the decision before they can understand the rationale. If the opening only hints at a possible change, the rest of the paragraph has no clear anchor.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Begin with a short, direct statement of what was decided. Avoid vague or hedged opening phrases.
 :::
@@ -6489,7 +6489,7 @@ Rewrite each sentence to make the decision clear and direct.
 Rationale is not the same as background description. A rationale explains why this decision follows from a problem, a policy requirement, or evidence; background description only tells the reader what situation exists.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Explain why the decision was made. Ground the rationale in policy, evidence, or procedural requirements — not personal preference.
 :::
@@ -6524,7 +6524,7 @@ Rewrite each sentence to add a clear, policy-grounded rationale.
 Benefits are the practical gains expected from the decision. They are not the same as the rationale itself, and they should not be left as vague claims that the change will simply be "better".
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Describe the practical or procedural advantages of the decision in specific, measurable terms where possible.
 :::
@@ -6557,7 +6557,7 @@ Add a sentence describing the expected benefit.
 #### 4. Structuring a Complete Justification
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Combine decision, rationale, and benefit into a short, well-organised paragraph.
 :::
@@ -6620,7 +6620,7 @@ Draft a Justification
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Keep the sequence visible in your paragraph. State the decision first, then show why it was made, then explain what improvement it is expected to produce.
 :::
@@ -6826,7 +6826,7 @@ Outstanding Questions
 - A coordination meeting will be held on 29 November to finalise implementation.
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The improved report is easier to use because it groups information by reporting function rather than by office or by chronology. Readers can immediately see the overall status, the issues, the actions already taken, the unresolved questions, and what happens next.
 :::
@@ -6888,7 +6888,7 @@ Write in formal, complete sentences. Aim for 60–80 words across both sections 
 A summary opening should tell the reader what the report covers, why it was produced, and how many sources or offices it brings together. It should not begin with a low-value detail or a narrative aside.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Begin with a single sentence that explains what the report covers, why it was produced, and how many sources it draws from.
 :::
@@ -6922,7 +6922,7 @@ Write an appropriate opening sentence for each situation.
 Neutral issue description reports a problem without assigning blame. It identifies what difficulty exists, how widely it appears, and what part of the process it affects.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Describe problems or challenges specifically and without attribution of blame.
 :::
@@ -6955,7 +6955,7 @@ Rewrite each item to make it a clear, neutral issue description suitable for an 
 #### 3. Describing Actions Taken
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 Document completed actions in specific, factual terms.
 :::
@@ -6989,7 +6989,7 @@ Rewrite each item as a specific, clearly documented action taken.
 Next steps are not just future intentions. They need an action, a responsible party, and a time point so that the report can support follow-up.
 
 ::: learn
-Learn — Writing Goal
+Writing Goal
 
 State what will happen next, who is responsible, and by when.
 :::
@@ -7062,7 +7062,7 @@ Format Conversion
 
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 When converting a narrative update into a report, group points under the section that matches their function. Do not let unresolved questions remain buried inside status description.
 :::
@@ -7303,7 +7303,7 @@ Identify how the integrated response differs in:
 - usefulness as an administrative document
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 The integrated response is more useful because it brings the inputs together under a shared purpose. Instead of reacting to each source separately, it identifies the common implementation problem and turns it into coordinated action.
 :::
@@ -7376,7 +7376,7 @@ Draft {{PH-2: U22-D1-guided-rewrite}}
 Revision Chain
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 In revision, check whether your draft synthesises issues, uses a format that fits the audience, and turns the inputs into clear action. If it still reads like a list of separate source notes, the integration is not yet complete.
 :::
@@ -7582,7 +7582,7 @@ Identify how Response B demonstrates:
 :::
 
 ::: learn
-Learn — Why This Works
+Why This Works
 
 Response B succeeds because it integrates multiple course-level skills at once: synthesis across inputs, neutral administrative tone, grouped issue reporting, and action-focused next steps. The response is strong not because it is longer, but because each sentence performs a clear professional function.
 :::
@@ -7625,7 +7625,7 @@ If you do not have your earlier writing available, use one of your drafts from t
 Revision Chain — Revising Your Own Prior Work
 
 ::: learn
-Learn — Transfer Reminder
+Transfer Reminder
 
 Use this revision step to check your writing against the major skill strands of the course: synthesis, tone control, justification, structure, and action clarity. If one strand is weak, revise that strand deliberately rather than editing randomly.
 :::
@@ -7687,7 +7687,7 @@ Final Version {{PH-4: U23-E4-part-b-capstone-document}}
 Self-Assessment Rubric — Evaluate Your Draft
 
 ::: learn
-Learn — A Note on the Rubric Categories
+A Note on the Rubric Categories
 
 These categories reflect the book's major skill strands: meeting the brief, handling source material, synthesising information, showing judgment, proposing actions, controlling tone, structuring ideas, and writing precisely. Use the rubric to diagnose how well your capstone response brings those strands together.
 :::
@@ -7706,7 +7706,7 @@ Where to review this skill
 | Language Precision | Units 1, 5, 10, 13, 15, 20 | write specifically, avoid vagueness, and use controlled professional phrasing |
 
 ::: learn
-Learn — A Note on Word Count and Submission Requirements
+A Note on Word Count and Submission Requirements
 
 Word count still matters for this capstone task. Keep your final document within the required `300-350` word range, but treat word count as a submission requirement rather than one of the core analytic skill criteria.
 :::
