@@ -7727,7 +7727,7 @@ Reflect on your learning across this course and discuss:
 ### B. Model Text
 
 ::: notice
-Compare
+Compare Responses — Exemplar Analysis
 
 Read both responses to the capstone scenario below.
 
@@ -7809,7 +7809,7 @@ If you do not have your earlier writing available, use one of your drafts from t
 ### D. Guided Writing
 
 ::: revise
-Revision Chain
+Revision Chain — Revising Your Own Prior Work
 
 ::: learn
 Learn — Transfer Reminder:
