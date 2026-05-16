@@ -35,7 +35,7 @@ pandoc adv/md/working/aw-adv-all_0516.md \
   --to docx \
   --reference-doc adv/md/working/aw-adv-styleref.docx \
   --lua-filter ../textmaker/scripts/style_bridge.lua \
-  -o adv/md/working/aw-adv-all.docx
+  -o adv/md/working/aw-adv-all_0516.docx
 ```
 
 On Windows (cmd.exe):
@@ -46,7 +46,7 @@ pandoc adv\md\working\aw-adv-all_0516.md ^
   --to docx ^
   --reference-doc adv\md\working\aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
-  -o adv\md\working\aw-adv-all.docx
+  -o adv\md\working\aw-adv-all_0516.docx
 ```
 
 ---
