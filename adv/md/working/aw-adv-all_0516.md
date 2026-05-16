@@ -196,7 +196,11 @@ The arrow (→) in each pattern title shows the order in which ideas are present
 | **Pattern 2: Purpose Clause → Main Action**<br>Open with a short purpose or condition clause, then state the main action. This pattern is useful when the purpose or context needs to be foregrounded before the request. | *"To ensure consistency, **please confirm the applicant's name spelling.**"* |
 | **Pattern 3: Segmenting Dense Content**<br>Use two or more shorter sentences when: the main clause competes with multiple long subordinate clauses; there are more than two logical relationships in one sentence; or new information is introduced too quickly. | **Dense:** *"Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review."*<br><br>**Segmented:** *"The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review."* |
 
+::: note
+Learn — Patterns 1 And 2 Compared:
 
+Both connect an action with a rationale. The difference is emphasis and order: Pattern 1 leads with the action (what will happen); Pattern 2 leads with the purpose (why it matters). Use Pattern 2 when the reason needs to come first to frame the request — especially in external or formal correspondence.
+:::
 :::
 
 ::: rewrite
@@ -226,11 +230,6 @@ Learn — Note On Contrast:
 *Although* and *while* express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams continued using the previous version* (revision is background; continued use is the main point).
 :::
 
-::: learn
-Learn — Patterns 1 And 2 Compared:
-
-Both connect an action with a rationale. The difference is emphasis and order: Pattern 1 leads with the action (what will happen); Pattern 2 leads with the purpose (why it matters). Use Pattern 2 when the reason needs to come first to frame the request — especially in external or formal correspondence.
-:::
 :::
 
 ### D. Guided Writing
