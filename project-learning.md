@@ -813,49 +813,6 @@ Historical note:
   - a concrete closure gate for the full-review stage
 - Preferred behavior: use the full-review protocol itself as the single authoritative stage-definition and assessment document, rather than splitting the logic across a protocol file and a separate checklist.
 
-## 2026-05-10 - Advanced DOCX Conversion Must Suppress Markdown Separators
-
-- Status: `monitor`
-- Scope: project/tooling
-- Context: Advanced Step 2 Pandoc DOCX conversion from `adv/md/final/aw-adv-all_0510.md`
-- Observation: standalone `---` lines in the combined Markdown are structural separators/safeguards, not intended visual rules or page breaks. Textmaker's `pagebreak.lua` converts horizontal rules to page breaks, while Pandoc's default DOCX writer renders them as visible horizontal lines.
-- Preferred behavior: for the Advanced full-book DOCX conversion, do not use `pagebreak.lua`; instead use the textbook DOCX Lua filter that returns `{}` for `HorizontalRule` and maps semantic Divs to Word custom styles.
-
-## 2026-05-12 - Verify Conversion Paths Before Launching Textmaker
-
-- Status: `workaround`
-- Scope: project/tooling
-- Context: repeated failed Advanced DOCX conversion launches caused by Windows command quoting around `adv/edits & guides/...` Lua-filter paths.
-- Observation: paths containing shell metacharacters such as `&` can be split by `cmd.exe` or by fragile `Start-Process -ArgumentList` joins even when the file exists.
-- Preferred behavior: before any Textmaker conversion run, verify all source, reference, Lua-filter, output-parent, and temporary paths first. If a required path contains spaces or shell metacharacters, use an argument-safe invocation or copy the referenced file to a no-spaces/no-metacharacters temp path before launching the conversion.
-
-## 2026-05-13 - Advanced DOCX Uses Reference Styles And List Number 3 For Alphabetic Options
-
-- Status: `active`
-- Scope: project/tooling
-- Context: Advanced full-book DOCX/PDF generation. Current source: `adv/md/working/<date>.md`; reference DOCX: `adv/md/working/aw-adv-styleref.docx`.
-- Decision: run conversion through Textmaker with `adv/md/working/aw-adv-styleref.docx` as the Pandoc reference DOCX and the Advanced Div-style Lua filter enabled.
-- Preferred behavior: generated DOCX output must use only styles present in `adv/md/working/aw-adv-styleref.docx`; postprocess should remove generated fallback style usage/definitions and fail visibly when required reference styles are missing.
-- Preferred behavior: alphabetic option lists use the modified built-in `List Number 3` style from the reference; literal source markers such as `A. ` are removed after list style assignment so labels are not doubled in PDF output.
-- Preferred behavior: use `--no-pagebreak-filter` for this manuscript; the Advanced Lua filter suppresses standalone `---` separators, and Textmaker's built-in pagebreak filter must not run.
-- Preferred behavior: semantic Div title lines keep the semantic Div paragraph style. Do not replace them with `Label Base Para`/`Label Para`; set label spacing after to 4pt and moved content spacing before to 0pt.
-- Preferred behavior: after inserting the reference unit-title table, clear the original unit heading paragraph so it does not remain visible under or around the table.
-- Preferred behavior: list paragraphs inside semantic Divs should keep their list paragraph style while receiving the Div's block-level paragraph formatting from postprocess, because Word cannot apply both styles to one paragraph.
-
-## 2026-05-15 - Style-Safe Advanced DOCX Pipeline Now In Place
-
-- Status: `active`
-- Scope: project/tooling
-- Context: Advanced book DOCX build pipeline redesign based on `adv/edits & guides/style edits/step2-stylereference/Instructions_from_ChatGPT_0515.md`.
-- Decision: the reference DOCX `adv/md/working/aw-adv-styleref.docx` is the single source of truth for all style definitions. The build pipeline must never create or redefine styles.
-- Decision: replaced hardcoded `aw_textbook_div_styles.lua` with `style_bridge.lua` (in textmaker/scripts). Style mapping now lives in the Markdown YAML front matter (`style_map` block) and is read at Pandoc build time.
-- Decision: `postprocess_docx.py` is now style-safe by default. Semantic label rendering requires `--apply-semantic-labels`. Normal builds run structural cleanup only.
-- New file: `adv/style_specs/aw-div-label-styles.yaml` — YAML spec for all 24 Div label styles with MIT-palette colors and font replacement rules. Input to `manage_docx_styles.py` for manual reference DOCX maintenance.
-- New file: `adv/README-build.md` — documents the correct Pandoc build command, postprocess commands, style validation, and reference maintenance workflow with actual file paths.
-- Preferred behavior: for each Pandoc build, pass `style_bridge.lua` as `--lua-filter` and `adv/md/working/aw-adv-styleref.docx` as `--reference-doc`. Run `validate_docx_against_reference.py` after build. Use `--apply-semantic-labels` only for full Windows/Word semantic builds.
-- Preferred behavior: reference DOCX color updates must be done via `manage_docx_styles.py --input ... --spec adv/style_specs/aw-div-label-styles.yaml`. Never patch `word/styles.xml` directly without the three-location sync rule.
-- Preferred behavior: active combined source lives in `adv/md/working/` named by date (e.g. `aw-adv-all_0516.md`). The YAML `style_map` block in its front matter governs all Div-to-style mappings.
-
 ## 2026-04-01 - Intermediate full-review protocol now matches the stronger operational standard
 
 - `int/edits & guides/planning/guide-set/aw-int_full-review_protocol.md` has been upgraded from a lighter stage-definition file into a checklist-backed operational protocol.
@@ -919,3 +876,46 @@ Historical note:
   - `P6` is now the active next stage
 - Preferred behavior:
   - when the live source-layer placeholder system is treated as complete, run one explicit uniqueness-and-label audit on late paired / multi-document tasks before closing full review
+## 2026-05-10 - Advanced DOCX Conversion Must Suppress Markdown Separators
+
+- Status: `monitor`
+- Scope: project/tooling
+- Context: Advanced Step 2 Pandoc DOCX conversion from `adv/md/final/aw-adv-all_0510.md`
+- Observation: standalone `---` lines in the combined Markdown are structural separators/safeguards, not intended visual rules or page breaks. Textmaker's `pagebreak.lua` converts horizontal rules to page breaks, while Pandoc's default DOCX writer renders them as visible horizontal lines.
+- Preferred behavior: for the Advanced full-book DOCX conversion, do not use `pagebreak.lua`; instead use the textbook DOCX Lua filter that returns `{}` for `HorizontalRule` and maps semantic Divs to Word custom styles.
+
+## 2026-05-12 - Verify Conversion Paths Before Launching Textmaker
+
+- Status: `workaround`
+- Scope: project/tooling
+- Context: repeated failed Advanced DOCX conversion launches caused by Windows command quoting around `adv/edits & guides/...` Lua-filter paths.
+- Observation: paths containing shell metacharacters such as `&` can be split by `cmd.exe` or by fragile `Start-Process -ArgumentList` joins even when the file exists.
+- Preferred behavior: before any Textmaker conversion run, verify all source, reference, Lua-filter, output-parent, and temporary paths first. If a required path contains spaces or shell metacharacters, use an argument-safe invocation or copy the referenced file to a no-spaces/no-metacharacters temp path before launching the conversion.
+
+## 2026-05-13 - Advanced DOCX Uses Reference Styles And List Number 3 For Alphabetic Options
+
+- Status: `active`
+- Scope: project/tooling
+- Context: Advanced full-book DOCX/PDF generation. Current source: `adv/md/working/<date>.md`; reference DOCX: `adv/md/working/aw-adv-styleref.docx`.
+- Decision: run conversion through Textmaker with `adv/md/working/aw-adv-styleref.docx` as the Pandoc reference DOCX and the Advanced Div-style Lua filter enabled.
+- Preferred behavior: generated DOCX output must use only styles present in `adv/md/working/aw-adv-styleref.docx`; postprocess should remove generated fallback style usage/definitions and fail visibly when required reference styles are missing.
+- Preferred behavior: alphabetic option lists use the modified built-in `List Number 3` style from the reference; literal source markers such as `A. ` are removed after list style assignment so labels are not doubled in PDF output.
+- Preferred behavior: use `--no-pagebreak-filter` for this manuscript; the Advanced Lua filter suppresses standalone `---` separators, and Textmaker's built-in pagebreak filter must not run.
+- Preferred behavior: semantic Div title lines keep the semantic Div paragraph style. Do not replace them with `Label Base Para`/`Label Para`; set label spacing after to 4pt and moved content spacing before to 0pt.
+- Preferred behavior: after inserting the reference unit-title table, clear the original unit heading paragraph so it does not remain visible under or around the table.
+- Preferred behavior: list paragraphs inside semantic Divs should keep their list paragraph style while receiving the Div's block-level paragraph formatting from postprocess, because Word cannot apply both styles to one paragraph.
+
+## 2026-05-15 - Style-Safe Advanced DOCX Pipeline Now In Place
+
+- Status: `active`
+- Scope: project/tooling
+- Context: Advanced book DOCX build pipeline redesign based on `adv/edits & guides/style edits/step2-stylereference/Instructions_from_ChatGPT_0515.md`.
+- Decision: the reference DOCX `adv/md/working/aw-adv-styleref.docx` is the single source of truth for all style definitions. The build pipeline must never create or redefine styles.
+- Decision: replaced hardcoded `aw_textbook_div_styles.lua` with `style_bridge.lua` (in textmaker/scripts). Style mapping now lives in the Markdown YAML front matter (`style_map` block) and is read at Pandoc build time.
+- Decision: `postprocess_docx.py` is now style-safe by default. Semantic label rendering requires `--apply-semantic-labels`. Normal builds run structural cleanup only.
+- New file: `adv/style_specs/aw-div-label-styles.yaml` — YAML spec for all 24 Div label styles with MIT-palette colors and font replacement rules. Input to `manage_docx_styles.py` for manual reference DOCX maintenance.
+- New file: `adv/README-build.md` — documents the correct Pandoc build command, postprocess commands, style validation, and reference maintenance workflow with actual file paths.
+- Preferred behavior: for each Pandoc build, pass `style_bridge.lua` as `--lua-filter` and `adv/md/working/aw-adv-styleref.docx` as `--reference-doc`. Run `validate_docx_against_reference.py` after build. Use `--apply-semantic-labels` only for full Windows/Word semantic builds.
+- Preferred behavior: reference DOCX color updates must be done via `manage_docx_styles.py --input ... --spec adv/style_specs/aw-div-label-styles.yaml`. Never patch `word/styles.xml` directly without the three-location sync rule.
+- Preferred behavior: active combined source lives in `adv/md/working/` named by date (e.g. `aw-adv-all_0516.md`). The YAML `style_map` block in its front matter governs all Div-to-style mappings.
+
