@@ -56,8 +56,13 @@ pandoc adv\md\working\aw-adv-all_0516.md ^
 ```bash
 python ../textmaker/scripts/postprocess_docx.py \
   adv/md/working/aw-adv-all.docx \
+  --source-md adv/md/working/aw-adv-all_0516.md \
   --reference-doc adv/md/working/aw-adv-styleref.docx
 ```
+
+`--source-md` points to the Markdown source file. The postprocessor reads its YAML
+front matter to resolve style names (e.g. `style_bridge.body_text: "AW Body Text"`),
+keeping the same single source of truth used by `style_bridge.lua` during Pandoc conversion.
 
 This applies structural cleanup only (section breaks, page numbering, heading codes).
 It does **not** create or modify styles.

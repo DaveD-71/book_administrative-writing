@@ -2,6 +2,8 @@
 style_bridge:
   remove_horizontal_rules: true
   preserve_div_line_breaks: true
+  body_text: "AW Body Text"
+  body_text_char: "AW Body Text Char"
 
 style_map:
   learn: "Div Learn"
