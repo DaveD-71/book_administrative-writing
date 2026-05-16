@@ -16,8 +16,8 @@ All commands assume the working directory is the `book_administrative-writing/` 
 
 | File | Purpose |
 |---|---|
-| `adv/md/final/aw-adv-all_0514.md` | Markdown source with YAML `style_map` metadata |
-| `adv/md/final/aw-adv-styleref.docx` | Reference DOCX — single source of truth for all style definitions |
+| `adv/md/working/<date>.md` | Active Markdown source with YAML `style_map` metadata (e.g. `aw-adv-all_0516.md`) |
+| `adv/md/working/aw-adv-styleref.docx` | Reference DOCX — single source of truth for all style definitions |
 | `adv/style_specs/aw-div-label-styles.yaml` | YAML spec for Div label colors and fonts (manual maintenance input) |
 | `../textmaker/scripts/style_bridge.lua` | Lua filter that maps Div classes to Word custom styles from YAML metadata |
 | `../textmaker/scripts/postprocess_docx.py` | Structural DOCX cleanup (section breaks, page numbering, heading codes) |
@@ -30,23 +30,23 @@ All commands assume the working directory is the `book_administrative-writing/` 
 ## Step 1 — Pandoc conversion
 
 ```bash
-pandoc adv/md/final/aw-adv-all_0514.md \
+pandoc adv/md/working/aw-adv-all_0516.md \
   --from markdown \
   --to docx \
-  --reference-doc adv/md/final/aw-adv-styleref.docx \
+  --reference-doc adv/md/working/aw-adv-styleref.docx \
   --lua-filter ../textmaker/scripts/style_bridge.lua \
-  -o adv/docx/aw-adv-all.docx
+  -o adv/md/working/aw-adv-all.docx
 ```
 
 On Windows (cmd.exe):
 
 ```cmd
-pandoc adv/md/final/aw-adv-all_0514.md ^
+pandoc adv\md\working\aw-adv-all_0516.md ^
   --from markdown ^
   --to docx ^
-  --reference-doc adv/md/final/aw-adv-styleref.docx ^
+  --reference-doc adv\md\working\aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
-  -o adv/docx/aw-adv-all.docx
+  -o adv\md\working\aw-adv-all.docx
 ```
 
 ---
@@ -55,8 +55,8 @@ pandoc adv/md/final/aw-adv-all_0514.md ^
 
 ```bash
 python ../textmaker/scripts/postprocess_docx.py \
-  adv/docx/aw-adv-all.docx \
-  --reference-doc adv/md/final/aw-adv-styleref.docx
+  adv/md/working/aw-adv-all.docx \
+  --reference-doc adv/md/working/aw-adv-styleref.docx
 ```
 
 This applies structural cleanup only (section breaks, page numbering, heading codes).
@@ -68,8 +68,8 @@ It does **not** create or modify styles.
 
 ```bash
 python ../textmaker/scripts/validate_docx_against_reference.py \
-  adv/docx/aw-adv-all.docx \
-  --reference adv/md/final/aw-adv-styleref.docx \
+  adv/md/working/aw-adv-all.docx \
+  --reference adv/md/working/aw-adv-styleref.docx \
   --style-map adv/style_specs/aw-div-label-styles.yaml
 ```
 
@@ -96,7 +96,7 @@ To update Div label colors or fonts in the reference DOCX:
 
 ```bash
 python ../textmaker/scripts/manage_docx_styles.py \
-  --input adv/md/final/aw-adv-styleref.docx \
+  --input adv/md/working/aw-adv-styleref.docx \
   --spec adv/style_specs/aw-div-label-styles.yaml \
   --output adv/md/final/aw-adv-styleref.updated.docx
 ```
@@ -105,7 +105,7 @@ Review `aw-adv-styleref.updated.docx` in Word. If correct, replace the original:
 
 ```bash
 python ../textmaker/scripts/manage_docx_styles.py \
-  --input adv/md/final/aw-adv-styleref.docx \
+  --input adv/md/working/aw-adv-styleref.docx \
   --spec adv/style_specs/aw-div-label-styles.yaml \
   --in-place
 ```
@@ -116,7 +116,7 @@ To audit the reference DOCX without modifying it:
 
 ```bash
 python ../textmaker/scripts/audit_docx_styles.py \
-  adv/md/final/aw-adv-styleref.docx \
+  adv/md/working/aw-adv-styleref.docx \
   --filter "Div Label"
 ```
 

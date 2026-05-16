@@ -1,18 +1,23 @@
 # Advanced `md` Folder
 
-## Canonical source
+## Active working area — `working/`
 
-- `final/modules` is the canonical final module source set.
-- `final/supplemental` holds final companion materials such as the Unit 23 capstone rubric.
+- `working/aw-adv-styleref.docx` — reference DOCX, single source of truth for all style definitions.
+- `working/<date>.md` — active combined Markdown source for the current conversion pass (e.g. `aw-adv-all_0516.md`).
+- `working/aw-adv-all.docx` / `.pdf` — generated build outputs from the current pass.
 
-## Derived file
+## Edit history — `edits/`
 
-- `aw-adv-all.md` is a regenerated combined snapshot built from `final/modules`.
-- Do not edit `aw-adv-all.md` directly.
+- `edits/modules/` — canonical module source files (`aw-adv_mod1_n10.md` to `aw-adv_mod6_n10.md`).
+- `edits/supplemental/` — companion materials such as the Unit 23 capstone rubric.
+- `edits/aw-adv-all_<date>.md` — combined snapshots from previous conversion passes (0510, 0512, 0514).
+
+## Backups — `bak/`
+
+- Backup copies of the reference DOCX before in-place updates.
 
 ## Archived material
 
-- Historical source layers now live under `adv/archive/md`.
-- That archive preserves the former `n10` working-final module set, the completed `revised_modules_n9` set, the older `revised_modules_step13` set, and the original `first_draft_units` layer.
+- Historical source layers live under `adv/archive/md`.
 
-Edit the advanced book in `final/modules` only.
+Edit module source files in `edits/modules/` only. Run builds from `working/`.

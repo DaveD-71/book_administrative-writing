@@ -1595,6 +1595,15 @@ Historical note:
 - Regenerated the residual `0514` heading audit after activity conversion; the remaining `H4`/`H5` headings are now primarily numbered guidance, rubric, reference-support, and course-meta headings rather than the activity layer.
 - Restored a small set of `0514` div-title exceptions after cross-checking against `aw-adv-all_0510.md`: `Learn — Key Structures`, `Learn — Recommended Structure`, `Original Text — Weak Response`, `Revised Text — Executive-Level Summary`, and `Revised Text — Strong Response` were brought back because the flattened replacements had dropped instructional meaning that was not explicit enough in the surrounding labels.
 
+## 2026-05-16
+
+- Restructured `adv/md/` folder. `adv/md/final/` no longer exists; its contents split into two subfolders:
+  - `adv/md/edits/` — edit-history combined Markdown files (0510, 0512, 0514) and canonical module/supplemental sources (`modules/`, `supplemental/`)
+  - `adv/md/working/` — active working area: reference DOCX (`aw-adv-styleref.docx`), current combined source (dated, e.g. `aw-adv-all_0516.md`), generated DOCX/PDF outputs
+- Added `adv/md/bak/` for reference DOCX backups and `adv/x/` for older backup DOCX files.
+- Updated `adv/README-build.md`, `adv/md/README.md`, and `project-learning.md` to reflect the new paths.
+- Textmaker Python scripts are path-agnostic (CLI arguments only) — no script changes required.
+
 ## 2026-05-15
 
 - Implemented the style-safe Advanced DOCX build pipeline. GitHub CoPilot began the work but lost context mid-task; Claude Code completed all 10 tasks based on `adv/edits & guides/style edits/step2-stylereference/Instructions_from_ChatGPT_0515.md`.
