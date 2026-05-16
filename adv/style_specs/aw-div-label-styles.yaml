@@ -1,197 +1,78 @@
-# Div Label style spec for Administrative Writing Advanced textbook.
+# Div style spec for Administrative Writing Advanced textbook — 9-class system.
 #
-# Used by: scripts/manage_docx_styles.py (manual maintenance tool)
-# Reference DOCX: adv/md/final/aw-adv-styleref.docx
+# Used by: scripts/manage_docx_styles.py (manual maintenance tool only)
+# Reference DOCX: adv/md/working/aw-adv-styleref.docx
 #
-# Colors: full-spectrum 18-hue palette at consistent saturation/luminance (hex A8).
+# Style names match the simplified 9-class scheme: "Div Learn", "Div Write", etc.
+# (no "Label" in the name — that was the old multi-class system)
 #
 # manage_docx_styles.py updates three color locations that must stay in sync:
 #   1. paragraph style w:rPr/w:color/@w:val
 #   2. paragraph style w:rPr/w14:textFill/w14:solidFill/w14:srgbClr/@w14:val
 #   3. character style w:rPr/w:color/@w:val
 #
-# manage_docx_styles.py also applies uniform paragraph formatting to all Div Label styles:
-#   font size 11pt, left indent -0.6cm, hanging 0.6cm, space before 14pt,
-#   space after 3pt, tab stop at 0.6cm (left).
+# NOTE: manage_docx_styles.py applies Div Label * paragraph formatting only to
+# styles whose name starts with "Div Label ". The 9 Div * styles inherit their
+# paragraph formatting from Div Label Base via basedOn — no separate pass needed.
 
 font:
   replace:
     "Roboto Condensed": "Calibri"
     "Roboto Condensed Medium": "Calibri"
-  set_div_label_font: "Calibri"
 
 groups:
-  div-labels:
-    clone_from:
-      paragraph: "Div Label Language"
-      character: "Div Label Language Char"
-    based_on: "Div Label Base"
-    next: "Body Text"
+  div-styles:
     styles:
-      - div_class: "model"
-        paragraph_style: "Div Label Model"
-        character_style: "Div Label Model Char"
-        emoji: "📄"
-        color_name: "Teal"
-        color_hex: "24A87C"
-
-      - div_class: "model-bad"
-        paragraph_style: "Div Label Bad"
-        character_style: "Div Label Bad Char"
-        emoji: "❌"
-        color_name: "Red"
-        color_hex: "A82424"
-
-      - div_class: "model-good"
-        paragraph_style: "Div Label Good"
-        character_style: "Div Label Good Char"
-        emoji: "✅"
+      - div_class: "learn"
+        paragraph_style: "Div Learn"
+        character_style: "Div Learn Char"
         color_name: "Green"
-        color_hex: "24A824"
+        color_hex: "2C9167"
 
-      - div_class: "learn-process"
-        paragraph_style: "Div Label Process"
-        character_style: "Div Label Process Char"
-        emoji: "🧭"
-        color_name: "Sky Blue"
-        color_hex: "247CA8"
+      - div_class: "language"
+        paragraph_style: "Div Language"
+        character_style: "Div Language Char"
+        color_name: "Teal-Green"
+        color_hex: "39AC88"
 
-      - div_class: "learn-language"
-        paragraph_style: "Div Label Language"
-        character_style: "Div Label Language Char"
-        emoji: "💬"
-        color_name: "Cyan"
-        color_hex: "24A8A8"
+      - div_class: "structure"
+        paragraph_style: "Div Structure"
+        character_style: "Div Structure Char"
+        color_name: "Teal"
+        color_hex: "49C0A4"
 
-      - div_class: "learn-principle"
-        paragraph_style: "Div Label Principle"
-        character_style: "Div Label Principle Char"
-        emoji: "💡"
-        color_name: "Blue-Indigo"
-        color_hex: "2450A8"
+      - div_class: "notice"
+        paragraph_style: "Div Notice"
+        character_style: "Div Notice Char"
+        color_name: "Amber"
+        color_hex: "D5BB68"
 
-      - div_class: "learn-transfer"
-        paragraph_style: "Div Label Transfer"
-        character_style: "Div Label Transfer Char"
-        emoji: "🔁"
-        color_name: "Indigo-Violet"
-        color_hex: "5024A8"
+      - div_class: "edit"
+        paragraph_style: "Div Edit"
+        character_style: "Div Edit Char"
+        color_name: "Orange-Red"
+        color_hex: "D69676"
 
-      - div_class: "learn-teaching"
-        paragraph_style: "Div Label Teaching"
-        character_style: "Div Label Teaching Char"
-        emoji: "📘"
-        color_name: "Blue"
-        color_hex: "2424A8"
+      - div_class: "rewrite"
+        paragraph_style: "Div Rewrite"
+        character_style: "Div Rewrite Char"
+        color_name: "Magenta-Rose"
+        color_hex: "943368"
 
-      - div_class: "learn-note"
-        paragraph_style: "Div Label Note"
-        character_style: "Div Label Note Char"
-        emoji: "🗒️"
-        color_name: "Magenta"
-        color_hex: "A824A8"
+      - div_class: "revise"
+        paragraph_style: "Div Revise"
+        character_style: "Div Revise Char"
+        color_name: "Rose-Pink"
+        color_hex: "C05080"
 
-      - div_class: "guidance-step"
-        paragraph_style: "Div Label Base"
-        character_style: "Div Label Base Char"
-        emoji: "🔷"
-        color_name: "Magenta-Pink"
-        color_hex: "A8247C"
-
-      - div_class: "reference-support"
-        paragraph_style: "Div Label Base"
-        character_style: "Div Label Base Char"
-        emoji: "📎"
-        color_name: "Magenta-Pink"
-        color_hex: "A8247C"
-
-      - div_class: "rubric-assessment"
-        paragraph_style: "Div Label Base"
-        character_style: "Div Label Base Char"
-        emoji: "📋"
-        color_name: "Magenta-Pink"
-        color_hex: "A8247C"
-
-      - div_class: "course-meta"
-        paragraph_style: "Div Label Base"
-        character_style: "Div Label Base Char"
-        emoji: "ℹ️"
-        color_name: "Magenta-Pink"
-        color_hex: "A8247C"
-
-      - div_class: "activity-input"
-        paragraph_style: "Div Label Activity Input"
-        character_style: "Div Label Activity Input Char"
-        emoji: "📥"
-        color_name: "Violet"
-        color_hex: "7C24A8"
-
-      - div_class: "activity-analysis"
-        paragraph_style: "Div Label Activity Analysis"
-        character_style: "Div Label Activity Analysis Char"
-        emoji: "🔎"
-        color_name: "Lime"
-        color_hex: "50A824"
-
-      - div_class: "activity-language-control"
-        paragraph_style: "Div Label Activity Language Control"
-        character_style: "Div Label Activity Language Control Char"
-        emoji: "🔤"
-        color_name: "Yellow-Green"
-        color_hex: "7CA824"
-
-      - div_class: "activity-rewrite"
-        paragraph_style: "Div Label Activity Rewrite"
-        character_style: "Div Label Activity Rewrite Char"
-        emoji: "🔄"
-        color_name: "Red-Orange"
-        color_hex: "A85024"
-
-      - div_class: "activity-edit"
-        paragraph_style: "Div Label Activity Edit"
-        character_style: "Div Label Activity Edit Char"
-        emoji: "✏️"
-        color_name: "Yellow"
-        color_hex: "A8A824"
-
-      - div_class: "activity-draft"
-        paragraph_style: "Div Label Activity Draft"
-        character_style: "Div Label Activity Draft Char"
-        emoji: "📝"
-        color_name: "Orange"
-        color_hex: "A87C24"
-
-      - div_class: "worked-example"
-        paragraph_style: "Div Label Worked Example"
-        character_style: "Div Label Worked Example Char"
-        emoji: "🧩"
-        color_name: "Green-Teal"
-        color_hex: "24A850"
+      - div_class: "write"
+        paragraph_style: "Div Write"
+        character_style: "Div Write Char"
+        color_name: "Dark Purple"
+        color_hex: "4C1E5D"
 
       - div_class: "example"
-        paragraph_style: "Div Label Example"
-        character_style: "Div Label Example Char"
-        emoji: "📌"
-        color_name: "Green-Teal"
-        color_hex: "24A850"
-
-      - div_class: "placeholder"
-        paragraph_style: "Div Label Placeholder"
-        character_style: "Div Label Placeholder Char"
-        emoji: "⬜"
-        color_name: "Pink-Red"
-        color_hex: "A82450"
-
-      - div_class: "self-study"
-        paragraph_style: "Div Label Self Study"
-        character_style: "Div Label Self Study Char"
-        emoji: "📚"
-        color_name: "Blue"
-        color_hex: "2424A8"
-
-      - div_class: "annotation"
-        paragraph_style: "Div Label Annotation"
-        character_style: "Div Label Annotation Char"
-        emoji: "🏷️"
-        color_name: "Pink-Red"
-        color_hex: "A82450"
+        paragraph_style: "Div Example"
+        character_style: "Div Example Char"
+        color_name: "Lime-Green"
+        color_hex: "9CCF78"
