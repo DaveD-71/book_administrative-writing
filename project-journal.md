@@ -1602,6 +1602,35 @@ Historical note:
 - Created `adv/style_specs/aw-div-label-styles.yaml` — YAML spec for all 24 Div label styles with MIT-palette colors and Calibri font replacement rules. Input to `textmaker/scripts/manage_docx_styles.py` for manual reference DOCX color/font maintenance.
 - Created `adv/README-build.md` — documents the correct Pandoc build command (with `style_bridge.lua` and `aw-adv-styleref.docx`), structural postprocess command, style validation command, and reference maintenance workflow with actual repo-relative paths.
 - Reference DOCX for the Advanced book is `adv/md/final/aw-adv-styleref.docx`. Style definitions live only there. The build pipeline must not create or redefine styles.
+## 2026-05-16 (session 4 — Focus-collapse remediation and div-title audit closure)
+
+### Focus collapse remediation — full assessment
+
+- Identified that a prior Focus collapse task (commit `f7c72f4`) had stripped Focus lines from 308 divs in `aw-adv-all_0516.md`, leaving many with generic or blank titles.
+- Correct goal of the collapse task: read all three content layers (title, Focus, first instruction line), identify which side of the dash carried specific vs generic content (specific could be on EITHER side), and write a new single descriptive line keeping the specific detail. The original agent treated it as a mechanical truncation rule rather than a rewrite task.
+- Restored 179 title+Focus lines from `aw-adv-all_0514.md` using content-based positional matching.
+- Produced a full 595-row div title audit (`div_title_audit_0516.md`) comparing 0516 against 0514 originals.
+- Identified 137 divs where `f7c72f4` had a Focus line but the current 0516 does not.
+- Categorized all 137 gaps via positional comparison between `f7c72f4` and current 0516:
+  - **124 Category A (correct collapses):** Right-side of Focus dash was a generic descriptor (e.g., `Model Revision Practice`, `Advanced Transfer Practice`, `Guided Skill Practice`). The collapsed title retains the specific left-side content. No restoration needed.
+  - **10 Category B (potentially lost specific detail):** Right-side was not in the generic list. Of these, after reading the actual div content, only 2 had genuine specific loss:
+    - `L7729 notice: Compare → Compare Responses — Exemplar Analysis` (learner compares two capstone scenario responses)
+    - `L7811 revise: Revision Chain → Revision Chain — Revising Your Own Prior Work` (learner revisits their own prior writing from Units 19–22)
+    - The other 8 (e.g., `Discussion Questions — Activate Prior Knowledge`, `Contrastive Warm-Up — Compare Initial Choices`) were borderline generic on both sides; current titles stand.
+  - **3 Category D (no dash):** `Sentence Rewriting` Focus with no dash — nothing to preserve. Correct as-is.
+- Applied the 2 genuine loss fixes to `aw-adv-all_0516.md`. Div balance verified: 595/595, 0 unclosed, 0 orphan closes.
+- Committed: `47ec989` — Fix 2 genuine Focus-collapse losses in capstone unit (L7729, L7811)
+- Committed: `585f479` — Reorganise audit files into step3-div-reclassification folder
+- Pushed to `origin/main`.
+
+### Focus collapse task — still pending
+
+- The original focus-collapse goal (write a new single descriptive line for each div that previously had title+Focus, reading all three layers) has NOT yet been applied to the 595 divs in `aw-adv-all_0516.md`.
+- Currently 179 divs have their original title+Focus pair restored; the task is to collapse each of these into one well-crafted descriptive line keeping the specific detail.
+- This is a content-authoring task requiring per-div judgment — not a mechanical substitution.
+
+---
+
 ## 2026-05-16
 
 - Restructured `adv/md/` folder. `adv/md/final/` no longer exists; its contents split into two subfolders:
