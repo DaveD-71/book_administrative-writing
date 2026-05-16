@@ -183,8 +183,10 @@ State whether the subordinate clause expresses **reason**, **contrast**, or **ti
 
 #### 3. Clarity Patterns For Administrative Writing
 
-::: learn
 The arrow (→) in each pattern title shows the order in which ideas are presented in the sentence.
+
+::: learn
+Clarity Patterns
 
 | Pattern | Example |
 | --- | --- |
@@ -349,7 +351,7 @@ Draft {{PH-4: U01-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -510,6 +512,8 @@ Rewrite each question using neutral clarification language.
 #### 3. Audience-Appropriate Tone
 
 ::: learn
+Tone by Audience
+
 **Internal →** can be slightly more direct
 **Interagency →** requires neutrality and objectivity
 **International / foreign office →** requires extra diplomacy and clarity
@@ -667,7 +671,7 @@ Draft {{PH-4: U02-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -957,7 +961,7 @@ Revised Draft {{PH-2: U03-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Extension Task
+Homework Task
 
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
@@ -972,7 +976,7 @@ Draft {{PH-4: U03-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -1091,7 +1095,8 @@ High-level professional emails typically follow this sequence:
 5. **Next steps** — explain what will happen once the reader acts
 6. **Closing** — end professionally
 
-##### Useful Phrases
+::: language
+Useful Phrases
 
 |||
 |---|---|
@@ -1100,6 +1105,7 @@ High-level professional emails typically follow this sequence:
 | **Explanation** | *Our team noted the following points…*<br*It appears that the attached file may not reflect…* |
 | **Requests** | *We would appreciate it if you could…*<br*Could you kindly confirm whether…* |
 | **Next Steps** | *Once we receive the updated file, we will…*<br*We plan to proceed with…* |
+:::
 
 ::: example
 Worked Example
@@ -1300,7 +1306,7 @@ Draft {{PH-4: U04-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -1618,7 +1624,7 @@ Draft {{PH-4: U05-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -2004,7 +2010,7 @@ Draft {{PH-4: U06-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -2264,7 +2270,7 @@ Revised Draft {{PH-2: U07-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Extension Task
+Homework Task
 
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
@@ -2285,7 +2291,7 @@ Draft {{PH-4: U07-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -2599,7 +2605,7 @@ Draft {{PH-4: U08-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -2899,7 +2905,7 @@ Draft {{PH-4: U09-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -3175,7 +3181,7 @@ Revised Draft {{PH-2: U10-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Extension Task
+Homework Task
 
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
@@ -3197,7 +3203,7 @@ Draft {{PH-4: U10-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -3519,7 +3525,7 @@ Draft {{PH-4: U11-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -3914,7 +3920,7 @@ Draft {{PH-4: U12-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -4253,7 +4259,7 @@ Draft {{PH-4: U13-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -4640,7 +4646,7 @@ Draft {{PH-4: U14-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -4945,7 +4951,7 @@ Draft {{PH-2: U15-G3-decision-notes}}
 ### H. Homework & Extension
 
 ::: write
-Extension Task
+Homework Task
 
 
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
@@ -4967,7 +4973,7 @@ Draft {{PH-4: U15-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -5318,7 +5324,7 @@ Draft {{PH-4: U16-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 1. Find a short evaluation from your workplace (or a public-facing review document). Identify whether it is balanced, and rewrite any unprofessional or vague sections.
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
@@ -5633,7 +5639,7 @@ Draft {{PH-4: U17-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 1. Find a long report or meeting summary from your workplace and reduce it to a one-page executive brief using the four-part structure.
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
@@ -5977,7 +5983,7 @@ Draft {{PH-4: U18-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -6351,7 +6357,7 @@ Revised Draft {{PH-3: U19-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Extension Task
+Homework Task
 
 
 Write a **280–320 word** plain-language policy summary for a non-expert internal or interagency audience. Choose one:
@@ -6372,7 +6378,7 @@ Draft {{PH-4: U19-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -6741,7 +6747,7 @@ Draft {{PH-4: U20-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -7193,7 +7199,7 @@ Draft {{PH-4: U21-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -7505,7 +7511,7 @@ Draft {{PH-4: U22-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
@@ -7764,7 +7770,7 @@ Draft {{PH-4: U23-H3-homework-draft}}
 :::
 
 ::: write
-Extension Task
+Homework Task
 
 Choose one:
 
