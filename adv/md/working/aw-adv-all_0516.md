@@ -51,9 +51,7 @@ This unit helps learners produce clear, precise, and unambiguous sentences in ad
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Identifying Confusing Sentences — Guided Skill Practice
+Identifying Confusing Sentences
 
 Read the following sentences. Identify what makes each one difficult to follow, and underline the section where the sentence loses clarity.
 
@@ -88,9 +86,7 @@ Revised Text
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 Identify:
 
@@ -107,9 +103,7 @@ The revised version is clearer not because every sentence is short, but because 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 In the revised version, highlight or underline:
 
@@ -151,10 +145,8 @@ Learn — Patterns:
 - X; *therefore*, Y (logical result)
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Add Coordinators
+::: rewrite
+Add Coordinators
 
 Choose the most appropriate connector for each sentence.
 
@@ -175,9 +167,7 @@ Learn — Patterns:
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Practice — Identify the Subordination Function
+Identify the Subordination Function
 
 State whether the subordinate clause expresses **reason**, **contrast**, or **time**.
 
@@ -187,11 +177,9 @@ State whether the subordinate clause expresses **reason**, **contrast**, or **ti
 4. *Although the instructions were revised, some teams continued using the previous version.*
 :::
 
-::: language
-Language Practice
+#### 3. Clarity Patterns For Administrative Writing
 
-Focus: 3. Clarity Patterns For Administrative Writing — Guided Skill Practice
-
+::: learn
 The arrow (→) in each pattern title shows the order in which ideas are presented in the sentence.
 
 | Pattern | Example |
@@ -203,10 +191,8 @@ The arrow (→) in each pattern title shows the order in which ideas are present
 
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Apply the Patterns
+::: rewrite
+Apply the Patterns
 
 Rewrite each sentence below using the clarity pattern indicated.
 
@@ -218,13 +204,13 @@ Rewrite each sentence below using the clarity pattern indicated.
 
 4. *The department will review the file once the updated form has been received and after the confirmation from the regional office has been processed.* → Rewrite using **Pattern 2** (purpose clause → main action).
 
-::: language
+::: learn
 Learn — Note On Contrast:
 
 Both *but* and *however* express contrast between equal ideas. Use *but* for lighter contrast within a single sentence; use *; however,* when the contrast is emphatic or the ideas are more complex. Compare this with *although* (subordination), which makes the contrast idea secondary — see item 2.
 :::
 
-::: language
+::: learn
 Learn — Note On Contrast:
 
 *Although* and *while* express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams continued using the previous version* (revision is background; continued use is the main point).
@@ -240,9 +226,7 @@ Both connect an action with a rationale. The difference is emphasis and order: P
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Model Text — Model Revision Practice
+Rewrite The Model Text
 
 Rewrite the **original** model text (the unclear version) as **three to four clear sentences**. Follow these steps:
 
@@ -257,9 +241,7 @@ Draft {{PH-2: U01-D1-guided-rewrite}}
 :::
 
 ::: write
-Language Practice
-
-Focus: Write Your Own Complex Sentence — Sentence-Control Practice
+Write Your Own Complex Sentence
 
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
 
@@ -289,9 +271,7 @@ Planning Notes {{PH-1: U01-D2-version-choice-note}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write approximately **150 words** explaining the cause of an administrative problem to an internal reader. Your explanation should:
 
@@ -315,9 +295,7 @@ Draft {{PH-4: U01-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Check your writing for the following:
 
@@ -330,10 +308,8 @@ Check your writing for the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following sentences to eliminate ambiguity. For each one, identify the source of the problem before rewriting.
 
@@ -351,9 +327,7 @@ Revised Draft {{PH-2: U01-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write approximately **150 words** explaining a work situation that involves multiple related causes or factors. Your explanation should be appropriate for internal or interagency communication, and should use coordination, subordination, and segmentation to manage the logical relationships clearly.
 
@@ -369,9 +343,7 @@ Draft {{PH-4: U01-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -393,10 +365,8 @@ This unit develops learners' ability to use nuanced politeness, diplomatic phras
 
 ### A. Opening & Activation
 
-::: notice
-Analysis Task
-
-Focus: Discussion Questions — Activate Prior Knowledge
+::: write
+Discussion Questions
 
 Reflect on your own professional writing experience:
 
@@ -427,9 +397,7 @@ Revised Text
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 Identify the differences in:
 
@@ -445,9 +413,7 @@ The revised version protects the working relationship. It reduces blame, gives a
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 Highlight examples of the following in the revised text:
 
@@ -462,11 +428,9 @@ Reflect: How do these features change the reader's experience of the message?
 
 ### C. Language Focus
 
-::: notice
-Analysis Task
+#### 1. Softening Strategies
 
-Focus: 1. Softening Strategies — Guided Skill Practice
-
+::: learn
 Useful for avoiding blame, maintaining cooperation, and showing respect.
 
 Softening does not mean being vague or weak. It means presenting a problem in a way that keeps the reader cooperative, especially when the message could otherwise sound accusatory, impatient, or embarrassing.
@@ -484,9 +448,7 @@ Learn — Patterns:
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Practice — Match the Function
+Match the Function
 
 Match each softening phrase (A–D) to its function (1–4).
 
@@ -507,11 +469,9 @@ Functions:
 :::
 :::
 
-::: rewrite
-Rewrite Task
+#### 2. Neutral Clarification Language
 
-Focus: 2. Neutral Clarification Language — Guided Skill Practice
-
+::: learn
 Used for gathering information without sounding accusatory.
 
 Neutral clarification language is useful when you need accurate information but do not want to imply fault before the facts are confirmed. The goal is to keep the question professional, answerable, and non-defensive.
@@ -527,9 +487,7 @@ Learn — Key Structures:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Rewrite Direct Questions
+Rewrite Direct Questions
 
 Rewrite each question using neutral clarification language.
 
@@ -539,11 +497,9 @@ Rewrite each question using neutral clarification language.
 4. *Did you read the previous instructions?*
 :::
 
-::: notice
-Analysis Task
+#### 3. Audience-Appropriate Tone
 
-Focus: 3. Audience-Appropriate Tone — Guided Skill Practice
-
+::: learn
 **Internal →** can be slightly more direct
 **Interagency →** requires neutrality and objectivity
 **International / foreign office →** requires extra diplomacy and clarity
@@ -562,9 +518,7 @@ The core request stays the same, but the amount of softening and explicit reader
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Practice — Choose the Appropriate Version
+Choose the Appropriate Version
 
 Three versions of the same request are shown below. For each audience (A, B, C) below, select the most appropriate version and explain your choice.
 
@@ -585,9 +539,7 @@ C. Foreign IP office
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Model Text — Model Revision Practice
+Rewrite The Model Text
 
 Rewrite the original (direct) model text into a diplomatic version. Your rewrite must include:
 
@@ -602,9 +554,7 @@ Draft {{PH-2: U02-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Tone Transformation — Adjust Register And Diplomacy
+Tone Transformation — Adjust Register And Diplomacy
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
 
@@ -628,9 +578,7 @@ Draft {{PH-3: U02-D4-two-audience-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write approximately **150 words**. Your message must include:
 
@@ -653,9 +601,7 @@ Draft {{PH-4: U02-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 - Is the tone appropriate for the intended audience?
 - Does any sentence sound accusatory or impatient?
@@ -664,9 +610,7 @@ Focus: Guided Peer Review — Structured Feedback Exchange
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Check your writing for:
 
@@ -679,10 +623,8 @@ Check your writing for:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite these sentences to make them more diplomatic. For each one, identify which softening strategy you have used.
 
@@ -699,9 +641,7 @@ Revised Draft {{PH-2: U02-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write approximately **150 words**. Your message must use at least three softening strategies, include clear reason-giving, and close cooperatively. Choose one situation:
 
@@ -713,9 +653,7 @@ Draft {{PH-4: U02-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -739,9 +677,7 @@ This unit develops learners' ability to construct clear, logically organised par
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Sorting / Categorisation — Classify Writing Choices
+Sorting / Categorisation — Classify Writing Choices
 
 Below are eight short excerpts from administrative paragraphs. Sort them into two groups:
 
@@ -784,9 +720,7 @@ Revised Text
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 Identify:
 
@@ -802,9 +736,7 @@ The revised paragraph guides the reader through a sequence: topic, explanation, 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 In the revised model, highlight or underline examples of:
 
@@ -821,11 +753,9 @@ Reflect: How do these elements work together to improve readability?
 
 ### C. Language Focus
 
-::: notice
-Analysis Task
+#### 1. Cohesive Devices
 
-Focus: 1. Cohesive Devices — Guided Skill Practice
-
+::: learn
 Cohesive devices can be grouped by the relationship they signal:
 
 |||
@@ -837,10 +767,8 @@ Cohesive devices can be grouped by the relationship they signal:
 
 Cohesive devices do more than "make writing smoother". They tell the reader exactly how one idea relates to the next: addition, result, contrast, or specification. Without that signalling, the paragraph may contain the right information but still feel hard to follow.
 
-::: notice
-Analysis Task
-
-Focus: Practice — Sequence for Logical Flow
+::: structure
+Sequence for Logical Flow
 
 The following sentences form a paragraph but are in the wrong order. Arrange them in the most logical sequence, then explain your reasoning.
 
@@ -854,11 +782,9 @@ D. *Once the revised explanation has been approved internally, it will be distri
 :::
 :::
 
-::: rewrite
-Rewrite Task
+#### 2. Reference And Continuity
 
-Focus: 2. Reference And Continuity — Guided Skill Practice
-
+::: learn
 Using reference words helps maintain flow and avoid repetition.
 
 Reference improves flow when the reader can still identify the meaning clearly. If the reference word becomes vague, repetition is better. Good writers choose between repetition and reference based on what gives the reader the clearest path through the paragraph.
@@ -871,9 +797,7 @@ Learn — Recommended Structure:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Replace Repetition
+Replace Repetition
 
 Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriate reference words.
 
@@ -883,11 +807,9 @@ Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriat
 4. *The procedure was updated in January. The procedure applies to all agencies from March onwards.*
 :::
 
-::: language
-Language Practice
+#### 3. Thematic Progression
 
-Focus: 3. Thematic Progression — Guided Skill Practice
-
+::: learn
 Good paragraphs start with known information and move forward to new information.
 
 ::: language
@@ -903,10 +825,8 @@ The example begins with the meeting outcome, develops into the specific problems
 :::
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Add Logical Connectors
+::: rewrite
+Add Logical Connectors
 
 Add appropriate connectors to the following sentences. More than one answer may be correct — explain your choice.
 
@@ -919,9 +839,7 @@ Add appropriate connectors to the following sentences. More than one answer may 
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rebuild The Disjointed Model — Cohesion Rebuild Practice
+Rebuild The Disjointed Model
 
 Rewrite the original (disjointed) model text as **one cohesive paragraph**. Include:
 
@@ -934,10 +852,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U03-D1-guided-rewrite}}
 :::
 
-::: rewrite
-Rewrite Task
-
-Focus: Reorganise And Rewrite — Paragraph Organization Practice
+::: structure
+Reorganise And Rewrite
 
 Below are seven pieces of information presented without structure or logical order. Reorganise them into a coherent two-paragraph explanation. You may add connectors and reference words, but do not add new content.
 
@@ -963,9 +879,7 @@ Draft {{PH-3: U03-D5-reorganised-version}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write approximately **150 words**. Your paragraph should use cohesive devices, reference words, and clear thematic progression, and should close with an implication or next step.
 
@@ -983,9 +897,7 @@ Draft {{PH-4: U03-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 - Does the paragraph have a clear topic sentence?
 - Is each sentence logically connected to the one before it?
@@ -994,9 +906,7 @@ Focus: Guided Peer Review — Structured Feedback Exchange
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Check your writing for:
 
@@ -1009,10 +919,8 @@ Check your writing for:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite these paragraphs for better cohesion. Identify at least two specific changes you have made and explain why.
 
@@ -1028,9 +936,7 @@ Revised Draft {{PH-2: U03-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
@@ -1044,9 +950,7 @@ Draft {{PH-4: U03-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -1081,9 +985,7 @@ This unit develops learners' ability to structure multi-part professional emails
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the following email. Identify what is missing or unclear — and explain why it would be difficult for the reader to act on it.
 
@@ -1103,9 +1005,7 @@ Consider:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -1142,9 +1042,7 @@ The improved version helps the reader act efficiently because each part of the e
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Structural Deconstruction — Document Structure Analysis
+Structural Deconstruction — Document Structure Analysis
 
 High-level email structure is not just a format rule. Each section supports the reader in a different way: orienting them, explaining why the message matters, stating what action is needed, and making clear what will happen next.
 
@@ -1193,9 +1091,7 @@ Notice how each sentence performs one clear function: opening, purpose, explanat
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Practice — Identify The Function
+Identify The Function
 
 Label each sentence as **opening**, **purpose**, **explanation**, **request**, or **next step**.
 
@@ -1208,9 +1104,7 @@ Label each sentence as **opening**, **purpose**, **explanation**, **request**, o
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Sentence Rewriting
+Sentence Rewriting
 
 Rewrite each sentence to match the function indicated. Keep the same core information but change the phrasing appropriately.
 
@@ -1223,9 +1117,7 @@ Rewrite each sentence to match the function indicated. Keep the same core inform
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original (informal) model email as a structured, diplomatic version. Your rewrite must include:
 
@@ -1241,10 +1133,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U04-D1-guided-rewrite}}
 :::
 
-::: write
-Writing Task
-
-Focus: Template-Guided Writing — Guided Template Practice
+::: structure
+Template-Guided Writing — Guided Template Practice
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
@@ -1271,9 +1161,7 @@ Treat the template as a sequence of communicative jobs, not as a rigid formula. 
 :::
 
 ::: write
-Writing Task
-
-Focus: Scenario Writing — Guided Skill Practice
+Scenario Writing
 
 Choose one scenario and write a structured email of 5–7 sentences.
 
@@ -1290,9 +1178,7 @@ Draft {{PH-3: U04-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Task — Write A Full High-Level Email
+Write A Full High-Level Email
 
 Write a high-level professional email of **190–220 words**. Your email must include:
 
@@ -1317,9 +1203,7 @@ Draft {{PH-4: U04-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Peer Review — Structured Feedback Exchange
+Peer Review
 
 Partners respond to the following:
 
@@ -1330,9 +1214,7 @@ Partners respond to the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check that your email:
 
@@ -1345,10 +1227,8 @@ Before submitting, check that your email:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
@@ -1368,9 +1248,7 @@ Revised Draft {{PH-2: U04-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **190–220 word** high-level email to an interagency counterpart. Your email must include:
 
@@ -1391,9 +1269,7 @@ Draft {{PH-4: U04-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -1417,9 +1293,7 @@ This unit develops learners' ability to write clear, targeted, and professional 
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the following clarification request. Identify the specific problems that would make it difficult for the reader to respond usefully.
 
@@ -1439,9 +1313,7 @@ Consider:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -1478,9 +1350,7 @@ The improved version is easier to answer because each question is anchored to a 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 Highlight the following in the improved version:
 
@@ -1518,9 +1388,7 @@ Precision in clarification writing means reducing the reader's interpretive work
 - *Could you specify which version is currently valid?*
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Sentence Rewriting Practice
+Sentence Rewriting Practice
 
 Rewrite the following to make each request more precise and diplomatic. Add a specific reference, a clear scope, and softening language where appropriate.
 
@@ -1542,10 +1410,8 @@ Clear multi-part clarification requests typically follow this structure:
 
 When several questions appear in one message, the writer should still make each question answerable on its own. A useful sequence moves from context, to clearly separated points, to the action your office will take once the reply is received.
 
-::: language
-Language Practice
-
-Focus: Practice — Phrase Bank Building
+::: structure
+Phrase Bank Building
 
 The phrases below are drawn from this unit's model text and language focus. Organise them into your own personal phrase bank by sorting them under the four headings below. Add any additional phrases from this unit that you find useful.
 
@@ -1573,9 +1439,7 @@ This example works because each question is tied to a specific reference, each p
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original (vague) model text as a precise, structured clarification request. Your rewrite must include:
 
@@ -1590,9 +1454,7 @@ Use this space for your first full draft.
 Draft {{PH-2: U05-D1-guided-rewrite}}
 
 ::: write
-Writing Task
-
-Focus: Two-Audience Version Task — Adapt For Two Audiences
+Two-Audience Version Task — Adapt For Two Audiences
 
 Using the scenario below, write two versions of the same clarification request.
 
@@ -1625,9 +1487,7 @@ Draft {{PH-3: U05-D4-version-b}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Role-Based Writing Task — Audience-Specific Response
+Role-Based Writing Task — Audience-Specific Response
 
 You are the person in your office responsible for reviewing documents received from partner organisations and raising any inconsistencies before they are acted on. When you identify a problem, you write directly to the contact at the sending office to request clarification.
 
@@ -1653,9 +1513,7 @@ Draft {{PH-4: U05-E3-role-based-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Peer Review — Structured Feedback Exchange
+Peer Review
 
 Partners identify:
 
@@ -1666,9 +1524,7 @@ Partners identify:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check that your writing:
 
@@ -1681,10 +1537,8 @@ Before submitting, check that your writing:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following clarification requests. Each is too vague, too direct, or missing a reference. Provide the improved version and note what you changed.
 
@@ -1704,9 +1558,7 @@ Revised Draft {{PH-2: U05-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **190–220 word** clarification request to a partner office regarding inconsistencies found in a shared document. Your message must include:
 
@@ -1726,9 +1578,7 @@ Draft {{PH-4: U05-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -1752,9 +1602,7 @@ This unit develops learners' ability to communicate errors, inconsistencies, and
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Contrastive Warm-Up — Compare Initial Choices
+Contrastive Warm-Up
 
 Read the two messages below. Without any explanation yet, identify what makes the second version more effective. Be as specific as possible.
 
@@ -1786,9 +1634,7 @@ Discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -1825,9 +1671,7 @@ The improved version identifies the problem without accusing the reader. It sepa
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Annotated Model — Model Feature Analysis
+Annotated Model — Model Feature Analysis
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
@@ -1919,9 +1763,7 @@ Use these openings to introduce an issue without assigning blame:
 - *Upon review, it seems that…*
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Sentence Rewriting Practice
+Sentence Rewriting Practice
 
 Rewrite each sentence using a diplomatic frame. Keep the same factual content but remove any blaming or accusatory tone.
 
@@ -1944,9 +1786,7 @@ Show why the correction is needed using neutral, purpose-oriented language.
 A neutral impact statement explains why the correction matters without presenting the reader as the cause of the problem. This keeps the message focused on resolution rather than blame.
 
 ::: edit
-Editing Task
-
-Focus: Practice — Error Identification & Correction
+Error Identification & Correction
 
 Each sentence below contains one problem — either a tone issue, a missing reference, a blaming phrase, or a structural problem. Identify the problem type and rewrite the sentence to correct it.
 
@@ -1972,9 +1812,7 @@ The revised version removes accusation, adds a specific reference, and explains 
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original (too direct) model using the diplomatic techniques from this unit. Your version must include:
 
@@ -1990,9 +1828,7 @@ Draft {{PH-2: U06-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Scenario Writing — Guided Skill Practice
+Scenario Writing
 
 Choose one scenario and write a diplomatic error-notification message of 5–7 sentences.
 
@@ -2016,9 +1852,7 @@ Draft {{PH-3: U06-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Task — Write A Diplomatic Error Notification
+Write A Diplomatic Error Notification
 
 Write a diplomatic error-notification message of **190–220 words**. Your message must include:
 
@@ -2043,9 +1877,7 @@ Draft {{PH-4: U06-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Peer Review — Structured Feedback Exchange
+Peer Review
 
 Partners respond to the following:
 
@@ -2056,9 +1888,7 @@ Partners respond to the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check that your writing:
 
@@ -2071,10 +1901,8 @@ Before submitting, check that your writing:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following sentences. Each is too direct, too vague, or missing a key diplomatic element. For each rewrite, note what you changed and why.
 
@@ -2093,9 +1921,7 @@ Revised Draft {{PH-2: U06-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Real-World Task — Workplace Transfer Practice
+Real-World Task
 
 Find an email or written message from your own professional experience (or a realistic example from your workplace context) that involves communicating a problem, error, or discrepancy to a colleague or external partner.
 
@@ -2110,9 +1936,7 @@ Rewrite the message applying the techniques from this unit. If you cannot use a 
 :::
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **190–220 word** diplomatic error-notification message to a domestic or foreign office. Your message must include:
 
@@ -2133,9 +1957,7 @@ Draft {{PH-4: U06-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -2159,9 +1981,7 @@ This unit develops learners' ability to write layered, prioritised, and logicall
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the three messages below. For each one, identify: how many distinct requests does the message contain? Are all requests equally clear?
 
@@ -2175,9 +1995,7 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -2213,9 +2031,7 @@ The improved version reduces confusion by showing the reader which action comes 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 Highlight the following in the improved version:
 
@@ -2243,10 +2059,8 @@ Use these phrases to establish a clear order:
 - *Finally, if possible, could you…*
 - *As a first step, we would ask that…*
 
-::: rewrite
-Rewrite Task
-
-Focus: Practice — Sentence Rewriting Practice
+::: structure
+Sentence Rewriting Practice
 
 Rewrite each unsequenced list as a structured, logically ordered request. Add sequencing markers and, where relevant, a brief rationale.
 
@@ -2256,11 +2070,9 @@ Rewrite each unsequenced list as a structured, logically ordered request. Add se
 4. *Confirm whether the instruction is still valid. Update your internal records. Notify the applicant once confirmed.*
 :::
 
+#### 2. Paragraph-Level Transformation
+
 ::: rewrite
-Rewrite Task
-
-Focus: 2. Paragraph-Level Transformation — Guided Skill Practice
-
 Read the paragraph below. It contains all the necessary information, but the requests are unsequenced, the priority order is unclear, and there are no dependency markers.
 
 ::: example
@@ -2292,9 +2104,7 @@ The second version is easier to follow because the order, dependency, and reason
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original (unstructured) model into a layered, prioritised request message. Include:
 
@@ -2310,9 +2120,7 @@ Draft {{PH-2: U07-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Scenario Writing — Guided Skill Practice
+Scenario Writing
 
 Choose one scenario and write a structured multi-part request of 6–8 sentences.
 
@@ -2335,9 +2143,7 @@ Draft {{PH-3: U07-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Task — Write A Multi-Part Request Message
+Write A Multi-Part Request Message
 
 Write a multi-part request message of **190–220 words**. Your message must include:
 
@@ -2362,9 +2168,7 @@ Draft {{PH-4: U07-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Peer Review — Structured Feedback Exchange
+Peer Review
 
 Partners respond to the following:
 
@@ -2375,9 +2179,7 @@ Partners respond to the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check that your message:
 
@@ -2390,10 +2192,8 @@ Before submitting, check that your message:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
@@ -2411,9 +2211,7 @@ Revised Draft {{PH-2: U07-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
 
@@ -2433,9 +2231,7 @@ Draft {{PH-4: U07-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -2471,9 +2267,7 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Real Document Analysis — Workplace Document Analysis
+Real Document Analysis — Workplace Document Analysis
 
 Read the following internal procedure notice.
 
@@ -2496,9 +2290,7 @@ Answer the following questions:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -2534,9 +2326,7 @@ The improved version reduces reader error because each step has one clear job, a
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 Highlight or underline the following features in the improved version:
 
@@ -2555,10 +2345,8 @@ The improved version contains no exceptions. Why might a real procedure need at 
 
 ### C. Language Focus
 
-::: notice
-Analysis Task
-
-Focus: Sequencing / Ordering Task — Guided Skill Practice
+::: structure
+Sequencing / Ordering Task
 
 In procedural writing, order is part of the meaning. Readers need a sequence they can follow without guessing which action starts the process, which actions depend on earlier checks, and which step closes the task.
 
@@ -2578,9 +2366,7 @@ F. *Log the corrected submission in the internal tracking system upon receipt.*
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting — Guided Skill Practice
+Sentence Rewriting
 
 Procedural instructions are not the same as general explanation. A procedure tells the reader exactly what action to perform, using precise verbs and a stable instruction style, rather than broad descriptive language.
 
@@ -2613,9 +2399,7 @@ The revised version works better because the actions are separated, the verbs ar
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original unclear procedure from Section B into a structured, formal version. Your rewrite must include:
 
@@ -2629,10 +2413,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U08-D1-guided-rewrite}}
 :::
 
-::: rewrite
-Rewrite Task
-
-Focus: Information Reorganisation — Restructure Source Information
+::: structure
+Information Reorganisation — Restructure Source Information
 
 ::: learn
 Learn — Transfer Reminder:
@@ -2658,9 +2440,7 @@ Draft {{PH-3: U08-D5-reorganised-version}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a complete internal or interagency procedure of **180–220 words**. Your procedure must include:
 
@@ -2684,9 +2464,7 @@ Draft {{PH-4: U08-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your procedure with a partner. Using the questions below, provide written feedback on their work.
 
@@ -2697,9 +2475,7 @@ Exchange your procedure with a partner. Using the questions below, provide writt
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your procedure against the following:
 
@@ -2713,10 +2489,8 @@ Before submitting, check your procedure against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
@@ -2744,9 +2518,7 @@ Revised Draft {{PH-3: U08-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–230 word** procedure for an internal or interagency audience. Your procedure must include:
 
@@ -2766,9 +2538,7 @@ Draft {{PH-4: U08-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -2791,10 +2561,8 @@ This unit develops learners' ability to write clear, well-structured messages th
 
 ### A. Opening & Activation
 
-::: notice
-Analysis Task
-
-Focus: Prediction Task — Anticipate Reader Needs
+::: write
+Prediction Task — Anticipate Reader Needs
 
 Read the following scenario. Before turning to the model text, write down five elements you would expect a well-written change management notice to include.
 
@@ -2822,9 +2590,7 @@ After reading the model, return to your list and answer:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -2854,9 +2620,7 @@ The improved notice balances three jobs at once: it states the change clearly, e
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Annotated Model — Model Feature Analysis
+Annotated Model — Model Feature Analysis
 
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
 
@@ -2876,9 +2640,7 @@ Reassurance in a change notice should reduce uncertainty without becoming vague.
 ### C. Language Focus
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting — Guided Skill Practice
+Sentence Rewriting
 
 Change messages usually combine three communicative functions: state the change, explain its impact or rationale, and reassure the reader about what to do next. If one of these functions is missing, the message often feels abrupt, incomplete, or difficult to act on.
 
@@ -2890,10 +2652,8 @@ Rewrite each sentence using a more formal and informative structure. The target 
 4. *The process is longer.* Explain the change and give a reason
 5. *Use the new version from now on.* Write a polite instruction with appropriate register
 
-::: language
-Language Practice
-
-Focus: Expansion Task — Develop Supporting Detail
+::: rewrite
+Expansion Task — Develop Supporting Detail
 
 Each sentence below is a bare statement of fact. Expand each one into 2–3 sentences by adding the missing elements indicated in brackets.
 
@@ -2918,9 +2678,7 @@ The expanded version tells the reader when to act, what has changed, and why the
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original unclear message from Section B. Your version must include:
 
@@ -2935,10 +2693,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U09-D1-guided-rewrite}}
 :::
 
-::: write
-Writing Task
-
-Focus: Template-Guided Writing — Guided Template Practice
+::: structure
+Template-Guided Writing — Guided Template Practice
 
 ::: learn
 Learn — Transfer Reminder:
@@ -2974,9 +2730,7 @@ Draft {{PH-3: U09-D3-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a complete change management notice of **200–230 words**. Your notice must include:
 
@@ -3000,9 +2754,7 @@ Draft {{PH-4: U09-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your change management notice with a partner and answer the following questions in writing:
 
@@ -3013,9 +2765,7 @@ Exchange your change management notice with a partner and answer the following q
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your notice against the following:
 
@@ -3029,10 +2779,8 @@ Before submitting, check your notice against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
@@ -3061,9 +2809,7 @@ Revised Draft {{PH-3: U09-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–230 word** change management notice for an internal or interagency audience. Your notice must include:
 
@@ -3084,9 +2830,7 @@ Draft {{PH-4: U09-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -3110,9 +2854,7 @@ This unit develops learners' ability to explain multi-factor issues clearly and 
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the following explanation.
 
@@ -3133,9 +2875,7 @@ Answer the following questions:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -3164,9 +2904,7 @@ The improved version is easier for a non-specialist reader to process because it
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Noticing Task — Identify The Writing Pattern
+Noticing Task — Identify The Writing Pattern
 
 Highlight or underline the following features in the improved version:
 
@@ -3187,9 +2925,7 @@ Why is it important to use neutral language when explaining a delay or problem t
 ### C. Language Focus
 
 ::: notice
-Analysis Task
-
-Focus: Classification / Matching — Match Functions And Forms
+Classification / Matching — Match Functions And Forms
 
 Accessible explanation is not the same as making the issue simpler than it really is. The writer’s job is to control information load by breaking the issue into clear parts, naming each part explicitly, and showing how the parts affect the next stage of work.
 
@@ -3217,9 +2953,7 @@ Learn — Sentences:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting — Guided Skill Practice
+Sentence Rewriting
 
 Simplification should make the message clearer, not thinner. A strong explanation replaces vague statements with specific information and keeps the necessary meaning, instead of removing the detail the reader needs in order to understand the issue.
 
@@ -3246,9 +2980,7 @@ The clearer version keeps the issue specific, shows why it matters, and gives th
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original vague explanation from Section B. Your version must include:
 
@@ -3264,9 +2996,7 @@ Draft {{PH-2: U10-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Writing — Administrative Scenario Response
+Scenario-Based Writing — Administrative Scenario Response
 
 Write a structured explanation of **100–130 words**. Your explanation must include:
 
@@ -3289,9 +3019,7 @@ Draft {{PH-3: U10-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Constrained Free Write — Controlled Independent Response
+Constrained Free Write — Controlled Independent Response
 
 Write a complete explanation of **180–210 words**.
 
@@ -3319,9 +3047,7 @@ Draft {{PH-4: U10-E2-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your explanation with a partner and answer the following questions in writing:
 
@@ -3332,9 +3058,7 @@ Exchange your explanation with a partner and answer the following questions in w
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your explanation against the following:
 
@@ -3348,10 +3072,8 @@ Before submitting, check your explanation against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Improve Clarity And Flow
+::: rewrite
+Editing Exercise — Improve Clarity And Flow
 
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
@@ -3376,9 +3098,7 @@ Revised Draft {{PH-2: U10-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
 
@@ -3399,9 +3119,7 @@ Draft {{PH-4: U10-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -3425,9 +3143,7 @@ This unit develops learners' ability to write clear, concise, and accurate execu
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the following meeting summary.
 
@@ -3447,9 +3163,7 @@ Answer the following questions:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -3497,7 +3211,7 @@ Learn — Why This Works:
 The improved version does not retell the meeting in time order. Instead, it groups information by managerial function: what the meeting was about, what mattered, what was decided, and what happens next. That makes the summary more useful for a reader who needs action and accountability, not narrative detail.
 :::
 
-::: notice
+::: write
 Source Input
 
 Focus: Data Interpretation Input — Source Data Analysis
@@ -3528,9 +3242,7 @@ Write in formal, complete sentences.
 ### C. Language Focus
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting — Guided Skill Practice
+Sentence Rewriting
 
 Executive-summary language is action-focused. Instead of narrating who said what during the meeting, it highlights decisions, responsibilities, unresolved items, and next steps in a neutral, concise form.
 
@@ -3544,9 +3256,7 @@ Rewrite each informal or subjective sentence as a neutral, formal summary statem
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Paragraph-Level Transformation — Paragraph Revision Practice
+Paragraph-Level Transformation
 
 The paragraph below is written as a narrative account. Rewrite it as a structured executive summary using the four standard sections: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3573,9 +3283,7 @@ The executive-summary version removes conversational narrative and foregrounds t
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original incomplete summary from Section B as a full executive-level summary. Use the four-section structure: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3592,9 +3300,7 @@ Draft {{PH-2: U11-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Format Conversion — Change Document Format
+Format Conversion — Change Document Format
 
 ::: learn
 Learn — Transfer Reminder:
@@ -3630,9 +3336,7 @@ Draft {{PH-3: U11-D7-format-conversion}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a complete executive-level meeting summary of **200–230 words**. Your summary must include:
 
@@ -3657,9 +3361,7 @@ Draft {{PH-4: U11-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your summary with a partner and answer the following questions in writing:
 
@@ -3670,9 +3372,7 @@ Exchange your summary with a partner and answer the following questions in writi
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your summary against the following:
 
@@ -3686,10 +3386,8 @@ Before submitting, check your summary against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
@@ -3717,9 +3415,7 @@ Revised Draft {{PH-3: U11-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
@@ -3741,9 +3437,7 @@ Draft {{PH-4: U11-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -3779,9 +3473,7 @@ This unit develops learners' ability to write formal, diplomatic external inquir
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Real Document Analysis — Workplace Document Analysis
+Real Document Analysis — Workplace Document Analysis
 
 Read the following external inquiry, then answer the questions below.
 
@@ -3812,9 +3504,7 @@ Model Text
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -3844,9 +3534,7 @@ The improved inquiry helps an external reader because it provides enough backgro
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Structural Deconstruction — Document Structure Analysis
+Structural Deconstruction — Document Structure Analysis
 
 External inquiries usually need more explicit reader orientation than internal messages. The reader may not share the same case background, timeline, or internal priorities, so context has to come before detailed questions.
 
@@ -3888,9 +3576,7 @@ Useful expressions:
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Classification / Matching — Match Functions And Forms
+Classification / Matching — Match Functions And Forms
 
 Match each expression (1–8) to its function (A–D). Write the letter.
 
@@ -3940,10 +3626,8 @@ Useful structures:
 - *We would appreciate confirmation of whether…*
 :::
 
-::: language
-Language Practice
-
-Focus: Phrase Bank Building — Build Reusable Language
+::: structure
+Phrase Bank Building — Build Reusable Language
 
 The phrases below are drawn from this unit's model texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
 
@@ -3983,9 +3667,7 @@ This example works because the context identifies the case first, the questions 
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Inquiry — Inquiry Revision Practice
+Rewrite The Original Inquiry — Inquiry Revision Practice
 
 Rewrite the original text from Section B using:
 
@@ -3999,10 +3681,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U12-D1-guided-rewrite}}
 :::
 
-::: write
-Writing Task
-
-Focus: Two-Audience Version Task — Adapt For Two Audiences
+::: rewrite
+Two-Audience Version Task — Adapt For Two Audiences
 
 ::: learn
 Learn — Transfer Reminder:
@@ -4028,9 +3708,7 @@ Draft {{PH-3: U12-D4-two-audience-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Role-Based Writing Task — Audience-Specific Response
+Role-Based Writing Task — Audience-Specific Response
 
 Write a formal external inquiry of **180–220 words**. Your inquiry must include:
 
@@ -4055,9 +3733,7 @@ Draft {{PH-4: U12-E3-role-based-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Comparative Peer Review — Compare Revision Choices
+Comparative Peer Review
 
 In a group of three, exchange your freer writing tasks. Read both of your classmates' inquiries and answer the following:
 
@@ -4074,9 +3750,7 @@ Read your own inquiry as if you are the recipient. Answer questions 1–4 from t
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check whether your inquiry:
 
@@ -4090,10 +3764,8 @@ Before submitting, check whether your inquiry:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
@@ -4119,9 +3791,7 @@ Revised Draft {{PH-3: U12-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Real-World Task — Workplace Transfer Practice
+Real-World Task
 
 Identify one situation in your current or recent work where a more clearly structured external inquiry would have improved communication outcomes. Draft the inquiry as it should have been written, or as it might be needed in a future situation.
 
@@ -4131,9 +3801,7 @@ Draft {{PH-3: U12-H2-real-world-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **220–250 word** external inquiry to an interagency or international partner. Include:
 
@@ -4154,9 +3822,7 @@ Draft {{PH-4: U12-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -4179,10 +3845,8 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 
 ### A. Opening & Activation
 
-::: notice
-Analysis Task
-
-Focus: Prediction Task — Anticipate Reader Needs
+::: write
+Prediction Task — Anticipate Reader Needs
 
 Read the scenario below. Before you look at any model texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
@@ -4198,9 +3862,7 @@ Write your predictions. Then, as you work through this unit, compare your list a
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -4229,7 +3891,7 @@ The improved paragraph separates four different jobs that weak risk writing ofte
 :::
 :::
 
-::: notice
+::: write
 Source Input
 
 Focus: Data Interpretation Input — Source Data Analysis
@@ -4284,9 +3946,7 @@ Useful structures:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting
+Sentence Rewriting
 
 Factual status statements describe what is happening now. Risk statements project what may happen if the current condition continues. Strong risk writing keeps those two functions distinct.
 
@@ -4332,9 +3992,7 @@ The second version does more than report a problem: it explains the likely conse
 :::
 
 ::: edit
-Editing Task
-
-Focus: Error Identification & Correction — Find And Fix Errors
+Error Identification & Correction — Find And Fix Errors
 
 Each sentence below contains one error: it may be vague, emotionally toned, grammatically imprecise, or poorly structured. Identify the error type, then rewrite the sentence.
 
@@ -4349,9 +4007,7 @@ Each sentence below contains one error: it may be vague, emotionally toned, gram
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Text — Model Revision Practice
+Rewrite The Original Text
 
 Rewrite the vague original model from Section B using:
 
@@ -4366,9 +4022,7 @@ Draft {{PH-2: U13-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Risk Assessment — Risk And Response Planning
+Scenario-Based Risk Assessment — Risk And Response Planning
 
 ::: learn
 Learn — Transfer Reminder:
@@ -4398,9 +4052,7 @@ Draft {{PH-3: U13-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a risk and impact assessment of **200–240 words** for internal circulation. Your assessment must include:
 
@@ -4424,9 +4076,7 @@ Draft {{PH-4: U13-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -4437,9 +4087,7 @@ Exchange your freer writing task with a partner and answer the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check whether your assessment:
 
@@ -4453,10 +4101,8 @@ Before submitting, check whether your assessment:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Exercise — Conditional And Hedging Structures
+::: rewrite
+Editing Exercise — Conditional And Hedging Structures
 
 Risk and impact writing relies heavily on conditional and hedging language to express possibility without overstating certainty.
 
@@ -4491,9 +4137,7 @@ Revised Draft {{PH-2: U13-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–240 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
@@ -4513,9 +4157,7 @@ Draft {{PH-4: U13-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -4539,9 +4181,7 @@ This unit develops learners' ability to write messages intended for multiple aud
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Contrastive Warm-Up — Compare Initial Choices
+Contrastive Warm-Up
 
 Read both versions of the same message. Before any explanation, identify the differences.
 
@@ -4575,9 +4215,7 @@ Discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -4607,9 +4245,7 @@ The improved version shows what changes across audiences and what stays stable. 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Annotated Model — Model Feature Analysis
+Annotated Model — Model Feature Analysis
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
@@ -4713,9 +4349,7 @@ Learn — Examples:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting
+Sentence Rewriting
 
 Rewrite each sentence so that it addresses a specific audience group and includes appropriate supporting context.
 
@@ -4744,9 +4378,7 @@ Learn — Examples:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Paragraph Revision
+Paragraph Revision
 
 Rewrite the following paragraph so that it is accessible to a reader who has no prior knowledge of the situation. Add context, audience signals, and a clear explanation of the change.
 
@@ -4773,9 +4405,7 @@ The revised version preserves the core instruction but changes the explanation d
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Message — Message Revision Practice
+Rewrite The Original Message — Message Revision Practice
 
 Rewrite the original text from Section B using:
 
@@ -4790,9 +4420,7 @@ Draft {{PH-2: U14-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Two-Audience Version Task — Adapt For Two Audiences
+Two-Audience Version Task — Adapt For Two Audiences
 
 ::: learn
 Learn — Transfer Reminder:
@@ -4817,9 +4445,7 @@ Draft {{PH-3: U14-D4-version-b}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Multi-Part Portfolio Task — Integrated Portfolio Practice
+Multi-Part Portfolio Task
 
 ::: learn
 Learn — Scenario:
@@ -4845,9 +4471,7 @@ Draft {{PH-4: U14-E4-task-2}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your freer writing tasks with a partner and answer the following:
 
@@ -4858,9 +4482,7 @@ Exchange your freer writing tasks with a partner and answer the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check whether your writing:
 
@@ -4874,10 +4496,8 @@ Before submitting, check whether your writing:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
@@ -4903,9 +4523,7 @@ Revised Draft {{PH-3: U14-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **220–260 word** multi-audience notice for a procedural or policy change. Include:
 
@@ -4919,9 +4537,7 @@ Draft {{PH-4: U14-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -4945,9 +4561,7 @@ This unit develops learners' ability to write clear, well-reasoned rationales th
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Real Document Analysis — Workplace Document Analysis
+Real Document Analysis — Workplace Document Analysis
 
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
@@ -4973,9 +4587,7 @@ Model Text
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -5003,7 +4615,7 @@ Learn — Why This Works:
 The improved rationale is more persuasive because it links three elements clearly: the policy requirement, the operational problem, and the benefit of the proposed change. The reasoning is visible rather than implied.
 :::
 
-::: notice
+::: write
 Source Input
 
 Focus: Reading-To-Write Input — Source-Based Preparation
@@ -5054,9 +4666,7 @@ Learn — Examples:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Sentence Rewriting
+Sentence Rewriting
 
 Rewrite each sentence to include a clear, specific policy or guideline reference.
 
@@ -5082,10 +4692,8 @@ Learn — Examples:
 - *This supports the agency's objective of standardising interagency communication.*
 :::
 
-::: language
-Language Practice
-
-Focus: Expansion Task — Develop Supporting Detail
+::: rewrite
+Expansion Task — Develop Supporting Detail
 
 Expand each bare sentence into 2–3 sentences that include a policy reference, reasoning, and a benefit statement.
 
@@ -5109,9 +4717,7 @@ This example works because it moves from policy reference, to reason, to expecte
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Rationale — Rationale Revision Practice
+Rewrite The Original Rationale — Rationale Revision Practice
 
 Rewrite the weak original from Section B. Your rationale should include:
 
@@ -5124,10 +4730,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U15-D1-guided-rewrite}}
 :::
 
-::: write
-Writing Task
-
-Focus: Template-Guided Writing — Guided Template Practice
+::: structure
+Template-Guided Writing — Guided Template Practice
 
 Use the structure below to draft a policy-aligned rationale for one of the following recommendations:
 
@@ -5153,9 +4757,7 @@ Draft {{PH-3: U15-D3-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a policy-aligned rationale of **180–220 words**. Your rationale must include:
 
@@ -5180,9 +4782,7 @@ Draft {{PH-4: U15-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your freer writing task with a partner and answer the following:
 
@@ -5193,9 +4793,7 @@ Exchange your freer writing task with a partner and answer the following:
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check whether your rationale:
 
@@ -5209,10 +4807,8 @@ Before submitting, check whether your rationale:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Track-Change Simulation — Revision Decision Practice
+::: notice
+Track-Change Simulation
 
 The following rationale has been reviewed by a colleague, who has proposed several edits. Read the original and the proposed changes. For each change, decide whether to **accept** or **reject** it. Write your decision and a brief reason.
 
@@ -5243,9 +4839,7 @@ Draft {{PH-2: U15-G3-decision-notes}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
 
@@ -5266,9 +4860,7 @@ Draft {{PH-4: U15-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -5304,9 +4896,7 @@ This unit develops learners' ability to write balanced, objective evaluations of
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Sorting / Categorisation — Classify Writing Choices
+Sorting / Categorisation — Classify Writing Choices
 
 Below are eight evaluation statements. Sort each one into the correct column.
 
@@ -5337,9 +4927,7 @@ What distinguishes the language in the professional column from the language in 
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -5385,9 +4973,7 @@ The improved evaluation is more credible because it separates observation from j
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Annotated Model — Model Feature Analysis
+Annotated Model — Model Feature Analysis
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
@@ -5412,10 +4998,8 @@ Why is providing at least one genuine strength essential in formal evaluations �
 
 ### C. Language Focus
 
-::: language
-Language Practice
-
-Focus: Sentence Rewriting — Objective, Neutral Language
+::: learn
+Sentence Rewriting — Objective, Neutral Language
 
 Objective evaluation language is evidence-based, criterion-based, and proportionate. It describes what the document does well or badly in relation to clarity, structure, consistency, or usability, rather than reacting to it with personal approval or frustration.
 
@@ -5436,9 +5020,7 @@ Learn — Useful Language:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite the following sentences using neutral, professional language
+Rewrite the following sentences using neutral, professional language
 
 1. *This part is terrible.*
 2. *The writer obviously didn't think about clarity.*
@@ -5448,9 +5030,7 @@ Focus: Rewrite the following sentences using neutral, professional language
 :::
 
 ::: edit
-Editing Task
-
-Focus: Error Identification & Correction — Find And Fix Errors
+Error Identification & Correction — Find And Fix Errors
 
 Overclaiming sounds certain without enough evidence. Strong evaluation writing is more cautious: it makes room for partial success, localised weaknesses, and improvement needs without turning every weakness into a total verdict.
 
@@ -5476,9 +5056,7 @@ The revised version works better because it narrows the claim, names the relevan
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original evaluation (from Section B) as a complete, balanced evaluation.
 
@@ -5495,10 +5073,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U16-D1-guided-rewrite}}
 :::
 
-::: edit
-Editing Task
-
-Focus: Revision Chain — Step-By-Step Revision
+::: revise
+Revision Chain
 
 ::: learn
 Learn — Transfer Reminder:
@@ -5534,9 +5110,7 @@ Revised Draft {{PH-3: U16-D6-revision-chain}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a **220–260 word** balanced evaluation. Choose one scenario:
 
@@ -5560,9 +5134,7 @@ Draft {{PH-4: U16-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Comparative Peer Review — Compare Revision Choices
+Comparative Peer Review
 
 Exchange your Freer Writing with a partner. Compare the two texts. For each criterion below, identify which text does this more effectively and explain why.
 
@@ -5578,9 +5150,7 @@ Discuss your findings with your partner.
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting your work, check each item below.
 
@@ -5593,10 +5163,8 @@ Before submitting your work, check each item below.
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Track-Change Simulation — Revision Decision Practice
+::: notice
+Track-Change Simulation
 
 The text below is a draft evaluation. It includes five proposed edits, shown as strikethroughs (deleted text) and insertions (new text in brackets). For each change, decide: **Accept** or **Reject** — and give a brief reason.
 
@@ -5622,9 +5190,7 @@ Draft {{PH-2: U16-G3-decision-notes}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **220–260 word** balanced evaluation of a document or process relevant to your work. Your evaluation must include:
 
@@ -5638,9 +5204,7 @@ Draft {{PH-4: U16-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 1. Find a short evaluation from your workplace (or a public-facing review document). Identify whether it is balanced, and rewrite any unprofessional or vague sections.
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
@@ -5661,10 +5225,8 @@ Executive briefs summarise complex issues for decision-makers who require clarit
 
 ### A. Opening & Activation
 
-::: notice
-Analysis Task
-
-Focus: Prediction Task — Anticipate Reader Needs
+::: write
+Prediction Task — Anticipate Reader Needs
 
 You are about to read an executive brief on a coordination issue between three regional offices. Before reading, predict:
 
@@ -5678,9 +5240,7 @@ Write your predictions, then compare with a partner after completing Section B.
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -5724,7 +5284,7 @@ The improved brief foregrounds decision-relevant content. Instead of retelling t
 :::
 :::
 
-::: notice
+::: write
 Source Input
 
 Focus: Data Interpretation Input — Source Data Analysis
@@ -5751,10 +5311,8 @@ Write three Key Points that an executive would need in order to understand and a
 
 ### C. Language Focus
 
-::: language
-Language Practice
-
-Focus: Sentence Rewriting — Writing Clear Overviews And Key Points
+::: learn
+Sentence Rewriting — Writing Clear Overviews And Key Points
 
 An overview is not a compressed detail list. Its job is to frame the issue at a high level so that the following key points can be read as evidence for the main decision problem.
 
@@ -5783,9 +5341,7 @@ Learn — Useful Language:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite the following sentences for an executive audience
+Rewrite the following sentences for an executive audience
 
 1. *We talked about problems in the process.*
 2. *Many people mentioned various issues about the form and some people didn't understand the changes, so they talked about many parts for a long time.*
@@ -5795,9 +5351,7 @@ Focus: Rewrite the following sentences for an executive audience
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Paragraph-Level Transformation — Paragraph Revision Practice
+Paragraph-Level Transformation
 
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
@@ -5822,9 +5376,7 @@ The second version is shorter, more decision-focused, and removes meeting-room n
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original brief (from Section B) as a complete executive brief.
 
@@ -5841,9 +5393,7 @@ Draft {{PH-2: U17-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Format Conversion — Change Document Format
+Format Conversion — Change Document Format
 
 ::: learn
 Learn — Transfer Reminder:
@@ -5873,9 +5423,7 @@ Draft {{PH-3: U17-D7-format-conversion}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a **200–240 word** executive brief. Choose one scenario:
 
@@ -5900,9 +5448,7 @@ Draft {{PH-4: U17-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your Freer Writing with a partner. Use the questions below to give feedback.
 
@@ -5914,9 +5460,7 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 - Does the overview establish context within one or two sentences?
 - Are key points concise — one idea per bullet point?
@@ -5927,10 +5471,8 @@ Focus: Self-Editing Checklist — Final Revision Audit
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
@@ -5950,9 +5492,7 @@ Revised Draft {{PH-3: U17-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **200–240 word** executive brief. Your brief must include:
 
@@ -5973,9 +5513,7 @@ Draft {{PH-4: U17-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 1. Find a long report or meeting summary from your workplace and reduce it to a one-page executive brief using the four-part structure.
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
@@ -5997,9 +5535,7 @@ This unit develops learners' ability to combine information from several documen
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Real Document Analysis — Workplace Document Analysis
+Real Document Analysis — Workplace Document Analysis
 
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
@@ -6036,9 +5572,7 @@ Learn — Discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -6066,7 +5600,7 @@ Learn — Why This Works:
 The improved paragraph is more useful because it groups information by theme rather than by source. It shows where sources overlap, where they differ, and what the combined evidence suggests.
 :::
 
-::: notice
+::: write
 Source Input
 
 Focus: Reading-To-Write Input — Source-Based Preparation
@@ -6088,10 +5622,8 @@ Keep this paragraph. You will return to it in Section D2 and revise it, so do no
 
 ### C. Language Focus
 
-::: language
-Language Practice
-
-Focus: Sentence Rewriting — Grouping Information And Showing Relationships
+::: learn
+Sentence Rewriting — Grouping Information And Showing Relationships
 
 Grouping by theme is different from listing by source. A source-by-source paragraph keeps switching the reader’s attention from document to document; a synthesis paragraph reorganises the material around the issues that matter most.
 
@@ -6127,9 +5659,7 @@ Learn — Patterns:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite the following as thematic, synthesised sentences
+Rewrite the following as thematic, synthesised sentences
 
 1. *Office A says instructions are unclear. Office C also says instructions are unclear.*
 2. *Office A says the timeline is fine. Office B says it is too short.*
@@ -6138,10 +5668,8 @@ Focus: Rewrite the following as thematic, synthesised sentences
 :::
 :::
 
-::: language
-Language Practice
-
-Focus: Phrase Bank Building — Build Reusable Language
+::: structure
+Phrase Bank Building — Build Reusable Language
 
 Below are twelve phrases drawn from the model text and language focus. Organise them into a personal phrase bank under the four headings provided.
 
@@ -6183,9 +5711,7 @@ The integrated version works better because it groups the points by theme, shows
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Rewrite the original synthesis (from Section B) as a complete, integrated synthesis paragraph.
 
@@ -6201,10 +5727,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U18-D1-guided-rewrite}}
 :::
 
-::: write
-Writing Task
-
-Focus: Scenario Writing — Guided Skill Practice
+::: revise
+Scenario Writing
 
 ::: learn
 Learn — Transfer Reminder:
@@ -6231,9 +5755,7 @@ Draft {{PH-3: U18-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Write a **220–260 word** synthesis. Choose one scenario:
 
@@ -6257,9 +5779,7 @@ Draft {{PH-4: U18-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Comparative Peer Review — Compare Revision Choices
+Comparative Peer Review
 
 Exchange your Freer Writing with a partner. Compare the two syntheses. For each criterion, identify which text does this more effectively and explain why.
 
@@ -6273,9 +5793,7 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 - Have I grouped information by theme rather than listing it source-by-source?
 - Have I shown at least one contrast or agreement between sources?
@@ -6286,10 +5804,8 @@ Focus: Self-Editing Checklist — Final Revision Audit
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
@@ -6309,9 +5825,7 @@ Revised Draft {{PH-3: U18-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Real-World Task — Workplace Transfer Practice
+Real-World Task
 
 Find three real documents from your workplace that address the same issue or process. They may be emails, meeting notes, reports, or procedural instructions.
 
@@ -6325,9 +5839,7 @@ Draft {{PH-3: U18-H2-real-world-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **220–260 word** synthesis combining information from three or more sources. Your synthesis must include:
 
@@ -6340,9 +5852,7 @@ Draft {{PH-4: U18-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -6378,9 +5888,7 @@ This unit develops learners' ability to summarise policy content for readers who
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Contrastive Warm-Up — Compare Initial Choices
+Contrastive Warm-Up
 
 Read the two statements below. Both describe the same policy change.
 
@@ -6405,7 +5913,7 @@ Discuss:
 
 ### B. Model Text
 
-::: notice
+::: write
 Source Input
 
 Focus: Reading-To-Write Input — Source-Based Preparation
@@ -6435,9 +5943,7 @@ Aim for 60–80 words. You will compare your version with the model text in the 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -6487,10 +5993,8 @@ Learn — Examples:
 *Simplified:* All offices are now required to follow the same process.
 :::
 
-::: edit
-Editing Task
-
-Focus: Practice — Simplify the Statement
+::: rewrite
+Simplify the Statement
 
 Rewrite each sentence to remove or replace technical references.
 
@@ -6532,10 +6036,8 @@ Worked Example:
 The second version keeps the core requirement but explains it in terms a general reader can act on.
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Add a Purpose Statement
+::: rewrite
+Add a Purpose Statement
 
 Each sentence describes a policy change. Add a sentence explaining its purpose or likely impact.
 
@@ -6569,9 +6071,7 @@ Useful expressions:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Rewrite to Include the Required Action
+Rewrite to Include the Required Action
 
 Rewrite each sentence so the required action is clear and direct.
 
@@ -6584,9 +6084,7 @@ Rewrite each sentence so the required action is clear and direct.
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Model Text — Model Revision Practice
+Rewrite The Model Text
 
 Using the improved version as your guide, rewrite the original technical text from Section B in your own words. Your version must include:
 
@@ -6601,9 +6099,7 @@ Draft {{PH-2: U19-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Format Conversion — Change Document Format
+Format Conversion — Change Document Format
 
 ::: learn
 Learn — Transfer Reminder:
@@ -6633,9 +6129,7 @@ Draft {{PH-3: U19-D7-format-conversion}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Role-Based Writing Task — Audience-Specific Response
+Role-Based Writing Task — Audience-Specific Response
 
 ::: learn
 Learn — Role Reminder:
@@ -6667,9 +6161,7 @@ Draft {{PH-4: U19-E3-role-based-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your briefing with a partner. Evaluate their writing using the questions below.
 
@@ -6683,9 +6175,7 @@ Provide two specific suggestions for improvement.
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 ::: learn
 Learn — How To Use The Checklist:
@@ -6705,10 +6195,8 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The paragraph below was written for a general staff audience but contains several problems. Identify all the issues, then rewrite the paragraph as a clear, accessible plain-language summary.
 
@@ -6733,9 +6221,7 @@ Revised Draft {{PH-3: U19-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **280–320 word** plain-language policy summary for a non-expert internal or interagency audience. Choose one:
 
@@ -6755,9 +6241,7 @@ Draft {{PH-4: U19-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -6781,9 +6265,7 @@ This unit develops learners' ability to write concise, logically structured just
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Problem Identification — Identify Communication Issues
+Problem Identification — Identify Communication Issues
 
 Read the following attempt at a justification.
 
@@ -6803,9 +6285,7 @@ Discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -6860,9 +6340,7 @@ Useful expressions:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Rewrite the Decision Statement
+Rewrite the Decision Statement
 
 Rewrite each sentence to make the decision clear and direct.
 
@@ -6896,9 +6374,7 @@ Useful patterns:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Strengthen the Rationale
+Strengthen the Rationale
 
 Rewrite each sentence to add a clear, policy-grounded rationale.
 
@@ -6931,10 +6407,8 @@ Useful expressions:
 - *As a result, offices will be able to…*
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Add a Benefit Statement
+::: rewrite
+Add a Benefit Statement
 
 Add a sentence describing the expected benefit.
 
@@ -6961,10 +6435,8 @@ Learn — Patterns:
 4. Describe the expected benefit.
 :::
 
-::: rewrite
-Rewrite Task
-
-Focus: Practice — Organise the Justification
+::: structure
+Organise the Justification
 
 The sentences below form a complete justification but are in the wrong order. Arrange them into a logical paragraph and make any small adjustments needed for flow.
 
@@ -6991,9 +6463,7 @@ The second version works because it moves from decision, to rationale, to benefi
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Justification — Justification Revision Practice
+Rewrite The Original Justification — Justification Revision Practice
 
 Using the improved model from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
 
@@ -7008,9 +6478,7 @@ Draft {{PH-2: U20-D1-guided-rewrite}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Draft A Justification For One Scenario — Justification Writing Practice
+Draft A Justification For One Scenario — Justification Writing Practice
 
 ::: learn
 Learn — Transfer Reminder:
@@ -7034,9 +6502,7 @@ Draft {{PH-3: U20-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Scenario-Based Free Write — Realistic Administrative Response
+Scenario-Based Free Write
 
 Choose one scenario and write a complete, standalone justification.
 
@@ -7060,9 +6526,7 @@ Draft {{PH-4: U20-E1-freer-write}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Guided Peer Review — Structured Feedback Exchange
+Guided Peer Review
 
 Exchange your justification with a partner. Evaluate their writing using the following questions.
 
@@ -7076,9 +6540,7 @@ Provide two specific suggestions for improvement.
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
@@ -7092,10 +6554,8 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The paragraph below is a poor justification for an administrative decision. Identify all the problems, then rewrite it as a concise, policy-aligned justification.
 
@@ -7120,9 +6580,7 @@ Revised Draft {{PH-3: U20-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **230–270 word** concise justification for an administrative or interagency decision. Choose one:
 
@@ -7142,9 +6600,7 @@ Draft {{PH-4: U20-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -7168,9 +6624,7 @@ This unit trains learners to integrate information from multiple sources into a 
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Real Document Analysis — Workplace Document Analysis
+Real Document Analysis — Workplace Document Analysis
 
 The following extract is taken from an internal coordination report.
 
@@ -7190,9 +6644,7 @@ Discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 ::: example
 Original Text
@@ -7237,9 +6689,7 @@ The improved report is easier to use because it groups information by reporting 
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Structural Deconstruction — Document Structure Analysis
+Structural Deconstruction — Document Structure Analysis
 
 Each section in a consolidated report performs a different job. Predictable sectioning reduces reader effort because the reader does not have to work out whether a sentence is reporting an issue, an action already taken, or a next step still to come.
 
@@ -7313,10 +6763,8 @@ Useful structures:
 - *The following report presents…*
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Write the Opening Sentence
+::: rewrite
+Write the Opening Sentence
 
 Write an appropriate opening sentence for each situation.
 
@@ -7350,9 +6798,7 @@ Useful phrasing:
 :::
 
 ::: rewrite
-Rewrite Task
-
-Focus: Practice — Rewrite for Clarity and Neutrality
+Rewrite for Clarity and Neutrality
 
 Rewrite each item to make it a clear, neutral issue description suitable for an administrative report.
 
@@ -7382,10 +6828,8 @@ Useful structures:
 - *Steps have been taken to…*
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Clarify the Action
+::: rewrite
+Clarify the Action
 
 Rewrite each item as a specific, clearly documented action taken.
 
@@ -7418,10 +6862,8 @@ Useful patterns:
 - *Outstanding questions will be addressed at…*
 :::
 
-::: language
-Language Practice
-
-Focus: Practice — Add a Next-Step Statement
+::: rewrite
+Add a Next-Step Statement
 
 Rewrite each item to include a clear, time-bound next step.
 
@@ -7434,9 +6876,7 @@ Rewrite each item to include a clear, time-bound next step.
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Rewrite The Original Report — Report Revision Practice
+Rewrite The Original Report — Report Revision Practice
 
 Using the improved model as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
 
@@ -7451,10 +6891,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U21-D1-guided-rewrite}}
 :::
 
-::: rewrite
-Rewrite Task
-
-Focus: Information Reorganisation — Restructure Source Information
+::: structure
+Information Reorganisation — Restructure Source Information
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
 
@@ -7472,9 +6910,7 @@ Use this space for your first full draft.
 Draft {{PH-3: U21-D5-reorganised-version}}
 
 ::: rewrite
-Rewrite Task
-
-Focus: Format Conversion — Change Document Format
+Format Conversion — Change Document Format
 
 ::: learn
 Learn — Transfer Reminder:
@@ -7499,9 +6935,7 @@ Draft {{PH-3: U21-D7-format-conversion}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Multi-Part Portfolio Task — Integrated Portfolio Practice
+Multi-Part Portfolio Task
 
 You are responsible for preparing a consolidated report following a coordination round on a new procedural requirement.
 
@@ -7541,9 +6975,7 @@ Draft {{PH-2: U21-E4-part-c-next-steps-closing}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Comparative Peer Review — Compare Revision Choices
+Comparative Peer Review
 
 Exchange reports with a partner. Read both reports and identify the stronger version of each section. For each section, note:
 
@@ -7553,9 +6985,7 @@ Exchange reports with a partner. Read both reports and identify the stronger ver
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
@@ -7570,10 +7000,8 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Editing Workshop — Paragraph-Level
+::: rewrite
+Editing Workshop — Paragraph-Level
 
 The paragraph below is an attempt at a consolidated report. It contains multiple problems. Identify all the issues, then rewrite it as a structured, professional consolidated report.
 
@@ -7599,9 +7027,7 @@ Revised Draft {{PH-3: U21-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Write a **270–310 word** consolidated administrative report. Choose one scenario:
 
@@ -7616,9 +7042,7 @@ Draft {{PH-4: U21-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -7642,9 +7066,7 @@ This unit brings together all the major writing skills developed in Units 1–21
 ### A. Opening & Activation
 
 ::: notice
-Analysis Task
-
-Focus: Prediction Task — Anticipate Reader Needs
+Prediction Task — Anticipate Reader Needs
 
 Read the four input items below. Before reading further, predict: what type of administrative document would you need to produce, and what would it need to include?
 
@@ -7712,9 +7134,7 @@ Revised Text
 :::
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Tone And Clarity Analysis
+Compare — Tone And Clarity Analysis
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
@@ -7741,9 +7161,7 @@ The integrated response is more useful because it brings the inputs together und
 ### C. Language Focus
 
 ::: edit
-Editing Task
-
-Focus: 1. Error Identification And Correction — Guided Skill Practice
+1. Error Identification And Correction
 
 This unit is trying to eliminate recurring weaknesses that undermine integrated documents: blame-heavy wording, loose structure, vague purpose statements, and instructions that do not clearly tell readers what to do next.
 
@@ -7754,12 +7172,11 @@ Each sentence below contains an error — of tone, structure, or professional re
 3. *"We are writing to tell you about various things that need to be sorted out urgently."*
 4. *"The forms that are old shouldn't be used anymore because they cause problems."*
 5. *"Obviously, all offices should have acknowledged receipt of the circular by now."*
+:::
+
+#### 2. Paragraph-Level Transformation
 
 ::: rewrite
-Rewrite Task
-
-Focus: 2. Paragraph-Level Transformation — Guided Skill Practice
-
 The paragraph below presents information from multiple sources as a list of disconnected items. Rewrite it as a single, cohesive paragraph that synthesises the information.
 
 ::: example
@@ -7786,14 +7203,11 @@ Worked Example:
 The revised version works better because it identifies a shared implementation theme rather than treating each source as a separate mini-message.
 :::
 :::
-:::
 
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite Task
-
-Focus: Model Rewriting — Model Revision Practice
+Model Rewriting
 
 Using the integrated response in Section B as your guide, rewrite the inadequate version — the one that addresses each input separately without synthesis. Your version must:
 
@@ -7807,10 +7221,8 @@ Use this space for your first full draft.
 Draft {{PH-2: U22-D1-guided-rewrite}}
 :::
 
-::: edit
-Editing Task
-
-Focus: Revision Chain — Step-By-Step Revision
+::: revise
+Revision Chain
 
 ::: learn
 Learn — Transfer Reminder:
@@ -7843,9 +7255,7 @@ Revised Draft {{PH-3: U22-D6-revision-chain}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Multi-Part Portfolio Task — Integrated Portfolio Practice
+Multi-Part Portfolio Task
 
 Use the four inputs from Section A as the basis for a complete administrative response.
 
@@ -7875,9 +7285,7 @@ Draft {{PH-4: U22-E4-part-b-full-document}}
 ### F. Review & Self-Assessment
 
 ::: edit
-Editing Task
-
-Focus: Comparative Peer Review — Compare Revision Choices
+Comparative Peer Review
 
 Exchange your portfolio task with a partner. Read both documents and complete the following.
 
@@ -7887,9 +7295,7 @@ Exchange your portfolio task with a partner. Read both documents and complete th
 :::
 
 ::: edit
-Editing Task
-
-Focus: Self-Editing Checklist — Final Revision Audit
+Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
@@ -7904,10 +7310,8 @@ Before submitting, check your own writing against the following:
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Track-Change Simulation — Revision Decision Practice
+::: rewrite
+Track-Change Simulation
 
 The administrative document below was submitted by a colleague for review. Read it carefully and mark the following using the conventions below.
 
@@ -7933,9 +7337,7 @@ Draft {{PH-3: U22-G3-clean-copy}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Using the scenario package from this unit (the four inputs in Section A), write a **300–340 word** integrated administrative document. Choose the format that best fits the purpose: a notice for all offices, a briefing for your supervisor, or a consolidation report.
 
@@ -7951,9 +7353,7 @@ Draft {{PH-4: U22-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
@@ -7976,10 +7376,8 @@ This capstone unit gives learners the opportunity to demonstrate integrated writ
 
 ### A. Opening & Activation
 
-::: notice
-Analysis Task
-
-Focus: Discussion Questions — Activate Prior Knowledge
+::: write
+Discussion Questions
 
 Reflect on your learning across this course and discuss:
 
@@ -7991,9 +7389,7 @@ Reflect on your learning across this course and discuss:
 ### B. Model Text
 
 ::: notice
-Analysis Task
-
-Focus: Compare — Exemplar Analysis
+Compare
 
 Read both responses to the capstone scenario below.
 
@@ -8042,9 +7438,7 @@ Response B succeeds because it integrates multiple course-level skills at once: 
 ### C. Language Focus
 
 ::: edit
-Editing Task
-
-Focus: Error Identification And Correction — Self-Diagnosis
+Error Identification And Correction — Self-Diagnosis
 
 These sentence-level problems are signals of larger writing issues: weak synthesis, vague tone, unclear structure, missing action logic, and under-specified recommendations. The purpose of this task is to help you recognise those broader patterns in your own writing.
 
@@ -8074,10 +7468,8 @@ If you do not have your earlier writing available, use one of your drafts from t
 
 ### D. Guided Writing
 
-::: edit
-Editing Task
-
-Focus: Revision Chain — Prior Work
+::: revise
+Revision Chain
 
 ::: learn
 Learn — Transfer Reminder:
@@ -8107,9 +7499,7 @@ Revised Draft {{PH-3: U23-D6-revision-chain}}
 ### E. Freer Writing
 
 ::: write
-Writing Task
-
-Focus: Multi-Part Portfolio Task — Integrated Portfolio Practice
+Multi-Part Portfolio Task
 
 Using the capstone scenario from Section B, produce a complete administrative response.
 
@@ -8185,10 +7575,8 @@ Identify your two weakest criteria. Then look up the linked units for each weak 
 
 ### G. Editing
 
-::: edit
-Editing Task
-
-Focus: Track-Change Simulation — Revision Decision Practice
+::: rewrite
+Track-Change Simulation
 
 The following draft was produced in response to the capstone scenario. It contains several weaknesses. Using the conventions from Unit 22, mark the draft for deletion **D**, replacement **R: …**, and addition **+: …**, then write a clean revised version.
 
@@ -8206,9 +7594,7 @@ Draft {{PH-3: U23-G3-clean-copy}}
 ### H. Homework & Extension
 
 ::: write
-Writing Task
-
-Focus: Homework Writing Task — Independent Administrative Writing
+Homework Writing Task
 
 Using the capstone scenario from this unit, write a **300–350 word** capstone administrative document. Choose the format that best represents your full range of writing ability.
 
@@ -8224,9 +7610,7 @@ Draft {{PH-4: U23-H3-homework-draft}}
 :::
 
 ::: write
-Writing Task
-
-Focus: Extension Task — Advanced Transfer Practice
+Extension Task
 
 Choose one:
 
