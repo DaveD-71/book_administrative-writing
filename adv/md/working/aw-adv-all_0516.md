@@ -4,15 +4,15 @@ style_bridge:
   preserve_div_line_breaks: true
 
 style_map:
-  learn: "Div Learn"
-  language: "Div Language"
-  structure: "Div Structure"
-  notice: "Div Notice"
-  write: "Div Write"
-  rewrite: "Div Rewrite"
-  revise: "Div Revise"
-  edit: "Div Edit"
-  example: "Div Example"
+  learn: "Div Label Learn"
+  language: "Div Label Language"
+  structure: "Div Label Structure"
+  notice: "Div Label Notice"
+  write: "Div Label Write"
+  rewrite: "Div Label Rewrite"
+  revise: "Div Label Revise"
+  edit: "Div Label Edit"
+  example: "Div Label Example"
 ---
 
 # Administrative Writing, Advanced
@@ -69,7 +69,7 @@ For each sentence, identify:
 Then discuss: **When does a long sentence become unclear?** What makes administrative writing difficult to read?
 :::
 
-### B. Model Text
+### B. Example Text
 
 Below are two versions of an excerpt from an internal explanation memo.
 
@@ -230,9 +230,9 @@ A Note on Expressing Subordinate Contrast
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite the Model Text
+Rewrite the Example Text
 
-Rewrite the **original** model text (the unclear version) as **three to four clear sentences**. Follow these steps:
+Rewrite the **original** example text (the unclear version) as **three to four clear sentences**. Follow these steps:
 
   1. Identify the **core action**.
   2. Group supporting information logically.
@@ -388,7 +388,7 @@ Write your responses before continuing.
 :::
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: example
 Original Text
@@ -550,9 +550,9 @@ C. Foreign IP office
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite the Model Text
+Rewrite the Example Text
 
-Rewrite the original (direct) model text into a diplomatic version. Your rewrite must include:
+Rewrite the original (direct) example text into a diplomatic version. Your rewrite must include:
 
 - one softening phrase
 - a neutral reason for the request
@@ -720,7 +720,7 @@ For each item, write one sentence explaining your decision.
 After sorting, discuss: What specific features make the cohesive examples easier to follow?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: example
 Original Text
@@ -755,7 +755,7 @@ The revised paragraph guides the reader through a sequence: topic, explanation, 
 Identify the Writing Pattern
 
 
-In the revised model, highlight or underline examples of:
+In the revised example, highlight or underline examples of:
 
 |||
 |---|---|
@@ -859,9 +859,9 @@ Add appropriate connectors to the following sentences. More than one answer may 
 ### D. Guided Writing
 
 ::: rewrite
-Rebuild the Disjointed Model
+Rebuild the Disjointed Example
 
-Rewrite the original (disjointed) model text as **one cohesive paragraph**. Include:
+Rewrite the original (disjointed) example text as **one cohesive paragraph**. Include:
 
 - at least three cohesive devices
 - clear reference words
@@ -1013,7 +1013,7 @@ Identify Communication Issues in an Email
 Read the following email. Identify what is missing or unclear — and explain why it would be difficult for the reader to act on it.
 
 ::: example
-Model Text
+Example Text
 
 *"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
 :::
@@ -1025,7 +1025,7 @@ Consider:
 3. Does the email provide any guidance on what happens next?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -1144,9 +1144,9 @@ Rewrite each sentence to match the function indicated. Keep the same core inform
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
-Rewrite the original (informal) model email as a structured, diplomatic version. Your rewrite must include:
+Rewrite the original (informal) example email as a structured, diplomatic version. Your rewrite must include:
 
 - a professional opening that acknowledges the previous message
 - a clear statement of purpose
@@ -1330,7 +1330,7 @@ Identify Communication Issues in a Clarification Request
 Read the following clarification request. Identify the specific problems that would make it difficult for the reader to respond usefully.
 
 ::: example
-Model Text
+Example Text
 
 *"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
 :::
@@ -1342,7 +1342,7 @@ Consider:
 3. What should the reader do, exactly?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -1449,7 +1449,7 @@ When several questions appear in one message, the writer should still make each 
 Phrase Bank Building
 
 
-The phrases below are drawn from this unit's model text and language focus. Organise them into your own personal phrase bank by sorting them under the four headings below. Add any additional phrases from this unit that you find useful.
+The phrases below are drawn from this unit's example text and language focus. Organise them into your own personal phrase bank by sorting them under the four headings below. Add any additional phrases from this unit that you find useful.
 
 *For our confirmation, we would appreciate clarification on… / In Section 3.1 of the attached document… / To ensure accuracy, may we confirm whether… / Could you confirm which version is correct? / According to the table in Annex B… / Once confirmed, we will proceed with… / We would be grateful if you could clarify… / Could you specify which version is currently valid? / There may be a discrepancy regarding… / The term used on page 4… / It appears that… / We will update our internal records once we receive your response.*
 
@@ -1475,9 +1475,9 @@ This example works because each question is tied to a specific reference, each p
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
-Rewrite the original (vague) model text as a precise, structured clarification request. Your rewrite must include:
+Rewrite the original (vague) example text as a precise, structured clarification request. Your rewrite must include:
 
 - a professional opening
 - at least two numbered clarification points
@@ -1623,7 +1623,7 @@ Extension Task
 Choose one:
 
 1. Find a clarification request you have sent or received in a professional context. Assess it against the criteria from this unit — are questions specific and anchored? Are references precise? — and rewrite it to improve precision and diplomatic tone.
-2. Take the model clarification request from Section B and compare it against a real clarification document from your workplace or professional field. Identify two differences in structure, register, or referencing practice, and write a short analysis explaining which approach is more effective and why.
+2. Take the example clarification request from Section B and compare it against a real clarification document from your workplace or professional field. Identify two differences in structure, register, or referencing practice, and write a short analysis explaining which approach is more effective and why.
 3. Build a personal reference document for clarification requests: collect at least ten phrases from this unit, organised by function (introducing the request, referencing documents, formulating questions, signalling next steps). Add two to three phrases of your own for each category.
 :::
 
@@ -1647,13 +1647,13 @@ Contrastive Warm-Up
 Read the two messages below. Without any explanation yet, identify what makes the second version more effective. Be as specific as possible.
 
 ::: example
-Model Text
+Example Text
 
 *"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
 :::
 
 ::: example
-Model Text
+Example Text
 
 *Thank you for sharing the updated document.*
 
@@ -1671,7 +1671,7 @@ Discuss:
 3. Why does this difference matter in interagency or international communication?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -1712,13 +1712,13 @@ The improved version identifies the problem without accusing the reader. It sepa
 :::
 
 ::: notice
-Annotated Model — Read and Evaluate the Annotations
+Annotated Example — Read and Evaluate the Annotations
 
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
 ::: example
-Model Text
+Example Text
 
 *"Thank you for sharing the updated document."*
 :::
@@ -1730,7 +1730,7 @@ Opens by acknowledging the reader's action rather than immediately raising the p
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"Upon review, it appears that the timeline in Section 3 may differ…"*
 :::
@@ -1742,7 +1742,7 @@ Annotation:
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"…from the revised instructions circulated on 12 July."*
 :::
@@ -1754,7 +1754,7 @@ Specific reference to a date and a document type adds credibility and gives the 
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"For consistency, we would appreciate it if you could confirm…"*
 :::
@@ -1766,7 +1766,7 @@ The request is framed around a shared professional goal ("consistency") rather t
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"…that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm…"*
 :::
@@ -1778,7 +1778,7 @@ The message keeps three functions separate: it identifies the issue first, then 
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"Once clarified, we will be able to proceed…"*
 :::
@@ -1856,9 +1856,9 @@ The revised version removes accusation, adds a specific reference, and explains 
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
-Rewrite the original (too direct) model using the diplomatic techniques from this unit. Your version must include:
+Rewrite the original (too direct) example using the diplomatic techniques from this unit. Your version must include:
 
 - a professional opening that acknowledges the reader
 - a neutral identification of the issue with a specific reference
@@ -2009,7 +2009,7 @@ Extension Task
 Choose one:
 
 1. Find a message from your professional experience in which an error or discrepancy was communicated. Assess it against the criteria from this unit and produce a rewritten version that improves diplomatic framing, specific referencing, and impact explanation.
-2. Take the model text from Section B and write a response to it — that is, write the reply that the receiving office might send. Your response should acknowledge the issue, confirm the correction, and state when the revised document will be available.
+2. Take the example text from Section B and write a response to it — that is, write the reply that the receiving office might send. Your response should acknowledge the issue, confirm the correction, and state when the revised document will be available.
 3. Create a self-editing guide for diplomatic error notifications: a checklist of at least eight criteria that a writer should apply before sending any message that identifies a problem or requests a correction. Draw on the language and principles from this unit.
 :::
 
@@ -2040,7 +2040,7 @@ Read the three messages below. For each one, identify: how many distinct request
 Discuss: When a message contains multiple requests, what makes some clearer than others? What happens when priority order is not stated?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -2127,7 +2127,7 @@ Rewrite each unsequenced list as a structured, logically ordered request. Add se
 Read the paragraph below. It contains all the necessary information, but the requests are unsequenced, the priority order is unclear, and there are no dependency markers.
 
 ::: example
-Model Text
+Example Text
 
 *"We need to sort out a few things before we can move forward. The terminology in the document needs to be checked. Also, the timeline should be confirmed — we're not sure which date is correct. The translated version also needs a review, but we can't start that until we know which terms are being used. Once everything is clear, we can update the file and proceed."*
 :::
@@ -2155,9 +2155,9 @@ The second version is easier to follow because the order, dependency, and reason
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
-Rewrite the original (unstructured) model into a layered, prioritised request message. Include:
+Rewrite the original (unstructured) example into a layered, prioritised request message. Include:
 
 - one clearly stated primary request
 - two to three secondary or dependent requests
@@ -2251,7 +2251,7 @@ Improve Clarity and Flow — Sequencing and Dependencies
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
 ::: example
-Model Text
+Example Text
 
 *"We need you to correct the dates, confirm which version is valid, and fix the terminology. Then we can proceed."*
 :::
@@ -2342,7 +2342,7 @@ Answer the following questions:
 4. What, if anything, is missing from this procedure?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -2457,7 +2457,7 @@ The revised version works better because the actions are separated, the verbs ar
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original unclear procedure from Section B into a structured, formal version. Your rewrite must include:
 
@@ -2486,7 +2486,7 @@ The following information about an internal approval process has been written as
 Reorganise the information into a clearly numbered, logically sequenced procedure. Add step labels and adjust the language where necessary.
 
 ::: example
-Model Text
+Example Text
 
 *"Once the form has been reviewed and any outstanding queries resolved, the file can proceed to the approvals stage. Before that, however, staff must check that all supporting documents have been received. The form itself should be reviewed within three working days of receipt. Any queries should be sent to the originating office in writing. After approval, a confirmation is sent to the applicant and the record is closed."*
 :::
@@ -2555,7 +2555,7 @@ Editing Workshop — Procedure Draft
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
 ::: example
-Model Text
+Example Text
 
 *"First of all, check the document carefully and if something is not right, maybe ask a colleague to have a look too. After you've done that, send whatever reply seems right to the applicant. You also need to update the record at some stage — probably before or after the reply, depending on the situation. Make sure guidelines are being followed somehow. If there are problems, deal with them."*
 :::
@@ -2626,7 +2626,7 @@ This unit develops learners' ability to write clear, well-structured messages th
 Prediction Task — Anticipate Reader Needs
 
 
-Read the following scenario. Before turning to the model text, write down five elements you would expect a well-written change management notice to include.
+Read the following scenario. Before turning to the example text, write down five elements you would expect a well-written change management notice to include.
 
 ::: learn
 Scenario
@@ -2634,7 +2634,7 @@ Scenario
 Your office has updated the procedure for reviewing applicant submissions. The main change is that the initial review stage, which previously required sign-off from two officers, now requires only one. This change takes effect on 1 November. Staff in your office and in three partner offices need to be informed.
 :::
 
-Write your five predicted elements here, then compare them against the model text in Section B.
+Write your five predicted elements here, then compare them against the example text in Section B.
 
 1.
 2.
@@ -2642,14 +2642,14 @@ Write your five predicted elements here, then compare them against the model tex
 4.
 5.
 
-After reading the model, return to your list and answer:
+After reading the example, return to your list and answer:
 
 - Which predicted elements appear clearly in the notice?
 - Which element, if any, was missing from your original list?
 - Which part of the notice most clearly helps the reader act on the change?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -2683,7 +2683,7 @@ The improved notice balances three jobs at once: it states the change clearly, e
 :::
 
 ::: notice
-Annotated Model — Match Annotations to Decisions
+Annotated Example — Match Annotations to Decisions
 
 
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
@@ -2697,7 +2697,7 @@ Re-read the improved version. The annotations below explain the purpose of speci
 ::: learn
 A Note on Reassurance in Change Notices
 
-Reassurance in a change notice should reduce uncertainty without becoming vague. In this model, the final sentence works because it offers support after the change and required action have already been stated clearly.
+Reassurance in a change notice should reduce uncertainty without becoming vague. In this example, the final sentence works because it offers support after the change and required action have already been stated clearly.
 :::
 :::
 
@@ -2744,7 +2744,7 @@ The expanded version tells the reader when to act, what has changed, and why the
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original unclear message from Section B. Your version must include:
 
@@ -2853,7 +2853,7 @@ Editing Workshop — Change Notification Draft
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
 ::: example
-Model Text
+Example Text
 
 *"We changed the system. Please use the new rules from now on. The old form doesn't work anymore so stop using it. We decided this was better because of various reasons. If you're confused, ask someone. The new form is somewhere on the shared drive."*
 :::
@@ -2929,7 +2929,7 @@ Identify Communication Issues in an Explanation
 Read the following explanation.
 
 ::: example
-Model Text
+Example Text
 
 *"The review is delayed because many things are unclear and we need more information. It is difficult to continue in this situation and we hope to have more clarity soon."*
 :::
@@ -2942,7 +2942,7 @@ Answer the following questions:
 4. What would a professional reader need to know in order to act on this message?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -3054,7 +3054,7 @@ The clearer version keeps the issue specific, shows why it matters, and gives th
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original vague explanation from Section B. Your version must include:
 
@@ -3155,7 +3155,7 @@ Improve Clarity and Flow — Explanation Structure
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
 ::: example
-Model Text
+Example Text
 
 *"There are many problems, so we cannot continue. Please fix everything first. The data is not right and also the instructions are confusing which is making things very difficult for our team. We hope this can be resolved quickly."*
 :::
@@ -3227,7 +3227,7 @@ Identify Communication Issues in a Meeting Summary
 Read the following meeting summary.
 
 ::: example
-Model Text
+Example Text
 
 *"We had a meeting. People shared their opinions. Some things were discussed and there were different views. We will meet again later to continue."*
 :::
@@ -3239,7 +3239,7 @@ Answer the following questions:
 3. What does a manager who did not attend the meeting need to know? List at least five things.
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -3342,7 +3342,7 @@ The paragraph below is written as a narrative account. Rewrite it as a structure
 Do not add information that is not in the original — focus on reorganising and reformatting what is already there.
 
 ::: example
-Model Text
+Example Text
 
 *"The meeting on 5 November brought together representatives from Offices A, B, and C. Most of the time was spent discussing the new reporting template. Office B said the template doesn't include a section for multi-stage submissions. Office C agreed and said this causes problems when summarising complex cases. Everyone agreed that the template needs to be revised before it is rolled out. Office A said they would prepare a revised draft. This should be ready by 12 November. The group will look at the draft at the next meeting, which is scheduled for 15 November."*
 :::
@@ -3362,7 +3362,7 @@ The executive-summary version removes conversational narrative and foregrounds t
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original incomplete summary from Section B as a full executive-level summary. Use the four-section structure: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3473,7 +3473,7 @@ Editing Workshop — Executive Summary Draft
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
 ::: example
-Model Text
+Example Text
 
 *"People talked about some issues and we decided to check things again next week. Some offices had opinions and there were some disagreements. The meeting was not very productive but we did agree on one thing. Someone is going to look into the problem with the form. There was also a question about deadlines that nobody really answered. We'll sort it out at the next meeting probably."*
 :::
@@ -3561,7 +3561,7 @@ Real Document Analysis — External Inquiry
 Read the following external inquiry, then answer the questions below.
 
 ::: example
-Model Text
+Example Text
 
 *Subject: Request for Clarification — Application Reference 2024/1147*
 
@@ -3584,7 +3584,7 @@ Model Text
 4. How does the writer signal next steps and timeline?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -3716,7 +3716,7 @@ Useful structures:
 Phrase Bank Building
 
 
-The phrases below are drawn from this unit's model texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
+The phrases below are drawn from this unit's example texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
 
 ::: language
 Learn — Useful Language
@@ -3782,7 +3782,7 @@ When you switch from an external to an internal audience, change the level of ba
 The following inquiry was written for an international partner office. Rewrite it as a shorter internal message for a colleague in your own office who is familiar with the case.
 
 ::: example
-Model Text
+Example Text
 
 *"We are writing to request clarification regarding the status of the applicant's file, reference 2024/331. Our records indicate that the revised documentation was submitted on 7 February; however, no acknowledgement has been received. Could you confirm whether the documents have been processed and whether any further action is required on our side? We would also appreciate an updated timeline for the completion of the review. Your prompt response would be greatly appreciated."*
 :::
@@ -3861,7 +3861,7 @@ Editing Workshop — External Inquiry Draft
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
 ::: example
-Model Text
+Example Text
 
 *"Dear Office, We need information about the application. What is happening? We sent the documents last month. Please tell us if there is a problem and when we will get an answer. We also want to know if you need anything else. Send a reply soon. Thank you."*
 :::
@@ -3941,7 +3941,7 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 Prediction Task — Anticipate Reader Needs
 
 
-Read the scenario below. Before you look at any model texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
+Read the scenario below. Before you look at any example texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
 ::: learn
 Scenario
@@ -3949,10 +3949,10 @@ Scenario
 
 *A national processing office is introducing a revised applicant tracking system. The old system will be decommissioned in four weeks. Several partner agencies are not yet familiar with the new interface, and staff training has not been completed for all teams.*
 
-Write your predictions. Then, as you work through this unit, compare your list against the model text.
+Write your predictions. Then, as you work through this unit, compare your list against the example text.
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -4102,7 +4102,7 @@ Each sentence below contains one error: it may be vague, emotionally toned, gram
 ::: rewrite
 Rewrite the Original Text
 
-Rewrite the vague original model from Section B using:
+Rewrite the vague original example from Section B using:
 
 - clear identification of 2 specific risks
 - cause–effect structure for each risk
@@ -4259,7 +4259,7 @@ Choose one:
 
 1. Find a risk assessment document from your workplace (or sector). Evaluate whether it uses specific risk identification, cause–effect structure, and mitigation proposals. Identify two improvements.
 2. Rewrite a vague risk or concern you have observed at work in the structured risk → cause → impact → mitigation format used in this unit.
-3. Using the data interpretation model from Section B, create your own simple table (3–4 rows, 3–4 columns) showing a trend in your work context, then write a risk assessment paragraph based on it.
+3. Using the data interpretation example from Section B, create your own simple table (3–4 rows, 3–4 columns) showing a trend in your work context, then write a risk assessment paragraph based on it.
 :::
 
 ## Unit 14 — Writing Complex Multi-Audience Messages
@@ -4286,7 +4286,7 @@ Version A
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"As explained last week, the revised instructions should now be used. Everyone knows why the changes were made, so please follow the updated process from today."*
 :::
@@ -4296,7 +4296,7 @@ Version B
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"We would like to confirm that the updated applicant communication instructions, circulated on 3 October, should now be used for all submissions. The revision addresses inconsistencies identified in the previous version and applies to all offices. For agencies not involved in the consultation sessions, a brief summary of the key changes is available on request."*
 :::
@@ -4308,7 +4308,7 @@ Discuss:
 3. Which version would be more effective if sent to a mixed group of internal staff and external partner offices?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -4342,13 +4342,13 @@ The improved version shows what changes across audiences and what stays stable. 
 :::
 
 ::: notice
-Annotated Model — Match Annotations to Decisions
+Annotated Example — Match Annotations to Decisions
 
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
 ::: example
-Model Text
+Example Text
 
 *"We would like to confirm that the updated instructions circulated on 3 October…"*
 :::
@@ -4360,7 +4360,7 @@ The writer provides a date and a reference to an earlier document so that all re
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"…should now be used for all applicant submissions."*
 :::
@@ -4372,7 +4372,7 @@ The core action is stated clearly before the audience-specific detail. All reade
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"For colleagues already familiar with the revision…"*
 :::
@@ -4384,7 +4384,7 @@ The writer directly addresses one audience group, signalling that the following 
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"For partner offices, we note that the revision was introduced to resolve inconsistencies…"*
 :::
@@ -4396,7 +4396,7 @@ A second audience group is addressed separately, with different supporting infor
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"Should any questions arise…"*
 :::
@@ -4408,7 +4408,7 @@ The writer closes with a low-pressure offer of support, appropriate for all audi
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"For colleagues already familiar with the revision…" / "For partner offices, we note that…"*
 :::
@@ -4482,7 +4482,7 @@ Rewrite for a Non-Expert Reader
 Rewrite the following paragraph so that it is accessible to a reader who has no prior knowledge of the situation. Add context, audience signals, and a clear explanation of the change.
 
 ::: example
-Model Text
+Example Text
 
 *"As you know, the form we discussed has now been updated. Please stop using the old version immediately and switch to the new one. The changes reflect what was agreed in the last round of consultations."*
 :::
@@ -4604,7 +4604,7 @@ Editing Workshop — Multi-Audience Message
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
 ::: example
-Model Text
+Example Text
 
 *"Everyone already knows about the changes, so use the new process and follow the updated instructions. The form has been revised and the old version is no longer valid. Staff should already have read the guidance. If you haven't, contact someone who has. External offices should also do this. There will be more information later."*
 :::
@@ -4670,7 +4670,7 @@ Real Document Analysis — Internal Policy Proposal
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
 ::: example
-Model Text
+Example Text
 
 *Subject: Proposal — Introduction of Standardised Terminology Protocol*
 
@@ -4688,7 +4688,7 @@ Model Text
 5. Is the tone neutral and evidence-based? Give one example to support your answer.
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -4923,7 +4923,7 @@ Original
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"We think the form should be changed because it is old and confusing. ~~We think the form should be changed because it is old and confusing.~~* **Insert: The form should be revised to align with the updated submission guidelines issued in February, which require standardised data fields across all partner offices.** *A new form would be better and easier. ~~A new form would be better and easier.~~* **Insert: The revised format will reduce incomplete submissions and support consistent data collection.** *We also think it looks unprofessional. ~~We also think it looks unprofessional.~~ Everyone agrees this change is needed."*
 :::
@@ -5032,7 +5032,7 @@ What distinguishes the language in the professional column from the language in 
 :::
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -5082,7 +5082,7 @@ The improved evaluation is more credible because it separates observation from j
 :::
 
 ::: notice
-Annotated Model — Match Annotation Labels to Text
+Annotated Example — Match Annotation Labels to Text
 
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
@@ -5169,7 +5169,7 @@ The revised version works better because it narrows the claim, names the relevan
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original evaluation (from Section B) as a complete, balanced evaluation.
 
@@ -5352,7 +5352,7 @@ You are about to read an executive brief on a coordination issue between three r
 Write your predictions, then compare with a partner after completing Section B.
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -5473,7 +5473,7 @@ Editing Workshop — Meeting Summary to Executive Brief
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
 ::: example
-Model Text
+Example Text
 
 *"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."*
 :::
@@ -5493,7 +5493,7 @@ The second version is shorter, more decision-focused, and removes meeting-room n
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original brief (from Section B) as a complete executive brief.
 
@@ -5596,7 +5596,7 @@ Editing Workshop — Executive Brief Draft
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
 ::: example
-Model Text
+Example Text
 
 *"Hi, just a quick update on the situation with the offices. So as you know we've been having a lot of issues with the way things are being processed and the new form isn't working very well for everyone. I think Office B is having the most problems but Office A also mentioned some stuff. Basically there are delays and it's causing issues. We talked about it last week but didn't really agree on anything. Maybe someone should look at the instructions again? I think that would probably help. Anyway, let me know what you think. Thanks."*
 :::
@@ -5662,21 +5662,21 @@ Read the three short extracts below. They come from three different sources on t
 
 **Source 1 — Email from Office A (14 March)**
 ::: example
-Model Text
+Example Text
 
 *"We are experiencing delays in the processing of applicant files submitted via the online portal. The instructions do not clearly specify which file format is required, and staff are uploading files that the system rejects."*
 :::
 
 **Source 2 — Meeting Notes (17 March)**
 ::: example
-Model Text
+Example Text
 
 *"Office B representative raised the issue of portal upload failures. It was noted that the portal times out for files over 5MB. Office C confirmed similar delays but attributed them to late receipt of supporting documents rather than technical issues."*
 :::
 
 **Source 3 — Internal report (20 March)**
 ::: example
-Model Text
+Example Text
 
 *"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."*
 :::
@@ -5690,7 +5690,7 @@ Discuss
 3. If you were writing a synthesis for a senior manager, what would the main point of your opening sentence be?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -5794,7 +5794,7 @@ Rewrite as Thematic, Synthesised Sentences
 Phrase Bank Building
 
 
-Below are twelve phrases drawn from the model text and language focus. Organise them into a personal phrase bank under the four headings provided.
+Below are twelve phrases drawn from the example text and language focus. Organise them into a personal phrase bank under the four headings provided.
 
 ::: language
 Learn — Useful Language
@@ -5834,7 +5834,7 @@ The integrated version works better because it groups the points by theme, shows
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Rewrite the original synthesis (from Section B) as a complete, integrated synthesis paragraph.
 
@@ -5934,7 +5934,7 @@ Editing Workshop — Synthesis Draft
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
 ::: example
-Model Text
+Example Text
 
 *"Office A said one thing, Office B said something else, and Office C also had comments. Office A said the instructions were confusing. Office B said the timeline was the problem. Office C said both were issues. Also, Office D didn't say much but they mentioned some delays too. We need to think about these issues because they are all important."*
 :::
@@ -6018,13 +6018,13 @@ Contrastive Warm-Up
 Read the two statements below. Both describe the same policy change.
 
 ::: example
-Model Text
+Example Text
 
 *"Under Section 12(4), the examining office shall apply the amended verification procedure as specified in Annex 3, paragraph 2(b), effective from the date of entry into force of the circular."*
 :::
 
 ::: example
-Model Text
+Example Text
 
 *"From next month, offices must carry out an additional check before moving an application to the review stage. This change is intended to reduce errors and ensure consistency."*
 :::
@@ -6036,7 +6036,7 @@ Discuss:
 3. In your own work context, when do you need to communicate policy to non-expert readers?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: write
 Reading-To-Write Input — Plain-Language Policy
@@ -6046,7 +6046,7 @@ Plain-language adaptation means retaining the essential policy meaning while red
 Read the following extract from an internal policy circular.
 
 ::: example
-Model Text
+Example Text
 
 *"With reference to the revised applicant communication framework (Circular 2024/07), all examining offices are required to implement the updated three-stage verification procedure in substitution for the existing two-stage procedure. Compliance is mandatory with effect from 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to the implementation date. Non-compliance may result in processing delays and referral for procedural review under Article 9."*
 :::
@@ -6062,7 +6062,7 @@ Using only the information in the extract above, write a plain-language version 
 - describe what staff in affected offices are required to do
 - avoid all technical references (circular numbers, article codes) unless you explain them in plain terms
 
-Aim for 60–80 words. You will compare your version with the model text in the next activity.
+Aim for 60–80 words. You will compare your version with the example text in the next activity.
 :::
 
 ::: notice
@@ -6211,7 +6211,7 @@ Rewrite each sentence so the required action is clear and direct.
 ### D. Guided Writing
 
 ::: rewrite
-Rewrite the Model Text
+Rewrite the Example Text
 
 Using the improved version as your guide, rewrite the original technical text from Section B in your own words. Your version must include:
 
@@ -6238,7 +6238,7 @@ When you simplify a specialist bulletin, preserve what matters for the reader’
 Below is an extract from a policy bulletin written for specialists. Convert it into a short plain-language summary (approximately 80–100 words) suitable for a general staff briefing.
 
 ::: example
-Model Text
+Example Text
 
 *"Following the adoption of Resolution 12/2024, examining offices are required to transition to the revised applicant file structure (AFS-2) by Q2 of the current fiscal year. The AFS-2 framework replaces the legacy AFS-1 system and introduces mandatory metadata tagging for all applicant correspondence items. Offices operating hybrid or manual workflows must complete system migration before the deadline. Failure to migrate within the specified timeframe will result in incompatibility with the central processing unit's updated intake protocol."*
 :::
@@ -6331,7 +6331,7 @@ Editing Workshop — Plain-Language Policy Draft
 The paragraph below was written for a general staff audience but contains several problems. Identify all the issues, then rewrite the paragraph as a clear, accessible plain-language summary.
 
 ::: example
-Model Text
+Example Text
 
 *"Offices shall ensure compliance with Section 9 according to the revised administrative schedule as referenced in Annex 2(c) of the updated framework. It should be noted that non-compliant offices will be subject to Article 7 review procedures. The purpose of this revision is procedural harmonisation vis-à-vis the standardised terminology matrix."*
 :::
@@ -6402,7 +6402,7 @@ Identify Communication Issues in a Justification
 Read the following attempt at a justification.
 
 ::: example
-Model Text
+Example Text
 
 *"We decided to change the form because we thought it would be better and easier for everyone to use. The old one was confusing and people kept making mistakes."*
 :::
@@ -6414,7 +6414,7 @@ Discuss:
 3. Why does a vague or poorly structured justification create problems for the reader or decision-maker?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -6603,7 +6603,7 @@ The second version works because it moves from decision, to rationale, to benefi
 Rewrite the Original Justification
 
 
-Using the improved model from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
+Using the improved example from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
 
 - a clear decision statement
 - a specific rationale
@@ -6700,7 +6700,7 @@ Editing Workshop — Justification Draft
 The paragraph below is a poor justification for an administrative decision. Identify all the problems, then rewrite it as a concise, policy-aligned justification.
 
 ::: example
-Model Text
+Example Text
 
 *"We changed the workflow because the old one wasn't very good and people found it confusing. The new one is simpler and should work better. Everyone agreed it needed to be changed so we went ahead with it."*
 :::
@@ -6771,7 +6771,7 @@ Real Document Analysis — Internal Coordination Report
 The following extract is taken from an internal coordination report.
 
 ::: example
-Model Text
+Example Text
 
 *"Following the distribution of the revised applicant communication guidelines (Circular 2024/07), offices were asked to submit brief status updates by 30 October. Four offices responded. Office A and Office D reported that staff briefings had been completed and the new procedures were being implemented. Office B noted that it had not yet received the updated forms and required clarification on the revised timeline. Office C reported that implementation had been delayed due to a vacancy in the team lead position; a temporary coordinator had been appointed and training was scheduled for the following week. Two outstanding questions were identified: whether the revised timeline should apply to applications already in progress, and whether the new forms would be made available in both official languages. A follow-up meeting is proposed for 15 November."*
 :::
@@ -6783,7 +6783,7 @@ Discuss:
 3. What would be unclear or missing if this were presented as a list of separate updates?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Tone and Clarity
@@ -7025,7 +7025,7 @@ Rewrite each item to include a clear, time-bound next step.
 Rewrite the Original Report
 
 
-Using the improved model as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
+Using the improved example as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
 
 - Summary
 - Issues Identified
@@ -7070,7 +7070,7 @@ When converting a narrative update into a report, group points under the section
 Below is a narrative email chain summary from a coordination officer. Convert it into a structured consolidated report using the five-section format.
 
 ::: example
-Model Text
+Example Text
 
 *"So far we have had three offices check in. Office A is doing fine — they've done the training and started using the new forms. Office B has a problem because they don't have the forms yet, apparently they weren't sent correctly, so they're still using the old ones. Office C hasn't responded yet but we know from the last meeting that they had some concerns about terminology. We still don't know whether offices that started processing before the circular need to follow the new timeline. We should probably set a deadline for responses and hold a meeting before the end of the month."*
 :::
@@ -7156,7 +7156,7 @@ Editing Workshop — Consolidated Report Draft
 The paragraph below is an attempt at a consolidated report. It contains multiple problems. Identify all the issues, then rewrite it as a structured, professional consolidated report.
 
 ::: example
-Model Text
+Example Text
 
 *"Many offices had problems with the new guidelines and some actions were taken to fix things. We will meet again soon to sort everything out. The issues are quite complicated and it is hard to know exactly who is responsible for what. There are still some questions but hopefully things will be clearer soon."*
 :::
@@ -7224,28 +7224,28 @@ Read the four input items below. Before reading further, predict: what type of a
 
 **Input 1 — Email from Office A**
 ::: example
-Model Text
+Example Text
 
 *"We have received the revised guidelines but several staff members are unclear about the new terminology in Section 3. Could you clarify whether the terms 'submitted' and 'received' are now used interchangeably or whether they refer to distinct stages in the process?"*
 :::
 
 **Input 2 — Email from Office B**
 ::: example
-Model Text
+Example Text
 
 *"We note that the revised implementation timeline requires full adoption by 1 February. Given that our team is currently reduced due to planned leave, we do not believe this deadline is achievable. We request consideration of an extended transition period."*
 :::
 
 **Input 3 — Internal Meeting Notes**
 ::: example
-Model Text
+Example Text
 
 *"Several offices raised concerns during the coordination call about delays caused by outdated forms still in circulation. No resolution was agreed. Action points were not formally assigned. Follow-up is required."*
 :::
 
 **Input 4 — Updated Instructions (Issued Last Week)**
 ::: example
-Model Text
+Example Text
 
 *"Circular 2024/11 introduces revised terminology, updated sequencing requirements, and new verification steps. Distribution: all examining offices. Acknowledgement of receipt required within seven days."*
 :::
@@ -7253,7 +7253,7 @@ Model Text
 Now discuss: Which offices need to be contacted? What information does each need? What type of document would best address the full situation?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Reading-To-Write Input — Integrated Response Preparation
@@ -7331,7 +7331,7 @@ Each sentence below contains an error — of tone, structure, or professional re
 The paragraph below presents information from multiple sources as a list of disconnected items. Rewrite it as a single, cohesive paragraph that synthesises the information.
 
 ::: example
-Model Text
+Example Text
 
 *"Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. The circular needs to be acknowledged. These are all different problems."*
 :::
@@ -7358,7 +7358,7 @@ The revised version works better because it identifies a shared implementation t
 ### D. Guided Writing
 
 ::: rewrite
-Model Rewriting
+Example Rewriting
 
 Using the integrated response in Section B as your guide, rewrite the inadequate version — the one that addresses each input separately without synthesis. Your version must:
 
@@ -7386,7 +7386,7 @@ Locate the freer writing or homework task you produced for Unit 18 (Synthesising
 If you do not have your Unit 18 writing, use this short alternative paragraph instead:
 
 ::: example
-Model Text
+Example Text
 
 *"The offices reported several different problems after the new process was introduced. Office A said the terminology was unclear. Office B said the deadline was too short. Office C also mentioned delays, and Office D raised questions about the updated forms. These issues should be reviewed soon."*
 :::
@@ -7473,7 +7473,7 @@ The administrative document below was submitted by a colleague for review. Read 
 | **+ | …** = add content that is missing |
 
 ::: example
-Model Text
+Example Text
 
 *"As per the recent circular which was sent last week, there are some issues that offices have been reporting. Office A had some questions about terms. Office B said they can't meet the deadline. There were also form problems mentioned somewhere in the meeting notes. Everyone needs to do various things to fix these problems. Please send your updates soon."*
 :::
@@ -7538,7 +7538,7 @@ Reflect on your learning across this course and discuss:
 3. In your professional context, which document types covered in this course do you use most frequently?
 :::
 
-### B. Model Text
+### B. Example Text
 
 ::: notice
 Compare Responses — Exemplar Analysis
@@ -7734,7 +7734,7 @@ Track-Change Simulation
 The following draft was produced in response to the capstone scenario. It contains several weaknesses. Using the conventions from Unit 22, mark the draft for deletion **D**, replacement **R: …**, and addition **+: …**, then write a clean revised version.
 
 ::: example
-Model Text
+Example Text
 
 *"There are many problems in the offices at the moment and things are not working well. Someone needs to explain the new guidelines again because not everyone understands them. The forms are also an issue. A meeting needs to happen soon. Offices should respond and let us know what is going on. The situation is not ideal but hopefully it will get better."*
 :::
