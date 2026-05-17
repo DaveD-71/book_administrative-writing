@@ -1393,7 +1393,6 @@ The improved version is easier to answer because each question is anchored to a 
 ::: notice
 Identify the Writing Pattern
 
-
 Highlight the following in the improved version:
 
 1. **Specific references** — sections, terms, annexes
