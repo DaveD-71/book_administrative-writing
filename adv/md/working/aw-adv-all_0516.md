@@ -305,11 +305,11 @@ Self-Editing Checklist
 
 Check your writing for the following:
 
-- Each sentence has only **one clear main idea**
-- Subordination expresses **the correct type of relationship** (reason, contrast, time)
-- Connectors match the logical relationship you intend to show
-- References such as *this*, *that*, *it*, and *the issue* clearly refer to something specific
-- No sentence forces the reader to hold more than **two layers** of embedded information
+- [ ] Each sentence has only **one clear main idea**
+- [ ] Subordination expresses **the correct type of relationship** (reason, contrast, time)
+- [ ] Connectors match the logical relationship you intend to show
+- [ ] References such as *this*, *that*, *it*, and *the issue* clearly refer to something specific
+- [ ] No sentence forces the reader to hold more than **two layers** of embedded information
 :::
 
 ### G. Editing
@@ -619,10 +619,10 @@ Draft {{PH-4: U02-E1-freer-write}}
 ::: edit
 Guided Peer Review
 
-- Is the tone appropriate for the intended audience?
-- Does any sentence sound accusatory or impatient?
-- Is the reason for the request clearly stated?
-- Does the message close cooperatively?
+- [ ] Is the tone appropriate for the intended audience?
+- [ ] Does any sentence sound accusatory or impatient?
+- [ ] Is the reason for the request clearly stated?
+- [ ] Does the message close cooperatively?
 :::
 
 ::: edit
@@ -630,11 +630,11 @@ Self-Editing Checklist
 
 Check your writing for:
 
-- unnecessary directness
-- missing softening language
-- vague or implied blame
-- lack of audience adaptation
-- unclear purpose or reasoning
+- [ ] unnecessary directness
+- [ ] missing softening language
+- [ ] vague or implied blame
+- [ ] lack of audience adaptation
+- [ ] unclear purpose or reasoning
 :::
 
 ### G. Editing
@@ -923,10 +923,10 @@ Draft {{PH-4: U03-E1-freer-write}}
 ::: edit
 Guided Peer Review
 
-- Does the paragraph have a clear topic sentence?
-- Is each sentence logically connected to the one before it?
-- Are reference words used correctly?
-- Does the paragraph end with an implication or next step?
+- [ ] Does the paragraph have a clear topic sentence?
+- [ ] Is each sentence logically connected to the one before it?
+- [ ] Are reference words used correctly?
+- [ ] Does the paragraph end with an implication or next step?
 :::
 
 ::: edit
@@ -934,11 +934,11 @@ Self-Editing Checklist
 
 Check your writing for:
 
-- missing or incorrect connectors
-- repeated nouns without reference forms
-- topic shifts without explanation
-- unclear sentence relationships
-- weak or missing topic sentences
+- [ ] missing or incorrect connectors
+- [ ] repeated nouns without reference forms
+- [ ] topic shifts without explanation
+- [ ] unclear sentence relationships
+- [ ] weak or missing topic sentences
 :::
 
 ### G. Editing
@@ -1117,9 +1117,9 @@ Worked Example
 *We would appreciate it if you could confirm which version should be treated as final.*
 
 *Once confirmed, we will update our internal records and proceed with the review.*
+:::
 
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
-:::
 
 ::: notice
 Identify the Function of Each Sentence
@@ -1242,10 +1242,10 @@ Peer Review
 
 Partners respond to the following:
 
-- Is the email structure logical and easy to follow?
-- Are all requests clearly and separately stated?
-- Does the tone fit the audience?
-- Are the next steps clear and realistic?
+- [ ] Is the email structure logical and easy to follow?
+- [ ] Are all requests clearly and separately stated?
+- [ ] Does the tone fit the audience?
+- [ ] Are the next steps clear and realistic?
 :::
 
 ::: edit
@@ -1253,11 +1253,11 @@ Self-Editing Checklist
 
 Before submitting, check that your email:
 
-- opens with context and states its purpose in the first two sentences
-- separates explanation from requests
-- uses diplomatic phrasing throughout
-- avoids long, unstructured paragraphs
-- states next steps clearly
+- [ ] opens with context and states its purpose in the first two sentences
+- [ ] separates explanation from requests
+- [ ] uses diplomatic phrasing throughout
+- [ ] avoids long, unstructured paragraphs
+- [ ] states next steps clearly
 :::
 
 ### G. Editing
@@ -1473,9 +1473,9 @@ Keep this phrase bank for reference throughout the module.
 Worked Example
 
 *For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.*
+:::
 
 This example works because each question is tied to a specific reference, each point asks for one answerable clarification, and the next step shows why the reply matters.
-:::
 :::
 
 ### D. Guided Writing
@@ -1561,10 +1561,10 @@ Peer Review
 
 Partners identify:
 
-- which clarification questions are precise and which remain ambiguous
-- whether all references are specific enough for the reader to act on
-- whether the structure is clear and easy to follow
-- whether the tone is appropriate for the relationship described
+- [ ] which clarification questions are precise and which remain ambiguous
+- [ ] whether all references are specific enough for the reader to act on
+- [ ] whether the structure is clear and easy to follow
+- [ ] whether the tone is appropriate for the relationship described
 :::
 
 ::: edit
@@ -1572,11 +1572,11 @@ Self-Editing Checklist
 
 Before submitting, check that your writing:
 
-- includes no vague or unanchored questions
-- references a specific section, term, or date for each clarification point
-- uses softening language to avoid implying fault
-- states clearly what will happen once clarification is received
-- maintains a consistent, professional tone throughout
+- [ ] includes no vague or unanchored questions
+- [ ] references a specific section, term, or date for each clarification point
+- [ ] uses softening language to avoid implying fault
+- [ ] states clearly what will happen once clarification is received
+- [ ] maintains a consistent, professional tone throughout
 :::
 
 ### G. Editing
@@ -1932,10 +1932,10 @@ Peer Review
 
 Partners respond to the following:
 
-- Does the message maintain a neutral tone throughout, or does blame appear anywhere?
-- Is the issue clearly and specifically identified?
-- Is the impact explanation convincing and relevant?
-- Are the requests clear and diplomatically phrased?
+- [ ] Does the message maintain a neutral tone throughout, or does blame appear anywhere?
+- [ ] Is the issue clearly and specifically identified?
+- [ ] Is the impact explanation convincing and relevant?
+- [ ] Are the requests clear and diplomatically phrased?
 :::
 
 ::: edit
@@ -1943,11 +1943,11 @@ Self-Editing Checklist
 
 Before submitting, check that your writing:
 
-- contains no direct or accusatory language
-- identifies the issue with a specific reference (section, date, term)
-- explains why correction is needed without assigning fault
-- uses at least two diplomatic framing expressions
-- states clearly what will happen once the correction is made
+- [ ] contains no direct or accusatory language
+- [ ] identifies the issue with a specific reference (section, date, term)
+- [ ] explains why correction is needed without assigning fault
+- [ ] uses at least two diplomatic framing expressions
+- [ ] states clearly what will happen once the correction is made
 :::
 
 ### G. Editing
@@ -2230,10 +2230,10 @@ Peer Review
 
 Partners respond to the following:
 
-- Is the priority order of requests clear?
-- Are dependency relationships explicitly stated?
-- Is each request diplomatically phrased?
-- Does the message include a rationale for the sequence?
+- [ ] Is the priority order of requests clear?
+- [ ] Are dependency relationships explicitly stated?
+- [ ] Is each request diplomatically phrased?
+- [ ] Does the message include a rationale for the sequence?
 :::
 
 ::: edit
@@ -2241,11 +2241,11 @@ Self-Editing Checklist
 
 Before submitting, check that your message:
 
-- states requests in a logical, prioritised order
-- uses sequence markers to guide the reader
-- makes dependency relationships explicit where relevant
-- uses diplomatic softening for each request
-- avoids unnecessary repetition
+- [ ] states requests in a logical, prioritised order
+- [ ] uses sequence markers to guide the reader
+- [ ] makes dependency relationships explicit where relevant
+- [ ] uses diplomatic softening for each request
+- [ ] avoids unnecessary repetition
 :::
 
 ### G. Editing
@@ -2544,12 +2544,12 @@ Self-Editing Checklist
 
 Before submitting, check your procedure against the following:
 
-- Each step contains a single, clearly defined action
-- Steps are numbered and labelled consistently
-- Conditions are introduced with appropriate language (*if*, *unless*, *where applicable*)
-- Precise procedural verbs are used throughout (no *do*, *check*, *deal with*)
-- The procedure ends with a step that closes the process
-- Tone is formal and impersonal throughout
+- [ ] Each step contains a single, clearly defined action
+- [ ] Steps are numbered and labelled consistently
+- [ ] Conditions are introduced with appropriate language (*if*, *unless*, *where applicable*)
+- [ ] Precise procedural verbs are used throughout (no *do*, *check*, *deal with*)
+- [ ] The procedure ends with a step that closes the process
+- [ ] Tone is formal and impersonal throughout
 :::
 
 ### G. Editing
@@ -2842,12 +2842,12 @@ Self-Editing Checklist
 
 Before submitting, check your notice against the following:
 
-- An effective date is stated clearly near the beginning
-- What has changed is described precisely, with the old and new processes distinguished
-- A rationale is given — not just *what* changed, but *why*
-- Required actions are stated clearly, with polite but direct phrasing
-- Support or contact information is offered
-- Tone is formal and appropriate for interagency communication throughout
+- [ ] An effective date is stated clearly near the beginning
+- [ ] What has changed is described precisely, with the old and new processes distinguished
+- [ ] A rationale is given — not just *what* changed, but *why*
+- [ ] Required actions are stated clearly, with polite but direct phrasing
+- [ ] Support or contact information is offered
+- [ ] Tone is formal and appropriate for interagency communication throughout
 :::
 
 ### G. Editing
@@ -3144,12 +3144,12 @@ Self-Editing Checklist
 
 Before submitting, check your explanation against the following:
 
-- The number of factors is stated clearly in the opening
-- Each factor is described separately and supported with a specific detail
-- Cause–effect relationships are made explicit (*as a result*, *consequently*, *this means that*)
-- An impact statement explains why the issue matters
-- A next-step conclusion indicates what will happen or what is needed
-- Tone is neutral and impersonal throughout — no evaluative or emotional language
+- [ ] The number of factors is stated clearly in the opening
+- [ ] Each factor is described separately and supported with a specific detail
+- [ ] Cause–effect relationships are made explicit (*as a result*, *consequently*, *this means that*)
+- [ ] An impact statement explains why the issue matters
+- [ ] A next-step conclusion indicates what will happen or what is needed
+- [ ] Tone is neutral and impersonal throughout — no evaluative or emotional language
 :::
 
 ### G. Editing
@@ -3462,12 +3462,12 @@ Self-Editing Checklist
 
 Before submitting, check your summary against the following:
 
-- All four sections are present and clearly labelled
-- The overview names the date, participants, and topics covered
-- Key points are presented as bullets and use neutral, objective language
-- Each action item is attributed to a specific office or person and includes a deadline where possible
-- Next steps are forward-looking and actionable
-- No unnecessary narrative detail or informal language appears anywhere in the summary
+- [ ] All four sections are present and clearly labelled
+- [ ] The overview names the date, participants, and topics covered
+- [ ] Key points are presented as bullets and use neutral, objective language
+- [ ] Each action item is attributed to a specific office or person and includes a deadline where possible
+- [ ] Next steps are forward-looking and actionable
+- [ ] No unnecessary narrative detail or informal language appears anywhere in the summary
 :::
 
 ### G. Editing
@@ -3850,12 +3850,12 @@ Self-Editing Checklist
 
 Before submitting, check whether your inquiry:
 
-- provides enough context for the recipient to identify the case
-- contains 2–3 specific, answerable questions
-- uses diplomatic softening throughout
-- signals next steps or a timeline
-- avoids direct or informal phrasing
-- is free from assumed knowledge
+- [ ] provides enough context for the recipient to identify the case
+- [ ] contains 2–3 specific, answerable questions
+- [ ] uses diplomatic softening throughout
+- [ ] signals next steps or a timeline
+- [ ] avoids direct or informal phrasing
+- [ ] is free from assumed knowledge
 :::
 
 ### G. Editing
@@ -4191,12 +4191,12 @@ Self-Editing Checklist
 
 Before submitting, check whether your assessment:
 
-- identifies risks specifically (not vaguely)
-- explains the cause of each risk
-- describes the impact on operations or outcomes
-- proposes a realistic mitigation measure for each risk
-- avoids emotional, exaggerated, or evaluative language
-- is logically organised (risk → cause → impact → mitigation)
+- [ ] identifies risks specifically (not vaguely)
+- [ ] explains the cause of each risk
+- [ ] describes the impact on operations or outcomes
+- [ ] proposes a realistic mitigation measure for each risk
+- [ ] avoids emotional, exaggerated, or evaluative language
+- [ ] is logically organised (risk → cause → impact → mitigation)
 :::
 
 ### G. Editing
@@ -4593,12 +4593,12 @@ Self-Editing Checklist
 
 Before submitting, check whether your writing:
 
-- provides context that supports readers with no prior knowledge
-- uses explicit audience signals where relevant
-- states the core message before the audience-specific detail
-- avoids assumed knowledge throughout
-- adjusts level of detail appropriately for each audience
-- includes clear required actions and next steps
+- [ ] provides context that supports readers with no prior knowledge
+- [ ] uses explicit audience signals where relevant
+- [ ] states the core message before the audience-specific detail
+- [ ] avoids assumed knowledge throughout
+- [ ] adjusts level of detail appropriately for each audience
+- [ ] includes clear required actions and next steps
 :::
 
 ### G. Editing
@@ -4909,12 +4909,12 @@ Self-Editing Checklist
 
 Before submitting, check whether your rationale:
 
-- states the recommendation clearly
-- references a specific policy, guideline, or objective
-- provides objective reasoning for the change
-- explains the expected benefits
-- avoids subjective, emotional, or vague language
-- follows a logical structure: recommendation → policy reference → reasoning → benefits
+- [ ] states the recommendation clearly
+- [ ] references a specific policy, guideline, or objective
+- [ ] provides objective reasoning for the change
+- [ ] explains the expected benefits
+- [ ] avoids subjective, emotional, or vague language
+- [ ] follows a logical structure: recommendation → policy reference → reasoning → benefits
 :::
 
 ### G. Editing
@@ -5273,11 +5273,11 @@ Self-Editing Checklist
 
 Before submitting your work, check each item below.
 
-- Is the tone neutral and professional throughout?
-- Does the evaluation include at least one genuine strength?
-- Are weaknesses described in specific, criterion-based terms?
-- Is every criticism accompanied by a recommendation?
-- Does the structure move logically from assessment to recommendation?
+- [ ] Is the tone neutral and professional throughout?
+- [ ] Does the evaluation include at least one genuine strength?
+- [ ] Are weaknesses described in specific, criterion-based terms?
+- [ ] Is every criticism accompanied by a recommendation?
+- [ ] Does the structure move logically from assessment to recommendation?
 :::
 
 ### G. Editing
@@ -5586,11 +5586,11 @@ Exchange your Freer Writing with a partner. Use the questions below to give feed
 ::: edit
 Self-Editing Checklist
 
-- Does the overview establish context within one or two sentences?
-- Are key points concise — one idea per bullet point?
-- Are implications clearly stated, not assumed?
-- Is the recommendation a specific, actionable step?
-- Have I removed all unnecessary background or process detail?
+- [ ] Does the overview establish context within one or two sentences?
+- [ ] Are key points concise — one idea per bullet point?
+- [ ] Are implications clearly stated, not assumed?
+- [ ] Is the recommendation a specific, actionable step?
+- [ ] Have I removed all unnecessary background or process detail?
 :::
 
 ### G. Editing
@@ -5924,11 +5924,11 @@ Exchange your Freer Writing with a partner. Compare the two syntheses. For each 
 ::: edit
 Self-Editing Checklist
 
-- Have I grouped information by theme rather than listing it source-by-source?
-- Have I shown at least one contrast or agreement between sources?
-- Does the synthesis end with a concluding insight?
-- Have I used synthesis language from Section C?
-- Is the tone formal and neutral throughout?
+- [ ] Have I grouped information by theme rather than listing it source-by-source?
+- [ ] Have I shown at least one contrast or agreement between sources?
+- [ ] Does the synthesis end with a concluding insight?
+- [ ] Have I used synthesis language from Section C?
+- [ ] Is the tone formal and neutral throughout?
 :::
 
 ### G. Editing
@@ -6320,12 +6320,12 @@ Each category reflects a major course skill strand: synthesis of inputs, profess
 
 Before submitting, check your own writing against the following:
 
-- All technical references (section numbers, circular codes) have been replaced or explained
-- The purpose of the change is clearly stated
-- Required actions and deadlines are explicit
-- No sentence assumes specialised prior knowledge
-- Tone is neutral, professional, and accessible
-- Word count is within the specified range
+- [ ] All technical references (section numbers, circular codes) have been replaced or explained
+- [ ] The purpose of the change is clearly stated
+- [ ] Required actions and deadlines are explicit
+- [ ] No sentence assumes specialised prior knowledge
+- [ ] Tone is neutral, professional, and accessible
+- [ ] Word count is within the specified range
 :::
 
 ### G. Editing
@@ -6689,12 +6689,12 @@ Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
-- The decision is stated clearly in the first sentence
-- The rationale refers to a specific policy, circular, or procedural requirement
-- The problem being solved is identified
-- Expected benefits are stated specifically
-- No emotional, vague, or informal language is present
-- Word count is within the specified range
+- [ ] The decision is stated clearly in the first sentence
+- [ ] The rationale refers to a specific policy, circular, or procedural requirement
+- [ ] The problem being solved is identified
+- [ ] Expected benefits are stated specifically
+- [ ] No emotional, vague, or informal language is present
+- [ ] Word count is within the specified range
 :::
 
 ### G. Editing
@@ -7134,9 +7134,9 @@ Comparative Peer Review
 
 Exchange reports with a partner. Read both reports and identify the stronger version of each section. For each section, note:
 
-- which report presents the information more clearly
-- what specific language or structural choice makes it more effective
-- one improvement the weaker version could make
+- [ ] which report presents the information more clearly
+- [ ] what specific language or structural choice makes it more effective
+- [ ] one improvement the weaker version could make
 :::
 
 ::: edit
@@ -7144,13 +7144,13 @@ Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
-- The summary states what the report covers and how many sources it draws from
-- Issues are grouped clearly and described without blame
-- Actions taken are specific and attributed correctly
-- Outstanding questions are identified precisely
-- Next steps include responsibilities and deadlines
-- Tone is neutral and formal throughout
-- Word count is within the specified range
+- [ ] The summary states what the report covers and how many sources it draws from
+- [ ] Issues are grouped clearly and described without blame
+- [ ] Actions taken are specific and attributed correctly
+- [ ] Outstanding questions are identified precisely
+- [ ] Next steps include responsibilities and deadlines
+- [ ] Tone is neutral and formal throughout
+- [ ] Word count is within the specified range
 :::
 
 ### G. Editing
@@ -7456,13 +7456,13 @@ Self-Editing Checklist
 
 Before submitting, check your own writing against the following:
 
-- The document identifies all key issues from the four inputs
-- Issues are synthesised, not listed one by one
-- All required actions are stated clearly with deadlines where appropriate
-- The document is addressed to the appropriate audience
-- The chosen format matches the purpose and audience
-- Tone is formal and neutral throughout
-- Word count is within the specified range
+- [ ] The document identifies all key issues from the four inputs
+- [ ] Issues are synthesised, not listed one by one
+- [ ] All required actions are stated clearly with deadlines where appropriate
+- [ ] The document is addressed to the appropriate audience
+- [ ] The chosen format matches the purpose and audience
+- [ ] Tone is formal and neutral throughout
+- [ ] Word count is within the specified range
 :::
 
 ### G. Editing
