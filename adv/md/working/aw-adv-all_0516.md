@@ -13,6 +13,8 @@ style_map:
   revise: "Div Label Revise"
   edit: "Div Label Edit"
   example: "Div Label Example"
+  example-good: "Div Label Example Good"
+  example-bad: "Div Label Example Bad"
 ---
 
 # Administrative Writing, Advanced
@@ -73,13 +75,13 @@ Then discuss: **When does a long sentence become unclear?** What makes administr
 
 Below are two versions of an excerpt from an internal explanation memo.
 
-::: example
+::: example-bad
 Original Text
 
 *"Because we were unable to verify the applicant's supporting documents during the initial review, and since the translation submitted last week contained several inconsistencies that require clarification, we will need to request an updated version; however, before doing so, we must confirm internally whether the missing information is essential for the current stage of examination. Additionally, the team noted that some details may have been omitted unintentionally, which could affect the accuracy of further processing if not corrected promptly."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"We were unable to verify the applicant's supporting documents during the initial review. The translation submitted last week contained several inconsistencies that require clarification, so we will request an updated version. Before doing so, we will confirm internally whether the missing information is essential at this stage. The team has also noted that some details may have been omitted unintentionally; if left uncorrected, this could affect the accuracy of further processing."*
@@ -218,13 +220,13 @@ Rewrite each sentence below using the clarity pattern indicated.
 ::: learn
 A Note on Expressing Equal Contrast
 
-Both *but* and *however* express contrast between equal ideas. Use *but* for lighter contrast within a single sentence; use *; however,* when the contrast is emphatic or the ideas are more complex. Compare this with *although* (subordination), which makes the contrast idea secondary — see item 2.
+Both ***but*** and ***however*** express contrast between equal ideas. Use *but* for lighter contrast within a single sentence; use *; however,* when the contrast is emphatic or the ideas are more complex. Compare this with *although* (subordination), which makes the contrast idea secondary — see item 2.
 :::
 
 ::: learn
 A Note on Expressing Subordinate Contrast
 
-*Although* and *while* express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams continued using the previous version* (revision is background; continued use is the main point).
+***Although*** and ***while*** express contrast subordinately — the contrasting idea is framed as background, not equal. Compare: *The guidelines were revised, but some teams continued using the previous version* (equal contrast) vs. *Although the guidelines were revised, some teams continued using the previous version* (revision is background; continued use is the main point).
 :::
 
 :::
@@ -392,13 +394,13 @@ Write your responses before continuing.
 
 ### B. Example Text
 
-::: example
+::: example-bad
 Original Text
 
 *"You submitted the wrong document. Please resend the correct version. We cannot continue the review until you fix this."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"It appears that the submitted document may not match the version required for this stage. To ensure accuracy in our review, we would appreciate it if you could confirm whether an updated file is available. Once received, we will be able to proceed with the next steps of the examination."*
@@ -518,7 +520,7 @@ Tone by Audience
 **Interagency →** requires neutrality and objectivity
 **International / foreign office →** requires extra diplomacy and clarity
 
-::: example
+::: example-good
 Worked Example
 
 | Label | Details |
@@ -726,13 +728,13 @@ After sorting, discuss: What specific features make the cohesive examples easier
 
 ### B. Example Text
 
-::: example
+::: example-bad
 Original Text
 
 *"The meeting was productive. Several issues were raised. The guidelines were unclear. The participants wanted clarification. We must revise the document."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"The meeting was productive, but several issues were raised regarding the clarity of the guidelines. Because participants requested further clarification, the team agreed that the document requires revision. The next step will be to prepare a revised draft reflecting the discussion."*
@@ -1035,13 +1037,13 @@ Consider:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
 :::
 
-::: example
+::: example-good
 Revised Text — Executive-Level Summary
 
 *Thank you for your message.*
@@ -1107,7 +1109,7 @@ Useful Phrases
 | **Next Steps** | *Once we receive the updated file, we will…*<br*We plan to proceed with…* |
 :::
 
-::: example
+::: example-good
 Worked Example
 
 *Thank you for your message regarding the revised file.*
@@ -1268,7 +1270,7 @@ Improve Clarity and Flow — Structural and Tone Problems
 
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
-::: example
+::: example-bad
 Original Text — Weak Response
 
 *"We saw your message. Please send the corrected file. We also need you to check the translation. We want to finish the review soon."*
@@ -1354,13 +1356,13 @@ Consider:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
 :::
 
-::: example
+::: example-good
 Revised Text — Strong Response
 
 *Thank you for sharing the revised document.*
@@ -1469,7 +1471,7 @@ The phrases below are drawn from this unit's example text and language focus. Or
 
 Keep this phrase bank for reference throughout the module.
 
-::: example
+::: example-good
 Worked Example
 
 *For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.*
@@ -1683,13 +1685,13 @@ Discuss:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *Thank you for sharing the updated document.*
@@ -1847,7 +1849,7 @@ Each sentence below contains one problem — either a tone issue, a missing refe
 5. *Your explanation in Section 2 is wrong.*
 6. *Please correct all of the errors before we can continue.*
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -2052,13 +2054,13 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Please check the translation, send the corrected file, and confirm the date. We need everything as soon as possible."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *To proceed with the review, we would appreciate your support with the following points.*
@@ -2146,7 +2148,7 @@ Rewrite the paragraph as a structured, diplomatically phrased request. Your vers
 - use diplomatic phrasing throughout
 - maintain the same factual content
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -2332,7 +2334,7 @@ Real Document Analysis — Internal Procedure Notice
 
 Read the following internal procedure notice.
 
-::: example
+::: example-good
 Worked Example
 
 *Office Circular — Document Verification Procedure (Revised)*
@@ -2354,13 +2356,13 @@ Answer the following questions:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Review the application and update the record. If the applicant submitted a revision, confirm the changes. Send notification. Check if the timeline should be updated. Follow the guidelines."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 Procedure for Reviewing Applicant Submissions
@@ -2448,7 +2450,7 @@ Learn — Useful Language
 *conduct, examine, verify, process, ensure, determine, cross-check, update, confirm*
 :::
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -2661,13 +2663,13 @@ After reading the example, return to your list and answer:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"The instructions have changed. Make sure to follow the new steps and use the updated form. The previous version is no longer valid."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November. The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability. We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice. Should any questions arise regarding the transition, please do not hesitate to contact our office."*
@@ -2734,7 +2736,7 @@ Each sentence below is a bare statement of fact. Expand each one into 2–3 sent
 3. *The previous process is no longer valid.* Add: what the new process involves + what staff should do now
 4. *The coordinating office has revised its communication procedure.* Add: what specifically has changed + the benefit this brings to partner offices
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -2954,13 +2956,13 @@ Answer the following questions:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"The report was delayed because there were problems with the data and also the instructions were confusing. We need more time to finish it."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"The completion of the report has been delayed due to two main factors. First, discrepancies were identified in the applicant data submitted by the coordinating office, requiring additional verification before analysis can proceed. Second, the updated instructions issued on 3 October contain several ambiguous points — in particular, the definition of 'response period' appears to be used inconsistently across sections. Both issues are currently being addressed. Once these are resolved, we anticipate being able to finalise the report within five working days."*
@@ -3045,7 +3047,7 @@ Rewrite each vague sentence as a clear, professionally phrased statement. Add th
 4. *We need more information.* Add: what specific information / from whom
 5. *This is affecting the process.* Add: how / what cannot proceed as a result
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -3251,13 +3253,13 @@ Answer the following questions:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"The meeting was held on Monday. People discussed the guideline revisions and some offices had concerns. We decided to continue the discussion later."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 Meeting Summary — Guideline Revision Discussion (12 October)
@@ -3353,7 +3355,7 @@ Example Text
 *"The meeting on 5 November brought together representatives from Offices A, B, and C. Most of the time was spent discussing the new reporting template. Office B said the template doesn't include a section for multi-stage submissions. Office C agreed and said this causes problems when summarising complex cases. Everyone agreed that the template needs to be revised before it is rolled out. Office A said they would prepare a revised draft. This should be ready by 12 November. The group will look at the draft at the next meeting, which is scheduled for 15 November."*
 :::
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -3596,13 +3598,13 @@ Example Text
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We want to know what is going on with the applicant. Please explain what is happening and send us the correct information."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"We would appreciate your assistance in confirming the current status of the applicant's submission. For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps. Your support is appreciated, and please let us know if any further information is required on our side."*
@@ -3964,13 +3966,13 @@ Write your predictions. Then, as you work through this unit, compare your list a
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"There are some risks with the new procedure. People might be confused and things might be delayed. We need to check everything carefully."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"The revised procedure presents two key risks. First, the removal of the preliminary verification step may increase the likelihood of incomplete submissions, resulting in additional processing time. Second, the updated terminology has not yet been standardised across agencies, which may lead to inconsistent interpretation during coordination. These risks may affect overall processing timelines; however, clear guidance and interagency briefing sessions can mitigate their impact."*
@@ -4078,7 +4080,7 @@ Useful patterns:
 - *A possible solution would be to…*
 :::
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -4320,13 +4322,13 @@ Discuss:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We shared the new instructions last week, so please start using the updated timeline. As you know, this fixes the issues identified earlier."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"We would like to confirm that the updated instructions circulated on 3 October should now be used for all applicant submissions. For colleagues already familiar with the revision, the main change concerns the applicant communication timeline in Section 2.2. For partner offices, we note that the revision was introduced to resolve inconsistencies identified in the previous version. Should any questions arise regarding the updated process, please feel free to contact our office."*
@@ -4495,7 +4497,7 @@ Example Text
 
 Your rewritten version should be 5–7 sentences and address at least two different reader groups.
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -4700,13 +4702,13 @@ Example Text
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We should update the form because people don't like the old version. A new form would be better and easier to use."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"Updating the form will improve alignment with the revised guidelines issued in August, which require clearer terminology and updated data fields. The new format will also reduce the likelihood of incomplete submissions, supporting the agency's objective of improving processing efficiency. As a result, adopting the revised form is consistent with current policy and enhances overall workflow accuracy."*
@@ -4812,7 +4814,7 @@ Expand each bare sentence into 2–3 sentences that include a policy reference, 
 3. *The timeline needs to be updated.*
 4. *A new verification step has been introduced.*
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -5044,13 +5046,13 @@ What distinguishes the language in the professional column from the language in 
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"The revised document is not good. It has many problems and needs to be improved. Some parts are unclear."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 **Overall Assessment:**
@@ -5160,7 +5162,7 @@ Each sentence below contains a problem with tone, precision, or balance. Identif
 3. *We liked some things but we did not like others.*
 4. *The conclusion is weak and pointless — it adds nothing.*
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -5364,13 +5366,13 @@ Write your predictions, then compare with a partner after completing Section B.
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We discussed the form revision issue and people had different views. We need to talk more about it and decide later."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 **Overview:**
@@ -5484,7 +5486,7 @@ Example Text
 *"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."*
 :::
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -5702,13 +5704,13 @@ Discuss
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Office A says terminology is unclear. Office B says the timeline is unrealistic. Office C says both are issues. There are problems we need to fix."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"Across the three offices, two main concerns emerge: unclear terminology and an unrealistic implementation timeline. While Offices A and C identified terminology as the primary obstacle, Offices B and C raised concerns about the feasibility of the proposed schedule. Taken together, these findings indicate that both the terminology and the implementation timeline require revision before the process can be rolled out consistently."*
@@ -5825,7 +5827,7 @@ Learn — Useful Language
 
 Keep this phrase bank — you will use it in the Freer Writing task and in future units.
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -6075,13 +6077,13 @@ Aim for 60–80 words. You will compare your version with the example text in th
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Offices must comply with the updated three-stage verification procedure under Circular 2024/07, effective 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to implementation. Non-compliance may result in referral under Article 9."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"A new document-checking process will come into effect on 1 March. Offices will now carry out three verification steps instead of two before an application proceeds. This change is designed to reduce errors and create a consistent approach across all offices.*
@@ -6156,7 +6158,7 @@ Useful structures:
 - *The purpose of this update is to…*
 :::
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -6426,13 +6428,13 @@ Discuss:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"We changed the process because the old one was confusing. The new one should be better."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 *"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
@@ -6591,7 +6593,7 @@ C. *"The previous list contained terms used inconsistently across offices, leadi
 
 D. *"This revision aligns with the updated interagency style guidelines issued in March."*
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -6795,13 +6797,13 @@ Discuss:
 Compare Tone and Clarity
 
 
-::: example
+::: example-bad
 Original Text
 
 *"Some offices are confused about the new guidelines. Other offices have not used the new form. We need to send another message and explain everything again."*
 :::
 
-::: example
+::: example-good
 Revised Text
 
 **Summary**
@@ -6851,7 +6853,7 @@ Discuss: Why does a predictable report structure help readers process informatio
 ::: notice
 Data Interpretation Input — Office Update Extracts
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -7274,7 +7276,7 @@ Re-read the four inputs above. Note:
 
 Now read the integrated response below.
 
-::: example
+::: example-good
 Revised Text
 
 *"This notice summarises the current implementation status of Circular 2024/11 and identifies actions required from all examining offices.*
@@ -7295,7 +7297,7 @@ Compare Tone and Clarity — Integrated vs Single-Input Response
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
-::: example
+::: example-bad
 Original Text
 
 *"Office A asked about terminology. Please see the attached clarification. Office B said the deadline is too tight. We will consider this. Some offices are using old forms. Please stop doing this. Everyone needs to acknowledge the circular."*
@@ -7349,7 +7351,7 @@ Your rewritten paragraph must:
 - use appropriate connective language
 - maintain formal, neutral tone
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
@@ -7609,7 +7611,7 @@ Below are five sentences typical of common weaknesses at B2 level. For each one,
 4. *"We've noticed that some of the terminology is confusing, which is causing problems."*
 5. *"Hopefully the situation will improve once the clarification is sent out."*
 
-::: example
+::: example-good
 Worked Example
 
 | Version | Text |
