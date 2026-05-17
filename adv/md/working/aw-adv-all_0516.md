@@ -548,9 +548,10 @@ Three versions of the same request are shown below. For each audience (A, B, C) 
 Audiences:
 
 A. Internal colleague (same office)
-B. Domestic agency counterpart
-C. Foreign IP office
 
+B. Domestic agency counterpart
+
+C. Foreign IP office
 :::
 
 ### D. Guided Writing
@@ -763,12 +764,10 @@ Identify the Writing Pattern
 
 In the revised example, highlight or underline examples of:
 
-|||
-|---|---|
-| **Cohesive devices** | e.g., *however, therefore, as a result, in addition* |
-| **Reference words** | e.g., *these issues, the document, this point* |
-| **Thematic progression** | movement from known to new information |
-| **Clear paragraph structure** | topic → support → implication or next step |
+- **Cohesive devices:** e.g., *however, therefore, as a result, in addition* 
+- **Reference words:** e.g., *these issues, the document, this point* 
+- **Thematic progression:** movement from known to new information 
+- **Clear paragraph structure:** topic → support → implication or next step 
 
 Reflect: How do these elements work together to improve readability?
 :::
@@ -781,18 +780,16 @@ Reflect: How do these elements work together to improve readability?
 ::: learn
 Cohesive Devices by Relationship Type
 
-|||
-|---|---|
-| **Adding information** | *in addition, furthermore, moreover, also* |
-| **Showing result** | *therefore, as a result, consequently, hence* |
-| **Showing contrast** | *however, on the other hand, although, nevertheless* |
-| **Clarifying or specifying** | *in particular, specifically, namely* |
+- **Adding information:** *in addition, furthermore, moreover, also*
+- **Showing result:** *therefore, as a result, consequently, hence*
+- **Showing contrast:** *however, on the other hand, although, nevertheless*
+- **Clarifying or specifying:** *in particular, specifically, namely*
 
 Cohesive devices do more than "make writing smoother". They tell the reader exactly how one idea relates to the next: addition, result, contrast, or specification. Without that signalling, the paragraph may contain the right information but still feel hard to follow.
+:::
 
 ::: structure
 Sequence Sentences for Logical Flow
-
 
 The following sentences form a paragraph but are in the wrong order. Arrange them in the most logical sequence, then explain your reasoning.
 
@@ -803,7 +800,6 @@ B. *Several agencies reported confusion about the updated guidelines.*
 C. *To address these concerns, we agreed to prepare additional clarification.*
 
 D. *Once the revised explanation has been approved internally, it will be distributed to all relevant offices.*
-:::
 :::
 
 #### 2. Reference And Continuity
