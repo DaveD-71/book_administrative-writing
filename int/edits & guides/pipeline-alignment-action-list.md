@@ -146,21 +146,46 @@ style_map:
 
 **Goal:** Apply `:::class` / `:::` fenced div markup throughout all 23 units of `aw-int-all.md` to wrap content in the correct semantic category. The current file has zero fences. This is the primary content-authoring stage and directly determines the quality of the styled output.
 
-**The 9 primary div classes and their content meaning:**
+---
 
-| Class | Content type |
-|-------|-------------|
-| `learn` | Grammar/language learning notes and reference boxes |
-| `language` | Useful phrases, sentence frames, vocabulary |
-| `structure` | Document structure and genre conventions |
-| `notice` | Cautions, warnings, important points |
-| `write` | Writing tasks the student produces independently |
-| `rewrite` | Tasks involving correction or improvement of given text |
-| `revise` | Tasks involving comparison or reflection on differences between versions |
-| `edit` | Self-editing checklists (becomes checklist items in Stage 3) |
-| `example` | Model texts or worked examples (may also use `example-good` / `example-bad`) |
+### Classification framework
 
-**Lessons from advanced pipeline:**
+The correct class is determined by **what the learner does** in the block — not by which section (A–H) it sits in. The A–H section heading provides orientation but does not determine the class; a single `### C. Language Focus` section typically contains `learn`, `language`, `rewrite`, and `notice` divs depending on content.
+
+| Learner action | → class |
+|---|---|
+| Reads teaching input, principle, explanation | `learn` |
+| Reads a reference list of language forms/patterns | `language` |
+| Produces original text from a scenario | `write` |
+| Transforms or rewrites given text | `rewrite` |
+| Improves their own previously drafted text | `revise` |
+| Observes, identifies, compares, classifies given text | `notice` |
+| Orders or structures given content into a framework | `structure` |
+| Applies a checklist or corrects errors in given text | `edit` |
+| Reads model or example text | `example` / `example-good` / `example-bad` |
+
+**`language` is the most error-prone class.** It is correct only when the div's primary content is a reference list of language forms — connectors, phrases, sentence patterns — with no task attached. It is wrong when the block contains teaching explanation (`learn`), a sentence-transformation task (`rewrite`), a phrase-sorting task (`notice`), or original sentence production (`write`). The advanced audit found 21 out of 54 `language` divs were misclassified this way.
+
+**`edit` vs `rewrite`:** `edit` is correct only for self-editing checklists and error-identification tasks. Tasks whose primary instruction is "rewrite these sentences" are `rewrite` even if they sit in a `### G. Editing` section.
+
+**`notice` vs `learn`:** `notice` is for observation/analysis tasks on given text. Divs that contain a teaching reference table or explanatory principle with no learner task are `learn`, even if positioned in a noticing section.
+
+**`revise` vs `rewrite`:** `revise` is for tasks where the learner returns to and improves their own previously written text. `rewrite` is for transforming someone else's given text.
+
+**`write` vs `structure`:** `write` is for original production from a scenario. If the learner is filling in a given structural template, it is `structure`.
+
+---
+
+### Div label text
+
+The first line inside the fence is the visible label in the DOCX output. It comes from:
+- An existing `####` sub-heading on the block → use its text (remove the `####` prefix)
+- A bold label (`**Why This Works**`) → use its text (remove the `**` markers)
+- If no heading or label exists, write a short noun-phrase that describes the block
+
+---
+
+### Lessons from advanced pipeline
 
 1. **Pandoc spacing rule — blank line before `:::`:** A `:::class` open fence must be preceded by a blank line when the preceding content line is non-empty. Violation causes Pandoc to render the fence as literal text. The systematic danger pattern: a bold label line (`**Input N — ...**`) immediately followed by `:::class` with no blank line. This burned multiple builds before being caught.
 
@@ -176,10 +201,11 @@ style_map:
 
 **Avoidance strategy:**
 - Work unit by unit (23 units). Commit after each unit or small batch.
-- After each unit, run a balance check: count of `:::` open fences == count of close-only `:::` lines (adjust for lines with class names vs. bare closes).
-- Check for blank-line violations after every unit using: `grep -n "^:::" int/md/working/aw-int-all.md` and visually inspect the line above each open fence.
-- Explicitly forbid div nesting: if sub-category markup is desired, use bold inline labels instead.
+- After each unit, run a balance check: count of `:::` open fences == count of close-only `:::` lines.
+- Check for blank-line violations after every unit.
+- Explicitly forbid div nesting: use bold inline labels for sub-category distinctions instead.
 - Place setup instructions (e.g. "Read the following and then...") outside the div, above it.
+- Classify by learner action, not section letter. When uncertain, ask: what does the learner actually do with this content?
 
 **Div balance check command (PowerShell):**
 ```powershell
