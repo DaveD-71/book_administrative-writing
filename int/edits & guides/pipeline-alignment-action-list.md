@@ -41,58 +41,37 @@ Stages 0A, 0B, and 0C can all be prepared concurrently. None depend on each othe
 
 ---
 
-### 0B — Reference DOCX decision and setup
+### 0B — Reference DOCX
 
-**Goal:** Place a reference DOCX in the working folder that contains all styles required by the intermediate pipeline. Decide whether to share or fork the advanced reference.
+**Goal:** Confirm which reference DOCX the intermediate pipeline will use. The styles are still being refined and maintaining two copies in sync is unnecessary overhead.
+
+**Decision: shared advanced reference (deferred individuation)**
+Both books use `adv/md/working/aw-adv-styleref.docx` until styles are locked. A separate `aw-int-styleref.docx` will be created only at the final individuation stage (Stage 8+). Any style change made to the advanced reference automatically applies to both books during this period.
 
 **Lessons from advanced pipeline:**
-- The reference DOCX is the single source of truth for all style definitions. The build pipeline must never create or redefine styles.
 - Three-location color synchronisation rule: `DivLabel*` styles must keep `w:rPr/w:color`, `w14:srgbClr`, and linked character style color in sync — these go out of sync silently if styles are manually edited in Word.
 - `autoRedefine` on DivLabel styles caused silent style corruption; it must not be present.
-- Styles renamed or absent in the reference DOCX cause hard failures at post-build validation — easier to start clean than patch.
-- `DivTag` must be a **character** style (not paragraph); if defined as paragraph the `w:rStyle` icon references are silently ignored.
-- `AW Table Header` and `AW Table Body` paragraph styles are required for table cell formatting to override Word's table-style `rPr`.
+- `DivTag` must be a **character** style (not paragraph).
+- `AW Table Header` and `AW Table Body` paragraph styles are required for table cell formatting.
 
-**Avoidance strategy:**
-- Start with a direct copy of `aw-adv-styleref.docx` renamed to `aw-int-styleref.docx` in `int/md/working/`.
-- Run `audit_docx_styles.py` on the copy immediately to confirm all required styles are present and colours are consistent.
-- Do not edit the DOCX copy in Word unless a specific style change is confirmed necessary — Word silently adds styles and modifies inheritance on save.
-
-**Decision: shared vs separate:**
-- **Recommendation: use a copy.** Starting from a copy means the intermediate book can diverge in colour scheme or style variants later without touching the advanced reference. If both books prove identical in styling, they can be re-consolidated at that point.
-- **If truly shared:** symlinks don't work with the Pandoc `--reference-doc` flag path; use `--reference` pointing to the single `adv/md/working/aw-adv-styleref.docx`. Any style change then affects both books simultaneously.
-
-**Steps:**
-1. Copy `adv/md/working/aw-adv-styleref.docx` → `int/md/working/aw-int-styleref.docx`
-2. Run `python scripts/audit_docx_styles.py --reference int/md/working/aw-int-styleref.docx` and confirm no colour-mismatch warnings
+**Build command implication:**
+The intermediate build must pass `--reference adv/md/working/aw-adv-styleref.docx` (relative path from repo root, or absolute).
 
 **Completion gate:**
-- `int/md/working/aw-int-styleref.docx` exists
-- `audit_docx_styles.py` reports zero colour-mismatch errors
-- All required styles are present: `Div Label *` (×10 minimum), `DivTag` (character), `AW Table Header`, `AW Table Body`, `Checklist`, `Body Text`, `ResponsePlaceholder`
+- `adv/md/working/aw-adv-styleref.docx` exists and is accessible
+- No `int/md/working/aw-int-styleref.docx` created yet (deferred)
 
 ---
 
-### 0C — Copy icon assets
+### 0C — Icon assets
 
-**Goal:** Make PNG icon assets available in `int/md/working/` so the postprocessor can insert inline tag icons for each div class.
+**Goal:** Confirm icon asset availability for the intermediate build.
 
-**Lessons from advanced pipeline:**
-- Icon assets must be in a folder named `div-tags-icons-2_assets` immediately sibling to the reference DOCX.
-- All icon PNGs must be tight-cropped to content bounds + 1px padding. Uncropped PNGs (4px white margin) misalign the icon against label text.
-- Two sets exist: `tag_filled_*` and `tag_outline_*`. The `--tag-style filled|outline` CLI flag selects between them. Both sets must be present.
-- Missing icon PNG for a given class causes that div's label to be inserted without an icon (silent skip — not an error).
-
-**Avoidance strategy:**
-- Copy the entire cropped `div-tags-icons-2_assets/` folder from the advanced working folder — do not copy from an older source that may have uncropped originals.
-- After copying, verify both `tag_filled_*` and `tag_outline_*` sets are present for all 9 div classes.
-
-**Steps:**
-1. Copy `adv/md/working/div-tags-icons-2_assets/` → `int/md/working/div-tags-icons-2_assets/`
-2. Verify both icon sets are present for: `learn`, `language`, `structure`, `notice`, `write`, `rewrite`, `revise`, `edit`, `example`
+**Decision: no copy needed**
+Because the reference DOCX stays in `adv/md/working/`, the postprocessor's `_resolve_div_tag_icon()` looks for `div-tags-icons-2_assets/` as a sibling of that file — the assets are already there. No copy to `int/md/working/` is required.
 
 **Completion gate:**
-- `int/md/working/div-tags-icons-2_assets/` contains both `tag_filled_*` and `tag_outline_*` PNGs for all 9 div classes (minimum 18 PNGs)
+- `adv/md/working/div-tags-icons-2_assets/` contains both `tag_filled_*` and `tag_outline_*` PNGs for all 9 div classes (verify before first build)
 
 ---
 
@@ -152,21 +131,21 @@ style_map:
 
 The correct class is determined by **what the learner does** in the block — not by which section (A–H) it sits in. The A–H section heading provides orientation but does not determine the class; a single `### C. Language Focus` section typically contains `learn`, `language`, `rewrite`, and `notice` divs depending on content.
 
-| Learner action | → class |
+| Learner action / content type | → class |
 |---|---|
 | Reads teaching input, principle, explanation | `learn` |
-| Reads a reference list of language forms/patterns | `language` |
+| Engages with grammar, vocabulary, phrases, or language-system content | `language` |
 | Produces original text from a scenario | `write` |
-| Transforms or rewrites given text | `rewrite` |
+| Substantially reformulates or transforms given text | `rewrite` |
 | Improves their own previously drafted text | `revise` |
-| Observes, identifies, compares, classifies given text | `notice` |
-| Orders or structures given content into a framework | `structure` |
-| Applies a checklist or corrects errors in given text | `edit` |
-| Reads model or example text | `example` / `example-good` / `example-bad` |
+| Observes, identifies, compares, or analyses given text | `notice` |
+| Plans, organises, or works within structural templates or hierarchical frameworks | `structure` |
+| Corrects, polishes, or proofreads language and mechanics | `edit` |
+| Reads reference, comparison, or example text | `example` / `example-good` / `example-bad` |
 
-**`language` is the most error-prone class.** It is correct only when the div's primary content is a reference list of language forms — connectors, phrases, sentence patterns — with no task attached. It is wrong when the block contains teaching explanation (`learn`), a sentence-transformation task (`rewrite`), a phrase-sorting task (`notice`), or original sentence production (`write`). The advanced audit found 21 out of 54 `language` divs were misclassified this way.
+**`language` is the most error-prone class.** It is correct when the div's primary content is language-system knowledge — grammar rules, vocabulary sets, connector lists, phrase banks, sentence patterns — with no learner task attached beyond reading and reference. It is wrong when the block contains a teaching explanation (`learn`), a sentence-transformation task (`rewrite`), a phrase-sorting or analysis task (`notice`), or original sentence production (`write`). The format (list vs prose) does not determine the class — content type does. The advanced audit found 21 out of 54 `language` divs were misclassified this way.
 
-**`edit` vs `rewrite`:** `edit` is correct only for self-editing checklists and error-identification tasks. Tasks whose primary instruction is "rewrite these sentences" are `rewrite` even if they sit in a `### G. Editing` section.
+**`edit` vs `rewrite`:** `edit` covers correction, polishing, proofreading, and self-editing checklists — tasks focused on language mechanics. Tasks whose primary instruction is "rewrite these sentences" are `rewrite` even if they sit in a `### G. Editing` section.
 
 **`notice` vs `learn`:** `notice` is for observation/analysis tasks on given text. Divs that contain a teaching reference table or explanatory principle with no learner task are `learn`, even if positioned in a noticing section.
 
