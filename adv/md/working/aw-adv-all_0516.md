@@ -68,7 +68,10 @@ For each sentence, identify:
 - the **single main idea**
 - all **secondary or supporting ideas**
 
-Then discuss: **When does a long sentence become unclear?** What makes administrative writing difficult to read?
+Then discuss:
+
+1. When does a long sentence become unclear?
+2. What makes administrative writing difficult to read?
 :::
 
 ### B. Example Text
@@ -90,7 +93,6 @@ Revised Text
 ::: notice
 Compare Tone and Clarity
 
-
 Identify:
 
 - where the original version forces the reader to hold too many ideas at once
@@ -107,7 +109,6 @@ The revised version is clearer not because every sentence is short, but because 
 
 ::: notice
 Identify the Writing Pattern
-
 
 In the revised version, highlight or underline:
 
@@ -140,7 +141,7 @@ Useful for linking parallel information without implying hierarchy.
 Use coordination when both ideas deserve similar weight in the reader's mind. In administrative writing, this is useful when you want to present linked facts, actions, or contrasts without making one idea background information.
 
 ::: language
-Learn — Patterns
+Patterns
 
 - X *and* Y (addition)
 - X *but* Y (contrast — equal ideas in tension)
@@ -166,7 +167,7 @@ Choose the most appropriate connector for each sentence.
 Indicates relationship and hierarchy between ideas. The subordinate clause is less central than the main clause — it provides context, reason, time reference, or qualification.
 
 ::: language
-Learn — Patterns
+Patterns
 
 *because, although, when, while, since, unless, even if, even though*
 :::
@@ -192,9 +193,9 @@ Clarity Patterns
 
 | Pattern | Example |
 | --- | --- |
-| **Pattern 1: Main Idea → Reason**<br>State the action or conclusion first, then give the reason. | *"We will request an updated version **because** several inconsistencies were found."* |
-| **Pattern 2: Purpose Clause → Main Action**<br>Open with a short purpose or condition clause, then state the main action. This pattern is useful when the purpose or context needs to be foregrounded before the request. | *"To ensure consistency, **please confirm the applicant's name spelling.**"* |
-| **Pattern 3: Segmenting Dense Content**<br>Use two or more shorter sentences when: the main clause competes with multiple long subordinate clauses; there are more than two logical relationships in one sentence; or new information is introduced too quickly. | **Dense:** *"Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review."*<br><br>**Segmented:** *"The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review."* |
+| **Pattern 1: Main Idea → Reason** / State the action or conclusion first, then give the reason. | *"We will request an updated version **because** several inconsistencies were found."* |
+| **Pattern 2: Purpose Clause → Main Action** / Open with a short purpose or condition clause, then state the main action. This pattern is useful when the purpose or context needs to be foregrounded before the request. | *"To ensure consistency, **please confirm the applicant's name spelling.**"* |
+| **Pattern 3: Segmenting Dense Content** / Use two or more shorter sentences when: the main clause competes with multiple long subordinate clauses; there are more than two logical relationships in one sentence; or new information is introduced too quickly. | **Dense:** *"Although the document was received on time, the translation contained several inconsistencies that required clarification, which meant we could not proceed with the review."* / **Segmented:** *"The document was received on time. However, the translation contained several inconsistencies that required clarification. As a result, we were unable to proceed with the review."* |
 
 ::: learn
 Patterns 1 and 2 Compared
@@ -245,7 +246,7 @@ Rewrite the **original** example text (the unclear version) as **three to four c
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U01-D1-guided-rewrite}}
+Draft {{PH-3: U01-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -267,11 +268,11 @@ Write **three versions** of the same core message:
 
 Then explain which version would be most appropriate for an internal memo, and why.
 
-Draft {{PH-2: U01-D2-version-1}}
+Draft {{PH-3: U01-D2-version-1}}
 
-Draft {{PH-2: U01-D2-version-2}}
+Draft {{PH-3: U01-D2-version-2}}
 
-Draft {{PH-2: U01-D2-version-3}}
+Draft {{PH-3: U01-D2-version-3}}
 
 Planning Notes {{PH-1: U01-D2-version-choice-note}}
 :::
@@ -297,7 +298,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U01-E1-freer-write}}
+Draft {{PH-5: U01-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -330,7 +331,7 @@ Rewrite the following sentences to eliminate ambiguity. For each one, identify t
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U01-G1-editing-rewrite}}
+Revised Draft {{PH-3: U01-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -349,11 +350,11 @@ Choose one situation:
 
   3. A joint report produced with a partner agency contains inconsistencies between sections written by different contributors. The inconsistencies affect both terminology and formatting. Write a summary of the problem for the project coordinator.
 
-Draft {{PH-4: U01-H3-homework-draft}}
+Draft {{PH-5: U01-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -448,7 +449,7 @@ Useful for avoiding blame, maintaining cooperation, and showing respect.
 Softening does not mean being vague or weak. It means presenting a problem in a way that keeps the reader cooperative, especially when the message could otherwise sound accusatory, impatient, or embarrassing.
 
 ::: language
-Learn — Patterns
+Patterns
 
 - *It appears that…*
 - *There may have been an oversight regarding…*
@@ -490,7 +491,7 @@ Used for gathering information without sounding accusatory.
 Neutral clarification language is useful when you need accurate information but do not want to imply fault before the facts are confirmed. The goal is to keep the question professional, answerable, and non-defensive.
 
 ::: language
-Learn — Key Structures
+Key Structures
 
 - *Could you clarify whether…*
 - *We would like to confirm the status of…*
@@ -517,7 +518,9 @@ Rewrite each question using neutral clarification language.
 Tone by Audience
 
 **Internal →** can be slightly more direct
+
 **Interagency →** requires neutrality and objectivity
+
 **International / foreign office →** requires extra diplomacy and clarity
 
 ::: example-good
@@ -568,7 +571,7 @@ Rewrite the original (direct) example text into a diplomatic version. Your rewri
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U02-D1-guided-rewrite}}
+Draft {{PH-3: U02-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -591,7 +594,7 @@ Keep the communicative purpose constant across both versions. What changes is th
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U02-D4-two-audience-draft}}
+Draft {{PH-4: U02-D4-two-audience-draft}}
 :::
 
 ### E. Freer Writing
@@ -614,7 +617,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U02-E1-freer-write}}
+Draft {{PH-5: U02-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -655,7 +658,7 @@ Rewrite these sentences to make them more diplomatic. For each one, identify whi
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U02-G1-editing-rewrite}}
+Revised Draft {{PH-3: U02-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -670,11 +673,11 @@ Write approximately **150 words**. Your message must use at least three softenin
 2. A foreign IP office submitted a formal inquiry two weeks ago, but due to an internal processing error on your side, no acknowledgement was sent. Write to apologise for the delay and confirm that the inquiry is now being handled.
 3. A domestic agency counterpart has twice submitted a form using an outdated template, causing delays each time. Write to explain that an updated version is required and to provide guidance on where it can be found.
 
-Draft {{PH-4: U02-H3-homework-draft}}
+Draft {{PH-5: U02-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -704,6 +707,7 @@ Classify Excerpts by Cohesion Type
 Below are eight short excerpts from administrative paragraphs. Sort them into two groups:
 
 **Group 1: Cohesive** — the sentences connect clearly and the paragraph flows logically
+
 **Group 2: Disjointed** — the sentences feel unrelated or the paragraph jumps between ideas
 
 For each item, write one sentence explaining your decision.
@@ -810,7 +814,7 @@ Using reference words helps maintain flow and avoid repetition.
 Reference improves flow when the reader can still identify the meaning clearly. If the reference word becomes vague, repetition is better. Good writers choose between repetition and reference based on what gives the reader the clearest path through the paragraph.
 
 ::: language
-Learn — Recommended Structure
+Recommended Structure
 
 - *this issue, these concerns, that step, such changes, the matter*
 :::
@@ -834,7 +838,7 @@ Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriat
 Good paragraphs start with known information and move forward to new information.
 
 ::: language
-Learn — Patterns
+Patterns
 
 | Sentence | Example |
 | --- | --- |
@@ -871,7 +875,7 @@ Rewrite the original (disjointed) example text as **one cohesive paragraph**. In
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U03-D1-guided-rewrite}}
+Draft {{PH-3: U03-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -895,7 +899,7 @@ Do not just put the sentences into a correct order. Build a paragraph that moves
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U03-D5-reorganised-version}}
+Draft {{PH-4: U03-D5-reorganised-version}}
 :::
 
 ### E. Freer Writing
@@ -913,7 +917,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U03-E1-freer-write}}
+Draft {{PH-5: U03-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -953,13 +957,13 @@ Rewrite these paragraphs for better cohesion. Identify at least two specific cha
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U03-G1-editing-rewrite}}
+Revised Draft {{PH-3: U03-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Homework Task
+Cohesive Explanation — Scenario Writing
 
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
@@ -970,11 +974,11 @@ Choose one situation:
 2. At last week's coordination meeting, three agenda items were left unresolved due to time constraints. Two offices have since submitted conflicting responses on one of the outstanding points. Write a summary for the meeting chair ahead of a follow-up call.
 3. Your office has been using two different templates for the same type of submission — one issued in 2021 and one issued earlier this year. The inconsistency has caused processing delays. Write a note to staff explaining why the older template must no longer be used.
 
-Draft {{PH-4: U03-H3-homework-draft}}
+Draft {{PH-5: U03-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -1084,6 +1088,7 @@ Once you have labelled the sections yourself, compare your labels with a partner
 
 A strong professional email is organised around reader needs, not simply around the order in which the writer thought of the points. The structure below helps the reader move from context to action with minimal confusion.
 
+::: structure
 High-level professional emails typically follow this sequence:
 
 1. **Opening / context** — acknowledge receipt or establish the relationship
@@ -1093,16 +1098,13 @@ High-level professional emails typically follow this sequence:
 5. **Next steps** — explain what will happen once the reader acts
 6. **Closing** — end professionally
 
-::: language
-Useful Phrases
-
 |||
 |---|---|
-| **Opening / Context** | *Thank you for your message regarding…*<br*We would like to confirm the status of…* |
-| **Purpose** | *The purpose of this email is to…*<br*We are writing to request clarification on…* |
-| **Explanation** | *Our team noted the following points…*<br*It appears that the attached file may not reflect…* |
-| **Requests** | *We would appreciate it if you could…*<br*Could you kindly confirm whether…* |
-| **Next Steps** | *Once we receive the updated file, we will…*<br*We plan to proceed with…* |
+| **Opening / Context** | *Thank you for your message regarding…* / *We would like to confirm the status of…* |
+| **Purpose** | *The purpose of this email is to…* / *We are writing to request clarification on…* |
+| **Explanation** | *Our team noted the following points…* / *It appears that the attached file may not reflect…* |
+| **Requests** | *We would appreciate it if you could…* / *Could you kindly confirm whether…* |
+| **Next Steps** | *Once we receive the updated file, we will…* / *We plan to proceed with…* |
 :::
 
 ::: example-good
@@ -1116,6 +1118,7 @@ Worked Example
 
 *Once confirmed, we will update our internal records and proceed with the review.*
 :::
+
 
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
 
@@ -1161,7 +1164,7 @@ Rewrite the original (informal) example email as a structured, diplomatic versio
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U04-D1-guided-rewrite}}
+Draft {{PH-3: U04-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -1204,7 +1207,7 @@ Your email must use the structural sequence from this unit.
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U04-D2-guided-draft}}
+Draft {{PH-4: U04-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -1230,7 +1233,7 @@ Choose one scenario:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U04-E1-freer-write}}
+Draft {{PH-5: U04-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -1276,7 +1279,7 @@ Your rewrite must add: context, a clear explanation for each request, appropriat
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U04-G1-editing-rewrite}}
+Revised Draft {{PH-3: U04-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -1300,11 +1303,11 @@ Choose one scenario:
 3. A domestic counterpart asked your office to validate a set of figures included in a draft report. You have completed the check and need to communicate the outcome and request a revised version.
 4. *(JPO context)* A counterpart office has sent a brief update on an international filing, but the message does not confirm whether any further materials are needed from your side before the next processing stage can proceed.
 
-Draft {{PH-4: U04-H3-homework-draft}}
+Draft {{PH-5: U04-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -1490,7 +1493,7 @@ Rewrite the original (vague) example text as a precise, structured clarification
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U05-D1-guided-rewrite}}
+Draft {{PH-3: U05-D1-guided-rewrite}}
 
 ::: write
 Two-Audience Version Task — Clarification Request
@@ -1518,9 +1521,9 @@ After writing both versions, compare how each version handles:
 
 Precision should stay constant across both versions; what changes is the framing and reader support.
 
-Draft {{PH-3: U05-D4-version-a}}
+Draft {{PH-4: U05-D4-version-a}}
 
-Draft {{PH-3: U05-D4-version-b}}
+Draft {{PH-4: U05-D4-version-b}}
 :::
 :::
 
@@ -1548,7 +1551,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U05-E3-role-based-write}}
+Draft {{PH-5: U05-E3-role-based-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -1594,7 +1597,7 @@ For each rewrite, add: a specific reference, a clearly scoped question, softenin
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U05-G1-editing-rewrite}}
+Revised Draft {{PH-3: U05-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -1617,11 +1620,11 @@ Choose one scenario:
 3. An interagency partner has submitted a draft coordination agreement. Two clauses use language that appears inconsistent with the framework document both offices signed last year, and one deadline has been changed without explanation.
 4. *(JPO context)* A counterpart office has sent a revised review schedule for a shared document, but one date differs from the version agreed last month and one attachment referred to in the message is missing.
 
-Draft {{PH-4: U05-H3-homework-draft}}
+Draft {{PH-5: U05-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -1871,7 +1874,7 @@ Rewrite the original (too direct) example using the diplomatic techniques from t
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U06-D1-guided-rewrite}}
+Draft {{PH-3: U06-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -1893,7 +1896,7 @@ Keep these functions separate in your draft: identify the issue, explain its imp
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U06-D2-guided-draft}}
+Draft {{PH-4: U06-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -1919,7 +1922,7 @@ Choose one scenario:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U06-E1-freer-write}}
+Draft {{PH-5: U06-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -1964,7 +1967,7 @@ Your rewrites must add: diplomatic framing, a specific reference, an impact expl
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U06-G1-editing-rewrite}}
+Revised Draft {{PH-3: U06-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -2003,11 +2006,11 @@ Choose one scenario:
 3. An interagency colleague forwarded a draft coordination report to external partners before it had been approved for distribution. The report contained preliminary figures that have since been revised.
 4. *(JPO context)* A JPO team sent a draft bilateral meeting note to a partner office before the figures and action points had been internally confirmed, and the partner office is now relying on that draft.
 
-Draft {{PH-4: U06-H3-homework-draft}}
+Draft {{PH-5: U06-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -2170,7 +2173,7 @@ Rewrite the original (unstructured) example into a layered, prioritised request 
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U07-D1-guided-rewrite}}
+Draft {{PH-3: U07-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -2191,7 +2194,7 @@ Do not just add sequence markers mechanically. Use them to show the reader which
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U07-D2-guided-draft}}
+Draft {{PH-4: U07-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -2217,7 +2220,7 @@ Choose one scenario:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U07-E1-freer-write}}
+Draft {{PH-5: U07-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -2261,13 +2264,13 @@ Example Text
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U07-G1-editing-rewrite}}
+Revised Draft {{PH-3: U07-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Homework Task
+Layered Request Message — Multi-Part Action
 
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
@@ -2284,11 +2287,11 @@ Choose one scenario:
 3. A domestic agency has requested your office's input on a set of updated eligibility criteria. Your team needs to complete three things before responding: verify the criteria against current internal guidance; identify any conflicts; and, if conflicts exist, request a meeting before submitting written comments.
 4. *(JPO context)* Your office is preparing a formal response to a foreign IP office, but before a full reply can be sent you first need confirmation of the current document version. Once that is confirmed, you need the deadline for comments, and only then can the full reply be sent to the correct contact for final coordination.
 
-Draft {{PH-4: U07-H3-homework-draft}}
+Draft {{PH-5: U07-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -2440,7 +2443,7 @@ Rewrite each sentence using a more precise procedural verb. Replace the underlin
 5. *<uCheck</uwhether the timeline needs to be changed.*
 
 ::: language
-Learn — Useful Language
+Useful Language
 
 *conduct, examine, verify, process, ensure, determine, cross-check, update, confirm*
 :::
@@ -2471,7 +2474,7 @@ Rewrite the original unclear procedure from Section B into a structured, formal 
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U08-D1-guided-rewrite}}
+Draft {{PH-3: U08-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -2496,7 +2499,7 @@ Example Text
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U08-D5-reorganised-version}}
+Draft {{PH-4: U08-D5-reorganised-version}}
 :::
 
 ### E. Freer Writing
@@ -2520,7 +2523,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U08-E1-freer-write}}
+Draft {{PH-5: U08-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -2575,7 +2578,7 @@ Write your revised version as a numbered procedure with step labels.
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U08-G2-editing-rewrite}}
+Revised Draft {{PH-4: U08-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -2598,11 +2601,11 @@ Choose one situation:
 2. Two offices are conducting a joint review of a file, and your team needs a shared procedure covering document receipt, responsibility checks, follow-up on missing items, and final confirmation.
 3. A submission arrives after the official deadline, but the office must still determine whether it can be accepted under an exception. Write a procedure for the receiving team.
 
-Draft {{PH-4: U08-H3-homework-draft}}
+Draft {{PH-5: U08-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -2759,7 +2762,7 @@ Rewrite the original unclear message from Section B. Your version must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U09-D1-guided-rewrite}}
+Draft {{PH-3: U09-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -2794,7 +2797,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U09-D3-guided-draft}}
+Draft {{PH-4: U09-D3-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -2818,7 +2821,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U09-E1-freer-write}}
+Draft {{PH-5: U09-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -2874,7 +2877,7 @@ Write your full revised version as a coherent change management notice.
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U09-G2-editing-rewrite}}
+Revised Draft {{PH-4: U09-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -2898,11 +2901,11 @@ Choose one situation:
 2. Your office has introduced a new format for internal reports. The previous format will be withdrawn, and all teams must begin using the updated version from the start of the next reporting cycle.
 3. A new approval requirement has been introduced for outgoing correspondence to foreign offices. Messages must now be copied to the coordinating unit before they are sent, and staff need to be informed before the rule takes effect.
 
-Draft {{PH-4: U09-H3-homework-draft}}
+Draft {{PH-5: U09-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -2971,6 +2974,8 @@ Compare the two versions. Identify improvements in:
 - tone and neutrality
 - the clarity of the next-step statement
 
+:::
+
 ::: learn
 Why This Works
 
@@ -2995,7 +3000,6 @@ Discuss
 Why is it important to use neutral language when explaining a delay or problem to a partner office? What can go wrong when the tone becomes evaluative or accusatory?
 :::
 :::
-:::
 
 ### C. Language Focus
 
@@ -3007,18 +3011,12 @@ Accessible explanation is not the same as making the issue simpler than it reall
 
 Match each sentence (1–6) to its function in a complex explanation (A–D). Some functions may be used more than once.
 
-::: learn
-Functions
-:::
 
 - A. Introducing the number of factors
 - B. Describing a specific factor
 - C. Adding a supporting detail
 - D. Explaining impact or next steps
 
-::: language
-Learn — Sentences
-:::
 
 1. *The delay occurred as a result of three interconnected issues.*
 2. *The updated form contains a section that is not compatible with our current processing software.*
@@ -3069,7 +3067,7 @@ Rewrite the original vague explanation from Section B. Your version must include
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U10-D1-guided-rewrite}}
+Draft {{PH-3: U10-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -3091,7 +3089,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U10-D2-guided-draft}}
+Draft {{PH-4: U10-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -3120,7 +3118,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U10-E2-freer-write}}
+Draft {{PH-5: U10-E2-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -3172,13 +3170,13 @@ Your revised version must:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U10-G1-editing-rewrite}}
+Revised Draft {{PH-3: U10-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Homework Task
+Multi-Factor Issue Explanation
 
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
@@ -3196,11 +3194,11 @@ Choose one situation:
 2. Two versions of an interagency guideline are currently in circulation, and the differences between them have caused confusion across several teams. You need to explain the issue and its operational effect to the coordinating unit.
 3. A backlog has developed because of a combination of staffing shortages, unclear instructions, and repeated follow-up on incomplete submissions. Your office has been asked to explain the situation in writing for an internal review note.
 
-Draft {{PH-4: U10-H3-homework-draft}}
+Draft {{PH-5: U10-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -3378,7 +3376,7 @@ Your rewrite should include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U11-D1-guided-rewrite}}
+Draft {{PH-3: U11-D1-guided-rewrite}}
 :::
 
 ::: rewrite
@@ -3413,7 +3411,7 @@ Write the converted summary using formal, complete sentences. Attribute action i
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U11-D7-format-conversion}}
+Draft {{PH-4: U11-D7-format-conversion}}
 :::
 
 ### E. Freer Writing
@@ -3438,7 +3436,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U11-E1-freer-write}}
+Draft {{PH-5: U11-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -3493,7 +3491,7 @@ Write your revised version as a complete, properly formatted executive summary.
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U11-G2-editing-rewrite}}
+Revised Draft {{PH-4: U11-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -3518,11 +3516,11 @@ Choose one situation:
 3. A coordination meeting was held to address a processing backlog affecting multiple offices. Some causes were identified, responsibilities were assigned, and further updates are required before the next review point.
 4. *(JPO context)* A high-level international IP meeting was held involving the JPO, USPTO, and EPO to review progress on a procedural harmonisation issue. Your summary should record the main discussion points, assigned actions, and next steps in a formal executive-summary format.
 
-Draft {{PH-4: U11-H3-homework-draft}}
+Draft {{PH-5: U11-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -3651,7 +3649,7 @@ Give the reader enough information to locate the issue and understand what you a
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *We are writing to confirm the status of the revised documents submitted on 3 May in connection with application reference 2024/88.*
 
@@ -3669,9 +3667,6 @@ Match Inquiry Expression Functions and Forms
 
 Match each expression (1–8) to its function (A–D). Write the letter.
 
-::: language
-Learn — Useful Language
-:::
 
 1. *We are writing with regard to…*
 2. *Could you confirm whether…?*
@@ -3682,9 +3677,6 @@ Learn — Useful Language
 7. *Once we receive confirmation, we will…*
 8. *We would appreciate your assistance in…*
 
-::: learn
-Functions
-:::
 
 - A — Providing context
 - B — Asking a precise question
@@ -3703,7 +3695,7 @@ Ask questions that are precise, specific, and easy for the recipient to answer w
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *Could you confirm whether the corrected version submitted on 14 January has been reviewed?*
 
@@ -3721,9 +3713,6 @@ Phrase Bank Building
 
 The phrases below are drawn from this unit's example texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
 
-::: language
-Learn — Useful Language
-:::
 
 - *We are writing to confirm…*
 - *Could you confirm whether…?*
@@ -3769,7 +3758,7 @@ Rewrite the original text from Section B using:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U12-D1-guided-rewrite}}
+Draft {{PH-3: U12-D1-guided-rewrite}}
 :::
 
 ::: rewrite
@@ -3794,7 +3783,7 @@ Discuss: What changes did you make for the internal audience? What did you remov
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U12-D4-two-audience-draft}}
+Draft {{PH-4: U12-D4-two-audience-draft}}
 :::
 
 ### E. Freer Writing
@@ -3820,7 +3809,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U12-E3-role-based-write}}
+Draft {{PH-5: U12-E3-role-based-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -3879,7 +3868,7 @@ Your edited version should:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U12-G2-editing-rewrite}}
+Revised Draft {{PH-4: U12-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -3891,7 +3880,7 @@ Identify one situation in your current or recent work where a more clearly struc
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U12-H2-real-world-draft}}
+Draft {{PH-4: U12-H2-real-world-draft}}
 :::
 
 ::: write
@@ -3913,11 +3902,11 @@ Choose one situation:
 3. A partner agency reviewed an applicant file and was expected to confirm whether any additional materials are required before the next processing stage. Your office now needs a formal written inquiry because the internal deadline is approaching.
 4. *(JPO context)* Your office sent comments on a draft international workshop agenda, but the latest update does not confirm whether your proposed session has been included, which version of the agenda is current, or when final materials are due.
 
-Draft {{PH-4: U12-H3-homework-draft}}
+Draft {{PH-5: U12-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -4028,7 +4017,7 @@ Clearly identify the nature and source of a risk using neutral, precise language
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *There is a risk that inconsistent terminology may delay interagency coordination.*
 
@@ -4062,7 +4051,7 @@ Explain the consequence of a risk and propose a realistic step to reduce it.
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *This may result in additional review time and delayed processing. To mitigate this risk, a pre-submission checklist could be introduced.*
 
@@ -4114,7 +4103,7 @@ Rewrite the vague original example from Section B using:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U13-D1-guided-rewrite}}
+Draft {{PH-3: U13-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -4143,7 +4132,7 @@ Your assessment must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U13-D2-guided-draft}}
+Draft {{PH-4: U13-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -4167,7 +4156,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U13-E1-freer-write}}
+Draft {{PH-5: U13-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -4204,9 +4193,6 @@ Rewrite Using Conditional and Hedging Structures
 
 Risk and impact writing relies heavily on conditional and hedging language to express possibility without overstating certainty.
 
-::: language
-Learn — Patterns
-:::
 
 | Structure | Example | Use |
 | --- | --- | --- |
@@ -4229,7 +4215,7 @@ Rewrite each sentence using an appropriate hedging or conditional structure. Avo
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-2: U13-G1-editing-rewrite}}
+Revised Draft {{PH-3: U13-G1-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -4252,11 +4238,11 @@ Choose one situation:
 3. A key staff handover did not take place before a workflow change, creating uncertainty about responsibilities, file status, and timelines for several live cases.
 4. *(JPO context)* A revised cross-office verification checklist is due before the next reporting cycle, but training has not yet been completed in all teams, creating a risk of inconsistent use during implementation.
 
-Draft {{PH-4: U13-H3-homework-draft}}
+Draft {{PH-5: U13-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -4442,7 +4428,7 @@ Address different readers explicitly and provide information appropriate to each
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 - *For colleagues already familiar with the revision…*
 - *For partner offices not involved in earlier discussions…*
@@ -4471,7 +4457,7 @@ Ensure that readers who did not attend earlier meetings or receive previous mess
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 - *To provide context for those unfamiliar with the earlier consultation…*
 - *This change responds to issues raised during the September review.*
@@ -4519,7 +4505,7 @@ Rewrite the original text from Section B using:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U14-D1-guided-rewrite}}
+Draft {{PH-3: U14-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -4541,9 +4527,9 @@ Write two versions of the following announcement:
 
 Discuss: What did you change between the two versions? Which version required more background explanation — and why?
 
-Draft {{PH-3: U14-D4-version-a}}
+Draft {{PH-4: U14-D4-version-a}}
 
-Draft {{PH-3: U14-D4-version-b}}
+Draft {{PH-4: U14-D4-version-b}}
 :::
 
 ### E. Freer Writing
@@ -4567,9 +4553,9 @@ Together, your two pieces form a communication package for the same procedural c
 
 Write each part in its own box.
 
-Draft {{PH-3: U14-E4-task-1}}
+Draft {{PH-4: U14-E4-task-1}}
 
-Draft {{PH-4: U14-E4-task-2}}
+Draft {{PH-5: U14-E4-task-2}}
 :::
 
 ### F. Review & Self-Assessment
@@ -4622,7 +4608,7 @@ Your edited version should:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U14-G2-editing-rewrite}}
+Revised Draft {{PH-4: U14-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -4639,11 +4625,11 @@ Write a **220–260 word** multi-audience notice for a procedural or policy chan
 - required actions and next steps
 - formal, inclusive tone
 
-Draft {{PH-4: U14-H3-homework-draft}}
+Draft {{PH-5: U14-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -4763,7 +4749,7 @@ Ground the rationale in existing rules, requirements, or organisational objectiv
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 - *In accordance with the guidelines introduced in March…*
 - *To comply with the updated framework…*
@@ -4791,7 +4777,7 @@ Provide objective reasons grounded in process needs, and explain how the change 
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 - *This change reduces the likelihood of inconsistent interpretation across agencies.*
 - *This will improve processing efficiency and reduce unnecessary delays.*
@@ -4835,7 +4821,7 @@ Rewrite the weak original from Section B. Your rationale should include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U15-D1-guided-rewrite}}
+Draft {{PH-3: U15-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -4860,7 +4846,7 @@ Use the template as a logic chain rather than as fixed wording. A strong rationa
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U15-D3-guided-draft}}
+Draft {{PH-4: U15-D3-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -4885,7 +4871,7 @@ Choose one situation:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U15-E1-freer-write}}
+Draft {{PH-5: U15-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -4942,13 +4928,13 @@ Proposed Changes
 
 For each decision: state whether you accept or reject the change, and explain in one sentence why.
 
-Draft {{PH-2: U15-G3-decision-notes}}
+Draft {{PH-3: U15-G3-decision-notes}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Homework Task
+Policy-Aligned Rationale
 
 
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
@@ -4966,11 +4952,11 @@ Choose one situation:
 3. A new quality-check step is being proposed for an existing workflow, and senior staff have requested a policy-aligned rationale before deciding.
 4. *(JPO context)* Your office is preparing a rationale to support the introduction of a common progress-reporting timetable for joint review projects involving partner offices. The proposal must align with existing coordination guidance before it can be submitted for approval.
 
-Draft {{PH-4: U15-H3-homework-draft}}
+Draft {{PH-5: U15-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -5015,9 +5001,6 @@ Below are eight evaluation statements. Sort each one into the correct column.
 | --- | --- |
 |  |  |
 
-::: learn
-Statements
-:::
 
 1. *The document fails to address several key points and is poorly written.*
 2. *Section 3 provides clearer guidance than the previous version, though some definitions remain ambiguous.*
@@ -5090,9 +5073,6 @@ Annotated Example — Match Annotation Labels to Text
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
-::: learn
-Annotations
-:::
 
 - a. *Opens with an overall impression without committing to a simple positive or negative verdict*
 - b. *Uses criterion-based language — "in terms of" / "in Section X"*
@@ -5124,7 +5104,7 @@ Describe strengths and weaknesses without judgmental language.
 :::
 
 ::: language
-Learn — Useful Language
+Useful Language
 
 - *The document provides…*
 - *One area that may require revision is…*
@@ -5186,7 +5166,7 @@ Your rewrite must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U16-D1-guided-rewrite}}
+Draft {{PH-3: U16-D1-guided-rewrite}}
 :::
 
 ::: revise
@@ -5206,9 +5186,6 @@ If you do not have your Unit 15 writing, use this short alternative text instead
 
 Using the skills from this unit, revise your text. Apply the following checklist:
 
-::: learn
-Revision Checklist
-:::
 
 - Replace any subjective or emotional language with neutral alternatives
 - Add at least one explicit criterion (e.g., *in terms of clarity*, *regarding consistency*)
@@ -5220,7 +5197,7 @@ Write a brief note (2–3 sentences) explaining what you changed and why.
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U16-D6-revision-chain}}
+Revised Draft {{PH-4: U16-D6-revision-chain}}
 :::
 
 ### E. Freer Writing
@@ -5244,7 +5221,7 @@ Your evaluation must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U16-E1-freer-write}}
+Draft {{PH-5: U16-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -5300,7 +5277,7 @@ Discuss
 Which changes improve tone? Which improve precision? Are any changes unnecessary?
 :::
 
-Draft {{PH-2: U16-G3-decision-notes}}
+Draft {{PH-3: U16-G3-decision-notes}}
 :::
 
 ### H. Homework & Extension
@@ -5317,11 +5294,11 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 - recommendations
 - professional, neutral tone throughout
 
-Draft {{PH-4: U16-H3-homework-draft}}
+Draft {{PH-5: U16-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 1. Find a short evaluation from your workplace (or a public-facing review document). Identify whether it is balanced, and rewrite any unprofessional or vague sections.
 2. Take a piece of negative feedback you have received (about a document, a process, or a procedure) and rewrite it as a professional evaluation using the structure from this unit.
@@ -5441,7 +5418,7 @@ Provide immediate context and distil information to essentials.
 :::
 
 ::: language
-Learn — Useful Language
+Useful Language
 
 **Overviews**
 
@@ -5509,7 +5486,7 @@ Your brief must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U17-D1-guided-rewrite}}
+Draft {{PH-3: U17-D1-guided-rewrite}}
 :::
 
 ::: rewrite
@@ -5538,7 +5515,7 @@ Write the executive brief in full, using the four-part structure: Overview / Key
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U17-D7-format-conversion}}
+Draft {{PH-4: U17-D7-format-conversion}}
 :::
 
 ### E. Freer Writing
@@ -5563,7 +5540,7 @@ Your brief must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U17-E1-freer-write}}
+Draft {{PH-5: U17-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -5608,7 +5585,7 @@ Your edited version should be a properly structured executive brief with all fou
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U17-G2-editing-rewrite}}
+Revised Draft {{PH-4: U17-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -5632,11 +5609,11 @@ Choose one scenario:
 3. A pilot system has produced mixed results across several teams, and a recommendation is needed on whether to proceed, revise, or pause the rollout.
 4. *(JPO context)* A senior JPO official needs a brief before an international meeting on whether to endorse a draft proposal for aligning document-exchange standards with a foreign IP office.
 
-Draft {{PH-4: U17-H3-homework-draft}}
+Draft {{PH-5: U17-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 1. Find a long report or meeting summary from your workplace and reduce it to a one-page executive brief using the four-part structure.
 2. Take a brief you have previously written and rewrite it for two different audiences: one for a senior executive, one for a working group. Note the differences in detail, length, and language.
@@ -5664,6 +5641,7 @@ Real Document Analysis — Multi-Source Extracts
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
 **Source 1 — Email from Office A (14 March)**
+
 ::: example
 Example Text
 
@@ -5671,6 +5649,7 @@ Example Text
 :::
 
 **Source 2 — Meeting Notes (17 March)**
+
 ::: example
 Example Text
 
@@ -5678,15 +5657,13 @@ Example Text
 :::
 
 **Source 3 — Internal report (20 March)**
+
 ::: example
 Example Text
 
 *"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."*
 :::
 
-::: learn
-Discuss
-:::
 
 1. What themes appear across all three sources?
 2. What does each source add that the others do not?
@@ -5758,7 +5735,7 @@ Combine information from multiple sources into thematic, coherent sentences.
 :::
 
 ::: language
-Learn — Patterns
+Patterns
 
 **Grouping By Theme**
 
@@ -5799,9 +5776,6 @@ Phrase Bank Building
 
 Below are twelve phrases drawn from the example text and language focus. Organise them into a personal phrase bank under the four headings provided.
 
-::: language
-Learn — Useful Language
-:::
 
 - *Across the sources…*
 - *While Offices A and C noted…*
@@ -5850,7 +5824,7 @@ Your paragraph must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U18-D1-guided-rewrite}}
+Draft {{PH-3: U18-D1-guided-rewrite}}
 :::
 
 ::: revise
@@ -5875,7 +5849,7 @@ Write your revised paragraph, then compare with a partner.
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U18-D2-guided-draft}}
+Draft {{PH-4: U18-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -5899,7 +5873,7 @@ Your synthesis must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U18-E1-freer-write}}
+Draft {{PH-5: U18-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -5946,7 +5920,7 @@ Your edited version should be a properly synthesised paragraph with grouped them
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U18-G2-editing-rewrite}}
+Revised Draft {{PH-4: U18-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -5962,7 +5936,7 @@ If you do not have access to workplace documents, use three public or sample sou
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U18-H2-real-world-draft}}
+Draft {{PH-4: U18-H2-real-world-draft}}
 :::
 
 ::: write
@@ -5976,11 +5950,11 @@ Write a **220–260 word** synthesis combining information from three or more so
 - a concluding insight
 - formal, neutral tone
 
-Draft {{PH-4: U18-H3-homework-draft}}
+Draft {{PH-5: U18-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -5991,7 +5965,7 @@ Choose one:
 
 ## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
 
-*Homework target: ~280–350 words, with the longest tasks in Units 22–23*
+*Homework target: ~280–350 words*
 
 ### Module Introduction
 
@@ -6114,7 +6088,7 @@ Replace section numbers, annexes, and legal citations with plain descriptions of
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *Original:* Section 12(4) requires procedural harmonisation across offices.
 *Simplified:* All offices are now required to follow the same process.
@@ -6141,7 +6115,7 @@ Help non-expert readers understand why the policy exists and what it will change
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"This change is intended to reduce inconsistency across offices and ensure that applications are reviewed on a comparable basis."*
 
@@ -6187,7 +6161,7 @@ Ensure non-expert readers know exactly what they need to do and when.
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"Offices should begin using the updated form from 1 March. If you have questions, please contact the coordinating unit by 15 February."*
 
@@ -6225,7 +6199,7 @@ Using the improved version as your guide, rewrite the original technical text fr
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U19-D1-guided-rewrite}}
+Draft {{PH-3: U19-D1-guided-rewrite}}
 :::
 
 ::: rewrite
@@ -6254,7 +6228,7 @@ Your plain-language summary must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U19-D7-format-conversion}}
+Draft {{PH-4: U19-D7-format-conversion}}
 :::
 
 ### E. Freer Writing
@@ -6287,7 +6261,7 @@ Write a briefing of approximately **220–260 words** for non-expert readers in 
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U19-E3-role-based-write}}
+Draft {{PH-5: U19-E3-role-based-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -6348,13 +6322,13 @@ Issues to identify:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U19-G2-editing-rewrite}}
+Revised Draft {{PH-4: U19-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Homework Task
+Plain-Language Policy Summary
 
 
 Write a **280–320 word** plain-language policy summary for a non-expert internal or interagency audience. Choose one:
@@ -6371,11 +6345,11 @@ Your summary must include:
 - what action the reader is required to take
 - simple, professional language throughout
 
-Draft {{PH-4: U19-H3-homework-draft}}
+Draft {{PH-5: U19-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -6463,7 +6437,7 @@ Begin with a short, direct statement of what was decided. Avoid vague or hedged 
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"The office has adopted the revised document-verification procedure with effect from 1 April."*
 
@@ -6498,7 +6472,7 @@ Explain why the decision was made. Ground the rationale in policy, evidence, or 
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"This revision aligns with the updated standards issued in July and removes inconsistencies identified during the last coordination review."*
 
@@ -6533,7 +6507,7 @@ Describe the practical or procedural advantages of the decision in specific, mea
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"This will reduce review time and support a more consistent approach across partner offices."*
 
@@ -6566,7 +6540,7 @@ Combine decision, rationale, and benefit into a short, well-organised paragraph.
 :::
 
 ::: language
-Learn — Patterns
+Patterns
 
 1. State the decision.
 2. Identify the problem or trigger that required the decision.
@@ -6615,7 +6589,7 @@ Using the improved example from Section B as your guide, rewrite the original va
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U20-D1-guided-rewrite}}
+Draft {{PH-3: U20-D1-guided-rewrite}}
 :::
 
 ::: write
@@ -6638,7 +6612,7 @@ Your justification must include a decision statement, a rationale, and a benefit
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U20-D2-guided-draft}}
+Draft {{PH-4: U20-D2-guided-draft}}
 :::
 
 ### E. Freer Writing
@@ -6662,7 +6636,7 @@ Write approximately **200–240 words**. Your justification must include:
 
 Use this space for your first full draft.
 
-Draft {{PH-4: U20-E1-freer-write}}
+Draft {{PH-5: U20-E1-freer-write}}
 :::
 
 ### F. Review & Self-Assessment
@@ -6717,7 +6691,7 @@ Issues to identify:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U20-G2-editing-rewrite}}
+Revised Draft {{PH-4: U20-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -6740,11 +6714,11 @@ Your justification must include:
 - a description of expected benefits
 - formal, neutral tone throughout
 
-Draft {{PH-4: U20-H3-homework-draft}}
+Draft {{PH-5: U20-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -6897,7 +6871,7 @@ Begin with a single sentence that explains what the report covers, why it was pr
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"This report summarises implementation updates from five offices following the introduction of the revised applicant processing guidelines."*
 
@@ -6931,7 +6905,7 @@ Describe problems or challenges specifically and without attribution of blame.
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"Several offices expressed uncertainty regarding how to apply the updated review timeline to applications submitted before the circular's entry into force."*
 
@@ -6964,7 +6938,7 @@ Document completed actions in specific, factual terms.
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"Office C prepared a plain-language summary of the revised procedure for internal circulation."*
 
@@ -6998,7 +6972,7 @@ State what will happen next, who is responsible, and by when.
 :::
 
 ::: language
-Learn — Examples
+Examples
 
 *"Offices will submit outstanding questions to the coordinating unit by 20 October. A follow-up meeting will be held on 4 November to review progress."*
 
@@ -7038,7 +7012,7 @@ Using the improved example as your guide, rewrite the original vague text from S
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U21-D1-guided-rewrite}}
+Draft {{PH-3: U21-D1-guided-rewrite}}
 :::
 
 ::: structure
@@ -7058,7 +7032,7 @@ The following sentences are drawn from several office updates but have not yet b
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U21-D5-reorganised-version}}
+Draft {{PH-4: U21-D5-reorganised-version}}
 
 ::: rewrite
 Format Conversion — Prose to Consolidated Report
@@ -7080,7 +7054,7 @@ Example Text
 
 Use this space for your first full draft.
 
-Draft {{PH-3: U21-D7-format-conversion}}
+Draft {{PH-4: U21-D7-format-conversion}}
 :::
 :::
 
@@ -7117,11 +7091,11 @@ Your report must include:
 
 Write each part in its own box.
 
-Draft {{PH-3: U21-E4-part-a-summary-issues}}
+Draft {{PH-4: U21-E4-part-a-summary-issues}}
 
-Draft {{PH-3: U21-E4-part-b-actions-questions}}
+Draft {{PH-4: U21-E4-part-b-actions-questions}}
 
-Draft {{PH-2: U21-E4-part-c-next-steps-closing}}
+Draft {{PH-3: U21-E4-part-c-next-steps-closing}}
 :::
 
 ### F. Review & Self-Assessment
@@ -7174,7 +7148,7 @@ Issues to identify:
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U21-G2-editing-rewrite}}
+Revised Draft {{PH-4: U21-G2-editing-rewrite}}
 :::
 
 ### H. Homework & Extension
@@ -7192,11 +7166,11 @@ Write a **270–310 word** consolidated administrative report. Choose one scenar
 
 Your report must use the five-section format (Summary / Issues Identified / Actions Taken / Outstanding Questions / Next Steps) and maintain a formal, neutral tone throughout.
 
-Draft {{PH-4: U21-H3-homework-draft}}
+Draft {{PH-5: U21-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -7226,6 +7200,7 @@ Prediction Task — Anticipate the Document Type
 Read the four input items below. Before reading further, predict: what type of administrative document would you need to produce, and what would it need to include?
 
 **Input 1 — Email from Office A**
+
 ::: example
 Example Text
 
@@ -7233,6 +7208,7 @@ Example Text
 :::
 
 **Input 2 — Email from Office B**
+
 ::: example
 Example Text
 
@@ -7240,6 +7216,7 @@ Example Text
 :::
 
 **Input 3 — Internal Meeting Notes**
+
 ::: example
 Example Text
 
@@ -7247,6 +7224,7 @@ Example Text
 :::
 
 **Input 4 — Updated Instructions (Issued Last Week)**
+
 ::: example
 Example Text
 
@@ -7315,6 +7293,7 @@ The integrated response is more useful because it brings the inputs together und
 ### C. Language Focus
 
 ::: edit
+
 1. Error Identification And Correction
 
 This unit is trying to eliminate recurring weaknesses that undermine integrated documents: blame-heavy wording, loose structure, vague purpose statements, and instructions that do not clearly tell readers what to do next.
@@ -7372,7 +7351,7 @@ Using the integrated response in Section B as your guide, rewrite the inadequate
 
 Use this space for your first full draft.
 
-Draft {{PH-2: U22-D1-guided-rewrite}}
+Draft {{PH-3: U22-D1-guided-rewrite}}
 :::
 
 ::: revise
@@ -7403,7 +7382,7 @@ Using what you have learned in Units 19–22, revise your Unit 18 writing to add
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U22-D6-revision-chain}}
+Revised Draft {{PH-4: U22-D6-revision-chain}}
 :::
 
 ### E. Freer Writing
@@ -7433,7 +7412,7 @@ Planning Notes {{PH-1: U22-E4-part-a-planning}}
 
 Write each part in its own box.
 
-Draft {{PH-4: U22-E4-part-b-full-document}}
+Draft {{PH-5: U22-E4-part-b-full-document}}
 :::
 
 ### F. Review & Self-Assessment
@@ -7485,7 +7464,7 @@ After marking the document, write a clean revised version incorporating all your
 
 Write one complete version only.
 
-Draft {{PH-3: U22-G3-clean-copy}}
+Draft {{PH-4: U22-G3-clean-copy}}
 :::
 
 ### H. Homework & Extension
@@ -7504,11 +7483,11 @@ Your document must:
 - demonstrate appropriate structure for the chosen format
 - maintain formal, neutral tone throughout
 
-Draft {{PH-4: U22-H3-homework-draft}}
+Draft {{PH-5: U22-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
@@ -7649,7 +7628,7 @@ Revise your selected piece to address any weaknesses identified. Aim to improve 
 
 Revise the text above and write the full corrected version below.
 
-Revised Draft {{PH-3: U23-D6-revision-chain}}
+Revised Draft {{PH-4: U23-D6-revision-chain}}
 :::
 
 ### E. Freer Writing
@@ -7682,7 +7661,7 @@ Planning Notes {{PH-1: U23-E4-part-a-planning}}
 
 Write one complete version only.
 
-Final Version {{PH-4: U23-E4-part-b-capstone-document}}
+Final Version {{PH-5: U23-E4-part-b-capstone-document}}
 :::
 
 ### F. Review & Self-Assessment
@@ -7744,7 +7723,7 @@ Example Text
 
 Write one complete version only.
 
-Draft {{PH-3: U23-G3-clean-copy}}
+Draft {{PH-4: U23-G3-clean-copy}}
 :::
 
 ### H. Homework & Extension
@@ -7763,11 +7742,11 @@ Your document must:
 - maintain formal, neutral, diplomatic tone throughout
 - demonstrate mastery of structure, cohesion, justification, and audience awareness as practised across Units 1–22
 
-Draft {{PH-4: U23-H3-homework-draft}}
+Draft {{PH-5: U23-H3-homework-draft}}
 :::
 
 ::: write
-Homework Task
+Extension Task
 
 Choose one:
 
