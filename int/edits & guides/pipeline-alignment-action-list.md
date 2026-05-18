@@ -178,10 +178,7 @@ The correct class is determined by **what the learner does** in the block — no
 
 ### Div label text
 
-The first line inside the fence is the visible label in the DOCX output. It comes from:
-- An existing `####` sub-heading on the block → use its text (remove the `####` prefix)
-- A bold label (`**Why This Works**`) → use its text (remove the `**` markers)
-- If no heading or label exists, write a short noun-phrase that describes the block
+The first line inside the fence is the visible label in the DOCX output. It primarily comes from `#### Practice — ...` activity headings — remove the `####` prefix and use the heading text as the label. General bold text within a block (`**Why this works**`, `**Quick check**`) stays as bold body text inside the div and does not become the label line. If a block has no activity heading, write a short noun-phrase label.
 
 ---
 
