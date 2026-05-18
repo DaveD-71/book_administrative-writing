@@ -178,7 +178,12 @@ The correct class is determined by **what the learner does** in the block — no
 
 ### Div label text
 
-The first line inside the fence is the visible label in the DOCX output. It primarily comes from `#### Practice — ...` activity headings — remove the `####` prefix and use the heading text as the label. General bold text within a block (`**Why this works**`, `**Quick check**`) stays as bold body text inside the div and does not become the label line. If a block has no activity heading, write a short noun-phrase label.
+The first line inside the fence is the visible label in the DOCX output. This is an **editorial step**, not a mechanical extraction:
+
+- `#### Practice — ...` activity headings are the primary starting point, but the text is often **rewritten** for clarity, consistency, or to better match the label style used across the book
+- Blocks that have no existing heading get a **new label authored from scratch** — a short noun phrase that names the pedagogical purpose (e.g. "Key Patterns", "Guided Rewrite", "Self-Editing Checklist")
+- General bold text within the body (`**Why this works**`, `**Quick check**`) stays as bold body text inside the div and does not become the label line
+- Label text should be concise, consistent in register, and name what the learner does or learns — not just describe the content
 
 ---
 
