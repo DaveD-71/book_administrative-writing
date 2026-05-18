@@ -41,58 +41,37 @@ Stages 0A, 0B, and 0C can all be prepared concurrently. None depend on each othe
 
 ---
 
-### 0B — Reference DOCX decision and setup
+### 0B — Reference DOCX
 
-**Goal:** Place a reference DOCX in the working folder that contains all styles required by the intermediate pipeline. Decide whether to share or fork the advanced reference.
+**Goal:** Confirm which reference DOCX the intermediate pipeline will use. The styles are still being refined and maintaining two copies in sync is unnecessary overhead.
+
+**Decision: shared advanced reference (deferred individuation)**
+Both books use `adv/md/working/aw-adv-styleref.docx` until styles are locked. A separate `aw-int-styleref.docx` will be created only at the final individuation stage (Stage 8+). Any style change to the advanced reference automatically applies to both books during this period.
 
 **Lessons from advanced pipeline:**
-- The reference DOCX is the single source of truth for all style definitions. The build pipeline must never create or redefine styles.
 - Three-location color synchronisation rule: `DivLabel*` styles must keep `w:rPr/w:color`, `w14:srgbClr`, and linked character style color in sync — these go out of sync silently if styles are manually edited in Word.
 - `autoRedefine` on DivLabel styles caused silent style corruption; it must not be present.
-- Styles renamed or absent in the reference DOCX cause hard failures at post-build validation — easier to start clean than patch.
-- `DivTag` must be a **character** style (not paragraph); if defined as paragraph the `w:rStyle` icon references are silently ignored.
-- `AW Table Header` and `AW Table Body` paragraph styles are required for table cell formatting to override Word's table-style `rPr`.
+- `DivTag` must be a **character** style (not paragraph).
+- `AW Table Header` and `AW Table Body` paragraph styles are required for table cell formatting.
 
-**Avoidance strategy:**
-- Start with a direct copy of `aw-adv-styleref.docx` renamed to `aw-int-styleref.docx` in `int/md/working/`.
-- Run `audit_docx_styles.py` on the copy immediately to confirm all required styles are present and colours are consistent.
-- Do not edit the DOCX copy in Word unless a specific style change is confirmed necessary — Word silently adds styles and modifies inheritance on save.
-
-**Decision: shared vs separate:**
-- **Recommendation: use a copy.** Starting from a copy means the intermediate book can diverge in colour scheme or style variants later without touching the advanced reference. If both books prove identical in styling, they can be re-consolidated at that point.
-- **If truly shared:** symlinks don't work with the Pandoc `--reference-doc` flag path; use `--reference` pointing to the single `adv/md/working/aw-adv-styleref.docx`. Any style change then affects both books simultaneously.
-
-**Steps:**
-1. Copy `adv/md/working/aw-adv-styleref.docx` → `int/md/working/aw-int-styleref.docx`
-2. Run `python scripts/audit_docx_styles.py --reference int/md/working/aw-int-styleref.docx` and confirm no colour-mismatch warnings
+**Build command implication:**
+The intermediate build must pass `--reference adv/md/working/aw-adv-styleref.docx`.
 
 **Completion gate:**
-- `int/md/working/aw-int-styleref.docx` exists
-- `audit_docx_styles.py` reports zero colour-mismatch errors
-- All required styles are present: `Div Label *` (×10 minimum), `DivTag` (character), `AW Table Header`, `AW Table Body`, `Checklist`, `Body Text`, `ResponsePlaceholder`
+- `adv/md/working/aw-adv-styleref.docx` exists and is accessible
+- No `int/md/working/aw-int-styleref.docx` created yet (deferred)
 
 ---
 
-### 0C — Copy icon assets
+### 0C — Icon assets
 
-**Goal:** Make PNG icon assets available in `int/md/working/` so the postprocessor can insert inline tag icons for each div class.
+**Goal:** Confirm icon asset availability for the intermediate build.
 
-**Lessons from advanced pipeline:**
-- Icon assets must be in a folder named `div-tags-icons-2_assets` immediately sibling to the reference DOCX.
-- All icon PNGs must be tight-cropped to content bounds + 1px padding. Uncropped PNGs (4px white margin) misalign the icon against label text.
-- Two sets exist: `tag_filled_*` and `tag_outline_*`. The `--tag-style filled|outline` CLI flag selects between them. Both sets must be present.
-- Missing icon PNG for a given class causes that div's label to be inserted without an icon (silent skip — not an error).
-
-**Avoidance strategy:**
-- Copy the entire cropped `div-tags-icons-2_assets/` folder from the advanced working folder — do not copy from an older source that may have uncropped originals.
-- After copying, verify both `tag_filled_*` and `tag_outline_*` sets are present for all 9 div classes.
-
-**Steps:**
-1. Copy `adv/md/working/div-tags-icons-2_assets/` → `int/md/working/div-tags-icons-2_assets/`
-2. Verify both icon sets are present for: `learn`, `language`, `structure`, `notice`, `write`, `rewrite`, `revise`, `edit`, `example`
+**Decision: no copy needed**
+Because the reference DOCX stays in `adv/md/working/`, the postprocessor's `_resolve_div_tag_icon()` looks for `div-tags-icons-2_assets/` as a sibling of that file — the assets are already there.
 
 **Completion gate:**
-- `int/md/working/div-tags-icons-2_assets/` contains both `tag_filled_*` and `tag_outline_*` PNGs for all 9 div classes (minimum 18 PNGs)
+- `adv/md/working/div-tags-icons-2_assets/` contains both `tag_filled_*` and `tag_outline_*` PNGs for all 9 div classes (verify before first build)
 
 ---
 
@@ -146,21 +125,46 @@ style_map:
 
 **Goal:** Apply `:::class` / `:::` fenced div markup throughout all 23 units of `aw-int-all.md` to wrap content in the correct semantic category. The current file has zero fences. This is the primary content-authoring stage and directly determines the quality of the styled output.
 
-**The 9 primary div classes and their content meaning:**
+### Classification framework
+
+The 9 div classes and their content meaning (from the reclassification design document):
 
 | Class | Content type |
 |-------|-------------|
-| `learn` | Grammar/language learning notes and reference boxes |
-| `language` | Useful phrases, sentence frames, vocabulary |
-| `structure` | Document structure and genre conventions |
-| `notice` | Cautions, warnings, important points |
-| `write` | Writing tasks the student produces independently |
-| `rewrite` | Tasks involving correction or improvement of given text |
-| `revise` | Tasks involving comparison or reflection on differences between versions |
-| `edit` | Self-editing checklists (becomes checklist items in Stage 3) |
-| `example` | Model texts or worked examples (may also use `example-good` / `example-bad`) |
+| `learn` | Instruction, guidance, teaching input |
+| `language` | Grammar, vocabulary, phrases, language systems |
+| `structure` | Organisation, planning, templates, hierarchy |
+| `notice` | Analysis, comparison, guided attention |
+| `write` | Drafting, original production |
+| `rewrite` | Substantial reformulation/transformation |
+| `revise` | Improvement/refinement/restructuring |
+| `edit` | Correction/polishing/proofreading |
+| `example` | Reference/comparison/example text (may also use `example-good` / `example-bad`) |
 
-**Lessons from advanced pipeline:**
+The correct class is determined by **what the learner does** in the block — not by which section (A–H) it sits in. A single `### C. Language Focus` section typically contains `learn`, `language`, `rewrite`, and `notice` divs depending on what each block actually asks the learner to do.
+
+**Disambiguation notes:**
+
+- **`language` vs `learn`:** `language` is correct when the content is a language-system reference — grammar rules, vocabulary sets, connector lists, phrase banks, sentence patterns — for reading/reference, with no attached task. If the block explains a principle or gives teaching guidance, it is `learn`. Content type determines the class, not the format (list or prose). The advanced audit found 21/54 `language` divs were misclassified this way.
+- **`notice` vs `learn`:** `notice` is for observation and analysis tasks on given text. A block containing a teaching explanation or reference table with no learner task is `learn`, even if it sits in a noticing section.
+- **`rewrite` vs `revise`:** `rewrite` is transforming someone else's given text. `revise` is the learner returning to and improving their own previously written text.
+- **`edit` vs `rewrite`:** `edit` is correction, polishing, proofreading, and self-editing checklists — tasks focused on language mechanics. "Rewrite these sentences" is `rewrite`, not `edit`, regardless of which section it appears in.
+- **`write` vs `structure`:** `write` is original production from a scenario. If the learner is filling in a given structural template, it is `structure`.
+
+---
+
+### Div label text
+
+The first line inside the fence is the visible label in the DOCX output. This is an **editorial step**, not a mechanical extraction:
+
+- `#### Practice — ...` activity headings are the primary starting point, but the text is often **rewritten** for clarity, consistency, or to better match the label style used across the book
+- Blocks that have no existing heading get a **new label authored from scratch** — a short noun phrase that names the pedagogical purpose (e.g. "Key Patterns", "Guided Rewrite", "Self-Editing Checklist")
+- General bold text within the body (`**Why this works**`, `**Quick check**`) stays as bold body text inside the div and does not become the label line
+- Label text should be concise, consistent in register, and name what the learner does or learns — not just describe the content
+
+---
+
+### Lessons from advanced pipeline
 
 1. **Pandoc spacing rule — blank line before `:::`:** A `:::class` open fence must be preceded by a blank line when the preceding content line is non-empty. Violation causes Pandoc to render the fence as literal text. The systematic danger pattern: a bold label line (`**Input N — ...**`) immediately followed by `:::class` with no blank line. This burned multiple builds before being caught.
 
@@ -287,7 +291,7 @@ for ($i = 1; $i -lt $lines.Count; $i++) {
 ```
 textmaker.cmd markdown-to-docx ^
   --input int\md\working\aw-int-all.md ^
-  --reference int\md\working\aw-int-styleref.docx ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
   --output int\md\working\aw-int-all_MMDD.docx ^
   --no-pagebreak-filter ^
@@ -306,7 +310,7 @@ Replace `MMDD` with today's date (e.g. `0519`).
 ```
 python ..\textmaker\scripts\validate_docx_against_reference.py ^
   --docx int\md\working\aw-int-all_MMDD.docx ^
-  --reference int\md\working\aw-int-styleref.docx
+  --reference adv\md\working\aw-adv-styleref.docx
 ```
 
 **Completion gate:**
