@@ -254,12 +254,6 @@ Write Your Own Complex Sentence
 
 Choose a work situation that involves **two or three related factors** — for example, a problem and its cause, a decision and the reasons behind it, or a sequence of steps with a dependency between them. The situation should be complex enough that there is a genuine logical relationship to express.
 
-::: learn
-Before You Write
-
-Do not choose the longest sentence as the "best" version automatically. Choose the version that makes the relationship between ideas easiest for the intended reader to process.
-:::
-
 Write **three versions** of the same core message:
 
   1. a fully subordinated version (ideas embedded in one long sentence)
@@ -273,6 +267,12 @@ Draft {{PH-3: U01-D2-version-1}}
 Draft {{PH-3: U01-D2-version-2}}
 
 Draft {{PH-3: U01-D2-version-3}}
+
+::: learn
+Before You Write
+
+Do not choose the longest sentence as the "best" version automatically. Choose the version that makes the relationship between ideas easiest for the intended reader to process.
+:::
 
 Planning Notes {{PH-1: U01-D2-version-choice-note}}
 :::
@@ -2140,7 +2140,6 @@ Rewrite each unsequenced list as a structured, logically ordered request. Add se
 
 #### 2. Paragraph-Level Transformation
 
-::: rewrite
 Read the paragraph below. It contains all the necessary information, but the requests are unsequenced, the priority order is unclear, and there are no dependency markers.
 
 ::: example
@@ -2149,6 +2148,7 @@ Example Text
 *"We need to sort out a few things before we can move forward. The terminology in the document needs to be checked. Also, the timeline should be confirmed — we're not sure which date is correct. The translated version also needs a review, but we can't start that until we know which terms are being used. Once everything is clear, we can update the file and proceed."*
 :::
 
+::: rewrite
 Rewrite the paragraph as a structured, diplomatically phrased request. Your version should:
 
 - establish a clear primary request
@@ -2351,6 +2351,7 @@ Worked Example
 All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
 :::
 
+
 Answer the following questions:
 
 1. How many distinct steps can you identify in this procedure? List them.
@@ -2447,11 +2448,11 @@ Procedural instructions are not the same as general explanation. A procedure tel
 
 Rewrite each sentence using a more precise procedural verb. Replace the underlined word or phrase.
 
-1. *<uDo</uthe initial review before forwarding the file.*
-2. *<uLook at</uthe changes made in the revised submission.*
-3. *<uDeal with</uthe applicant's request within two working days.*
-4. *<uMake sure</uthe record is updated before the file is forwarded.*
-5. *<uCheck</uwhether the timeline needs to be changed.*
+1. *[Do]{.underline} the initial review before forwarding the file.*
+2. *[Look at]{.underline} the changes made in the revised submission.*
+3. *[Deal with]{.underline} the applicant's request within two working days.*
+4. *[Make sure]{.underline} the record is updated before the file is forwarded.*
+5. *[Check]{.underline} whether the timeline needs to be changed.*
 
 ::: language
 Useful Language
@@ -7320,7 +7321,6 @@ Each sentence below contains an error — of tone, structure, or professional re
 
 #### 2. Paragraph-Level Transformation
 
-::: rewrite
 The paragraph below presents information from multiple sources as a list of disconnected items. Rewrite it as a single, cohesive paragraph that synthesises the information.
 
 ::: example
@@ -7329,6 +7329,7 @@ Example Text
 *"Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. The circular needs to be acknowledged. These are all different problems."*
 :::
 
+::: rewrite
 Your rewritten paragraph must:
 
 - identify a common theme across the sources
