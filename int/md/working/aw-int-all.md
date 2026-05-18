@@ -372,9 +372,9 @@ Circle the sentence in your work that is easiest to read.
 
 Then answer:
 
-- Why is that sentence clear?
-- What did you remove or simplify?
-- What will you do again next time?
+- [ ] Why is that sentence clear?
+- [ ] What did you remove or simplify?
+- [ ] What will you do again next time?
 :::
 
 ### H. Homework
@@ -718,8 +718,8 @@ Underline the most professional sentence in your freer-practice email.
 
 Then explain in one line:
 
-- why it sounds professional
-- what makes it polite but still clear
+- [ ] why it sounds professional
+- [ ] what makes it polite but still clear
 :::
 
 ### H. Homework
@@ -1011,10 +1011,10 @@ Self-Check
 
 Check your paragraph before moving on:
 
-- Does the first sentence show the topic clearly?
-- Do the middle sentences stay on the same idea?
-- Does the final sentence close the paragraph or lead forward?
-- Did I avoid mixing unrelated topics?
+- [ ] Does the first sentence show the topic clearly?
+- [ ] Do the middle sentences stay on the same idea?
+- [ ] Does the final sentence close the paragraph or lead forward?
+- [ ] Did I avoid mixing unrelated topics?
 :::
 
 ### E. Freer Practice - Write a Full Paragraph
@@ -1089,9 +1089,9 @@ Final self-edit
 
 Mark your paragraph:
 
-- `T` topic
-- `S` support
-- `C` closing
+- [ ] `T` topic
+- [ ] `S` support
+- [ ] `C` closing
 
 If one part is missing, revise the paragraph once more before leaving the unit.
 :::
@@ -1149,11 +1149,11 @@ Module 1 Self-Edit Routine
 
 Before you move to Module 2, check one piece of your own writing from this module.
 
-- Circle the main action verb in each sentence.
-- Underline any sentence that feels too long.
-- Check whether the tone sounds neutral and professional.
-- Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
-- Rewrite one sentence and one paragraph so the reader can understand the message faster.
+- [ ] Circle the main action verb in each sentence.
+- [ ] Underline any sentence that feels too long.
+- [ ] Check whether the tone sounds neutral and professional.
+- [ ] Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
+- [ ] Rewrite one sentence and one paragraph so the reader can understand the message faster.
 :::
 
 ### Module 1 transfer task
@@ -1234,10 +1234,10 @@ Preparation Check
 
 Before you start the email module, check whether you can do these four things without help:
 
-- write one clear purpose sentence
-- soften a request without losing the main meaning
-- build one short paragraph with a topic, support, and closing
-- explain why your revised version is easier for the reader to understand
+- [ ] write one clear purpose sentence
+- [ ] soften a request without losing the main meaning
+- [ ] build one short paragraph with a topic, support, and closing
+- [ ] explain why your revised version is easier for the reader to understand
 
 If one of these still feels weak, return to the unit that teaches it and revise one more piece of writing before moving on.
 :::
@@ -2960,12 +2960,12 @@ Module 2 Email Control Checklist
 
 Use this checklist on one email from Units 4-7.
 
-- Is the subject line specific enough?
-- Does the opening sentence show the purpose early?
-- If you ask a question, is it anchored to one clear information gap?
-- If you report a delay or change, does the message state the current situation and next step?
-- If you make a request, does the reason help the reader understand why the action matters?
-- Does the closing tone fit the relationship?
+- [ ] Is the subject line specific enough?
+- [ ] Does the opening sentence show the purpose early?
+- [ ] If you ask a question, is it anchored to one clear information gap?
+- [ ] If you report a delay or change, does the message state the current situation and next step?
+- [ ] If you make a request, does the reason help the reader understand why the action matters?
+- [ ] Does the closing tone fit the relationship?
 :::
 
 ### Module 2 transfer task
@@ -3871,14 +3871,14 @@ Rewrite this weak internal notice as a clearer one.
 
 When you revise it, check:
 
-- Is the heading specific?
-- Does the body explain the real issue?
-- Can the reader see what to do next?
+- [ ] Is the heading specific?
+- [ ] Does the body explain the real issue?
+- [ ] Can the reader see what to do next?
 
 Mini contrast:
 
-- Weak notice: vague warning, no action path
-- Stronger notice: clear topic, clear problem, clear reminder or next step
+- [ ] Weak notice: vague warning, no action path
+- [ ] Stronger notice: clear topic, clear problem, clear reminder or next step
 
 **Original:**
 
@@ -4736,11 +4736,11 @@ Module 3 self-edit routine
 
 Review one procedure, notice, problem note, or summary from this module.
 
-- Number each action or idea if order matters.
-- Check whether the reason for the message appears early enough.
-- Underline the sentence that tells the reader what happens next.
-- Remove one vague sentence and replace it with a factual one.
-- Ask: if a new staff member reads this text, will they know what to do?
+- [ ] Number each action or idea if order matters.
+- [ ] Check whether the reason for the message appears early enough.
+- [ ] Underline the sentence that tells the reader what happens next.
+- [ ] Remove one vague sentence and replace it with a factual one.
+- [ ] Ask: if a new staff member reads this text, will they know what to do?
 :::
 
 ### Module 3 transfer task
@@ -5231,17 +5231,17 @@ Before writing your own external inquiries, check:
 3. Did I avoid unnecessary office detail?
 4. Does the closing sound polite and professional?
 
-- **Subject:**
+- [ ] **Subject:**
 
-- **Greeting:**
+- [ ] **Greeting:**
 
-- **Background:**
+- [ ] **Background:**
 
-- **Inquiry question(s):**
+- [ ] **Inquiry question(s):**
 
-- **Closing sentence:**
+- [ ] **Closing sentence:**
 
-- **Sign-off:**
+- [ ] **Sign-off:**
 :::
 
 ### E. Freer Practice - Write Two External Inquiry Emails
@@ -6497,11 +6497,11 @@ Module 4 communication checklist
 
 Use this checklist on one text from Units 12-15.
 
-- Can the reader see the purpose in the first one or two sentences?
-- Does the message explain only the background that the reader needs?
-- Is each question or explanation point easy to answer or follow?
-- If the reader was confused before, does the response sound helpful rather than defensive?
-- Does the message follow the same style rules used elsewhere in the module?
+- [ ] Can the reader see the purpose in the first one or two sentences?
+- [ ] Does the message explain only the background that the reader needs?
+- [ ] Is each question or explanation point easy to answer or follow?
+- [ ] If the reader was confused before, does the response sound helpful rather than defensive?
+- [ ] Does the message follow the same style rules used elsewhere in the module?
 :::
 
 ### Module 4 transfer task
@@ -6896,9 +6896,9 @@ Work in a fixed order:
 
 Accuracy check:
 
-- Does the sentence now sound complete?
-- Does the time reference make sense?
-- Does the noun or verb form match the message?
+- [ ] Does the sentence now sound complete?
+- [ ] Does the time reference make sense?
+- [ ] Does the noun or verb form match the message?
 
 1. *The system under maintenance today.*  
    ->
@@ -7001,9 +7001,9 @@ Choose two corrections from your work in this unit.
 
 For each one, explain:
 
-- what the original error was
-- why the corrected version is better
-- what you should check next time
+- [ ] what the original error was
+- [ ] why the corrected version is better
+- [ ] what you should check next time
 
 Write the full corrected version below.
 :::
@@ -7843,11 +7843,11 @@ The office checked your file yesterday but there is a mistake in many parts and 
 
 Improve it in three passes.
 
-- Accuracy pass:
+- [ ] Accuracy pass:
   - check whether each idea is factually and grammatically controlled
-- Clarity pass:
+- [ ] Clarity pass:
   - separate the problem, effect, and action
-- Tone pass:
+- [ ] Tone pass:
   - remove blame and create a cooperative next step
 
 Possible stronger version:
@@ -7856,9 +7856,9 @@ The office checked your file yesterday and found several errors in the attached 
 
 Why this stronger version works:
 
-- the problem is more precise
-- the next action is clearer
-- the tone supports cooperation
+- [ ] the problem is more precise
+- [ ] the next action is clearer
+- [ ] the tone supports cooperation
 :::
 
 ### Module 5 carry-forward task
@@ -8969,8 +8969,8 @@ Take one message from your guided practice and revise it again so it matches the
 
 Then note:
 
-- which consistency rule you applied
-- how the revised version became easier to read
+- [ ] which consistency rule you applied
+- [ ] how the revised version became easier to read
 
 Write the full corrected version below.
 :::
@@ -9870,9 +9870,9 @@ Choose one document from your portfolio.
 
 Write:
 
-- one problem in the original draft
-- how you revised it
-- why the new version works better for the reader
+- [ ] one problem in the original draft
+- [ ] how you revised it
+- [ ] why the new version works better for the reader
 
 Write the full corrected version below.
 :::
