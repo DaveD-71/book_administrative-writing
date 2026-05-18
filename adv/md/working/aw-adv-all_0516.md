@@ -153,7 +153,6 @@ Patterns
 ::: rewrite
 Add Coordinators
 
-
 Choose the most appropriate connector for each sentence.
 
 1. We need to confirm the applicant's address, ___ we must also check the original application form.
@@ -174,7 +173,6 @@ Patterns
 
 ::: notice
 Identify the Subordination Function
-
 
 State whether the subordinate clause expresses **reason**, **contrast**, or **time**.
 
@@ -206,7 +204,6 @@ Both connect an action with a rationale. The difference is emphasis and order: P
 
 ::: rewrite
 Apply the Clarity Patterns
-
 
 Rewrite each sentence below using the clarity pattern indicated.
 
@@ -320,7 +317,6 @@ Check your writing for the following:
 ::: rewrite
 Improve Clarity and Flow — Ambiguous Sentences
 
-
 Rewrite the following sentences to eliminate ambiguity. For each one, identify the source of the problem before rewriting.
 
   1. *We informed the office that the report was incorrect, which caused confusion.*
@@ -338,7 +334,6 @@ Revised Draft {{PH-3: U01-G1-editing-rewrite}}
 
 ::: write
 Scenario-Based Free Write
-
 
 Write approximately **150 words** explaining a work situation that involves multiple related causes or factors. Your explanation should be appropriate for internal or interagency communication, and should use coordination, subordination, and segmentation to manage the logical relationships clearly.
 
@@ -410,7 +405,6 @@ Revised Text
 ::: notice
 Compare Tone and Clarity
 
-
 Identify the differences in:
 
 - tone
@@ -426,7 +420,6 @@ The revised version protects the working relationship. It reduces blame, gives a
 
 ::: notice
 Identify the Writing Pattern
-
 
 Highlight examples of the following in the revised text:
 
@@ -462,7 +455,6 @@ Patterns
 
 ::: notice
 Match Each Softening Phrase to Its Function
-
 
 Match each softening phrase (A–D) to its function (1–4).
 
@@ -503,7 +495,6 @@ Key Structures
 ::: rewrite
 Rewrite Direct Questions
 
-
 Rewrite each question using neutral clarification language.
 
 1. *Why did you change the format?*
@@ -538,7 +529,6 @@ The core request stays the same, but the amount of softening and explicit reader
 
 ::: notice
 Choose the Appropriate Version for Each Audience
-
 
 Three versions of the same request are shown below. For each audience (A, B, C) below, select the most appropriate version and explain your choice.
 
@@ -576,7 +566,6 @@ Draft {{PH-3: U02-D1-guided-rewrite}}
 
 ::: write
 Tone Transformation — Write for Two Audiences
-
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
 
@@ -648,7 +637,6 @@ Check your writing for:
 ::: rewrite
 Improve Clarity and Flow — Diplomatic Sentences
 
-
 Rewrite these sentences to make them more diplomatic. For each one, identify which softening strategy you have used.
 
 1. *You did not attach the file.*
@@ -665,7 +653,6 @@ Revised Draft {{PH-3: U02-G1-editing-rewrite}}
 
 ::: write
 Homework Writing Task
-
 
 Write approximately **150 words**. Your message must use at least three softening strategies, include clear reason-giving, and close cooperatively. Choose one situation:
 
@@ -702,7 +689,6 @@ This unit develops learners' ability to construct clear, logically organised par
 
 ::: notice
 Classify Excerpts by Cohesion Type
-
 
 Below are eight short excerpts from administrative paragraphs. Sort them into two groups:
 
@@ -748,7 +734,6 @@ Revised Text
 ::: notice
 Compare Tone and Clarity
 
-
 Identify:
 
 - all connectors used in the revised version
@@ -765,13 +750,12 @@ The revised paragraph guides the reader through a sequence: topic, explanation, 
 ::: notice
 Identify the Writing Pattern
 
-
 In the revised example, highlight or underline examples of:
 
-- **Cohesive devices:** e.g., *however, therefore, as a result, in addition* 
-- **Reference words:** e.g., *these issues, the document, this point* 
-- **Thematic progression:** movement from known to new information 
-- **Clear paragraph structure:** topic → support → implication or next step 
+- **Cohesive devices:** e.g., *however, therefore, as a result, in addition*
+- **Reference words:** e.g., *these issues, the document, this point*
+- **Thematic progression:** movement from known to new information
+- **Clear paragraph structure:** topic → support → implication or next step
 
 Reflect: How do these elements work together to improve readability?
 :::
@@ -823,7 +807,6 @@ Recommended Structure
 ::: rewrite
 Replace Repetition with Reference Words
 
-
 Rewrite each pair of sentences to avoid repeating the same nouns. Use appropriate reference words.
 
 1. *The document contains errors. The document must be corrected before submission.*
@@ -852,7 +835,6 @@ The example begins with the meeting outcome, develops into the specific problems
 
 ::: rewrite
 Add Logical Connectors
-
 
 Add appropriate connectors to the following sentences. More than one answer may be correct — explain your choice.
 
@@ -948,7 +930,6 @@ Check your writing for:
 ::: rewrite
 Improve Clarity and Flow — Paragraph Cohesion
 
-
 Rewrite these paragraphs for better cohesion. Identify at least two specific changes you have made and explain why.
 
 1. *"The applicant submitted the revised form. The guidelines were updated. The team is reviewing the change. We will send a confirmation."*
@@ -964,7 +945,6 @@ Revised Draft {{PH-3: U03-G1-editing-rewrite}}
 
 ::: write
 Cohesive Explanation — Scenario Writing
-
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
@@ -1015,7 +995,6 @@ This unit develops learners' ability to structure multi-part professional emails
 ::: notice
 Identify Communication Issues in an Email
 
-
 Read the following email. Identify what is missing or unclear — and explain why it would be difficult for the reader to act on it.
 
 ::: example
@@ -1035,7 +1014,6 @@ Consider:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -1073,7 +1051,6 @@ The improved version helps the reader act efficiently because each part of the e
 
 ::: notice
 Deconstruct the Document Structure
-
 
 High-level email structure is not just a format rule. Each section supports the reader in a different way: orienting them, explaining why the message matters, stating what action is needed, and making clear what will happen next.
 
@@ -1119,12 +1096,10 @@ Worked Example
 *Once confirmed, we will update our internal records and proceed with the review.*
 :::
 
-
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
 
 ::: notice
 Identify the Function of Each Sentence
-
 
 Label each sentence as **opening**, **purpose**, **explanation**, **request**, or **next step**.
 
@@ -1138,7 +1113,6 @@ Label each sentence as **opening**, **purpose**, **explanation**, **request**, o
 
 ::: rewrite
 Rewrite Sentences to Match the Function
-
 
 Rewrite each sentence to match the function indicated. Keep the same core information but change the phrasing appropriately.
 
@@ -1169,7 +1143,6 @@ Draft {{PH-3: U04-D1-guided-rewrite}}
 
 ::: structure
 Template-Guided Writing — High-Level Email
-
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
@@ -1214,7 +1187,6 @@ Draft {{PH-4: U04-D2-guided-draft}}
 
 ::: write
 Write a Full High-Level Email
-
 
 Write a high-level professional email of **190–220 words**. Your email must include:
 
@@ -1266,7 +1238,6 @@ Before submitting, check that your email:
 ::: rewrite
 Improve Clarity and Flow — Structural and Tone Problems
 
-
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
 ::: example-bad
@@ -1286,7 +1257,6 @@ Revised Draft {{PH-3: U04-G1-editing-rewrite}}
 
 ::: write
 Tone Transformation — Write for an Interagency Audience
-
 
 Write a **190–220 word** high-level email to an interagency counterpart. Your email must include:
 
@@ -1333,7 +1303,6 @@ This unit develops learners' ability to write clear, targeted, and professional 
 ::: notice
 Identify Communication Issues in a Clarification Request
 
-
 Read the following clarification request. Identify the specific problems that would make it difficult for the reader to respond usefully.
 
 ::: example
@@ -1353,7 +1322,6 @@ Consider:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -1430,7 +1398,6 @@ Precision in clarification writing means reducing the reader's interpretive work
 ::: rewrite
 Rewrite Requests for Precision and Diplomacy
 
-
 Rewrite the following to make each request more precise and diplomatic. Add a specific reference, a clear scope, and softening language where appropriate.
 
 1. *Can you explain the date issue?*
@@ -1453,7 +1420,6 @@ When several questions appear in one message, the writer should still make each 
 
 ::: structure
 Phrase Bank Building
-
 
 The phrases below are drawn from this unit's example text and language focus. Organise them into your own personal phrase bank by sorting them under the four headings below. Add any additional phrases from this unit that you find useful.
 
@@ -1509,7 +1475,6 @@ Draft {{PH-3: U05-D1-guided-rewrite}}
 ::: write
 Two-Audience Version Task — Clarification Request
 
-
 Using the scenario below, write two versions of the same clarification request.
 
 ::: learn
@@ -1542,7 +1507,6 @@ Draft {{PH-4: U05-D4-version-b}}
 
 ::: write
 Role-Based Writing Task — Clarification Request
-
 
 You are the person in your office responsible for reviewing documents received from partner organisations and raising any inconsistencies before they are acted on. When you identify a problem, you write directly to the contact at the sending office to request clarification.
 
@@ -1595,7 +1559,6 @@ Before submitting, check that your writing:
 ::: rewrite
 Improve Clarity and Flow — Clarification Requests
 
-
 Rewrite the following clarification requests. Each is too vague, too direct, or missing a reference. Provide the improved version and note what you changed.
 
 1. *Can you check the inconsistencies?*
@@ -1615,7 +1578,6 @@ Revised Draft {{PH-3: U05-G1-editing-rewrite}}
 
 ::: write
 Scenario-Based Free Write
-
 
 Write a **190–220 word** clarification request to a partner office regarding inconsistencies found in a shared document. Your message must include:
 
@@ -1693,7 +1655,6 @@ Discuss:
 ::: notice
 Compare Tone and Clarity
 
-
 ::: example-bad
 Original Text
 
@@ -1730,7 +1691,6 @@ The improved version identifies the problem without accusing the reader. It sepa
 
 ::: notice
 Annotated Example — Read and Evaluate the Annotations
-
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
@@ -1824,7 +1784,6 @@ Use these openings to introduce an issue without assigning blame:
 ::: rewrite
 Rewrite Sentences Using a Diplomatic Frame
 
-
 Rewrite each sentence using a diplomatic frame. Keep the same factual content but remove any blaming or accusatory tone.
 
 1. *The date you provided is incorrect.*
@@ -1847,7 +1806,6 @@ A neutral impact statement explains why the correction matters without presentin
 
 ::: edit
 Error Identification and Correction
-
 
 Each sentence below contains one problem — either a tone issue, a missing reference, a blaming phrase, or a structural problem. Identify the problem type and rewrite the sentence to correct it.
 
@@ -1915,7 +1873,6 @@ Draft {{PH-4: U06-D2-guided-draft}}
 ::: write
 Write a Diplomatic Error Notification
 
-
 Write a diplomatic error-notification message of **190–220 words**. Your message must include:
 
 - diplomatic framing throughout
@@ -1966,7 +1923,6 @@ Before submitting, check that your writing:
 ::: rewrite
 Improve Clarity and Flow — Diplomatic Elements
 
-
 Rewrite the following sentences. Each is too direct, too vague, or missing a key diplomatic element. For each rewrite, note what you changed and why.
 
 1. *You used the wrong version.*
@@ -2000,7 +1956,6 @@ Rewrite the message applying the techniques from this unit. If you cannot use a 
 
 ::: write
 Homework Writing Task
-
 
 Write a **190–220 word** diplomatic error-notification message to a domestic or foreign office. Your message must include:
 
@@ -2047,7 +2002,6 @@ This unit develops learners' ability to write layered, prioritised, and logicall
 ::: notice
 Identify Communication Issues — Count and Sequence Requests
 
-
 Read the three messages below. For each one, identify: how many distinct requests does the message contain? Are all requests equally clear?
 
 1. *"Please confirm the applicant's address and resend the updated file."*
@@ -2061,7 +2015,6 @@ Discuss: When a message contains multiple requests, what makes some clearer than
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -2099,7 +2052,6 @@ The improved version reduces confusion by showing the reader which action comes 
 ::: notice
 Identify the Writing Pattern
 
-
 Highlight the following in the improved version:
 
 1. the **primary request** — the most important or time-sensitive action
@@ -2129,7 +2081,6 @@ Use these phrases to establish a clear order:
 ::: structure
 Rewrite Unsequenced Lists as Structured Requests
 
-
 Rewrite each unsequenced list as a structured, logically ordered request. Add sequencing markers and, where relevant, a brief rationale.
 
 1. *Check the dates. Review the terminology. Send the updated file.*
@@ -2149,7 +2100,9 @@ Example Text
 :::
 
 ::: rewrite
-Rewrite the paragraph as a structured, diplomatically phrased request. Your version should:
+Rewrite the paragraph as a structured, diplomatically phrased request.
+
+Your version should:
 
 - establish a clear primary request
 - sequence secondary requests using appropriate markers
@@ -2213,7 +2166,6 @@ Draft {{PH-4: U07-D2-guided-draft}}
 ::: write
 Write a Multi-Part Request Message
 
-
 Write a multi-part request message of **190–220 words**. Your message must include:
 
 - three to four clearly sequenced requests
@@ -2264,7 +2216,6 @@ Before submitting, check that your message:
 ::: rewrite
 Improve Clarity and Flow — Sequencing and Dependencies
 
-
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
 ::: example
@@ -2282,7 +2233,6 @@ Revised Draft {{PH-3: U07-G1-editing-rewrite}}
 
 ::: write
 Layered Request Message — Multi-Part Action
-
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
 
@@ -2323,7 +2273,7 @@ The four units address distinct but related document types. Unit 8 focuses on pr
 
 A key theme across all four units is the relationship between structure and usability: documents in this module are not read for their own sake but to enable action. Learners who complete Module 3 should be able to produce internal documents that a reader can act on without having to seek further clarification.
 
-## Unit 8 — Writing Clear Procedures (Advanced)
+## Unit 8 — Writing Clear Procedures
 
 ### Unit Overview
 
@@ -2340,7 +2290,6 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 ::: notice
 Real Document Analysis — Internal Procedure Notice
 
-
 Read the following internal procedure notice.
 
 ::: example-good
@@ -2350,7 +2299,6 @@ Worked Example
 
 All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
 :::
-
 
 Answer the following questions:
 
@@ -2364,7 +2312,6 @@ Answer the following questions:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -2401,7 +2348,6 @@ The improved version reduces reader error because each step has one clear job, a
 
 ::: notice
 Identify the Writing Pattern
-
 
 Highlight or underline the following features in the improved version:
 
@@ -2442,7 +2388,6 @@ F. *Log the corrected submission in the internal tracking system upon receipt.*
 
 ::: rewrite
 Rewrite Procedural Instructions
-
 
 Procedural instructions are not the same as general explanation. A procedure tells the reader exactly what action to perform, using precise verbs and a stable instruction style, rather than broad descriptive language.
 
@@ -2491,7 +2436,6 @@ Draft {{PH-3: U08-D1-guided-rewrite}}
 
 ::: structure
 Information Reorganisation
-
 
 ::: learn
 Transfer Reminder
@@ -2569,7 +2513,6 @@ Before submitting, check your procedure against the following:
 ::: rewrite
 Editing Workshop — Procedure Draft
 
-
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
 ::: example
@@ -2597,7 +2540,6 @@ Revised Draft {{PH-4: U08-G2-editing-rewrite}}
 
 ::: write
 Scenario-Based Free Write
-
 
 Write a **200–230 word** procedure for an internal or interagency audience. Your procedure must include:
 
@@ -2643,7 +2585,6 @@ This unit develops learners' ability to write clear, well-structured messages th
 ::: write
 Prediction Task — Anticipate Reader Needs
 
-
 Read the following scenario. Before turning to the example text, write down five elements you would expect a well-written change management notice to include.
 
 ::: learn
@@ -2671,7 +2612,6 @@ After reading the example, return to your list and answer:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -2703,7 +2643,6 @@ The improved notice balances three jobs at once: it states the change clearly, e
 ::: notice
 Annotated Example — Match Annotations to Decisions
 
-
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
 
 1. *Opens with a formal signal phrase that prepares the reader for important information. The effective date is included immediately so there is no ambiguity about when to act.*
@@ -2724,7 +2663,6 @@ Reassurance in a change notice should reduce uncertainty without becoming vague.
 ::: rewrite
 Rewrite Change Messages by Function
 
-
 Change messages usually combine three communicative functions: state the change, explain its impact or rationale, and reassure the reader about what to do next. If one of these functions is missing, the message often feels abrupt, incomplete, or difficult to act on.
 
 Rewrite each sentence using a more formal and informative structure. The target language is given in brackets.
@@ -2737,7 +2675,6 @@ Rewrite each sentence using a more formal and informative structure. The target 
 
 ::: rewrite
 Expand Bare Statements with Supporting Detail
-
 
 Each sentence below is a bare statement of fact. Expand each one into 2–3 sentences by adding the missing elements indicated in brackets.
 
@@ -2779,7 +2716,6 @@ Draft {{PH-3: U09-D1-guided-rewrite}}
 
 ::: structure
 Template-Guided Writing — Change Notification
-
 
 ::: learn
 Transfer Reminder
@@ -2867,7 +2803,6 @@ Before submitting, check your notice against the following:
 ::: rewrite
 Editing Workshop — Change Notification Draft
 
-
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
 ::: example
@@ -2896,7 +2831,6 @@ Revised Draft {{PH-4: U09-G2-editing-rewrite}}
 
 ::: write
 Homework Writing Task
-
 
 Write a **200–230 word** change management notice for an internal or interagency audience. Your notice must include:
 
@@ -2943,7 +2877,6 @@ This unit develops learners' ability to explain multi-factor issues clearly and 
 ::: notice
 Identify Communication Issues in an Explanation
 
-
 Read the following explanation.
 
 ::: example
@@ -2964,7 +2897,6 @@ Answer the following questions:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -2997,7 +2929,6 @@ The improved version is easier for a non-specialist reader to process because it
 ::: notice
 Identify the Writing Pattern
 
-
 Highlight or underline the following features in the improved version:
 
 1. The phrase that signals the number of factors
@@ -3018,17 +2949,14 @@ Why is it important to use neutral language when explaining a delay or problem t
 ::: notice
 Match Accessible Explanation Functions and Forms
 
-
 Accessible explanation is not the same as making the issue simpler than it really is. The writer’s job is to control information load by breaking the issue into clear parts, naming each part explicitly, and showing how the parts affect the next stage of work.
 
 Match each sentence (1–6) to its function in a complex explanation (A–D). Some functions may be used more than once.
-
 
 - A. Introducing the number of factors
 - B. Describing a specific factor
 - C. Adding a supporting detail
 - D. Explaining impact or next steps
-
 
 1. *The delay occurred as a result of three interconnected issues.*
 2. *The updated form contains a section that is not compatible with our current processing software.*
@@ -3040,7 +2968,6 @@ Match each sentence (1–6) to its function in a complex explanation (A–D). So
 
 ::: rewrite
 Rewrite Vague Statements as Clear Explanations
-
 
 Simplification should make the message clearer, not thinner. A strong explanation replaces vague statements with specific information and keeps the necessary meaning, instead of removing the detail the reader needs in order to understand the issue.
 
@@ -3085,7 +3012,6 @@ Draft {{PH-3: U10-D1-guided-rewrite}}
 ::: write
 Scenario-Based Writing — Administrative Explanation
 
-
 Write a structured explanation of **100–130 words**. Your explanation must include:
 
 - a clear opening statement naming the issue
@@ -3108,7 +3034,6 @@ Draft {{PH-4: U10-D2-guided-draft}}
 
 ::: write
 Constrained Free Write — Full Explanation
-
 
 Write a complete explanation of **180–210 words**.
 
@@ -3164,7 +3089,6 @@ Before submitting, check your explanation against the following:
 ::: rewrite
 Improve Clarity and Flow — Explanation Structure
 
-
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
 ::: example
@@ -3189,7 +3113,6 @@ Revised Draft {{PH-3: U10-G1-editing-rewrite}}
 
 ::: write
 Multi-Factor Issue Explanation
-
 
 Write a **200–230 word** explanation of a multi-factor issue affecting an interagency process. Your explanation must include:
 
@@ -3236,7 +3159,6 @@ This unit develops learners' ability to write clear, concise, and accurate execu
 ::: notice
 Identify Communication Issues in a Meeting Summary
 
-
 Read the following meeting summary.
 
 ::: example
@@ -3256,7 +3178,6 @@ Answer the following questions:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -3349,7 +3270,6 @@ Rewrite each informal or subjective sentence as a neutral, formal summary statem
 ::: rewrite
 Editing Workshop — Narrative to Executive Summary
 
-
 The paragraph below is written as a narrative account. Rewrite it as a structured executive summary using the four standard sections: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
 Do not add information that is not in the original — focus on reorganising and reformatting what is already there.
@@ -3393,7 +3313,6 @@ Draft {{PH-3: U11-D1-guided-rewrite}}
 
 ::: rewrite
 Format Conversion — Prose to Executive Summary
-
 
 ::: learn
 Transfer Reminder
@@ -3482,7 +3401,6 @@ Before submitting, check your summary against the following:
 ::: rewrite
 Editing Workshop — Executive Summary Draft
 
-
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
 ::: example
@@ -3510,7 +3428,6 @@ Revised Draft {{PH-4: U11-G2-editing-rewrite}}
 
 ::: write
 Template-Guided Writing — Executive-Level Meeting Summary
-
 
 Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
@@ -3570,7 +3487,6 @@ This unit develops learners' ability to write formal, diplomatic external inquir
 ::: notice
 Real Document Analysis — External Inquiry
 
-
 Read the following external inquiry, then answer the questions below.
 
 ::: example
@@ -3602,7 +3518,6 @@ Example Text
 ::: notice
 Compare Tone and Clarity
 
-
 ::: example-bad
 Original Text
 
@@ -3632,7 +3547,6 @@ The improved inquiry helps an external reader because it provides enough backgro
 
 ::: notice
 Deconstruct the External Inquiry Structure
-
 
 External inquiries usually need more explicit reader orientation than internal messages. The reader may not share the same case background, timeline, or internal priorities, so context has to come before detailed questions.
 
@@ -3676,9 +3590,7 @@ Useful expressions:
 ::: notice
 Match Inquiry Expression Functions and Forms
 
-
 Match each expression (1–8) to its function (A–D). Write the letter.
-
 
 1. *We are writing with regard to…*
 2. *Could you confirm whether…?*
@@ -3688,7 +3600,6 @@ Match each expression (1–8) to its function (A–D). Write the letter.
 6. *Would you be able to advise whether…?*
 7. *Once we receive confirmation, we will…*
 8. *We would appreciate your assistance in…*
-
 
 - A — Providing context
 - B — Asking a precise question
@@ -3722,9 +3633,7 @@ Useful structures:
 ::: structure
 Phrase Bank Building
 
-
 The phrases below are drawn from this unit's example texts and Language Focus sections. Organise them into a personal phrase bank under the four headings provided.
-
 
 - *We are writing to confirm…*
 - *Could you confirm whether…?*
@@ -3760,7 +3669,6 @@ This example works because the context identifies the case first, the questions 
 ::: rewrite
 Rewrite the Original Inquiry
 
-
 Rewrite the original text from Section B using:
 
 - clear background context
@@ -3775,7 +3683,6 @@ Draft {{PH-3: U12-D1-guided-rewrite}}
 
 ::: rewrite
 Two-Audience Version Task — External Inquiry
-
 
 ::: learn
 Transfer Reminder
@@ -3802,7 +3709,6 @@ Draft {{PH-4: U12-D4-two-audience-draft}}
 
 ::: write
 Role-Based Writing Task — External Inquiry
-
 
 Write a formal external inquiry of **180–220 words**. Your inquiry must include:
 
@@ -3861,7 +3767,6 @@ Before submitting, check whether your inquiry:
 ::: rewrite
 Editing Workshop — External Inquiry Draft
 
-
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
 ::: example
@@ -3897,7 +3802,6 @@ Draft {{PH-4: U12-H2-real-world-draft}}
 
 ::: write
 Scenario Writing — External Inquiry
-
 
 Write a **220–250 word** external inquiry to an interagency or international partner. Include:
 
@@ -3944,7 +3848,6 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 ::: write
 Prediction Task — Anticipate Reader Needs
 
-
 Read the scenario below. Before you look at any example texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
 ::: learn
@@ -3960,7 +3863,6 @@ Write your predictions. Then, as you work through this unit, compare your list a
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -4090,7 +3992,6 @@ The second version does more than report a problem: it explains the likely conse
 ::: edit
 Find and Fix Errors — Vague and Toned Sentences
 
-
 Each sentence below contains one error: it may be vague, emotionally toned, grammatically imprecise, or poorly structured. Identify the error type, then rewrite the sentence.
 
 1. *The problem is very bad and could cause a lot of trouble for everyone.*
@@ -4120,7 +4021,6 @@ Draft {{PH-3: U13-D1-guided-rewrite}}
 
 ::: write
 Scenario-Based Risk Assessment
-
 
 ::: learn
 Transfer Reminder
@@ -4202,9 +4102,7 @@ Before submitting, check whether your assessment:
 ::: rewrite
 Rewrite Using Conditional and Hedging Structures
 
-
 Risk and impact writing relies heavily on conditional and hedging language to express possibility without overstating certainty.
-
 
 | Structure | Example | Use |
 | --- | --- | --- |
@@ -4234,7 +4132,6 @@ Revised Draft {{PH-3: U13-G1-editing-rewrite}}
 
 ::: write
 Write a Risk and Impact Assessment
-
 
 Write a **200–240 word** risk and impact assessment describing a procedural or operational issue in an administrative context. Include:
 
@@ -4314,7 +4211,6 @@ Discuss:
 ::: notice
 Compare Tone and Clarity
 
-
 ::: example-bad
 Original Text
 
@@ -4344,7 +4240,6 @@ The improved version shows what changes across audiences and what stays stable. 
 
 ::: notice
 Annotated Example — Match Annotations to Decisions
-
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
@@ -4479,7 +4374,6 @@ Examples
 ::: rewrite
 Rewrite for a Non-Expert Reader
 
-
 Rewrite the following paragraph so that it is accessible to a reader who has no prior knowledge of the situation. Add context, audience signals, and a clear explanation of the change.
 
 ::: example
@@ -4507,7 +4401,6 @@ The revised version preserves the core instruction but changes the explanation d
 ::: rewrite
 Rewrite the Original Message
 
-
 Rewrite the original text from Section B using:
 
 - explicit audience signals for at least two groups
@@ -4522,7 +4415,6 @@ Draft {{PH-3: U14-D1-guided-rewrite}}
 
 ::: write
 Two-Audience Version Task — Multi-Audience Notice
-
 
 ::: learn
 Transfer Reminder
@@ -4601,7 +4493,6 @@ Before submitting, check whether your writing:
 ::: rewrite
 Editing Workshop — Multi-Audience Message
 
-
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
 ::: example
@@ -4627,7 +4518,6 @@ Revised Draft {{PH-4: U14-G2-editing-rewrite}}
 
 ::: write
 Homework Writing Task
-
 
 Write a **220–260 word** multi-audience notice for a procedural or policy change. Include:
 
@@ -4667,7 +4557,6 @@ This unit develops learners' ability to write clear, well-reasoned rationales th
 ::: notice
 Real Document Analysis — Internal Policy Proposal
 
-
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
 ::: example
@@ -4693,7 +4582,6 @@ Example Text
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -4799,7 +4687,6 @@ Examples
 ::: rewrite
 Expand Statements with Policy Reference and Reasoning
 
-
 Expand each bare sentence into 2–3 sentences that include a policy reference, reasoning, and a benefit statement.
 
 1. *The term should be changed.*
@@ -4824,7 +4711,6 @@ This example works because it moves from policy reference, to reason, to expecte
 ::: rewrite
 Rewrite the Original Rationale
 
-
 Rewrite the weak original from Section B. Your rationale should include:
 
 - a reference to an existing policy or guideline
@@ -4838,7 +4724,6 @@ Draft {{PH-3: U15-D1-guided-rewrite}}
 
 ::: structure
 Template-Guided Writing — Policy-Aligned Rationale
-
 
 Use the structure below to draft a policy-aligned rationale for one of the following recommendations:
 
@@ -4948,7 +4833,6 @@ Draft {{PH-3: U15-G3-decision-notes}}
 ::: write
 Policy-Aligned Rationale
 
-
 Write a **220–260 word** policy-aligned rationale supporting an administrative or procedural change. Include:
 
 - a clear recommendation
@@ -5006,13 +4890,11 @@ This unit develops learners' ability to write balanced, objective evaluations of
 ::: notice
 Classify Evaluation Statements
 
-
 Below are eight evaluation statements. Sort each one into the correct column.
 
 | Balanced & Professional | Unbalanced or Unprofessional |
 | --- | --- |
 |  |  |
-
 
 1. *The document fails to address several key points and is poorly written.*
 2. *Section 3 provides clearer guidance than the previous version, though some definitions remain ambiguous.*
@@ -5034,7 +4916,6 @@ What distinguishes the language in the professional column from the language in 
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -5082,9 +4963,7 @@ The improved evaluation is more credible because it separates observation from j
 ::: notice
 Annotated Example — Match Annotation Labels to Text
 
-
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
-
 
 - a. *Opens with an overall impression without committing to a simple positive or negative verdict*
 - b. *Uses criterion-based language — "in terms of" / "in Section X"*
@@ -5105,7 +4984,6 @@ Why is providing at least one genuine strength essential in formal evaluations �
 
 ::: learn
 Sentence Rewriting — Objective, Neutral Language
-
 
 Objective evaluation language is evidence-based, criterion-based, and proportionate. It describes what the document does well or badly in relation to clarity, structure, consistency, or usability, rather than reacting to it with personal approval or frustration.
 
@@ -5128,7 +5006,6 @@ Useful Language
 ::: rewrite
 Rewrite Sentences Using Neutral, Professional Language
 
-
 1. *This part is terrible.*
 2. *The writer obviously didn't think about clarity.*
 3. *The whole section needs to be redone.*
@@ -5138,7 +5015,6 @@ Rewrite Sentences Using Neutral, Professional Language
 
 ::: edit
 Find and Fix Overclaiming Errors
-
 
 Overclaiming sounds certain without enough evidence. Strong evaluation writing is more cautious: it makes room for partial success, localised weaknesses, and improvement needs without turning every weakness into a total verdict.
 
@@ -5197,7 +5073,6 @@ If you do not have your Unit 15 writing, use this short alternative text instead
 *The revised terminology guide is useful in some respects, but several parts are not very good and may confuse readers. Some sections are clearer than before, but other parts still need a lot of work. The examples are helpful, although the ordering is not always logical. Overall, the document should probably be improved before it is shared more widely.*
 
 Using the skills from this unit, revise your text. Apply the following checklist:
-
 
 - Replace any subjective or emotional language with neutral alternatives
 - Add at least one explicit criterion (e.g., *in terms of clarity*, *regarding consistency*)
@@ -5297,7 +5172,6 @@ Draft {{PH-3: U16-G3-decision-notes}}
 ::: write
 Two-Audience Version Task — Balanced Evaluation
 
-
 Write a **220–260 word** balanced evaluation of a document or process relevant to your work. Your evaluation must include:
 
 - an overall assessment
@@ -5334,7 +5208,6 @@ Executive briefs summarise complex issues for decision-makers who require clarit
 ::: write
 Prediction Task — Anticipate Reader Needs
 
-
 You are about to read an executive brief on a coordination issue between three regional offices. Before reading, predict:
 
 1. What information will appear at the beginning of the brief?
@@ -5348,7 +5221,6 @@ Write your predictions, then compare with a partner after completing Section B.
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -5420,7 +5292,6 @@ Write three Key Points that an executive would need in order to understand and a
 ::: learn
 Sentence Rewriting — Clear Overviews and Key Points
 
-
 An overview is not a compressed detail list. Its job is to frame the issue at a high level so that the following key points can be read as evidence for the main decision problem.
 
 ::: learn
@@ -5450,7 +5321,6 @@ Useful Language
 ::: rewrite
 Rewrite Sentences for an Executive Audience
 
-
 1. *We talked about problems in the process.*
 2. *Many people mentioned various issues about the form and some people didn't understand the changes, so they talked about many parts for a long time.*
 3. *There have been quite a few issues with delays lately and it's becoming a bigger problem.*
@@ -5460,7 +5330,6 @@ Rewrite Sentences for an Executive Audience
 
 ::: rewrite
 Editing Workshop — Meeting Summary to Executive Brief
-
 
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
@@ -5503,7 +5372,6 @@ Draft {{PH-3: U17-D1-guided-rewrite}}
 
 ::: rewrite
 Format Conversion — Prose to Executive Brief
-
 
 ::: learn
 Transfer Reminder
@@ -5584,7 +5452,6 @@ Self-Editing Checklist
 ::: rewrite
 Editing Workshop — Executive Brief Draft
 
-
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
 ::: example
@@ -5604,7 +5471,6 @@ Revised Draft {{PH-4: U17-G2-editing-rewrite}}
 
 ::: write
 Role-Based Writing Task — Executive Brief
-
 
 Write a **200–240 word** executive brief. Your brief must include:
 
@@ -5649,7 +5515,6 @@ This unit develops learners' ability to combine information from several documen
 ::: notice
 Real Document Analysis — Multi-Source Extracts
 
-
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
 **Source 1 — Email from Office A (14 March)**
@@ -5676,7 +5541,6 @@ Example Text
 *"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."*
 :::
 
-
 1. What themes appear across all three sources?
 2. What does each source add that the others do not?
 3. If you were writing a synthesis for a senior manager, what would the main point of your opening sentence be?
@@ -5686,7 +5550,6 @@ Example Text
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -5737,7 +5600,6 @@ Keep this paragraph. You will return to it in Section D2 and revise it, so do no
 ::: learn
 Sentence Rewriting — Grouping Information and Showing Relationships
 
-
 Grouping by theme is different from listing by source. A source-by-source paragraph keeps switching the reader’s attention from document to document; a synthesis paragraph reorganises the material around the issues that matter most.
 
 ::: learn
@@ -5774,7 +5636,6 @@ Patterns
 ::: rewrite
 Rewrite as Thematic, Synthesised Sentences
 
-
 1. *Office A says instructions are unclear. Office C also says instructions are unclear.*
 2. *Office A says the timeline is fine. Office B says it is too short.*
 3. *Three offices reported delays.*
@@ -5785,9 +5646,7 @@ Rewrite as Thematic, Synthesised Sentences
 ::: structure
 Phrase Bank Building
 
-
 Below are twelve phrases drawn from the example text and language focus. Organise them into a personal phrase bank under the four headings provided.
-
 
 - *Across the sources…*
 - *While Offices A and C noted…*
@@ -5919,7 +5778,6 @@ Self-Editing Checklist
 ::: rewrite
 Editing Workshop — Synthesis Draft
 
-
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
 ::: example
@@ -5953,7 +5811,6 @@ Draft {{PH-4: U18-H2-real-world-draft}}
 
 ::: write
 Homework Writing Task
-
 
 Write a **220–260 word** synthesis combining information from three or more sources. Your synthesis must include:
 
@@ -6057,7 +5914,6 @@ Aim for 60–80 words. You will compare your version with the example text in th
 ::: notice
 Compare Tone and Clarity
 
-
 ::: example-bad
 Original Text
 
@@ -6109,7 +5965,6 @@ Examples
 ::: rewrite
 Simplify Technical References
 
-
 Rewrite each sentence to remove or replace technical references.
 
 1. *"Section 7(3) mandates procedural harmonisation in respect of applicant submissions across all member offices."*
@@ -6153,7 +6008,6 @@ The second version keeps the core requirement but explains it in terms a general
 ::: rewrite
 Add a Purpose Statement to Each Policy Change
 
-
 Each sentence describes a policy change. Add a sentence explaining its purpose or likely impact.
 
 1. *A new reporting requirement has been introduced for all partner offices.*
@@ -6188,7 +6042,6 @@ Useful expressions:
 ::: rewrite
 Rewrite to Include the Required Action
 
-
 Rewrite each sentence so the required action is clear and direct.
 
 1. *"The guidelines have been revised."*
@@ -6216,7 +6069,6 @@ Draft {{PH-3: U19-D1-guided-rewrite}}
 
 ::: rewrite
 Format Conversion — Prose to Plain-Language Policy
-
 
 ::: learn
 Transfer Reminder
@@ -6247,7 +6099,6 @@ Draft {{PH-4: U19-D7-format-conversion}}
 
 ::: write
 Role-Based Writing Task — Plain-Language Policy
-
 
 ::: learn
 Role Reminder
@@ -6316,7 +6167,6 @@ Before submitting, check your own writing against the following:
 ::: rewrite
 Editing Workshop — Plain-Language Policy Draft
 
-
 The paragraph below was written for a general staff audience but contains several problems. Identify all the issues, then rewrite the paragraph as a clear, accessible plain-language summary.
 
 ::: example
@@ -6341,7 +6191,6 @@ Revised Draft {{PH-4: U19-G2-editing-rewrite}}
 
 ::: write
 Plain-Language Policy Summary
-
 
 Write a **280–320 word** plain-language policy summary for a non-expert internal or interagency audience. Choose one:
 
@@ -6387,7 +6236,6 @@ This unit develops learners' ability to write concise, logically structured just
 ::: notice
 Identify Communication Issues in a Justification
 
-
 Read the following attempt at a justification.
 
 ::: example
@@ -6407,7 +6255,6 @@ Discuss:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -6464,7 +6311,6 @@ Useful expressions:
 ::: rewrite
 Rewrite the Decision Statement for Clarity
 
-
 Rewrite each sentence to make the decision clear and direct.
 
 1. *"We are thinking about changing the guideline."*
@@ -6498,7 +6344,6 @@ Useful patterns:
 
 ::: rewrite
 Strengthen the Rationale with Policy Grounding
-
 
 Rewrite each sentence to add a clear, policy-grounded rationale.
 
@@ -6534,7 +6379,6 @@ Useful expressions:
 ::: rewrite
 Add a Benefit Statement to Each Justification
 
-
 Add a sentence describing the expected benefit.
 
 1. *"The instructions have been updated."*
@@ -6563,7 +6407,6 @@ Patterns
 ::: structure
 Organise the Justification
 
-
 The sentences below form a complete justification but are in the wrong order. Arrange them into a logical paragraph and make any small adjustments needed for flow.
 
 A. *"This will support cross-office consistency and reduce the risk of processing delays."*
@@ -6591,7 +6434,6 @@ The second version works because it moves from decision, to rationale, to benefi
 ::: rewrite
 Rewrite the Original Justification
 
-
 Using the improved example from Section B as your guide, rewrite the original vague justification in your own words. Your version must include:
 
 - a clear decision statement
@@ -6606,7 +6448,6 @@ Draft {{PH-3: U20-D1-guided-rewrite}}
 
 ::: write
 Draft a Justification for a Scenario
-
 
 ::: learn
 Transfer Reminder
@@ -6685,7 +6526,6 @@ Before submitting, check your own writing against the following:
 ::: rewrite
 Editing Workshop — Justification Draft
 
-
 The paragraph below is a poor justification for an administrative decision. Identify all the problems, then rewrite it as a concise, policy-aligned justification.
 
 ::: example
@@ -6710,7 +6550,6 @@ Revised Draft {{PH-4: U20-G2-editing-rewrite}}
 
 ::: write
 Scenario Writing — Concise Justification
-
 
 Write a **230–270 word** concise justification for an administrative or interagency decision. Choose one:
 
@@ -6756,7 +6595,6 @@ This unit trains learners to integrate information from multiple sources into a 
 ::: notice
 Real Document Analysis — Internal Coordination Report
 
-
 The following extract is taken from an internal coordination report.
 
 ::: example
@@ -6776,7 +6614,6 @@ Discuss:
 
 ::: notice
 Compare Tone and Clarity
-
 
 ::: example-bad
 Original Text
@@ -6822,7 +6659,6 @@ The improved report is easier to use because it groups information by reporting 
 
 ::: notice
 Deconstruct the Consolidated Report Structure
-
 
 Each section in a consolidated report performs a different job. Predictable sectioning reduces reader effort because the reader does not have to work out whether a sentence is reporting an issue, an action already taken, or a next step still to come.
 
@@ -6897,7 +6733,6 @@ Useful structures:
 ::: rewrite
 Write the Opening Sentence
 
-
 Write an appropriate opening sentence for each situation.
 
 1. A report consolidating feedback from three regional offices on a new procedural requirement
@@ -6932,7 +6767,6 @@ Useful phrasing:
 ::: rewrite
 Rewrite for Clarity and Neutrality
 
-
 Rewrite each item to make it a clear, neutral issue description suitable for an administrative report.
 
 1. *"Some offices don't understand the new instructions."*
@@ -6963,7 +6797,6 @@ Useful structures:
 
 ::: rewrite
 Clarify the Action Taken
-
 
 Rewrite each item as a specific, clearly documented action taken.
 
@@ -6999,7 +6832,6 @@ Useful patterns:
 ::: rewrite
 Add a Next-Step Statement
 
-
 Rewrite each item to include a clear, time-bound next step.
 
 1. *"Some issues still need attention."*
@@ -7012,7 +6844,6 @@ Rewrite each item to include a clear, time-bound next step.
 
 ::: rewrite
 Rewrite the Original Report
-
 
 Using the improved example as your guide, rewrite the original vague text from Section B. Your version must use the standard five-section structure:
 
@@ -7029,7 +6860,6 @@ Draft {{PH-3: U21-D1-guided-rewrite}}
 
 ::: structure
 Information Reorganisation — Office Updates
-
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
 
@@ -7048,7 +6878,6 @@ Draft {{PH-4: U21-D5-reorganised-version}}
 
 ::: rewrite
 Format Conversion — Prose to Consolidated Report
-
 
 ::: learn
 Transfer Reminder
@@ -7141,7 +6970,6 @@ Before submitting, check your own writing against the following:
 ::: rewrite
 Editing Workshop — Consolidated Report Draft
 
-
 The paragraph below is an attempt at a consolidated report. It contains multiple problems. Identify all the issues, then rewrite it as a structured, professional consolidated report.
 
 ::: example
@@ -7167,7 +6995,6 @@ Revised Draft {{PH-4: U21-G2-editing-rewrite}}
 
 ::: write
 Write a Consolidated Administrative Report
-
 
 Write a **270–310 word** consolidated administrative report. Choose one scenario:
 
@@ -7207,7 +7034,6 @@ This unit brings together all the major writing skills developed in Units 1–21
 
 ::: notice
 Prediction Task — Anticipate the Document Type
-
 
 Read the four input items below. Before reading further, predict: what type of administrative document would you need to produce, and what would it need to include?
 
@@ -7278,7 +7104,6 @@ Revised Text
 
 ::: notice
 Compare Tone and Clarity — Integrated vs Single-Input Response
-
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
@@ -7484,7 +7309,6 @@ Draft {{PH-4: U22-G3-clean-copy}}
 ::: write
 Real-World Task — Write an Integrated Response
 
-
 Using the scenario package from this unit (the four inputs in Section A), write a **300–340 word** integrated administrative document. Choose the format that best fits the purpose: a notice for all offices, a briefing for your supervisor, or a consolidation report.
 
 Your document must:
@@ -7585,7 +7409,6 @@ Response B succeeds because it integrates multiple course-level skills at once: 
 
 ::: edit
 Error Identification — Self-Diagnosis for Integrated Writing
-
 
 These sentence-level problems are signals of larger writing issues: weak synthesis, vague tone, unclear structure, missing action logic, and under-specified recommendations. The purpose of this task is to help you recognise those broader patterns in your own writing.
 
@@ -7742,7 +7565,6 @@ Draft {{PH-4: U23-G3-clean-copy}}
 
 ::: write
 Homework Writing Task
-
 
 Using the capstone scenario from this unit, write a **300–350 word** capstone administrative document. Choose the format that best represents your full range of writing ability.
 

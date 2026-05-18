@@ -78,3 +78,9 @@ timestamp_iso,workspace_root,scope,file_path,reason
 "2026-05-14T10:53:52+09:00","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing","project","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing\user-learning-mirror.md","startup read"
 "2026-05-14T10:53:52+09:00","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing","project","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing\project-learning.md","startup read"
 "2026-05-14T10:53:52+09:00","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing","project","//prod-fs-gen01/workfile/04_在宅勤務/★グローバルビジネス推進部（在宅）/ランゲージサービス課/Dobson（在宅）/04. Projects/code/book_administrative-writing\project-journal.md","startup read recent entries"
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,user,C:\Users\daved\.codex\AGENTS.md,startup
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\AGENTS.md,startup
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,user,C:\Users\daved\.codex\memories\user-learning.md,startup
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\user-learning-mirror.md,startup
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-learning.md,startup
+2026-05-19T00:44:31+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-journal.md,startup

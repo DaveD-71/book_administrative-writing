@@ -1640,3 +1640,23 @@ Historical note:
 - Updated `adv/README-build.md`, `adv/md/README.md`, and `project-learning.md` to reflect the new paths.
 - Textmaker Python scripts are path-agnostic (CLI arguments only) — no script changes required.
 
+## 2026-05-19 (session 11 — div spacing cleanup, pipeline rebuild, intermediate pipeline plan)
+
+### Source markdown fixes (`adv/md/working/aw-adv-all_0516.md`)
+
+- Stripped ~186 extra blank lines from inside div open fences throughout the file (blank lines immediately after `:::` open with no content before them). Pandoc spacing cleanup — these were harmless but inconsistent with the established source standard.
+
+### Build
+
+- Rebuilt `adv/md/working/aw-adv-all_0518.docx` with the updated textmaker pipeline (session 11 inline icon approach, refined example block styling, table style copy from reference DOCX).
+- Session ended mid-process after a VS Code reload was required to pick up a corrected `textmaker` PATH entry. Build output is present but not yet verified as final.
+
+### Intermediate pipeline plan
+
+- Added `int/edits & guides/pipeline-alignment-action-list.md` — 14-task plan for bringing the Intermediate book through the same DOCX conversion pipeline as the Advanced book. All tasks currently pending. Dave has noted that each task needs expanded detail: goal, lessons from the Advanced pipeline, how to avoid those issues, and completion requirements. Both books also need student answer keys (target: this week).
+
+### Other
+
+- Added `.claude/` to `.gitignore` (Claude Code worktree folder).
+- Saved reference DOCX backups to `adv/md/bak/`.
+
