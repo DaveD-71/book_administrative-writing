@@ -59,18 +59,15 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 | 2 | It is requested that you will kindly send, as soon as it is convenient, the missing form. | Please send the missing form as soon as possible. |
 | 3 | The application which was submitted by the applicant last week has some missing information. | The application submitted last week has some missing information. |
 
-**Discussion:** Why are the (b) sentences easier to read?
+**Discussion:** Which sentences are easier to read, and why?
 :::
 
 ::: learn
 Quick Check for a Clear Sentence
 
 - Put the main subject near the beginning.
-
 - Use one clear main verb.
-
 - Put the most important information in the main sentence, not in a long extra phrase.
-
 - Remove words that do not change the meaning.
 :::
 
@@ -114,13 +111,9 @@ Most clear administrative English sentences follow this simple pattern:
 Examples:
 
 - **We** (S) **received** (V) **your application** (O).
-
 - **The applicant** (S) **submitted** (V) **the missing form** (O).
-
 - **Our office** (S) **is located in** (V) **Tokyo** (C).
-
 - **The system** (S) **is** (V) **busy** (C).
-
 - **The documents** (S) **are** (V) **ready** (C).
 :::
 
@@ -131,13 +124,9 @@ Practice: Identify the Parts
 Identify the parts of each sentence: **underline** the subject, **circle** the verb, and **highlight** the object or complement.
 
 1. Our office received your email yesterday.
-
 2. The applicant submitted the additional documents.
-
 3. We will check the application today.
-
 4. The system shows an error message.
-
 5. The examiner requested more information.
 :::
 
@@ -148,13 +137,9 @@ Practice: Build Clear Sentences
 Rewrite the word groups as clear SVO or SVC sentences.
 
 1. application / our office / receive / yesterday
-
 2. examiner / request / more information
-
 3. we / send / confirmation email / tomorrow
-
 4. applicant / not / submit / fee / yet
-
 5. system / show / error message / this morning
 :::
 
@@ -172,9 +157,7 @@ Administrative English should be **short, direct, and clear**.
 Three common ways to simplify a sentence:
 
 1. change long formal openings to direct verbs
-
 2. cut extra explanation that the reader does not need
-
 3. move the main action closer to the subject
 :::
 
@@ -268,9 +251,7 @@ Write a short message to the applicant in **3-4 clear sentences**.
 Include:
 
 - the problem
-
 - what the applicant needs to send
-
 - the deadline
 
 Before you draft, decide which sentence will do each job:
@@ -354,9 +335,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. What was difficult for you in this unit?
-
 2. Which point do you want to remember when you write emails at work?
-
 3. Choose one clear sentence you wrote today and rewrite it here.
 :::
 
@@ -410,16 +389,14 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 | 2 | I don't understand this. Explain it. | I'm not sure I understand this part. Could you explain it? |
 | 3 | What do you want me to do? | Could you let me know what I should do next? |
 
-**Discussion:** Why do the (b) sentences sound more professional?
+**Discussion:** Which sentences sound more professional, and why?
 :::
 
 ::: learn
 Professional Tone Usually Does Three Things
 
 - sounds polite, not demanding
-
 - explains the situation clearly
-
 - focuses on the task, not on blame or emotion
 :::
 
@@ -452,13 +429,9 @@ Administrative emails often use **softened, polite expressions**.
 Useful Phrases for Requests
 
 - Could you please...?
-
 - Would it be possible to...?
-
 - Could you let me know...?
-
 - I would appreciate it if you could...
-
 - Please let me know if...
 :::
 
@@ -493,17 +466,13 @@ Professional Tone in Explanations
 Professional tone is:
 
 - **Clear** (not too long or complicated)
-
 - **Neutral** (not emotional)
-
 - **Respectful** (polite and calm)
 
 When you check tone, ask:
 
 1. Does this sound calm?
-
 2. Does it tell the reader what they need to know?
-
 3. Would I be comfortable sending this at work?
 :::
 
@@ -554,25 +523,19 @@ You can use these phrases to make your tone more appropriate:
 **Giving Information**
 
 - I would like to inform you that...
-
 - Please note that...
-
 - I would like to confirm that...
 
 **Asking for Clarification**
 
 - Could you clarify...?
-
 - I have one question regarding...
-
 - I'm not sure I understand...
 
 **Referring to Previous Communication**
 
 - As mentioned in my previous email,...
-
 - As discussed,...
-
 - Thank you for your message regarding...
 :::
 
@@ -638,9 +601,7 @@ C. Write to a colleague to ask for clarification about one part of an applicatio
 Include:
 
 - a clear opening
-
 - one polite request or clarification question
-
 - a professional closing line
 :::
 
@@ -704,9 +665,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. Which polite expression do you want to remember?
-
 2. What tone problems do you want to avoid in your emails?
-
 3. Write one example of a polite request you can use at work.
 :::
 
@@ -730,7 +689,6 @@ Homework Task
 Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
 
 - What part sounded polite or not polite?
-
 - How would you rewrite it in a more professional way?
 
 If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
@@ -761,25 +719,19 @@ A **paragraph** is a group of sentences about **one main idea**. All sentences i
 You can think of a paragraph as answering one simple question such as:
 
 - What happened?
-
 - What is the problem?
-
 - What happens next?
 
 **A paragraph should**
 
 - Have **one clear topic**
-
 - Contain **supporting information** about that topic
-
 - Include a **closing sentence** or a final point
 
 **A paragraph is NOT**
 
 - A list of unrelated sentences
-
 - A collection of short, disconnected statements
-
 - A single sentence (except in special cases)
 :::
 
@@ -791,19 +743,14 @@ When to Start a New Paragraph
 Start a new paragraph when:
 
 - The **topic changes**
-
 - The **purpose** of the message changes
-
 - You move from **background** to **action**, or **reason** to **result**
-
 - You begin addressing a **different reader** (less common in administrative writing)
 
 **Examples of paragraph breaks**
 
 1. Explaining the background ->Asking for an action
-
 2. Describing an issue ->Giving details ->Explaining next steps
-
 3. Summarising a problem ->Reporting what you did ->What will happen next
 :::
 
@@ -822,7 +769,7 @@ We reviewed the updated guidelines yesterday. During the review, we found severa
 
 We reviewed the updated guidelines yesterday. The office renovation will begin next month. Several sections in the document were unclear. Our team attended a training session last week.
 
-**Discussion:** Why is Paragraph A better?
+**Discussion:** Which paragraph is better organised, and why?
 :::
 
 ### B. Example Check
@@ -862,9 +809,7 @@ Three-Part Paragraph Structure
 A strong paragraph usually includes:
 
 1. **Topic sentence** - the main idea of the paragraph
-
 2. **Supporting sentences** - details, reasons, or examples
-
 3. **Closing sentence** - summary, result, or next step
 :::
 
@@ -885,17 +830,13 @@ Identify the Parts
 Label each sentence:
 
 - **T** = Topic sentence
-
 - **S** = Supporting detail
-
 - **C** = Closing sentence
 
 **Paragraph 1**
 
 1. We processed your request this morning.
-
 2. However, the attached form was incomplete.
-
 3. This information forms part of the initial review before we proceed to later steps.
 
 Your labels:
@@ -906,9 +847,7 @@ Your labels:
 **Paragraph 2**
 
 1. The system was updated last night.
-
 2. Some users reported error messages after the update.
-
 3. These observations will be included in the technical report that follows.
 
 Your labels:
@@ -925,17 +864,13 @@ Logical Flow Inside a Paragraph
 A paragraph should follow a clear, logical order:
 
 - Background ->Details ->Result
-
 - Topic ->Explanation ->Action
-
 - Issue ->Impact ->What happens next
 
 Before you write, make a short paragraph plan:
 
 1. What is my main point?
-
 2. What detail or explanation does the reader need?
-
 3. How will I close the paragraph?
 :::
 
@@ -1090,9 +1025,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. What is one thing you learned about paragraph structure?
-
 2. When do you think you should start a new paragraph?
-
 3. Which part (topic, support, closing) do you find most difficult?
 :::
 
@@ -1228,11 +1161,9 @@ Improve it in three steps.
 1. Sentence control:
    - Split the long sentence into smaller parts.
    - Keep one main message in each sentence.
-
 2. Tone control:
    - Change any wording that sounds too sudden or forceful.
    - Keep the request polite and professional.
-
 3. Paragraph control:
    - Decide which sentence should come first.
    - End with a clear next action for the reader.
@@ -1336,15 +1267,10 @@ A professional email has a **clear structure** so that the reader can easily und
 **Basic Email Layout**
 
 1. **Subject line** - a short summary of the purpose
-
 2. **Greeting** - polite opening
-
 3. **Opening sentence** - main purpose of the email
-
 4. **Body** - details, explanation, or information
-
 5. **Closing sentence** - final point or next step (not a command)
-
 6. **Sign-off** - polite closing phrase + name
 :::
 
@@ -1384,17 +1310,14 @@ Could you clarify the purpose of Section 3?
 Thank you,
 :::
 
-**Discussion:** Why is Email B more professional?
+**Discussion:** Which email is more professional, and why?
 
 ::: learn
 Quick Email Check
 
 - Does the subject line show the topic clearly?
-
 - Does the first sentence tell the reader why you are writing?
-
 - Does the body give the needed detail or question?
-
 - Does the closing sound polite and professional?
 :::
 
@@ -1434,19 +1357,14 @@ Subject Lines
 A good subject line is:
 
 - Short
-
 - Clear
-
 - Specific
 
 **Examples of Clear Subject Lines**
 
 - Question About Document Requirements
-
 - Information Needed for Application Review
-
 - Update on Internal Procedure
-
 - Request for Corrected File
 :::
 
@@ -1471,11 +1389,8 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 **Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
 
 - Application Form Question
-
 - Missing Form Submission Timing
-
 - Online System Issue
-
 - Confirmation Notice Status
 :::
 
@@ -1491,21 +1406,15 @@ Email Openings and Closings
 **Common Openings**
 
 - Dear Mr./Ms. [Name],
-
 - Dear Team,
-
 - Thank you for your email.
-
 - I hope you are well.
 
 **Common Closings**
 
 - Thank you.
-
 - Kind regards,
-
 - Best regards,
-
 - Please let me know if you need further information.
 :::
 
@@ -1516,21 +1425,13 @@ Practice: Choose an Opening and Closing
 Select an appropriate opening and closing for each situation.
 
 1. You are writing to a colleague about an internal document.
-
    - Opening:
-
    - Closing:
-
 2. You are writing to an applicant.
-
    - Opening:
-
    - Closing:
-
 3. You are writing to a foreign office.
-
    - Opening:
-
    - Closing:
 :::
 
@@ -1547,11 +1448,8 @@ The first sentence must tell the reader **why you are writing**.
 Useful Phrases
 
 - I am writing to ask about...
-
 - I would like to confirm...
-
 - I have a question regarding...
-
 - I would like to provide an update about...
 :::
 
@@ -1601,15 +1499,10 @@ Use the prompts to write a simple, clear email.
 Write your email:
 
 - **Subject line:**
-
 - **Greeting:**
-
 - **Opening sentence:**
-
 - **Body (2-3 sentences):**
-
 - **Closing sentence:**
-
 - **Sign-off:**
 :::
 
@@ -1649,13 +1542,9 @@ C. Write to a colleague or partner office to ask one clear question about a subm
 Include:
 
 - a clear subject line
-
 - a greeting
-
 - one opening sentence that explains your purpose
-
 - a short body
-
 - a closing sentence and sign-off
 
 Write your email:
@@ -1721,9 +1610,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. Which part of the email is easiest for you?
-
 2. Which part is most difficult?
-
 3. Which new phrase do you want to use in real emails?
 :::
 
@@ -1762,11 +1649,8 @@ What Is Unclear?
 Read the sentences below. Identify what is **unclear** or **missing**.
 
 1. "The document is not correct."
-
 2. "Please check it again."
-
 3. "We need information about the form."
-
 4. "The deadline has changed."
 
 Write what you would need to know:
@@ -1780,9 +1664,7 @@ Write what you would need to know:
 A Strong Clarification Question
 
 - names the exact part that is unclear
-
 - asks for one specific piece of information
-
 - stays polite and neutral
 :::
 
@@ -1814,13 +1696,9 @@ Use these phrases when the information is not clear.
 Asking for Clarification
 
 - Could you clarify...?
-
 - Could you explain...?
-
 - I'm not sure I understand...
-
 - Could you give me more information about...?
-
 - I have a question regarding...
 :::
 
@@ -1829,9 +1707,7 @@ Asking for Clarification
 Checking Your Understanding
 
 - Do you mean that...?
-
 - Just to confirm,...
-
 - Should I understand that...?
 :::
 
@@ -1876,11 +1752,8 @@ Each stronger question should show:
 Common Situations
 
 - The instructions are unclear.
-
 - A document is missing or incomplete.
-
 - Two versions of a document do not match.
-
 - A process or requirement is not explained.
 :::
 
@@ -1889,11 +1762,8 @@ Common Situations
 Example Clarification Questions
 
 - Could you clarify which version of the form we should use?
-
 - Could you explain what information is needed in Section 4?
-
 - I'm not sure I understand the deadline: does it mean Friday or Monday?
-
 - Could you confirm whether the applicant needs to submit this document now or later?
 :::
 
@@ -2000,15 +1870,10 @@ Write an email asking for clarification.
 Write your email:
 
 - **Subject:**
-
 - **Greeting:**
-
 - **Opening sentence:**
-
 - **Clarification question(s):**
-
 - **Closing sentence:**
-
 - **Sign-off:**
 :::
 
@@ -2110,11 +1975,8 @@ Write one **informational paragraph** (5-6 sentences) explaining a situation whe
 Your paragraph should:
 
 - Describe the background
-
 - Explain why clarification is necessary
-
 - Identify what information is missing
-
 - Lead into next steps in a neutral way
 
 Useful paragraph order:
@@ -2147,9 +2009,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. Which clarification phrase is most useful for you?
-
 2. Do you find it difficult to ask questions politely? Why or why not?
-
 3. Write one clarification question you can use in your work.
 :::
 
@@ -2188,11 +2048,8 @@ What Information Is Missing?
 Read each message and identify what information a reader would still need.
 
 1. "The review will be delayed."
-
 2. "The schedule has changed."
-
 3. "We cannot finish this today."
-
 4. "The system will be updated."
 
 Write what is missing:
@@ -2206,11 +2063,8 @@ Write what is missing:
 A Useful Update Answers Four Questions
 
 1. What changed?
-
 2. Why did it change?
-
 3. What does this mean for the reader?
-
 4. What happens next?
 :::
 
@@ -2241,33 +2095,23 @@ Useful Phrases for Delays and Changes
 **Neutral Phrases**
 
 - There will be a delay in...
-
 - The schedule has been adjusted.
-
 - The process will take longer than expected.
-
 - There has been a change in...
-
 - The update will affect...
 
 **Explaining the Reason (Optional in admin English)**
 
 - due to additional checks
-
 - because further review is required
-
 - because the system is under maintenance
-
 - due to missing information
 
 **Giving Neutral Information About Next Steps**
 
 - The next update will be provided when available.
-
 - Further details will follow.
-
 - The review will continue once all materials are ready.
-
 - The new schedule will be shared shortly.
 :::
 
@@ -2313,11 +2157,8 @@ Logical Order for Update Messages
 A clear update message usually follows this pattern:
 
 1. **Topic:** What is delayed or changed
-
 2. **Reason:** Why (optional)
-
 3. **Effect:** What this means for the reader
-
 4. **Next step / What will happen later:** Neutral, not a request
 :::
 
@@ -2399,15 +2240,10 @@ Write a clear and neutral email explaining a delay or change.
 Write your email:
 
 - **Subject:**
-
 - **Greeting:**
-
 - **Opening sentence:**
-
 - **Explanation (2-3 sentences):**
-
 - **Neutral next step:**
-
 - **Sign-off:**
 :::
 
@@ -2449,9 +2285,7 @@ D. Write to meeting participants about a rescheduled meeting because the updated
 In each email, include:
 
 - the change or delay
-
 - a short reason or background sentence if needed
-
 - the effect or next step
 
 Write your emails:
@@ -2521,11 +2355,8 @@ Write a paragraph (5-6 sentences) summarising a delay or change as part of a rep
 Your paragraph should:
 
 - Describe the change or delay
-
 - Provide background
-
 - Explain the effect
-
 - Lead into the next section of the report (no requests)
 
 Write your paragraph:
@@ -2540,9 +2371,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. What phrases do you find most useful for explaining delays or changes?
-
 2. Is it difficult for you to give neutral explanations without sounding too direct?
-
 3. Which part of this unit was easiest or hardest for you?
 :::
 
@@ -2586,18 +2415,15 @@ Read each pair. Choose the request that sounds more professional.
 | 2 | Tell me the deadline. | Could you let me know the deadline? |
 | 3 | I need the applicant's number. | Could you provide the applicant's number? |
 
-**Discussion:** What makes the (b) sentences more polite?
+**Discussion:** Which sentences are more polite, and what makes them that way?
 :::
 
 ::: learn
 Quick Rule for Polite Requests
 
 - choose a polite request form
-
 - say exactly what you need
-
 - add one short reason if it helps the reader
-
 - close without pressure
 :::
 
@@ -2623,9 +2449,7 @@ The stronger version works because it:
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
 - your relationship with the reader
-
 - the importance or urgency of the request
-
 - the formality of the situation
 
 
@@ -2654,11 +2478,8 @@ Politeness Scale (From Direct to Most Polite)
 Key Notes
 
 - **`Can you...?` is grammatically correct but **not appropriate** in most administrative emails.
-
 - **`Could you...?` is the safest default.
-
 - **`Would you be able to...?` softens the request and reduces pressure.
-
 - **`I would appreciate it if...` shows gratitude in advance and sounds formal.
 :::
 
@@ -2669,9 +2490,7 @@ Adding Context (Why You Need the Information)
 Often a request is clearer when you add **one short context sentence**.
 
 - We need this for the next review stage.
-
 - This information is required for the submission.
-
 - This will help us complete the process.
 :::
 
@@ -2694,7 +2513,6 @@ Mini request frame:
 - exact document or information
 - timing
 - short reason
-
 1. "Send the updated file."
    ->
 
@@ -2720,17 +2538,13 @@ Requests with Specific Details
 A good request includes:
 
 1. What you need
-
 2. Any necessary details
-
 3. A polite expression
 
 **Examples**
 
 - Could you please send **the updated version of Form A**?
-
 - Could you let me know **which office will handle the review**?
-
 - I would appreciate it if you could confirm **the applicant's submission date**.
 :::
 
@@ -2776,9 +2590,7 @@ Avoiding Pressure in Requests
 Administrative English avoids:
 
 - Imperatives (Send, Tell, Check...)
-
 - Emotional language (I really need..., You didn't..., You must...)
-
 - Pressure (ASAP, immediately)
 :::
 
@@ -2787,9 +2599,7 @@ Administrative English avoids:
 Better Alternatives
 
 - when you have time
-
 - at your convenience
-
 - when available
 :::
 
@@ -2843,17 +2653,11 @@ Use the prompts to write a complete request email.
 Write your email:
 
 - **Subject:**
-
 - **Greeting:**
-
 - **Opening sentence:**
-
 - **Request (1-2 sentences):**
-
 - **Context / reason (1 sentence):**
-
 - **Softened closing sentence:**
-
 - **Sign-off:**
 :::
 
@@ -2896,11 +2700,8 @@ D. Write to a colleague to request clarification before finalising a report beca
 In each email, include:
 
 - a clear opening
-
 - one polite request
-
 - one short reason or context sentence
-
 - a softened closing line
 
 Write your emails:
@@ -2972,11 +2773,8 @@ Request Paragraph
 Write a **neutral paragraph** (5-6 sentences) explaining:
 
 - What information is needed
-
 - Why it is needed
-
 - What issue it solves
-
 - What the next part of the report will describe
 
 (No direct request- this is background information for a report.)
@@ -2993,9 +2791,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. What polite request phrase do you prefer using?
-
 2. Do you sometimes write requests that are too direct? Why?
-
 3. Which softening phrase will you try in future emails?
 :::
 
@@ -3306,11 +3102,8 @@ A **procedure** is a set of steps that explains how to complete a task.
 It should:
 
 - Be clear and easy to follow
-
 - Use simple, direct language
-
 - Present steps in a logical order
-
 - Use consistent formatting (numbers or bullets)
 :::
 
@@ -3321,11 +3114,8 @@ Example (Part of a Larger Manual)
 Steps to create a new file record:
 
 1. Open the database system.
-
 2. Select "New Record" from the main menu.
-
 3. Enter the applicant's basic information.
-
 4. Save the record and confirm the entry.
 :::
 
@@ -3341,9 +3131,7 @@ Compare the two versions. Choose the clearer one.
 Version A
 
 - Check the form.
-
 - If it looks OK, then you can send it. But you might want to check the applicant ID first because sometimes it is wrong.
-
 - After you check everything, send it.
 :::
 
@@ -3351,21 +3139,17 @@ Version A
 Version B
 
 1. Check the form for complete and correct information.
-
 2. Confirm the applicant ID number.
-
 3. Send the form to the next department.
 :::
 
-**Discussion:** Why is Version B better?
+**Discussion:** Which version is better, and why?
 
 ::: learn
 Good Procedures Usually
 
 - use one clear action in each step
-
 - follow the real order of the task
-
 - stay consistent in format and wording
 :::
 
@@ -3403,19 +3187,12 @@ Clear Instruction Verbs
 Common verbs used in procedures:
 
 - Check
-
 - Confirm
-
 - Review
-
 - Select
-
 - Enter
-
 - Attach
-
 - Save
-
 - Submit
 
 Choose verbs that tell the reader exactly what action to take.
@@ -3505,7 +3282,6 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 **Procedure 1**
 
 1. Open the shared folder.
-
 2. Download the file.
 3.
 4.
@@ -3513,7 +3289,6 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 **Procedure 2**
 
 1. Review the applicant's form.
-
 2. Check for required signatures.
 3.
 4.
@@ -3613,27 +3388,20 @@ Write a Section of a Simple Manual
 Write a **short manual section** using this fixed format:
 
 - a short title (optional)
-
 - **1-2 opening sentences** explaining the task and who the section is for
-
 - a **numbered procedure** with **4-6 steps**
-
 - **1 closing sentence** explaining what happens after the steps are completed
 
 This means the task has **two clear parts**:
 
 1. a short explanation
-
 2. a numbered step sequence
 
 Your manual section should explain:
 
 - what the task is
-
 - why it is important
-
 - who uses this procedure
-
 - what happens after the steps are completed
 
 Write your manual section:
@@ -3694,9 +3462,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. What is difficult about writing procedures?
-
 2. Do you prefer numbered steps or bullet points? Why?
-
 3. Which instruction verbs are useful for your work?
 :::
 
@@ -3735,11 +3501,8 @@ Definition
 An **internal notice** is a short message shared inside a department or organisation. It:
 
 - Provides important information
-
 - Explains updates, reminders, or changes
-
 - Uses neutral, clear language
-
 - Does **not** include personal opinions or unnecessary details
 :::
 
@@ -3767,18 +3530,15 @@ There was a problem with the system today. Please be careful. We will check it. 
 System Notice - Temporary Error
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
-**Discussion:** Why is Notice B clearer and more useful?
+**Discussion:** Which notice is clearer and more useful, and why?
 :::
 
 ::: learn
 Quick Notice Check
 
 - Is the topic clear in the heading or first line?
-
 - Does the reader understand what is happening?
-
 - Is the message neutral and factual?
-
 - Does the notice show what happens next?
 :::
 
@@ -3816,11 +3576,8 @@ Notice Structure
 A clear internal notice usually includes:
 
 1. **Heading / Topic**
-
 2. **Background or brief explanation**
-
 3. **Essential information**
-
 4. **Next step or what happens later** (neutral, not a request)
 :::
 
@@ -3840,11 +3597,8 @@ Identify the Parts
 Label each part with: **H = Heading**, **B = Background**, **E = Essential information**, **N = Next step**.
 
 1. The application review will take place next Wednesday.
-
 2. Internal Notice - Application Review
-
 3. Additional checks may be required for older files.
-
 4. More information will be shared after the review.
 
 Your answers:
@@ -3862,9 +3616,7 @@ Neutral Tone in Notices
 Internal notices use **neutral, factual language**. Avoid:
 
 - Personal comments
-
 - Emotional expressions
-
 - Requests or instructions (unless necessary)
 :::
 
@@ -3908,7 +3660,6 @@ Mini notice frame:
 - what changed or happened
 - who is affected
 - what staff should do next
-
 1. "The meeting will change."
    ->
 
@@ -3938,11 +3689,8 @@ Write a notice based on the situation below.
 Write your notice:
 
 - **Heading:**
-
 - **Background:**
-
 - **Essential information:**
-
 - **Next step:**
 :::
 
@@ -4072,13 +3820,9 @@ Internal Bulletin Section
 Write a section for an internal bulletin (6-8 sentences) read by staff in your department. Include:
 
 - Main topic
-
 - Background
-
 - Explanation of what is happening
-
 - Expected impact
-
 - Next steps
 
 Strong bulletin sections usually move in this order:
@@ -4107,9 +3851,7 @@ Use this box for one complete version.
 Reflect on This Unit
 
 1. What makes a notice effective or ineffective?
-
 2. Which part of the notice structure do you find most difficult?
-
 3. Do you prefer short notices or longer bulletin-style notices? Why?
 :::
 
@@ -4148,13 +3890,9 @@ Definition
 A good explanation of a problem includes:
 
 - **Background** - what was expected
-
 - **Issue** - what went wrong or what is unclear
-
 - **Cause** - why it happened (if known)
-
 - **Effect** - impact on work or schedule
-
 - **Current status** - what is happening now
 
 This is not a request and not a complaint - only **neutral information**.
@@ -4168,11 +3906,8 @@ Warm-Up: Identify the Missing Information
 Read the sentences. What is missing from each?
 
 1. "The system isn't working."
-
 2. "There is a problem with the file."
-
 3. "The review is delayed."
-
 4. "We cannot access the document."
 
 Write what information is missing:
@@ -4186,13 +3921,9 @@ Write what information is missing:
 Before You Explain a Problem, Ask
 
 1. What was supposed to happen?
-
 2. What went wrong?
-
 3. Why did it happen?
-
 4. What is the effect?
-
 5. What is the current status?
 :::
 
@@ -4228,41 +3959,29 @@ Language 1. Useful Phrases
 **Describing the Issue**
 
 - There is an issue with...
-
 - We found a problem in...
-
 - The system is not responding.
-
 - The file cannot be opened.
 
 **Describing the Cause (if known)**
 
 - due to a system error
-
 - because the file format is incorrect
-
 - due to missing information
-
 - because the server is temporarily unavailable
 
 **Describing the Effect**
 
 - This may affect the schedule.
-
 - This has delayed the review.
-
 - Users may not be able to access...
-
 - The examination cannot continue at this stage.
 
 **Describing the Current Status**
 
 - The issue is being reviewed.
-
 - The file is currently under inspection.
-
 - A temporary solution is being used.
-
 - Further updates will be provided.
 :::
 
@@ -4358,13 +4077,9 @@ Write a short explanation (4-5 sentences).
 Include:
 
 - Background
-
 - Issue
-
 - Cause (if known)
-
 - Effect
-
 - Current status
 
 Write your explanation:
@@ -4488,11 +4203,8 @@ Write a paragraph (6-8 sentences) describing a problem as part of a formal inter
 Your paragraph should:
 
 - Present the background
-
 - Explain the issue clearly
-
 - Describe the effect
-
 - Lead into the following section of the report
 
 Write your paragraph:
@@ -4507,9 +4219,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. What makes a problem explanation clear or unclear?
-
 2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
-
 3. Which is the most difficult?
 :::
 
@@ -4548,11 +4258,8 @@ Definition
 A meeting summary is a **brief record** of important points from a meeting. It:
 
 - Highlights key information
-
 - Records decisions
-
 - Notes action items (who will do what)
-
 - Does *not* include personal opinions or long explanations
 :::
 
@@ -4583,15 +4290,13 @@ Summary B
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
 :::
 
-**Discussion:** Why is Summary B clearer?
+**Discussion:** Which summary is clearer, and why?
 
 ::: learn
 A Useful Meeting Summary
 
 - records only the important points
-
 - separates decisions from general discussion
-
 - tells the reader what happens next
 :::
 
@@ -4624,23 +4329,16 @@ Language 1. Key Elements of a Meeting Summary
 A clear summary usually includes:
 
 - **Topic / purpose of the meeting**
-
 - **Main points discussed**
-
 - **Decisions made**
-
 - **Next steps / action items**
 
 **Useful Phrases**
 
 - The team discussed...
-
 - It was agreed that...
-
 - The following issues were raised...
-
 - The next meeting will be...
-
 - The team will...
 :::
 
@@ -4664,11 +4362,8 @@ Practice A: Identify the Elements
 Label each sentence with: **T = Topic**, **M = Main point**, **D = Decision**, **A = Action item**.
 
 1. The meeting was held to review the new application guidelines.
-
 2. The team agreed to extend the internal checking period.
-
 3. Several unclear sections in the guidelines were identified.
-
 4. A revised draft will be shared on Friday.
 
 Your answers:
@@ -4824,13 +4519,9 @@ Write a 6-8 sentence section for a formal internal report summarising a meeting 
 Include:
 
 - Purpose of the meeting
-
 - Main points
-
 - Decisions
-
 - Next steps
-
 - Link to the next section of the report
 
 Before you write, decide which sentence will do each job:
@@ -4861,9 +4552,7 @@ Use this box for one complete version.
 Reflect on This Unit
 
 1. What part of meeting summaries is easiest for you?
-
 2. What part is the most difficult?
-
 3. Which phrases from this unit will you use in your work?
 :::
 
@@ -5002,7 +4691,9 @@ Version B
 The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
 :::
 
-Why Version B works better:
+Which version would be more useful to a reader who needs to act quickly? Then check your reasoning:
+
+Why the stronger version works:
 
 - the change is named clearly
 - the reason is specific
@@ -5234,11 +4925,8 @@ An external inquiry is a **polite email** sent to another organisation asking fo
 It should:
 
 - Be polite and professional
-
 - Provide enough background for the reader
-
 - Ask clear, specific questions
-
 - Avoid unnecessary details
 :::
 
@@ -5275,15 +4963,13 @@ Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
 :::
 
-**Discussion:** Why is Email B more appropriate?
+**Discussion:** Which email is more appropriate, and why?
 
 ::: learn
 A Good External Inquiry
 
 - tells the reader why you are asking
-
 - gives only the background they need
-
 - asks one clear question at a time
 :::
 
@@ -5317,39 +5003,28 @@ Language 1. Structure of an External Inquiry
 A clear inquiry email usually includes:
 
 1. **Subject line** - clear and specific
-
 2. **Greeting** - polite and neutral
-
 3. **Background** - brief context so the reader understands the question
-
 4. **Inquiry question(s)** - clear, specific questions
-
 5. **Closing sentence** - neutral, polite
-
 6. **Sign-off**
 
 **Background**
 
 - We are currently reviewing...
-
 - Our office is checking...
-
 - We have a question regarding...
 
 **Questions**
 
 - Could you clarify...?
-
 - Would you be able to confirm...?
-
 - Could you provide more information about...?
 
 **Closing**
 
 - Thank you for your assistance.
-
 - We appreciate your support.
-
 - Further information will help us complete our review.
 
 Mini inquiry example:
@@ -5468,17 +5143,11 @@ Before writing your own external inquiries, check:
 2. Is the question specific?
 3. Did I avoid unnecessary office detail?
 4. Does the closing sound polite and professional?
-
 - [ ] **Subject:**
-
 - [ ] **Greeting:**
-
 - [ ] **Background:**
-
 - [ ] **Inquiry question(s):**
-
 - [ ] **Closing sentence:**
-
 - [ ] **Sign-off:**
 :::
 
@@ -5561,11 +5230,8 @@ Write a **neutral paragraph** (5-6 sentences) describing why an external inquiry
 Include:
 
 - Background
-
 - Issue or unclear point
-
 - Why clarification is necessary
-
 - What the next section of a report will explain
 
 Helpful structure:
@@ -5598,9 +5264,7 @@ Use this box for one complete version.
 Reflect on This Unit
 
 1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?
-
 2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?
-
 3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
 :::
 
@@ -5639,13 +5303,9 @@ What Is a Simple Explanation?
 A simple explanation:
 
 - Gives the reader **background**
-
 - States **what is happening** or **what changed**
-
 - Provides **a reason**, if appropriate
-
 - Avoids unnecessary technical detail
-
 - Uses **neutral, professional language**
 :::
 
@@ -5663,11 +5323,8 @@ Warm-Up: What Information Is Missing?
 Read each explanation. Identify what is missing.
 
 1. "The schedule changed."
-
 2. "The form is incorrect."
-
 3. "The applicant information is different."
-
 4. "The process will take longer."
 
 What is missing?
@@ -5681,9 +5338,7 @@ What is missing?
 A Useful Explanation Helps the Reader
 
 - understand the situation
-
 - see the reason or cause
-
 - understand the effect on the work
 :::
 
@@ -5714,25 +5369,19 @@ Language 1. Useful Phrases for Explanations
 **Giving Background**
 
 - The purpose of this process is...
-
 - This procedure is used when...
-
 - This step is required because...
 
 **Explaining the Reason**
 
 - because...
-
 - due to...
-
 - as a result of...
 
 **Giving Additional Information**
 
 - This means that...
-
 - In this case...
-
 - For this reason...
 
 Mini explanation example:
@@ -5808,7 +5457,6 @@ You can test your answer with three quick questions:
 1. Would a new colleague understand the context?
 2. Does the reason explain the main sentence clearly?
 3. Can the reader see why the information matters now?
-
 1. The applicant list is incomplete.
    ->
 
@@ -5835,13 +5483,9 @@ Write 4-5 sentences.
 Explain:
 
 - Background
-
 - Issue
-
 - Reason
-
 - Effect
-
 - Current status
 
 Write your explanation:
@@ -5944,11 +5588,8 @@ Write a paragraph (6-8 sentences) explaining an issue as part of an internal rep
 Include:
 
 - Background
-
 - What was found
-
 - Why it is an issue
-
 - Effect on the next steps
 
 Before you write, decide:
@@ -5979,9 +5620,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.
-
 2. If a new colleague read your explanation, which detail would help them understand the situation fastest?
-
 3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
 :::
 
@@ -6020,11 +5659,8 @@ Definition
 When someone is confused, your response should:
 
 - Acknowledge the confusion politely
-
 - Restate the important information clearly
-
 - Provide additional detail if necessary
-
 - Avoid blaming language
 :::
 
@@ -6042,11 +5678,8 @@ Warm-Up: What Is the Confusion?
 Identify what the reader is confused about.
 
 1. "I thought the deadline was next Monday."
-
 2. "This form looks different from the one I used last year."
-
 3. "I'm not sure which file I should upload."
-
 4. "The instructions say two things."
 
 Write the point of confusion:
@@ -6060,9 +5693,7 @@ Write the point of confusion:
 A Good Clarification Response
 
 - acknowledges the confusion politely
-
 - gives the correct information clearly
-
 - adds one useful detail if needed
 :::
 
@@ -6099,25 +5730,19 @@ Language 1. Useful Clarification Phrases
 **Acknowledging the Confusion**
 
 - Thank you for your question.
-
 - I understand the confusion.
-
 - Thank you for checking.
 
 **Restating Information**
 
 - To clarify...
-
 - The correct information is...
-
 - The updated requirement is...
 
 **Giving Additional Details**
 
 - This applies only to...
-
 - In this case...
-
 - One important point is...
 :::
 
@@ -6198,9 +5823,7 @@ Write 4-5 sentences.
 Write a response that:
 
 - Acknowledges the confusion
-
 - States the correct information
-
 - Gives any important details
 
 Write your response:
@@ -6302,11 +5925,8 @@ Write a paragraph (6-8 sentences) explaining a misunderstanding as part of an in
 Include:
 
 - Background
-
 - Source of confusion
-
 - Correct information
-
 - Summary of next steps
 
 Useful paragraph plan:
@@ -6337,9 +5957,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?
-
 2. In your draft, where did you need to reduce blame or defensiveness most carefully?
-
 3. How would your response change if the reader were a colleague instead of an outside contact?
 :::
 
@@ -6378,19 +5996,14 @@ Definition
 Consistency means:
 
 - Using similar structures in similar situations
-
 - Keeping tone polite and neutral
-
 - Using standard openings and closings
-
 - Formatting emails clearly and uniformly
 
 Consistency helps:
 
 - Readers understand information quickly
-
 - Teams maintain a professional image
-
 - Prevent confusion caused by different writing styles
 :::
 
@@ -6438,13 +6051,9 @@ What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 To Keep Email Style Consistent, Check
 
 - subject line
-
 - greeting
-
 - purpose sentence
-
 - body tone
-
 - closing and sign-off
 :::
 
@@ -6481,25 +6090,19 @@ Use standardised components to create consistency.
 **Openings**
 
 - Dear Mr./Ms. [Name],
-
 - Dear Team,
-
 - Thank you for your email.
 
 **Purpose Statements**
 
 - I am writing to...
-
 - I would like to confirm...
-
 - We have a question regarding...
 
 **Closings**
 
 - Thank you.
-
 - Kind regards,
-
 - Please let me know if you need further information.
 :::
 
@@ -6532,11 +6135,8 @@ Language 2. Formatting for Clarity and Consistency
 Emails should use:
 
 - Clear paragraph breaks
-
 - Consistent subject line patterns
-
 - Complete sentences
-
 - Professional spacing and layout
 
 Consistency is not only about tone. It also includes layout and organization, because formatting affects readability.
@@ -6734,9 +6334,7 @@ Write your paragraph:
 Reflect on This Unit
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
-
 2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
-
 3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
 :::
 
@@ -6790,7 +6388,7 @@ I am writing to ask for clarification about the document submission process desc
 Now answer:
 
 1. Which version is easier to answer?
-2. Which words in Version B make the topic narrower and clearer?
+2. Which words make the topic narrower and clearer?
 3. Which unit from this module explains why that change matters?
 4. How would you continue Version B if the reader were an applicant instead of another office?
 
@@ -7104,15 +6702,10 @@ What Does "Accuracy" Mean in Writing?
 Accuracy refers to the **correct use of language**, including:
 
 - Grammar
-
 - Spelling
-
 - Verb tense
-
 - Articles (a / the)
-
 - Prepositions
-
 - Basic punctuation
 
 Accurate writing is easier for readers to understand and avoids mistakes in administrative processes.
@@ -7126,11 +6719,8 @@ Warm-Up: Spot the Errors
 Correct the mistakes in each sentence.
 
 1. *The applicant have submit the form yesterday.*
-
 2. *Please confirm the informations.*
-
 3. *We checking the files now.*
-
 4. *The review start next week.*
 
 Write your corrections:
@@ -7148,11 +6738,8 @@ Write your corrections:
 Quick Accuracy Check
 
 - Is the verb form correct?
-
 - Are singular and plural forms correct?
-
 - Does the sentence need an article or preposition?
-
 - Is the punctuation clear?
 :::
 
@@ -7197,19 +6784,16 @@ Language 1. Common Accuracy Problems
 **Verb Forms**
 
 - We **reviewed** the file yesterday. (past)
-
 - We **are reviewing** the file now. (present continuous)
 
 **Articles**
 
 - The file is in **the** shared folder.
-
 - Please attach **a** document.
 
 **Prepositions**
 
 - The meeting is **on** Monday.
-
 - The update will be available **after** 3 p.m.
 :::
 
@@ -7244,7 +6828,6 @@ Accuracy check:
 - [ ] Does the sentence now sound complete?
 - [ ] Does the time reference make sense?
 - [ ] Does the noun or verb form match the message?
-
 1. *The system under maintenance today.*
    ->
 
@@ -7413,9 +6996,7 @@ Use your own wording, but make it a routine you could really use at work.
 Reflect on This Unit
 
 1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.
-
 2. Which correction in your work changed the meaning or clarity most clearly for the reader?
-
 3. What check should come first in your own editing routine next time, and why?
 :::
 
@@ -7454,11 +7035,8 @@ What Does "Clarity" Mean in Writing?
 Clarity refers to how easily the reader can understand your message. Clear writing:
 
 - Uses simple, direct language
-
 - Avoids long or complicated sentences
-
 - Presents ideas in a logical order
-
 - Avoids ambiguity or vague language
 
 **Example (Before -> After)**
@@ -7475,11 +7053,8 @@ Warm-Up: What Makes These Sentences Unclear?
 Identify the problems.
 
 1. "It looks like maybe there is something wrong with the form in some places."
-
 2. "We think the system might not be working correctly for some users."
-
 3. "There are many things to check so it will maybe take a bit longer."
-
 4. "The information is kind of different from the last version."
 
 Write the problems (too vague? too long? unnecessary words?):
@@ -7493,11 +7068,8 @@ Write the problems (too vague? too long? unnecessary words?):
 Quick Clarity Check
 
 - remove vague words
-
 - keep the main point early
-
 - use a logical order
-
 - cut extra words that do not help the reader
 :::
 
@@ -7532,13 +7104,11 @@ Language 1. Common Clarity Problems
 **Unnecessary Words**
 
 - The reason is because ->The reason is
-
 - Due to the fact that ->Because
 
 **Long or Complicated Sentences**
 
 - Too many clauses
-
 - Unclear subject or action
 
 When you edit for clarity, ask:
@@ -7584,9 +7154,7 @@ Language 2. Improving Flow
 Clear writing follows a **logical order**, often:
 
 - Background ->Main point ->Detail
-
 - Issue ->Cause ->Effect
-
 - Topic ->Explanation ->Closing idea
 
 **Example**
@@ -7756,9 +7324,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 Reflect on This Unit
 
 1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.
-
 2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?
-
 3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
 :::
 
@@ -7796,19 +7362,14 @@ Tone is **how your writing sounds** to the reader.
 A professional tone is:
 
 - Polite
-
 - Neutral
-
 - Clear
-
 - Respectful
 
 A poor tone may be:
 
 - Too direct or abrupt
-
 - Emotional
-
 - Impolite or demanding
 
 **Example (Before -> After)**
@@ -7825,11 +7386,8 @@ Warm-Up: Why Is the Tone Wrong?
 Identify what makes the tone inappropriate.
 
 1. "You didn't do this correctly."
-
 2. "Why didn't you check before sending it?"
-
 3. "Fix this immediately."
-
 4. "This is wrong again."
 
 Write the issues:
@@ -7843,11 +7401,8 @@ Write the issues:
 Quick Tone Check
 
 - remove blame
-
 - soften direct commands
-
 - keep the message calm and factual
-
 - keep the original purpose
 :::
 
@@ -7889,11 +7444,8 @@ Language 1. Softening Direct Language
 **Useful Softening Phrases**
 
 - It appears that...
-
 - It seems that...
-
 - There may be an issue with...
-
 - Thank you for checking...
 :::
 
@@ -7944,19 +7496,14 @@ Emails often need polite tone markers.
 **Useful Email Tone Markers**
 
 - Thank you for your message.
-
 - Thank you for letting us know.
-
 - We appreciate your cooperation.
-
 - Please let us know if you need further information.
 
 **Common Tone Problems**
 
 - Imperatives (Send..., Check..., Fix...)
-
 - Emotional expressions ("This is terrible," "I'm very upset")
-
 - Blaming language ("You didn't...", "You should have...")
 :::
 
@@ -8125,9 +7672,7 @@ We told the applicant many times, but they still submitted the wrong file. This 
 Reflect on This Unit
 
 1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?
-
 2. Which softening phrase works best only when the message still stays clear and useful for the reader?
-
 3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
 :::
 
@@ -8389,7 +7934,6 @@ You receive an update from an external office stating that one of the applicant'
 In this unit, you will write:
 
 1. **An external inquiry email** requesting the correct information.
-
 2. **An internal explanation** summarising the situation for colleagues.
 :::
 
@@ -8403,11 +7947,8 @@ Read the scenario and answer the questions.
 **Scenario:** The external office reports that the applicant's "Form B - Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
 
 1. What is the problem?
-
 2. What information does the external office need?
-
 3. What information does your team need internally?
-
 4. What tone should you use in each message?
 
 Write your answers:
@@ -8421,9 +7962,7 @@ Write your answers:
 Before You Write Two Texts from One Scenario
 
 - decide who each reader is
-
 - decide what each reader needs to know
-
 - keep the facts the same, but change the tone and detail
 :::
 
@@ -8461,21 +8000,15 @@ Language: Writing for Two Audiences
 **External Email (Polite, Clear, Concise)**
 
 - Thank you for your message.
-
 - We have checked the documents...
-
 - Could you please confirm...?
-
 - We appreciate your assistance.
 
 **Internal Explanation (Neutral, Informative)**
 
 - The external office informed us that...
-
 - The issue concerns...
-
 - The applicant will need to...
-
 - Further updates will follow once...
 :::
 
@@ -8527,13 +8060,9 @@ Write a **4-5 sentence** external follow-up email to the external office based o
 Include:
 
 - Subject line
-
 - Thank-you / acknowledgement
-
 - Background sentence
-
 - Clear inquiry question(s)
-
 - Polite closing
 
 Write your email:
@@ -8553,11 +8082,8 @@ Write a **4-5 sentence** explanation for your colleagues or team.
 Include:
 
 - Background
-
 - Description of the issue
-
 - What is needed next
-
 - Next steps or expected follow-up
 
 Keep the internal explanation different from the external email.
@@ -8626,7 +8152,6 @@ Freer Practice: Choose One Integrated Scenario
 Choose one scenario and write **both**:
 
 1. A short external inquiry email (4-5 sentences)
-
 2. A short internal explanation (4-5 sentences)
 
 **Options**
@@ -8698,17 +8223,13 @@ Extended Writing Task: Multi-Purpose Communication
 Write:
 
 - One external-style email (6-8 sentences)
-
 - One internal paragraph (6-8 sentences)
 
 Each should:
 
 - Use accurate grammar
-
 - Be clear and concise
-
 - Match the correct tone for the audience
-
 - Present information logically
 
 Write the email for the outside office and the paragraph for your internal team.
@@ -8732,9 +8253,7 @@ Write each document in its own box.
 Reflect on This Unit
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.
-
 2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
-
 3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
 :::
 
@@ -8773,7 +8292,6 @@ Your office previously shared the monthly review schedule with an external offic
 You must:
 
 1. Write a **revision/clarification message** to the external office.
-
 2. Write an **internal notice** informing colleagues about the correction.
 
 The two documents must match, but they should not sound the same.
@@ -8799,11 +8317,8 @@ Read the scenario and answer the questions.
 **Scenario:** The review schedule for May was shared last week. The date for "Document Verification - Stage 2" was listed as **24 May**, but the correct date is **27 May**.
 
 1. What information needs revision?
-
 2. Who needs to receive the corrected date?
-
 3. Should the tone be the same for external and internal communication? Why/why not?
-
 4. What details must be included in each message?
 
 Write your answers:
@@ -8817,9 +8332,7 @@ Write your answers:
 For Connected Documents, Check
 
 - the correction is the same in both texts
-
 - the important date or detail is consistent
-
 - the audience and purpose are different
 :::
 
@@ -8852,11 +8365,8 @@ Tone: Polite, clear, concise.
 Useful phrases:
 
 - Thank you for your cooperation.
-
 - We would like to provide a correction regarding...
-
 - The correct date is...
-
 - We apologise for any confusion.
 
 **Internal Notice (Colleagues)**
@@ -8866,11 +8376,8 @@ Tone: Neutral, informative.
 Useful phrases:
 
 - Please note the following correction...
-
 - The updated schedule is...
-
 - This change affects...
-
 - Further updates will follow.
 :::
 
@@ -8923,15 +8430,10 @@ Write a **4-5 sentence** message to the external office that received the earlie
 Include:
 
 - Greeting
-
 - Thank-you sentence
-
 - Reference to the previously shared schedule
-
 - The correction
-
 - Optional brief apology
-
 - Polite closing
 
 Write your message:
@@ -8952,11 +8454,8 @@ Write a **4-5 sentence** internal notice for colleagues in your section.
 Include:
 
 - Heading/topic
-
 - Background (what was originally shared)
-
 - The corrected date
-
 - Impact or next steps
 
 Write your notice:
@@ -9008,7 +8507,6 @@ Freer Practice: Choose One Scenario
 Choose one and write both texts:
 
 1. A revision/clarification message (4-5 sentences)
-
 2. A short internal notice (4-5 sentences)
 
 **Options**
@@ -9078,19 +8576,14 @@ Extended Writing Task: Combined Communication Pack
 Write:
 
 - One external-style revision message (6-8 sentences)
-
 - One internal notice (6-8 sentences)
 
 each using:
 
 - Accurate grammar
-
 - Clear structure
-
 - Appropriate tone for each audience
-
 - Logical connections
-
 - Concise and professional style
 
 Write the first for the outside reader who received the incorrect information and the second for your internal team.
@@ -9114,9 +8607,7 @@ Write each document in its own box.
 Reflect on This Unit
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?
-
 2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
-
 3. How can a well-written correction message reduce repeated errors or repeated questions later?
 :::
 
@@ -9157,31 +8648,22 @@ Definition
 When multiple team members write emails and notices, inconsistency can cause:
 
 - Confusion for external offices
-
 - Mixed tone (too direct / too soft)
-
 - Different formats for similar tasks
-
 - Repeated questions or follow-up emails
 
 Clear team standards help:
 
 - Maintain a professional image
-
 - Improve readability
-
 - Reduce miscommunication
-
 - Support smoother administrative procedures
 
 **A shared team standard usually covers**
 
 - opening and closing style
-
 - tone level
-
 - structure of the body
-
 - formatting basics
 :::
 
@@ -9214,11 +8696,8 @@ Thank you.
 Write the inconsistencies you notice:
 
 - Tone:
-
 - Format:
-
 - Structure:
-
 - Clarity:
 
 ### B. Example Check
@@ -9248,33 +8727,25 @@ Language: Standardising Team Writing
 **Standard Openings**
 
 - Dear [Office/Team],
-
 - Thank you for your message.
 
 **Standard Purpose Statements**
 
 - I am writing to confirm...
-
 - We would like to request...
-
 - We have a question regarding...
 
 **Standard Closings**
 
 - Thank you.
-
 - Please let us know if you need further information.
-
 - Kind regards,
 
 **Formatting Standards**
 
 - Clear paragraph breaks
-
 - Professional spacing
-
 - Complete sentences
-
 - Consistent subject line format
 :::
 
@@ -9478,9 +8949,7 @@ Treat them as messages your team may send to colleagues or external contacts abo
 **Original Messages**
 
 1. "We told them already, but they didn't send the file. Ask again."
-
 2. "Hi, I think the new form is wrong. They need fix it."
-
 3. "Team, The deadline is near. Do something."
 
 **Rewrite all messages in a unified, professional style**
@@ -9505,9 +8974,7 @@ Write each document in its own box.
 Reflect on This Unit
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.
-
 2. Which standard phrase or rule from this unit would be most useful as a shared team default?
-
 3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
 :::
 
@@ -9546,17 +9013,13 @@ Unit Scenario
 You receive an email from an **applicant** asking why their application status has not been updated. After reviewing the system, you discover:
 
 - One document from the applicant is missing.
-
 - The review team cannot proceed without it.
-
 - A colleague had previously assumed the file was complete.
 
 You must produce **three documents**:
 
 1. A **reply to the applicant** (external tone).
-
 2. A **colleague-to-colleague explanation** (horizontal/internal communication).
-
 3. A **short internal notice** for the team (vertical/internal communication).
 :::
 
@@ -9568,11 +9031,8 @@ Warm-Up: Analyse the Situation
 Answer the questions:
 
 1. What does the applicant need to know?
-
 2. What does your colleague need to understand?
-
 3. What information does the team need in a notice?
-
 4. How should tone differ in each message?
 
 Write your answers:
@@ -9586,9 +9046,7 @@ Write your answers:
 Before You Write a Multi-Document Set
 
 - list the three readers
-
 - note the main fact all three documents must share
-
 - decide what detail level each reader needs
 :::
 
@@ -9618,27 +9076,20 @@ Language: Three Audiences, Three Styles
 **(A) Applicant Reply - Polite, supportive, clear**
 
 - Thank you for your message.
-
 - We have checked your application status.
-
 - One document has not yet been received.
-
 - We will update the status once...
 
 **(B) Colleague Message - Neutral, cooperative**
 
 - I reviewed the applicant file and noticed...
-
 - The status has not been updated because...
-
 - Once the document is received, we can...
 
 **(C) Internal Notice - Concise, factual**
 
 - Please note the following update...
-
 - The applicant's file remains incomplete.
-
 - The review will continue once the missing document is submitted.
 :::
 
@@ -9681,13 +9132,9 @@ Write a **4-5 sentence** email replying directly to the applicant.
 Include:
 
 - Thank-you / acknowledgement
-
 - Background
-
 - Clear explanation of the missing document
-
 - What will happen next
-
 - Polite closing
 
 Write your reply:
@@ -9707,11 +9154,8 @@ Write a **4-5 sentence** explanation for the colleague who assumed the file was 
 Include:
 
 - What you checked
-
 - What you found
-
 - Why the status has not changed
-
 - What steps will follow
 
 Write your explanation:
@@ -9731,11 +9175,8 @@ Write a **3-4 sentence** notice for the wider team.
 Include:
 
 - Heading/topic
-
 - The key issue (missing document)
-
 - The effect on the review process
-
 - Next steps
 
 Think about what the wider team needs most:
@@ -9807,9 +9248,7 @@ Freer Practice: Full Multi-Document Set
 Choose **one** of the scenarios below and write all three documents:
 
 1. Applicant reply (5-6 sentences)
-
 2. Colleague message (4-5 sentences)
-
 3. Internal notice (3-4 sentences)
 
 **Options**
@@ -9896,19 +9335,14 @@ Extended Writing Task: Multi-Audience Communication Pack
 From the original scenario (missing applicant document), write a polished communication set:
 
 - **Applicant email (8-10 sentences)**
-
 - **Colleague explanation (6-8 sentences)**
-
 - **Internal notice (4-5 sentences)**
 
 All three must:
 
 - Use accurate grammar
-
 - Be clear and concise
-
 - Use correct tone for each audience
-
 - Maintain logical flow and consistency
 
 Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type.
@@ -9935,9 +9369,7 @@ Write each document in its own box.
 Reflect on This Unit
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?
-
 2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
-
 3. What planning step would help you control consistency across all three documents next time?
 :::
 
@@ -9976,25 +9408,17 @@ A writing portfolio is a collection of your **best revised work**, showing your 
 In this unit, your portfolio will contain:
 
 1. **One external-style email** (revised and final)
-
 2. **One internal explanation or notice** (revised and final)
-
 3. **One paragraph for a report** (revised and final)
-
 4. **One new document created in Unit 23**
 
 Your final submission should show:
 
 - Clear structure
-
 - Accurate grammar
-
 - Professional tone
-
 - Logical flow
-
 - Concise style
-
 - Consistency across documents
 :::
 
@@ -10007,9 +9431,7 @@ Look back at your writing from Units 1-22.
 Choose **three drafts** you want to improve:
 
 1. One email (internal or external)
-
 2. One paragraph (explanation, summary, procedure, or problem description)
-
 3. One short notice or message
 
 Write the titles or sources of the drafts you chose:
@@ -10051,25 +9473,21 @@ Before revising your drafts, check for:
 **Clarity**
 
 - Simple, direct sentences
-
 - No vague language
 
 **Tone**
 
 - Polite, neutral, professional
-
 - Appropriate for audience (external, internal, colleague)
 
 **Coherence**
 
 - Clear connections between ideas
-
 - Logical flow
 
 **Conciseness**
 
 - Remove unnecessary repetition
-
 - Avoid long or wordy expressions
 :::
 
@@ -10077,11 +9495,8 @@ Before revising your drafts, check for:
 Final Revision Order
 
 1. check accuracy
-
 2. check clarity and flow
-
 3. check tone for the reader
-
 4. check formatting and consistency
 :::
 
@@ -10211,11 +9626,8 @@ Write **one new document** based on a scenario below.
 Choose ONE:
 
 - A clear update email to a colleague, supervisor, or applicant (6-8 sentences)
-
 - A meeting summary for a colleague or manager (5-6 sentences)
-
 - A short external inquiry email to another office (5-6 sentences)
-
 - A problem explanation for an internal report (6-8 sentences)
 
 Write your new document:
@@ -10234,21 +9646,15 @@ Submission Task
 Your final portfolio should contain **four items**:
 
 1. One external-style email (revised)
-
 2. One internal explanation or notice (revised)
-
 3. One paragraph for a report (revised)
-
 4. One new document created in Unit 23
 
 Each item must:
 
 - Use accurate grammar
-
 - Be clear and concise
-
 - Have professional tone
-
 - Show coherence and consistent formatting
 
 Before you submit, confirm that the four items show a useful range of skills:
@@ -10336,9 +9742,7 @@ Review Rubric
 Use this rubric to check your final portfolio. Mark each criterion as:
 
 - `Ready`
-
 - `Almost ready`
-
 - `Needs more revision`
 
 | Criterion | What to check | Review units |
@@ -10397,9 +9801,7 @@ Write one sentence on each line where possible.
 Reflect on This Unit
 
 1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
-
 2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
-
 3. Which revision habit from this course should become part of your real workplace writing routine from now on?
 :::
 
@@ -10567,12 +9969,10 @@ Now rebuild it as a stronger set.
    - name the exact document problem
    - ask for one clear action
    - give a professional deadline or next step
-
 2. Internal message:
    - explain the same fact neutrally
    - tell the team what to pause, continue, or watch
    - remove any sentence that only belongs in the external message
-
 3. Revision note:
    - explain why the two texts cannot stay the same
    - explain which audience needed more detail

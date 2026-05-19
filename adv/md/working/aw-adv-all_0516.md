@@ -100,6 +100,8 @@ Identify:
 - which connectors in the revised version signal the relationship between sentences
 - where the writer paused to create a new sentence and why
 
+*Record your observations, then check the explanation below.*
+
 ::: learn
 Why This Works
 
@@ -1351,6 +1353,8 @@ Identify differences in:
 - tone and diplomatic phrasing
 - reader support
 
+*Record your observations, then check the explanation below.*
+
 ::: learn
 Why This Works
 
@@ -1679,6 +1683,8 @@ Compare the two versions. Identify improvements in:
 - clarity of the issue
 - specific referencing
 - reader support
+
+*Record your observations, then check the explanation below.*
 
 ::: learn
 Why This Works
@@ -2042,6 +2048,8 @@ Identify differences in:
 - clarity of each individual action
 - how dependency between requests is communicated
 - tone and reader support
+
+*Record your observations, then check the explanation below.*
 
 ::: learn
 Why This Works
@@ -3219,6 +3227,8 @@ Compare the two versions. Identify differences in:
 - clarity of decisions and responsibilities
 - usefulness for a manager who did not attend
 
+*Record your observations, then check the explanation below.*
+
 ::: learn
 Why This Works
 
@@ -3537,6 +3547,8 @@ Compare the two versions. Identify improvements in:
 - provision of background context
 - diplomatic tone
 - overall structure and reader support
+
+*Record your observations, then check the explanation below.*
 
 ::: learn
 Why This Works
