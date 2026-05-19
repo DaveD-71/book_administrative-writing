@@ -30,7 +30,7 @@ By the end of this module, you should be able to:
 
 Use this module in the same way each time:
 
-- read the model comparison and notice what changed
+- read the example comparison and notice what changed
 - underline the explanation about why the stronger version works
 - complete the self-check before freer practice
 - use the editing practice to repair common reader problems
@@ -69,7 +69,7 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 :::
 
 ::: learn
-Quick check for a clear sentence
+Quick Check for a Clear Sentence
 
 - Put the main subject near the beginning.
 
@@ -80,7 +80,7 @@ Quick check for a clear sentence
 - Remove words that do not change the meaning.
 :::
 
-### B. Model Check: Why the Stronger Sentence Works
+### B. Example Check: Why the Stronger Sentence Works
 
 ::: learn
 Why the Stronger Sentence Works
@@ -130,10 +130,9 @@ Examples:
 - **The documents** (S) **are** (V) **ready** (C).
 :::
 
-#### Practice - Identify the Parts
 
 ::: notice
-Identify the Parts
+Practice - Identify the Parts
 
 Identify the parts of each sentence using these actions:
 
@@ -154,10 +153,9 @@ Identify the parts of each sentence using these actions:
 5. The examiner requested more information.
 :::
 
-#### Practice - Build Clear Sentences
 
 ::: write
-Build Clear Sentences
+Practice - Build Clear Sentences
 
 Rewrite the word groups as clear SVO or SVC sentences.
 
@@ -189,7 +187,7 @@ Three common ways to simplify a sentence:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 Administrative readers often need to understand:
 
@@ -199,11 +197,10 @@ Administrative readers often need to understand:
 
 They should not have to search through a long sentence to find the main point.
 
-When you simplify a sentence, you are not making it "less professional."  
+When you simplify a sentence, you are not making it "less professional."
 You are making it **more useful** for the reader.
 :::
 
-#### Simplify the Sentence
 
 ::: rewrite
 Simplify the Sentence
@@ -293,7 +290,7 @@ Before you draft, decide which sentence will do each job:
 :::
 
 ::: example
-Mini model
+Mini Example
 
 1. We received the wrong form with your submission.
 2. Please send the corrected form for this application.
@@ -337,8 +334,10 @@ Transfer Extension
 
 Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
 
-A. A form is missing one page.  
-B. A meeting time has changed.  
+A. A form is missing one page.
+
+B. A meeting time has changed.
+
 C. A file needs to be checked again.
 
 For each situation:
@@ -366,7 +365,7 @@ Reflection
 :::
 
 ::: edit
-Final self-edit
+Final Self-Edit
 
 Circle the sentence in your work that is easiest to read.
 
@@ -425,7 +424,7 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 :::
 
 ::: learn
-Professional tone usually does three things
+Professional Tone Usually Does Three Things
 
 - sounds polite, not demanding
 
@@ -434,7 +433,7 @@ Professional tone usually does three things
 - focuses on the task, not on blame or emotion
 :::
 
-### B. Model Check: Why the Stronger Tone Works
+### B. Example Check: Why the Stronger Tone Works
 
 ::: learn
 Why the Stronger Tone Works
@@ -450,7 +449,7 @@ The stronger version works because it:
 - sounds cooperative, not demanding
 - keeps the focus on the task, not on blame
 
-Professional tone does not mean "very formal words only."  
+Professional tone does not mean "very formal words only."
 It means the reader can cooperate without feeling attacked.
 :::
 
@@ -458,7 +457,6 @@ It means the reader can cooperate without feeling attacked.
 
 Administrative emails often use **softened, polite expressions**.
 
-#### Useful Phrases for Requests
 
 ::: language
 Useful Phrases for Requests
@@ -474,10 +472,9 @@ Useful Phrases for Requests
 - Please let me know if...
 :::
 
-#### Practice - Make the Request Polite
 
 ::: rewrite
-Make the Request Polite
+Practice - Make the Request Polite
 
 Rewrite the message using a polite request phrase.
 
@@ -517,7 +514,7 @@ When you check tone, ask:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 A professional message helps the reader do the next step calmly.
 
@@ -530,7 +527,6 @@ If a message sounds calm and clear, the reader can focus on:
 - what happens next
 :::
 
-#### Change the Tone
 
 ::: rewrite
 Change the Tone
@@ -557,7 +553,7 @@ Useful Phrases by Function
 
 You can use these phrases to make your tone more appropriate:
 
-#### Giving Information
+**Giving Information**
 
 - I would like to inform you that...
 
@@ -565,7 +561,7 @@ You can use these phrases to make your tone more appropriate:
 
 - I would like to confirm that...
 
-#### Asking for Clarification
+**Asking for Clarification**
 
 - Could you clarify...?
 
@@ -573,7 +569,7 @@ You can use these phrases to make your tone more appropriate:
 
 - I'm not sure I understand...
 
-#### Referring to Previous Communication
+**Referring to Previous Communication**
 
 - As mentioned in my previous email,...
 
@@ -601,7 +597,7 @@ Mini contrast:
 - Stronger: short greeting, clear problem statement, polite request, stable tone
 
 **Original email:**
-> Hi,  
+> Hi,
 > You didn't send the right file. Send the correct one today. I need it now.
 
 **Rewrite here:**
@@ -634,10 +630,12 @@ Freer Practice
 
 Choose one situation and write a short professional email in **3-4 sentences**.
 
-#### Situations
+**Situations**
 
-A. Write to a colleague who needs to check a document today.  
-B. Write to an applicant to confirm the correct deadline.  
+A. Write to a colleague who needs to check a document today.
+
+B. Write to an applicant to confirm the correct deadline.
+
 C. Write to a colleague to ask for clarification about one part of an application.
 
 Include:
@@ -705,14 +703,19 @@ Write one sentence on each line where possible.
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. Which polite expression do you want to remember?
 
 2. What tone problems do you want to avoid in your emails?
 
 3. Write one example of a polite request you can use at work.
+:::
+
 
 ::: edit
-Final self-edit
+Final Self-Edit
 
 Underline the most professional sentence in your freer-practice email.
 
@@ -766,7 +769,7 @@ You can think of a paragraph as answering one simple question such as:
 
 - What happens next?
 
-#### A paragraph should
+**A paragraph should**
 
 - Have **one clear topic**
 
@@ -774,7 +777,7 @@ You can think of a paragraph as answering one simple question such as:
 
 - Include a **closing sentence** or a final point
 
-#### A paragraph is NOT
+**A paragraph is NOT**
 
 - A list of unrelated sentences
 
@@ -798,7 +801,7 @@ Start a new paragraph when:
 
 - You begin addressing a **different reader** (less common in administrative writing)
 
-#### Examples of paragraph breaks
+**Examples of paragraph breaks**
 
 1. Explaining the background ->Asking for an action
 
@@ -814,18 +817,18 @@ Which Is a Better Paragraph?
 
 Read both paragraphs. Decide which one is **better organised**.
 
-#### Paragraph A
+**Paragraph A**
 
 We reviewed the updated guidelines yesterday. During the review, we found several sections that were unclear and inconsistent with earlier versions. These inconsistencies may cause confusion for staff who use the document. Additional notes will be compiled before we continue with the next stage of the review.
 
-#### Paragraph B
+**Paragraph B**
 
 We reviewed the updated guidelines yesterday. The office renovation will begin next month. Several sections in the document were unclear. Our team attended a training session last week.
 
 **Discussion:** Why is Paragraph A better?
 :::
 
-### B. Model Check: Why the Stronger Paragraph Works
+### B. Example Check: Why the Stronger Paragraph Works
 
 ::: learn
 Why the Stronger Paragraph Works
@@ -843,7 +846,7 @@ That makes the paragraph feel like a list, not a piece of organized writing.
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 A good paragraph helps the reader move through one idea step by step.
 
@@ -868,13 +871,12 @@ A strong paragraph usually includes:
 3. **Closing sentence** - summary, result, or next step
 :::
 
-#### Model Paragraph
 
-::: example
-Model Paragraph
+::: example-good
+Example Paragraph
 
-**Topic sentence:** We reviewed the applicant's file yesterday.  
-**Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.  
+**Topic sentence:** We reviewed the applicant's file yesterday.
+**Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 :::
 
@@ -891,11 +893,11 @@ Label each sentence:
 
 - **C** = Closing sentence
 
-#### Paragraph 1
+**Paragraph 1**
 
-1. We processed your request this morning.  
+1. We processed your request this morning.
 
-2. However, the attached form was incomplete.  
+2. However, the attached form was incomplete.
 
 3. This information forms part of the initial review before we proceed to later steps.
 
@@ -904,11 +906,11 @@ Your labels:
 2.
 3.
 
-#### Paragraph 2
+**Paragraph 2**
 
-1. The system was updated last night.  
+1. The system was updated last night.
 
-2. Some users reported error messages after the update.  
+2. Some users reported error messages after the update.
 
 3. These observations will be included in the technical report that follows.
 
@@ -941,7 +943,7 @@ Before you write, make a short paragraph plan:
 :::
 
 ::: learn
-Transfer reminder
+Transfer Reminder
 
 Do not add every fact you know.
 
@@ -967,13 +969,16 @@ Build the paragraph so it moves from:
 3. broader meaning or category
 4. one extra supporting detail
 
-Mini support sentence model:
+Mini support sentence example:
 
 - "The missing forms affect the first documentation check and may delay the next review step."
 
 Sentences:
-A. Two forms were missing from the submission.  
-B. We checked the application yesterday.  
+
+A. Two forms were missing from the submission.
+
+B. We checked the application yesterday.
+
 C. These issues form part of the initial documentation review.
 
 Write the best order:
@@ -1024,10 +1029,12 @@ Freer Practice
 
 Write **one administrative paragraph** (5-6 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
-#### Situations
+**Situations**
 
-A. Your supervisor needs a short internal summary explaining a delay in one review stage and what caused it.  
-B. Your team is preparing an internal summary after a system problem affected document access this morning.  
+A. Your supervisor needs a short internal summary explaining a delay in one review stage and what caused it.
+
+B. Your team is preparing an internal summary after a system problem affected document access this morning.
+
 C. Your office recently changed one internal rule, and you need to explain the change and the reason in a short guidance note.
 
 Write your paragraph:
@@ -1078,14 +1085,19 @@ Write one sentence on each line where possible.
 
 ### F. Reflection
 
-1. What is one thing you learned about paragraph structure?  
+::: write
+Reflection
 
-2. When do you think you should start a new paragraph?  
+1. What is one thing you learned about paragraph structure?
+
+2. When do you think you should start a new paragraph?
 
 3. Which part (topic, support, closing) do you find most difficult?
+:::
+
 
 ::: edit
-Final self-edit
+Final Self-Edit
 
 Mark your paragraph:
 
@@ -1215,8 +1227,8 @@ Improve it in three steps.
    - End with a clear next action for the reader.
 :::
 
-::: example
-Possible stronger version
+::: example-good
+Possible Stronger Version
 
 We checked your application yesterday. At present, we need one more piece of information before the review can continue. Could you please send the missing information by Thursday? Thank you for your cooperation.
 
@@ -1283,7 +1295,7 @@ By the end of this module, you should be able to:
 
 Use the module support actively:
 
-- compare the model versions before you draft
+- compare the example versions before you draft
 - use the `Why this works`notes to understand reader effect
 - check the self-edit prompts before freer writing
 - use the editing tasks to repair weak requests and unclear email structure
@@ -1306,7 +1318,7 @@ Basic Email Layout
 
 A professional email has a **clear structure** so that the reader can easily understand the purpose.
 
-#### Basic Email Layout
+**Basic Email Layout**
 
 1. **Subject line** - a short summary of the purpose
 
@@ -1328,7 +1340,7 @@ Which Email Is Better?
 
 Read the two emails and choose which one is clearer and more professional.
 
-#### Email A
+**Email A**
 
 Subject: Question
 
@@ -1340,7 +1352,7 @@ Can you tell me what it means?
 
 Thanks,
 
-#### Email B
+**Email B**
 
 Subject: Question About Application Form
 
@@ -1356,7 +1368,7 @@ Thank you,
 :::
 
 ::: learn
-Quick email check
+Quick Email Check
 
 - Does the subject line show the topic clearly?
 
@@ -1367,7 +1379,7 @@ Quick email check
 - Does the closing sound polite and professional?
 :::
 
-### B. Model Check: Why Email B Works Better
+### B. Example Check: Why Email B Works Better
 
 ::: learn
 Why Email B Works Better
@@ -1380,7 +1392,7 @@ Email B is stronger because every part has a clear job:
 - the question is specific
 - the closing is polite
 
-Email A is not wrong because it is short.  
+Email A is not wrong because it is short.
 It is weak because the reader still has to ask:
 
 - what part is unclear?
@@ -1389,9 +1401,9 @@ It is weak because the reader still has to ask:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-A professional email helps the reader act quickly.  
+A professional email helps the reader act quickly.
 The reader should understand the purpose without guessing.
 :::
 
@@ -1408,7 +1420,7 @@ A good subject line is:
 
 - Specific
 
-#### Examples of Clear Subject Lines
+**Examples of Clear Subject Lines**
 
 - Question About Document Requirements
 
@@ -1419,10 +1431,9 @@ A good subject line is:
 - Request for Corrected File
 :::
 
-#### Practice - Improve the Subject Line
 
 ::: rewrite
-Improve the Subject Line
+Practice - Improve the Subject Line
 
 Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects lower-level writers often produce before they learn standard email patterns.
 
@@ -1454,7 +1465,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 ::: language
 Email Openings and Closings
 
-#### Common Openings
+**Common Openings**
 
 - Dear Mr./Ms. [Name],
 
@@ -1464,7 +1475,7 @@ Email Openings and Closings
 
 - I hope you are well.
 
-#### Common Closings
+**Common Closings**
 
 - Thank you.
 
@@ -1475,10 +1486,9 @@ Email Openings and Closings
 - Please let me know if you need further information.
 :::
 
-#### Practice - Choose an Opening and Closing
 
 ::: write
-Choose an Opening and Closing
+Practice - Choose an Opening and Closing
 
 Select an appropriate opening and closing for each situation.
 
@@ -1505,10 +1515,9 @@ Select an appropriate opening and closing for each situation.
 
 The first sentence must tell the reader **why you are writing**.
 
-#### Useful Phrases
 
 ::: language
-Useful Phrases for Opening Sentences
+Useful Phrases
 
 - I am writing to ask about...
 
@@ -1520,9 +1529,9 @@ Useful Phrases for Opening Sentences
 :::
 
 ::: learn
-Teaching point
+Teaching Point
 
-The opening sentence is not only a polite beginning.  
+The opening sentence is not only a polite beginning.
 It tells the reader what kind of message this is:
 
 - a question
@@ -1533,10 +1542,9 @@ It tells the reader what kind of message this is:
 That helps the reader prepare for the rest of the email.
 :::
 
-#### Practice - Write the Opening Sentence
 
 ::: write
-Write the Opening Sentence
+Practice - Write the Opening Sentence
 
 Write a clear opening sentence for each situation.
 
@@ -1599,10 +1607,12 @@ Freer Practice
 
 Choose one situation and write one complete email in **3-4 sentences**.
 
-#### Situations
+**Situations**
 
-A. Write to a colleague to ask for information about a new internal procedure.  
-B. Write to an applicant to confirm the correct deadline.  
+A. Write to a colleague to ask for information about a new internal procedure.
+
+B. Write to an applicant to confirm the correct deadline.
+
 C. Write to a colleague or partner office to ask one clear question about a submitted file.
 
 Include:
@@ -1660,8 +1670,10 @@ For each situation below, write:
 1. a clear subject line
 2. a clear opening sentence
 
-A. asking about a missing document  
-B. confirming a deadline  
+A. asking about a missing document
+
+B. confirming a deadline
+
 C. giving an update about a review delay
 
 This helps you separate the job of the subject line from the job of the opening sentence.
@@ -1674,11 +1686,16 @@ Write one sentence on each line where possible.
 
 ### F. Reflection
 
-1. Which part of the email is easiest for you?  
+::: write
+Reflection
 
-2. Which part is most difficult?  
+1. Which part of the email is easiest for you?
+
+2. Which part is most difficult?
 
 3. Which new phrase do you want to use in real emails?
+:::
+
 
 ### H. Homework
 
@@ -1729,7 +1746,7 @@ Write what you would need to know:
 :::
 
 ::: learn
-A strong clarification question
+A Strong Clarification Question
 
 - names the exact part that is unclear
 
@@ -1738,7 +1755,7 @@ A strong clarification question
 - stays polite and neutral
 :::
 
-### B. Model Check: Why a Better Clarification Question Works
+### B. Example Check: Why a Better Clarification Question Works
 
 ::: learn
 Why a Better Clarification Question Works
@@ -1761,7 +1778,6 @@ The weak question may sound frustrated and gives the reader no clear starting po
 
 Use these phrases when the information is not clear.
 
-#### Asking for Clarification
 
 ::: language
 Asking for Clarification
@@ -1777,7 +1793,6 @@ Asking for Clarification
 - I have a question regarding...
 :::
 
-#### Checking Your Understanding
 
 ::: language
 Checking Your Understanding
@@ -1807,25 +1822,24 @@ Mini contrast:
 - Weak: "Tell me the details."
 - Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
 
-1. What do you mean?  
+1. What do you mean?
    ->
 
-2. I don't understand this part.  
+2. I don't understand this part.
    ->
 
-3. Tell me the details.  
+3. Tell me the details.
    ->
 
-4. What should I do?  
+4. What should I do?
    ->
 :::
 
 ### C. Language 2 - Asking About Missing or Confusing Information
 
-#### Common Situations
 
 ::: learn
-Common Situations Requiring Clarification
+Common Situations
 
 - The instructions are unclear.
 
@@ -1836,7 +1850,6 @@ Common Situations Requiring Clarification
 - A process or requirement is not explained.
 :::
 
-#### Example Clarification Questions
 
 ::: language
 Example Clarification Questions
@@ -1851,7 +1864,7 @@ Example Clarification Questions
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 Clarification writing is easier to answer when the reader does not need to guess:
 
@@ -1867,16 +1880,16 @@ Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
-1. "This is different from what you said before."  
+1. "This is different from what you said before."
    ->
 
-2. "The instructions are confusing."  
+2. "The instructions are confusing."
    ->
 
-3. "I don't know what to write in this part."  
+3. "I don't know what to write in this part."
    ->
 
-4. "The system doesn't work."  
+4. "The system doesn't work."
    ->
 :::
 
@@ -1887,21 +1900,21 @@ Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
-#### Scenario 1
+**Scenario 1**
 
 The instructions say: "Submit the form as soon as possible."
 Your questions:
 1.
 2.
 
-#### Scenario 2
+**Scenario 2**
 
 Two versions of a file are attached, both named "Application_Final".
 Your questions:
 1.
 2.
 
-#### Scenario 3
+**Scenario 3**
 
 A supervisor writes: "Please prepare the report." No details are given.
 Your questions:
@@ -2068,7 +2081,7 @@ Useful paragraph order:
 :::
 
 ::: example
-Mini paragraph frame
+Mini Paragraph Frame
 
 - We reviewed the message received this morning.
 - One required point is still unclear.
@@ -2084,11 +2097,16 @@ Write your paragraph:
 
 ### F. Reflection
 
-1. Which clarification phrase is most useful for you?  
+::: write
+Reflection
 
-2. Do you find it difficult to ask questions politely? Why or why not?  
+1. Which clarification phrase is most useful for you?
+
+2. Do you find it difficult to ask questions politely? Why or why not?
 
 3. Write one clarification question you can use in your work.
+:::
+
 
 ### H. Homework
 
@@ -2139,7 +2157,7 @@ Write what is missing:
 :::
 
 ::: learn
-A useful update answers four questions
+A Useful Update Answers Four Questions
 
 1. What changed?
 
@@ -2150,7 +2168,7 @@ A useful update answers four questions
 4. What happens next?
 :::
 
-### B. Model Check: Why a Good Update Helps the Reader
+### B. Example Check: Why a Good Update Helps the Reader
 
 ::: learn
 Why a Good Update Helps the Reader
@@ -2174,7 +2192,7 @@ That reduces uncertainty and extra follow-up questions.
 ::: language
 Useful Phrases for Delays and Changes
 
-#### Neutral Phrases
+**Neutral Phrases**
 
 - There will be a delay in...
 
@@ -2186,7 +2204,7 @@ Useful Phrases for Delays and Changes
 
 - The update will affect...
 
-#### Explaining the Reason (Optional in admin English)
+**Explaining the Reason (Optional in admin English)**
 
 - due to additional checks
 
@@ -2196,7 +2214,7 @@ Useful Phrases for Delays and Changes
 
 - due to missing information
 
-#### Giving Neutral Information About Next Steps
+**Giving Neutral Information About Next Steps**
 
 - The next update will be provided when available.
 
@@ -2254,16 +2272,15 @@ A clear update message usually follows this pattern:
 4. **Next step / What will happen later:** Neutral, not a request
 :::
 
-#### Model Paragraph (Part of a Report or Update)
 
-::: example
-Model Paragraph
+::: example-good
+Example Paragraph (Part of a Report or Update)
 
 The review process will take longer than expected. Additional checks are required because two documents were incomplete. This delay may affect the planned schedule for the next stage. Further updates will be provided once the remaining documents are ready.
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 The paragraph moves in a useful order:
 
@@ -2283,8 +2300,11 @@ Reorder to Make a Clear Update
 Put the sentences in a logical order.
 
 Sentences:
+
 A. This may affect the planned timeline.
+
 B. The system will be under maintenance on Friday.
+
 C. Users may not be able to access certain functions.
 
 Write the best order:
@@ -2359,11 +2379,14 @@ Freer Practice
 
 Write **two short update emails** (3-4 sentences each).
 
-#### Scenario Options
+**Scenario Options**
 
-A. Write to colleagues about a system update that will take longer than planned because one required check is still incomplete.  
-B. Write to an applicant or partner office to explain that a document will be reviewed later than the original schedule because additional verification is required.  
-C. Write to staff about a change in an internal rule because the old process created repeated filing problems.  
+A. Write to colleagues about a system update that will take longer than planned because one required check is still incomplete.
+
+B. Write to an applicant or partner office to explain that a document will be reviewed later than the original schedule because additional verification is required.
+
+C. Write to staff about a change in an internal rule because the old process created repeated filing problems.
+
 D. Write to meeting participants about a rescheduled meeting because the updated document set will not be ready in time.
 
 In each email, include:
@@ -2456,11 +2479,16 @@ Write your paragraph:
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. What phrases do you find most useful for explaining delays or changes?
 
 2. Is it difficult for you to give neutral explanations without sounding too direct?
 
 3. Which part of this unit was easiest or hardest for you?
+:::
+
 
 ### H. Homework
 
@@ -2495,15 +2523,15 @@ Which Request Sounds More Appropriate?
 
 Read each pair. Choose the request that sounds more professional.
 
-1. a) Send me the file.  
+1. a) Send me the file.
 
    b) Could you please send me the file?
 
-2. a) Tell me the deadline.  
+2. a) Tell me the deadline.
 
    b) Could you let me know the deadline?
 
-3. a) I need the applicant's number.  
+3. a) I need the applicant's number.
 
    b) Could you provide the applicant's number?
 
@@ -2511,7 +2539,7 @@ Read each pair. Choose the request that sounds more professional.
 :::
 
 ::: learn
-Quick rule for polite requests
+Quick Rule for Polite Requests
 
 - choose a polite request form
 
@@ -2522,7 +2550,7 @@ Quick rule for polite requests
 - close without pressure
 :::
 
-### B. Model Check: Why the Polite Version Works
+### B. Example Check: Why the Polite Version Works
 
 ::: learn
 Why the Polite Version Works
@@ -2549,10 +2577,9 @@ Different request forms sound **more or less polite**. In administrative writing
 
 - the formality of the situation
 
-#### Politeness Scale (from direct ->most polite)
 
 ::: language
-Politeness Scale
+Politeness Scale (From Direct to Most Polite)
 
 | Form | Example | Tone/Use |
 
@@ -2571,10 +2598,9 @@ Politeness Scale
 | **I would appreciate it if you could...** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
 :::
 
-#### Key Notes
 
 ::: learn
-Key Notes on Request Forms
+Key Notes
 
 - **`Can you...?` is grammatically correct but **not appropriate** in most administrative emails.
 
@@ -2585,10 +2611,9 @@ Key Notes on Request Forms
 - **`I would appreciate it if...` shows gratitude in advance and sounds formal.
 :::
 
-#### Adding Context (Why You Need the Information)
 
 ::: language
-Adding Context
+Adding Context (Why You Need the Information)
 
 Often a request is clearer when you add **one short context sentence**.
 
@@ -2639,13 +2664,13 @@ Requests with Specific Details
 
 A good request includes:
 
-1. What you need  
+1. What you need
 
-2. Any necessary details  
+2. Any necessary details
 
 3. A polite expression
 
-#### Examples
+**Examples**
 
 - Could you please send **the updated version of Form A**?
 
@@ -2699,10 +2724,9 @@ Administrative English avoids:
 - Pressure (ASAP, immediately)
 :::
 
-#### Better Alternatives
 
 ::: language
-Softening Phrases
+Better Alternatives
 
 - when you have time
 
@@ -2712,9 +2736,9 @@ Softening Phrases
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-A polite request does not become weak.  
+A polite request does not become weak.
 It becomes easier for the reader to accept and complete.
 
 Good request writing balances:
@@ -2797,11 +2821,14 @@ Freer Practice
 Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
 
-#### Options
+**Options**
 
-A. Write to a colleague to confirm a meeting time because the draft agenda still depends on the final schedule.  
-B. Write to a colleague or partner office to request the correct version of a submitted file because the current attachment does not match the review record.  
-C. Write to an applicant to request information missing from their documents because the review cannot continue without that detail.  
+A. Write to a colleague to confirm a meeting time because the draft agenda still depends on the final schedule.
+
+B. Write to a colleague or partner office to request the correct version of a submitted file because the current attachment does not match the review record.
+
+C. Write to an applicant to request information missing from their documents because the review cannot continue without that detail.
+
 D. Write to a colleague to request clarification before finalising a report because one section still lacks a confirmed figure.
 
 In each email, include:
@@ -2900,11 +2927,16 @@ Write your paragraph:
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. What polite request phrase do you prefer using?
 
 2. Do you sometimes write requests that are too direct? Why?
 
 3. Which softening phrase will you try in future emails?
+:::
+
 
 ### H. Homework
 
@@ -3033,8 +3065,8 @@ Why this email causes trouble for the reader:
 - the reader still does not know what exact action to take
 :::
 
-::: example
-Stronger version
+::: example-good
+Stronger Version
 
 Subject: Request to resend the student information form
 
@@ -3198,10 +3230,9 @@ It should:
 - Use consistent formatting (numbers or bullets)
 :::
 
-#### Example (Part of a Larger Manual)
 
-::: example
-Example Procedure
+::: example-good
+Example (Part of a Larger Manual)
 
 Steps to create a new file record:
 
@@ -3221,7 +3252,7 @@ Which Procedure Is Better?
 
 Compare the two versions. Choose the clearer one.
 
-#### Version A
+**Version A**
 
 - Check the form.
 
@@ -3229,7 +3260,7 @@ Compare the two versions. Choose the clearer one.
 
 - After you check everything, send it.
 
-#### Version B
+**Version B**
 
 1. Check the form for complete and correct information.
 
@@ -3241,7 +3272,7 @@ Compare the two versions. Choose the clearer one.
 :::
 
 ::: learn
-Good procedures usually
+Good Procedures Usually
 
 - use one clear action in each step
 
@@ -3250,7 +3281,7 @@ Good procedures usually
 - stay consistent in format and wording
 :::
 
-### B. Model Check: Why Version B Works Better
+### B. Example Check: Why Version B Works Better
 
 ::: learn
 Why Version B Works Better
@@ -3267,7 +3298,7 @@ Version A feels less useful because one step contains too many ideas and the ord
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 Procedures reduce reader error when:
 
@@ -3341,9 +3372,9 @@ Rewrite each instruction using a **clear action verb**.
 Procedures must follow a logical sequence.
 
 ::: learn
-Teaching point
+Teaching Point
 
-If the order is wrong, even correct instructions can cause mistakes.  
+If the order is wrong, even correct instructions can cause mistakes.
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 :::
 
@@ -3353,9 +3384,13 @@ A procedure is useful only when the reader can complete the task in the same ord
 Put the Steps in Order
 
 Steps for verifying an application:
+
 A. Review the file for missing documents.
+
 B. Save the updated file.
+
 C. Enter the applicant's information into the system.
+
 D. Confirm the submission date.
 
 Write the correct order:
@@ -3372,7 +3407,7 @@ Add Missing Steps
 
 Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
-#### Procedure 1
+**Procedure 1**
 
 1. Open the shared folder.
 
@@ -3380,7 +3415,7 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 3.
 4.
 
-#### Procedure 2
+**Procedure 2**
 
 1. Review the applicant's form.
 
@@ -3435,11 +3470,14 @@ Freer Practice
 Write **two different procedures** (4-5 steps each).
 Choose any two situations below:
 
-#### Options
+**Options**
 
 A. A new colleague needs to know how to prepare a file for internal review.
+
 B. A team member needs instructions for renaming and saving scanned documents.
+
 C. A new staff member needs to know how to check and update applicant information.
+
 D. A colleague needs to know how to submit a form to another department.
 
 For each procedure, make clear who will use it and what task it helps them complete.
@@ -3553,11 +3591,16 @@ Write one sentence on each line where possible.
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. What is difficult about writing procedures?
 
 2. Do you prefer numbered steps or bullet points? Why?
 
 3. Which instruction verbs are useful for your work?
+:::
+
 
 ### H. Homework
 
@@ -3601,12 +3644,11 @@ An **internal notice** is a short message shared inside a department or organisa
 - Does **not** include personal opinions or unnecessary details
 :::
 
-#### Example (Part of a Larger Internal Bulletin)
 
-::: example
-Example Notice
+::: example-good
+Example (Part of a Larger Internal Bulletin)
 
-Internal Notice - File System Update  
+Internal Notice - File System Update
 The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
 :::
 
@@ -3617,20 +3659,20 @@ Which Notice Is Clearer?
 
 Read the two notices. Choose the clearer one.
 
-#### Notice A
+**Notice A**
 
 There was a problem with the system today. Please be careful. We will check it. Thank you.
 
-#### Notice B
+**Notice B**
 
-System Notice - Temporary Error  
+System Notice - Temporary Error
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
 **Discussion:** Why is Notice B clearer and more useful?
 :::
 
 ::: learn
-Quick notice check
+Quick Notice Check
 
 - Is the topic clear in the heading or first line?
 
@@ -3641,7 +3683,7 @@ Quick notice check
 - Does the notice show what happens next?
 :::
 
-### B. Model Check: Why Notice B Works Better
+### B. Example Check: Why Notice B Works Better
 
 ::: learn
 Why Notice B Works Better
@@ -3661,9 +3703,9 @@ Notice A feels weak because the reader still does not know:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-A notice is useful when it reduces uncertainty.  
+A notice is useful when it reduces uncertainty.
 The reader should be able to understand the situation without asking a second question immediately.
 :::
 
@@ -3683,12 +3725,11 @@ A clear internal notice usually includes:
 4. **Next step or what happens later** (neutral, not a request)
 :::
 
-#### Model Notice
 
-::: example
-Model Notice
+::: example-good
+Example Notice
 
-Internal Notice - Document Review Schedule  
+Internal Notice - Document Review Schedule
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 :::
 
@@ -3707,7 +3748,7 @@ Label each part with: **H = Heading**, **B = Background**, **E = Essential infor
 
 4. More information will be shared after the review.
 
-Your answers:  
+Your answers:
 1.
 2.
 3.
@@ -3728,7 +3769,6 @@ Internal notices use **neutral, factual language**. Avoid:
 - Requests or instructions (unless necessary)
 :::
 
-#### Rewrite These to Make Them Neutral
 
 ::: rewrite
 Rewrite These to Make Them Neutral
@@ -3825,11 +3865,14 @@ Freer Practice
 Choose two situations and write two internal notices.
 Write each notice for colleagues inside your organisation.
 
-#### Options
+**Options**
 
-A. A scheduled meeting time has changed for your team.  
-B. A new internal rule will begin next month in your department.  
-C. An external office will conduct a short audit next week at your section.  
+A. A scheduled meeting time has changed for your team.
+
+B. A new internal rule will begin next month in your department.
+
+C. An external office will conduct a short audit next week at your section.
+
 D. Monthly reports will be reviewed later than usual this month.
 
 Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
@@ -3882,7 +3925,7 @@ Mini contrast:
 
 **Original:**
 
-Notice  
+Notice
 There is a problem with the files today. Please be careful. More later.
 
 **Rewrite:**
@@ -3953,11 +3996,16 @@ Use this box for one complete version.
 
 ### F. Reflection
 
-1. What makes a notice effective or ineffective?  
+::: write
+Reflection
 
-2. Which part of the notice structure do you find most difficult?  
+1. What makes a notice effective or ineffective?
+
+2. Which part of the notice structure do you find most difficult?
 
 3. Do you prefer short notices or longer bulletin-style notices? Why?
+:::
+
 
 ### H. Homework
 
@@ -4028,7 +4076,7 @@ Write what information is missing:
 :::
 
 ::: learn
-Before you explain a problem, ask
+Before You Explain a Problem, Ask
 
 1. What was supposed to happen?
 
@@ -4041,10 +4089,10 @@ Before you explain a problem, ask
 5. What is the current status?
 :::
 
-### B. Model Check: Why a Strong Problem Explanation Works
+### B. Example Check: Why a Strong Problem Explanation Works
 
 ::: learn
-Model Check: Why a Strong Problem Explanation Works
+Example Check: Why a Strong Problem Explanation Works
 
 A weak explanation usually names only the problem:
 
@@ -4059,9 +4107,9 @@ A stronger explanation helps the reader understand the full picture:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-Professional readers often need to make decisions after reading the explanation.  
+Professional readers often need to make decisions after reading the explanation.
 They need more than the problem label; they need a usable structure.
 :::
 
@@ -4070,7 +4118,7 @@ They need more than the problem label; they need a usable structure.
 ::: language
 Language 1 - Useful Phrases
 
-#### Describing the Issue
+**Describing the Issue**
 
 - There is an issue with...
 
@@ -4080,7 +4128,7 @@ Language 1 - Useful Phrases
 
 - The file cannot be opened.
 
-#### Describing the Cause (if known)
+**Describing the Cause (if known)**
 
 - due to a system error
 
@@ -4090,7 +4138,7 @@ Language 1 - Useful Phrases
 
 - because the server is temporarily unavailable
 
-#### Describing the Effect
+**Describing the Effect**
 
 - This may affect the schedule.
 
@@ -4100,7 +4148,7 @@ Language 1 - Useful Phrases
 
 - The examination cannot continue at this stage.
 
-#### Describing the Current Status
+**Describing the Current Status**
 
 - The issue is being reviewed.
 
@@ -4112,7 +4160,7 @@ Language 1 - Useful Phrases
 :::
 
 ::: learn
-Reader effect
+Reader Effect
 
 These phrases help because they separate different jobs:
 
@@ -4168,7 +4216,7 @@ Use them to give:
 - one useful cause, fact, or example
 - one effect, status, or next-step detail
 
-Mini support model:
+Mini support example:
 
 - Base sentence: "The review is delayed."
 - Detail 1: "Two supporting documents are still missing from the applicant file."
@@ -4252,11 +4300,14 @@ Freer Practice - Write Two Problem Descriptions
 Choose two situations and write clear explanations of **4-5 sentences each**.
 For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
 
-#### Options
+**Options**
 
-A. A deadline must be moved because information is missing.  
-B. A document uploaded by an applicant is corrupted.  
-C. Two systems are giving different results.  
+A. A deadline must be moved because information is missing.
+
+B. A document uploaded by an applicant is corrupted.
+
+C. Two systems are giving different results.
+
 D. A shared drive is not accessible this morning.
 
 In each explanation, include the issue, the effect, and the current status. Add the cause if it is known.
@@ -4338,11 +4389,16 @@ Write your paragraph:
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. What makes a problem explanation clear or unclear?
 
 2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
 
 3. Which is the most difficult?
+:::
+
 
 ### H. Homework
 
@@ -4389,7 +4445,7 @@ A meeting summary is a **brief record** of important points from a meeting. It:
 ::: example
 Example (Part of a Larger Report)
 
-Meeting Summary - Review Preparation Meeting  
+Meeting Summary - Review Preparation Meeting
 The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
 :::
 
@@ -4400,11 +4456,11 @@ Warm-Up: Which Summary Is Clearer?
 
 Compare the two versions.
 
-#### Summary A
+**Summary A**
 
 We talked about many things. Some documents were mentioned. IT will do something with the system. We will meet again.
 
-#### Summary B
+**Summary B**
 
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
 
@@ -4412,7 +4468,7 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 :::
 
 ::: learn
-A useful meeting summary
+A Useful Meeting Summary
 
 - records only the important points
 
@@ -4421,10 +4477,10 @@ A useful meeting summary
 - tells the reader what happens next
 :::
 
-### B. Model Check: Why Summary B Works Better
+### B. Example Check: Why Summary B Works Better
 
 ::: learn
-Model Check: Why Summary B Works Better
+Example Check: Why Summary B Works Better
 
 Summary B is stronger because it groups the meeting content by function:
 
@@ -4436,9 +4492,9 @@ Summary A feels weak because it uses vague words like *many things* and *somethi
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-A meeting summary is not a story of everything that happened.  
+A meeting summary is not a story of everything that happened.
 It is a practical record for a reader who needs the important points quickly.
 :::
 
@@ -4457,7 +4513,7 @@ A clear summary usually includes:
 
 - **Next steps / action items**
 
-#### Useful Phrases
+**Useful Phrases**
 
 - The team discussed...
 
@@ -4471,7 +4527,7 @@ A clear summary usually includes:
 :::
 
 ::: learn
-Teaching point
+Teaching Point
 
 If you only list discussion points, the reader may not know what matters.
 
@@ -4576,12 +4632,15 @@ Freer Practice - Write Two Summaries
 Choose two situations and write meeting summaries of **4-5 sentences each**.
 For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
 
-#### Options
+**Options**
 
-A. Discussion about unclear instructions in a new form.  
-B. Planning meeting for the next internal audit.  
-C. Review of applicant files before submission.  
-D. Discussion about solving a system access issue.  
+A. Discussion about unclear instructions in a new form.
+
+B. Planning meeting for the next internal audit.
+
+C. Review of applicant files before submission.
+
+D. Discussion about solving a system access issue.
 
 Include the topic, the main point or decision, and one next step in each summary.
 
@@ -4676,11 +4735,16 @@ Use this box for one complete version.
 
 ### F. Reflection
 
-1. What part of meeting summaries is easiest for you?  
+::: write
+Reflection
 
-2. What part is the most difficult?  
+1. What part of meeting summaries is easiest for you?
+
+2. What part is the most difficult?
 
 3. Which phrases from this unit will you use in your work?
+:::
+
 
 ### H. Homework
 
@@ -4700,7 +4764,7 @@ If you do not want to use a real meeting, choose one Unit 11 freer-practice scen
 ### Key lessons to keep
 
 ::: learn
-Key lessons to keep
+Key Lessons to Keep
 
 - Unit 8: A procedure succeeds when each step is visible, ordered, and easy for a new reader to follow.
 - Unit 9: A notice works when it explains the change, the reason, and the action the reader must take.
@@ -4711,7 +4775,7 @@ Key lessons to keep
 ### Reader-purpose comparison
 
 ::: notice
-Reader-purpose comparison
+Reader-Purpose Comparison
 
 Look at these two short summaries.
 
@@ -4732,7 +4796,7 @@ Use the comparison to decide:
 ### Module 3 self-edit routine
 
 ::: edit
-Module 3 self-edit routine
+Module 3 Self-Edit Routine
 
 Review one procedure, notice, problem note, or summary from this module.
 
@@ -4746,7 +4810,7 @@ Review one procedure, notice, problem note, or summary from this module.
 ### Module 3 transfer task
 
 ::: write
-Module 3 transfer task
+Module 3 Transfer Task
 
 Write a short internal communication pack about one small workplace issue such as a room change, a software problem, or a meeting follow-up.
 
@@ -4766,7 +4830,7 @@ Then write three reflection notes:
 ### Module 3 structure clinic
 
 ::: learn
-Module 3 structure clinic
+Module 3 Structure Clinic
 
 Module 3 teaches a simple but important workplace rule: the reader should not need to guess the order of information.
 
@@ -4783,7 +4847,7 @@ When a text feels weak, ask which one of these patterns it should follow. Many i
 ### Module 3 weak-to-strong comparison
 
 ::: notice
-Module 3 weak-to-strong comparison
+Module 3 Weak-to-Strong Comparison
 
 Read these two internal notices.
 
@@ -4806,7 +4870,7 @@ Use that same logic when revising a procedure, a problem note, or a meeting summ
 ### Module 3 revision lab
 
 ::: write
-Module 3 revision lab
+Module 3 Revision Lab
 
 Create one short internal communication set about a realistic office problem such as:
 
@@ -4832,7 +4896,7 @@ Then review the set with these prompts:
 ### Module 3 internal-writing planning board
 
 ::: structure
-Module 3 internal-writing planning board
+Module 3 Internal-Writing Planning Board
 
 Use this planning board before drafting any procedure, notice, problem note, or meeting summary.
 
@@ -4855,7 +4919,7 @@ This board helps because Module 3 is often weakened by hidden structure problems
 ### Module 3 sequencing rebuild lab
 
 ::: revise
-Module 3 sequencing rebuild lab
+Module 3 Sequencing Rebuild Lab
 
 Take one weak internal message and rebuild it in two passes.
 
@@ -4877,11 +4941,11 @@ Reflection prompts:
 ### Module 3 internal-document rebuild workshop
 
 ::: revise
-Module 3 internal-document rebuild workshop
+Module 3 Internal-Document Rebuild Workshop
 
 When an internal text still feels too thin, rebuild it with this workshop.
 
-#### Step 1 - Name the document job
+**Step 1 - Name the document job**
 
 Choose one:
 
@@ -4896,7 +4960,7 @@ Then complete:
 - after reading, the reader should be able to ...
 - the most important sentence must appear by line ...
 
-#### Step 2 - Build the use-path
+**Step 2 - Build the use-path**
 
 Use the matching path:
 
@@ -4919,7 +4983,7 @@ Use the matching path:
   - decision
   - next step
 
-#### Step 3 - Add a reader-use sentence
+**Step 3 - Add a reader-use sentence**
 
 Many weak internal texts explain something but still do not tell the reader what to do with the information.
 
@@ -4943,7 +5007,7 @@ The stronger version works because it combines change, reason, and action in a u
 ### Module 3 reader-use comparison set
 
 ::: notice
-Module 3 reader-use comparison set
+Module 3 Reader-Use Comparison Set
 
 Compare these two meeting-summary endings.
 
@@ -4982,7 +5046,7 @@ By the end of this module, you should be able to:
 
 Use this module carefully:
 
-- notice how the model versions change for audience, not only for grammar
+- notice how the example versions change for audience, not only for grammar
 - pay attention to the `Why this works`notes about reader confidence and clarity
 - use the self-check to confirm that your message is answerable and well sequenced
 - complete the editing practice so you can repair weak audience control
@@ -5019,9 +5083,9 @@ It should:
 ::: example
 Example (Part of a Larger Message Chain)
 
-Subject: Inquiry Regarding Updated Application Guidelines  
+Subject: Inquiry Regarding Updated Application Guidelines
 Dear Review Office Team,
-We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.  
+We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.
 Thank you.
 :::
 
@@ -5032,15 +5096,15 @@ Warm-Up: Which Inquiry Is Better?
 
 Compare the two versions.
 
-#### Email A
+**Email A**
 
-Subject: Question  
+Subject: Question
 Hi,
 I don't understand the guidelines. Please explain.
 
-#### Email B
+**Email B**
 
-Subject: Question About Guidelines - Section 4  
+Subject: Question About Guidelines - Section 4
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
 
@@ -5048,7 +5112,7 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 :::
 
 ::: learn
-A good external inquiry
+A Good External Inquiry
 
 - tells the reader why you are asking
 
@@ -5057,10 +5121,10 @@ A good external inquiry
 - asks one clear question at a time
 :::
 
-### B. Model Check: Why Email B Works Better
+### B. Example Check: Why Email B Works Better
 
 ::: learn
-Model Check: Why Email B Works Better
+Example Check: Why Email B Works Better
 
 Email B works better because the outside reader gets:
 
@@ -5068,14 +5132,14 @@ Email B works better because the outside reader gets:
 - one clear question
 - a polite tone
 
-Email A is too short to be useful.  
+Email A is too short to be useful.
 The reader still has to guess what part of the guidelines is causing the problem.
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-External readers do not share all of your office context.  
+External readers do not share all of your office context.
 A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
 :::
 
@@ -5098,7 +5162,7 @@ A clear inquiry email usually includes:
 
 6. **Sign-off**
 
-#### Background
+**Background**
 
 - We are currently reviewing...
 
@@ -5106,7 +5170,7 @@ A clear inquiry email usually includes:
 
 - We have a question regarding...
 
-#### Questions
+**Questions**
 
 - Could you clarify...?
 
@@ -5114,7 +5178,7 @@ A clear inquiry email usually includes:
 
 - Could you provide more information about...?
 
-#### Closing
+**Closing**
 
 - Thank you for your assistance.
 
@@ -5122,7 +5186,7 @@ A clear inquiry email usually includes:
 
 - Further information will help us complete our review.
 
-Mini inquiry model:
+Mini inquiry example:
 
 - Background: We are checking the revised submission notice for next week's review.
 - Question: Could you confirm which version of Form B should be used for corrected applications?
@@ -5130,7 +5194,7 @@ Mini inquiry model:
 :::
 
 ::: learn
-Teaching point
+Teaching Point
 
 An external inquiry often needs two jobs:
 
@@ -5152,7 +5216,7 @@ For each one, make sure you:
 - use a polite request form
 - avoid sounding demanding
 
-Mini model:
+Mini example:
 
 - Weak: "What is the rule?"
 - Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
@@ -5185,7 +5249,7 @@ Use the background sentence to answer:
 - What part is still unclear?
 - Why do you need the answer now?
 
-Mini model:
+Mini example:
 
 - Weak background: "I have a question."
 - Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
@@ -5252,11 +5316,14 @@ Freer Practice - Write Two External Inquiry Emails
 Choose two situations below.
 For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
 
-#### Options
+**Options**
 
-A. You need clarification about a new applicant requirement.  
-B. Two different documents give different deadlines.  
-C. You have a question about the correct version of a form.  
+A. You need clarification about a new applicant requirement.
+
+B. Two different documents give different deadlines.
+
+C. You have a question about the correct version of a form.
+
 D. You need confirmation about the schedule for an external audit.
 
 Include a specific subject line, brief background, one clear question, and a polite closing in each email.
@@ -5278,8 +5345,8 @@ Rewrite this inquiry so the outside reader can answer it more easily.
 
 **Original:**
 
-Subject: Question  
-Hi,  
+Subject: Question
+Hi,
 We do not understand this and need help. Please explain the rule.
 
 **Rewrite:**
@@ -5353,11 +5420,16 @@ Use this box for one complete version.
 
 ### F. Reflection
 
-1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
+::: write
+Reflection
 
-2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
+1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?
+
+2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?
 
 3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
+:::
+
 
 ### H. Homework
 
@@ -5432,7 +5504,7 @@ What is missing?
 :::
 
 ::: learn
-A useful explanation helps the reader
+A Useful Explanation Helps the Reader
 
 - understand the situation
 
@@ -5441,10 +5513,10 @@ A useful explanation helps the reader
 - understand the effect on the work
 :::
 
-### B. Model Check: Why a Better Explanation Works
+### B. Example Check: Why a Better Explanation Works
 
 ::: learn
-Model Check: Why a Better Explanation Works
+Example Check: Why a Better Explanation Works
 
 Compare:
 
@@ -5465,7 +5537,7 @@ The reader does not need to guess the practical meaning.
 ::: language
 Language 1 - Useful Phrases for Explanations
 
-#### Giving Background
+**Giving Background**
 
 - The purpose of this process is...
 
@@ -5473,7 +5545,7 @@ Language 1 - Useful Phrases for Explanations
 
 - This step is required because...
 
-#### Explaining the Reason
+**Explaining the Reason**
 
 - because...
 
@@ -5481,7 +5553,7 @@ Language 1 - Useful Phrases for Explanations
 
 - as a result of...
 
-#### Giving Additional Information
+**Giving Additional Information**
 
 - This means that...
 
@@ -5489,7 +5561,7 @@ Language 1 - Useful Phrases for Explanations
 
 - For this reason...
 
-Mini explanation model:
+Mini explanation example:
 
 - Background: We reviewed the updated case file this morning.
 - Reason: Two uploaded documents do not match the information in the system.
@@ -5497,7 +5569,7 @@ Mini explanation model:
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 Simple explanations are useful when they help the reader follow a short chain:
 
@@ -5520,7 +5592,7 @@ Build each answer so the reader can understand:
 - why it happened
 - why it matters
 
-Mini model:
+Mini example:
 
 - Weak: "The schedule changed."
 - Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
@@ -5619,11 +5691,14 @@ Freer Practice - Write Two Explanations
 Choose two situations and write explanations.
 For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
 
-#### Options
+**Options**
 
 A. The applicant used an old version of the form.
+
 B. A system update changed the display order of documents.
+
 C. A reviewer found inconsistent information in two files.
+
 D. A required field was left blank.
 
 Include background, the main issue, and the reason or effect in each explanation.
@@ -5718,11 +5793,16 @@ Write your paragraph:
 
 ### F. Reflection
 
-1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
+::: write
+Reflection
 
-2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
+1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.
+
+2. If a new colleague read your explanation, which detail would help them understand the situation fastest?
 
 3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
+:::
+
 
 ### H. Homework
 
@@ -5795,7 +5875,7 @@ Write the point of confusion:
 :::
 
 ::: learn
-A good clarification response
+A Good Clarification Response
 
 - acknowledges the confusion politely
 
@@ -5804,10 +5884,10 @@ A good clarification response
 - adds one useful detail if needed
 :::
 
-### B. Model Check: Why the Stronger Response Works
+### B. Example Check: Why the Stronger Response Works
 
 ::: learn
-Model Check: Why the Stronger Response Works
+Example Check: Why the Stronger Response Works
 
 The example response is stronger because it does three things in order:
 
@@ -5819,7 +5899,7 @@ That order helps the reader feel supported instead of corrected aggressively.
 :::
 
 ::: learn
-Why this works
+Why This Works
 
 When someone is confused, the reader often needs both:
 
@@ -5834,7 +5914,7 @@ If the writer gives only the correction, the response may feel too abrupt.
 ::: language
 Language 1 - Useful Clarification Phrases
 
-#### Acknowledging the Confusion
+**Acknowledging the Confusion**
 
 - Thank you for your question.
 
@@ -5842,7 +5922,7 @@ Language 1 - Useful Clarification Phrases
 
 - Thank you for checking.
 
-#### Restating Information
+**Restating Information**
 
 - To clarify...
 
@@ -5850,7 +5930,7 @@ Language 1 - Useful Clarification Phrases
 
 - The updated requirement is...
 
-#### Giving Additional Details
+**Giving Additional Details**
 
 - This applies only to...
 
@@ -5860,9 +5940,9 @@ Language 1 - Useful Clarification Phrases
 :::
 
 ::: learn
-Transfer reminder
+Transfer Reminder
 
-The response should stay focused on solving the confusion.  
+The response should stay focused on solving the confusion.
 Do not turn it into a complaint about the other person's mistake.
 :::
 
@@ -5879,7 +5959,7 @@ Aim for this order when possible:
 2. state the correct information
 3. add the next useful detail
 
-Mini model:
+Mini example:
 
 - Weak: "You misunderstood the instructions."
 - Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
@@ -5962,11 +6042,14 @@ Freer Practice - Write Two Responses
 Choose two situations and write your responses.
 For each one, write a short response to the person who is confused or has misunderstood the information.
 
-#### Options
+**Options**
 
-A. A reviewer believes the system error has been fixed, but it is still under investigation.  
-B. A colleague thinks an applicant must redo the entire form, but only one page is incorrect.  
-C. Someone believes the new rule applies to all departments, but it applies only to one team.  
+A. A reviewer believes the system error has been fixed, but it is still under investigation.
+
+B. A colleague thinks an applicant must redo the entire form, but only one page is incorrect.
+
+C. Someone believes the new rule applies to all departments, but it applies only to one team.
+
 D. A colleague misunderstood the meeting location.
 
 In each response, acknowledge the confusion, state the correct information, and add one useful detail.
@@ -6060,11 +6143,16 @@ Write your paragraph:
 
 ### F. Reflection
 
-1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
+::: write
+Reflection
 
-2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
+1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?
+
+2. In your draft, where did you need to reduce blame or defensiveness most carefully?
 
 3. How would your response change if the reader were a colleague instead of an outside contact?
+:::
+
 
 ### H. Homework
 
@@ -6116,15 +6204,19 @@ Consistency helps:
 - Prevent confusion caused by different writing styles
 :::
 
-::: example
-Example - Inconsistent vs. Consistent
+::: example-bad
+Example — Inconsistent vs. Consistent
 
-**Inconsistent:**  
+**Inconsistent:**
 Hi, I checked it. Please tell me what to do. Thanks.
+:::
 
-**Consistent:**  
+::: example-good
+Consistent Version
+
+**Consistent:**
 Dear Team,
-I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?  
+I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?
 Thank you.
 :::
 
@@ -6135,25 +6227,25 @@ Warm-Up: Identify the Inconsistencies
 
 Read the two emails. What is inconsistent?
 
-#### Email A
+**Email A**
 
-Subject: Info  
-Hi,  
-I saw it. What next?  
+Subject: Info
+Hi,
+I saw it. What next?
 Thx.
 
-#### Email B
+**Email B**
 
-Subject: Information Required for Review  
-Dear Team,  
-We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
+Subject: Information Required for Review
+Dear Team,
+We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
 Thank you.
 
 What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 :::
 
 ::: learn
-To keep email style consistent, check
+To Keep Email Style Consistent, Check
 
 - subject line
 
@@ -6166,10 +6258,10 @@ To keep email style consistent, check
 - closing and sign-off
 :::
 
-### B. Model Check: Why the Consistent Version Works
+### B. Example Check: Why the Consistent Version Works
 
 ::: learn
-Model Check: Why the Consistent Version Works
+Example Check: Why the Consistent Version Works
 
 The consistent version is stronger because every part supports the same professional image:
 
@@ -6183,9 +6275,9 @@ Inconsistent emails slow the reader down because the format and tone change from
 :::
 
 ::: learn
-Why this works
+Why This Works
 
-Consistency helps the reader know what to expect.  
+Consistency helps the reader know what to expect.
 It also helps teams sound reliable instead of random.
 :::
 
@@ -6196,7 +6288,7 @@ Language 1 - Standard Email Elements
 
 Use standardised components to create consistency.
 
-#### Openings
+**Openings**
 
 - Dear Mr./Ms. [Name],
 
@@ -6204,7 +6296,7 @@ Use standardised components to create consistency.
 
 - Thank you for your email.
 
-#### Purpose Statements
+**Purpose Statements**
 
 - I am writing to...
 
@@ -6212,7 +6304,7 @@ Use standardised components to create consistency.
 
 - We have a question regarding...
 
-#### Closings
+**Closings**
 
 - Thank you.
 
@@ -6287,7 +6379,7 @@ When you rewrite it, decide:
 - which sentence should become the direct request
 - what closing fits the tone
 
-Mini model:
+Mini example:
 
 - Weak:
   Subject: Question
@@ -6301,7 +6393,7 @@ Mini model:
   Thank you for your help.
 
 **Original:**
-Subject: Question  
+Subject: Question
 Hi, I saw the file. It looks wrong. Please explain. Thanks.
 
 Rewrite here:
@@ -6315,7 +6407,7 @@ Guided Practice - Standardise a Draft Email
 Rewrite the following email to make it consistent.
 
 **Original:**
-Subject: Form  
+Subject: Form
 I checked it. The date is different from the one in the system. What should we do? Thx.
 
 Rewrite it as a short email to a colleague or team mailbox using a consistent professional style.
@@ -6349,11 +6441,14 @@ Freer Practice - Write Two Consistent Emails
 Choose two situations and write emails using **consistent tone and structure**.
 For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
 
-#### Options
+**Options**
 
-A. Asking for clarification about a missing document.  
-B. Informing a colleague about a small change in schedule.  
-C. Requesting information from another team.  
+A. Asking for clarification about a missing document.
+
+B. Informing a colleague about a small change in schedule.
+
+C. Requesting information from another team.
+
 D. Sharing an update after reviewing a file.
 
 Make the reader clear in each email and keep the tone, layout, and sign-off consistent.
@@ -6437,11 +6532,16 @@ Write your paragraph:
 
 ### F. Reflection
 
+::: write
+Reflection
+
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
 2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
 
 3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
+:::
+
 
 ### H. Homework
 
@@ -6461,7 +6561,7 @@ If you do not want to use real emails, choose two Unit 15 freer-practice situati
 ### Key lessons to keep
 
 ::: learn
-Key lessons to keep
+Key Lessons to Keep
 
 - Unit 12: An inquiry helps the reader reply when the background is short, the question is specific, and the tone is respectful.
 - Unit 13: An explanation becomes easier to follow when details are grouped and connected instead of piled together.
@@ -6472,7 +6572,7 @@ Key lessons to keep
 ### Audience-control comparison
 
 ::: notice
-Audience-control comparison
+Audience-Control Comparison
 
 Study these two openings.
 
@@ -6493,7 +6593,7 @@ Now answer:
 ### Module 4 communication checklist
 
 ::: edit
-Module 4 communication checklist
+Module 4 Communication Checklist
 
 Use this checklist on one text from Units 12-15.
 
@@ -6507,7 +6607,7 @@ Use this checklist on one text from Units 12-15.
 ### Module 4 transfer task
 
 ::: write
-Module 4 transfer task
+Module 4 Transfer Task
 
 Create a short two-part communication set about one administrative issue such as a missing document, a confusing instruction, or an inconsistent email pattern.
 
@@ -6526,7 +6626,7 @@ Then add a note explaining:
 ### Module 4 audience-shift map
 
 ::: learn
-Module 4 audience-shift map
+Module 4 Audience-Shift Map
 
 Module 4 becomes stronger when you can explain not only what changed in the message, but why it changed.
 
@@ -6547,7 +6647,7 @@ The same topic may need three different shapes because each reader has a differe
 ### Module 4 reader-trust clinic
 
 ::: notice
-Module 4 reader-trust clinic
+Module 4 Reader-Trust Clinic
 
 Read these two responses to the same problem.
 
@@ -6570,7 +6670,7 @@ This principle matters across Units 12 to 15. A message can be grammatically sim
 ### Module 4 revision lab
 
 ::: write
-Module 4 revision lab
+Module 4 Revision Lab
 
 Choose one scenario:
 
@@ -6595,7 +6695,7 @@ After writing, explain:
 ### Module 4 reader-planning grid
 
 ::: structure
-Module 4 reader-planning grid
+Module 4 Reader-Planning Grid
 
 Before you send any outward-facing message in this module, fill in this grid.
 
@@ -6617,7 +6717,7 @@ When a message still feels weak after grammar editing, the problem is often here
 ### Module 4 external communication rebuild lab
 
 ::: revise
-Module 4 external communication rebuild lab
+Module 4 External Communication Rebuild Lab
 
 Choose one scenario:
 
@@ -6647,11 +6747,11 @@ This lab matters because Module 4 is not only about being polite. It is about ma
 ### Module 4 outward-facing rebuild workshop
 
 ::: revise
-Module 4 outward-facing rebuild workshop
+Module 4 Outward-Facing Rebuild Workshop
 
 Use this workshop when an external-facing message still feels underbuilt after one revision.
 
-#### Step 1 - Reader need check
+**Step 1 - Reader need check**
 
 Write short answers to these questions:
 
@@ -6660,7 +6760,7 @@ Write short answers to these questions:
 3. Which detail would only matter to your internal team?
 4. What kind of trust does this reader need from the message?
 
-#### Step 2 - Answerability rebuild
+**Step 2 - Answerability rebuild**
 
 Rebuild the message so it becomes easier to answer or follow.
 
@@ -6672,7 +6772,7 @@ Check each sentence:
 
 If a sentence does none of those jobs, remove or rewrite it.
 
-#### Step 3 - Reader-trust rebuild
+**Step 3 - Reader-trust rebuild**
 
 Now review the tone with this contrast:
 
@@ -6694,7 +6794,7 @@ The stronger version works because it protects trust, explains the sequence, and
 ### Module 4 audience-shift practice set
 
 ::: write
-Module 4 audience-shift practice set
+Module 4 Audience-Shift Practice Set
 
 Take one workplace issue such as:
 
@@ -6783,13 +6883,13 @@ Warm-Up: Spot the Errors
 
 Correct the mistakes in each sentence.
 
-1. *The applicant have submit the form yesterday.*  
+1. *The applicant have submit the form yesterday.*
 
-2. *Please confirm the informations.*  
+2. *Please confirm the informations.*
 
-3. *We checking the files now.*  
+3. *We checking the files now.*
 
-4. *The review start next week.*  
+4. *The review start next week.*
 
 Write your corrections:
 1.
@@ -6799,7 +6899,7 @@ Write your corrections:
 :::
 
 ::: learn
-Quick accuracy check
+Quick Accuracy Check
 
 - Is the verb form correct?
 
@@ -6810,10 +6910,10 @@ Quick accuracy check
 - Is the punctuation clear?
 :::
 
-### B. Model Check: Why Accuracy Matters To The Reader
+### B. Example Check: Why Accuracy Matters To The Reader
 
 ::: learn
-Model Check: Why Accuracy Matters To The Reader
+Example Check: Why Accuracy Matters To The Reader
 
 Compare:
 
@@ -6849,27 +6949,27 @@ One small change can stop the reader from doubting the message.
 ::: language
 Language 1 - Common Accuracy Problems
 
-#### Verb Forms
+**Verb Forms**
 
 - We **reviewed** the file yesterday. (past)
 
 - We **are reviewing** the file now. (present continuous)
 
-#### Articles
+**Articles**
 
 - The file is in **the** shared folder.
 
 - Please attach **a** document.
 
-#### Prepositions
+**Prepositions**
 
-- The meeting is **on** Monday.  
+- The meeting is **on** Monday.
 
 - The update will be available **after** 3 p.m.
 :::
 
 ::: learn
-Editing principle
+Editing Principle
 
 When you edit for accuracy, check one error family at a time:
 
@@ -6900,16 +7000,16 @@ Accuracy check:
 - [ ] Does the time reference make sense?
 - [ ] Does the noun or verb form match the message?
 
-1. *The system under maintenance today.*  
+1. *The system under maintenance today.*
    ->
 
-2. *We will checking the documents.*  
+2. *We will checking the documents.*
    ->
 
-3. *Please send me informations about new procedure.*  
+3. *Please send me informations about new procedure.*
    ->
 
-4. *The documents is complete.*  
+4. *The documents is complete.*
    ->
 :::
 
@@ -6920,13 +7020,13 @@ Practice B - Edit for Accuracy
 
 Each short text contains 4-5 errors. Rewrite the corrected version.
 
-#### Text 1
+**Text 1**
 
 *The file are not complete. We need to check it again before send it to the next team. The applicant not submit the correct form.*
 
 Corrected version:
 
-#### Text 2
+**Text 2**
 
 *We reviewing the documents now. There is many missings informations. Please confirm us the deadline.*
 
@@ -6941,8 +7041,8 @@ Guided Practice - Edit a Short Administrative Email
 You are editing a short email draft before it is sent to a colleague or applicant.
 
 **Original Email:**
-Subject: Form  
-Hi,  
+Subject: Form
+Hi,
 I check the document yesterday and it have some mistake. The informations in section 2 is not correct and applicant no submit the signature. Please fix it. Thank you.
 
 **Rewrite the corrected, professional version:**
@@ -6974,11 +7074,14 @@ Freer Practice - Edit Two Short Texts
 Choose two situations and write the **accurate, corrected version**.
 For each one, imagine you are the person checking the draft before it is sent or shared.
 
-#### Options
+**Options**
 
-A. A short status update about yesterday's document check with several verb tense mistakes that could confuse the timing.  
-B. A description of a filing problem with article and preposition errors that make the location and document details unclear.  
-C. A simple request email with spelling and agreement errors that must be corrected before it is sent.  
+A. A short status update about yesterday's document check with several verb tense mistakes that could confuse the timing.
+
+B. A description of a filing problem with article and preposition errors that make the location and document details unclear.
+
+C. A simple request email with spelling and agreement errors that must be corrected before it is sent.
+
 D. A meeting summary with grammar errors affecting responsibility, timing, and next-step meaning.
 
 Keep the original meaning, but correct the language so the final version is accurate and usable.
@@ -7050,11 +7153,16 @@ Use your own wording, but make it a routine you could really use at work.
 
 ### F. Reflection
 
-1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
+::: write
+Reflection
 
-2. Which correction in your work changed the meaning or clarity most clearly for the reader?  
+1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.
+
+2. Which correction in your work changed the meaning or clarity most clearly for the reader?
 
 3. What check should come first in your own editing routine next time, and why?
+:::
+
 
 ### H. Homework
 
@@ -7097,9 +7205,9 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 - Avoids ambiguity or vague language
 
-#### Example (Before -> After)
+**Example (Before -> After)**
 
-**Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
+**Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.
 **After:** The document appears to be missing some parts.
 :::
 
@@ -7126,7 +7234,7 @@ Write the problems (too vague? too long? unnecessary words?):
 :::
 
 ::: learn
-Quick clarity check
+Quick Clarity Check
 
 - remove vague words
 
@@ -7137,10 +7245,10 @@ Quick clarity check
 - cut extra words that do not help the reader
 :::
 
-### B. Model Check: Why The Clearer Version Works
+### B. Example Check: Why The Clearer Version Works
 
 ::: learn
-Model Check: Why The Clearer Version Works
+Example Check: Why The Clearer Version Works
 
 Compare:
 
@@ -7161,17 +7269,17 @@ Clarity editing is not only "make it shorter." It is also:
 ::: language
 Language 1 - Common Clarity Problems
 
-#### Vague Language
+**Vague Language**
 
 - "kind of" "maybe" "a bit" "something" "in some places"
 
-#### Unnecessary Words
+**Unnecessary Words**
 
 - The reason is because ->The reason is
 
 - Due to the fact that ->Because
 
-#### Long or Complicated Sentences
+**Long or Complicated Sentences**
 
 - Too many clauses
 
@@ -7222,7 +7330,7 @@ Clear writing follows a **logical order**, often:
 
 - Topic ->Explanation ->Closing idea
 
-#### Example
+**Example**
 
 **Before:** The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.
 
@@ -7248,8 +7356,11 @@ Flow test:
 - Does the final sentence feel like a result, not like a new unrelated fact?
 
 Sentences:
-A. Two forms are incomplete.  
-B. We reviewed the applicant's file this morning.  
+
+A. Two forms are incomplete.
+
+B. We reviewed the applicant's file this morning.
+
 C. This will delay the next review stage.
 
 Write the best order:
@@ -7298,11 +7409,14 @@ Freer Practice - Edit Two Texts for Clarity
 Choose two situations and rewrite them clearly.
 For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
 
-#### Options
+**Options**
 
-A. A confusing explanation of a delay that hides the main cause and the next step.  
-B. A long internal message about missing documents that repeats details instead of stating the main problem clearly.  
-C. A vague status update that uses unclear words and never names the real issue.  
+A. A confusing explanation of a delay that hides the main cause and the next step.
+
+B. A long internal message about missing documents that repeats details instead of stating the main problem clearly.
+
+C. A vague status update that uses unclear words and never names the real issue.
+
 D. A meeting summary with poor organisation that mixes background, decisions, and actions in the wrong order.
 
 Keep the meaning, but make the final version shorter, clearer, and better organized.
@@ -7375,11 +7489,16 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 ### F. Reflection
 
-1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
+::: write
+Reflection
 
-2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?  
+1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.
+
+2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?
 
 3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
+:::
+
 
 ### H. Homework
 
@@ -7429,9 +7548,9 @@ A poor tone may be:
 
 - Impolite or demanding
 
-#### Example (Before -> After)
+**Example (Before -> After)**
 
-**Before:** You didn't send the right file. Send the correct one now.  
+**Before:** You didn't send the right file. Send the correct one now.
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 :::
 
@@ -7458,7 +7577,7 @@ Write the issues:
 :::
 
 ::: learn
-Quick tone check
+Quick Tone Check
 
 - remove blame
 
@@ -7469,10 +7588,10 @@ Quick tone check
 - keep the original purpose
 :::
 
-### B. Model Check: Why The Softer Version Works
+### B. Example Check: Why The Softer Version Works
 
 ::: learn
-Model Check: Why The Softer Version Works
+Example Check: Why The Softer Version Works
 
 Compare:
 
@@ -7493,18 +7612,18 @@ Tone editing is successful when the message stays useful and becomes easier to r
 ::: language
 Language 1 - Softening Direct Language
 
-#### Direct ->Polite
+**Direct ->Polite**
 
-- You didn't submit the file.  
+- You didn't submit the file.
   ->The file does not appear to have been submitted.
 
-- You need to fix this.  
+- You need to fix this.
   ->This section may need correction.
 
-- That is wrong.  
+- That is wrong.
   ->There seems to be an error in this section.
 
-#### Useful Softening Phrases
+**Useful Softening Phrases**
 
 - It appears that...
 
@@ -7556,7 +7675,7 @@ Language 2 - Tone in Emails
 
 Emails often need polite tone markers.
 
-#### Useful Email Tone Markers
+**Useful Email Tone Markers**
 
 - Thank you for your message.
 
@@ -7566,7 +7685,7 @@ Emails often need polite tone markers.
 
 - Please let us know if you need further information.
 
-#### Common Tone Problems
+**Common Tone Problems**
 
 - Imperatives (Send..., Check..., Fix...)
 
@@ -7576,7 +7695,7 @@ Emails often need polite tone markers.
 :::
 
 ::: learn
-Editing principle
+Editing Principle
 
 When revising for tone, try this order:
 
@@ -7593,16 +7712,16 @@ Practice B - Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
-#### Email 1
+**Email 1**
 
-Subject: Document  
+Subject: Document
 You didn't attach the correct file. Attach the right one now.
 
 Rewrite:
 
-#### Email 2
+**Email 2**
 
-Subject: Problem  
+Subject: Problem
 Why didn't you tell me about this earlier? Now we have a delay.
 
 Rewrite:
@@ -7617,8 +7736,8 @@ Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
 
 **Original:**
-Subject: Form  
-Hi,  
+Subject: Form
+Hi,
 The applicant did not follow the instructions again. This is causing problems for us. Fix the form and send it back quickly.
 
 **Rewrite:**
@@ -7650,11 +7769,14 @@ Freer Practice - Write Two Tone-Improved Emails
 Choose two situations and write improved versions.
 For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
 
-#### Options
+**Options**
 
-A. Requesting missing information from an applicant after an earlier draft sounded too abrupt.  
-B. Informing a colleague or outside reader about an inconsistency in the file set without sounding blaming or irritated.  
-C. Explaining that a process will take longer after a rough draft sounded negative or impatient.  
+A. Requesting missing information from an applicant after an earlier draft sounded too abrupt.
+
+B. Informing a colleague or outside reader about an inconsistency in the file set without sounding blaming or irritated.
+
+C. Explaining that a process will take longer after a rough draft sounded negative or impatient.
+
 D. Clarifying a misunderstanding in a way that corrects the point clearly without making the reader feel blamed.
 
 Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication.
@@ -7729,11 +7851,16 @@ We told the applicant many times, but they still submitted the wrong file. This 
 
 ### F. Reflection
 
-1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
+::: write
+Reflection
 
-2. Which softening phrase works best only when the message still stays clear and useful for the reader?  
+1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?
+
+2. Which softening phrase works best only when the message still stays clear and useful for the reader?
 
 3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
+:::
+
 
 ### H. Homework
 
@@ -7753,7 +7880,7 @@ If you do not want to use a real email, choose one Unit 18 freer-practice situat
 ### Key lessons to keep
 
 ::: learn
-Key lessons to keep
+Key Lessons to Keep
 
 - Unit 16: Accuracy matters because small language errors can damage trust and force the reader to work harder.
 - Unit 17: Clarity revision helps the reader understand the point faster and reduces follow-up questions.
@@ -7763,7 +7890,7 @@ Key lessons to keep
 ### Revision comparison
 
 ::: notice
-Revision comparison
+Revision Comparison
 
 Read these two versions.
 
@@ -7784,7 +7911,7 @@ Use the comparison to answer:
 ### Module 5 editing routine
 
 ::: edit
-Module 5 editing routine
+Module 5 Editing Routine
 
 Use these steps on one draft from an earlier module.
 
@@ -7797,7 +7924,7 @@ Use these steps on one draft from an earlier module.
 ### Module 5 transfer task
 
 ::: revise
-Module 5 transfer task
+Module 5 Transfer Task
 
 Take one earlier draft from Modules 1-4 and revise it three times.
 
@@ -7815,7 +7942,7 @@ After revising, write a short reflection:
 ### Module 5 editing-decision map
 
 ::: learn
-Module 5 editing-decision map
+Module 5 Editing-Decision Map
 
 Module 5 is not only about finding errors. It is about deciding what kind of revision the text needs first.
 
@@ -7834,7 +7961,7 @@ This order helps because some tone problems disappear after clarity improves, an
 ### Module 5 revision clinic
 
 ::: edit
-Module 5 revision clinic
+Module 5 Revision Clinic
 
 Read this weak message:
 
@@ -7864,7 +7991,7 @@ Why this stronger version works:
 ### Module 5 carry-forward task
 
 ::: write
-Module 5 carry-forward task
+Module 5 Carry-Forward Task
 
 Take one draft from Modules 1-4 and one draft from Module 6 if you already have one.
 
@@ -7881,7 +8008,7 @@ This prepares you for later whole-document revision, where the hardest part is o
 ### Module 5 revision priorities board
 
 ::: structure
-Module 5 revision priorities board
+Module 5 Revision Priorities Board
 
 When a draft still feels weak after one edit, use this board to decide the next pass.
 
@@ -7902,7 +8029,7 @@ Use the board on one earlier draft from Modules 1-4 and explain:
 ### Module 5 editing memo for later modules
 
 ::: write
-Module 5 editing memo for later modules
+Module 5 Editing Memo for Later Modules
 
 Module 5 should continue helping you after this module ends.
 
@@ -7934,7 +8061,7 @@ By the end of this module, you should be able to:
 
 When you use this module, do not skip the support layer:
 
-- compare the model versions before you draft
+- compare the example versions before you draft
 - read the `Why this works`note for audience and document control
 - use the self-check before freer or final writing
 - complete the editing practice so you separate reader needs clearly
@@ -7974,11 +8101,11 @@ Read the scenario and answer the questions.
 
 **Scenario:** The external office reports that the applicant's "Form B - Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
 
-1. What is the problem?  
+1. What is the problem?
 
-2. What information does the external office need?  
+2. What information does the external office need?
 
-3. What information does your team need internally?  
+3. What information does your team need internally?
 
 4. What tone should you use in each message?
 
@@ -7990,7 +8117,7 @@ Write your answers:
 :::
 
 ::: learn
-Before you write two texts from one scenario
+Before You Write Two Texts from One Scenario
 
 - decide who each reader is
 
@@ -7999,10 +8126,10 @@ Before you write two texts from one scenario
 - keep the facts the same, but change the tone and detail
 :::
 
-### B. Model Check: Why Two Documents Are Needed
+### B. Example Check: Why Two Documents Are Needed
 
 ::: learn
-Model Check: Why Two Documents Are Needed
+Example Check: Why Two Documents Are Needed
 
 In this unit, one situation produces **two different writing jobs**.
 
@@ -8030,7 +8157,7 @@ Good multi-document writing keeps the same facts but changes:
 ::: language
 Language - Writing for Two Audiences
 
-#### External Email (Polite, Clear, Concise)
+**External Email (Polite, Clear, Concise)**
 
 - Thank you for your message.
 
@@ -8040,7 +8167,7 @@ Language - Writing for Two Audiences
 
 - We appreciate your assistance.
 
-#### Internal Explanation (Neutral, Informative)
+**Internal Explanation (Neutral, Informative)**
 
 - The external office informed us that...
 
@@ -8052,7 +8179,7 @@ Language - Writing for Two Audiences
 :::
 
 ::: learn
-Transfer reminder
+Transfer Reminder
 
 If the two texts sound almost the same, the audience control is probably too weak.
 :::
@@ -8064,22 +8191,22 @@ Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
-#### External Office ->Make it polite
+**External Office ->Make it polite**
 
 "Send us the correct form."
 ->
 
-#### Internal Team ->Make it neutral and concise
+**Internal Team ->Make it neutral and concise**
 
 "They said the applicant messed up the form again."
 ->
 
-#### External Office ->Make it complete and professional
+**External Office ->Make it complete and professional**
 
 "What is the problem?"
 ->
 
-#### Internal Team ->Make it clear and factual
+**Internal Team ->Make it clear and factual**
 
 "The form is wrong but they didn't explain well."
 ->
@@ -8182,7 +8309,7 @@ Before writing the full pair, note the same situation in two different ways.
 | Detail that this reader needs most |  |  |
 | Next step to mention |  |  |
 
-Writers often lose audience control because they start drafting too quickly.  
+Writers often lose audience control because they start drafting too quickly.
 This board slows the decision down just enough to keep the two texts linked but not identical.
 :::
 
@@ -8197,10 +8324,12 @@ Choose one scenario and write **both**:
 
 2. A short internal explanation (4-5 sentences)
 
-#### Options
+**Options**
 
-A. A document is submitted in the wrong file format.  
-B. The external office reports inconsistent applicant information.  
+A. A document is submitted in the wrong file format.
+
+B. The external office reports inconsistent applicant information.
+
 C. The review team needs clarification about a new submission rule.
 
 Make it clear who each text is for and what that reader needs to know from the same scenario.
@@ -8225,7 +8354,7 @@ Editing Practice: Separate The Reader Needs
 
 Rewrite the weak pair below so the external and internal texts do different jobs.
 
-**Weak external draft:** We got your message and there is a signature problem.  
+**Weak external draft:** We got your message and there is a signature problem.
 **Weak internal draft:** There is a signature problem and we got their message.
 
 **Rewrite:**
@@ -8294,11 +8423,16 @@ Write each document in its own box.
 
 ### F. Reflection
 
-1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
+::: write
+Reflection
 
-2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.
+
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
 
 3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+:::
+
 
 ### H. Homework
 
@@ -8359,11 +8493,11 @@ Read the scenario and answer the questions.
 
 **Scenario:** The review schedule for May was shared last week. The date for "Document Verification - Stage 2" was listed as **24 May**, but the correct date is **27 May**.
 
-1. What information needs revision?  
+1. What information needs revision?
 
-2. Who needs to receive the corrected date?  
+2. Who needs to receive the corrected date?
 
-3. Should the tone be the same for external and internal communication? Why/why not?  
+3. Should the tone be the same for external and internal communication? Why/why not?
 
 4. What details must be included in each message?
 
@@ -8375,7 +8509,7 @@ Write your answers:
 :::
 
 ::: learn
-For connected documents, check
+For Connected Documents, Check
 
 - the correction is the same in both texts
 
@@ -8384,12 +8518,12 @@ For connected documents, check
 - the audience and purpose are different
 :::
 
-### B. Model Check: Why Connected Documents Need Control
+### B. Example Check: Why Connected Documents Need Control
 
 ::: learn
-Model Check: Why Connected Documents Need Control
+Example Check: Why Connected Documents Need Control
 
-This unit is not only about writing two texts.  
+This unit is not only about writing two texts.
 It is about keeping one corrected fact stable across both texts.
 
 Revision writing becomes trustworthy when:
@@ -8404,11 +8538,11 @@ If the correction changes between texts, the writing may create more confusion i
 ### C. Language - Revision vs. Notice
 
 ::: language
-Language - Revision vs. Notice
+Language — Revision vs. Notice
 
-#### Revision Message (External Office)
+**Revision Message (External Office)**
 
-Purpose: Correct previously shared information.  
+Purpose: Correct previously shared information.
 Tone: Polite, clear, concise.
 Useful phrases:
 
@@ -8420,9 +8554,9 @@ Useful phrases:
 
 - We apologise for any confusion.
 
-#### Internal Notice (Colleagues)
+**Internal Notice (Colleagues)**
 
-Purpose: Inform staff of the correction.  
+Purpose: Inform staff of the correction.
 Tone: Neutral, informative.
 Useful phrases:
 
@@ -8436,9 +8570,9 @@ Useful phrases:
 :::
 
 ::: learn
-Teaching point
+Teaching Point
 
-The external revision message repairs the relationship with the outside reader.  
+The external revision message repairs the relationship with the outside reader.
 The internal notice repairs shared team understanding.
 :::
 
@@ -8449,22 +8583,22 @@ Practice A - Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
-#### External Office ->Make it polite and clear
+**External Office ->Make it polite and clear**
 
 "The schedule was wrong. Here is the real date."
 ->
 
-#### Internal Team ->Make it neutral and concise
+**Internal Team ->Make it neutral and concise**
 
 "Someone made a mistake in the schedule."
 ->
 
-#### External Office ->Make it complete
+**External Office ->Make it complete**
 
 "The day changed."
 ->
 
-#### Internal Team ->Make it professional
+**Internal Team ->Make it professional**
 
 "We told them the wrong date."
 ->
@@ -8568,10 +8702,12 @@ Choose one and write both texts:
 
 2. A short internal notice (4-5 sentences)
 
-#### Options
+**Options**
 
-A. A deadline was listed incorrectly.  
-B. A required document name was written incorrectly.  
+A. A deadline was listed incorrectly.
+
+B. A required document name was written incorrectly.
+
 C. An instruction in a previous email was unclear or incomplete.
 
 Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences.
@@ -8596,7 +8732,7 @@ Editing Practice: Repair The Correction Set
 
 Rewrite this weak pair so both texts stay consistent.
 
-**Weak external draft:** The meeting date may change.  
+**Weak external draft:** The meeting date may change.
 **Weak internal draft:** The new meeting date is 27 May.
 
 **Rewrite:**
@@ -8665,20 +8801,25 @@ Write each document in its own box.
 
 ### F. Reflection
 
-1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
+::: write
+Reflection
 
-2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?
+
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
 
 3. How can a well-written correction message reduce repeated errors or repeated questions later?
+:::
+
 
 ### H. Homework
 
 ::: write
 Homework
 
-Choose a message from a previous unit. Rewrite it as:  
+Choose a message from a previous unit. Rewrite it as:
 
-A) a revision email, or  
+A) a revision email, or
 
 B) an internal notice.
 :::
@@ -8742,18 +8883,18 @@ Warm-Up: Spot the Inconsistencies
 
 Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
 
-#### Email A
+**Email A**
 
-Subject: Info  
-Hi,  
-I saw it. What next?  
+Subject: Info
+Hi,
+I saw it. What next?
 Thx.
 
-#### Email B
+**Email B**
 
-Subject: Information Required for Review  
-Dear Team,  
-We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
+Subject: Information Required for Review
+Dear Team,
+We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
 Thank you.
 
 Write the inconsistencies you notice:
@@ -8767,10 +8908,10 @@ Write the inconsistencies you notice:
 - Clarity:
 :::
 
-### B. Model Check: Why Team Consistency Helps
+### B. Example Check: Why Team Consistency Helps
 
 ::: learn
-Model Check: Why Team Consistency Helps
+Example Check: Why Team Consistency Helps
 
 If one team sends very different styles of email, readers may feel:
 
@@ -8791,13 +8932,13 @@ Consistency helps because the reader can recognize the team's style quickly:
 ::: language
 Language - Standardising Team Writing
 
-#### Standard Openings
+**Standard Openings**
 
 - Dear [Office/Team],
 
 - Thank you for your message.
 
-#### Standard Purpose Statements
+**Standard Purpose Statements**
 
 - I am writing to confirm...
 
@@ -8805,7 +8946,7 @@ Language - Standardising Team Writing
 
 - We have a question regarding...
 
-#### Standard Closings
+**Standard Closings**
 
 - Thank you.
 
@@ -8813,7 +8954,7 @@ Language - Standardising Team Writing
 
 - Kind regards,
 
-#### Formatting Standards
+**Formatting Standards**
 
 - Clear paragraph breaks
 
@@ -8825,7 +8966,7 @@ Language - Standardising Team Writing
 :::
 
 ::: learn
-Teaching point
+Teaching Point
 
 Team consistency is a reader-support tool, not only a style preference.
 :::
@@ -8873,7 +9014,7 @@ Mini standard:
 - Closing: neutral and consistent
 
 **Original:**
-Subject: Document  
+Subject: Document
 Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
@@ -8887,15 +9028,15 @@ Guided Practice - Rewrite Three Short Messages
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
 
-#### Message 1
+**Message 1**
 
 We didn't get the form. Send it.
 
-#### Message 2
+**Message 2**
 
 I saw your message. We need more details.
 
-#### Message 3
+**Message 3**
 
 The applicant file is strange. Please check.
 
@@ -8927,10 +9068,12 @@ Freer Practice - Rewrite Two Related Messages To One Standard
 
 Choose **one** of the situations below and rewrite **both** messages so they follow one shared team standard.
 
-#### Options
+**Options**
 
-A. A colleague wrote a short file-update email and a follow-up reminder, but the two messages use different openings, tone levels, and closing styles.  
-B. A team mailbox message and a reply to an outside office describe the same deadline issue, but the structure and formatting do not match your team's normal pattern.  
+A. A colleague wrote a short file-update email and a follow-up reminder, but the two messages use different openings, tone levels, and closing styles.
+
+B. A team mailbox message and a reply to an outside office describe the same deadline issue, but the structure and formatting do not match your team's normal pattern.
+
 C. Two internal update emails about the same review problem sound as if they were written by different offices, even though they should reflect one team standard.
 
 For each pair, make sure both messages show:
@@ -9011,7 +9154,7 @@ Extended Writing Task - Rewrite a Set of Communications
 Rewrite the following **three related messages** so they all follow a consistent team style.
 Treat them as messages your team may send to colleagues or external contacts about related work.
 
-#### Original Messages
+**Original Messages**
 
 1. "We told them already, but they didn't send the file. Ask again."
 
@@ -9019,7 +9162,7 @@ Treat them as messages your team may send to colleagues or external contacts abo
 
 3. "Team, The deadline is near. Do something."
 
-#### Rewrite all messages in a unified, professional style
+**Rewrite all messages in a unified, professional style**
 
 Keep the facts the same, but change the audience and tone.
 
@@ -9037,11 +9180,16 @@ Write each document in its own box.
 
 ### F. Reflection
 
-1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
+::: write
+Reflection
 
-2. Which standard phrase or rule from this unit would be most useful as a shared team default?  
+1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.
+
+2. Which standard phrase or rule from this unit would be most useful as a shared team default?
 
 3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
+:::
+
 
 ### H. Homework
 
@@ -9114,7 +9262,7 @@ Write your answers:
 :::
 
 ::: learn
-Before you write a multi-document set
+Before You Write a Multi-Document Set
 
 - list the three readers
 
@@ -9123,10 +9271,10 @@ Before you write a multi-document set
 - decide what detail level each reader needs
 :::
 
-### B. Model Check: Why Audience Control Matters
+### B. Example Check: Why Audience Control Matters
 
 ::: learn
-Model Check: Why Audience Control Matters
+Example Check: Why Audience Control Matters
 
 This unit is stronger than earlier units because one situation now requires **three** reader views.
 
@@ -9135,7 +9283,7 @@ That means you must control:
 - what stays the same
 - what changes
 
-The main fact stays the same.  
+The main fact stays the same.
 The tone, detail, and purpose change.
 
 If all three texts sound the same, the communication set does not match the real workplace need.
@@ -9146,7 +9294,7 @@ If all three texts sound the same, the communication set does not match the real
 ::: language
 Language - Three Audiences, Three Styles
 
-#### (A) Applicant Reply - Polite, supportive, clear
+**(A) Applicant Reply - Polite, supportive, clear**
 
 - Thank you for your message.
 
@@ -9156,7 +9304,7 @@ Language - Three Audiences, Three Styles
 
 - We will update the status once...
 
-#### (B) Colleague Message - Neutral, cooperative
+**(B) Colleague Message - Neutral, cooperative**
 
 - I reviewed the applicant file and noticed...
 
@@ -9164,7 +9312,7 @@ Language - Three Audiences, Three Styles
 
 - Once the document is received, we can...
 
-#### (C) Internal Notice - Concise, factual
+**(C) Internal Notice - Concise, factual**
 
 - Please note the following update...
 
@@ -9174,7 +9322,7 @@ Language - Three Audiences, Three Styles
 :::
 
 ::: learn
-Transfer reminder
+Transfer Reminder
 
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 :::
@@ -9277,7 +9425,7 @@ You can use this pattern:
 2. corrected information
 3. action or reminder for staff
 
-Mini notice model:
+Mini notice example:
 
 - Schedule Correction: Stage 2 Review Date
 - The correct date for Stage 2 document verification is 27 May, not 24 May.
@@ -9307,7 +9455,7 @@ Before writing the full three-document set, check:
 ### E. Planning Board - Three Documents from One Situation
 
 ::: structure
-Planning Board - Three Documents from One Situation
+Planning Board — Three Documents from One Situation
 
 Before drafting the full set, map the same situation across the three readers.
 
@@ -9339,10 +9487,12 @@ Choose **one** of the scenarios below and write all three documents:
 
 3. Internal notice (3-4 sentences)
 
-#### Options
+**Options**
 
-A. A system error prevented an applicant's file from uploading correctly.  
-B. Two versions of a form were submitted; one is incomplete.  
+A. A system error prevented an applicant's file from uploading correctly.
+
+B. Two versions of a form were submitted; one is incomplete.
+
 C. The applicant sent the correct file, but in the wrong format.
 
 Keep the three documents tied to the same scenario, but make the audience difference clear in each one.
@@ -9456,11 +9606,16 @@ Write each document in its own box.
 
 ### F. Reflection
 
-1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
+::: write
+Reflection
 
-2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?
+
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
 
 3. What planning step would help you control consistency across all three documents next time?
+:::
+
 
 ### H. Homework
 
@@ -9538,12 +9693,12 @@ Write the titles or sources of the drafts you chose:
 3.
 :::
 
-### B. Model Check: Why Portfolio Revision Matters
+### B. Example Check: Why Portfolio Revision Matters
 
 ::: learn
 Why Portfolio Revision Matters
 
-A portfolio is not only a collection of old drafts.  
+A portfolio is not only a collection of old drafts.
 It should show that you can:
 
 - notice problems
@@ -9553,7 +9708,7 @@ It should show that you can:
 
 **Why this works**
 
-Revision shows professional control.  
+Revision shows professional control.
 A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
 :::
 
@@ -9564,29 +9719,29 @@ Advanced Editing Checklist
 
 Before revising your drafts, check for:
 
-#### Accuracy
+**Accuracy**
 
 - Verb forms, articles, prepositions, plurals
 
-#### Clarity
+**Clarity**
 
 - Simple, direct sentences
 
 - No vague language
 
-#### Tone
+**Tone**
 
 - Polite, neutral, professional
 
 - Appropriate for audience (external, internal, colleague)
 
-#### Coherence
+**Coherence**
 
 - Clear connections between ideas
 
 - Logical flow
 
-#### Conciseness
+**Conciseness**
 
 - Remove unnecessary repetition
 
@@ -9700,7 +9855,7 @@ Use this board before creating the final set.
 
 **Why this works**
 
-A weaker portfolio often repeats the same writing job in slightly different forms.  
+A weaker portfolio often repeats the same writing job in slightly different forms.
 A stronger portfolio shows range: different readers, different purposes, and visible revision improvement.
 
 Before finalizing, check:
@@ -9797,7 +9952,7 @@ Before submission, test whether the portfolio really shows range.
 
 **If you answer `No` to any item**
 
-Do not only polish sentence-level grammar.  
+Do not only polish sentence-level grammar.
 Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
 
 Write each document in its own box.
@@ -9820,7 +9975,7 @@ Write each document in its own box.
 ::: revise
 Capstone Rebuild Routine
 
-If one portfolio item still feels weaker than the rest, do not only proofread it.  
+If one portfolio item still feels weaker than the rest, do not only proofread it.
 Run this short rebuild routine:
 
 1. underline the sentence that does the main job
@@ -9901,11 +10056,16 @@ Write one sentence on each line where possible.
 
 ### F. Reflection
 
-1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?  
+::: write
+Reflection
 
-2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?  
+1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
 
-3. Which revision habit from this course should become part of your real workplace writing routine from now on?  
+2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
+
+3. Which revision habit from this course should become part of your real workplace writing routine from now on?
+:::
+
 
 ### H. Homework (Final Course Task)
 
@@ -9922,11 +10082,16 @@ Choose any earlier writing task and complete a **third revision**, focusing on p
 
 ### Key lessons to keep
 
+::: learn
+Key Lessons to Keep
+
 - Unit 19: One situation may require two documents because different readers need different kinds of help.
 - Unit 20: A revision message and an internal notice can come from the same event, but they do different jobs.
 - Unit 21: Team consistency matters because the reader experiences the office as one organisation, not as separate writers.
 - Unit 22: Multi-document communication works only when each audience receives the right level of detail and tone.
 - Unit 23: Portfolio review turns revision into a deliberate habit instead of a last-minute correction.
+:::
+
 
 ### Multi-document comparison
 
@@ -9939,7 +10104,7 @@ Look at these two responses to the same situation: an applicant submitted the wr
 Please send the correct form. We also need to tell the team there is a delay. Everyone should know there is a problem.
 
 **Version B**
-External message: Thank you for your submission. We noticed that the attached form is not the required version. Could you please send the updated form by Thursday?  
+External message: Thank you for your submission. We noticed that the attached form is not the required version. Could you please send the updated form by Thursday?
 Internal note: The file submitted today does not match the required template. Please pause the next review step until the corrected form arrives.
 
 Use the comparison to answer:
@@ -10148,7 +10313,7 @@ Module 6 Multi-Document Rebuild Workshop
 
 Use this workshop when one integrated task set still feels too light or too repetitive.
 
-#### Stage 1 - Separate the document jobs
+**Stage 1 - Separate the document jobs**
 
 Fill in this table before rewriting:
 
@@ -10161,7 +10326,7 @@ Fill in this table before rewriting:
 
 If two rows contain the same purpose sentence, the pack is probably still under-differentiated.
 
-#### Stage 2 - Rebuild the sequence
+**Stage 2 - Rebuild the sequence**
 
 Now rewrite the pack so each document starts with the reader's most urgent need:
 
@@ -10182,7 +10347,7 @@ Now rewrite the pack so each document starts with the reader's most urgent need:
   - why it changed
   - how the new version helps the reader
 
-#### Stage 3 - Cross-check for drift
+**Stage 3 - Cross-check for drift**
 
 Review the pack with these prompts:
 
@@ -10225,7 +10390,7 @@ Before final submission, move one portfolio item through this ladder:
 
 Use these prompts:
 
-- Which portfolio item is the strongest model for audience control?
+- Which portfolio item is the strongest example for audience control?
 - Which item still needs the clearest next-step line?
 - Which item benefits most from a Module 5 editing pass?
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
