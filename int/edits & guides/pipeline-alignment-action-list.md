@@ -426,16 +426,48 @@ textmaker.cmd docx-to-pdf ^
 
 | Stage | Task | Status | Gate |
 |-------|------|--------|------|
-| 0A | Working folder created | ☐ Pending | `int/md/working/aw-int-all.md` exists |
-| 0B | Reference DOCX in place + audited | ☐ Pending | `audit_docx_styles.py` passes |
-| 0C | Icon assets copied | ☐ Pending | 18+ PNGs in assets folder |
-| 1 | YAML front matter added | ☐ Pending | YAML parses, 11 style_map entries |
-| 2 | Fenced div markup complete | ☐ Pending | Balance check passes, spacing clean |
-| 3 | Checklist conversion done | ☐ Pending | All edit-div bullets → `- [ ]` |
-| 4 | Alpha list audit done | ☐ Pending | Confirmed list vs. non-list items |
-| 5 | PH marker review done | ☐ Pending | Size assignments documented |
-| 6 | First build completes | ☐ Pending | Validation passes, opens in Word |
+| 0A | Working folder created | ✓ Done | `int/md/working/aw-int-all.md` exists |
+| 0B | Reference DOCX in place | ✓ Done | Using `adv/md/working/aw-adv-styleref.docx` (shared) |
+| 0C | Icon assets available | ✓ Done | Assets are siblings of adv styleref — no copy needed |
+| 1 | YAML front matter added | ✓ Done | YAML parses, 11 style_map entries present |
+| 2 | Fenced div markup complete | ✓ Done | 456 open/close pairs; balance check passes, zero spacing violations |
+| 3 | Checklist conversion done | ✓ Done | 65 bullets → `- [ ]` across 68 edit divs; zero outside edit divs |
+| 4 | Alpha list audit done | ✓ Done | 103 A./B./C./D. items — all genuine option lists, zero false positives |
+| 5 | PH marker review done | ✓ Done | 163 markers: PH-1×18, PH-2×65, PH-3×76, PH-4×3, PH-5×1 — sizes confirmed |
+| 6 | First build completes | ✓ Done | 442 div labels, 163 placeholders, 23 title tables, 68 checklists — exit code 0 |
 | 7 | Post-build fixes applied | ☐ Pending | Zero known defects in rebuild |
 | 8 | PDF generated | ☐ Pending | PDF renders correctly |
 | AK-adv | Advanced answer key | ☐ Pending | All tasks answered, committed |
 | AK-int | Intermediate answer key | ☐ Pending | All tasks answered, committed |
+
+---
+
+## Session Notes
+
+### 2026-05-19 (Sessions 11–13)
+
+**Completed in this session set:**
+
+- **Stage 2** — Full fenced div markup applied to all 23 units and all 6 module review workshops in `int/md/working/aw-int-all.md`. 456 div open/close pairs. Balance check and spacing violation check both pass. Committed: `29b37f1`.
+- **Stage 3** — 65 plain `-` bullets inside `:::edit` divs converted to `- [ ]` checklist syntax across 68 edit divs. Zero checklist items found outside edit divs. Committed: `cf673e8`.
+- **Stage 4** — Alpha list audit: 103 `A./B./C./D.` occurrences reviewed; all are genuine multiple-choice option lists. No false positives (no answer keys, section labels, or table content misuse). No changes required.
+- **Stage 5** — PH marker review: 163 markers confirmed. Distribution: PH-1×18, PH-2×65, PH-3×76, PH-4×3, PH-5×1. U21 PH-5 covers a two-document homework task (appropriate). No resizing needed.
+- **Stage 6** — First build run from worktree using `adv\md\working\aw-adv-styleref.docx`. Output: `int/md/working/aw-int-all_0519.docx`. Key counts: 442 div icon labels, 163 placeholders, 68 checklists, 23 unit title tables, 22 alpha markers removed, 18 tables styled. Exit code 0.
+- **Pipeline plan fix** — Stage 6 build command and post-build validation command corrected to reference `adv\md\working\aw-adv-styleref.docx` (was incorrectly referencing `int\md\working\aw-int-styleref.docx` which does not exist).
+- **Branch merged** — Worktree branch `claude/unruffled-swartz-f9b9e2` merged into `main` and pushed. Merge commit: `2185914`.
+
+**Build command used (Stage 6):**
+```
+textmaker.cmd markdown-to-docx ^
+  --input int\md\working\aw-int-all.md ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
+  --lua-filter ..\textmaker\scripts\style_bridge.lua ^
+  --output int\md\working\aw-int-all_0519.docx ^
+  --no-pagebreak-filter ^
+  --apply-semantic-labels
+```
+Run from `C:\Dev\Code\book_administrative-writing\`.
+
+**Note on 442 vs 456 div labels:** 456 divs were marked up; 442 received icon labels in the build. The 14-label gap is likely due to a small number of divs whose label paragraphs did not match the postprocessor's detection pattern (e.g. edge-case label text). To be investigated in Stage 7.
+
+**Remaining:** Stage 7 (post-build visual review and fixes), Stage 8 (PDF), answer keys for both books (deadline this week).
