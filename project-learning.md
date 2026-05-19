@@ -919,3 +919,27 @@ Historical note:
 - Preferred behavior: reference DOCX color updates must be done via `manage_docx_styles.py --input ... --spec adv/style_specs/aw-div-label-styles.yaml`. Never patch `word/styles.xml` directly without the three-location sync rule.
 - Preferred behavior: active combined source lives in `adv/md/working/` named by date (e.g. `aw-adv-all_0516.md`). The YAML `style_map` block in its front matter governs all Div-to-style mappings.
 
+## 2026-05-19 - Intermediate Pipeline Stage 0–6 Complete
+
+- Status: `active`
+- Scope: project/int-pipeline
+- Decision: both books share `adv/md/working/aw-adv-styleref.docx` as the single reference DOCX during active development. A separate `aw-int-styleref.docx` is deferred to the final individuation stage (after styles are locked). No icon asset copy to `int/md/working/` is needed — assets are siblings of the shared styleref.
+- Decision: intermediate working source is `int/md/working/aw-int-all.md`; `int/md/final/aw-int-all.md` is read-only source of truth.
+- Stage 2 complete: 456 fenced div open/close pairs across all 23 units and 6 module review workshops. Balance check passes; zero spacing violations. Committed `29b37f1`.
+- Stage 3 complete: 65 plain `-` bullets inside `:::edit` divs converted to `- [ ]` across 68 edit divs. Zero checklist items outside edit divs. Committed `cf673e8`.
+- Stage 4 complete: 103 `A./B./C./D.` list items all confirmed genuine option lists; zero false positives.
+- Stage 5 complete: 163 PH markers confirmed (PH-1×18, PH-2×65, PH-3×76, PH-4×3, PH-5×1); sizes appropriate for task scope.
+- Stage 6 complete: first build output `int/md/working/aw-int-all_0519.docx`; exit code 0; 442 div icon labels, 163 placeholders, 68 checklists, 23 unit title tables. Note: 456 divs marked but only 442 received icons — 14-label gap to investigate in Stage 7.
+- Build command (run from repo root): `textmaker.cmd markdown-to-docx --input int\md\working\aw-int-all.md --reference adv\md\working\aw-adv-styleref.docx --lua-filter ..\textmaker\scripts\style_bridge.lua --output int\md\working\aw-int-all_MMDD.docx --no-pagebreak-filter --apply-semantic-labels`
+- Preferred behavior: before reporting commit/sync complete, always check `git status` in BOTH the worktree AND `C:\Dev\Code\book_administrative-writing` (main repo). Committing only the worktree branch leaves the main repo working directory unchecked.
+- Pending: Stage 7 post-build visual review and fixes; Stage 8 PDF; answer keys for both books (deadline this week).
+
+## 2026-05-19 - Div Classification Rules Locked For Both Books
+
+- Status: `active`
+- Scope: project/conventions
+- The 9 div classes and their meaning (what the learner does): `learn` = teaching input/explanations; `language` = grammar/vocabulary/phrase reference only, no task; `structure` = planning/templates/grids; `notice` = observation/comparison/analysis tasks on given text; `write` = original production; `rewrite` = transforming someone else's given text; `revise` = improving own earlier draft; `edit` = correction/polishing/checklists; `example`/`example-good`/`example-bad` = model/reference text.
+- Critical disambiguation: `language` is wrong if the div contains a teaching explanation (`learn`), a transformation task (`rewrite`), an analysis task (`notice`), or original production (`write`) — format (list vs prose) does not determine the class. The advanced audit found 21/54 `language` divs were misclassified this way.
+- Hard rules: `###`/`####` headings never get divs; `{{PH-N:}}` placeholders and their bold labels stay outside divs; never nest divs.
+- Checklist rule: only plain `-` bullets inside `:::edit` divs convert to `- [ ]`. Never convert bullets outside edit divs.
+

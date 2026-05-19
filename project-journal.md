@@ -1660,3 +1660,44 @@ Historical note:
 - Added `.claude/` to `.gitignore` (Claude Code worktree folder).
 - Saved reference DOCX backups to `adv/md/bak/`.
 
+
+### 2026-05-19 - Intermediate Pipeline Stages 0–6 Completed (Sessions 11–13)
+
+**Stage 2 — Fenced div markup (largest task)**
+- Applied `:::class` / `:::` fenced div markup to all 23 units and all 6 module review workshops in `int/md/working/aw-int-all.md`.
+- 456 div open/close pairs. Balance check passes; zero spacing violations.
+- Div classes used: `learn`, `language`, `structure`, `notice`, `write`, `rewrite`, `revise`, `edit`, `example`.
+- Classification rule: class is determined by what the learner does, not by section letter or heading wording.
+- Committed `29b37f1` on branch `claude/unruffled-swartz-f9b9e2`.
+
+**Stage 3 — Checklist conversion**
+- Converted 65 plain `-` bullets to `- [ ]` inside 68 `:::edit` div blocks.
+- Zero checklist items outside edit divs (verified by script).
+- Committed `cf673e8`.
+
+**Stage 4 — Alpha list audit**
+- Reviewed all 103 `A./B./C./D.` occurrences. All are genuine multiple-choice option lists. No false positives.
+- No source changes required.
+
+**Stage 5 — PH marker review**
+- 163 PH markers confirmed: PH-1×18, PH-2×65, PH-3×76, PH-4×3, PH-5×1.
+- U21 PH-5 covers a two-document homework task — appropriate at 22 rows.
+- No resizing required.
+
+**Stage 6 — First build**
+- Run from `C:\Dev\Code\book_administrative-writing` using `adv\md\working\aw-adv-styleref.docx` as reference.
+- Output: `int/md/working/aw-int-all_0519.docx`. Exit code 0.
+- Build counts: 442 div icon labels, 163 placeholders, 68 checklists, 23 unit title tables, 22 alpha markers removed, 18 tables styled.
+- Note: 456 divs but only 442 icon labels — 14-label gap to investigate in Stage 7.
+
+**Pipeline plan fix**
+- Stage 6 build command in `int/edits & guides/pipeline-alignment-action-list.md` corrected to reference `adv\md\working\aw-adv-styleref.docx` (was `int\md\working\aw-int-styleref.docx` which does not exist).
+
+**Branch and merge**
+- All work done in worktree branch `claude/unruffled-swartz-f9b9e2`.
+- Branch merged to `main`, merge commit `2185914`. Pushed to origin.
+- Pipeline status table and session notes added to `int/edits & guides/pipeline-alignment-action-list.md`, committed `4088987`.
+
+**Lesson recorded**
+- When asked to commit/sync, must check `git status` in BOTH the worktree AND the main repo. A prior session left adv DOCX modifications and a pipeline plan edit uncommitted in the main repo working directory because only the worktree branch was checked.
+
