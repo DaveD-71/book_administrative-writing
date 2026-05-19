@@ -1,4 +1,5 @@
 *.bak
+*.bak_*
 ~$*
 Thumbs.db
 *.tmp

@@ -923,7 +923,7 @@ Historical note:
 
 - Status: `active`
 - Scope: project/int-pipeline
-- Decision: both books share `adv/md/working/aw-adv-styleref.docx` as the single reference DOCX during active development. A separate `aw-int-styleref.docx` is deferred to the final individuation stage (after styles are locked). No icon asset copy to `int/md/working/` is needed — assets are siblings of the shared styleref.
+- Decision: both books share `adv/md/working/aw-adv-styleref.docx` as the single reference DOCX during active development. Do not create or reference a separate `aw-int-styleref.docx` unless a later explicit project decision changes this. No icon asset copy to `int/md/working/` is needed — assets are siblings of the shared styleref.
 - Decision: intermediate working source is `int/md/working/aw-int-all.md`; `int/md/final/aw-int-all.md` is read-only source of truth.
 - Stage 2 complete: 456 fenced div open/close pairs across all 23 units and 6 module review workshops. Balance check passes; zero spacing violations. Committed `29b37f1`.
 - Stage 3 complete: 65 plain `-` bullets inside `:::edit` divs converted to `- [ ]` across 68 edit divs. Zero checklist items outside edit divs. Committed `cf673e8`.
@@ -938,8 +938,38 @@ Historical note:
 
 - Status: `active`
 - Scope: project/conventions
-- The 9 div classes and their meaning (what the learner does): `learn` = teaching input/explanations; `language` = grammar/vocabulary/phrase reference only, no task; `structure` = planning/templates/grids; `notice` = observation/comparison/analysis tasks on given text; `write` = original production; `rewrite` = transforming someone else's given text; `revise` = improving own earlier draft; `edit` = correction/polishing/checklists; `example`/`example-good`/`example-bad` = model/reference text.
+- The 9 div classes and their meaning (what the learner does): `learn` = teaching input/explanations; `language` = grammar/vocabulary/phrase reference only, no task; `structure` = planning/templates/grids; `notice` = observation/comparison/analysis tasks on given text; `write` = original production; `rewrite` = transforming someone else's given text; `revise` = improving own earlier draft; `edit` = correction/polishing/checklists; `example`/`example-good`/`example-bad` = example/reference text.
 - Critical disambiguation: `language` is wrong if the div contains a teaching explanation (`learn`), a transformation task (`rewrite`), an analysis task (`notice`), or original production (`write`) — format (list vs prose) does not determine the class. The advanced audit found 21/54 `language` divs were misclassified this way.
-- Hard rules: `###`/`####` headings never get divs; `{{PH-N:}}` placeholders and their bold labels stay outside divs; never nest divs.
+- Hard rules: `### Focus` is the Intermediate equivalent of Advanced `Unit Overview`, and `##`/`###`/`####` headings beginning with structural letters `A.` through `H.` are equivalent to the Advanced A-H shell. They must receive the same structural treatment and must not be converted to semantic divs by default. Only non-structural pedagogical headings should be converted to semantic divs, body sublabels, or separate semantic blocks. `{{PH-N:}}` placeholders and their bold labels stay outside divs; never nest divs.
 - Checklist rule: only plain `-` bullets inside `:::edit` divs convert to `- [ ]`. Never convert bullets outside edit divs.
+
+## 2026-05-19T11:30:07+09:00 - Intermediate Semantic Heading Rule Clarified
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: for the Intermediate alignment pass, `### Focus` is structurally equivalent to Advanced `Unit Overview`, and `##`/`###`/`####` headings beginning with structural letters `A.` through `H.` are structurally equivalent to the Advanced A-H shell. Only non-structural pedagogical headings should be converted to semantic divs.
+- Preferred behavior: run a dedicated semantic reclassification pass before final DOCX visual cleanup. Use the Advanced Step 3 div-reclassification standard, but preserve the Intermediate Focus and A-H structural heading layers; classify examples as `example`, `example-good`, or `example-bad` where the source has actual example/sample text.
+
+## 2026-05-19 - Intermediate Focus And A-H Structural Heading Rule Supersedes Overbroad Conversion
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: Dave clarified that `### Focus` in Intermediate is equivalent to Advanced `Unit Overview`, and the Intermediate A-H headings are structurally equivalent to the Advanced A-H headings. These structural layers should receive the same treatment as Advanced rather than being converted by default.
+- Preferred behavior: before any heading/div reclassification, first exclude `### Focus` and A-H letter-coded structural headings. Convert only non-structural headings or labels, and do not flatten or remove the structural navigation layer. Specifically inventory duplicated `###` heading plus matching div-title pairs and decide whether to keep both, retitle the div label, shorten the div label, or adjust the build treatment.
+
+## 2026-05-19T12:16:14+09:00 - Intermediate Stage 7A Source And PDF Build Completed
+
+- Status: `active`
+- Scope: project/int-pipeline
+- Observation: the corrected Stage 7A pass preserved `### Focus` and A-H structural headings, converted only non-structural `####` headings, replaced student-facing `model` terminology with `example`, classified standalone examples, and normalized alphabetic option lists.
+- Result: source gates pass with matched div fences, `h4=0`, no nested divs, no headings/placeholders inside divs, no checkboxes outside edit divs, no remaining `model` terms, and DOCX `List Number 3` embedded marker check `embedded_BCD=0`.
+- Output: `int/md/working/aw-int-all_0519_stage7a.docx` validates against `adv/md/working/aw-adv-styleref.docx`; `int/md/working/aw-int-all_0519_stage7a.pdf` was generated and verified as 250 pages, A4, PDF 1.7.
+- Preferred behavior: when using `textmaker.cmd docx-to-pdf` from outside the Textmaker repo, pass absolute input/output paths. A relative-path attempt from `book_administrative-writing` resolved under `C:\Dev\Code\textmaker` and failed.
+
+## 2026-05-19T11:30:49+09:00 - Reclassification Must Preserve Meaningful Student-Facing Titles
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: heading-to-div reclassification should not reduce specific, useful activity titles to generic repeated content. Preserve meaningful information about document type, audience, purpose, language feature, scenario, or decision point.
+- Preferred behavior: when converting a heading to a semantic div, keep the specific title information in one of three places: the div label, a short body sublabel, or the first instruction line. Avoid broad runs of labels like only `Practice`, `Example`, `Rewrite`, or `Notice` when the original heading carried useful orientation for students.
 

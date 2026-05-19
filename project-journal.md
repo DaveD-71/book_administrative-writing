@@ -1701,3 +1701,69 @@ Historical note:
 **Lesson recorded**
 - When asked to commit/sync, must check `git status` in BOTH the worktree AND the main repo. A prior session left adv DOCX modifications and a pipeline plan edit uncommitted in the main repo working directory because only the worktree branch was checked.
 
+### 2026-05-19 - Intermediate Pipeline Plan Reference DOCX Correction
+
+- Corrected stale `aw-int-styleref.docx` references in `int/edits & guides/pipeline-alignment-action-list.md`.
+- Active decision: both books use the single shared reference file `adv/md/working/aw-adv-styleref.docx` for now.
+- Updated the Intermediate Stage 6 build command, validation command, and completion gates so they no longer imply an intermediate-specific style reference file exists during the active pipeline stages.
+
+### 2026-05-19T11:30:07+09:00 - Intermediate Semantic Heading Rule Updated
+
+- Updated the active Intermediate pipeline plan and project memory after Dave clarified the skipped work: any pedagogical/activity-level `###` heading should be converted to a semantic div unless it is structural.
+- Added Stage 7A to `int/edits & guides/pipeline-alignment-action-list.md` for semantic heading and example reclassification before final DOCX visual cleanup.
+- Corrected the plan's PowerShell fence-count regex so it matches the current source syntax `::: class`.
+
+### 2026-05-19T11:30:49+09:00 - Intermediate Reclassification Title-Preservation Rule Added
+
+- Added Dave's title-preservation constraint to the Intermediate pipeline plan and project memory.
+- Future heading/div reclassification should preserve specific student-helpful title information rather than flattening distinct activities into generic repeated labels.
+
+### 2026-05-19 - Intermediate Stage 7A Reclassification Plan Created
+
+- Created `int/edits & guides/style edits/step7a-semantic-reclassification/semantic_heading_and_example_reclassification_plan_0519.md`.
+- Added a pointer from `int/edits & guides/pipeline-alignment-action-list.md` to the detailed Stage 7A plan.
+- The plan covers semantic `###` conversion, removal of `####` headings inside divs, example classification into `example` / `example-good` / `example-bad`, title-preservation rules, alpha-list normalization, rebuild checks, and deliverables.
+
+### 2026-05-19 - Intermediate Example Terminology Standardized
+
+- Updated the Stage 7A reclassification plan and pipeline summary to use `example` terminology instead of `model` in active Markdown guidance.
+- Preferred behavior: when reclassifying Intermediate source Markdown, replace student-facing `model` terminology with `example` unless the word is part of unrelated historical notes or tooling context.
+
+### 2026-05-19 - Reverted Overbroad Intermediate Heading Rewrite
+
+- Restored `int/md/working/aw-int-all.md` from git after an overbroad Stage 7A rewrite converted structural letter-coded headings.
+- Dave clarified that all `##`, `###`, and `####` headings beginning with letters `A.` through `F.` are structural and must remain headings.
+- Updated the Stage 7A plan, pipeline checklist, and project memory so future reclassification excludes A-F structural headings before considering semantic div changes.
+
+### 2026-05-19T11:52:56+09:00 - Intermediate Focus And A-H Equivalence Clarified
+
+- Dave clarified that `### Focus` in Intermediate is equivalent to Advanced `Unit Overview`, and the Intermediate A-H headings are structurally equivalent to the Advanced A-H headings.
+- Updated the Stage 7A plan, pipeline checklist, and project memory so these structural layers receive the same treatment as Advanced.
+- Reframed the open issue as duplicated structural-heading-plus-div-label pairs where a `###` heading is immediately followed by a semantic div title that repeats or nearly matches the heading.
+
+### 2026-05-19 - Session 14: Heading Flatten Fix And Rebuild
+
+- Fixed heading flatten regression: the `standardise_headings.py` script had a critical gap — when the div label was the generic type word (e.g. "Freer Practice") and the heading had the specific subtitle, it left both unchanged instead of moving the subtitle into the div label.
+- Fixed all 18 E/H cases: `### E. Freer Practice: [task]` → heading `### E. Freer Practice`, div label updated to `[task]`. Same for `### H. Transfer Extension`.
+- Fixed 33 additional C. Language N / C. Practice A–C cases: shortened headings to their identifier (e.g. `### C. Language 2`, `### C. Practice A`), div labels left as-is.
+- Fixed 1 special case: `### H. Homework (Final Course Task)` + div `Homework: Final Course Task` → heading `### H. Homework`, div label `Final Course Task`.
+- 5 NO-DIV cases intentionally left unchanged (prose between heading and div — heading subtitle provides navigation context): L456, L1514, L1777, L2570, L3370.
+- Fixed `UNIT_HEADING_RE` and `MODULE_HEADING_RE` in `textmaker/scripts/postprocess_docx.py`: separator standardisation changed `Unit N - Title` to `Unit N. Title`; regexes now match both period and dash separator forms.
+- Rebuilt INT DOCX and PDF: all session 13 counts restored including 23 unit title tables, 5 section breaks before H1s, 23 module/unit page breaks.
+- `.gitignore` updated: added `*.bak_*` pattern to suppress backup files created by fix scripts.
+
+### 2026-05-19T12:16:14+09:00 - Intermediate Stage 7A Source Cleanup And PDF Completed
+
+- Applied the corrected Stage 7A pass to `int/md/working/aw-int-all.md` while preserving `### Focus` and all A-H structural headings.
+- Converted non-structural `####` headings to div labels or body sublabels; replaced student-facing `model` terminology with `example`; classified standalone examples into `example`, `example-good`, and `example-bad`; normalized alphabetic option-list spacing.
+- Source checks passed:
+  - div opens/closes: 457/457
+  - `### Focus`: 23
+  - A-H structural headings: 339
+  - `####` headings: 0
+  - no nested divs, no headings/placeholders inside divs, no checkboxes outside `edit`, no remaining `model` terms
+- Rebuilt `int/md/working/aw-int-all_0519_stage7a.docx`; validation against `adv/md/working/aw-adv-styleref.docx` passed.
+- Rechecked DOCX alphabetic list output: `ListNumber3=108`, `embedded_BCD=0`.
+- Ran `textmaker.cmd docx-to-pdf` with absolute paths and generated `int/md/working/aw-int-all_0519_stage7a.pdf`; PDF verified as 250 pages, A4, PDF 1.7.
+- Note: a first relative-path `docx-to-pdf` attempt failed because the command resolved the input under `C:\Dev\Code\textmaker`; use absolute paths for this command.
+

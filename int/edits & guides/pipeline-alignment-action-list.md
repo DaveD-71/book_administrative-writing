@@ -45,8 +45,8 @@ Stages 0A, 0B, and 0C can all be prepared concurrently. None depend on each othe
 
 **Goal:** Confirm which reference DOCX the intermediate pipeline will use. The styles are still being refined and maintaining two copies in sync is unnecessary overhead.
 
-**Decision: shared advanced reference (deferred individuation)**
-Both books use `adv/md/working/aw-adv-styleref.docx` until styles are locked. A separate `aw-int-styleref.docx` will be created only at the final individuation stage (Stage 8+). Any style change made to the advanced reference automatically applies to both books during this period.
+**Decision: shared reference file**
+For now, both books use the single shared reference file at `adv/md/working/aw-adv-styleref.docx`. Do not create or reference a separate `aw-int-styleref.docx` during the active pipeline stages. Any style change made to the shared reference automatically applies to both books during this period.
 
 **Lessons from advanced pipeline:**
 - Three-location color synchronisation rule: `DivLabel*` styles must keep `w:rPr/w:color`, `w14:srgbClr`, and linked character style color in sync — these go out of sync silently if styles are manually edited in Word.
@@ -59,7 +59,7 @@ The intermediate build must pass `--reference adv/md/working/aw-adv-styleref.doc
 
 **Completion gate:**
 - `adv/md/working/aw-adv-styleref.docx` exists and is accessible
-- No `int/md/working/aw-int-styleref.docx` created yet (deferred)
+- No `int/md/working/aw-int-styleref.docx` is created or referenced during the active pipeline stages
 
 ---
 
@@ -114,7 +114,7 @@ style_map:
 
 **Completion gate:**
 - File begins with `---` on line 1 and the YAML block closes before the first `#` heading
-- All 11 `style_map` entries are present and exactly match the style names in `aw-int-styleref.docx`
+- All 11 `style_map` entries are present and exactly match the style names in `adv/md/working/aw-adv-styleref.docx`
 - Confirmed with: `python -c "import yaml; d=open('int/md/working/aw-int-all.md').read(); print(yaml.safe_load(d.split('---')[1]))"`
 
 ---
@@ -159,10 +159,15 @@ The correct class is determined by **what the learner does** in the block — no
 
 The first line inside the fence is the visible label in the DOCX output. This is an **editorial step**, not a mechanical extraction:
 
-- `#### Practice — ...` activity headings are the primary starting point, but the text is often **rewritten** for clarity, consistency, or to better match the label style used across the book
+- `### Focus` is structurally equivalent to Advanced `Unit Overview` and should receive the same treatment.
+- Letter-coded structural headings stay as headings. Any `##`, `###`, or `####` heading beginning with `A.` through `H.` is structurally equivalent to the Advanced A-H shell and must not be converted to a semantic div by default.
+- Only non-structural pedagogical headings should be converted to an appropriate semantic div or body sublabel.
+- Stage 7A must resolve duplicated structural-heading-plus-div-label pairs where a `###` heading is immediately followed by a div title that repeats or closely matches the heading.
+- `#### Practice — ...` activity headings and other lower-level pedagogical headings are also conversion candidates. They should not remain as headings inside divs; convert them to div labels, body sublabels, or separate semantic blocks depending on function.
 - Blocks that have no existing heading get a **new label authored from scratch** — a short noun phrase that names the pedagogical purpose (e.g. "Key Patterns", "Guided Rewrite", "Self-Editing Checklist")
 - General bold text within the body (`**Why this works**`, `**Quick check**`) stays as bold body text inside the div and does not become the label line
 - Label text should be concise, consistent in register, and name what the learner does or learns — not just describe the content
+- Do not flatten meaningful activity titles into repeated generic labels. Preserve specific student-helpful information from the original heading either in the div label, in a short body sublabel, or in the first instruction line. For example, avoid reducing distinct headings to repeated labels such as only "Practice", "Example", or "Rewrite" when the original title names a document type, audience, purpose, language feature, or decision point.
 
 ---
 
@@ -180,6 +185,8 @@ The first line inside the fence is the visible label in the DOCX output. This is
 
 6. **Extra blank lines inside divs:** Advanced source had ~186 blank lines inserted immediately after `:::` open fences. These create empty paragraphs in the DOCX output. Strip them.
 
+7. **Semantic heading conversion:** The Intermediate pass must now include an explicit heading reclassification sweep, but the structural layers are protected. `### Focus` aligns with Advanced `Unit Overview`; A-H headings align with the Advanced A-H shell. Only non-structural pedagogical headings become div labels, body sublabels, or split semantic blocks. The main decision point is duplicated structural heading plus matching div title.
+
 **Avoidance strategy:**
 - Work unit by unit (23 units). Commit after each unit or small batch.
 - After each unit, run a balance check: count of `:::` open fences == count of close-only `:::` lines.
@@ -191,7 +198,7 @@ The first line inside the fence is the visible label in the DOCX output. This is
 **Div balance check command (PowerShell):**
 ```powershell
 $lines = Get-Content int/md/working/aw-int-all.md
-$opens = ($lines | Where-Object { $_ -match '^:::[\w-]+' }).Count
+$opens = ($lines | Where-Object { $_ -match '^:::\s+[\w-]+\s*$' }).Count
 $closes = ($lines | Where-Object { $_ -match '^:::\s*$' }).Count
 "Opens: $opens  Closes: $closes  Match: $($opens -eq $closes)"
 ```
@@ -200,7 +207,7 @@ $closes = ($lines | Where-Object { $_ -match '^:::\s*$' }).Count
 ```powershell
 $lines = Get-Content int/md/working/aw-int-all.md
 for ($i = 1; $i -lt $lines.Count; $i++) {
-    if ($lines[$i] -match '^:::[\w-]+' -and $lines[$i-1] -ne '') {
+    if ($lines[$i] -match '^:::\s+[\w-]+\s*$' -and $lines[$i-1] -ne '') {
         "Line $($i+1): missing blank line before fence — prev: '$($lines[$i-1])'"
     }
 }
@@ -294,7 +301,7 @@ for ($i = 1; $i -lt $lines.Count; $i++) {
 ```
 textmaker.cmd markdown-to-docx ^
   --input int\md\working\aw-int-all.md ^
-  --reference int\md\working\aw-int-styleref.docx ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
   --output int\md\working\aw-int-all_MMDD.docx ^
   --no-pagebreak-filter ^
@@ -313,7 +320,7 @@ Replace `MMDD` with today's date (e.g. `0519`).
 ```
 python ..\textmaker\scripts\validate_docx_against_reference.py ^
   --docx int\md\working\aw-int-all_MMDD.docx ^
-  --reference int\md\working\aw-int-styleref.docx
+  --reference adv\md\working\aw-adv-styleref.docx
 ```
 
 **Completion gate:**
@@ -329,6 +336,45 @@ python ..\textmaker\scripts\validate_docx_against_reference.py ^
 **Depends on:** Stage 6 complete
 
 **Goal:** Identify and fix all formatting defects found in the Stage 6 build output, then rebuild to a clean verified DOCX.
+
+### Stage 7A — Semantic Heading And Example Reclassification
+
+**Depends on:** Stage 6 source/build audit complete
+
+**Goal:** Align the Intermediate source with the Advanced Step 3 semantic-div standard before final visual cleanup.
+
+**Detailed plan:** `int/edits & guides/style edits/step7a-semantic-reclassification/semantic_heading_and_example_reclassification_plan_0519.md`
+
+**Rules:**
+- Preserve `### Focus` as the Intermediate equivalent of Advanced `Unit Overview`.
+- Preserve all `##`, `###`, and `####` headings that begin with structural letters `A.` through `H.`.
+- Decide how to handle structural headings immediately followed by semantic div labels that repeat or closely match the heading.
+- Convert only non-structural pedagogical headings to semantic divs, body sublabels, or separate semantic blocks.
+- Classify example/source/sample text as `example`, `example-good`, or `example-bad`.
+- Preserve structural headings needed for unit navigation and book architecture.
+- Preserve specific, meaningful heading information that helps students orient to the task. Reclassification changes the semantic container; it should not erase useful distinctions among activities.
+
+**Example classification plan:**
+- `example-bad`: intentionally weak, unclear, inconsistent, too direct, vague, incomplete, or "original/problem" text used for diagnosis or contrast.
+- `example-good`: stronger, revised, preferred, polished, exemplary, consistent, or target-standard version.
+- `example`: neutral source/input/reference text, scenario material, excerpts for analysis, or worked examples not explicitly marked as good or bad.
+
+**Worklist creation:**
+- Inventory candidate headings and examples with line number, current class/context, proposed class, and reason.
+- For each converted heading, record where the original title information survives: div label, body sublabel, or instruction text.
+- Search terms: `Weak`, `Stronger`, `Original`, `Revised`, `Version A`, `Version B`, `Example`, `Inconsistent`, `Consistent`, `Before`, `After`.
+- Use the current `####` headings inside divs as the first cleanup queue only after excluding headings that begin with structural letters `A.` through `H.`.
+- Inventory duplicated structural-heading-plus-div-label pairs and propose one treatment for each pattern: keep both, retitle div label, shorten div label, or mark as build-pipeline decision.
+
+**Completion gate:**
+- `### Focus` remains aligned with Advanced `Unit Overview`.
+- All `##`/`###`/`####` headings beginning with `A.` through `H.` remain aligned with the Advanced A-H structural shell.
+- Duplicated structural-heading-plus-div-label pairs have a documented treatment.
+- Zero non-structural pedagogical headings remain outside semantic divs unless explicitly classified as structural.
+- Zero non-structural `###`/`####` headings remain inside semantic divs.
+- All sample/example/contrast texts are classified as `example`, `example-good`, or `example-bad`.
+- Converted headings retain specific student-facing information; no broad run of activities has been collapsed into generic repeated labels.
+- Div open/close balance still passes; no nested divs are introduced.
 
 **Expected defect categories from advanced pipeline experience:**
 
@@ -471,3 +517,16 @@ Run from `C:\Dev\Code\book_administrative-writing\`.
 **Note on 442 vs 456 div labels:** 456 divs were marked up; 442 received icon labels in the build. The 14-label gap is likely due to a small number of divs whose label paragraphs did not match the postprocessor's detection pattern (e.g. edge-case label text). To be investigated in Stage 7.
 
 **Remaining:** Stage 7 (post-build visual review and fixes), Stage 8 (PDF), answer keys for both books (deadline this week).
+
+### 2026-05-19 (Stage 7A semantic reclassification)
+
+- **Source updated:** `int/md/working/aw-int-all.md`.
+- **Structural heading rule preserved:** `### Focus` remains aligned with Advanced `Unit Overview`; all A-H structural headings remain headings.
+- **Non-structural heading cleanup:** all non-structural `####` headings were converted to div labels or body sublabels. Source gate now reports `h4=0`.
+- **Terminology cleanup:** student-facing `model` terminology in the source was replaced with `example`.
+- **Example classification:** standalone target examples were classified as `example-good`; the inconsistent/consistent example pair was split into `example-bad` and `example-good`. Inline weak/strong teaching pairs remain inside their teaching/task blocks.
+- **Alpha-list normalization:** consecutive `A./B./C./D.` option lists were separated so Pandoc emits separate `List Number 3` items. DOCX check now reports `embedded_BCD=0`.
+- **Build output:** `int/md/working/aw-int-all_0519_stage7a.docx`.
+- **PDF output:** `int/md/working/aw-int-all_0519_stage7a.pdf`.
+- **Validation:** `validate_docx_against_reference.py` passed against `adv/md/working/aw-adv-styleref.docx`; PDF verified as 250 pages, A4, PDF 1.7.
+- **Tooling note:** `textmaker.cmd docx-to-pdf` resolved relative paths under the Textmaker repo during this session. Use absolute input/output paths for DOCX-to-PDF conversion.

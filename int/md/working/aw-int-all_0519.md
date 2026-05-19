@@ -46,7 +46,7 @@ By the end of this unit, you should be able to:
 - I can rewrite long or indirect sentences in a simpler administrative style.
 - I can write a short work-related message using clear sentence structure.
 
-### A. Warm-Up: What Makes a Sentence Clear?
+### A. Warm-Up
 
 ::: notice
 Sentence Comparison
@@ -108,7 +108,7 @@ The stronger version works because the reader can see the action immediately:
 The weaker version makes the reader wait too long before the real action appears.
 :::
 
-### C. Language 1. Basic Sentence Pattern (SVO / SVC)
+### C. Language 1
 
 ::: language
 Basic Sentence Pattern
@@ -170,7 +170,7 @@ Rewrite the word groups as clear SVO or SVC sentences.
 5. (system / show / error message / this morning)
 :::
 
-### C. Language 2. Avoiding Unnecessary Complexity
+### C. Language 2
 
 ::: learn
 Simplification Strategies
@@ -260,10 +260,10 @@ Before you write your own message, check each sentence with these questions:
 If the answer to one of these is `No`, rewrite the sentence before you continue.
 :::
 
-### E. Freer Practice: Write Clear Administrative Sentences
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Clear Administrative Sentences
 
 Write a short message to the applicant in **3-4 clear sentences**.
 
@@ -327,10 +327,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U01-editing-rewrite}}
 
-### H. Transfer Extension: Turn Sentences into a Mini Message
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Turn Sentences into a Mini Message
 
 Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
 
@@ -491,7 +491,7 @@ Rewrite the message using a polite request phrase.
    ->
 :::
 
-### C. Language 2. Professional Tone in Explanations
+### C. Language 2
 
 ::: learn
 Professional Tone in Explanations
@@ -623,10 +623,10 @@ Before writing your own email, check:
 If one answer is `No`, improve the draft before moving on.
 :::
 
-### E. Freer Practice: Write Your Own Professional Email
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Your Own Professional Email
 
 Choose one situation and write a short professional email in **3-4 sentences**.
 
@@ -675,10 +675,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U02-editing-rewrite}}
 
-### H. Transfer Extension: Same Message, Better Relationship
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Same Message, Better Relationship
 
 Choose one of your real workplace situations.
 
@@ -857,7 +857,7 @@ In administrative writing, this matters because the reader often needs to know:
 3. what the result or next point is
 :::
 
-### C. Language 1. Three-Part Structure
+### C. Language 1
 
 ::: language
 Three-Part Paragraph Structure
@@ -880,7 +880,7 @@ Example Paragraph
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 :::
 
-### C. Practice A: Identify the Parts
+### C. Practice A
 
 ::: notice
 Identify the Parts
@@ -920,7 +920,7 @@ Your labels:
 3.
 :::
 
-### C. Language 2. Logical Flow Inside a Paragraph
+### C. Language 2
 
 ::: learn
 Logical Flow Inside a Paragraph
@@ -955,7 +955,7 @@ Choose the facts that belong to the same paragraph job:
 - preparing the next section
 :::
 
-### C. Practice B: Reorder to Create a Clear Paragraph
+### C. Practice B
 
 ::: write
 Reorder and Extend
@@ -1022,10 +1022,10 @@ Check your paragraph before moving on:
 - [ ] Did I avoid mixing unrelated topics?
 :::
 
-### E. Freer Practice: Write a Full Paragraph
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write a Full Paragraph
 
 Write **one administrative paragraph** (5-6 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
@@ -1062,10 +1062,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U03-editing-rewrite}}
 
-### H. Transfer Extension: Build a Report Paragraph
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Build a Report Paragraph
 
 Choose one earlier task from Unit 1 or Unit 2.
 
@@ -1407,7 +1407,7 @@ A professional email helps the reader act quickly.
 The reader should understand the purpose without guessing.
 :::
 
-### C. Language 1. Subject Lines
+### C. Language 1
 
 ::: language
 Subject Lines
@@ -1460,7 +1460,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 - Confirmation Notice Status
 :::
 
-### C. Language 2. Openings and Closings
+### C. Language 2
 
 ::: language
 Email Openings and Closings
@@ -1600,10 +1600,10 @@ Before writing your own email, check:
 4. Does the closing sound professional?
 :::
 
-### E. Freer Practice: Write Your Own Email
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Your Own Email
 
 Choose one situation and write one complete email in **3-4 sentences**.
 
@@ -1660,10 +1660,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U04-editing-rewrite}}
 
-### H. Transfer Extension: Build Two Purpose Lines
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Build Two Purpose Lines
 
 For each situation below, write:
 
@@ -1804,7 +1804,7 @@ Checking Your Understanding
 - Should I understand that...?
 :::
 
-### C. Practice A: Make These Questions Clearer
+### C. Practice A
 
 ::: rewrite
 Make These Questions Clearer
@@ -1835,7 +1835,7 @@ Mini contrast:
    ->
 :::
 
-### C. Language 2. Asking About Missing or Confusing Information
+### C. Language 2
 
 
 ::: learn
@@ -1873,7 +1873,7 @@ Clarification writing is easier to answer when the reader does not need to guess
 - what kind of answer is needed
 :::
 
-### C. Practice B: Improve the Clarity
+### C. Practice B
 
 ::: rewrite
 Improve the Clarity
@@ -1893,7 +1893,7 @@ Rewrite each sentence as a better clarification question.
    ->
 :::
 
-### C. Practice C: Clarification from Context
+### C. Practice C
 
 ::: write
 Clarification from Context
@@ -1984,10 +1984,10 @@ Before writing your own clarification email, check:
 4. Could the reader answer without asking me another question first?
 :::
 
-### E. Freer Practice: Write Two Clarification Emails
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Two Clarification Emails
 
 Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
@@ -2034,10 +2034,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U05-editing-rewrite}}
 
-### H. Transfer Extension: One Topic, One Email
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+One Topic, One Email
 
 Choose one of the freer-practice topics.
 
@@ -2187,7 +2187,7 @@ The stronger version works because the reader learns:
 That reduces uncertainty and extra follow-up questions.
 :::
 
-### C. Language 1. Useful Phrases for Delays and Changes
+### C. Language 1
 
 ::: language
 Useful Phrases for Delays and Changes
@@ -2225,7 +2225,7 @@ Useful Phrases for Delays and Changes
 - The new schedule will be shared shortly.
 :::
 
-### C. Practice A: Improve the Clarity
+### C. Practice A
 
 ::: rewrite
 Improve the Clarity
@@ -2256,7 +2256,7 @@ Mini contrast:
    ->
 :::
 
-### C. Language 2. Logical Order for Update Messages
+### C. Language 2
 
 ::: learn
 Logical Order for Update Messages
@@ -2292,7 +2292,7 @@ The paragraph moves in a useful order:
 This order helps the reader understand both the situation and the practical meaning of the delay.
 :::
 
-### C. Practice B: Reorder to Make a Clear Update
+### C. Practice B
 
 ::: write
 Reorder to Make a Clear Update
@@ -2313,7 +2313,7 @@ Write the best order:
 3.
 :::
 
-### C. Practice C: Add Supporting Information
+### C. Practice C
 
 ::: write
 Add Supporting Information
@@ -2372,10 +2372,10 @@ Before writing your own update email, check:
 4. Did I include a neutral next-step line?
 :::
 
-### E. Freer Practice: Choose a Scenario and Write
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Choose a Scenario and Write
 
 Write **two short update emails** (3-4 sentences each).
 
@@ -2433,10 +2433,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U06-editing-rewrite}}
 
-### H. Transfer Extension: Turn an Email Update into a Report Line
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Turn an Email Update into a Report Line
 
 Choose one update message you wrote in this unit.
 
@@ -2624,7 +2624,7 @@ Often a request is clearer when you add **one short context sentence**.
 - This will help us complete the process.
 :::
 
-### C. Practice A: Rewrite the Request
+### C. Practice A
 
 ::: rewrite
 Rewrite the Request
@@ -2657,7 +2657,7 @@ Mini request frame:
    ->
 :::
 
-### C. Language 2. Requests with Specific Details
+### C. Language 2
 
 ::: language
 Requests with Specific Details
@@ -2679,7 +2679,7 @@ A good request includes:
 - I would appreciate it if you could confirm **the applicant's submission date**.
 :::
 
-### C. Practice B: Make the Request More Specific
+### C. Practice B
 
 ::: rewrite
 Make the Request More Specific
@@ -2710,7 +2710,7 @@ Mini contrast:
    ->
 :::
 
-### C. Language 3. Requests Without Sounding Too Direct
+### C. Language 3
 
 ::: learn
 Avoiding Pressure in Requests
@@ -2749,7 +2749,7 @@ Good request writing balances:
 - professional tone
 :::
 
-### C. Practice C: Soften the Request
+### C. Practice C
 
 ::: rewrite
 Soften the Request
@@ -2813,10 +2813,10 @@ Before writing your request email, check:
 4. Did I avoid pressure words or commands?
 :::
 
-### E. Freer Practice: Write Two Request Emails
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Two Request Emails
 
 Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
@@ -2877,10 +2877,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U07-editing-rewrite}}
 
-### H. Transfer Extension: One Need, Two Levels of Politeness
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+One Need, Two Levels of Politeness
 
 Choose one request from your real work.
 
@@ -3307,7 +3307,7 @@ Procedures reduce reader error when:
 - the format stays consistent
 :::
 
-### C. Language 1. Clear Instruction Verbs
+### C. Language 1
 
 ::: language
 Clear Instruction Verbs
@@ -3347,7 +3347,7 @@ Mini contrast:
 The stronger version tells the reader exactly what action sequence to follow.
 :::
 
-### C. Practice A: Improve the Verb Choice
+### C. Practice A
 
 ::: rewrite
 Improve the Verb Choice
@@ -3378,7 +3378,7 @@ If the order is wrong, even correct instructions can cause mistakes.
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 :::
 
-### C. Practice B: Put the Steps in Order
+### C. Practice B
 
 ::: write
 Put the Steps in Order
@@ -3400,7 +3400,7 @@ Write the correct order:
 4.
 :::
 
-### C. Practice C: Add Missing Steps
+### C. Practice C
 
 ::: write
 Add Missing Steps
@@ -3462,10 +3462,10 @@ Before writing your own procedures, check:
 4. Will the user know when the task is finished?
 :::
 
-### E. Freer Practice: Write Two Procedures
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Two Procedures
 
 Write **two different procedures** (4-5 steps each).
 Choose any two situations below:
@@ -3566,10 +3566,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U08-editing-rewrite}}
 
-### H. Transfer Extension: Procedure for a New User
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+Procedure for a New User
 
 Choose one workplace task you know well.
 
@@ -3709,7 +3709,7 @@ A notice is useful when it reduces uncertainty.
 The reader should be able to understand the situation without asking a second question immediately.
 :::
 
-### C. Language 1. Structure of an Internal Notice
+### C. Language 1
 
 ::: language
 Notice Structure
@@ -3733,7 +3733,7 @@ Internal Notice - Document Review Schedule
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 :::
 
-### C. Practice A: Identify the Parts
+### C. Practice A
 
 ::: notice
 Identify the Parts
@@ -3755,7 +3755,7 @@ Your answers:
 4.
 :::
 
-### C. Language 2. Neutral Tone
+### C. Language 2
 
 ::: learn
 Neutral Tone in Notices
@@ -3786,7 +3786,7 @@ Rewrite These to Make Them Neutral
    ->
 :::
 
-### C. Practice B: Improve the Clarity
+### C. Practice B
 
 ::: rewrite
 Improve the Clarity
@@ -3857,10 +3857,10 @@ Check your notice before moving on:
 4. Is the notice short but complete?
 :::
 
-### E. Freer Practice: Write Two Notices
+### E. Freer Practice
 
 ::: write
-Freer Practice
+Write Two Notices
 
 Choose two situations and write two internal notices.
 Write each notice for colleagues inside your organisation.
@@ -3936,10 +3936,10 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U09-editing-rewrite}}
 
-### H. Transfer Extension: From Notice to Bulletin
+### H. Transfer Extension
 
 ::: write
-Transfer Extension
+From Notice to Bulletin
 
 Choose one short notice you wrote in this unit.
 
@@ -9452,10 +9452,10 @@ Before writing the full three-document set, check:
 4. Is the tone right for each audience?
 :::
 
-### E. Planning Board: Three Documents from One Situation
+### E. Planning Board
 
 ::: structure
-Planning Board: Three Documents from One Situation
+Three Documents from One Situation
 
 Before drafting the full set, map the same situation across the three readers.
 
@@ -10067,10 +10067,10 @@ Reflection
 :::
 
 
-### H. Homework (Final Course Task)
+### H. Homework
 
 ::: write
-Homework: Final Course Task
+Final Course Task
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
 :::
