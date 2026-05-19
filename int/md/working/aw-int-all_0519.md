@@ -22,6 +22,12 @@ style_map:
 
 Module 1 builds the first control layer for the whole book. The goal is not only to write simple English, but to write English that is easy for a workplace reader to process quickly. Each unit therefore asks you to notice the difference between a weaker version and a stronger version, explain why the stronger version helps the reader, and revise your own writing before moving on.
 
+The three units build from individual sentences to complete paragraphs:
+
+- Unit 1 focuses on sentence structure — writing short, clear sentences that are easy for a workplace reader to process quickly.
+- Unit 2 develops professional tone — choosing language that sounds polite and appropriate for different workplace relationships.
+- Unit 3 brings these skills together at the paragraph level, where sentence structure and tone combine to create organised, reader-ready text.
+
 By the end of this module, you should be able to:
 
 - write short sentences with a clear main message
@@ -539,6 +545,14 @@ You can use these phrases to make your tone more appropriate:
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original Email
+
+> Hi,
+> You didn't send the right file. Send the correct one today. I need it now.
+:::
+
 ::: rewrite
 Rewrite the Email
 
@@ -553,10 +567,6 @@ Try to improve all three areas:
 **Mini contrast — Weak:** blame first, urgent demand, no calm context
 
 **Stronger:** short greeting, clear problem statement, polite request, stable tone
-
-**Original email:**
-> Hi,
-> You didn't send the right file. Send the correct one today. I need it now.
 
 **Rewrite here:**
 :::
@@ -921,13 +931,17 @@ Add one more supporting sentence that continues the explanation without giving i
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original
+
+> We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
+:::
+
 ::: rewrite
 Write a Better Paragraph
 
 Rewrite this paragraph so it has a clear **topic ->support ->closing** structure. Expand it to **5-6 sentences**, and make sure it reads like part of a larger report or document- not a complete message.
-
-**Original:**
-> We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
 
 **Rewrite here:**
 :::
@@ -973,14 +987,17 @@ Write your paragraph:
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
+:::
+
 ::: edit
 Repair the Paragraph Logic
 
 The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
-
-**Original:**
-
-The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
 
 **Rewrite:**
 :::
@@ -1140,15 +1157,17 @@ This matters because weak writing often has more than one problem at the same ti
 
 ### Module 1 revision lab
 
+
+::: example-bad
+Weak Draft
+
+We checked your application yesterday and there are some problems and we need more information and also the office is busy now so please reply quickly because the review cannot continue.
+:::
+
 ::: revise
 Revision Lab
 
-Read this weak message:
-
-**Weak draft**
-We checked your application yesterday and there are some problems and we need more information and also the office is busy now so please reply quickly because the review cannot continue.
-
-Improve it in three steps.
+Read this weak message, then improve it in three steps.
 
 1. Sentence control:
    - Split the long sentence into smaller parts.
@@ -1221,6 +1240,13 @@ The early units matter because later modules depend on them. A weak sentence pat
 ## Module Guide
 
 Module 2 turns the foundation skills from Module 1 into usable workplace email writing. The focus is not only email form, but reader guidance: the subject line, opening, request, explanation, and closing all need to help the reader understand purpose, action, and tone quickly. The units in this module work together, so you should keep comparing how message purpose changes the order, tone, and level of detail.
+
+The four units move through progressively demanding email writing tasks:
+
+- Unit 4 introduces email layout and standard phrases — the visual and language conventions that make a workplace email easy to read and respond to.
+- Unit 5 develops the skill of requesting clarification — writing short, focused emails that ask one clear question without sounding abrupt.
+- Unit 6 addresses communicating delays or changes — explaining unwelcome information in a way that keeps the reader informed without sounding apologetic or vague.
+- Unit 7 extends the range to making requests politely — choosing language that matches the relationship and avoids pressure.
 
 By the end of this module, you should be able to:
 
@@ -1547,12 +1573,9 @@ Use this box for one complete version.
 
 ### G. Editing Practice
 
-::: edit
-Repair the Email Structure
 
-Rewrite the email so each part has a clear job.
-
-**Original:**
+::: example-bad
+Original
 
 Subject: Help
 
@@ -1561,6 +1584,12 @@ Hi,
 I saw the file and I do not understand part of it and maybe there is also a problem with one page so please tell me what this means.
 
 Thanks.
+:::
+
+::: edit
+Repair the Email Structure
+
+Rewrite the email so each part has a clear job.
 
 **Rewrite:**
 :::
@@ -2902,17 +2931,21 @@ Use the unit map below when an email feels weak.
 
 ### Module 2 weak-email clinic
 
-::: notice
-Weak-Email Clinic
 
-Read this email.
+::: example-bad
+Weak Version
 
-**Weak version**
 Subject: Document
 
 Hello,
 About the form, there is a problem, so please send it again soon because we need it.
 Thank you.
+:::
+
+::: notice
+Weak-Email Clinic
+
+Read this email.
 
 Why this email causes trouble for the reader:
 
@@ -3052,6 +3085,13 @@ This keeps the message sequence practical and helps the first email lead more na
 ## Module Guide
 
 Module 3 develops writing that helps internal readers understand process, change, problems, and meeting outcomes. In this module, the reader often needs to do something after reading, so order and logic matter as much as grammar. The support sections in these units are designed to help you see how better organisation reduces mistakes, confusion, and extra follow-up questions.
+
+The four units address distinct but related internal document types:
+
+- Unit 8 develops procedural writing — clear, ordered steps that another person can follow without asking questions.
+- Unit 9 focuses on internal notices — short documents that explain a change, decision, or requirement to colleagues.
+- Unit 10 develops the skill of explaining problems clearly — describing an issue in a logical order so the reader understands what happened, what the effect is, and what happens next.
+- Unit 11 addresses meeting summaries — condensing what was discussed and decided into a short, useful record.
 
 By the end of this module, you should be able to:
 
@@ -3398,16 +3438,19 @@ Use this box for one complete version.
 
 ### G. Editing Practice
 
-::: edit
-Repair the Procedure
 
-Rewrite this procedure so it becomes clearer and easier to follow.
-
-**Original:**
+::: example-bad
+Original
 
 1. Check the file and maybe look at the applicant number too because this is important.
 2. If everything is okay then save it, but first rename it if necessary.
 3. Send it later.
+:::
+
+::: edit
+Repair the Procedure
+
+Rewrite this procedure so it becomes clearer and easier to follow.
 
 **Rewrite:**
 :::
@@ -3744,6 +3787,14 @@ Use this board before you draft so each notice tells staff what changed, why it 
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+Notice
+There is a problem with the files today. Please be careful. More later.
+:::
+
 ::: edit
 Strengthen the Notice
 
@@ -3759,11 +3810,6 @@ Mini contrast:
 
 - [ ] Weak notice: vague warning, no action path
 - [ ] Stronger notice: clear topic, clear problem, clear reminder or next step
-
-**Original:**
-
-Notice
-There is a problem with the files today. Please be careful. More later.
 
 **Rewrite:**
 :::
@@ -4134,14 +4180,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
+:::
+
 ::: edit
 Editing Practice: Repair the Problem Logic
 
 Rewrite this explanation so it is clearer and better organized.
-
-**Original:**
-
-There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
 
 **Rewrite:**
 
@@ -4450,14 +4499,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
+:::
+
 ::: edit
 Editing Practice: Make the Summary Usable
 
 Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
-
-**Original:**
-
-We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
 
 **Rewrite:**
 
@@ -4862,6 +4914,13 @@ This comparison matters because Module 3 improves most when the text becomes mor
 
 Module 4 moves the book into outward-facing communication. The writing in this module must stay simple, but it also needs stronger audience control because the reader may be outside your team or may not share the same background knowledge. The unit support therefore focuses on why sequence, explanation, clarification, and consistency matter when the reader cannot easily ask for help in person.
 
+The four units address the challenges of outward-facing and reader-specific communication:
+
+- Unit 12 develops external inquiries — short, clear emails that ask an answerable question of a reader outside the team.
+- Unit 13 focuses on providing simple explanations — giving information to a reader who may not share the same background knowledge as the writer.
+- Unit 14 addresses responding to confusion — correcting a misunderstanding or answering a follow-up question without sounding defensive.
+- Unit 15 develops consistency across email communication — maintaining one clear standard when multiple people write about the same topic.
+
 By the end of this module, you should be able to:
 
 - write a clear external inquiry that asks answerable questions
@@ -5149,16 +5208,19 @@ Use this box for one complete version.
 
 ### G. Editing Practice
 
-::: edit
-Editing Practice: Make the Inquiry Answerable
 
-Rewrite this inquiry so the outside reader can answer it more easily.
-
-**Original:**
+::: example-bad
+Original
 
 Subject: Question
 Hi,
 We do not understand this and need help. Please explain the rule.
+:::
+
+::: edit
+Editing Practice: Make the Inquiry Answerable
+
+Rewrite this inquiry so the outside reader can answer it more easily.
 
 **Rewrite:**
 
@@ -5506,14 +5568,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+The document cannot be accepted. There is a problem with one section. The process will change.
+:::
+
 ::: edit
 Editing Practice: Add the Missing Link
 
 Rewrite this explanation so the reader can see both the reason and the effect.
-
-**Original:**
-
-The document cannot be accepted. There is a problem with one section. The process will change.
 
 **Rewrite:**
 
@@ -5840,14 +5905,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+You misunderstood the message. We already explained this rule before, so please read it again carefully.
+:::
+
 ::: edit
 Editing Practice: Remove the Defensive Tone
 
 Rewrite this response so it becomes clearer and more professional.
-
-**Original:**
-
-You misunderstood the message. We already explained this rule before, so please read it again carefully.
 
 **Rewrite:**
 
@@ -6119,6 +6187,14 @@ That is why formatting supports clarity, not only appearance.
 
 ### C. Practice
 
+
+::: example-bad
+Original
+
+Subject: Question
+Hi, I saw the file. It looks wrong. Please explain. Thanks.
+:::
+
 ::: rewrite
 Practice B: Reformat the Email
 
@@ -6144,11 +6220,6 @@ Mini example:
   Could you confirm which version should be used for the next submission step?
   Thank you for your help.
 
-**Original:**
-Subject: Question
-Hi, I saw the file. It looks wrong. Please explain. Thanks.
-
-Rewrite here:
 :::
 
 
@@ -6157,16 +6228,18 @@ Rewrite here:
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original
+
+Subject: Form
+I checked it. The date is different from the one in the system. What should we do? Thx.
+:::
+
 ::: rewrite
 Guided Practice: Standardise a Draft Email
 
-Rewrite the following email to make it consistent.
-
-**Original:**
-Subject: Form
-I checked it. The date is different from the one in the system. What should we do? Thx.
-
-Rewrite it as a short email to a colleague or team mailbox using a consistent professional style.
+Rewrite the following email to make it consistent. Rewrite it as a short email to a colleague or team mailbox using a consistent professional style.
 
 **Rewrite:**
 
@@ -6620,6 +6693,12 @@ This practice matters because Module 4 improves when the writer stops treating "
 
 Module 5 changes the learner role from writer to editor. The purpose is not only to find mistakes, but to understand what each revision does for the reader. In this module, you practise checking accuracy, clarity, and tone as separate editing lenses, then using them together to improve a real workplace draft.
 
+The three units address accuracy, clarity, and tone as separate editing skills:
+
+- Unit 16 develops editing for accuracy — identifying and correcting common grammar and information errors in workplace drafts.
+- Unit 17 develops editing for clarity — revising vague, overloaded, or poorly ordered text so the reader can follow the message more easily.
+- Unit 18 develops editing for tone — changing how a message sounds without changing what it says.
+
 By the end of this module, you should be able to:
 
 - identify and correct common accuracy problems
@@ -6826,15 +6905,19 @@ Corrected version:
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original Email
+
+Subject: Form
+Hi,
+I check the document yesterday and it have some mistake. The informations in section 2 is not correct and applicant no submit the signature. Please fix it. Thank you.
+:::
+
 ::: edit
 Guided Practice: Edit a Short Administrative Email
 
 You are editing a short email draft before it is sent to a colleague or applicant.
-
-**Original Email:**
-Subject: Form
-Hi,
-I check the document yesterday and it have some mistake. The informations in section 2 is not correct and applicant no submit the signature. Please fix it. Thank you.
 
 **Rewrite the corrected, professional version:**
 
@@ -6907,14 +6990,18 @@ Write the full corrected version below.
 
 ### E. Extended Writing Task
 
+
+::: example-bad
+Original
+
+The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
+:::
+
 ::: edit
 Extended Writing Task: Editing a Paragraph
 
 Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
 Treat it as a draft internal update that needs editing before your team shares it.
-
-**Original:**
-The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
 
 **Corrected paragraph:**
 :::
@@ -7152,14 +7239,18 @@ Write the best order:
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original
+
+The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
+:::
+
 ::: edit
 Guided Practice: Edit for Clarity
 
 Rewrite this paragraph (4-5 sentences) to make it clearer.
 Treat it as a draft update that a colleague wrote for internal use.
-
-**Original:**
-The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 
 **Rewrite:**
 
@@ -7213,14 +7304,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
+:::
+
 ::: edit
 Editing Practice: From Vague To Usable
 
 Rewrite this draft so it becomes clearer for an internal reader.
-
-**Original:**
-
-There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
 
 **Rewrite:**
 
@@ -7251,14 +7345,18 @@ Write one sentence on each line where possible.
 
 ### E. Extended Writing Task
 
+
+::: example-bad
+Original
+
+We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
+:::
+
 ::: edit
 Extended Writing Task: Clear Paragraph Revision
 
 Rewrite this paragraph (6-8 sentences) to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
-
-**Original:**
-We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
 
 **Rewrite:**
 :::
@@ -7494,16 +7592,20 @@ Rewrite:
 
 ### D. Guided Practice
 
+
+::: example-bad
+Original
+
+Subject: Form
+Hi,
+The applicant did not follow the instructions again. This is causing problems for us. Fix the form and send it back quickly.
+:::
+
 ::: edit
 Guided Practice: Edit a Full Email
 
 Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
-
-**Original:**
-Subject: Form
-Hi,
-The applicant did not follow the instructions again. This is causing problems for us. Fix the form and send it back quickly.
 
 **Rewrite:**
 
@@ -7557,14 +7659,17 @@ Write each document in its own box.
 
 ### G. Editing Practice
 
+
+::: example-bad
+Original
+
+You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
+:::
+
 ::: edit
 Editing Practice: Keep The Meaning, Change The Tone
 
 Rewrite this draft so it stays clear but sounds more professional.
-
-**Original:**
-
-You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
 
 **Rewrite:**
 
@@ -7597,14 +7702,18 @@ Write one sentence on each line where possible.
 
 ### E. Extended Writing Task
 
+
+::: example-bad
+Original
+
+We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
+:::
+
 ::: edit
 Extended Writing Task: Tone Revision Paragraph
 
 Rewrite this paragraph (6-8 sentences) to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
-
-**Original:**
-We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
 
 **Rewrite:**
 :::
@@ -7735,12 +7844,10 @@ This order helps because some tone problems disappear after clarity improves, an
 
 ### module 5 revision clinic
 
-::: edit
-Revision Clinic
 
-Read this weak message:
+::: example-bad
+Weak Draft
 
-**Weak draft**
 The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
 
 Improve it in three passes.
@@ -7761,6 +7868,13 @@ Why this stronger version works:
 - [ ] the problem is more precise
 - [ ] the next action is clearer
 - [ ] the tone supports cooperation
+:::
+
+::: edit
+Revision Clinic
+
+Read this weak message:
+
 :::
 
 
@@ -7839,6 +7953,14 @@ This memo matters because whole-document quality rarely comes from one fast corr
 ## Module Guide
 
 Module 6 is the applied stage of the book. The units in this module ask you to manage more than one document, more than one reader, or more than one revision decision at the same time. The support in this module is therefore designed to help you keep audience, purpose, tone, and consistency under control while still writing at an intermediate level.
+
+The five units ask learners to manage more than one document, reader, or revision task at the same time:
+
+- Unit 19 introduces integrated task writing — producing a connected email and internal explanation from the same scenario.
+- Unit 20 develops revision combined with new writing — improving an existing draft while producing a related notice.
+- Unit 21 addresses writing for consistency across a team — aligning the style and structure of multiple writers into one shared standard.
+- Unit 22 extends to multi-document communication — managing email, explanation, and notice as a connected set for different readers.
+- Unit 23 is the portfolio and final revision unit — reviewing a selection of writing from the whole book and explaining revision decisions.
 
 By the end of this module, you should be able to:
 
@@ -8710,6 +8832,14 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 ### C. Practice
 
+
+::: example-bad
+Original
+
+Subject: Document
+Hey, I don't think this is right. Check it and tell me.
+:::
+
 ::: rewrite
 Practice B: Standardise Format & Tone
 
@@ -8730,10 +8860,6 @@ Mini standard:
 - Purpose: one direct sentence near the top
 - Detail: one supporting fact or request
 - Closing: neutral and consistent
-
-**Original:**
-Subject: Document
-Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
 :::
@@ -8868,17 +8994,20 @@ This keeps the unit focused on message rewriting first, then turns one successfu
 
 ### E. Extended Writing Task
 
+
+::: example-bad
+Original Messages
+
+1. "We told them already, but they didn't send the file. Ask again."
+2. "Hi, I think the new form is wrong. They need fix it."
+3. "Team, The deadline is near. Do something."
+:::
+
 ::: rewrite
 Extended Writing Task: Rewrite a Set of Communications
 
 Rewrite the following **three related messages** so they all follow a consistent team style.
 Treat them as messages your team may send to colleagues or external contacts about related work.
-
-**Original Messages**
-
-1. "We told them already, but they didn't send the file. Ask again."
-2. "Hi, I think the new form is wrong. They need fix it."
-3. "Team, The deadline is near. Do something."
 
 **Rewrite all messages in a unified, professional style**
 
@@ -10098,7 +10227,6 @@ Use these prompts:
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
 :::
-
 
 
 

@@ -977,7 +977,12 @@ Choose one:
 
 Module 2 moves from the foundational sentence and paragraph skills of Module 1 to the production of complete professional documents — specifically, high-level emails in interagency and international administrative contexts. Where Module 1 focused on how to construct and connect language at the sentence level, Module 2 focuses on what that language is for: communicating purposefully with colleagues, counterparts, and partners across offices, agencies, and borders.
 
-The four units address a progressively demanding set of email writing challenges. Unit 4 establishes the structural logic of professional emails — how to organise multi-part content so that readers can understand, act on, and respond to a message efficiently. Unit 5 deepens this by focusing on precision: the ability to ask specific, well-referenced questions and structure clarification requests that reduce back-and-forth. Unit 6 addresses one of the most diplomatically sensitive email writing tasks — communicating errors and discrepancies without assigning blame or escalating tension. Unit 7 extends the multi-part writing challenge further by introducing sequencing and dependency logic: the ability to manage requests that must be completed in a specific order.
+The four units address a progressively demanding set of email writing challenges:
+
+- Unit 4 establishes the structural logic of professional emails — how to organise multi-part content so that readers can understand, act on, and respond to a message efficiently.
+- Unit 5 deepens this by focusing on precision: the ability to ask specific, well-referenced questions and structure clarification requests that reduce back-and-forth.
+- Unit 6 addresses one of the most diplomatically sensitive email writing tasks — communicating errors and discrepancies without assigning blame or escalating tension.
+- Unit 7 extends the multi-part writing challenge further by introducing sequencing and dependency logic: the ability to manage requests that must be completed in a specific order.
 
 Together, these units develop the communicative repertoire that professional administrative writers need for day-to-day correspondence at agency level. By the end of Module 2, learners should be able to produce well-structured, diplomatically appropriate emails across a range of common professional scenarios.
 
@@ -2277,7 +2282,12 @@ Choose one:
 
 Module 3 shifts the focus from email correspondence to a different dimension of administrative writing: the production of structured internal documents. Where Module 2 was concerned with communicating with external and interagency counterparts, Module 3 addresses the challenge of writing clearly and precisely for audiences who depend on written documents to coordinate their work — colleagues following procedures, managers reading explanations, and partners acting on meeting summaries.
 
-The four units address distinct but related document types. Unit 8 focuses on procedural writing — the ability to organise multi-step processes into clearly sequenced, unambiguous instructions. Unit 9 develops a closely related skill: writing for change management, where the challenge is not just clarity but also tone — informing readers about change in a way that promotes compliance without creating resistance. Unit 10 moves to explanatory writing, developing the ability to decompose and communicate multi-factor issues with appropriate specificity and neutrality. Unit 11 brings these strands together in the context of meeting summaries — documents that must be accurate, structured, and action-oriented.
+The four units address distinct but related document types:
+
+- Unit 8 focuses on procedural writing — the ability to organise multi-step processes into clearly sequenced, unambiguous instructions.
+- Unit 9 develops a closely related skill: writing for change management, where the challenge is not just clarity but also tone — informing readers about change in a way that promotes compliance without creating resistance.
+- Unit 10 moves to explanatory writing, developing the ability to decompose and communicate multi-factor issues with appropriate specificity and neutrality.
+- Unit 11 brings these strands together in the context of meeting summaries — documents that must be accurate, structured, and action-oriented.
 
 A key theme across all four units is the relationship between structure and usability: documents in this module are not read for their own sake but to enable action. Learners who complete Module 3 should be able to produce internal documents that a reader can act on without having to seek further clarification.
 
@@ -3476,7 +3486,12 @@ Choose one:
 
 Module 4 develops learners' ability to write in contexts where the stakes of communication are higher and the audiences more demanding. The module moves from the professional email writing of Module 2 and the internal document skills of Module 3 into the more complex territory of cross-border and interagency communication — correspondence with international partners, risk-sensitive writing, multi-audience documents, and policy-grounded justifications.
 
-The four units are distinct in document type but share a common concern: the ability to write with appropriate authority and precision in situations where the relationship between offices, the alignment with policy, and the potential impact of error all matter. Unit 12 develops the production of formal external inquiries — writing that must be simultaneously specific, diplomatic, and professionally credible. Unit 13 shifts to risk and impact writing, which requires analytical objectivity and the ability to calibrate certainty through appropriate hedging language. Unit 14 addresses one of the most practically demanding writing challenges in professional contexts: producing a single document that serves readers with different levels of knowledge and different informational needs. Unit 15 completes the module by developing the ability to write policy-aligned rationales — the kind of justified, evidence-grounded arguments that underpin proposals, recommendations, and procedural changes at agency level.
+The four units are distinct in document type but share a common concern — writing with appropriate authority and precision where the relationship between offices, the alignment with policy, and the potential impact of error all matter:
+
+- Unit 12 develops the production of formal external inquiries — writing that must be simultaneously specific, diplomatic, and professionally credible.
+- Unit 13 shifts to risk and impact writing, which requires analytical objectivity and the ability to calibrate certainty through appropriate hedging language.
+- Unit 14 addresses one of the most practically demanding writing challenges in professional contexts: producing a single document that serves readers with different levels of knowledge and different informational needs.
+- Unit 15 completes the module by developing the ability to write policy-aligned rationales — the kind of justified, evidence-grounded arguments that underpin proposals, recommendations, and procedural changes at agency level.
 
 Learners who complete Module 4 should be able to write across these four demanding contexts with professional confidence, maintaining appropriate tone, structural logic, and alignment with policy or guidelines throughout.
 
@@ -4881,7 +4896,11 @@ Choose one:
 
 Module 5 marks a shift in the book's pedagogical focus. The first four modules have developed learners' ability to produce professional documents across a range of genres and contexts. Module 5 adds a second layer to that competence: the ability to evaluate, revise, and critically improve written work — both their own and others'. This is the dimension of professional writing that separates competent writers from expert ones.
 
-The three units address three increasingly complex forms of this analytical and revisory work. Unit 16 develops balanced evaluation — the ability to assess a document or process objectively, acknowledging both strengths and weaknesses and framing criticism as constructive recommendation. Unit 17 develops executive brief writing, which demands a particular kind of analytical compression: identifying what a senior decision-maker needs to know and presenting it with maximum clarity and minimum noise. Unit 18 develops synthesis — arguably the most cognitively demanding skill in the module — the ability to draw on multiple sources, identify themes and relationships across them, and produce a coherent account that goes beyond listing.
+The three units address three increasingly complex forms of this analytical and revisory work:
+
+- Unit 16 develops balanced evaluation — the ability to assess a document or process objectively, acknowledging both strengths and weaknesses and framing criticism as constructive recommendation.
+- Unit 17 develops executive brief writing, which demands a particular kind of analytical compression: identifying what a senior decision-maker needs to know and presenting it with maximum clarity and minimum noise.
+- Unit 18 develops synthesis — arguably the most cognitively demanding skill in the module — the ability to draw on multiple sources, identify themes and relationships across them, and produce a coherent account that goes beyond listing.
 
 A key theme across Module 5 is the relationship between analytical judgement and written form. Learners are asked not just to produce but to think about what to include, what to omit, how to frame a finding, and how to connect disparate information. These skills underpin much of the highest-level administrative writing in professional life, and completing Module 5 should give learners a significant advantage in roles that require critical document work.
 
@@ -5852,7 +5871,13 @@ Choose one:
 
 Module 6 is the culmination of the book. The five units in this module do not introduce new writing genres so much as they demand that learners apply, integrate, and consolidate the full range of skills developed across Modules 1–5 — in progressively more demanding and realistic contexts.
 
-The module's trajectory is deliberately cumulative. Unit 19 opens with a genre — the plain-language policy summary — that requires learners to subordinate their knowledge of technical writing to the communicative needs of a non-expert audience: a form of audience awareness that draws on Module 2's tone work and Module 4's multi-audience skills. Unit 20 focuses on the concise justification — a document that synthesises the rationale-building of Unit 15 and the precise decision writing of earlier units into a short, high-stakes form. Unit 21 develops consolidated administrative reports, bringing together the synthesis skills of Unit 18 and the structural organisation of Unit 11 into a multi-source, multi-section document. Unit 22 integrates all of this in a complex scenario response that requires learners to analyse inputs, select a format, and produce a complete professional document under conditions close to real professional practice. Unit 23 is the capstone assessment itself — a reflective, diagnostic, and productive unit in which learners demonstrate their full range of competence.
+The module's trajectory is deliberately cumulative, with each unit drawing on skills from earlier in the book:
+
+- Unit 19 opens with a genre — the plain-language policy summary — that requires learners to subordinate their knowledge of technical writing to the communicative needs of a non-expert audience.
+- Unit 20 focuses on the concise justification — a document that synthesises the rationale-building of Unit 15 and the precise decision writing of earlier units into a short, high-stakes form.
+- Unit 21 develops consolidated administrative reports, bringing together the synthesis skills of Unit 18 and the structural organisation of Unit 11 into a multi-source, multi-section document.
+- Unit 22 integrates all of this in a complex scenario response that requires learners to analyse inputs, select a format, and produce a complete professional document under conditions close to real professional practice.
+- Unit 23 is the capstone assessment itself — a reflective, diagnostic, and productive unit in which learners demonstrate their full range of competence.
 
 A key feature of Module 6 is that word counts increase substantially — homework targets of 280–350 words reflect the expectation that learners can now sustain quality over longer, more complex documents. The module also makes the most sustained use of multi-source input, portfolio tasks, and revision chains — activities that ask learners to work not just productively but reflectively.
 
