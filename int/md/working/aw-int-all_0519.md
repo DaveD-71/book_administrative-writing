@@ -342,9 +342,7 @@ Reflect on This Unit
 ::: edit
 Final Self-Edit
 
-Circle the sentence in your work that is easiest to read.
-
-Then answer:
+Circle the sentence in your work that is easiest to read. Then answer:
 
 - [ ] Why is that sentence clear?
 - [ ] What did you remove or simplify?
@@ -673,9 +671,7 @@ Reflect on This Unit
 ::: edit
 Final Self-Edit
 
-Underline the most professional sentence in your freer-practice email.
-
-Then explain in one line:
+Underline the most professional sentence in your freer-practice email. Then explain in one line:
 
 - [ ] why it sounds professional
 - [ ] what makes it polite but still clear
@@ -877,9 +873,7 @@ Before you write, make a short paragraph plan:
 ::: learn
 Transfer Reminder
 
-Do not add every fact you know.
-
-Choose the facts that belong to the same paragraph job:
+Do not add every fact you know. Choose the facts that belong to the same paragraph job:
 
 - explaining a problem
 - giving background
@@ -892,9 +886,7 @@ Choose the facts that belong to the same paragraph job:
 ::: write
 Reorder and Extend
 
-Put these sentences in a logical order, then add **one more supporting sentence**.
-
-Build the paragraph so it moves from:
+Put these sentences in a logical order, then add **one more supporting sentence**. Build the paragraph so it moves from:
 
 1. background check
 2. main finding
@@ -1218,9 +1210,7 @@ Test one short message with the board:
 
 ### Module 1 rebuilding note
 
-The early units matter because later modules depend on them. A weak sentence pattern in Module 1 often becomes a weak email, weak notice, or weak report line later. If the basic control layer is strong, later module tasks become easier to revise.
-
-Write one short note after revising:
+The early units matter because later modules depend on them. A weak sentence pattern in Module 1 often becomes a weak email, weak notice, or weak report line later. If the basic control layer is strong, later module tasks become easier to revise. Write one short note after revising:
 
 - which sentence became clearer
 - which tone change mattered most
@@ -1900,9 +1890,7 @@ Before writing your own clarification email, check:
 ::: write
 Write Two Clarification Emails
 
-Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
-
-Choose **two** situations from the list below:
+Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**. Choose **two** situations from the list below:
 
 - The deadline notice and the form show different submission dates.
 - Two attached files use the same name, and you need to confirm which version should be used for this month's review.
@@ -2329,9 +2317,7 @@ Write the full corrected version below.
 ::: write
 Turn an Email Update into a Report Line
 
-Choose one update message you wrote in this unit.
-
-Rewrite it as a short internal report paragraph by changing:
+Choose one update message you wrote in this unit. Rewrite it as a short internal report paragraph by changing:
 
 - the audience
 - the tone
@@ -3307,9 +3293,7 @@ Write a short procedure (4-5 steps) based on the situation.
 
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
-Write the procedure for that team member. Use numbered steps only.
-
-Write your procedure:
+Write the procedure for that team member. Use numbered steps only. Write your procedure:
 1.
 2.
 3.
@@ -3730,9 +3714,7 @@ C. An external office will conduct a short audit next week at your section.
 
 D. Monthly reports will be reviewed later than usual this month.
 
-Include a clear heading, short background, essential information, and a neutral next-step line in each notice.
-
-Write your notices:
+Include a clear heading, short background, essential information, and a neutral next-step line in each notice. Write your notices:
 :::
 
 Write each document in its own box.
@@ -4139,9 +4121,7 @@ C. Two systems are giving different results.
 
 D. A shared drive is not accessible this morning.
 
-In each explanation, include the issue, the effect, and the current status. Add the cause if it is known.
-
-Write your explanations:
+In each explanation, include the issue, the effect, and the current status. Add the cause if it is known. Write your explanations:
 
 Write each document in its own box.
 :::
@@ -4176,9 +4156,7 @@ Write the full corrected version below.
 ::: write
 Transfer Extension: Problem Note for a Manager
 
-Choose one problem from your workplace or from an earlier unit.
-
-Write a short `5-6` sentence manager update that includes:
+Choose one problem from your workplace or from an earlier unit. Write a short `5-6` sentence manager update that includes:
 
 - background
 - issue
@@ -4459,9 +4437,7 @@ C. Review of applicant files before submission.
 
 D. Discussion about solving a system access issue.
 
-Include the topic, the main point or decision, and one next step in each summary.
-
-Write your summaries:
+Include the topic, the main point or decision, and one next step in each summary. Write your summaries:
 
 Write each document in its own box.
 :::
@@ -4496,9 +4472,7 @@ Write the full corrected version below.
 ::: revise
 Transfer Extension: Summary for a Manager
 
-Choose one summary you wrote in this unit.
-
-Rewrite it for a manager by making:
+Choose one summary you wrote in this unit. Rewrite it for a manager by making:
 
 - the key point more direct
 - the action item clearer
@@ -4659,9 +4633,7 @@ Then write three reflection notes:
 ::: learn
 Structure Clinic
 
-Module 3 teaches a simple but important workplace rule: the reader should not need to guess the order of information.
-
-Use this reminder:
+Module 3 teaches a simple but important workplace rule: the reader should not need to guess the order of information. Use this reminder:
 
 - procedures need sequence
 - notices need change + reason + action
@@ -5086,9 +5058,7 @@ The stronger version works better because the reader can see the context, the ex
 ::: write
 Practice B: Add Background Information
 
-Add **one sentence of background** before each question.
-
-Use the background sentence to answer:
+Add **one sentence of background** before each question. Use the background sentence to answer:
 
 - What document, message, or rule are you referring to?
 - What part is still unclear?
@@ -5169,9 +5139,7 @@ C. You have a question about the correct version of a form.
 
 D. You need confirmation about the schedule for an external audit.
 
-Include a specific subject line, brief background, one clear question, and a polite closing in each email.
-
-Write your inquiry emails:
+Include a specific subject line, brief background, one clear question, and a polite closing in each email. Write your inquiry emails:
 
 Use this box for one complete version.
 :::
@@ -5205,9 +5173,7 @@ Write the full corrected version below.
 ::: write
 Transfer Extension: Internal Note Before the Inquiry
 
-Choose one inquiry from this unit.
-
-Write a short internal note for your team explaining:
+Choose one inquiry from this unit. Write a short internal note for your team explaining:
 
 - what is unclear
 - why an inquiry is needed
@@ -5527,9 +5493,7 @@ C. A reviewer found inconsistent information in two files.
 
 D. A required field was left blank.
 
-Include background, the main issue, and the reason or effect in each explanation.
-
-Write your explanations:
+Include background, the main issue, and the reason or effect in each explanation. Write your explanations:
 
 Write each document in its own box.
 :::
@@ -5564,9 +5528,7 @@ Write the full corrected version below.
 ::: rewrite
 Transfer Extension: Explanation for Two Readers
 
-Choose one explanation from this unit.
-
-Rewrite it twice:
+Choose one explanation from this unit. Rewrite it twice:
 
 1. for a colleague
 2. for a supervisor
@@ -5865,9 +5827,7 @@ C. Someone believes the new rule applies to all departments, but it applies only
 
 D. A colleague misunderstood the meeting location.
 
-In each response, acknowledge the confusion, state the correct information, and add one useful detail.
-
-Write your responses:
+In each response, acknowledge the confusion, state the correct information, and add one useful detail. Write your responses:
 
 Write each document in its own box.
 :::
@@ -5902,9 +5862,7 @@ Write the full corrected version below.
 ::: write
 Transfer Extension: Clarification for a Team Record
 
-Choose one misunderstanding from this unit.
-
-Write a short internal record explaining:
+Choose one misunderstanding from this unit. Write a short internal record explaining:
 
 - what the confusion was
 - what the correct information is
@@ -6249,9 +6207,7 @@ C. Requesting information from another team.
 
 D. Sharing an update after reviewing a file.
 
-Make the reader clear in each email and keep the tone, layout, and sign-off consistent.
-
-Write your emails:
+Make the reader clear in each email and keep the tone, layout, and sign-off consistent. Write your emails:
 
 Write each document in its own box.
 :::
@@ -6437,9 +6393,7 @@ Then add a note explaining:
 ::: learn
 Audience-Shift Map
 
-Module 4 becomes stronger when you can explain not only what changed in the message, but why it changed.
-
-Use this audience map:
+Module 4 becomes stronger when you can explain not only what changed in the message, but why it changed. Use this audience map:
 
 - external office:
   - needs a respectful, answerable question
@@ -6594,9 +6548,7 @@ Write short answers to these questions:
 
 **Step 2 - Answerability rebuild**
 
-Rebuild the message so it becomes easier to answer or follow.
-
-Check each sentence:
+Rebuild the message so it becomes easier to answer or follow. Check each sentence:
 
 - Does it help the reader understand the situation?
 - Does it narrow the question or explanation?
@@ -7169,9 +7121,7 @@ Clear writing follows a **logical order**, often:
 ::: rewrite
 Practice B: Reorganise for Better Flow
 
-Rewrite the sentences in a clear, logical order.
-
-Look for a simple movement:
+Rewrite the sentences in a clear, logical order. Look for a simple movement:
 
 1. background or first action
 2. problem or finding
@@ -7250,9 +7200,7 @@ C. A vague status update that uses unclear words and never names the real issue.
 
 D. A meeting summary with poor organisation that mixes background, decisions, and actions in the wrong order.
 
-Keep the meaning, but make the final version shorter, clearer, and better organized.
-
-Write your revised texts:
+Keep the meaning, but make the final version shorter, clearer, and better organized. Write your revised texts:
 
 Write each document in its own box.
 :::
@@ -7596,9 +7544,7 @@ C. Explaining that a process will take longer after a rough draft sounded negati
 
 D. Clarifying a misunderstanding in a way that corrects the point clearly without making the reader feel blamed.
 
-Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication.
-
-Write your emails:
+Keep the original purpose, but make the final email polite, neutral, and suitable for workplace communication. Write your emails:
 
 Write each document in its own box.
 :::
@@ -7775,9 +7721,7 @@ After revising, write a short reflection:
 ::: learn
 Editing-Decision Map
 
-Module 5 is not only about finding errors. It is about deciding what kind of revision the text needs first.
-
-Use this order when you edit:
+Module 5 is not only about finding errors. It is about deciding what kind of revision the text needs first. Use this order when you edit:
 
 1. accuracy:
    - Is anything simply wrong?
@@ -7828,9 +7772,7 @@ Why this stronger version works:
 ::: write
 Carry-Forward Task
 
-Take one draft from Modules 1-4 and one draft from Module 6 if you already have one.
-
-Write a short editing note for each draft:
+Take one draft from Modules 1-4 and one draft from Module 6 if you already have one. Write a short editing note for each draft:
 
 - the biggest accuracy problem
 - the biggest clarity problem
@@ -8102,9 +8044,7 @@ Mini contrast:
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
 
-If both texts sound the same, the reader-purpose control is still weak.
-
-Write your explanation:
+If both texts sound the same, the reader-purpose control is still weak. Write your explanation:
 
 Use this box for one complete version.
 :::
@@ -8162,9 +8102,7 @@ B. The external office reports inconsistent applicant information.
 
 C. The review team needs clarification about a new submission rule.
 
-Make it clear who each text is for and what that reader needs to know from the same scenario.
-
-Write your two texts:
+Make it clear who each text is for and what that reader needs to know from the same scenario. Write your two texts:
 
 Keep the facts the same, but change the audience and tone.
 
@@ -8200,9 +8138,7 @@ Write the full corrected version below.
 ::: rewrite
 Transfer Extension: Same Fact, New Audience Pair
 
-Choose one earlier unit task.
-
-Rewrite it as:
+Choose one earlier unit task. Rewrite it as:
 
 1. one external message
 2. one internal message
@@ -8517,9 +8453,7 @@ B. A required document name was written incorrectly.
 
 C. An instruction in a previous email was unclear or incomplete.
 
-Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences.
-
-Write your two texts:
+Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences. Write your two texts:
 
 Keep the facts the same, but change the audience and tone.
 
@@ -8586,9 +8520,7 @@ each using:
 - Logical connections
 - Concise and professional style
 
-Write the first for the outside reader who received the incorrect information and the second for your internal team.
-
-Write your extended tasks:
+Write the first for the outside reader who received the incorrect information and the second for your internal team. Write your extended tasks:
 
 Keep the facts the same, but change the audience and tone.
 
@@ -8781,9 +8713,7 @@ Rewrite these sentences/emails to make them consistent with team standards.
 ::: rewrite
 Practice B: Standardise Format & Tone
 
-Rewrite the email with correct formatting, tone, and clarity.
-
-Use one shared team pattern:
+Rewrite the email with correct formatting, tone, and clarity. Use one shared team pattern:
 
 - clear subject line
 - short professional greeting
@@ -8900,9 +8830,7 @@ Write each document in its own box.
 ::: edit
 Editing Practice: Build One Standard
 
-Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly.
-
-Then note:
+Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly. Then note:
 
 - [ ] which consistency rule you applied
 - [ ] how the revised version became easier to read
@@ -9231,9 +9159,7 @@ Before drafting the full set, map the same situation across the three readers.
 | Colleague |  |  |  |  |
 | Team notice readers |  |  |  |  |
 
-In a three-document task, the biggest risk is not grammar. It is overlap. One message starts doing another message's job.
-
-Use this quick test:
+In a three-document task, the biggest risk is not grammar. It is overlap. One message starts doing another message's job. Use this quick test:
 
 - if a sentence helps only the applicant, keep it out of the team notice
 - if a sentence explains team workflow only, keep it out of the applicant reply
@@ -9259,9 +9185,7 @@ B. Two versions of a form were submitted; one is incomplete.
 
 C. The applicant sent the correct file, but in the wrong format.
 
-Keep the three documents tied to the same scenario, but make the audience difference clear in each one.
-
-Write your full set:
+Keep the three documents tied to the same scenario, but make the audience difference clear in each one. Write your full set:
 
 Keep the facts the same, but change the audience and tone.
 
@@ -9345,9 +9269,7 @@ All three must:
 - Use correct tone for each audience
 - Maintain logical flow and consistency
 
-Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type.
-
-Write your communication pack:
+Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type. Write your communication pack:
 
 Keep the facts the same, but change the audience and tone.
 
@@ -9554,9 +9476,7 @@ Revision focus:
 Practice C: Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
-Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
-
-Use this quick editing routine:
+Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience. Use this quick editing routine:
 
 1. identify the audience
 2. remove unclear or emotional wording
