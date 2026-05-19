@@ -21,7 +21,7 @@ style_map:
 
 (Textbook description goes here)
 
-## Module 1 — Advanced Foundations for Administrative Writing (Units 1–3)
+## Module 1. Advanced Foundations for Administrative Writing (Units 1–3)
 
 *Homework target: ~150 words*
 
@@ -39,9 +39,9 @@ Together, these three units provide the analytical and productive foundation on 
 
 Learners who complete Module 1 should be able to write with structural intentionality — choosing how to construct a sentence or paragraph based on what the reader needs, not just what feels natural.
 
-## Unit 1 — Controlling Sentence Complexity
+## Unit 1. Controlling Sentence Complexity
 
-### Unit Overview
+### Focus
 
 This unit helps learners produce clear, precise, and unambiguous sentences in administrative and interagency writing. By the end of the unit, learners will be able to:
 
@@ -315,7 +315,7 @@ Check your writing for the following:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Ambiguous Sentences
+Improve Clarity and Flow: Ambiguous Sentences
 
 Rewrite the following sentences to eliminate ambiguity. For each one, identify the source of the problem before rewriting.
 
@@ -358,9 +358,9 @@ Choose one:
 3. Write a short guide (six to eight sentences) for a new colleague explaining the difference between coordination, subordination, and segmentation — using one original example of each.
 :::
 
-## Unit 2 — Tone for Agency-Level Communication
+## Unit 2. Tone for Agency-Level Communication
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to use nuanced politeness, diplomatic phrasing, and audience-sensitive tone appropriate for communication across ministries, agencies, and foreign offices. By the end of the unit, learners will be able to:
 
@@ -565,7 +565,7 @@ Draft {{PH-3: U02-D1-guided-rewrite}}
 :::
 
 ::: write
-Tone Transformation — Write for Two Audiences
+Tone Transformation: Write for Two Audiences
 
 You will write **two versions** of each message below: one for a domestic agency counterpart, and one for a foreign IP office.
 
@@ -635,7 +635,7 @@ Check your writing for:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Diplomatic Sentences
+Improve Clarity and Flow: Diplomatic Sentences
 
 Rewrite these sentences to make them more diplomatic. For each one, identify which softening strategy you have used.
 
@@ -673,9 +673,9 @@ Choose one:
 3. Build a personal softening phrase bank: write ten phrases you would genuinely use in your professional context, organised by communicative function (introducing an issue, making a request, giving a reason, closing cooperatively). Add one original example sentence for each function.
 :::
 
-## Unit 3 — Cohesion & Logical Flow
+## Unit 3. Cohesion & Logical Flow
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to construct clear, logically organised paragraphs suitable for administrative communication, interagency coordination, and international correspondence. By the end of the unit, learners will be able to:
 
@@ -928,7 +928,7 @@ Check your writing for:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Paragraph Cohesion
+Improve Clarity and Flow: Paragraph Cohesion
 
 Rewrite these paragraphs for better cohesion. Identify at least two specific changes you have made and explain why.
 
@@ -944,7 +944,7 @@ Revised Draft {{PH-3: U03-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Cohesive Explanation — Scenario Writing
+Cohesive Explanation: Scenario Writing
 
 Write approximately **150 words**: a cohesive explanation suitable for internal or interagency communication. Use cohesive devices and reference words throughout, and ensure your paragraph moves clearly from topic to support to implication or next step.
 
@@ -967,7 +967,7 @@ Choose one:
 3. Write a short guide (six to eight sentences) for a colleague who struggles with paragraph organisation. Explain thematic progression — what it is, why it matters, and how to apply it — using two original before-and-after examples.
 :::
 
-## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
+## Module 2. Professional Email Writing for Interagency Contexts (Units 4–7)
 
 *Homework target: ~200 words*
 
@@ -979,9 +979,9 @@ The four units address a progressively demanding set of email writing challenges
 
 Together, these units develop the communicative repertoire that professional administrative writers need for day-to-day correspondence at agency level. By the end of Module 2, learners should be able to produce well-structured, diplomatically appropriate emails across a range of common professional scenarios.
 
-## Unit 4 — Structuring High-Level Emails
+## Unit 4. Structuring High-Level Emails
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to structure multi-part professional emails used in interagency, ministerial, and international communication. By the end of this unit, learners will be able to:
 
@@ -1022,7 +1022,7 @@ Original Text
 :::
 
 ::: example-good
-Revised Text — Executive-Level Summary
+Revised Text: Executive-Level Summary
 
 *Thank you for your message.*
 
@@ -1142,7 +1142,7 @@ Draft {{PH-3: U04-D1-guided-rewrite}}
 :::
 
 ::: structure
-Template-Guided Writing — High-Level Email
+Template-Guided Writing: High-Level Email
 
 Use the template below to write a high-level email. Fill in each section using the scenario provided.
 
@@ -1236,12 +1236,12 @@ Before submitting, check that your email:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Structural and Tone Problems
+Improve Clarity and Flow: Structural and Tone Problems
 
 The following email has structural and tone problems. Rewrite it as a clear, professionally structured message.
 
 ::: example-bad
-Original Text — Weak Response
+Original Text: Weak Response
 
 *"We saw your message. Please send the corrected file. We also need you to check the translation. We want to finish the review soon."*
 :::
@@ -1256,7 +1256,7 @@ Revised Draft {{PH-3: U04-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Tone Transformation — Write for an Interagency Audience
+Tone Transformation: Write for an Interagency Audience
 
 Write a **190–220 word** high-level email to an interagency counterpart. Your email must include:
 
@@ -1286,9 +1286,9 @@ Choose one:
 3. Write a phrase bank of at least twelve expressions drawn from this unit, organised under the six structural headings. Include at least two alternatives for each heading that you could use in different professional contexts.
 :::
 
-## Unit 5 — Writing Precise Clarification Requests
+## Unit 5. Writing Precise Clarification Requests
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write clear, targeted, and professional clarification requests in interagency, ministerial, and international communication. By the end of this unit, learners will be able to:
 
@@ -1330,7 +1330,7 @@ Original Text
 :::
 
 ::: example-good
-Revised Text — Strong Response
+Revised Text: Strong Response
 
 *Thank you for sharing the revised document.*
 
@@ -1473,7 +1473,7 @@ Use this space for your first full draft.
 Draft {{PH-3: U05-D1-guided-rewrite}}
 
 ::: write
-Two-Audience Version Task — Clarification Request
+Two-Audience Version Task: Clarification Request
 
 Using the scenario below, write two versions of the same clarification request.
 
@@ -1506,7 +1506,7 @@ Draft {{PH-4: U05-D4-version-b}}
 ### E. Freer Writing
 
 ::: write
-Role-Based Writing Task — Clarification Request
+Role-Based Writing Task: Clarification Request
 
 You are the person in your office responsible for reviewing documents received from partner organisations and raising any inconsistencies before they are acted on. When you identify a problem, you write directly to the contact at the sending office to request clarification.
 
@@ -1557,7 +1557,7 @@ Before submitting, check that your writing:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Clarification Requests
+Improve Clarity and Flow: Clarification Requests
 
 Rewrite the following clarification requests. Each is too vague, too direct, or missing a reference. Provide the improved version and note what you changed.
 
@@ -1606,9 +1606,9 @@ Choose one:
 3. Build a personal reference document for clarification requests: collect at least ten phrases from this unit, organised by function (introducing the request, referencing documents, formulating questions, signalling next steps). Add two to three phrases of your own for each category.
 :::
 
-## Unit 6 — Communicating Errors Diplomatically
+## Unit 6. Communicating Errors Diplomatically
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to communicate errors, inconsistencies, and corrective actions diplomatically in professional administrative and interagency contexts. By the end of this unit, learners will be able to:
 
@@ -1690,7 +1690,7 @@ The improved version identifies the problem without accusing the reader. It sepa
 :::
 
 ::: notice
-Annotated Example — Read and Evaluate the Annotations
+Annotated Example: Read and Evaluate the Annotations
 
 Read the improved version again with the annotations below. For each annotation, discuss: do you agree with the explanation given? Can you find other examples of the same technique in the text?
 
@@ -1921,7 +1921,7 @@ Before submitting, check that your writing:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Diplomatic Elements
+Improve Clarity and Flow: Diplomatic Elements
 
 Rewrite the following sentences. Each is too direct, too vague, or missing a key diplomatic element. For each rewrite, note what you changed and why.
 
@@ -1985,9 +1985,9 @@ Choose one:
 3. Create a self-editing guide for diplomatic error notifications: a checklist of at least eight criteria that a writer should apply before sending any message that identifies a problem or requests a correction. Draw on the language and principles from this unit.
 :::
 
-## Unit 7 — Layered Requests: Managing Multi-Part Actions
+## Unit 7. Layered Requests: Managing Multi-Part Actions
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write layered, prioritised, and logically sequenced requests for domestic agencies, colleagues, and international partners. By the end of this unit, learners will be able to:
 
@@ -2000,7 +2000,7 @@ This unit develops learners' ability to write layered, prioritised, and logicall
 ### A. Opening & Activation
 
 ::: notice
-Identify Communication Issues — Count and Sequence Requests
+Identify Communication Issues: Count and Sequence Requests
 
 Read the three messages below. For each one, identify: how many distinct requests does the message contain? Are all requests equally clear?
 
@@ -2214,7 +2214,7 @@ Before submitting, check that your message:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Sequencing and Dependencies
+Improve Clarity and Flow: Sequencing and Dependencies
 
 Rewrite the following message. It contains unsequenced requests, missing dependency markers, and overly direct phrasing. Add: a clear sequence, dependency logic, diplomatic tone, and a rationale.
 
@@ -2232,7 +2232,7 @@ Revised Draft {{PH-3: U07-G1-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Layered Request Message — Multi-Part Action
+Layered Request Message: Multi-Part Action
 
 Write a **190–220 word** layered request message to a domestic or foreign office. Your message must include:
 
@@ -2261,7 +2261,7 @@ Choose one:
 3. Find a message in which the priority order of requests was not stated. Analyse what effect the missing sequencing had on the reader's ability to act, and write an improved version that makes the order and dependencies explicit.
 :::
 
-## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
+## Module 3. Writing Complex Procedures & Internal Explanations (Units 8–11)
 
 *Homework target: ~200 words*
 
@@ -2273,9 +2273,9 @@ The four units address distinct but related document types. Unit 8 focuses on pr
 
 A key theme across all four units is the relationship between structure and usability: documents in this module are not read for their own sake but to enable action. Learners who complete Module 3 should be able to produce internal documents that a reader can act on without having to seek further clarification.
 
-## Unit 8 — Writing Clear Procedures
+## Unit 8. Writing Clear Procedures
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write clear, logically sequenced procedural explanations for internal, interagency, and international use. By the end of the unit, learners will be able to:
 
@@ -2288,7 +2288,7 @@ This unit develops learners' ability to write clear, logically sequenced procedu
 ### A. Opening & Activation
 
 ::: notice
-Real Document Analysis — Internal Procedure Notice
+Real Document Analysis: Internal Procedure Notice
 
 Read the following internal procedure notice.
 
@@ -2511,7 +2511,7 @@ Before submitting, check your procedure against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Procedure Draft
+Editing Workshop: Procedure Draft
 
 The following draft procedure has several problems. Working in pairs (or independently), identify every issue and rewrite the procedure as a correctly structured, professional version.
 
@@ -2568,9 +2568,9 @@ Choose one:
 3. Create a procedural verb guide for a new colleague: list at least ten verbs from this unit or your own workplace, group them by function, and write one example sentence for each group.
 :::
 
-## Unit 9 — Change Management Writing
+## Unit 9. Change Management Writing
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write clear, well-structured messages that communicate procedural and policy changes to internal and interagency audiences. By the end of the unit, learners will be able to:
 
@@ -2583,7 +2583,7 @@ This unit develops learners' ability to write clear, well-structured messages th
 ### A. Opening & Activation
 
 ::: write
-Prediction Task — Anticipate Reader Needs
+Prediction Task: Anticipate Reader Needs
 
 Read the following scenario. Before turning to the example text, write down five elements you would expect a well-written change management notice to include.
 
@@ -2641,7 +2641,7 @@ The improved notice balances three jobs at once: it states the change clearly, e
 :::
 
 ::: notice
-Annotated Example — Match Annotations to Decisions
+Annotated Example: Match Annotations to Decisions
 
 Re-read the improved version. The annotations below explain the purpose of specific choices. Match each annotation (1–5) to the section of the text it refers to.
 
@@ -2715,7 +2715,7 @@ Draft {{PH-3: U09-D1-guided-rewrite}}
 :::
 
 ::: structure
-Template-Guided Writing — Change Notification
+Template-Guided Writing: Change Notification
 
 ::: learn
 Transfer Reminder
@@ -2801,7 +2801,7 @@ Before submitting, check your notice against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Change Notification Draft
+Editing Workshop: Change Notification Draft
 
 The following change notification has multiple problems. Working in pairs (or independently), identify every issue and rewrite the full notice as a professional version.
 
@@ -2860,9 +2860,9 @@ Choose one:
 3. Build a change-management phrase bank from this unit. Organise at least twelve expressions under these headings: announcing the change, describing old vs. new practice, giving rationale, stating required action, offering support.
 :::
 
-## Unit 10 — Explaining Complex Issues
+## Unit 10. Explaining Complex Issues
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to explain multi-factor issues clearly and coherently for internal, interagency, and international communication. By the end of the unit, learners will be able to:
 
@@ -3010,7 +3010,7 @@ Draft {{PH-3: U10-D1-guided-rewrite}}
 :::
 
 ::: write
-Scenario-Based Writing — Administrative Explanation
+Scenario-Based Writing: Administrative Explanation
 
 Write a structured explanation of **100–130 words**. Your explanation must include:
 
@@ -3033,7 +3033,7 @@ Draft {{PH-4: U10-D2-guided-draft}}
 ### E. Freer Writing
 
 ::: write
-Constrained Free Write — Full Explanation
+Constrained Free Write: Full Explanation
 
 Write a complete explanation of **180–210 words**.
 
@@ -3087,7 +3087,7 @@ Before submitting, check your explanation against the following:
 ### G. Editing
 
 ::: rewrite
-Improve Clarity and Flow — Explanation Structure
+Improve Clarity and Flow: Explanation Structure
 
 Rewrite the following explanation. It contains all the necessary information, but it is poorly structured, vague in key places, and inconsistent in tone. Add structure, specific detail, and appropriate language.
 
@@ -3142,9 +3142,9 @@ Choose one:
 3. Write two short explanations of the same issue: one for a supervisor who needs a quick overview, and one for a partner office that needs more background. Compare the difference in structure and supporting detail.
 :::
 
-## Unit 11 — Executive-Level Meeting Summaries
+## Unit 11. Executive-Level Meeting Summaries
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write clear, concise, and accurate executive-level meeting summaries suitable for internal reporting, interagency coordination, and international engagement. By the end of the unit, learners will be able to:
 
@@ -3226,7 +3226,7 @@ The improved version does not retell the meeting in time order. Instead, it grou
 :::
 
 ::: write
-Data Interpretation Input — Meeting and Status Data
+Data Interpretation Input: Meeting and Status Data
 
 Executive summaries convert raw meeting or status data into management-ready information. That means writers do not simply repeat numbers: they decide what the data shows about outcomes, outstanding items, responsibilities, and follow-up needs.
 
@@ -3268,7 +3268,7 @@ Rewrite each informal or subjective sentence as a neutral, formal summary statem
 :::
 
 ::: rewrite
-Editing Workshop — Narrative to Executive Summary
+Editing Workshop: Narrative to Executive Summary
 
 The paragraph below is written as a narrative account. Rewrite it as a structured executive summary using the four standard sections: **Overview**, **Key Points Discussed**, **Decisions / Action Items**, and **Next Steps**.
 
@@ -3312,7 +3312,7 @@ Draft {{PH-3: U11-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Format Conversion — Prose to Executive Summary
+Format Conversion: Prose to Executive Summary
 
 ::: learn
 Transfer Reminder
@@ -3399,7 +3399,7 @@ Before submitting, check your summary against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Executive Summary Draft
+Editing Workshop: Executive Summary Draft
 
 The following executive summary draft has multiple problems. Working in pairs (or independently), identify every issue and rewrite it as a professional version using the standard four-section format.
 
@@ -3427,7 +3427,7 @@ Revised Draft {{PH-4: U11-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Template-Guided Writing — Executive-Level Meeting Summary
+Template-Guided Writing: Executive-Level Meeting Summary
 
 Write a **200–240 word** executive-level summary of a high-level meeting. Your summary must include:
 
@@ -3458,7 +3458,7 @@ Choose one:
 3. Create an executive-summary checklist for your own workplace. Include at least eight criteria covering structure, attribution, deadlines, tone, and usefulness for a reader who did not attend.
 :::
 
-## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
+## Module 4. Cross-Border & Interagency Communication (Units 12–15)
 
 *Homework target: ~250 words*
 
@@ -3470,9 +3470,9 @@ The four units are distinct in document type but share a common concern: the abi
 
 Learners who complete Module 4 should be able to write across these four demanding contexts with professional confidence, maintaining appropriate tone, structural logic, and alignment with policy or guidelines throughout.
 
-## Unit 12 — High-Level External Inquiries
+## Unit 12. High-Level External Inquiries
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write formal, diplomatic external inquiries to domestic and international partners. By the end of the unit, learners will be able to:
 
@@ -3485,7 +3485,7 @@ This unit develops learners' ability to write formal, diplomatic external inquir
 ### A. Opening & Activation
 
 ::: notice
-Real Document Analysis — External Inquiry
+Real Document Analysis: External Inquiry
 
 Read the following external inquiry, then answer the questions below.
 
@@ -3682,7 +3682,7 @@ Draft {{PH-3: U12-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Two-Audience Version Task — External Inquiry
+Two-Audience Version Task: External Inquiry
 
 ::: learn
 Transfer Reminder
@@ -3708,7 +3708,7 @@ Draft {{PH-4: U12-D4-two-audience-draft}}
 ### E. Freer Writing
 
 ::: write
-Role-Based Writing Task — External Inquiry
+Role-Based Writing Task: External Inquiry
 
 Write a formal external inquiry of **180–220 words**. Your inquiry must include:
 
@@ -3765,7 +3765,7 @@ Before submitting, check whether your inquiry:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — External Inquiry Draft
+Editing Workshop: External Inquiry Draft
 
 The following external inquiry contains multiple problems. Edit the full text to improve its context, question clarity, tone, and structure.
 
@@ -3801,7 +3801,7 @@ Draft {{PH-4: U12-H2-real-world-draft}}
 :::
 
 ::: write
-Scenario Writing — External Inquiry
+Scenario Writing: External Inquiry
 
 Write a **220–250 word** external inquiry to an interagency or international partner. Include:
 
@@ -3831,9 +3831,9 @@ Choose one:
 3. Read an external inquiry you received that was difficult to respond to. Identify what made it unclear, then rewrite it using the skills from this unit.
 :::
 
-## Unit 13 — Writing for Risk & Impact Assessment
+## Unit 13. Writing for Risk & Impact Assessment
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to describe risks, impacts, implications, and mitigation measures clearly and professionally. This type of writing is common in administrative procedures, interagency consultations, and policy justification documents. By the end of the unit, learners will be able to:
 
@@ -3846,7 +3846,7 @@ This unit develops learners' ability to describe risks, impacts, implications, a
 ### A. Opening & Activation
 
 ::: write
-Prediction Task — Anticipate Reader Needs
+Prediction Task: Anticipate Reader Needs
 
 Read the scenario below. Before you look at any example texts, write down 3–5 elements you would expect to see in a well-written risk and impact assessment based on this situation.
 
@@ -3892,7 +3892,7 @@ The improved paragraph separates four different jobs that weak risk writing ofte
 :::
 
 ::: write
-Data Interpretation Input — Risk and Status Data
+Data Interpretation Input: Risk and Status Data
 
 Risk language should come from evidence, not from alarm. In a data-based risk note, the writer identifies the trend first, then explains what the trend suggests, what impact it may have, and what response would reduce that risk.
 
@@ -3990,7 +3990,7 @@ The second version does more than report a problem: it explains the likely conse
 :::
 
 ::: edit
-Find and Fix Errors — Vague and Toned Sentences
+Find and Fix Errors: Vague and Toned Sentences
 
 Each sentence below contains one error: it may be vague, emotionally toned, grammatically imprecise, or poorly structured. Identify the error type, then rewrite the sentence.
 
@@ -4160,9 +4160,9 @@ Choose one:
 3. Using the data interpretation example from Section B, create your own simple table (3–4 rows, 3–4 columns) showing a trend in your work context, then write a risk assessment paragraph based on it.
 :::
 
-## Unit 14 — Writing Complex Multi-Audience Messages
+## Unit 14. Writing Complex Multi-Audience Messages
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write messages intended for multiple audiences with different levels of knowledge, authority, and responsibility. By the end of the unit, learners will be able to:
 
@@ -4239,7 +4239,7 @@ The improved version shows what changes across audiences and what stays stable. 
 :::
 
 ::: notice
-Annotated Example — Match Annotations to Decisions
+Annotated Example: Match Annotations to Decisions
 
 Read the improved version again. The following annotations explain specific decisions made by the writer. Discuss each annotation with a partner.
 
@@ -4414,7 +4414,7 @@ Draft {{PH-3: U14-D1-guided-rewrite}}
 :::
 
 ::: write
-Two-Audience Version Task — Multi-Audience Notice
+Two-Audience Version Task: Multi-Audience Notice
 
 ::: learn
 Transfer Reminder
@@ -4491,7 +4491,7 @@ Before submitting, check whether your writing:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Multi-Audience Message
+Editing Workshop: Multi-Audience Message
 
 The following multi-audience message contains multiple problems with context, audience signals, assumed knowledge, and structure. Edit the full text to address all issues.
 
@@ -4540,9 +4540,9 @@ Choose one:
 3. Take a long multi-audience notice from your sector and convert it into a shorter, clearly layered version that separates internal and external audience information.
 :::
 
-## Unit 15 — Drafting Policy-Aligned Rationales
+## Unit 15. Drafting Policy-Aligned Rationales
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write clear, well-reasoned rationales that support decisions, recommendations, or procedural changes. Such rationales are used in reports, internal proposals, interagency discussions, and communication with international partners. By the end of the unit, learners will be able to:
 
@@ -4555,7 +4555,7 @@ This unit develops learners' ability to write clear, well-reasoned rationales th
 ### A. Opening & Activation
 
 ::: notice
-Real Document Analysis — Internal Policy Proposal
+Real Document Analysis: Internal Policy Proposal
 
 Read the following excerpt from an internal policy proposal. Answer the questions below.
 
@@ -4610,7 +4610,7 @@ The improved rationale is more persuasive because it links three elements clearl
 :::
 
 ::: write
-Reading-To-Write Input — Policy Rationale
+Reading-To-Write Input: Policy Rationale
 
 Policy references only strengthen a rationale when they are linked directly to the current decision. Simply naming a guideline is not enough; the writer has to show what the requirement means for the recommendation being proposed.
 
@@ -4723,7 +4723,7 @@ Draft {{PH-3: U15-D1-guided-rewrite}}
 :::
 
 ::: structure
-Template-Guided Writing — Policy-Aligned Rationale
+Template-Guided Writing: Policy-Aligned Rationale
 
 Use the structure below to draft a policy-aligned rationale for one of the following recommendations:
 
@@ -4861,7 +4861,7 @@ Choose one:
 3. Analyse a recent policy change in your organisation or sector and write a rationale as if you were proposing the change before it was introduced.
 :::
 
-## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
+## Module 5. Advanced Editing & Revision Skills (Units 16–18)
 
 *Homework target: ~250 words*
 
@@ -4873,9 +4873,9 @@ The three units address three increasingly complex forms of this analytical and 
 
 A key theme across Module 5 is the relationship between analytical judgement and written form. Learners are asked not just to produce but to think about what to include, what to omit, how to frame a finding, and how to connect disparate information. These skills underpin much of the highest-level administrative writing in professional life, and completing Module 5 should give learners a significant advantage in roles that require critical document work.
 
-## Unit 16 — Writing Balanced Evaluations
+## Unit 16. Writing Balanced Evaluations
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write balanced, objective evaluations of documents, proposals, processes, or actions. These skills are essential for internal reviews, interagency assessments, and international coordination. By the end of the unit, learners will be able to:
 
@@ -4961,7 +4961,7 @@ The improved evaluation is more credible because it separates observation from j
 :::
 
 ::: notice
-Annotated Example — Match Annotation Labels to Text
+Annotated Example: Match Annotation Labels to Text
 
 Read the improved evaluation again. Match each annotation label (a–e) to the correct part of the text.
 
@@ -4983,7 +4983,7 @@ Why is providing at least one genuine strength essential in formal evaluations �
 ### C. Language Focus
 
 ::: learn
-Sentence Rewriting — Objective, Neutral Language
+Sentence Rewriting: Objective, Neutral Language
 
 Objective evaluation language is evidence-based, criterion-based, and proportionate. It describes what the document does well or badly in relation to clarity, structure, consistency, or usability, rather than reacting to it with personal approval or frustration.
 
@@ -5170,7 +5170,7 @@ Draft {{PH-3: U16-G3-decision-notes}}
 ### H. Homework & Extension
 
 ::: write
-Two-Audience Version Task — Balanced Evaluation
+Two-Audience Version Task: Balanced Evaluation
 
 Write a **220–260 word** balanced evaluation of a document or process relevant to your work. Your evaluation must include:
 
@@ -5191,9 +5191,9 @@ Extension Task
 3. Write two versions of the same evaluation: one for internal use within your team, and one for an interagency partner. Compare the differences in tone, detail, and register.
 :::
 
-## Unit 17 — Drafting Executive Briefs
+## Unit 17. Drafting Executive Briefs
 
-### Unit Overview
+### Focus
 
 Executive briefs summarise complex issues for decision-makers who require clarity, relevance, and efficiency. This unit trains learners to:
 
@@ -5206,7 +5206,7 @@ Executive briefs summarise complex issues for decision-makers who require clarit
 ### A. Opening & Activation
 
 ::: write
-Prediction Task — Anticipate Reader Needs
+Prediction Task: Anticipate Reader Needs
 
 You are about to read an executive brief on a coordination issue between three regional offices. Before reading, predict:
 
@@ -5265,7 +5265,7 @@ The improved brief foregrounds decision-relevant content. Instead of retelling t
 :::
 
 ::: write
-Data Interpretation Input — Executive Brief
+Data Interpretation Input: Executive Brief
 
 An overview sentence in an executive brief gives immediate context and frames the issue before the details appear. It tells the reader what the brief is about, why it matters, and what kind of decision or action may be required.
 
@@ -5290,7 +5290,7 @@ Write three Key Points that an executive would need in order to understand and a
 ### C. Language Focus
 
 ::: learn
-Sentence Rewriting — Clear Overviews and Key Points
+Sentence Rewriting: Clear Overviews and Key Points
 
 An overview is not a compressed detail list. Its job is to frame the issue at a high level so that the following key points can be read as evidence for the main decision problem.
 
@@ -5329,7 +5329,7 @@ Rewrite Sentences for an Executive Audience
 :::
 
 ::: rewrite
-Editing Workshop — Meeting Summary to Executive Brief
+Editing Workshop: Meeting Summary to Executive Brief
 
 The paragraph below is written as an informal meeting summary. Rewrite it as the Key Points and Implications sections of an executive brief. You may reorganise the information, but do not add content that is not present in the original.
 
@@ -5371,7 +5371,7 @@ Draft {{PH-3: U17-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Format Conversion — Prose to Executive Brief
+Format Conversion: Prose to Executive Brief
 
 ::: learn
 Transfer Reminder
@@ -5450,7 +5450,7 @@ Self-Editing Checklist
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Executive Brief Draft
+Editing Workshop: Executive Brief Draft
 
 The text below is a draft executive brief. It contains multiple problems: unnecessary detail, unclear structure, missing components, and informal language. Edit the entire text, then compare your revised version with a partner.
 
@@ -5470,7 +5470,7 @@ Revised Draft {{PH-4: U17-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Role-Based Writing Task — Executive Brief
+Role-Based Writing Task: Executive Brief
 
 Write a **200–240 word** executive brief. Your brief must include:
 
@@ -5498,9 +5498,9 @@ Extension Task
 3. Write a brief on a real coordination issue currently affecting your work. Focus especially on the Implications section — this is often the weakest part of executive briefs.
 :::
 
-## Unit 18 — Synthesising Information from Multiple Sources
+## Unit 18. Synthesising Information from Multiple Sources
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to combine information from several documents, emails, meetings, or data sources into a clear, coherent synthesis. This skill is essential for interagency reporting, briefing preparation, and correspondence that draws on multiple inputs. By the end of the unit, learners will be able to:
 
@@ -5513,7 +5513,7 @@ This unit develops learners' ability to combine information from several documen
 ### A. Opening & Activation
 
 ::: notice
-Real Document Analysis — Multi-Source Extracts
+Real Document Analysis: Multi-Source Extracts
 
 Read the three short extracts below. They come from three different sources on the same issue: a delay in applicant processing.
 
@@ -5578,7 +5578,7 @@ The improved paragraph is more useful because it groups information by theme rat
 :::
 
 ::: write
-Reading-To-Write Input — Synthesis Preparation
+Reading-To-Write Input: Synthesis Preparation
 
 Synthesis begins by looking for themes and relationships across sources. Instead of asking "What did each source say?", the writer asks "What patterns emerge, where do the sources agree, and what does the combined evidence imply?"
 
@@ -5598,7 +5598,7 @@ Keep this paragraph. You will return to it in Section D2 and revise it, so do no
 ### C. Language Focus
 
 ::: learn
-Sentence Rewriting — Grouping Information and Showing Relationships
+Sentence Rewriting: Grouping Information and Showing Relationships
 
 Grouping by theme is different from listing by source. A source-by-source paragraph keeps switching the reader’s attention from document to document; a synthesis paragraph reorganises the material around the issues that matter most.
 
@@ -5776,7 +5776,7 @@ Self-Editing Checklist
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Synthesis Draft
+Editing Workshop: Synthesis Draft
 
 The text below is a draft synthesis. It contains multiple problems: source-by-source listing, informal language, missing insight, and weak structure. Edit the entire text, then compare your version with a partner.
 
@@ -5832,7 +5832,7 @@ Choose one:
 3. Build a personal synthesis phrase bank organised under four headings: introducing a shared theme, showing agreement, showing contrast, and drawing a conclusion. Add two original example sentences under each heading.
 :::
 
-## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
+## Module 6. Capstone & Applied Administrative Writing (Units 19–23)
 
 *Homework target: ~280–350 words*
 
@@ -5844,9 +5844,9 @@ The module's trajectory is deliberately cumulative. Unit 19 opens with a genre �
 
 A key feature of Module 6 is that word counts increase substantially — homework targets of 280–350 words reflect the expectation that learners can now sustain quality over longer, more complex documents. The module also makes the most sustained use of multi-source input, portfolio tasks, and revision chains — activities that ask learners to work not just productively but reflectively.
 
-## Unit 19 — Writing Policy Summaries for Non-Expert Audiences
+## Unit 19. Writing Policy Summaries for Non-Expert Audiences
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to summarise policy content for readers who do not have specialised knowledge of the policy area. These summaries appear in briefing materials, interagency updates, explanatory notes, and communication with external partners or non-specialist staff. By the end of the unit, learners will be able to:
 
@@ -5885,7 +5885,7 @@ Discuss:
 ### B. Example Text
 
 ::: write
-Reading-To-Write Input — Plain-Language Policy
+Reading-To-Write Input: Plain-Language Policy
 
 Plain-language adaptation means retaining the essential policy meaning while reducing specialist burden. The writer must decide which technical details matter to the reader and which can be simplified, replaced, or explained in more accessible terms.
 
@@ -6068,7 +6068,7 @@ Draft {{PH-3: U19-D1-guided-rewrite}}
 :::
 
 ::: rewrite
-Format Conversion — Prose to Plain-Language Policy
+Format Conversion: Prose to Plain-Language Policy
 
 ::: learn
 Transfer Reminder
@@ -6098,7 +6098,7 @@ Draft {{PH-4: U19-D7-format-conversion}}
 ### E. Freer Writing
 
 ::: write
-Role-Based Writing Task — Plain-Language Policy
+Role-Based Writing Task: Plain-Language Policy
 
 ::: learn
 Role Reminder
@@ -6165,7 +6165,7 @@ Before submitting, check your own writing against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Plain-Language Policy Draft
+Editing Workshop: Plain-Language Policy Draft
 
 The paragraph below was written for a general staff audience but contains several problems. Identify all the issues, then rewrite the paragraph as a clear, accessible plain-language summary.
 
@@ -6219,9 +6219,9 @@ Choose one:
 3. Build a plain-language revision guide listing eight common features of technical policy writing that reduce accessibility. For each one, include a before-and-after example and one sentence explaining the improvement.
 :::
 
-## Unit 20 — Writing Concise Justifications for Decisions
+## Unit 20. Writing Concise Justifications for Decisions
 
-### Unit Overview
+### Focus
 
 This unit develops learners' ability to write concise, logically structured justifications for administrative decisions. Short justifications are required in approval memos, interagency correspondence, procedural documentation, and decision records. By the end of the unit, learners will be able to:
 
@@ -6524,7 +6524,7 @@ Before submitting, check your own writing against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Justification Draft
+Editing Workshop: Justification Draft
 
 The paragraph below is a poor justification for an administrative decision. Identify all the problems, then rewrite it as a concise, policy-aligned justification.
 
@@ -6549,7 +6549,7 @@ Revised Draft {{PH-4: U20-G2-editing-rewrite}}
 ### H. Homework & Extension
 
 ::: write
-Scenario Writing — Concise Justification
+Scenario Writing: Concise Justification
 
 Write a **230–270 word** concise justification for an administrative or interagency decision. Choose one:
 
@@ -6578,9 +6578,9 @@ Choose one:
 3. Create a justification checklist for your own workplace. Include at least eight criteria covering decision clarity, policy grounding, problem definition, expected benefit, and tone.
 :::
 
-## Unit 21 — Drafting Consolidated Administrative Reports
+## Unit 21. Drafting Consolidated Administrative Reports
 
-### Unit Overview
+### Focus
 
 This unit trains learners to integrate information from multiple sources into a single, well-structured administrative report. Consolidated reports bring together updates, issues, actions, and next steps from different offices or sources into one coherent document. By the end of the unit, learners will be able to:
 
@@ -6593,7 +6593,7 @@ This unit trains learners to integrate information from multiple sources into a 
 ### A. Opening & Activation
 
 ::: notice
-Real Document Analysis — Internal Coordination Report
+Real Document Analysis: Internal Coordination Report
 
 The following extract is taken from an internal coordination report.
 
@@ -6668,7 +6668,7 @@ Discuss: Why does a predictable report structure help readers process informatio
 :::
 
 ::: notice
-Data Interpretation Input — Office Update Extracts
+Data Interpretation Input: Office Update Extracts
 
 ::: example-good
 Worked Example
@@ -6859,7 +6859,7 @@ Draft {{PH-3: U21-D1-guided-rewrite}}
 :::
 
 ::: structure
-Information Reorganisation — Office Updates
+Information Reorganisation: Office Updates
 
 The following sentences are drawn from several office updates but have not yet been organised. Sort them into the correct report sections, then write up each section as a short paragraph or structured list.
 
@@ -6877,7 +6877,7 @@ Use this space for your first full draft.
 Draft {{PH-4: U21-D5-reorganised-version}}
 
 ::: rewrite
-Format Conversion — Prose to Consolidated Report
+Format Conversion: Prose to Consolidated Report
 
 ::: learn
 Transfer Reminder
@@ -6968,7 +6968,7 @@ Before submitting, check your own writing against the following:
 ### G. Editing
 
 ::: rewrite
-Editing Workshop — Consolidated Report Draft
+Editing Workshop: Consolidated Report Draft
 
 The paragraph below is an attempt at a consolidated report. It contains multiple problems. Identify all the issues, then rewrite it as a structured, professional consolidated report.
 
@@ -7018,9 +7018,9 @@ Choose one:
 3. Create a report-planning template for your own workplace with headings for Summary, Issues Identified, Actions Taken, Outstanding Questions, and Next Steps. Under each heading, list the information a writer must collect before drafting.
 :::
 
-## Unit 22 — Integrated Writing Task: Complex Scenario Response
+## Unit 22. Integrated Writing Task: Complex Scenario Response
 
-### Unit Overview
+### Focus
 
 This unit brings together all the major writing skills developed in Units 1–21. Learners work with a multi-source administrative scenario and produce a complete professional response. By the end of the unit, learners will be able to:
 
@@ -7033,7 +7033,7 @@ This unit brings together all the major writing skills developed in Units 1–21
 ### A. Opening & Activation
 
 ::: notice
-Prediction Task — Anticipate the Document Type
+Prediction Task: Anticipate the Document Type
 
 Read the four input items below. Before reading further, predict: what type of administrative document would you need to produce, and what would it need to include?
 
@@ -7075,7 +7075,7 @@ Now discuss: Which offices need to be contacted? What information does each need
 ### B. Example Text
 
 ::: notice
-Reading-To-Write Input — Integrated Response Preparation
+Reading-To-Write Input: Integrated Response Preparation
 
 Integrated response writing begins by identifying common issues across different input types. The writer then decides which format can best group those issues, assign action, and address the needs of the intended audience.
 
@@ -7103,7 +7103,7 @@ Revised Text
 :::
 
 ::: notice
-Compare Tone and Clarity — Integrated vs Single-Input Response
+Compare Tone and Clarity: Integrated vs Single-Input Response
 
 Compare the integrated response above with a version that addresses only one input at a time without synthesising:
 
@@ -7307,7 +7307,7 @@ Draft {{PH-4: U22-G3-clean-copy}}
 ### H. Homework & Extension
 
 ::: write
-Real-World Task — Write an Integrated Response
+Real-World Task: Write an Integrated Response
 
 Using the scenario package from this unit (the four inputs in Section A), write a **300–340 word** integrated administrative document. Choose the format that best fits the purpose: a notice for all offices, a briefing for your supervisor, or a consolidation report.
 
@@ -7332,9 +7332,9 @@ Choose one:
 3. Find one earlier piece of writing from Units 19–21 and revise it using the integrated-response standard from this unit. Aim to improve synthesis, action clarity, and document structure.
 :::
 
-## Unit 23 — Capstone: Full Administrative Writing Assessment
+## Unit 23. Capstone: Full Administrative Writing Assessment
 
-### Unit Overview
+### Focus
 
 This capstone unit gives learners the opportunity to demonstrate integrated writing competence across all skills developed in Units 1–22. Learners respond to a multi-source scenario that requires synthesis, explanation, justification, audience adaptation, and structural decision-making. By the end of the unit, learners will be able to demonstrate mastery in:
 
@@ -7359,7 +7359,7 @@ Reflect on your learning across this course and discuss:
 ### B. Example Text
 
 ::: notice
-Compare Responses — Exemplar Analysis
+Compare Responses: Exemplar Analysis
 
 Read both responses to the capstone scenario below.
 
@@ -7408,7 +7408,7 @@ Response B succeeds because it integrates multiple course-level skills at once: 
 ### C. Language Focus
 
 ::: edit
-Error Identification — Self-Diagnosis for Integrated Writing
+Error Identification: Self-Diagnosis for Integrated Writing
 
 These sentence-level problems are signals of larger writing issues: weak synthesis, vague tone, unclear structure, missing action logic, and under-specified recommendations. The purpose of this task is to help you recognise those broader patterns in your own writing.
 
@@ -7439,7 +7439,7 @@ If you do not have your earlier writing available, use one of your drafts from t
 ### D. Guided Writing
 
 ::: revise
-Revision Chain — Revising Your Own Prior Work
+Revision Chain: Revising Your Own Prior Work
 
 ::: learn
 Transfer Reminder
