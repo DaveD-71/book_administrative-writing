@@ -4,8 +4,6 @@
 
 Model answers are provided for all exercises with specific expected responses. The Advanced course involves substantial analysis and creative writing; guidance notes are given for extended free-writing tasks (~150 words) and scenario-based tasks. Where the revised example text is already printed in the student book, it is referenced rather than reprinted.
 
----
-
 # MODULE 1. Advanced Foundations for Administrative Writing (Units 1–3)
 
 ## Unit 1. Controlling Sentence Complexity
@@ -30,8 +28,6 @@ Model answers are provided for all exercises with specific expected responses. T
 - **Secondary ideas:** cause (system update without matching manual update), consequence (difficult processing, delays).
 - **Source of confusion:** "Since... but..." combines a subordinator with a coordinator awkwardly. "Which resulted in delays" dangles ambiguously at the end.
 
----
-
 ### C. Language Focus — Add Coordinators
 
 1. *We need to confirm the applicant's address,* **and** *we must also check the original application form.*
@@ -39,9 +35,7 @@ Model answers are provided for all exercises with specific expected responses. T
 3. *The deadline is approaching,* **so** *we appreciate your prompt cooperation.*
 4. *The office received two versions of the document,* **and** *it is unclear which one should be processed.* / ...***yet*** *it is unclear...*
 
-_Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger contrast/addition is intended. Full credit for any grammatically correct and logically appropriate choice with explanation._
-
----
+*Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger contrast/addition is intended. Full credit for any grammatically correct and logically appropriate choice with explanation.*
 
 ### C. Language Focus — Identify the Subordination Function
 
@@ -49,8 +43,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 2. *While we understand the concern, the process cannot be changed at this stage.* — **Contrast**
 3. *When the update is complete, the system will prompt users to log in again.* — **Time**
 4. *Although the instructions were revised, some teams continued using the previous version.* — **Contrast**
-
----
 
 ### C. Language Focus — Apply the Clarity Patterns
 
@@ -65,8 +57,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 
 **4.** *The department will review the file once the updated form has been received and after the confirmation from the regional office has been processed.* → **Pattern 2 (purpose clause → main action):**
 > Once the updated form has been received and the regional office's confirmation has been processed, the department will review the file. / *Alternatively:* To ensure the review can proceed, please note that both the updated form and regional office confirmation must be received first.
-
----
 
 ### G. Editing — Improve Clarity: Ambiguous Sentences
 
@@ -85,19 +75,16 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 - **Problem:** "even though the previous version was approved" creates a logical contradiction — it is unclear whether the revision was sent despite or because of the approval.
 - **Revision:** The department requested clarification, so the revision was sent to them. This was the case even though the previous version had already been approved. / Although the previous version was approved, the department requested clarification, and the revision was sent accordingly.
 
----
-
 ## Unit 2. Tone for Agency-Level Communication
 
 ### A. Opening — Compare Tone and Clarity (Example Text)
 
 **Identify features in the revised text:**
+
 - **Softening phrases:** "It appears that the submitted document may not match..." (*may not* + *appears*); "we would appreciate it if you could..."
 - **Reason-giving:** "To ensure accuracy in our review..."
 - **Shared-goal framing:** "we will be able to proceed with the next steps of the examination" (mutual benefit)
 - **Removal of direct blame:** Original: "You submitted the wrong document." Revised: "the submitted document may not match" (passive + hedging removes the "you did X wrong" framing)
-
----
 
 ### C. Language Focus — Match Softening Phrase to Function
 
@@ -107,8 +94,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 | B. *We would appreciate it if you could…* | 2. Making an indirect request |
 | C. *For our internal confirmation…* | 4. Clarifying the purpose or reason for a request |
 | D. *To ensure accuracy…* | 1. Providing a neutral justification |
-
----
 
 ### C. Language Focus — Rewrite Direct Questions
 
@@ -120,8 +105,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 
 4. *Did you read the previous instructions?* → For our confirmation, could you clarify whether the previous instructions were taken into account when preparing this document?
 
----
-
 ### C. Language Focus — Choose the Appropriate Version for Each Audience
 
 | Audience | Version | Reasoning |
@@ -129,8 +112,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 | A. Internal colleague (same office) | **Version 1**: *"Send the corrected file today."* | Direct instruction is acceptable internally; no need for diplomatic softening between same-office colleagues in routine contexts. |
 | B. Domestic agency counterpart | **Version 2**: *"Could you kindly share the corrected file when available?"* | Polite modal + "when available" shows consideration; appropriate for established agency-to-agency relationships. |
 | C. Foreign IP office | **Version 3**: *"We would appreciate receiving the updated file at your earliest convenience."* | Highest level of diplomacy; "we would appreciate" is more deferential; avoids any implication of pressure; appropriate for international correspondence. |
-
----
 
 ### G. Editing — Diplomatic Sentences
 
@@ -145,8 +126,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 
 4. *Your clarification doesn't make sense.* → We appreciate the clarification provided. To ensure our understanding is accurate, may we ask one additional question regarding [specific point]?
    - **Softening strategy:** Opens with appreciation; reframes as a follow-up question rather than a rejection of the previous answer
-
----
 
 ## Unit 3. Cohesion & Logical Flow
 
@@ -163,18 +142,14 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 | 7 | **Disjointed** | Three disconnected facts with no logical relationship shown |
 | 8 | **Cohesive** | "Confirmed details" → "ready to proceed" → "in line with updated procedure" → "by Friday" — logical sequence with clear purpose |
 
----
-
 ### C. Language Focus — Sequence Sentences for Logical Flow
 
 **Best order: B → C → A → D**
 
-1. B: *Several agencies reported confusion about the updated guidelines.* _(introduces the problem)_
-2. C: *To address these concerns, we agreed to prepare additional clarification.* _(decision/response)_
-3. A: *We will draft a revised explanation to ensure consistency across offices.* _(action)_
-4. D: *Once the revised explanation has been approved internally, it will be distributed to all relevant offices.* _(next step / outcome)_
-
----
+1. B: *Several agencies reported confusion about the updated guidelines.* *(introduces the problem)*
+2. C: *To address these concerns, we agreed to prepare additional clarification.* *(decision/response)*
+3. A: *We will draft a revised explanation to ensure consistency across offices.* *(action)*
+4. D: *Once the revised explanation has been approved internally, it will be distributed to all relevant offices.* *(next step / outcome)*
 
 ### C. Language Focus — Replace Repetition with Reference Words
 
@@ -186,8 +161,6 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 
 4. *The procedure was updated in January. **It** applies to all agencies from March onwards.*
 
----
-
 ### C. Language Focus — Add Logical Connectors
 
 1. *The translation contains several inconsistencies.* **Therefore** / **As a result**, *we need to request clarification from the office.*
@@ -198,9 +171,7 @@ _Note: Items 1 and 4 may also accept "however" (with semicolon) where stronger c
 
 4. *The applicant submitted the required documents.* **However** / **Nevertheless**, *the file cannot be processed because the declaration form is missing.*
 
-_Note: Accept any logically appropriate connector with a brief explanation. Full credit for justified choices with correct punctuation (semicolon + however / however as standalone)._
-
----
+*Note: Accept any logically appropriate connector with a brief explanation. Full credit for justified choices with correct punctuation (semicolon + however / however as standalone).*
 
 ### D. Guided Writing — Reorganise Into a Coherent Two-Paragraph Explanation
 
@@ -212,8 +183,6 @@ _Note: Accept any logically appropriate connector with a brief explanation. Full
 >
 > To address the outstanding concerns, the team agreed that updated guidelines should be circulated before the next meeting. A follow-up message will be sent by Friday to ensure all offices are informed and can respond before the planned deadline.
 
----
-
 ### G. Editing — Improve Paragraph Cohesion
 
 **1.** *"The applicant submitted the revised form. The guidelines were updated. The team is reviewing the change. We will send a confirmation."*
@@ -221,16 +190,14 @@ _Note: Accept any logically appropriate connector with a brief explanation. Full
 **Revised:**
 > The applicant submitted the revised form following the recent guidelines update. The team is currently reviewing the change to ensure it aligns with the new requirements. Once the review is complete, a confirmation will be sent.
 
-_Changes: (1) Used "following" to connect sentences 1 and 2; (2) "to ensure" adds reason to sentence 3; (3) "Once... a confirmation will be sent" — passive + conditional for professional tone_
+*Changes: (1) Used "following" to connect sentences 1 and 2; (2) "to ensure" adds reason to sentence 3; (3) "Once... a confirmation will be sent" — passive + conditional for professional tone*
 
 **2.** *"There were delays in the translation process. Some information was missing. The office did not receive the updated version. We must check which version is correct."*
 
 **Revised:**
 > The translation process was delayed, partly because some required information was missing. As a result, the office did not receive the updated version. We therefore need to clarify which version is correct before the review can continue.
 
-_Changes: (1) "partly because" connects cause; (2) "As a result" signals consequence; (3) "therefore" shows logical follow-through_
-
----
+*Changes: (1) "partly because" connects cause; (2) "As a result" signals consequence; (3) "therefore" shows logical follow-through*
 
 # MODULE 2. Professional Email Writing for Interagency Contexts (Units 4–7)
 
@@ -239,13 +206,12 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 ### A. Opening — Identify Communication Issues
 
 **Problems with the weak email:**
+
 1. No clear reason for writing (no opening statement of purpose)
 2. Multiple unrelated requests mixed without separation
 3. Informal opening ("Hi") inappropriate for interagency level
 4. No reference to specific documents or file identifiers
 5. "We need to finish the review soon" — vague urgency with no specific timeline
-
----
 
 ### B. Example Text — Compare Tone and Clarity
 
@@ -259,8 +225,6 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 | Next step | Absent | "Once confirmed, we will proceed..." |
 | Tone | Informal, pressuring | Professional, diplomatic |
 
----
-
 ### C. Language Focus — Multi-Part Email Structure
 
 **Model phrases for introducing multiple requests:**
@@ -268,8 +232,6 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 - *We are writing to address two points arising from the submitted file...*
 - *We have noted the following issues, which we would like to raise separately...*
 - *Our message today relates to two matters. First,... Second,...*
-
----
 
 ### G. Editing — Restructure the Email
 
@@ -290,19 +252,16 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 > Kind regards,
 > [Name]
 
----
-
 ## Unit 5. Writing Precise Clarification Requests
 
 ### A. Opening — Identify Communication Issues
 
 **Problems with the weak request:**
+
 1. "Some questions" — vague; no indication of how many or which type
 2. "The parts that are unclear" — reader cannot identify which parts without more context
 3. "Is the date correct?" — which date? Correct according to what reference?
 4. No document reference; no next-step statement after confirmation
-
----
 
 ### C. Language Focus — Rewrite Requests for Precision
 
@@ -313,11 +272,9 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 3. *Is this correct?* → Could you confirm whether the figure in [Section/Table X] is correct, as it appears to differ from the value stated in [Annex/page X]?
 
 4. *We have questions about the guidelines.* → We have three questions regarding the revised guidelines. First,... Second,... Third,...
-   _(Instruct students to complete with specific questions from their context.)_
+   *(Instruct students to complete with specific questions from their context.)*
 
 5. *Please confirm the timeline.* → Could you confirm the intended timeline for [specific process]? In particular, we would like to clarify the deadline for [specific action], as mentioned in [Section/document].
-
----
 
 ### C. Language Focus — Phrase Bank Building
 
@@ -334,8 +291,6 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 | Could you specify which version is currently valid? | We will update our internal records once we receive your response. |
 | Could you confirm whether X and Y refer to the same procedure? | |
 
----
-
 ## Unit 6. Communicating Errors Diplomatically
 
 ### C. Language Focus — Rewrite Sentences Using a Diplomatic Frame
@@ -350,8 +305,6 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 
 5. *You misunderstood the instruction in Section 4.* → It appears that the instruction in Section 4 may have been interpreted differently from the intended meaning. We would be happy to provide further clarification if that would be helpful.
 
----
-
 ### C. Language Focus — Error Identification and Correction
 
 | # | Problem type | Diplomatic rewrite |
@@ -363,9 +316,7 @@ _Changes: (1) "partly because" connects cause; (2) "As a result" signals consequ
 | 5 | Blame assignment (*your explanation is wrong*) | *Upon review, the explanation in Section 2 may require some clarification. We would be grateful if you could confirm whether the current wording reflects the intended meaning.* |
 | 6 | Vague + implicit blame (*all of the errors*) | *We have noted a number of points in the document that may require adjustment. Once these have been resolved, we will be in a position to proceed with the review.* |
 
-_Note: The worked example in Section C (direct → diplomatic table) is already printed in the student book; refer students to it rather than reprinting here._
-
----
+*Note: The worked example in Section C (direct → diplomatic table) is already printed in the student book; refer students to it rather than reprinting here.*
 
 ### G. Editing — Rewrite for Diplomatic Communication
 
@@ -374,22 +325,28 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 **Model rewrites:**
 
 1. *You used the wrong version.* →
+
 > It appears that the version received may not be the most recent update. Could you confirm which version is currently valid? We have the version dated [date] on file and would appreciate clarification before proceeding.
+
 - **Changes:** Removed direct accusation; added specific reference; framed as a confirmation request.
 
-2. *This error caused delays.* →
+1. *This error caused delays.* →
+
 > The discrepancy identified in the submitted file has affected our processing timeline. Once the point is confirmed and corrected, we will be able to proceed with the next stage.
+
 - **Changes:** Passive voice removes personal blame; *discrepancy* replaces *error*; impact explained with a next-step marker.
 
-3. *We can't continue until you fix the problem.* →
+1. *We can't continue until you fix the problem.* →
+
 > In order to proceed with the review, we would appreciate your assistance in resolving the outstanding point. Once confirmed, we will be able to move to the next stage without delay.
+
 - **Changes:** Removed "you fix the problem" framing; added shared-goal language; added cooperative next-step statement.
 
-4. *Your explanation doesn't make sense.* →
-> We appreciate the clarification provided. To ensure our understanding is accurate, may we ask one additional question regarding [specific point]? In particular, we would appreciate confirmation of whether [X] and [Y] refer to the same stage in the process.
-- **Changes:** Opens with appreciation; reformulated as a follow-up question; removed evaluative language entirely.
+1. *Your explanation doesn't make sense.* →
 
----
+> We appreciate the clarification provided. To ensure our understanding is accurate, may we ask one additional question regarding [specific point]? In particular, we would appreciate confirmation of whether [X] and [Y] refer to the same stage in the process.
+
+- **Changes:** Opens with appreciation; reformulated as a follow-up question; removed evaluative language entirely.
 
 # MODULE 2. Professional Email Writing for Interagency Contexts (Units 4–7)
 
@@ -403,23 +360,23 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 
 **Discussion points:** When requests are ordered, the reader knows where to start and which action unlocks the next. When priority order is not stated, the reader must judge independently, which risks completing steps out of sequence or misunderstanding dependencies.
 
----
-
 ### C. Language Focus — Rewrite Unsequenced Lists as Structured Requests
 
 1. *Check the dates. Review the terminology. Send the updated file.* →
+
 > As a first step, could you confirm whether the dates in [Section X] are consistent with the revised version circulated on [date]? Once confirmed, we would appreciate your review of the terminology in the attached document. Finally, if an updated version of the file is available, we would be grateful if you could share it so that we can finalise the review.
 
-2. *Confirm the applicant's status. Provide the updated form. Advise on the processing timeline.* →
+1. *Confirm the applicant's status. Provide the updated form. Advise on the processing timeline.* →
+
 > First, could you confirm the current status of the applicant's file? Once that is confirmed, we would appreciate receiving the updated form applicable to this stage. We would also be grateful for your advice on the expected processing timeline, which will help us plan our next steps accordingly.
 
-3. *Translate the document. Verify the terminology first. Send the final version.* →
+1. *Translate the document. Verify the terminology first. Send the final version.* →
+
 > As a first step, could you confirm the terminology that should be used throughout the document? Once this is established, we would appreciate it if the document could be translated accordingly. The final version may then be shared with our office at your earliest convenience.
 
-4. *Confirm whether the instruction is still valid. Update your internal records. Notify the applicant once confirmed.* →
-> First, could you confirm whether the instruction in [Section X] remains valid under the current guidelines? Once confirmed, we would ask that internal records be updated accordingly. Following that, the applicant should be notified of the confirmed status so that they can proceed.
+1. *Confirm whether the instruction is still valid. Update your internal records. Notify the applicant once confirmed.* →
 
----
+> First, could you confirm whether the instruction in [Section X] remains valid under the current guidelines? Once confirmed, we would ask that internal records be updated accordingly. Following that, the applicant should be notified of the confirmed status so that they can proceed.
 
 ### C. Language Focus — Rewrite the Paragraph as a Structured Request
 
@@ -436,8 +393,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 >
 > These steps will allow us to update the file and proceed with the review accurately.
 
----
-
 ### G. Editing — Rewrite: Sequencing and Dependencies
 
 **Original:** *"We need you to correct the dates, confirm which version is valid, and fix the terminology. Then we can proceed."*
@@ -450,8 +405,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 > Once the current version has been confirmed, we would be grateful if you could verify that the dates throughout the document align with the agreed timeline, and check that the terminology is consistent with the version in use.
 >
 > Once these points have been addressed, we will be in a position to proceed with the review without further interruption.
-
----
 
 # MODULE 3. Writing Complex Procedures & Internal Explanations (Units 8–11)
 
@@ -473,8 +426,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 
 4. **What is missing:** (a) Who sends the request — any staff member or a designated officer? (b) What happens if the originating office does not respond within a reasonable time. (c) No closing step confirming when the file is fully processed.
 
----
-
 ### C. Language Focus — Sequencing / Ordering Task
 
 **Correct order: F → D → B → C → E → A**
@@ -487,10 +438,9 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 6. **A** — *Send a confirmation to the applicant acknowledging receipt of the corrected submission.* *(Closing action — notification)*
 
 **Reasoning notes (two choices):**
+
 - *B before C:* The record must be updated to reflect the confirmed correction before the file moves to the reviewing officer; otherwise the officer receives a file that does not yet reflect its current status.
 - *E before A:* If new discrepancies are found, the file is returned, and applicant notification at this stage would be premature or misleading. Notification (A) belongs after the process reaches a successful close.
-
----
 
 ### C. Language Focus — Rewrite Procedural Instructions
 
@@ -501,8 +451,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 | 3. *[Deal with] the applicant's request…* | *Process the applicant's request within two working days.* | *deal with* → *process* |
 | 4. *[Make sure] the record is updated…* | *Ensure the record is updated before the file is forwarded.* | *make sure* → *ensure* |
 | 5. *[Check] whether the timeline needs to be changed.* | *Determine whether the processing timeline requires adjustment.* | *check* → *determine* |
-
----
 
 ### G. Editing — Editing Workshop: Procedure Draft
 
@@ -521,8 +469,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 5. **Guideline Compliance:** Verify that all steps completed comply with the latest procedural requirements before closing the review.
 6. **File Closure:** Once all steps are confirmed, close the file and record the completion date in the tracking system.
 
----
-
 ## Unit 9. Change Management Writing
 
 ### B. Example Text — Annotated Example: Match Annotations to Decisions
@@ -534,8 +480,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 | 3. *Provides the rationale* | *"This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability."* |
 | 4. *Gives a clear, polite instruction for required action* | *"We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form."* |
 | 5. *Offers support and invites questions* | *"Should any questions arise regarding the transition, please do not hesitate to contact our office."* |
-
----
 
 ### C. Language Focus — Rewrite Change Messages by Function
 
@@ -549,23 +493,23 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 
 5. *Use the new version from now on.* → We would appreciate it if all relevant staff could begin using the updated version from [effective date]. The previous version should no longer be used for submissions received after that date.
 
----
-
 ### C. Language Focus — Expand Bare Statements with Supporting Detail
 
 1. *The submission deadline has changed.*
+
 > The submission deadline has been revised, effective [date]. This change has been introduced to align the timeline with the updated coordination schedule and to allow additional time for internal review before the next stage of processing. All offices are asked to note the new deadline and adjust their workflows accordingly.
 
-2. *Staff should use the updated form.*
+1. *Staff should use the updated form.*
+
 > Staff should use the updated applicant submission form in place of the previous version circulated in [month/year]. The revised form is available on the shared drive under [folder name]. The previous version should no longer be submitted, as it does not include the fields required under the updated guidelines.
 
-3. *The previous process is no longer valid.*
+1. *The previous process is no longer valid.*
+
 > The previous process for [specific task] is no longer in use from [effective date]. The revised process now requires [brief description of key change]. Staff are asked to discontinue the previous approach immediately and apply the updated process to all new cases.
 
-4. *The coordinating office has revised its communication procedure.*
-> The coordinating office has revised its procedure for interagency communication, effective [date]. The key change concerns [specific element], which now requires [description of new requirement] rather than [previous approach]. This revision will reduce ambiguity in how correspondence is routed and should support more consistent outcomes for partner offices.
+1. *The coordinating office has revised its communication procedure.*
 
----
+> The coordinating office has revised its procedure for interagency communication, effective [date]. The key change concerns [specific element], which now requires [description of new requirement] rather than [previous approach]. This revision will reduce ambiguity in how correspondence is routed and should support more consistent outcomes for partner offices.
 
 ### G. Editing — Editing Workshop: Change Notification Draft
 
@@ -582,8 +526,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 >
 > Should any questions arise regarding the transition, please do not hesitate to contact [office/contact name] at [contact details]. We are happy to provide further guidance.
 
----
-
 ## Unit 10. Explaining Complex Issues
 
 ### A. Opening — Identify Communication Issues
@@ -592,8 +534,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 2. **Number of factors:** The explanation implies at least two factors (unclarity + missing information), but neither is named or described. The reader cannot identify what needs to be resolved.
 3. **Why unhelpful:** The reader cannot act on this message — there is nothing specific to check, provide, or change. "Many things are unclear" and "we hope to have more clarity soon" offer no path forward.
 4. **What a professional reader needs:** Identification of which specific elements are unclear; what information is needed and from whom; what impact the delay has on the overall timeline; what next steps the writer proposes or requests.
-
----
 
 ### C. Language Focus — Match Accessible Explanation Functions and Forms
 
@@ -606,8 +546,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 | 5. *A second challenge concerns the incomplete submission received from Office B.* | **B** — Describing a specific factor |
 | 6. *Once these points are resolved, we will be in a position to proceed with the final assessment.* | **D** — Explaining impact or next steps |
 
----
-
 ### C. Language Focus — Rewrite Vague Statements as Clear Explanations
 
 1. *The instructions are unclear.* → The updated instructions in Section 4.2 use the term "response period" in two different ways, which means the review team cannot confirm which deadline applies to files submitted in the current cycle.
@@ -619,8 +557,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 4. *We need more information.* → Before the review can proceed, we need confirmation from the coordinating office of which version of the guidelines should apply to cases submitted before the effective date. This confirmation is required from [office name].
 
 5. *This is affecting the process.* → As a result of the discrepancy, the file cannot be forwarded to the reviewing officer until the conflicting data has been resolved. The next stage of processing is therefore on hold pending clarification.
-
----
 
 ### G. Editing — Improve Clarity and Flow: Explanation Structure
 
@@ -637,8 +573,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 >
 > Both issues are currently being reviewed. Once clarified, we anticipate being able to resume processing within [X] working days.
 
----
-
 ## Unit 11. Executive-Level Meeting Summaries
 
 ### A. Opening — Identify Communication Issues
@@ -646,8 +580,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 1. **Information absent:** Date of the meeting; who attended; what topics were discussed; what (if anything) was decided; who is responsible for follow-up; when the next meeting is scheduled.
 2. **Not useful for follow-up:** No decisions recorded, no action points, no responsibilities assigned, no timeline. A reader cannot act on this summary.
 3. **What a manager who did not attend needs to know (minimum):** (1) When and where the meeting was held; (2) who attended and which offices they represented; (3) what topics were on the agenda; (4) what key points were raised; (5) what decisions were reached; (6) who is responsible for each action point; (7) when action is due; (8) when the next meeting is scheduled.
-
----
 
 ### B. Data Interpretation — Write the Decisions and Next Steps Sections
 
@@ -661,6 +593,7 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 | Office D | 2 | 2 | 2 | 0 |
 
 **Model Decisions / Action Items section:**
+>
 > - Office A resolved three of its four agenda items. One item has been deferred and will require follow-up at the next meeting.
 > - Office B resolved one of its three agenda items. Two items remain outstanding and are to be carried forward for further discussion.
 > - Office C resolved four of its five agenda items. One item has been deferred.
@@ -668,8 +601,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 
 **Model Next Steps section:**
 > All offices with deferred items — Offices A, B, and C — are requested to submit brief written updates on outstanding matters before the next meeting. Office B, with the highest number of unresolved items, is asked to indicate whether additional consultation or clarification is needed before its two deferred items can be resolved.
-
----
 
 ### C. Language Focus — Sentence Rewriting
 
@@ -683,8 +614,6 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 
 5. *We decided to check things again next week.* → A follow-up review is scheduled for [date] to assess progress on outstanding items.
 
----
-
 ### C. Language Focus — Editing Workshop: Narrative to Executive Summary
 
 **Meeting notes (5 November):** Representatives from Offices A, B, and C discussed the new reporting template; Office B and C identified a missing section for multi-stage submissions; all agreed the template needs revision before rollout; Office A to prepare a revised draft by 12 November; next meeting 15 November.
@@ -697,17 +626,17 @@ _Note: The worked example in Section C (direct → diplomatic table) is already 
 Representatives from Offices A, B, and C met on 5 November to review the proposed new reporting template and assess its suitability before rollout.
 
 **Key Points Discussed:**
+
 - Office B identified that the template does not include a section for multi-stage submissions, limiting its usefulness for complex cases.
 - Office C confirmed the same gap and noted that this omission creates difficulties when summarising multi-stage files.
 - All three offices agreed that the template requires revision before implementation can proceed.
 
 **Decisions / Action Items:**
+
 - Office A will prepare a revised draft of the reporting template by 12 November.
 
 **Next Steps:**
 The revised draft will be reviewed at the next meeting, scheduled for 15 November.
-
----
 
 ### G. Editing — Editing Workshop: Executive Summary Draft
 
@@ -723,16 +652,16 @@ The revised draft will be reviewed at the next meeting, scheduled for 15 Novembe
 Representatives from [offices] met on [date] to discuss [topic]. The discussion covered [key themes].
 
 **Key Points Discussed:**
+
 - Several offices raised concerns regarding the updated form, particularly regarding [specific aspect].
 - The deadline for [relevant process] was raised as a point of uncertainty; no resolution was reached.
 
 **Decisions / Action Items:**
+
 - [Office / responsible party] will investigate the issues identified with the form and report back by [date].
 
 **Next Steps:**
 Outstanding matters, including the deadline question, will be carried forward to the next meeting, to be scheduled by [coordinating office].
-
----
 
 # MODULE 4. Cross-Border & Interagency Communication (Units 12–15)
 
@@ -748,8 +677,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 4. **Next steps and timeline:** *"as our internal review is scheduled for late February"* explains why the information is needed and when. The closing line (*"We look forward to your response"*) signals expectation of a reply without setting an ultimatum.
 
----
-
 ### C. Language Focus — Match Inquiry Expression Functions and Forms
 
 | Expression | Function |
@@ -762,8 +689,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | 6. *Would you be able to advise whether…?* | **B** — Asking a precise question |
 | 7. *Once we receive confirmation, we will…* | **D** — Signalling next steps |
 | 8. *We would appreciate your assistance in…* | **C** — Diplomatic softening |
-
----
 
 ### C. Language Focus — Phrase Bank Building
 
@@ -779,8 +704,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | *We would be grateful if you could…* | *This will allow us to…* |
 | *We would appreciate your assistance in…* | *Once confirmed, we will…* |
 | | *Please let us know if any further information is required on our side.* |
-
----
 
 ### G. Editing — Editing Workshop: External Inquiry Draft
 
@@ -804,8 +727,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 > Kind regards,
 > [Name]
 
----
-
 ## Unit 13. Writing for Risk & Impact Assessment
 
 ### B. Data Interpretation — Write a Risk Assessment Paragraph
@@ -821,8 +742,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 **Model risk assessment paragraph:**
 > The data from January to March indicates a consistent upward trend in incomplete submissions, rising from 12% to 24%, accompanied by a parallel increase in average processing time from 8.4 to 13.7 days. The concurrent rise in terminology queries — from 6 to 21 over the same period — suggests that the revised applicant intake form may be contributing to both the increase in incomplete submissions and the processing delays, as staff appear to be encountering difficulties interpreting its requirements. If the current trend continues, processing backlogs and interagency delays are likely to intensify before the next review cycle. To mitigate this risk, a shared terminology briefing and a plain-language guidance note on the revised form should be issued before the next implementation stage.
 
----
-
 ### C. Language Focus — Sentence Rewriting: Specific Risk Statements
 
 1. *This could be a problem.* → There is a risk that the absence of a pre-submission checklist may result in an increase in incomplete submissions, leading to additional processing time and potential delays to the review schedule.
@@ -832,8 +751,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 3. *We are worried about the new form.* → One concern is that the revised applicant form may not be clearly understood by all offices, which could lead to an increase in incorrectly completed submissions during the initial rollout period.
 
 4. *There could be issues with timing.* → If the current implementation timeline is not adjusted to allow for staff training, there is a risk that several offices may not be ready to apply the revised procedure from the effective date, resulting in a period of inconsistent practice across the coordination network.
-
----
 
 ### C. Language Focus — Find and Fix Errors
 
@@ -846,8 +763,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | 5. *To mitigate this, staff should being trained before the launch.* | Grammatical error | *To mitigate this risk, staff training should be completed before the launch date.* |
 | 6. *The new system presents risks for all agencies which they need to address.* | Structural ambiguity | *The new system presents implementation risks that all participating agencies will need to address before the rollout is complete.* |
 
----
-
 ### G. Editing — Rewrite Using Conditional and Hedging Structures
 
 1. *The delay will cause serious problems.* → The delay is likely to affect processing timelines across several offices and may result in a backlog if the outstanding issues are not resolved before the next review cycle.
@@ -858,8 +773,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 4. *No one will meet the deadline.* → Several offices may find it difficult to meet the current deadline, particularly where training has not yet been completed. Unless additional preparation time is provided, some offices are unlikely to be fully compliant by the effective date.
 
----
-
 ## Unit 14. Writing Complex Multi-Audience Messages
 
 ### A. Opening — Contrastive Warm-Up
@@ -867,8 +780,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 1. **What Version A assumes:** That all readers already know why the changes were made, what the changes are, and when they were introduced. This causes problems when the message reaches readers not involved in earlier discussions or who did not receive the previous version.
 2. **What Version B does differently for unfamiliar readers:** Provides a specific date for the circulated instructions; names the section that changed; explains the purpose of the revision; and offers a plain-language summary on request rather than assuming prior knowledge.
 3. **Effectiveness for a mixed group:** Version B — because it gives all readers, including those with no prior context, enough information to understand the message and act on it.
-
----
 
 ### C. Language Focus — Sentence Rewriting
 
@@ -888,8 +799,6 @@ Outstanding matters, including the deadline question, will be carried forward to
    - *For internal staff:* The revised process, as discussed in last week's briefing, should now be applied to all new cases.
    - *For external partners:* The process for [specific activity] has been revised, effective [date]. This change was introduced to [brief reason]. For offices that have not yet received the full update, a summary is available on request.
 
----
-
 ### C. Language Focus — Rewrite for a Non-Expert Reader
 
 **Original:** *"As you know, the form we discussed has now been updated. Please stop using the old version immediately and switch to the new one. The changes reflect what was agreed in the last round of consultations."*
@@ -902,8 +811,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 > For offices or staff members who were not involved in the consultations, the revision was introduced to [brief reason — e.g., standardise the data fields required across all submissions]. The updated form is available at [location], and the previous version should no longer be used.
 >
 > If you have any questions about the change or require assistance with the transition, please contact [coordinating office] at [contact details].
-
----
 
 ### G. Editing — Editing Workshop: Multi-Audience Message
 
@@ -922,8 +829,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 >
 > Further information on the implementation timeline will be circulated by [date].
 
----
-
 ## Unit 15. Drafting Policy-Aligned Rationales
 
 ### A. Opening — Real Document Analysis
@@ -933,8 +838,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 3. **Problem identified:** Current practice has led to a range of informal terms being used across offices, resulting in misunderstandings during case review.
 4. **Benefits claimed:** Reduced inconsistency; more efficient processing; alignment with the updated framework.
 5. **Neutral and evidence-based?** Yes. *"Current practice has resulted in a range of informal terms being used across offices, which has contributed to misunderstandings during case review"* is evidence-based — it names an observable problem and its operational effect. The language is factual and non-emotive. *(Accept equivalent observations.)*
-
----
 
 ### C. Language Focus — Sentence Rewriting with Policy References
 
@@ -946,23 +849,23 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 4. *The communication method needs to change.* → Consistent with the agency's objective of standardising interagency correspondence, the current informal communication approach should be replaced with a structured format aligned with the updated guidelines issued in [reference/date].
 
----
-
 ### C. Language Focus — Expand Statements with Policy Reference and Reasoning
 
 1. *The term should be changed.*
+
 > The term [specific term] should be updated to align with the revised terminology framework introduced in [reference], which requires consistent use of [new term] across all interagency documents. Current variation in terminology has contributed to inconsistent interpretation during case review. Standardising the term will reduce ambiguity and support more efficient processing across partner offices.
 
-2. *We should revise the communication process.*
+1. *We should revise the communication process.*
+
 > The current interagency communication process should be revised to comply with the updated coordination guidelines issued in [month], which require all formal correspondence to follow the designated structured format. Under the existing approach, inconsistencies in format have resulted in delays and increased follow-up queries. Adopting the revised process will reduce those delays and ensure that correspondence meets current interagency standards.
 
-3. *The timeline needs to be updated.*
+1. *The timeline needs to be updated.*
+
 > The processing timeline requires revision to align with the updated coordination schedule established in [reference], which adjusts the review periods for all applications submitted after [date]. The current timeline does not reflect these changes, creating ambiguity about the applicable deadlines for ongoing cases. Updating the timeline will ensure consistency across offices and reduce the risk of procedural errors.
 
-4. *A new verification step has been introduced.*
-> A new pre-submission verification step has been introduced in accordance with the quality assurance requirements set out in [reference], which requires all files to be checked for completeness before being forwarded to the reviewing officer. Analysis of recent submissions identified a pattern of incomplete files that could have been flagged earlier. This additional step is expected to reduce the number of files requiring rework and support more accurate processing at each stage.
+1. *A new verification step has been introduced.*
 
----
+> A new pre-submission verification step has been introduced in accordance with the quality assurance requirements set out in [reference], which requires all files to be checked for completeness before being forwarded to the reviewing officer. Analysis of recent submissions identified a pattern of incomplete files that could have been flagged earlier. This additional step is expected to reduce the number of files requiring rework and support more accurate processing at each stage.
 
 ### G. Editing — Track-Change Simulation: Accept or Reject Decisions
 
@@ -972,8 +875,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | 2. Replace *"A new form would be better and easier"* with *"The revised format will reduce incomplete submissions and support consistent data collection."* | **Accept** | Replaces a vague preference claim (*better and easier*) with a specific, evidence-grounded benefit statement in formal register. |
 | 3. Delete *"We also think it looks unprofessional."* | **Accept** | Subjective, evaluative comment with no policy basis. Weakens the rationale and introduces personal judgement into what should be a neutral professional document. |
 | 4. Delete *"Everyone agrees this change is needed."* | **Accept** | Unsupported appeal to consensus. In a policy-aligned rationale, only policy references, evidence, or procedural necessity constitute valid grounds. Consensus statements add no value and may appear dismissive of legitimate dissent. |
-
----
 
 # MODULE 5. Advanced Editing & Revision Skills (Units 16–18)
 
@@ -990,8 +891,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 **Discussion:** The professional column uses criterion-based language (*in terms of accuracy*, *the transition between Steps 4 and 5*), hedged phrasing (*may cause*, *would benefit from*), and specific evidence. The unprofessional column uses emotional language (*terrible*, *nobody*), sweeping claims (*everything in Part B*), and no evidence.
 
----
-
 ### B. Annotated Example — Match Annotation Labels to Text
 
 | Label | Text it refers to |
@@ -1003,8 +902,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | **e.** *Acknowledges specific evidence rather than making a general claim* | *"particularly the updated chronology table"* / *"particularly in Section 3.2"* |
 | **f.** *Uses cautious wording such as "generally" or "may" to calibrate claims* | *"The structure is generally easier to follow"* / *"may cause misinterpretation"* |
 
----
-
 ### C. Language Focus — Rewrite Sentences Using Neutral, Professional Language
 
 1. *This part is terrible.* → This section may benefit from revision, as the current phrasing is likely to be unclear to readers who are not already familiar with the procedure.
@@ -1015,8 +912,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 4. *It's impossible to understand what they're asking.* → The request in Section [X] lacks the specificity needed for readers to act on it without seeking further clarification.
 
----
-
 ### C. Language Focus — Find and Fix Overclaiming Errors
 
 | Sentence | Problem | Revised version |
@@ -1025,8 +920,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 | 2. *There are loads of issues with the structure and it really doesn't work.* | Emotive; sweeping claim | *The overall structure presents some challenges: in particular, [specific section] does not follow a clear logical sequence, which makes it difficult for readers to identify the required actions.* |
 | 3. *We liked some things but we did not like others.* | Vague; personal reaction | *The document has notable strengths in [specific area] but would benefit from revision in [specific area], where the current approach reduces clarity.* |
 | 4. *The conclusion is weak and pointless — it adds nothing.* | Evaluative/emotive; no criterion | *The concluding section does not offer a clear summary or recommendation and would benefit from a brief statement of overall findings and proposed next steps.* |
-
----
 
 ### G. Editing — Track-Change Simulation
 
@@ -1042,8 +935,6 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 **Discussion:** All five changes improve either tone or precision — or both. The *nobody → no office* change improves register without changing meaning; the chronology-table changes convert approval language into evidence-based evaluation.
 
----
-
 ## Unit 17. Drafting Executive Briefs
 
 ### B. Data Interpretation — Write Three Key Points
@@ -1058,11 +949,10 @@ Outstanding matters, including the deadline question, will be carried forward to
 | Office D | 298 | 11.3% | 10.1 days |
 
 **Model Key Points:**
+
 - Office D presents the most significant concern: its error rate of 11.3% and average processing time of 10.1 days are substantially higher than the other three offices, suggesting a systemic issue requiring investigation.
 - A correlation between error rate and processing time is visible across all offices: offices with higher error rates also show longer average processing times, indicating that errors are driving inefficiency rather than occurring independently.
 - Offices A and C are performing within acceptable ranges; however, Office B's error rate of 7.8% — almost double that of Office C — warrants monitoring, particularly if its volume increases.
-
----
 
 ### C. Language Focus — Rewrite Sentences for an Executive Audience
 
@@ -1074,21 +964,18 @@ Outstanding matters, including the deadline question, will be carried forward to
 
 4. *The staff are confused and nobody knows what the right procedure is anymore.* → Inconsistency in applying the revised procedure has been reported across several teams, indicating that further guidance or a coordinated briefing may be required before the next implementation stage.
 
----
-
 ### C. Language Focus — Editing Workshop: Meeting Summary to Executive Brief
 
 **Original (informal meeting notes):** *"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."*
 
 **Model Key Points section:**
+
 - Several offices identified terminology in the revised form as a source of potential inconsistency.
 - The current implementation timeline was assessed as presenting a risk of processing delays if preliminary issues are not addressed before rollout.
 - The proposed changes may affect Q4 processing volumes if implementation proceeds without revision.
 
 **Model Implications section:**
 > Proceeding with the current form and timeline without addressing the identified concerns may result in processing delays in Q4 and inconsistent outcomes across partner offices. A resolution on both the terminology and the timeline is required before implementation can proceed effectively.
-
----
 
 ### G. Editing — Editing Workshop: Executive Brief Draft
 
@@ -1102,6 +989,7 @@ Outstanding matters, including the deadline question, will be carried forward to
 Processing issues have been reported by multiple offices following introduction of the revised form, with Offices A and B identifying specific implementation concerns.
 
 **Key Points:**
+
 - Several offices have reported difficulty applying the updated instructions, particularly regarding the new form's layout.
 - Processing delays have increased as a result of unclear guidance.
 
@@ -1110,8 +998,6 @@ Without intervention, inconsistent application of the revised form is likely to 
 
 **Recommendation:**
 The form instructions should be reviewed and clarified. A coordinated guidance note should be circulated to all offices before the next submission cycle.
-
----
 
 ## Unit 18. Synthesising Information from Multiple Sources
 
@@ -1128,8 +1014,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 3. **Opening sentence for a synthesis:** *Across the three sources, two main factors have been identified as contributing to a significant increase in portal submission delays: unclear procedural instructions and technical limitations of the portal itself.*
 
----
-
 ### C. Language Focus — Rewrite as Thematic, Synthesised Sentences
 
 1. *Office A says instructions are unclear. Office C also says instructions are unclear.* → Both Office A and Office C identified unclear instructions as a primary source of difficulty, with Office A specifically noting the absence of guidance on file format requirements.
@@ -1140,8 +1024,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *Office A: unclear instructions. Office B: outdated file version. Office C: unclear instructions. Office D: outdated file version.* → Two main issues emerge across the four offices. Offices A and C identified unclear instructions as the primary concern, while Offices B and D reported difficulty attributable to an outdated file version still in circulation.
 
----
-
 ### C. Language Focus — Phrase Bank Building
 
 | Introducing themes | Showing agreement | Showing contrast | Drawing conclusions |
@@ -1149,8 +1031,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 | *Across the sources…* | *Both X and Y suggest that…* | *While Offices A and C noted…* | *Together, these findings indicate…* |
 | *Two main concerns emerge:…* | *Several offices noted that…* | *In contrast…* | *Taken together, … points to a need for…* |
 | *A second theme concerns…* | *These overlapping concerns indicate…* | *However, Source C suggests…* | *These points suggest that…* |
-
----
 
 ### G. Editing — Editing Workshop: Synthesis Draft
 
@@ -1160,8 +1040,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 **Model revised synthesis (60–80 words):**
 > Across the four offices, two interconnected concerns emerge: unclear instructions and an unrealistic implementation timeline. Offices A and C identified instruction clarity as the primary obstacle, while Office B focused on the pressure created by the current schedule. Office D also noted delays, though without specifying a cause. Taken together, the feedback indicates that both guidance and the implementation timeline require revision before the revised procedure can be consistently applied.
-
----
 
 # MODULE 6. Capstone & Applied Administrative Writing (Units 19–23)
 
@@ -1177,23 +1055,23 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *"Under the revised framework, offices are required to complete Form 7B in lieu of the previous Form 3A as per the updated schedule."* → Offices must now use the new form instead of the previous one, following the updated submission schedule. The previous form is no longer accepted.
 
----
-
 ### C. Language Focus — Add a Purpose Statement to Each Policy Change
 
 1. *A new reporting requirement has been introduced for all partner offices.*
+
 > A new reporting requirement has been introduced for all partner offices. The purpose of this change is to ensure that progress on key action points can be monitored consistently across the network and that any delays are identified and addressed promptly.
 
-2. *Offices will now be required to use a standardised applicant communication template.*
+1. *Offices will now be required to use a standardised applicant communication template.*
+
 > Offices will now be required to use a standardised applicant communication template. This change is intended to ensure that all applicants receive consistent information about the status of their application, regardless of which office is handling their case.
 
-3. *The review timeline has been shortened from 30 days to 21 days.*
+1. *The review timeline has been shortened from 30 days to 21 days.*
+
 > The review timeline has been shortened from 30 days to 21 days. This adjustment aims to reduce applicant waiting times and to align the office's processing speed with the updated interagency coordination schedule.
 
-4. *All terminology in the applicant guidelines has been updated.*
-> All terminology in the applicant guidelines has been updated. This revision is intended to eliminate inconsistencies in how key terms are used across offices, which will help ensure that guidelines are applied in the same way regardless of which office is processing the case.
+1. *All terminology in the applicant guidelines has been updated.*
 
----
+> All terminology in the applicant guidelines has been updated. This revision is intended to eliminate inconsistencies in how key terms are used across offices, which will help ensure that guidelines are applied in the same way regardless of which office is processing the case.
 
 ### C. Language Focus — Rewrite to Include the Required Action
 
@@ -1204,8 +1082,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 3. *"A new form is now available."* → The updated applicant submission form is now available at [location]. All offices are asked to begin using the new form from [date]. The previous version should no longer be submitted.
 
 4. *"The training materials have been updated."* → Updated training materials are now available at [location]. All relevant staff are asked to complete the training before [date]. If you require assistance accessing the materials, please contact [coordinating unit].
-
----
 
 ### G. Editing — Editing Workshop: Plain-Language Policy Draft
 
@@ -1220,8 +1096,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 >
 > Please ensure that the updated requirements are applied to all new cases from [date]. If you have questions or require guidance, contact [office] at [contact details].
 
----
-
 ## Unit 20. Writing Concise Justifications for Decisions
 
 ### A. Opening — Identify Communication Issues
@@ -1229,8 +1103,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 1. **What makes this an inadequate justification:** It gives a personal preference (*we thought it would be better*) rather than a policy or evidential basis; uses informal language; states the problem vaguely (*confusing*, *making mistakes*) without identifying what was unclear or which aspect caused errors.
 2. **Specific information missing:** A clear decision statement; the specific problem the change addresses; the policy or procedural basis for the decision; the expected benefit.
 3. **Problems created:** The reader cannot verify whether the decision was justified or aligns with guidelines. The absence of a rationale makes the decision appear arbitrary and reduces its credibility in a professional or interagency context.
-
----
 
 ### C. Language Focus — Rewrite Decision Statements for Clarity
 
@@ -1242,8 +1114,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *"There may be adjustments to the timeline."* → The processing timeline has been revised, effective [date], to reflect the updated coordination schedule agreed with partner offices.
 
----
-
 ### C. Language Focus — Strengthen the Rationale with Policy Grounding
 
 1. *"We changed the form."* → The applicant submission form has been revised to align with the updated data requirements set out in [Circular/Guideline], which require standardised fields for all new submissions. The previous form did not include all required fields, resulting in incomplete submissions and additional follow-up during review.
@@ -1253,8 +1123,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 3. *"A new step was added to the review process."* → A pre-submission verification step has been added to the review process in accordance with the quality assurance requirements introduced in [reference]. This change responds to a pattern of incomplete submissions identified during [period], which created avoidable rework at the review stage.
 
 4. *"The instructions were rewritten."* → The applicant processing instructions have been rewritten to comply with the updated terminology standards introduced in [reference], which require consistent use of defined terms across all interagency documents. The previous version used inconsistent terminology that had contributed to variation in how the instructions were applied across offices.
-
----
 
 ### C. Language Focus — Add a Benefit Statement to Each Justification
 
@@ -1266,8 +1134,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *"Offices will now use a single shared terminology list."* → … This will reduce variation in how key terms are applied across offices and minimise the number of clarification requests that currently slow down the review process.
 
----
-
 ### C. Language Focus — Organise the Justification
 
 **Correct order: B → C → D → A**
@@ -1276,8 +1142,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 2. **C** — *The previous list contained terms used inconsistently across offices, leading to variation in how applications were assessed.* *(Problem identification)*
 3. **D** — *This revision aligns with the updated interagency style guidelines issued in March.* *(Policy basis)*
 4. **A** — *This will support cross-office consistency and reduce the risk of processing delays.* *(Expected benefit)*
-
----
 
 ### G. Editing — Editing Workshop: Justification Draft
 
@@ -1292,8 +1156,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 >
 > The revised workflow reduces the number of approval steps from [X] to [Y], removes the redundant [specific step], and establishes a consistent sequence applicable across offices. As a result, processing times are expected to decrease and the rate of incorrectly routed requests should be reduced.
 
----
-
 ## Unit 21. Drafting Consolidated Administrative Reports
 
 ### A. Opening — Real Document Analysis
@@ -1301,8 +1163,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 1. **Types of information consolidated:** Implementation status from individual offices (completed/not completed); specific problems encountered; outstanding questions requiring central clarification; a proposed follow-up action.
 2. **How information is organised:** By office first (individual updates), then by issue type (outstanding questions), then forward-looking (proposed next step).
 3. **Without consolidated structure:** Each update would be isolated, making it difficult to identify cross-office patterns, see how widespread a concern is, or determine which outstanding questions require central resolution.
-
----
 
 ### B. Data Interpretation — Write the Issues Identified and Outstanding Questions Sections
 
@@ -1322,16 +1182,12 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 **Model Outstanding Questions section:**
 > The high query count from Offices B and C suggests that further guidance on the revised form and implementation procedure may be needed before those offices can progress. The concentration of queries in non-implementing offices suggests a common set of procedural concerns. A consolidated Q&A response may be more efficient than individual replies.
 
----
-
 ### C. Language Focus — Write the Opening Sentence
 
 1. → *This report consolidates feedback from three regional offices on the implementation of the new procedural requirement, following responses received by [date].*
 2. → *This report summarises progress on six action points from the [date] coordination meeting, as reported by the six responsible offices.*
 3. → *This report consolidates implementation concerns submitted by four partner offices following the system update introduced on [date].*
 4. → *This report summarises the status of compliance with the revised interagency communication standards, based on input received from five offices as of [date].*
-
----
 
 ### C. Language Focus — Rewrite for Clarity and Neutrality
 
@@ -1343,8 +1199,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *"Nobody seems to know what to do with the new form."* → Several offices reported uncertainty about the correct application of the updated form, suggesting that a further briefing session or practical guidance note may be needed.
 
----
-
 ### C. Language Focus — Clarify the Action Taken
 
 1. *"We tried to explain things to everyone."* → A plain-language guidance note summarising the key requirements of the revised procedure was prepared and circulated to all partner offices on [date].
@@ -1355,8 +1209,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 
 4. *"The problem was looked into."* → An internal review of the reported processing delays was conducted, identifying [specific cause] as the primary contributing factor.
 
----
-
 ### C. Language Focus — Add a Next-Step Statement
 
 1. *"Some issues still need attention."* → Outstanding implementation concerns will be reviewed by the coordinating unit by [date]. Offices are asked to submit any unresolved questions in writing by [earlier date].
@@ -1366,8 +1218,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 3. *"A meeting will happen soon."* → A follow-up coordination meeting is scheduled for [date]. All offices are asked to submit outstanding questions to the coordinating unit by [earlier date] so that they can be included in the agenda.
 
 4. *"Offices still have concerns."* → Offices with outstanding concerns are asked to submit them in writing to the coordinating unit by [date]. These will be addressed at the next coordination meeting on [date].
-
----
 
 ### D. Information Reorganisation — Sort 8 Sentences into Report Sections
 
@@ -1382,8 +1232,6 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 | 4. *All outstanding questions should be submitted to the coordinating unit by 30 October.* | **Next Steps** |
 | 8. *A coordination meeting is proposed for 10 November.* | **Next Steps** |
 
----
-
 ### G. Editing — Editing Workshop: Consolidated Report Draft
 
 **Original:** *"Many offices had problems with the new guidelines and some actions were taken to fix things. We will meet again soon to sort everything out. The issues are quite complicated and it is hard to know exactly who is responsible for what. There are still some questions but hopefully things will be clearer soon."*
@@ -1396,22 +1244,24 @@ The form instructions should be reviewed and clarified. A coordinated guidance n
 This report consolidates implementation updates from [X] offices following the distribution of the revised applicant communication guidelines.
 
 **Issues Identified**
+
 - Several offices reported difficulty applying the updated terminology, particularly in relation to [specific term or section].
 - [X] offices have not yet adopted the revised form, resulting in delays to the implementation schedule.
 
 **Actions Taken**
+
 - The coordinating unit circulated a supplementary guidance note on [date] to address the most commonly raised queries.
 - Office [X] conducted an internal staff briefing on [date] to support the transition.
 
 **Outstanding Questions**
+
 - Whether the revised guidelines apply to cases that were already in progress before the distribution date.
 - Whether additional terminology guidance is needed before full implementation can proceed.
 
 **Next Steps**
+
 - All offices are asked to submit outstanding questions to the coordinating unit by [date].
 - A follow-up coordination meeting is scheduled for [date] to review progress and resolve outstanding matters.
-
----
 
 ## Unit 22. Integrated Writing Task: Complex Scenario Response
 
@@ -1423,8 +1273,6 @@ This report consolidates implementation updates from [X] offices following the d
 
 **Discussion:** Office A needs a terminology clarification; Office B needs a response to its extension request; all offices need a reminder about the acknowledgement requirement and a resolution plan for the outdated forms issue. A consolidated notice is more efficient than separate responses because it addresses the common implementation theme as a whole.
 
----
-
 ### C. Language Focus — Error Identification and Correction
 
 | Sentence | Problem | Revised version |
@@ -1435,16 +1283,12 @@ This report consolidates implementation updates from [X] offices following the d
 | 4. *"The forms that are old shouldn't be used anymore because they cause problems."* | Informal; imprecise reference | *Offices are reminded that only the current version of the applicant form, circulated with Circular 2024/11, should now be used. The previous version should be discontinued immediately.* |
 | 5. *"Obviously, all offices should have acknowledged receipt of the circular by now."* | Dismissive; inappropriate register | *All offices are reminded that acknowledgement of receipt of Circular 2024/11 is required within seven days of distribution. Offices that have not yet done so are asked to confirm receipt immediately.* |
 
----
-
 ### C. Language Focus — Paragraph-Level Transformation
 
 **Original:** *"Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. The circular needs to be acknowledged. These are all different problems."*
 
 **Model integrated paragraph:**
 > Several implementation issues have emerged since the distribution of Circular 2024/11. Office A has requested clarification on the revised terminology in Section 3; Office B has raised concerns about the feasibility of the 1 February deadline; and meeting notes indicate that several offices continue to use outdated forms, a matter that remains unresolved. In addition, the acknowledgement requirement set out in the circular has not yet been fulfilled by all offices. Taken together, these issues indicate that coordinated guidance and more structured follow-up are now required to support consistent implementation across all examining offices.
-
----
 
 ## Unit 23. Capstone: Full Administrative Writing Assessment
 
@@ -1458,8 +1302,6 @@ This report consolidates implementation updates from [X] offices following the d
 - **Specific, actionable next steps:** Each proposed action includes a named responsible party, a defined deliverable, and a deadline (*"a clarification note... will be prepared and circulated within five working days"*; *"Office B is asked to confirm full adoption... by 31 January"*; *"Offices that have not yet acknowledged receipt... are asked to do so by end of week"*).
 - **Language precision:** *"Two main issues"* frames the analytical structure; *"Additionally"* introduces a separate third matter; *"To address these issues"* signals the transition to action — each phrase performs a clear function.
 
----
-
 ### C. Language Focus — Error Identification: Self-Diagnosis
 
 | Sentence | Problem | Stronger administrative version |
@@ -1470,13 +1312,12 @@ This report consolidates implementation updates from [X] offices following the d
 | 4. *"We've noticed that some of the terminology is confusing, which is causing problems."* | Informal; vague — which terminology? which problems? | *Office A has reported that the term 'submission date' in the revised guidelines is being interpreted differently across examining staff, creating variation in how applications are assessed.* |
 | 5. *"Hopefully the situation will improve once the clarification is sent out."* | Speculative; not action-focused | *Once the clarification note has been circulated, offices are expected to apply the revised terminology consistently to all new cases.* |
 
----
-
 ### G. Editing — Track-Change Simulation
 
 **Original:** *"There are many problems in the offices at the moment and things are not working well. Someone needs to explain the new guidelines again because not everyone understands them. The forms are also an issue. A meeting needs to happen soon. Offices should respond and let us know what is going on. The situation is not ideal but hopefully it will get better."*
 
 **Marked-up decisions:**
+
 - **D** *"and things are not working well"* — redundant following *many problems*
 - **R:** *"Someone needs to explain the new guidelines again..."* → *A clarification note on the revised guidelines will be prepared and circulated to all offices within five working days.*
 - **R:** *"The forms are also an issue."* → *Several offices continue to use an outdated version of the applicant form; all offices are reminded to adopt the current version immediately.*
@@ -1490,8 +1331,6 @@ This report consolidates implementation updates from [X] offices following the d
 > To address these matters: a clarification note will be prepared and circulated within five working days; all offices are asked to confirm adoption of the current form by [date]; and a coordination meeting is proposed for [date] to review remaining outstanding concerns.
 >
 > Offices are asked to submit a brief implementation status update to the coordinating unit by [earlier date].
-
----
 
 # APPENDIX. Unit-by-Unit Exercise Taxonomy
 
@@ -1508,8 +1347,6 @@ This report consolidates implementation updates from [X] offices following the d
 | Extended editing | Identifies source of problem + successful rewrite | Full credit requires both identification and correction |
 | Portfolio / capstone | Integrated skills demonstration | Assess using the holistic framework above |
 
----
-
 ## Common Student Errors by Module
 
 | Module | Common Error | Correction |
@@ -1524,6 +1361,4 @@ This report consolidates implementation updates from [X] offices following the d
 | 12–15 | Background before purpose in external inquiries | Start with purpose and context; do not bury the question at the end |
 | 16–18 | Evaluations that only list strengths or weaknesses | All evaluations must be balanced and evidence-based |
 
----
-
-_End of Advanced Answer Key_
+*End of Advanced Answer Key*
