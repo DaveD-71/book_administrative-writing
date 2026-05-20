@@ -40,7 +40,7 @@ In this unit, you will write:
 
 2. **An internal explanation** summarising the situation for colleagues.
 
-### A. Warm-Up: Understanding the Situation
+#### Warm-Up: Understanding the Situation
 
 Read the scenario and answer the questions.
 
@@ -68,7 +68,7 @@ Write your answers:
 
 - keep the facts the same, but change the tone and detail
 
-### B. Model Check: Why Two Documents Are Needed
+### B. Model Check
 
 In this unit, one situation produces **two different writing jobs**.
 
@@ -92,7 +92,9 @@ Good multi-document writing keeps the same facts but changes:
 - detail
 - immediate purpose
 
-### C. Language - Writing for Two Audiences
+### C. Language Focus
+
+#### 1. Language - Writing for Two Audiences
 
 #### External Email (Polite, Clear, Concise)
 
@@ -118,7 +120,7 @@ Good multi-document writing keeps the same facts but changes:
 
 If the two texts sound almost the same, the audience control is probably too weak.
 
-### C. Practice A - Rewrite for Audience & Tone
+#### 2. Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
@@ -142,7 +144,7 @@ Rewrite each sentence for the correct audience.
 "The form is wrong but they didn't explain well."
 ->
 
-### D. Guided Practice - Write the External Email
+### D. Guided Practice
 
 Write a **4-5 sentence** external follow-up email to the external office based on the scenario.
 
@@ -165,7 +167,7 @@ Use this box for one complete version.
 **External Email**
 {{PH-3: U19-guided-external-email}}
 
-### D. Guided Practice - Write the Internal Explanation
+### D. Guided Practice
 
 Write a **4-5 sentence** explanation for your colleagues or team.
 Include:
@@ -203,15 +205,6 @@ Use this box for one complete version.
 **Internal Explanation**
 {{PH-3: U19-guided-internal-explanation}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing the full pair, check:
-
-1. Did I change the tone for each reader?
-2. Did I keep the facts consistent?
-3. Does each text have a different immediate purpose?
-4. Will each reader understand what matters to them?
-
 ### E. Reader-Control Planning Board
 
 Before writing the full pair, note the same situation in two different ways.
@@ -229,7 +222,22 @@ Before writing the full pair, note the same situation in two different ways.
 Writers often lose audience control because they start drafting too quickly.  
 This board slows the decision down just enough to keep the two texts linked but not identical.
 
-### E. Freer Practice - Choose One Integrated Scenario
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
+
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
+
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
+
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+
+### E. Freer Practice
 
 Choose one scenario and write **both**:
 
@@ -257,7 +265,22 @@ Write each document in its own box.
 **Internal Explanation**
 {{PH-3: U19-paired-internal-explanation}}
 
-### G. Editing Practice: Separate The Reader Needs
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
+
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
+
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
+
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+
+### G. Editing Practice
 
 Rewrite the weak pair below so the external and internal texts do different jobs.
 
@@ -271,7 +294,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U19-editing-rewrite}}
 
-### H. Transfer Extension: Same Fact, New Audience Pair
+### H. Homework & Extension
 
 Choose one earlier unit task.
 
@@ -286,6 +309,12 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U19-transfer-response}}
+
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
+---
+
+**Homework Draft**
+{{PH-3: U19-homework-document}}
 
 ### E. Extended Writing Task - Multi-Purpose Communication
 
@@ -319,21 +348,20 @@ Write each document in its own box.
 **Internal Explanation**
 {{PH-3: U19-extended-internal-explanation}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
 
 2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
 
 3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
-
-### H. Homework
-
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
----
-
-**Homework Draft**
-{{PH-3: U19-homework-document}}
 
 ## Unit 20 - Integrated Task 2: Revision + Notice Writing
 
@@ -368,7 +396,7 @@ Document-control check:
 - external purpose: correct the previously sent information
 - internal purpose: prevent staff from using the wrong date again
 
-### A. Warm-Up: Understanding the Situation
+#### Warm-Up: Understanding the Situation
 
 Read the scenario and answer the questions.
 
@@ -396,7 +424,7 @@ Write your answers:
 
 - the audience and purpose are different
 
-### B. Model Check: Why Connected Documents Need Control
+### B. Model Check
 
 This unit is not only about writing two texts.  
 It is about keeping one corrected fact stable across both texts.
@@ -411,7 +439,9 @@ Revision writing becomes trustworthy when:
 
 If the correction changes between texts, the writing may create more confusion instead of solving it.
 
-### C. Language - Revision vs. Notice
+### C. Language Focus
+
+#### 1. Language - Revision vs. Notice
 
 #### Revision Message (External Office)
 
@@ -446,7 +476,7 @@ Useful phrases:
 The external revision message repairs the relationship with the outside reader.  
 The internal notice repairs shared team understanding.
 
-### C. Practice A - Rewrite for Audience & Tone
+#### 2. Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
@@ -470,7 +500,7 @@ Rewrite each sentence for the appropriate audience.
 "We told them the wrong date."
 ->
 
-### D. Guided Practice - Write the Revision Message
+### D. Guided Practice
 
 Write a **4-5 sentence** message to the external office that received the earlier schedule.
 
@@ -495,7 +525,7 @@ Use this box for one complete version.
 **Revision Message**
 {{PH-3: U20-guided-revision-message}}
 
-### D. Guided Practice - Write the Internal Notice
+### D. Guided Practice
 
 Write a **4-5 sentence** internal notice for colleagues in your section.
 
@@ -515,15 +545,6 @@ Use this box for one complete version.
 
 **Internal Notice**
 {{PH-3: U20-guided-internal-notice}}
-
-### F. Self-Check Before Freer Practice
-
-Before writing both texts, ask:
-
-1. Is the correction exactly the same in both texts?
-2. Is the external tone more polite?
-3. Is the internal version shorter and more factual?
-4. Can each reader see what happens next?
 
 ### E. Correction Control Board
 
@@ -547,7 +568,22 @@ If the corrected fact changes between the two documents, the pair becomes less u
 Keep the corrected fact identical.  
 Change the tone, format, and amount of explanation around that fact.
 
-### E. Freer Practice - Choose One Scenario
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
+
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
+
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
+
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
+
+### E. Freer Practice
 
 Choose one and write both texts:
 
@@ -575,7 +611,22 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-3: U20-internal-notice}}
 
-### G. Editing Practice: Repair The Correction Set
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
+
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
+
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
+
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
+
+### G. Editing Practice
 
 Rewrite this weak pair so both texts stay consistent.
 
@@ -589,7 +640,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U20-editing-rewrite}}
 
-### H. Transfer Extension: Correction Log
+### H. Homework & Extension
 
 Write a short `3-4` line correction log for one scenario in this unit:
 
@@ -602,6 +653,16 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U20-transfer-response}}
+
+Choose a message from a previous unit. Rewrite it as:  
+
+A) a revision email, or  
+
+B) an internal notice.
+---
+
+**Homework Draft**
+{{PH-3: U20-homework-document}}
 
 ### E. Extended Writing Task - Combined Communication Pack
 
@@ -637,25 +698,20 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-3: U20-extended-internal-notice}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
 
 2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
 
 3. How can a well-written correction message reduce repeated errors or repeated questions later?
-
-### H. Homework
-
-Choose a message from a previous unit. Rewrite it as:  
-
-A) a revision email, or  
-
-B) an internal notice.
----
-
-**Homework Draft**
-{{PH-3: U20-homework-document}}
 
 ## Unit 21 - Writing for Consistency Across a Team
 
@@ -700,7 +756,7 @@ Clear team standards help:
 
 - formatting basics
 
-### A. Warm-Up: Spot the Inconsistencies
+#### Warm-Up: Spot the Inconsistencies
 
 Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
 
@@ -728,7 +784,7 @@ Write the inconsistencies you notice:
 
 - Clarity:
 
-### B. Model Check: Why Team Consistency Helps
+### B. Model Check
 
 If one team sends very different styles of email, readers may feel:
 
@@ -745,7 +801,9 @@ Consistency helps because the reader can recognize the team's style quickly:
 - standard body pattern
 - standard closing
 
-### C. Language - Standardising Team Writing
+### C. Language Focus
+
+#### 1. Language - Standardising Team Writing
 
 #### Standard Openings
 
@@ -783,7 +841,7 @@ Consistency helps because the reader can recognize the team's style quickly:
 
 Team consistency is a reader-support tool, not only a style preference.
 
-### C. Practice A - Improve Team Consistency
+#### 2. Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
 
@@ -796,7 +854,7 @@ Rewrite these sentences/emails to make them consistent with team standards.
 3. "Team, The file is wrong. Fix it."
    ->
 
-### C. Practice B - Standardise Format & Tone
+#### 3. Standardise Format & Tone
 
 Rewrite the email with correct formatting, tone, and clarity.
 
@@ -824,7 +882,7 @@ Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
 
-### D. Guided Practice - Rewrite Three Short Messages
+### D. Guided Practice
 
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
@@ -848,16 +906,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U21-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your next rewritten message set, check:
-
-1. Do all messages sound like they come from one team?
-2. Is the tone level stable?
-3. Is the structure similar across the messages?
-4. Is the formatting predictable?
-
-### E. Freer Practice - Rewrite Two Related Messages To One Standard
+### E. Freer Practice
 
 Choose **one** of the situations below and rewrite **both** messages so they follow one shared team standard.
 
@@ -893,7 +942,22 @@ Write each document in its own box.
 **Message 2**
 {{PH-3: U21-message-2}}
 
-### G. Editing Practice: Build One Standard
+### F. Review & Self-Assessment
+
+Before writing your next rewritten message set, check:
+
+1. Do all messages sound like they come from one team?
+2. Is the tone level stable?
+3. Is the structure similar across the messages?
+4. Is the formatting predictable?
+
+1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
+
+2. Which standard phrase or rule from this unit would be most useful as a shared team default?  
+
+3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
+
+### G. Editing Practice
 
 Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly.
 
@@ -907,7 +971,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U21-editing-rewrite}}
 
-### H. Transfer Extension: Turn Your Rewrite Into A Team Rule
+### H. Homework & Extension
 
 Choose one consistency feature from your freer-practice pair.
 
@@ -927,6 +991,14 @@ This keeps the unit focused on message rewriting first, then turns one successfu
 
 **Planning Notes**
 {{PH-1: U21-transfer-notes}}
+
+Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
+
+If you want to use real workplace writing, you may do so, but it is not required.
+---
+
+**Homework Draft**
+{{PH-5: U21-homework-pack}}
 
 ### E. Extended Writing Task - Rewrite a Set of Communications
 
@@ -956,23 +1028,20 @@ Write each document in its own box.
 **Message 3**
 {{PH-2: U21-extended-message-3}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing your next rewritten message set, check:
+
+1. Do all messages sound like they come from one team?
+2. Is the tone level stable?
+3. Is the structure similar across the messages?
+4. Is the formatting predictable?
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
 
 2. Which standard phrase or rule from this unit would be most useful as a shared team default?  
 
 3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
-
-### H. Homework
-
-Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
-
-If you want to use real workplace writing, you may do so, but it is not required.
----
-
-**Homework Draft**
-{{PH-5: U21-homework-pack}}
 
 ## Unit 22 - Multi-Document Communication Task
 
@@ -1003,7 +1072,7 @@ You must produce **three documents**:
 
 3. A **short internal notice** for the team (vertical/internal communication).
 
-### A. Warm-Up: Analyse the Situation
+#### Warm-Up: Analyse the Situation
 
 Answer the questions:
 
@@ -1029,7 +1098,7 @@ Write your answers:
 
 - decide what detail level each reader needs
 
-### B. Model Check: Why Audience Control Matters
+### B. Model Check
 
 This unit is stronger than earlier units because one situation now requires **three** reader views.
 
@@ -1045,7 +1114,9 @@ The tone, detail, and purpose change.
 
 If all three texts sound the same, the communication set does not match the real workplace need.
 
-### C. Language - Three Audiences, Three Styles
+### C. Language Focus
+
+#### 1. Language - Three Audiences, Three Styles
 
 #### (A) Applicant Reply - Polite, supportive, clear
 
@@ -1077,7 +1148,7 @@ If all three texts sound the same, the communication set does not match the real
 
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 
-### C. Practice A - Match Tone to Audience
+#### 2. Match Tone to Audience
 
 Rewrite each sentence for the appropriate audience.
 
@@ -1093,7 +1164,7 @@ Rewrite each sentence for the appropriate audience.
 4. (Applicant) "Send the document quickly."
    ->
 
-### D. Guided Practice - Write the Applicant Reply
+### D. Guided Practice
 
 Write a **4-5 sentence** email replying directly to the applicant.
 Include:
@@ -1115,7 +1186,7 @@ Use this box for one complete version.
 **Applicant Reply**
 {{PH-3: U22-guided-applicant-reply}}
 
-### D. Guided Practice - Write the Colleague Explanation
+### D. Guided Practice
 
 Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
 Include:
@@ -1135,7 +1206,7 @@ Write one sentence on each line where possible.
 **Colleague Explanation**
 {{PH-2: U22-guided-colleague-explanation}}
 
-### D. Guided Practice - Write the Internal Notice
+### D. Guided Practice
 
 Write a **3-4 sentence** notice for the wider team.
 Include:
@@ -1173,15 +1244,6 @@ Use this box for one complete version.
 **Internal Notice**
 {{PH-3: U22-guided-internal-notice}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing the full three-document set, check:
-
-1. Did I identify the three readers clearly?
-2. Does each document have a different job?
-3. Are the shared facts consistent across all three?
-4. Is the tone right for each audience?
-
 ### E. Planning Board - Three Documents from One Situation
 
 Before drafting the full set, map the same situation across the three readers.
@@ -1203,7 +1265,22 @@ Use this quick test:
 - if a sentence explains team workflow only, keep it out of the applicant reply
 - if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
 
-### E. Freer Practice - Full Multi-Document Set
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
+
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
+
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
+
+3. What planning step would help you control consistency across all three documents next time?
+
+### E. Freer Practice
 
 Choose **one** of the scenarios below and write all three documents:
 
@@ -1236,7 +1313,22 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-2: U22-freer-internal-notice}}
 
-### G. Editing Practice: Separate The Three Voices
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
+
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
+
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
+
+3. What planning step would help you control consistency across all three documents next time?
+
+### G. Editing Practice
 
 Rewrite the short draft below into three clearer document openings.
 
@@ -1253,7 +1345,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U22-editing-rewrite}}
 
-### H. Transfer Extension: Cross-Document Consistency Check
+### H. Homework & Extension
 
 Before finalizing the pack, compare the three drafts line by line.
 
@@ -1283,6 +1375,12 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U22-transfer-response}}
+
+Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
+---
+
+**Homework Draft**
+{{PH-3: U22-homework-document}}
 
 ### E. Extended Writing Task - Multi-Audience Communication Pack
 
@@ -1321,21 +1419,20 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-2: U22-multi-doc-internal-notice}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
 
 2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
 
 3. What planning step would help you control consistency across all three documents next time?
-
-### H. Homework
-
-Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
----
-
-**Homework Draft**
-{{PH-3: U22-homework-document}}
 
 ## Unit 23 - Portfolio Writing & Final Revision
 
@@ -1376,7 +1473,7 @@ Your final submission should show:
 
 - Consistency across documents
 
-### A. Warm-Up: Select Your Drafts
+#### Warm-Up: Select Your Drafts
 
 Look back at your writing from Units 1-22.
 Choose **three drafts** you want to improve:
@@ -1392,7 +1489,7 @@ Write the titles or sources of the drafts you chose:
 2.
 3.
 
-### B. Model Check: Why Portfolio Revision Matters
+### B. Model Check
 
 A portfolio is not only a collection of old drafts.  
 It should show that you can:
@@ -1407,7 +1504,9 @@ It should show that you can:
 Revision shows professional control.  
 A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
 
-### C. Language - Advanced Editing Checklist
+### C. Language Focus
+
+#### 1. Language - Advanced Editing Checklist
 
 Before revising your drafts, check for:
 
@@ -1449,7 +1548,7 @@ Before revising your drafts, check for:
 
 4. check formatting and consistency
 
-### C. Practice A - Edit a Draft Email
+#### 2. Edit a Draft Email
 
 Choose **one email** from your previous work.
 Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
@@ -1458,7 +1557,7 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 
 **Revised email:**
 
-### C. Practice B - Edit a Paragraph
+#### 3. Edit a Paragraph
 
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
@@ -1481,7 +1580,7 @@ Revision focus:
 
 **Revised paragraph:**
 
-### C. Practice C - Edit a Notice or Short Message
+#### 4. Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
@@ -1502,15 +1601,6 @@ Mini edit test:
 **Original message:**
 
 **Revised message:**
-
-### F. Self-Check Before Final Submission
-
-Before you submit your portfolio, ask:
-
-1. Does each document match its reader and purpose?
-2. Did I improve accuracy, clarity, and tone?
-3. Are the final versions consistent in formatting and style?
-4. Does the new Unit 23 document fit the rest of the portfolio?
 
 ### E. Portfolio Assembly Board
 
@@ -1534,7 +1624,45 @@ Before finalizing, check:
 - Is one item clearly weaker than the rest?
 - Does the new Unit 23 document add a skill the earlier pieces do not already show?
 
-### D. Guided Practice - Create a New Document
+### F. Review & Self-Assessment
+
+Before you submit your portfolio, ask:
+
+1. Does each document match its reader and purpose?
+2. Did I improve accuracy, clarity, and tone?
+3. Are the final versions consistent in formatting and style?
+4. Does the new Unit 23 document fit the rest of the portfolio?
+
+Before submission, test whether the portfolio really shows range.
+
+| Check question | Yes / No |
+| --- | --- |
+| Does the set include more than one audience type? |  |
+| Does at least one piece explain a problem or status clearly? |  |
+| Does at least one piece ask for or guide action? |  |
+| Does at least one piece show revision from a weaker earlier draft? |  |
+| Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? |  |
+
+**If you answer `No` to any item**
+
+Do not only polish sentence-level grammar.  
+Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
+
+Write each document in its own box.
+
+**Revised External Email**
+{{PH-4: U23-portfolio-external-email}}
+
+**Revised Internal Explanation or Notice**
+{{PH-3: U23-portfolio-internal-document}}
+
+**Revised Report Paragraph**
+{{PH-3: U23-portfolio-report-paragraph}}
+
+**New Unit 23 Document**
+{{PH-4: U23-portfolio-new-document}}
+
+### D. Guided Practice
 
 Write **one new document** based on a scenario below.
 Choose ONE:
@@ -1596,7 +1724,14 @@ Portfolio quality reminder:
 - each document should feel finished enough to keep in a real workplace file set
 - the new Unit 23 piece should not feel weaker than the revised earlier pieces
 
-### F. Portfolio Balance Check
+### F. Review & Self-Assessment
+
+Before you submit your portfolio, ask:
+
+1. Does each document match its reader and purpose?
+2. Did I improve accuracy, clarity, and tone?
+3. Are the final versions consistent in formatting and style?
+4. Does the new Unit 23 document fit the rest of the portfolio?
 
 Before submission, test whether the portfolio really shows range.
 
@@ -1644,6 +1779,26 @@ What is this document supposed to help the reader do next?
 
 If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
 
+### H. Homework & Extension
+
+Write a short plan for future workplace writing.
+
+Include:
+
+- one strength you want to keep using
+- one editing habit you want to remember
+- one area you still want to improve
+
+Write one sentence on each line where possible.
+
+**Write Here**
+{{PH-1: U23-transfer-response}}
+
+Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+**Homework Draft**
+{{PH-3: U23-homework-document}}
+
 ### F. Portfolio Review Rubric
 
 Use this rubric to check your final portfolio. Mark each criterion as:
@@ -1665,7 +1820,7 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 
 Your teacher or reviewer can use a companion marking note aligned to this rubric.
 
-### G. Editing Practice: Explain One Revision Decision
+### G. Editing Practice
 
 Choose one document from your portfolio.
 
@@ -1680,7 +1835,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U23-editing-rewrite}}
 
-### H. Transfer Extension: Next-Time Writing Plan
+### H. Homework & Extension
 
 Write a short plan for future workplace writing.
 
@@ -1695,6 +1850,11 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U23-transfer-response}}
 
+Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+**Homework Draft**
+{{PH-3: U23-homework-document}}
+
 ### F. Reflection
 
 1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?  
@@ -1702,13 +1862,6 @@ Write one sentence on each line where possible.
 2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?  
 
 3. Which revision habit from this course should become part of your real workplace writing routine from now on?  
-
-### H. Homework (Final Course Task)
-
-Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
-
-**Homework Draft**
-{{PH-3: U23-homework-document}}
 
 ## Module 6 Review Workshop
 

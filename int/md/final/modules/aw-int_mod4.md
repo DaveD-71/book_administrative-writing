@@ -50,7 +50,7 @@ Dear Review Office Team,
 We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.  
 Thank you.
 
-### A. Warm-Up: Which Inquiry Is Better?
+#### Warm-Up: Which Inquiry Is Better?
 
 Compare the two versions.
 
@@ -76,7 +76,7 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 
 - asks one clear question at a time
 
-### B. Model Check: Why Email B Works Better
+### B. Model Check
 
 Email B works better because the outside reader gets:
 
@@ -92,7 +92,9 @@ The reader still has to guess what part of the guidelines is causing the problem
 External readers do not share all of your office context.  
 A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
 
-### C. Language 1 - Structure of an External Inquiry
+### C. Language Focus
+
+#### 1. Structure of an External Inquiry
 
 A clear inquiry email usually includes:
 
@@ -108,7 +110,7 @@ A clear inquiry email usually includes:
 
 6. **Sign-off**
 
-### C. Useful Phrases for External Inquiries
+#### 2. Useful Phrases for External Inquiries
 
 #### Background
 
@@ -147,7 +149,7 @@ An external inquiry often needs two jobs:
 1. show the reader why you are asking
 2. show the reader exactly what answer you need
 
-### C. Practice A - Improve the Inquiry
+#### 3. Improve the Inquiry
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
 
@@ -177,7 +179,7 @@ The stronger version works better because the reader can see the context, the ex
 4. "Explain Section 2."
    ->
 
-### C. Practice B - Add Background Information
+#### 4. Add Background Information
 
 Add **one sentence of background** before each question.
 
@@ -203,7 +205,7 @@ The better version helps the reader understand the task situation before they re
 3. Could you explain how the updated rule applies?
    ->
 
-### D. Guided Practice - Write an External Inquiry Email
+### D. Guided Practice
 
 Write a complete inquiry email.
 
@@ -216,28 +218,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own external inquiries, check:
-
-1. Did I give enough background for the outside reader?
-2. Is the question specific?
-3. Did I avoid unnecessary office detail?
-4. Does the closing sound polite and professional?
-
-- **Subject:**
-
-- **Greeting:**
-
-- **Background:**
-
-- **Inquiry question(s):**
-
-- **Closing sentence:**
-
-- **Sign-off:**
-
-### E. Freer Practice - Write Two External Inquiry Emails
+### E. Freer Practice
 
 Choose two situations below.
 For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
@@ -258,7 +239,34 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-freer-document}}
 
-### G. Editing Practice: Make the Inquiry Answerable
+### F. Review & Self-Assessment
+
+Before writing your own external inquiries, check:
+
+1. Did I give enough background for the outside reader?
+2. Is the question specific?
+3. Did I avoid unnecessary office detail?
+4. Does the closing sound polite and professional?
+
+- **Subject:**
+
+- **Greeting:**
+
+- **Background:**
+
+- **Inquiry question(s):**
+
+- **Closing sentence:**
+
+- **Sign-off:**
+
+1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
+
+2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
+
+3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
+
+### G. Editing Practice
 
 Rewrite this inquiry so the outside reader can answer it more easily.
 
@@ -275,7 +283,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U12-editing-rewrite}}
 
-### H. Transfer Extension: Internal Note Before the Inquiry
+### H. Homework & Extension
 
 Choose one inquiry from this unit.
 
@@ -292,7 +300,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U12-transfer-response}}
 
-### E. Extended Writing Task - Inquiry Paragraph
+Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
+
+If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
+---
+
+**Homework Draft**
+{{PH-3: U12-homework-document}}
+
+#### Extended Writing Task - Inquiry Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
 Include:
@@ -328,23 +344,32 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-extended-document}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own external inquiries, check:
+
+1. Did I give enough background for the outside reader?
+2. Is the question specific?
+3. Did I avoid unnecessary office detail?
+4. Does the closing sound polite and professional?
+
+- **Subject:**
+
+- **Greeting:**
+
+- **Background:**
+
+- **Inquiry question(s):**
+
+- **Closing sentence:**
+
+- **Sign-off:**
 
 1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
 
 2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
 
 3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
-
-### H. Homework
-
-Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
-
-If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
----
-
-**Homework Draft**
-{{PH-3: U12-homework-document}}
 
 ## Unit 13 - Providing Simple Explanations
 
@@ -375,7 +400,7 @@ A simple explanation:
 
 The review process will take longer this month because several files require additional checks. These checks are necessary to confirm applicant information. A further update will be provided next week.
 
-### A. Warm-Up: What Information Is Missing?
+#### Warm-Up: What Information Is Missing?
 
 Read each explanation. Identify what is missing.
 
@@ -401,7 +426,7 @@ What is missing?
 
 - understand the effect on the work
 
-### B. Model Check: Why a Better Explanation Works
+### B. Model Check
 
 Compare:
 
@@ -416,7 +441,9 @@ The stronger version works because it gives:
 
 The reader does not need to guess the practical meaning.
 
-### C. Language 1 - Useful Phrases for Explanations
+### C. Language Focus
+
+#### 1. Useful Phrases for Explanations
 
 #### Giving Background
 
@@ -456,7 +483,7 @@ background -> reason -> effect
 
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 
-### C. Practice A - Improve the Explanation
+#### 2. Improve the Explanation
 
 Rewrite the sentences to make the explanations clearer.
 
@@ -486,7 +513,7 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 4. "The system is slow."
    ->
 
-### C. Practice B - Add a Reason or Background
+#### 3. Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason**.
 
@@ -511,7 +538,7 @@ You can test your answer with three quick questions:
 3. The review must be rescheduled.
    ->
 
-### D. Guided Practice - Write a Clear Explanation
+### D. Guided Practice
 
 Write 4-5 sentences.
 
@@ -536,16 +563,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U13-guided-paragraph}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own explanations, check:
-
-1. Did I give enough background?
-2. Did I explain the reason clearly?
-3. Did I show the effect on work or timing?
-4. Is the explanation neutral and easy to follow?
-
-### E. Freer Practice - Write Two Explanations
+### E. Freer Practice
 
 Choose two situations and write explanations.
 For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
@@ -569,7 +587,22 @@ Write each document in its own box.
 **Explanation 2**
 {{PH-2: U13-freer-explanation-2}}
 
-### G. Editing Practice: Add the Missing Link
+### F. Review & Self-Assessment
+
+Before writing your own explanations, check:
+
+1. Did I give enough background?
+2. Did I explain the reason clearly?
+3. Did I show the effect on work or timing?
+4. Is the explanation neutral and easy to follow?
+
+1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
+
+2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
+
+3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
+
+### G. Editing Practice
 
 Rewrite this explanation so the reader can see both the reason and the effect.
 
@@ -584,7 +617,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U13-editing-rewrite}}
 
-### H. Transfer Extension: Explanation for Two Readers
+### H. Homework & Extension
 
 Choose one explanation from this unit.
 
@@ -600,7 +633,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U13-transfer-response}}
 
-### E. Extended Writing Task - Explanatory Paragraph
+Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
+
+If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
+---
+
+**Homework Draft**
+{{PH-2: U13-homework-paragraph}}
+
+#### Extended Writing Task - Explanatory Paragraph
 
 Write a paragraph (6-8 sentences) explaining an issue as part of an internal report for your section lead or manager.
 Include:
@@ -634,23 +675,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U13-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own explanations, check:
+
+1. Did I give enough background?
+2. Did I explain the reason clearly?
+3. Did I show the effect on work or timing?
+4. Is the explanation neutral and easy to follow?
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
 
 2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
 
 3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
-
-### H. Homework
-
-Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
-
-If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
----
-
-**Homework Draft**
-{{PH-2: U13-homework-paragraph}}
 
 ## Unit 14 - Responding to Confusion
 
@@ -679,7 +717,7 @@ When someone is confused, your response should:
 
 Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
 
-### A. Warm-Up: What Is the Confusion?
+#### Warm-Up: What Is the Confusion?
 
 Identify what the reader is confused about.
 
@@ -705,7 +743,7 @@ Write the point of confusion:
 
 - adds one useful detail if needed
 
-### B. Model Check: Why the Stronger Response Works
+### B. Model Check
 
 The example response is stronger because it does three things in order:
 
@@ -724,7 +762,9 @@ When someone is confused, the reader often needs both:
 
 If the writer gives only the correction, the response may feel too abrupt.
 
-### C. Language 1 - Useful Clarification Phrases
+### C. Language Focus
+
+#### 1. Useful Clarification Phrases
 
 #### Acknowledging the Confusion
 
@@ -755,7 +795,7 @@ If the writer gives only the correction, the response may feel too abrupt.
 The response should stay focused on solving the confusion.  
 Do not turn it into a complaint about the other person's mistake.
 
-### C. Practice A - Improve the Response
+#### 2. Improve the Response
 
 Rewrite each response to make it clear and polite.
 
@@ -784,7 +824,7 @@ The stronger version corrects the information without blaming the reader.
 4. "Read the guidelines again."
    ->
 
-### C. Practice B - Add Clarifying Information
+#### 3. Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
@@ -797,7 +837,7 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 3. The instructions refer to two different processes.
    ->
 
-### D. Guided Practice - Write a Clarification Response
+### D. Guided Practice
 
 Write 4-5 sentences.
 
@@ -818,16 +858,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U14-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own responses, check:
-
-1. Did I acknowledge the confusion politely?
-2. Did I restate the correct information clearly?
-3. Did I add one useful detail?
-4. Did I avoid blame?
-
-### E. Freer Practice - Write Two Responses
+### E. Freer Practice
 
 Choose two situations and write your responses.
 For each one, write a short response to the person who is confused or has misunderstood the information.
@@ -851,7 +882,22 @@ Write each document in its own box.
 **Response 2**
 {{PH-3: U14-freer-response-2}}
 
-### G. Editing Practice: Remove the Defensive Tone
+### F. Review & Self-Assessment
+
+Before writing your own responses, check:
+
+1. Did I acknowledge the confusion politely?
+2. Did I restate the correct information clearly?
+3. Did I add one useful detail?
+4. Did I avoid blame?
+
+1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
+
+2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
+
+3. How would your response change if the reader were a colleague instead of an outside contact?
+
+### G. Editing Practice
 
 Rewrite this response so it becomes clearer and more professional.
 
@@ -866,7 +912,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U14-editing-rewrite}}
 
-### H. Transfer Extension: Clarification for a Team Record
+### H. Homework & Extension
 
 Choose one misunderstanding from this unit.
 
@@ -881,7 +927,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U14-transfer-response}}
 
-### E. Extended Writing Task - Clarification Paragraph
+Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
+
+If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
+---
+
+**Homework Draft**
+{{PH-3: U14-homework-document}}
+
+#### Extended Writing Task - Clarification Paragraph
 
 Write a paragraph (6-8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
 Include:
@@ -915,23 +969,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U14-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own responses, check:
+
+1. Did I acknowledge the confusion politely?
+2. Did I restate the correct information clearly?
+3. Did I add one useful detail?
+4. Did I avoid blame?
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
 
 2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
 
 3. How would your response change if the reader were a colleague instead of an outside contact?
-
-### H. Homework
-
-Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
-
-If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
----
-
-**Homework Draft**
-{{PH-3: U14-homework-document}}
 
 ## Unit 15 - Maintaining Consistent Email Style
 
@@ -974,7 +1025,7 @@ Dear Team,
 I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?  
 Thank you.
 
-### A. Warm-Up: Identify the Inconsistencies
+#### Warm-Up: Identify the Inconsistencies
 
 Read the two emails. What is inconsistent?
 
@@ -1006,7 +1057,7 @@ What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 
 - closing and sign-off
 
-### B. Model Check: Why the Consistent Version Works
+### B. Model Check
 
 The consistent version is stronger because every part supports the same professional image:
 
@@ -1023,7 +1074,9 @@ Inconsistent emails slow the reader down because the format and tone change from
 Consistency helps the reader know what to expect.  
 It also helps teams sound reliable instead of random.
 
-### C. Language 1 - Standard Email Elements
+### C. Language Focus
+
+#### 1. Standard Email Elements
 
 Use standardised components to create consistency.
 
@@ -1051,7 +1104,7 @@ Use standardised components to create consistency.
 
 - Please let me know if you need further information.
 
-### C. Practice A - Improve Consistency
+#### 2. Improve Consistency
 
 Rewrite the emails to make them consistent in tone and structure.
 
@@ -1064,7 +1117,7 @@ Rewrite the emails to make them consistent in tone and structure.
 3. "Team, The file is wrong. Fix it."
    ->
 
-### C. Language 2 - Formatting for Clarity and Consistency
+#### 3. Formatting for Clarity and Consistency
 
 Emails should use:
 
@@ -1098,7 +1151,7 @@ Mini comparison:
 
 That is why formatting supports clarity, not only appearance.
 
-### C. Practice B - Reformat the Email
+#### 4. Reformat the Email
 
 Rewrite this email with clear formatting.
 
@@ -1128,7 +1181,7 @@ Hi, I saw the file. It looks wrong. Please explain. Thanks.
 
 Rewrite here:
 
-### D. Guided Practice - Standardise a Draft Email
+### D. Guided Practice
 
 Rewrite the following email to make it consistent.
 
@@ -1145,16 +1198,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U15-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own consistent emails, check:
-
-1. Does the email use a standard opening?
-2. Is the purpose sentence clear?
-3. Does the body sound like the same email as the opening?
-4. Does the closing match the tone?
-
-### E. Freer Practice - Write Two Consistent Emails
+### E. Freer Practice
 
 Choose two situations and write emails using **consistent tone and structure**.
 For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
@@ -1178,7 +1222,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U15-freer-email-2}}
 
-### G. Editing Practice: Bring Two Drafts to One Standard
+### F. Review & Self-Assessment
+
+Before writing your own consistent emails, check:
+
+1. Does the email use a standard opening?
+2. Is the purpose sentence clear?
+3. Does the body sound like the same email as the opening?
+4. Does the closing match the tone?
+
+1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
+
+2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
+
+3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
+
+### G. Editing Practice
 
 Rewrite the two short messages below so they follow the same team style.
 
@@ -1193,7 +1252,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U15-editing-rewrite}}
 
-### H. Transfer Extension: Mini Team Style Rule
+### H. Homework & Extension
 
 Write three style rules your team could use for similar emails.
 
@@ -1210,7 +1269,14 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U15-transfer-response}}
 
-### E. Extended Writing Task - Email Style Guide Paragraph
+Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
+
+If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
+
+**Homework Draft**
+{{PH-3: U15-homework-document}}
+
+#### Extended Writing Task - Email Style Guide Paragraph
 
 Write a paragraph (6-8 sentences) explaining why your team should follow a consistent email style and what elements are important.
 
@@ -1232,22 +1298,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U15-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own consistent emails, check:
+
+1. Does the email use a standard opening?
+2. Is the purpose sentence clear?
+3. Does the body sound like the same email as the opening?
+4. Does the closing match the tone?
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
 2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
 
 3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
-
-### H. Homework
-
-Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
-
-If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
-
-**Homework Draft**
-{{PH-3: U15-homework-document}}
 
 ## Module 4 Review Workshop
 

@@ -28,7 +28,7 @@ By the end of this unit, you should be able to:
 - I can rewrite long or indirect sentences in a simpler administrative style.
 - I can write a short work-related message using clear sentence structure.
 
-### A. Warm-Up: What Makes a Sentence Clear?
+### A. Opening & Activation
 
 Read the pairs of sentences. Choose the one that feels **clearer**.
 
@@ -56,7 +56,7 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 
 - Remove words that do not change the meaning.
 
-### B. Model Check: Why the Stronger Sentence Works
+### B. Model Check
 
 Look again at the three pairs in the warm-up.
 
@@ -80,7 +80,9 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 
-### C. Language 1 - Basic Sentence Pattern (SVO / SVC)
+### C. Language Focus
+
+#### 1. Basic Sentence Pattern (SVO / SVC)
 
 Most clear administrative English sentences follow this simple pattern:
 
@@ -132,7 +134,7 @@ Rewrite the word groups as clear SVO or SVC sentences.
 
 5. (system / show / error message / this morning)
 
-### C. Language 2 - Avoiding Unnecessary Complexity
+#### 2. Avoiding Unnecessary Complexity
 
 Administrative English should be **short, direct, and clear**.
 
@@ -173,7 +175,7 @@ Rewrite each sentence in a clearer, shorter way.
 4. Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
    Clear:
 
-### D. Guided Practice - Rewrite for Clarity
+### D. Guided Practice
 
 Rewrite each sentence so that it is easier to read.
 
@@ -194,18 +196,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U01-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before you write your own message, check each sentence with these questions:
-
-1. Can the reader find the subject quickly?
-2. Can the reader find the main verb quickly?
-3. Is there one main message in the sentence?
-4. Can I replace a long phrase with a shorter one?
-
-If the answer to one of these is `No`, rewrite the sentence before you continue.
-
-### E. Freer Practice - Write Clear Administrative Sentences
+### E. Freer Practice
 
 Write a short message to the applicant in **3-4 clear sentences**.
 
@@ -241,7 +232,34 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U01-freer-document}}
 
-### G. Editing Practice: Fix the Reader Problem
+### F. Review & Self-Assessment
+
+Before you write your own message, check each sentence with these questions:
+
+1. Can the reader find the subject quickly?
+2. Can the reader find the main verb quickly?
+3. Is there one main message in the sentence?
+4. Can I replace a long phrase with a shorter one?
+
+If the answer to one of these is `No`, rewrite the sentence before you continue.
+
+1. What was difficult for you in this unit?
+
+2. Which point do you want to remember when you write emails at work?
+
+3. Choose one clear sentence you wrote today and rewrite it here.
+
+**Final self-edit**
+
+Circle the sentence in your work that is easiest to read.
+
+Then answer:
+
+- Why is that sentence clear?
+- What did you remove or simplify?
+- What will you do again next time?
+
+### G. Editing Practice
 
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
 
@@ -262,7 +280,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U01-editing-rewrite}}
 
-### H. Transfer Extension: Turn Sentences into a Mini Message
+### H. Homework & Extension
 
 Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
 
@@ -280,26 +298,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U01-transfer-response}}
-
-### F. Reflection
-
-1. What was difficult for you in this unit?
-
-2. Which point do you want to remember when you write emails at work?
-
-3. Choose one clear sentence you wrote today and rewrite it here.
-
-**Final self-edit**
-
-Circle the sentence in your work that is easiest to read.
-
-Then answer:
-
-- Why is that sentence clear?
-- What did you remove or simplify?
-- What will you do again next time?
-
-### H. Homework
 
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
@@ -319,7 +317,7 @@ By the end of this unit, you should be able to:
 - I can rewrite direct or emotional wording in a neutral workplace style.
 - I can write a short professional email for a simple administrative situation.
 
-### A. Warm-Up: Which Sounds More Professional?
+### A. Opening & Activation
 
 Read each pair. Choose the sentence that sounds **more appropriate** for workplace communication.
 
@@ -345,7 +343,7 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
 - focuses on the task, not on blame or emotion
 
-### B. Model Check: Why the Stronger Tone Works
+### B. Model Check
 
 Look again at this pair:
 
@@ -361,7 +359,9 @@ The stronger version works because it:
 Professional tone does not mean "very formal words only."  
 It means the reader can cooperate without feeling attacked.
 
-### C. Language 1 - Polite Request Phrases
+### C. Language Focus
+
+#### 1. Polite Request Phrases
 
 Administrative emails often use **softened, polite expressions**.
 
@@ -393,7 +393,7 @@ Rewrite the message using a polite request phrase.
 4. Give me the information.
    ->
 
-### C. Language 2 - Professional Tone in Explanations
+#### 2. Professional Tone in Explanations
 
 Professional tone is:
 
@@ -439,7 +439,7 @@ Rewrite each sentence to make it sound more professional.
 4. I already told you this yesterday.
    ->
 
-### C. Common Useful Phrases for Professional Emails
+#### 3. Common Useful Phrases for Professional Emails
 
 You can use these phrases to make your tone more appropriate:
 
@@ -467,7 +467,7 @@ You can use these phrases to make your tone more appropriate:
 
 - Thank you for your message regarding...
 
-### D. Guided Practice - Rewrite the Email
+### D. Guided Practice
 
 Rewrite the email to make it more polite and professional.
 
@@ -493,18 +493,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U02-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own email, check:
-
-1. Did I greet the reader politely?
-2. Did I explain my purpose clearly?
-3. Did I use one polite request or clarification phrase?
-4. Does the message sound calm and professional?
-
-If one answer is `No`, improve the draft before moving on.
-
-### E. Freer Practice - Write Your Own Professional Email
+### E. Freer Practice
 
 Choose one situation and write a short professional email in **3-4 sentences**.
 
@@ -527,7 +516,33 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U02-freer-document}}
 
-### G. Editing Practice: Remove the Tone Problem
+### F. Review & Self-Assessment
+
+Before writing your own email, check:
+
+1. Did I greet the reader politely?
+2. Did I explain my purpose clearly?
+3. Did I use one polite request or clarification phrase?
+4. Does the message sound calm and professional?
+
+If one answer is `No`, improve the draft before moving on.
+
+1. Which polite expression do you want to remember?
+
+2. What tone problems do you want to avoid in your emails?
+
+3. Write one example of a polite request you can use at work.
+
+**Final self-edit**
+
+Underline the most professional sentence in your freer-practice email.
+
+Then explain in one line:
+
+- why it sounds professional
+- what makes it polite but still clear
+
+### G. Editing Practice
 
 Rewrite each line so it keeps the same purpose but sounds more professional.
 
@@ -548,7 +563,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U02-editing-rewrite}}
 
-### H. Transfer Extension: Same Message, Better Relationship
+### H. Homework & Extension
 
 Choose one of your real workplace situations.
 
@@ -569,25 +584,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U02-transfer-response}}
-
-### F. Reflection
-
-1. Which polite expression do you want to remember?
-
-2. What tone problems do you want to avoid in your emails?
-
-3. Write one example of a polite request you can use at work.
-
-**Final self-edit**
-
-Underline the most professional sentence in your freer-practice email.
-
-Then explain in one line:
-
-- why it sounds professional
-- what makes it polite but still clear
-
-### H. Homework
 
 Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
 
@@ -639,7 +635,7 @@ You can think of a paragraph as answering one simple question such as:
 
 - A single sentence (except in special cases)
 
-### A. When Should You Start a New Paragraph?
+#### When Should You Start a New Paragraph?
 
 Start a new paragraph when:
 
@@ -659,7 +655,7 @@ Start a new paragraph when:
 
 3. Summarising a problem ->Reporting what you did ->What will happen next
 
-### A. Warm-Up: Which Is a Better Paragraph?
+#### Warm-Up: Which Is a Better Paragraph?
 
 Read both paragraphs. Decide which one is **better organised**.
 
@@ -673,7 +669,7 @@ We reviewed the updated guidelines yesterday. The office renovation will begin n
 
 **Discussion:** Why is Paragraph A better?
 
-### B. Model Check: Why the Stronger Paragraph Works
+### B. Model Check
 
 Paragraph A is stronger because all sentences support **one main topic**: the review of the guidelines.
 
@@ -696,7 +692,9 @@ In administrative writing, this matters because the reader often needs to know:
 2. what details matter
 3. what the result or next point is
 
-### C. Language 1 - Three-Part Structure
+### C. Language Focus
+
+#### 1. Three-Part Structure
 
 A strong paragraph usually includes:
 
@@ -712,7 +710,7 @@ A strong paragraph usually includes:
 **Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.  
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 
-### C. Practice A - Identify the Parts
+#### 2. Identify the Parts
 
 Label each sentence:
 
@@ -748,7 +746,7 @@ Your labels:
 2.
 3.
 
-### C. Language 2 - Logical Flow Inside a Paragraph
+#### 3. Logical Flow Inside a Paragraph
 
 A paragraph should follow a clear, logical order:
 
@@ -777,7 +775,7 @@ Choose the facts that belong to the same paragraph job:
 - summarising a result
 - preparing the next section
 
-### C. Practice B - Reorder to Create a Clear Paragraph
+#### 4. Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
@@ -806,7 +804,7 @@ Add one more supporting sentence that continues the explanation without giving i
 ->
 ->
 
-### D. Guided Practice - Write a Better Paragraph
+### D. Guided Practice
 
 Rewrite this paragraph so it has a clear **topic ->support ->closing** structure. Expand it to **5-6 sentences**, and make sure it reads like part of a larger report or document- not a complete message.
 
@@ -820,16 +818,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U03-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Check your paragraph before moving on:
-
-- Does the first sentence show the topic clearly?
-- Do the middle sentences stay on the same idea?
-- Does the final sentence close the paragraph or lead forward?
-- Did I avoid mixing unrelated topics?
-
-### E. Freer Practice - Write a Full Paragraph
+### E. Freer Practice
 
 Write **one administrative paragraph** (5-6 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
@@ -844,39 +833,14 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U03-freer-paragraph}}
 
-### G. Editing Practice: Repair the Paragraph Logic
+### F. Review & Self-Assessment
 
-The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
+Check your paragraph before moving on:
 
-**Original:**
-
-The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
-
-**Rewrite:**
-
-Write the full corrected version below.
-
-**Write Your Revised Version**
-{{PH-2: U03-editing-rewrite}}
-
-### H. Transfer Extension: Build a Report Paragraph
-
-Choose one earlier task from Unit 1 or Unit 2.
-
-Turn it into a short paragraph for a report or internal summary by adding:
-
-- one topic sentence
-- two supporting sentences
-- one closing sentence
-
-This helps you see the link between sentence control, tone control, and paragraph structure.
-
-Write one sentence on each line where possible.
-
-**Write Here**
-{{PH-2: U03-transfer-response}}
-
-### F. Reflection
+- Does the first sentence show the topic clearly?
+- Do the middle sentences stay on the same idea?
+- Does the final sentence close the paragraph or lead forward?
+- Did I avoid mixing unrelated topics?
 
 1. What is one thing you learned about paragraph structure?  
 
@@ -894,7 +858,37 @@ Mark your paragraph:
 
 If one part is missing, revise the paragraph once more before leaving the unit.
 
-### H. Homework
+### G. Editing Practice
+
+The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
+
+**Original:**
+
+The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
+
+**Rewrite:**
+
+Write the full corrected version below.
+
+**Write Your Revised Version**
+{{PH-2: U03-editing-rewrite}}
+
+### H. Homework & Extension
+
+Choose one earlier task from Unit 1 or Unit 2.
+
+Turn it into a short paragraph for a report or internal summary by adding:
+
+- one topic sentence
+- two supporting sentences
+- one closing sentence
+
+This helps you see the link between sentence control, tone control, and paragraph structure.
+
+Write one sentence on each line where possible.
+
+**Write Here**
+{{PH-2: U03-transfer-response}}
 
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
 

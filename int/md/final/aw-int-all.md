@@ -1,4 +1,4 @@
-# MODULE 1. Foundations of Clear Administrative Writing
+﻿# MODULE 1. Foundations of Clear Administrative Writing
 
 ## Module Guide
 
@@ -28,7 +28,7 @@ By the end of this unit, you should be able to:
 - I can rewrite long or indirect sentences in a simpler administrative style.
 - I can write a short work-related message using clear sentence structure.
 
-### A. Warm-Up: What Makes a Sentence Clear?
+### A. Opening & Activation
 
 Read the pairs of sentences. Choose the one that feels **clearer**.
 
@@ -56,7 +56,7 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 
 - Remove words that do not change the meaning.
 
-### B. Model Check: Why the Stronger Sentence Works
+### B. Model Check
 
 Look again at the three pairs in the warm-up.
 
@@ -80,7 +80,9 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 
-### C. Language 1 - Basic Sentence Pattern (SVO / SVC)
+### C. Language Focus
+
+#### 1. Basic Sentence Pattern (SVO / SVC)
 
 Most clear administrative English sentences follow this simple pattern:
 
@@ -132,7 +134,7 @@ Rewrite the word groups as clear SVO or SVC sentences.
 
 5. (system / show / error message / this morning)
 
-### C. Language 2 - Avoiding Unnecessary Complexity
+#### 2. Avoiding Unnecessary Complexity
 
 Administrative English should be **short, direct, and clear**.
 
@@ -173,7 +175,7 @@ Rewrite each sentence in a clearer, shorter way.
 4. Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
    Clear:
 
-### D. Guided Practice - Rewrite for Clarity
+### D. Guided Practice
 
 Rewrite each sentence so that it is easier to read.
 
@@ -194,18 +196,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U01-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before you write your own message, check each sentence with these questions:
-
-1. Can the reader find the subject quickly?
-2. Can the reader find the main verb quickly?
-3. Is there one main message in the sentence?
-4. Can I replace a long phrase with a shorter one?
-
-If the answer to one of these is `No`, rewrite the sentence before you continue.
-
-### E. Freer Practice - Write Clear Administrative Sentences
+### E. Freer Practice
 
 Write a short message to the applicant in **3-4 clear sentences**.
 
@@ -241,7 +232,34 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U01-freer-document}}
 
-### G. Editing Practice: Fix the Reader Problem
+### F. Review & Self-Assessment
+
+Before you write your own message, check each sentence with these questions:
+
+1. Can the reader find the subject quickly?
+2. Can the reader find the main verb quickly?
+3. Is there one main message in the sentence?
+4. Can I replace a long phrase with a shorter one?
+
+If the answer to one of these is `No`, rewrite the sentence before you continue.
+
+1. What was difficult for you in this unit?
+
+2. Which point do you want to remember when you write emails at work?
+
+3. Choose one clear sentence you wrote today and rewrite it here.
+
+**Final self-edit**
+
+Circle the sentence in your work that is easiest to read.
+
+Then answer:
+
+- Why is that sentence clear?
+- What did you remove or simplify?
+- What will you do again next time?
+
+### G. Editing Practice
 
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
 
@@ -262,7 +280,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U01-editing-rewrite}}
 
-### H. Transfer Extension: Turn Sentences into a Mini Message
+### H. Homework & Extension
 
 Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
 
@@ -280,26 +298,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U01-transfer-response}}
-
-### F. Reflection
-
-1. What was difficult for you in this unit?
-
-2. Which point do you want to remember when you write emails at work?
-
-3. Choose one clear sentence you wrote today and rewrite it here.
-
-**Final self-edit**
-
-Circle the sentence in your work that is easiest to read.
-
-Then answer:
-
-- Why is that sentence clear?
-- What did you remove or simplify?
-- What will you do again next time?
-
-### H. Homework
 
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
@@ -319,7 +317,7 @@ By the end of this unit, you should be able to:
 - I can rewrite direct or emotional wording in a neutral workplace style.
 - I can write a short professional email for a simple administrative situation.
 
-### A. Warm-Up: Which Sounds More Professional?
+### A. Opening & Activation
 
 Read each pair. Choose the sentence that sounds **more appropriate** for workplace communication.
 
@@ -345,7 +343,7 @@ Read each pair. Choose the sentence that sounds **more appropriate** for workpla
 
 - focuses on the task, not on blame or emotion
 
-### B. Model Check: Why the Stronger Tone Works
+### B. Model Check
 
 Look again at this pair:
 
@@ -361,7 +359,9 @@ The stronger version works because it:
 Professional tone does not mean "very formal words only."  
 It means the reader can cooperate without feeling attacked.
 
-### C. Language 1 - Polite Request Phrases
+### C. Language Focus
+
+#### 1. Polite Request Phrases
 
 Administrative emails often use **softened, polite expressions**.
 
@@ -393,7 +393,7 @@ Rewrite the message using a polite request phrase.
 4. Give me the information.
    ->
 
-### C. Language 2 - Professional Tone in Explanations
+#### 2. Professional Tone in Explanations
 
 Professional tone is:
 
@@ -439,7 +439,7 @@ Rewrite each sentence to make it sound more professional.
 4. I already told you this yesterday.
    ->
 
-### C. Common Useful Phrases for Professional Emails
+#### 3. Common Useful Phrases for Professional Emails
 
 You can use these phrases to make your tone more appropriate:
 
@@ -467,7 +467,7 @@ You can use these phrases to make your tone more appropriate:
 
 - Thank you for your message regarding...
 
-### D. Guided Practice - Rewrite the Email
+### D. Guided Practice
 
 Rewrite the email to make it more polite and professional.
 
@@ -493,18 +493,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U02-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own email, check:
-
-1. Did I greet the reader politely?
-2. Did I explain my purpose clearly?
-3. Did I use one polite request or clarification phrase?
-4. Does the message sound calm and professional?
-
-If one answer is `No`, improve the draft before moving on.
-
-### E. Freer Practice - Write Your Own Professional Email
+### E. Freer Practice
 
 Choose one situation and write a short professional email in **3-4 sentences**.
 
@@ -527,7 +516,33 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U02-freer-document}}
 
-### G. Editing Practice: Remove the Tone Problem
+### F. Review & Self-Assessment
+
+Before writing your own email, check:
+
+1. Did I greet the reader politely?
+2. Did I explain my purpose clearly?
+3. Did I use one polite request or clarification phrase?
+4. Does the message sound calm and professional?
+
+If one answer is `No`, improve the draft before moving on.
+
+1. Which polite expression do you want to remember?
+
+2. What tone problems do you want to avoid in your emails?
+
+3. Write one example of a polite request you can use at work.
+
+**Final self-edit**
+
+Underline the most professional sentence in your freer-practice email.
+
+Then explain in one line:
+
+- why it sounds professional
+- what makes it polite but still clear
+
+### G. Editing Practice
 
 Rewrite each line so it keeps the same purpose but sounds more professional.
 
@@ -548,7 +563,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U02-editing-rewrite}}
 
-### H. Transfer Extension: Same Message, Better Relationship
+### H. Homework & Extension
 
 Choose one of your real workplace situations.
 
@@ -569,25 +584,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U02-transfer-response}}
-
-### F. Reflection
-
-1. Which polite expression do you want to remember?
-
-2. What tone problems do you want to avoid in your emails?
-
-3. Write one example of a polite request you can use at work.
-
-**Final self-edit**
-
-Underline the most professional sentence in your freer-practice email.
-
-Then explain in one line:
-
-- why it sounds professional
-- what makes it polite but still clear
-
-### H. Homework
 
 Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
 
@@ -639,7 +635,7 @@ You can think of a paragraph as answering one simple question such as:
 
 - A single sentence (except in special cases)
 
-### A. When Should You Start a New Paragraph?
+#### When Should You Start a New Paragraph?
 
 Start a new paragraph when:
 
@@ -659,7 +655,7 @@ Start a new paragraph when:
 
 3. Summarising a problem ->Reporting what you did ->What will happen next
 
-### A. Warm-Up: Which Is a Better Paragraph?
+#### Warm-Up: Which Is a Better Paragraph?
 
 Read both paragraphs. Decide which one is **better organised**.
 
@@ -673,7 +669,7 @@ We reviewed the updated guidelines yesterday. The office renovation will begin n
 
 **Discussion:** Why is Paragraph A better?
 
-### B. Model Check: Why the Stronger Paragraph Works
+### B. Model Check
 
 Paragraph A is stronger because all sentences support **one main topic**: the review of the guidelines.
 
@@ -696,7 +692,9 @@ In administrative writing, this matters because the reader often needs to know:
 2. what details matter
 3. what the result or next point is
 
-### C. Language 1 - Three-Part Structure
+### C. Language Focus
+
+#### 1. Three-Part Structure
 
 A strong paragraph usually includes:
 
@@ -712,7 +710,7 @@ A strong paragraph usually includes:
 **Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.  
 **Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 
-### C. Practice A - Identify the Parts
+#### 2. Identify the Parts
 
 Label each sentence:
 
@@ -748,7 +746,7 @@ Your labels:
 2.
 3.
 
-### C. Language 2 - Logical Flow Inside a Paragraph
+#### 3. Logical Flow Inside a Paragraph
 
 A paragraph should follow a clear, logical order:
 
@@ -777,7 +775,7 @@ Choose the facts that belong to the same paragraph job:
 - summarising a result
 - preparing the next section
 
-### C. Practice B - Reorder to Create a Clear Paragraph
+#### 4. Reorder to Create a Clear Paragraph
 
 Put these sentences in a logical order, then add **one more supporting sentence**.
 
@@ -806,7 +804,7 @@ Add one more supporting sentence that continues the explanation without giving i
 ->
 ->
 
-### D. Guided Practice - Write a Better Paragraph
+### D. Guided Practice
 
 Rewrite this paragraph so it has a clear **topic ->support ->closing** structure. Expand it to **5-6 sentences**, and make sure it reads like part of a larger report or document- not a complete message.
 
@@ -820,16 +818,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U03-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Check your paragraph before moving on:
-
-- Does the first sentence show the topic clearly?
-- Do the middle sentences stay on the same idea?
-- Does the final sentence close the paragraph or lead forward?
-- Did I avoid mixing unrelated topics?
-
-### E. Freer Practice - Write a Full Paragraph
+### E. Freer Practice
 
 Write **one administrative paragraph** (5-6 sentences) that feels like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on presenting information, background, and explanation.
 
@@ -844,39 +833,14 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U03-freer-paragraph}}
 
-### G. Editing Practice: Repair the Paragraph Logic
+### F. Review & Self-Assessment
 
-The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
+Check your paragraph before moving on:
 
-**Original:**
-
-The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
-
-**Rewrite:**
-
-Write the full corrected version below.
-
-**Write Your Revised Version**
-{{PH-2: U03-editing-rewrite}}
-
-### H. Transfer Extension: Build a Report Paragraph
-
-Choose one earlier task from Unit 1 or Unit 2.
-
-Turn it into a short paragraph for a report or internal summary by adding:
-
-- one topic sentence
-- two supporting sentences
-- one closing sentence
-
-This helps you see the link between sentence control, tone control, and paragraph structure.
-
-Write one sentence on each line where possible.
-
-**Write Here**
-{{PH-2: U03-transfer-response}}
-
-### F. Reflection
+- Does the first sentence show the topic clearly?
+- Do the middle sentences stay on the same idea?
+- Does the final sentence close the paragraph or lead forward?
+- Did I avoid mixing unrelated topics?
 
 1. What is one thing you learned about paragraph structure?  
 
@@ -894,7 +858,37 @@ Mark your paragraph:
 
 If one part is missing, revise the paragraph once more before leaving the unit.
 
-### H. Homework
+### G. Editing Practice
+
+The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences.
+
+**Original:**
+
+The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
+
+**Rewrite:**
+
+Write the full corrected version below.
+
+**Write Your Revised Version**
+{{PH-2: U03-editing-rewrite}}
+
+### H. Homework & Extension
+
+Choose one earlier task from Unit 1 or Unit 2.
+
+Turn it into a short paragraph for a report or internal summary by adding:
+
+- one topic sentence
+- two supporting sentences
+- one closing sentence
+
+This helps you see the link between sentence control, tone control, and paragraph structure.
+
+Write one sentence on each line where possible.
+
+**Write Here**
+{{PH-2: U03-transfer-response}}
 
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
 
@@ -1082,7 +1076,7 @@ A professional email has a **clear structure** so that the reader can easily und
 
 6. **Sign-off** - polite closing phrase + name
 
-### A. Warm-Up: Which Email Is Better?
+#### Warm-Up: Which Email Is Better?
 
 Read the two emails and choose which one is clearer and more professional.
 
@@ -1122,7 +1116,7 @@ Thank you,
 
 - Does the closing sound polite and professional?
 
-### B. Model Check: Why Email B Works Better
+### B. Model Check
 
 Email B is stronger because every part has a clear job:
 
@@ -1144,7 +1138,9 @@ It is weak because the reader still has to ask:
 A professional email helps the reader act quickly.  
 The reader should understand the purpose without guessing.
 
-### C. Language 1 - Subject Lines
+### C. Language Focus
+
+#### 1. Subject Lines
 
 A good subject line is:
 
@@ -1190,7 +1186,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 - Confirmation Notice Status
 
-### C. Language 2 - Openings and Closings
+#### 2. Openings and Closings
 
 #### Common Openings
 
@@ -1234,7 +1230,7 @@ Select an appropriate opening and closing for each situation.
 
    - Closing:
 
-### C. Language 3 - Opening Sentences (Purpose)
+#### 3. Opening Sentences (Purpose)
 
 The first sentence must tell the reader **why you are writing**.
 
@@ -1273,7 +1269,7 @@ Write a clear opening sentence for each situation.
 3. You want to give information about a system update.
    ->
 
-### D. Guided Practice - Build a Complete Email
+### D. Guided Practice
 
 Use the prompts to write a simple, clear email.
 
@@ -1298,16 +1294,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U04-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own email, check:
-
-1. Can the reader understand the purpose from the subject line and first sentence?
-2. Is the question or information specific enough?
-3. Is the body short but complete?
-4. Does the closing sound professional?
-
-### E. Freer Practice - Write Your Own Email
+### E. Freer Practice
 
 Choose one situation and write one complete email in **3-4 sentences**.
 
@@ -1336,7 +1323,22 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U04-freer-document}}
 
-### G. Editing Practice: Repair the Email Structure
+### F. Review & Self-Assessment
+
+Before writing your own email, check:
+
+1. Can the reader understand the purpose from the subject line and first sentence?
+2. Is the question or information specific enough?
+3. Is the body short but complete?
+4. Does the closing sound professional?
+
+1. Which part of the email is easiest for you?  
+
+2. Which part is most difficult?  
+
+3. Which new phrase do you want to use in real emails?
+
+### G. Editing Practice
 
 Rewrite the email so each part has a clear job.
 
@@ -1357,7 +1359,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U04-editing-rewrite}}
 
-### H. Transfer Extension: Build Two Purpose Lines
+### H. Homework & Extension
 
 For each situation below, write:
 
@@ -1374,16 +1376,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U04-transfer-response}}
-
-### F. Reflection
-
-1. Which part of the email is easiest for you?  
-
-2. Which part is most difficult?  
-
-3. Which new phrase do you want to use in real emails?
-
-### H. Homework
 
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 
@@ -1404,7 +1396,7 @@ By the end of this unit, you should be able to:
 - I can write a short clarification email about one clear problem.
 - I can explain, in a short paragraph, why clarification is needed in a workplace situation.
 
-### A. Warm-Up: What Is Unclear?
+### A. Opening & Activation
 
 Read the sentences below. Identify what is **unclear** or **missing**.
 
@@ -1430,7 +1422,7 @@ Write what you would need to know:
 
 - stays polite and neutral
 
-### B. Model Check: Why a Better Clarification Question Works
+### B. Model Check
 
 Compare:
 
@@ -1445,7 +1437,9 @@ The stronger question works because it:
 
 The weak question may sound frustrated and gives the reader no clear starting point.
 
-### C. Language 1 - Useful Clarification Phrases
+### C. Language Focus
+
+#### 1. Useful Clarification Phrases
 
 Use these phrases when the information is not clear.
 
@@ -1469,7 +1463,7 @@ Use these phrases when the information is not clear.
 
 - Should I understand that...?
 
-### C. Practice A - Make These Questions Clearer
+#### 2. Make These Questions Clearer
 
 Rewrite the questions to make them specific and professional.
 
@@ -1496,7 +1490,7 @@ Mini contrast:
 4. What should I do?  
    ->
 
-### C. Language 2 - Asking About Missing or Confusing Information
+#### 3. Asking About Missing or Confusing Information
 
 #### Common Situations
 
@@ -1526,7 +1520,7 @@ Clarification writing is easier to answer when the reader does not need to guess
 - where the problem is
 - what kind of answer is needed
 
-### C. Practice B - Improve the Clarity
+#### 4. Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
@@ -1542,7 +1536,7 @@ Rewrite each sentence as a better clarification question.
 4. "The system doesn't work."  
    ->
 
-### C. Practice C - Clarification from Context
+#### 5. Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
@@ -1583,7 +1577,7 @@ Rewrite each unclear message into a **clear, polite clarification request**.
 4. "This part is wrong."
    ->
 
-### D. Guided Practice - Write a Clarification Email
+#### Guided Practice
 
 Write an email asking for clarification.
 
@@ -1608,16 +1602,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U05-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own clarification email, check:
-
-1. Did I identify one clear unclear point?
-2. Did I ask a specific question?
-3. Did I avoid blame or frustration?
-4. Could the reader answer without asking me another question first?
-
-### E. Freer Practice - Write Two Clarification Emails
+### E. Freer Practice
 
 Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**.
 
@@ -1638,7 +1623,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U05-freer-email-2}}
 
-### G. Editing Practice: Fix the Clarification Problem
+### F. Review & Self-Assessment
+
+Before writing your own clarification email, check:
+
+1. Did I identify one clear unclear point?
+2. Did I ask a specific question?
+3. Did I avoid blame or frustration?
+4. Could the reader answer without asking me another question first?
+
+1. Which clarification phrase is most useful for you?  
+
+2. Do you find it difficult to ask questions politely? Why or why not?  
+
+3. Write one clarification question you can use in your work.
+
+### G. Editing Practice
 
 Rewrite each message as a better clarification request.
 
@@ -1659,7 +1659,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U05-editing-rewrite}}
 
-### H. Transfer Extension: One Topic, One Email
+### H. Homework & Extension
 
 Choose one of the freer-practice topics.
 
@@ -1676,7 +1676,15 @@ Then note:
 **Planning Notes**
 {{PH-1: U05-transfer-notes}}
 
-### E. Extended Writing Task - Clarification Summary Paragraph
+Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
+
+If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
+---
+
+**Homework Draft**
+{{PH-3: U05-homework-document}}
+
+#### Extended Writing Task - Clarification Summary Paragraph
 
 Write one **informational paragraph** (5-6 sentences) explaining a situation where clarification is needed.
 Your paragraph should:
@@ -1710,23 +1718,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U05-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own clarification email, check:
+
+1. Did I identify one clear unclear point?
+2. Did I ask a specific question?
+3. Did I avoid blame or frustration?
+4. Could the reader answer without asking me another question first?
 
 1. Which clarification phrase is most useful for you?  
 
 2. Do you find it difficult to ask questions politely? Why or why not?  
 
 3. Write one clarification question you can use in your work.
-
-### H. Homework
-
-Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
-
-If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
----
-
-**Homework Draft**
-{{PH-3: U05-homework-document}}
 
 ## Unit 6 - Communicating Delays or Changes
 
@@ -1739,7 +1744,7 @@ By the end of this unit, you should be able to:
 - I can write a short update email about a delay or schedule change.
 - I can summarise a delay or change in a short report-style paragraph.
 
-### A. Warm-Up: What Information Is Missing?
+### A. Opening & Activation
 
 Read each message and identify what information a reader would still need.
 
@@ -1767,7 +1772,7 @@ Write what is missing:
 
 4. What happens next?
 
-### B. Model Check: Why a Good Update Helps the Reader
+### B. Model Check
 
 Compare these two ideas:
 
@@ -1782,7 +1787,9 @@ The stronger version works because the reader learns:
 
 That reduces uncertainty and extra follow-up questions.
 
-### C. Language 1 - Useful Phrases for Delays and Changes
+### C. Language Focus
+
+#### 1. Useful Phrases for Delays and Changes
 
 #### Neutral Phrases
 
@@ -1816,7 +1823,7 @@ That reduces uncertainty and extra follow-up questions.
 
 - The new schedule will be shared shortly.
 
-### C. Practice A - Improve the Clarity
+#### 2. Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
@@ -1843,7 +1850,7 @@ Mini contrast:
 4. "The system is slow."
    ->
 
-### C. Language 2 - Logical Order for Update Messages
+#### 3. Logical Order for Update Messages
 
 A clear update message usually follows this pattern:
 
@@ -1870,7 +1877,7 @@ The paragraph moves in a useful order:
 
 This order helps the reader understand both the situation and the practical meaning of the delay.
 
-### C. Practice B - Reorder to Make a Clear Update
+#### 4. Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
 
@@ -1884,7 +1891,7 @@ Write the best order:
 2.
 3.
 
-### C. Practice C - Add Supporting Information
+#### 5. Add Supporting Information
 
 Expand each message to 2-3 sentences by adding supporting information.
 
@@ -1897,7 +1904,7 @@ Expand each message to 2-3 sentences by adding supporting information.
 3. "There has been a change in the procedure."
    ->
 
-### D. Guided Practice - Write an Update Email
+### D. Guided Practice
 
 Write a clear and neutral email explaining a delay or change.
 
@@ -1922,16 +1929,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U06-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own update email, check:
-
-1. Did I state the change clearly?
-2. Did I add the reason or background if needed?
-3. Did I show the effect on the reader or schedule?
-4. Did I include a neutral next-step line?
-
-### E. Freer Practice - Choose a Scenario and Write
+### E. Freer Practice
 
 Write **two short update emails** (3-4 sentences each).
 
@@ -1960,7 +1958,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U06-freer-email-2}}
 
-### G. Editing Practice: Remove the Reader's Uncertainty
+### F. Review & Self-Assessment
+
+Before writing your own update email, check:
+
+1. Did I state the change clearly?
+2. Did I add the reason or background if needed?
+3. Did I show the effect on the reader or schedule?
+4. Did I include a neutral next-step line?
+
+1. What phrases do you find most useful for explaining delays or changes?
+
+2. Is it difficult for you to give neutral explanations without sounding too direct?
+
+3. Which part of this unit was easiest or hardest for you?
+
+### G. Editing Practice
 
 Rewrite each update so the reader does not need to ask a second question.
 
@@ -1981,7 +1994,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U06-editing-rewrite}}
 
-### H. Transfer Extension: Turn an Email Update into a Report Line
+### H. Homework & Extension
 
 Choose one update message you wrote in this unit.
 
@@ -1998,7 +2011,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U06-transfer-response}}
 
-### E. Extended Writing Task - Update Summary Paragraph
+Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
+
+If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
+---
+
+**Homework Draft**
+{{PH-3: U06-homework-document}}
+
+#### Extended Writing Task - Update Summary Paragraph
 
 Write a paragraph (5-6 sentences) summarising a delay or change as part of a report or internal update.
 
@@ -2017,23 +2038,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U06-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own update email, check:
+
+1. Did I state the change clearly?
+2. Did I add the reason or background if needed?
+3. Did I show the effect on the reader or schedule?
+4. Did I include a neutral next-step line?
 
 1. What phrases do you find most useful for explaining delays or changes?
 
 2. Is it difficult for you to give neutral explanations without sounding too direct?
 
 3. Which part of this unit was easiest or hardest for you?
-
-### H. Homework
-
-Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
-
-If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
----
-
-**Homework Draft**
-{{PH-3: U06-homework-document}}
 
 ## Unit 7 - Making Requests Politely
 
@@ -2046,7 +2064,7 @@ By the end of this unit, you should be able to:
 - I can soften a request without making it unclear.
 - I can write a short professional email requesting information or action.
 
-### A. Warm-Up: Which Request Sounds More Appropriate?
+### A. Opening & Activation
 
 Read each pair. Choose the request that sounds more professional.
 
@@ -2074,7 +2092,7 @@ Read each pair. Choose the request that sounds more professional.
 
 - close without pressure
 
-### B. Model Check: Why the Polite Version Works
+### B. Model Check
 
 Compare:
 
@@ -2087,7 +2105,9 @@ The stronger version works because it:
 - tells the reader exactly what is needed
 - gives a reason that makes the request easier to understand
 
-### C. Language 1 - Levels of Politeness in Requests
+### C. Language Focus
+
+#### 1. Levels of Politeness in Requests
 
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
@@ -2135,7 +2155,7 @@ Often a request is clearer when you add **one short context sentence**.
 
 - This will help us complete the process.
 
-### C. Practice A - Rewrite the Request
+#### 2. Rewrite the Request
 
 Rewrite each message to make it **polite, clear, and complete**.
 
@@ -2164,7 +2184,7 @@ Mini request frame:
 4. "Give me the information."
    ->
 
-### C. Language 2 - Requests with Specific Details
+#### 3. Requests with Specific Details
 
 A good request includes:
 
@@ -2182,7 +2202,7 @@ A good request includes:
 
 - I would appreciate it if you could confirm **the applicant's submission date**.
 
-### C. Practice B - Make the Request More Specific
+#### 4. Make the Request More Specific
 
 Each message below is polite but **not specific**. Improve it.
 
@@ -2209,7 +2229,7 @@ Mini contrast:
 4. "Could you update me?"
    ->
 
-### C. Language 3 - Requests Without Sounding Too Direct
+#### 5. Requests Without Sounding Too Direct
 
 Administrative English avoids:
 
@@ -2239,7 +2259,7 @@ Good request writing balances:
 
 - when available
 
-### C. Practice C - Soften the Request
+#### 6. Soften the Request
 
 Rewrite each message so it is **polite but not weak**, using softening phrases.
 
@@ -2255,7 +2275,7 @@ Rewrite each message so it is **polite but not weak**, using softening phrases.
 4. "Give me the corrected file as soon as possible."
    ->
 
-### D. Guided Practice - Write a Request Email
+### D. Guided Practice
 
 Use the prompts to write a complete request email.
 
@@ -2282,16 +2302,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U07-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your request email, check:
-
-1. Is the request clear?
-2. Is the request specific enough?
-3. Did I add a short reason if it helps?
-4. Did I avoid pressure words or commands?
-
-### E. Freer Practice - Write Two Request Emails
+### E. Freer Practice
 
 Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below:
@@ -2323,7 +2334,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U07-freer-email-2}}
 
-### G. Editing Practice: Keep the Request, Improve the Tone
+### F. Review & Self-Assessment
+
+Before writing your request email, check:
+
+1. Is the request clear?
+2. Is the request specific enough?
+3. Did I add a short reason if it helps?
+4. Did I avoid pressure words or commands?
+
+1. What polite request phrase do you prefer using?
+
+2. Do you sometimes write requests that are too direct? Why?
+
+3. Which softening phrase will you try in future emails?
+
+### G. Editing Practice
 
 Rewrite each message so it keeps the same request but sounds more professional.
 
@@ -2344,7 +2370,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U07-editing-rewrite}}
 
-### H. Transfer Extension: One Need, Two Levels of Politeness
+### H. Homework & Extension
 
 Choose one request from your real work.
 
@@ -2365,7 +2391,14 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U07-transfer-response}}
 
-### E. Extended Writing Task - Request Paragraph
+Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
+
+If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
+
+**Homework Draft**
+{{PH-3: U07-homework-document}}
+
+#### Extended Writing Task - Request Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) explaining:
 
@@ -2384,22 +2417,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U07-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your request email, check:
+
+1. Is the request clear?
+2. Is the request specific enough?
+3. Did I add a short reason if it helps?
+4. Did I avoid pressure words or commands?
 
 1. What polite request phrase do you prefer using?
 
 2. Do you sometimes write requests that are too direct? Why?
 
 3. Which softening phrase will you try in future emails?
-
-### H. Homework
-
-Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
-
-If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
-
-**Homework Draft**
-{{PH-3: U07-homework-document}}
 
 ## Module 2 Review Workshop
 
@@ -2583,9 +2614,6 @@ Before you send a clarification or request email, add one short planning line:
 
 This keeps the message sequence practical and helps the first email lead more naturally to the next step.
 
-
-
-
 # MODULE 3. Writing Procedures & Internal Explanations
 
 ## Module Guide
@@ -2643,7 +2671,7 @@ Steps to create a new file record:
 
 4. Save the record and confirm the entry.
 
-### A. Warm-Up: Which Procedure Is Better?
+#### Warm-Up: Which Procedure Is Better?
 
 Compare the two versions. Choose the clearer one.
 
@@ -2673,7 +2701,7 @@ Compare the two versions. Choose the clearer one.
 
 - stay consistent in format and wording
 
-### B. Model Check: Why Version B Works Better
+### B. Model Check
 
 Version B is stronger because each step has **one clear action**.
 
@@ -2693,7 +2721,9 @@ Procedures reduce reader error when:
 - each step has one job
 - the format stays consistent
 
-### C. Language 1 - Clear Instruction Verbs
+### C. Language Focus
+
+#### 1. Clear Instruction Verbs
 
 Common verbs used in procedures:
 
@@ -2729,7 +2759,7 @@ Mini contrast:
 
 The stronger version tells the reader exactly what action sequence to follow.
 
-### C. Practice A - Improve the Verb Choice
+#### 2. Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
 
@@ -2745,7 +2775,7 @@ Rewrite each instruction using a **clear action verb**.
 4. "Send it to the right place."
    ->
 
-### C. Language 2 - Logical Order
+#### 3. Logical Order
 
 Procedures must follow a logical sequence.
 
@@ -2754,7 +2784,7 @@ Procedures must follow a logical sequence.
 If the order is wrong, even correct instructions can cause mistakes.  
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 
-### C. Practice B - Put the Steps in Order
+#### 4. Put the Steps in Order
 
 Steps for verifying an application:
 A. Review the file for missing documents.
@@ -2768,7 +2798,7 @@ Write the correct order:
 3.
 4.
 
-### C. Practice C - Add Missing Steps
+#### 5. Add Missing Steps
 
 Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
@@ -2788,7 +2818,7 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 3.
 4.
 
-### D. Guided Practice - Write a Simple Procedure
+### D. Guided Practice
 
 Write a short procedure (4-5 steps) based on the situation.
 
@@ -2809,16 +2839,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U08-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own procedures, check:
-
-1. Does each step begin with a clear action verb?
-2. Is one step doing only one main job?
-3. Does the order match the real task?
-4. Will the user know when the task is finished?
-
-### E. Freer Practice - Write Two Procedures
+### E. Freer Practice
 
 Write **two different procedures** (4-5 steps each).
 Choose any two situations below:
@@ -2855,7 +2876,22 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U08-freer-document}}
 
-### E. Extended Writing Task - Write a Section of a Simple Manual
+### F. Review & Self-Assessment
+
+Before writing your own procedures, check:
+
+1. Does each step begin with a clear action verb?
+2. Is one step doing only one main job?
+3. Does the order match the real task?
+4. Will the user know when the task is finished?
+
+1. What is difficult about writing procedures?
+
+2. Do you prefer numbered steps or bullet points? Why?
+
+3. Which instruction verbs are useful for your work?
+
+#### Extended Writing Task - Write a Section of a Simple Manual
 
 Write a **short manual section** using this fixed format:
 
@@ -2890,7 +2926,22 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U08-extended-document}}
 
-### G. Editing Practice: Repair the Procedure
+#### Review & Self-Assessment
+
+Before writing your own procedures, check:
+
+1. Does each step begin with a clear action verb?
+2. Is one step doing only one main job?
+3. Does the order match the real task?
+4. Will the user know when the task is finished?
+
+1. What is difficult about writing procedures?
+
+2. Do you prefer numbered steps or bullet points? Why?
+
+3. Which instruction verbs are useful for your work?
+
+### G. Editing Practice
 
 Rewrite this procedure so it becomes clearer and easier to follow.
 
@@ -2907,7 +2958,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U08-editing-rewrite}}
 
-### H. Transfer Extension: Procedure for a New User
+### H. Homework & Extension
 
 Choose one workplace task you know well.
 
@@ -2925,16 +2976,6 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U08-transfer-response}}
-
-### F. Reflection
-
-1. What is difficult about writing procedures?
-
-2. Do you prefer numbered steps or bullet points? Why?
-
-3. Which instruction verbs are useful for your work?
-
-### H. Homework
 
 Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 
@@ -2972,7 +3013,7 @@ An **internal notice** is a short message shared inside a department or organisa
 Internal Notice - File System Update  
 The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
 
-### A. Warm-Up: Which Notice Is Clearer?
+#### Warm-Up: Which Notice Is Clearer?
 
 Read the two notices. Choose the clearer one.
 
@@ -2997,7 +3038,7 @@ A temporary system error occurred this morning. Some users may have experienced 
 
 - Does the notice show what happens next?
 
-### B. Model Check: Why Notice B Works Better
+### B. Model Check
 
 Notice B is stronger because it gives the reader a usable structure:
 
@@ -3017,7 +3058,9 @@ Notice A feels weak because the reader still does not know:
 A notice is useful when it reduces uncertainty.  
 The reader should be able to understand the situation without asking a second question immediately.
 
-### C. Language 1 - Structure of an Internal Notice
+### C. Language Focus
+
+#### 1. Structure of an Internal Notice
 
 A clear internal notice usually includes:
 
@@ -3034,7 +3077,7 @@ A clear internal notice usually includes:
 Internal Notice - Document Review Schedule  
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 
-### C. Practice A - Identify the Parts
+#### 2. Identify the Parts
 
 Label each part with: **H = Heading**, **B = Background**, **E = Essential information**, **N = Next step**.
 
@@ -3052,7 +3095,7 @@ Your answers:
 3.
 4.
 
-### C. Language 2 - Neutral Tone
+#### 3. Neutral Tone
 
 Internal notices use **neutral, factual language**. Avoid:
 
@@ -3076,7 +3119,7 @@ Internal notices use **neutral, factual language**. Avoid:
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    ->
 
-### C. Practice B - Improve the Clarity
+#### 4. Improve the Clarity
 
 Rewrite each notice so it is clearer and more professional.
 
@@ -3105,7 +3148,7 @@ Mini notice frame:
 4. "The documents are not ready yet."
    ->
 
-### D. Guided Practice - Write a Short Internal Notice
+### D. Guided Practice
 
 Write a notice based on the situation below.
 
@@ -3126,16 +3169,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U09-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Check your notice before moving on:
-
-1. Is the topic clear?
-2. Is the language factual, not emotional?
-3. Does the message tell the reader what happens next?
-4. Is the notice short but complete?
-
-### E. Freer Practice - Write Two Notices
+### E. Freer Practice
 
 Choose two situations and write two internal notices.
 Write each notice for colleagues inside your organisation.
@@ -3159,7 +3193,22 @@ Write each document in its own box.
 **Notice 2**
 {{PH-3: U09-freer-notice-2}}
 
-### E. Notice Control Board
+### F. Review & Self-Assessment
+
+Check your notice before moving on:
+
+1. Is the topic clear?
+2. Is the language factual, not emotional?
+3. Does the message tell the reader what happens next?
+4. Is the notice short but complete?
+
+1. What makes a notice effective or ineffective?  
+
+2. Which part of the notice structure do you find most difficult?  
+
+3. Do you prefer short notices or longer bulletin-style notices? Why?
+
+#### Notice Control Board
 
 Use this board before you draft so each notice tells staff what changed, why it matters, and what they should do next.
 
@@ -3172,7 +3221,22 @@ Use this board before you draft so each notice tells staff what changed, why it 
 
 `Why this works`: internal notices are useful only when readers can quickly see the update, the reason, and the action point.
 
-### G. Editing Practice: Strengthen the Notice
+#### Review & Self-Assessment
+
+Check your notice before moving on:
+
+1. Is the topic clear?
+2. Is the language factual, not emotional?
+3. Does the message tell the reader what happens next?
+4. Is the notice short but complete?
+
+1. What makes a notice effective or ineffective?  
+
+2. Which part of the notice structure do you find most difficult?  
+
+3. Do you prefer short notices or longer bulletin-style notices? Why?
+
+### G. Editing Practice
 
 Rewrite this weak internal notice as a clearer one.
 
@@ -3199,7 +3263,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U09-editing-rewrite}}
 
-### H. Transfer Extension: From Notice to Bulletin
+### H. Homework & Extension
 
 Choose one short notice you wrote in this unit.
 
@@ -3216,7 +3280,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U09-transfer-response}}
 
-### E. Extended Writing Task - Internal Bulletin Section
+Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
+
+If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
+---
+
+**Homework Draft**
+{{PH-3: U09-homework-document}}
+
+#### Extended Writing Task - Internal Bulletin Section
 
 Write a section for an internal bulletin (6-8 sentences) read by staff in your department. Include:
 
@@ -3249,23 +3321,20 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U09-extended-document}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Check your notice before moving on:
+
+1. Is the topic clear?
+2. Is the language factual, not emotional?
+3. Does the message tell the reader what happens next?
+4. Is the notice short but complete?
 
 1. What makes a notice effective or ineffective?  
 
 2. Which part of the notice structure do you find most difficult?  
 
 3. Do you prefer short notices or longer bulletin-style notices? Why?
-
-### H. Homework
-
-Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
-
-If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
----
-
-**Homework Draft**
-{{PH-3: U09-homework-document}}
 
 ## Unit 10 - Explaining Problems Clearly
 
@@ -3294,7 +3363,7 @@ A good explanation of a problem includes:
 
 This is not a request and not a complaint - only **neutral information**.
 
-### A. Warm-Up: Identify the Missing Information
+#### Warm-Up: Identify the Missing Information
 
 Read the sentences. What is missing from each?
 
@@ -3324,7 +3393,7 @@ Write what information is missing:
 
 5. What is the current status?
 
-### B. Model Check: Why a Strong Problem Explanation Works
+### B. Model Check
 
 A weak explanation usually names only the problem:
 
@@ -3342,7 +3411,9 @@ A stronger explanation helps the reader understand the full picture:
 Professional readers often need to make decisions after reading the explanation.  
 They need more than the problem label; they need a usable structure.
 
-### C. Language 1 - Useful Phrases
+### C. Language Focus
+
+#### 1. Useful Phrases
 
 #### Describing the Issue
 
@@ -3395,7 +3466,7 @@ These phrases help because they separate different jobs:
 
 When these jobs are mixed together, the explanation feels vague.
 
-### C. Practice A - Improve the Explanation
+#### 2. Improve the Explanation
 
 Rewrite each message to make it clearer and more complete.
 
@@ -3422,7 +3493,7 @@ Mini contrast:
 4. "The document is wrong."
    ->
 
-### C. Practice B - Add Details
+#### 3. Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
 
@@ -3447,7 +3518,7 @@ Mini support model:
 3. The uploaded form is incomplete.
    ->
 
-### D. Guided Practice - Write a Problem Explanation
+### D. Guided Practice
 
 Write a short explanation (4-5 sentences).
 
@@ -3472,16 +3543,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U10-guided-paragraph}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own problem descriptions, check:
-
-1. Did I state the issue clearly?
-2. Did I add the cause if it is known?
-3. Did I explain the effect on work or schedule?
-4. Did I tell the reader the current status?
-
-### E. Problem-Logic Planning Grid
+#### Problem-Logic Planning Grid
 
 Complete this grid before you draft. It will help you keep the explanation useful for a busy reader.
 
@@ -3495,7 +3557,22 @@ Complete this grid before you draft. It will help you keep the explanation usefu
 
 Writers often lose clarity when they name the problem but do not explain the effect or the current situation.
 
-### E. Freer Practice - Write Two Problem Descriptions
+#### Review & Self-Assessment
+
+Before writing your own problem descriptions, check:
+
+1. Did I state the issue clearly?
+2. Did I add the cause if it is known?
+3. Did I explain the effect on work or schedule?
+4. Did I tell the reader the current status?
+
+1. What makes a problem explanation clear or unclear?
+
+2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
+
+3. Which is the most difficult?
+
+### E. Freer Practice
 
 Choose two situations and write clear explanations of **4-5 sentences each**.
 For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
@@ -3519,7 +3596,22 @@ Write each document in its own box.
 **Explanation 2**
 {{PH-2: U10-freer-explanation-2}}
 
-### G. Editing Practice: Repair the Problem Logic
+### F. Review & Self-Assessment
+
+Before writing your own problem descriptions, check:
+
+1. Did I state the issue clearly?
+2. Did I add the cause if it is known?
+3. Did I explain the effect on work or schedule?
+4. Did I tell the reader the current status?
+
+1. What makes a problem explanation clear or unclear?
+
+2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
+
+3. Which is the most difficult?
+
+### G. Editing Practice
 
 Rewrite this explanation so it is clearer and better organized.
 
@@ -3534,7 +3626,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U10-editing-rewrite}}
 
-### H. Transfer Extension: Problem Note for a Manager
+### H. Homework & Extension
 
 Choose one problem from your workplace or from an earlier unit.
 
@@ -3552,7 +3644,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U10-transfer-response}}
 
-### E. Extended Writing Task - Report-Style Description
+Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
+
+If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
+---
+
+**Homework Draft**
+{{PH-3: U10-homework-document}}
+
+#### Extended Writing Task - Report-Style Description
 
 Write a paragraph (6-8 sentences) describing a problem as part of a formal internal report for your manager or team lead.
 
@@ -3571,23 +3671,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U10-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own problem descriptions, check:
+
+1. Did I state the issue clearly?
+2. Did I add the cause if it is known?
+3. Did I explain the effect on work or schedule?
+4. Did I tell the reader the current status?
 
 1. What makes a problem explanation clear or unclear?
 
 2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
 
 3. Which is the most difficult?
-
-### H. Homework
-
-Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
-
-If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
----
-
-**Homework Draft**
-{{PH-3: U10-homework-document}}
 
 ## Unit 11 - Writing Simple Meeting Summaries
 
@@ -3617,7 +3714,7 @@ A meeting summary is a **brief record** of important points from a meeting. It:
 Meeting Summary - Review Preparation Meeting  
 The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
 
-### A. Warm-Up: Which Summary Is Clearer?
+#### Warm-Up: Which Summary Is Clearer?
 
 Compare the two versions.
 
@@ -3639,7 +3736,7 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 
 - tells the reader what happens next
 
-### B. Model Check: Why Summary B Works Better
+### B. Model Check
 
 Summary B is stronger because it groups the meeting content by function:
 
@@ -3654,7 +3751,9 @@ Summary A feels weak because it uses vague words like *many things* and *somethi
 A meeting summary is not a story of everything that happened.  
 It is a practical record for a reader who needs the important points quickly.
 
-### C. Language 1 - Key Elements of a Meeting Summary
+### C. Language Focus
+
+#### 1. Key Elements of a Meeting Summary
 
 A clear summary usually includes:
 
@@ -3688,7 +3787,7 @@ A stronger summary usually shows:
 - decision or key point
 - next step
 
-### C. Practice A - Identify the Elements
+#### 2. Identify the Elements
 
 Label each sentence with: **T = Topic**, **M = Main point**, **D = Decision**, **A = Action item**.
 
@@ -3706,7 +3805,7 @@ Your answers:
 3.
 4.
 
-### C. Practice B - Improve the Clarity
+#### 3. Improve the Clarity
 
 Rewrite each summary to make it clearer.
 
@@ -3719,7 +3818,7 @@ Rewrite each summary to make it clearer.
 3. "The form was discussed. Someone needs to fix it."
    ->
 
-### D. Guided Practice - Write a Short Meeting Summary
+### D. Guided Practice
 
 Write a short paragraph (4-5 sentences) summarising the meeting.
 
@@ -3732,16 +3831,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U11-guided-paragraph}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own summaries, check:
-
-1. Did I name the meeting topic?
-2. Did I include the main point or decision?
-3. Did I add one next step?
-4. Did I remove unnecessary detail?
-
-### E. Summary Action Check
+#### Summary Action Check
 
 Use this check before drafting so the summary helps the next reader understand both the result and the follow-up.
 
@@ -3754,7 +3844,22 @@ Use this check before drafting so the summary helps the next reader understand b
 
 A useful summary does more than report. It helps the next reader act.
 
-### E. Freer Practice - Write Two Summaries
+#### Review & Self-Assessment
+
+Before writing your own summaries, check:
+
+1. Did I name the meeting topic?
+2. Did I include the main point or decision?
+3. Did I add one next step?
+4. Did I remove unnecessary detail?
+
+1. What part of meeting summaries is easiest for you?  
+
+2. What part is the most difficult?  
+
+3. Which phrases from this unit will you use in your work?
+
+### E. Freer Practice
 
 Choose two situations and write meeting summaries of **4-5 sentences each**.
 For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
@@ -3778,7 +3883,22 @@ Write each document in its own box.
 **Summary 2**
 {{PH-2: U11-freer-summary-2}}
 
-### G. Editing Practice: Make the Summary Usable
+### F. Review & Self-Assessment
+
+Before writing your own summaries, check:
+
+1. Did I name the meeting topic?
+2. Did I include the main point or decision?
+3. Did I add one next step?
+4. Did I remove unnecessary detail?
+
+1. What part of meeting summaries is easiest for you?  
+
+2. What part is the most difficult?  
+
+3. Which phrases from this unit will you use in your work?
+
+### G. Editing Practice
 
 Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
 
@@ -3793,7 +3913,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U11-editing-rewrite}}
 
-### H. Transfer Extension: Summary for a Manager
+### H. Homework & Extension
 
 Choose one summary you wrote in this unit.
 
@@ -3808,7 +3928,14 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U11-transfer-response}}
 
-### E. Extended Writing Task - Meeting Report Section
+Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
+
+If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
+
+**Homework Draft**
+{{PH-2: U11-homework-paragraph}}
+
+#### Extended Writing Task - Meeting Report Section
 
 Write a 6-8 sentence section for a formal internal report summarising a meeting for your team or manager.
 Include:
@@ -3844,22 +3971,20 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U11-extended-document}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own summaries, check:
+
+1. Did I name the meeting topic?
+2. Did I include the main point or decision?
+3. Did I add one next step?
+4. Did I remove unnecessary detail?
 
 1. What part of meeting summaries is easiest for you?  
 
 2. What part is the most difficult?  
 
 3. Which phrases from this unit will you use in your work?
-
-### H. Homework
-
-Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
-
-If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
-
-**Homework Draft**
-{{PH-2: U11-homework-paragraph}}
 
 ## Module 3 Review Workshop
 
@@ -4086,9 +4211,6 @@ Now rewrite one ending from your own summary work so it does the same three jobs
 
 This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.
 
-
-
-
 # MODULE 4. Communicating with Applicants & Foreign Offices
 
 ## Module Guide
@@ -4141,7 +4263,7 @@ Dear Review Office Team,
 We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.  
 Thank you.
 
-### A. Warm-Up: Which Inquiry Is Better?
+#### Warm-Up: Which Inquiry Is Better?
 
 Compare the two versions.
 
@@ -4167,7 +4289,7 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 
 - asks one clear question at a time
 
-### B. Model Check: Why Email B Works Better
+### B. Model Check
 
 Email B works better because the outside reader gets:
 
@@ -4183,7 +4305,9 @@ The reader still has to guess what part of the guidelines is causing the problem
 External readers do not share all of your office context.  
 A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
 
-### C. Language 1 - Structure of an External Inquiry
+### C. Language Focus
+
+#### 1. Structure of an External Inquiry
 
 A clear inquiry email usually includes:
 
@@ -4199,7 +4323,7 @@ A clear inquiry email usually includes:
 
 6. **Sign-off**
 
-### C. Useful Phrases for External Inquiries
+#### 2. Useful Phrases for External Inquiries
 
 #### Background
 
@@ -4238,7 +4362,7 @@ An external inquiry often needs two jobs:
 1. show the reader why you are asking
 2. show the reader exactly what answer you need
 
-### C. Practice A - Improve the Inquiry
+#### 3. Improve the Inquiry
 
 Rewrite each inquiry to make it clearer, more polite, and more complete.
 
@@ -4268,7 +4392,7 @@ The stronger version works better because the reader can see the context, the ex
 4. "Explain Section 2."
    ->
 
-### C. Practice B - Add Background Information
+#### 4. Add Background Information
 
 Add **one sentence of background** before each question.
 
@@ -4294,7 +4418,7 @@ The better version helps the reader understand the task situation before they re
 3. Could you explain how the updated rule applies?
    ->
 
-### D. Guided Practice - Write an External Inquiry Email
+### D. Guided Practice
 
 Write a complete inquiry email.
 
@@ -4307,28 +4431,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own external inquiries, check:
-
-1. Did I give enough background for the outside reader?
-2. Is the question specific?
-3. Did I avoid unnecessary office detail?
-4. Does the closing sound polite and professional?
-
-- **Subject:**
-
-- **Greeting:**
-
-- **Background:**
-
-- **Inquiry question(s):**
-
-- **Closing sentence:**
-
-- **Sign-off:**
-
-### E. Freer Practice - Write Two External Inquiry Emails
+### E. Freer Practice
 
 Choose two situations below.
 For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
@@ -4349,7 +4452,34 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-freer-document}}
 
-### G. Editing Practice: Make the Inquiry Answerable
+### F. Review & Self-Assessment
+
+Before writing your own external inquiries, check:
+
+1. Did I give enough background for the outside reader?
+2. Is the question specific?
+3. Did I avoid unnecessary office detail?
+4. Does the closing sound polite and professional?
+
+- **Subject:**
+
+- **Greeting:**
+
+- **Background:**
+
+- **Inquiry question(s):**
+
+- **Closing sentence:**
+
+- **Sign-off:**
+
+1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
+
+2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
+
+3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
+
+### G. Editing Practice
 
 Rewrite this inquiry so the outside reader can answer it more easily.
 
@@ -4366,7 +4496,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U12-editing-rewrite}}
 
-### H. Transfer Extension: Internal Note Before the Inquiry
+### H. Homework & Extension
 
 Choose one inquiry from this unit.
 
@@ -4383,7 +4513,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U12-transfer-response}}
 
-### E. Extended Writing Task - Inquiry Paragraph
+Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
+
+If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
+---
+
+**Homework Draft**
+{{PH-3: U12-homework-document}}
+
+#### Extended Writing Task - Inquiry Paragraph
 
 Write a **neutral paragraph** (5-6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
 Include:
@@ -4419,23 +4557,32 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U12-extended-document}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own external inquiries, check:
+
+1. Did I give enough background for the outside reader?
+2. Is the question specific?
+3. Did I avoid unnecessary office detail?
+4. Does the closing sound polite and professional?
+
+- **Subject:**
+
+- **Greeting:**
+
+- **Background:**
+
+- **Inquiry question(s):**
+
+- **Closing sentence:**
+
+- **Sign-off:**
 
 1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?  
 
 2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?  
 
 3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
-
-### H. Homework
-
-Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
-
-If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
----
-
-**Homework Draft**
-{{PH-3: U12-homework-document}}
 
 ## Unit 13 - Providing Simple Explanations
 
@@ -4466,7 +4613,7 @@ A simple explanation:
 
 The review process will take longer this month because several files require additional checks. These checks are necessary to confirm applicant information. A further update will be provided next week.
 
-### A. Warm-Up: What Information Is Missing?
+#### Warm-Up: What Information Is Missing?
 
 Read each explanation. Identify what is missing.
 
@@ -4492,7 +4639,7 @@ What is missing?
 
 - understand the effect on the work
 
-### B. Model Check: Why a Better Explanation Works
+### B. Model Check
 
 Compare:
 
@@ -4507,7 +4654,9 @@ The stronger version works because it gives:
 
 The reader does not need to guess the practical meaning.
 
-### C. Language 1 - Useful Phrases for Explanations
+### C. Language Focus
+
+#### 1. Useful Phrases for Explanations
 
 #### Giving Background
 
@@ -4547,7 +4696,7 @@ background -> reason -> effect
 
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 
-### C. Practice A - Improve the Explanation
+#### 2. Improve the Explanation
 
 Rewrite the sentences to make the explanations clearer.
 
@@ -4577,7 +4726,7 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 4. "The system is slow."
    ->
 
-### C. Practice B - Add a Reason or Background
+#### 3. Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason**.
 
@@ -4602,7 +4751,7 @@ You can test your answer with three quick questions:
 3. The review must be rescheduled.
    ->
 
-### D. Guided Practice - Write a Clear Explanation
+### D. Guided Practice
 
 Write 4-5 sentences.
 
@@ -4627,16 +4776,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U13-guided-paragraph}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own explanations, check:
-
-1. Did I give enough background?
-2. Did I explain the reason clearly?
-3. Did I show the effect on work or timing?
-4. Is the explanation neutral and easy to follow?
-
-### E. Freer Practice - Write Two Explanations
+### E. Freer Practice
 
 Choose two situations and write explanations.
 For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
@@ -4660,7 +4800,22 @@ Write each document in its own box.
 **Explanation 2**
 {{PH-2: U13-freer-explanation-2}}
 
-### G. Editing Practice: Add the Missing Link
+### F. Review & Self-Assessment
+
+Before writing your own explanations, check:
+
+1. Did I give enough background?
+2. Did I explain the reason clearly?
+3. Did I show the effect on work or timing?
+4. Is the explanation neutral and easy to follow?
+
+1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
+
+2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
+
+3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
+
+### G. Editing Practice
 
 Rewrite this explanation so the reader can see both the reason and the effect.
 
@@ -4675,7 +4830,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U13-editing-rewrite}}
 
-### H. Transfer Extension: Explanation for Two Readers
+### H. Homework & Extension
 
 Choose one explanation from this unit.
 
@@ -4691,7 +4846,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U13-transfer-response}}
 
-### E. Extended Writing Task - Explanatory Paragraph
+Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
+
+If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
+---
+
+**Homework Draft**
+{{PH-2: U13-homework-paragraph}}
+
+#### Extended Writing Task - Explanatory Paragraph
 
 Write a paragraph (6-8 sentences) explaining an issue as part of an internal report for your section lead or manager.
 Include:
@@ -4725,23 +4888,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U13-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own explanations, check:
+
+1. Did I give enough background?
+2. Did I explain the reason clearly?
+3. Did I show the effect on work or timing?
+4. Is the explanation neutral and easy to follow?
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
 
 2. If a new colleague read your explanation, which detail would help them understand the situation fastest?  
 
 3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
-
-### H. Homework
-
-Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
-
-If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
----
-
-**Homework Draft**
-{{PH-2: U13-homework-paragraph}}
 
 ## Unit 14 - Responding to Confusion
 
@@ -4770,7 +4930,7 @@ When someone is confused, your response should:
 
 Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
 
-### A. Warm-Up: What Is the Confusion?
+#### Warm-Up: What Is the Confusion?
 
 Identify what the reader is confused about.
 
@@ -4796,7 +4956,7 @@ Write the point of confusion:
 
 - adds one useful detail if needed
 
-### B. Model Check: Why the Stronger Response Works
+### B. Model Check
 
 The example response is stronger because it does three things in order:
 
@@ -4815,7 +4975,9 @@ When someone is confused, the reader often needs both:
 
 If the writer gives only the correction, the response may feel too abrupt.
 
-### C. Language 1 - Useful Clarification Phrases
+### C. Language Focus
+
+#### 1. Useful Clarification Phrases
 
 #### Acknowledging the Confusion
 
@@ -4846,7 +5008,7 @@ If the writer gives only the correction, the response may feel too abrupt.
 The response should stay focused on solving the confusion.  
 Do not turn it into a complaint about the other person's mistake.
 
-### C. Practice A - Improve the Response
+#### 2. Improve the Response
 
 Rewrite each response to make it clear and polite.
 
@@ -4875,7 +5037,7 @@ The stronger version corrects the information without blaming the reader.
 4. "Read the guidelines again."
    ->
 
-### C. Practice B - Add Clarifying Information
+#### 3. Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
@@ -4888,7 +5050,7 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 3. The instructions refer to two different processes.
    ->
 
-### D. Guided Practice - Write a Clarification Response
+### D. Guided Practice
 
 Write 4-5 sentences.
 
@@ -4909,16 +5071,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U14-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own responses, check:
-
-1. Did I acknowledge the confusion politely?
-2. Did I restate the correct information clearly?
-3. Did I add one useful detail?
-4. Did I avoid blame?
-
-### E. Freer Practice - Write Two Responses
+### E. Freer Practice
 
 Choose two situations and write your responses.
 For each one, write a short response to the person who is confused or has misunderstood the information.
@@ -4942,7 +5095,22 @@ Write each document in its own box.
 **Response 2**
 {{PH-3: U14-freer-response-2}}
 
-### G. Editing Practice: Remove the Defensive Tone
+### F. Review & Self-Assessment
+
+Before writing your own responses, check:
+
+1. Did I acknowledge the confusion politely?
+2. Did I restate the correct information clearly?
+3. Did I add one useful detail?
+4. Did I avoid blame?
+
+1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
+
+2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
+
+3. How would your response change if the reader were a colleague instead of an outside contact?
+
+### G. Editing Practice
 
 Rewrite this response so it becomes clearer and more professional.
 
@@ -4957,7 +5125,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U14-editing-rewrite}}
 
-### H. Transfer Extension: Clarification for a Team Record
+### H. Homework & Extension
 
 Choose one misunderstanding from this unit.
 
@@ -4972,7 +5140,15 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U14-transfer-response}}
 
-### E. Extended Writing Task - Clarification Paragraph
+Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
+
+If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
+---
+
+**Homework Draft**
+{{PH-3: U14-homework-document}}
+
+#### Extended Writing Task - Clarification Paragraph
 
 Write a paragraph (6-8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
 Include:
@@ -5006,23 +5182,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U14-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own responses, check:
+
+1. Did I acknowledge the confusion politely?
+2. Did I restate the correct information clearly?
+3. Did I add one useful detail?
+4. Did I avoid blame?
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
 
 2. In your draft, where did you need to reduce blame or defensiveness most carefully?  
 
 3. How would your response change if the reader were a colleague instead of an outside contact?
-
-### H. Homework
-
-Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
-
-If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
----
-
-**Homework Draft**
-{{PH-3: U14-homework-document}}
 
 ## Unit 15 - Maintaining Consistent Email Style
 
@@ -5065,7 +5238,7 @@ Dear Team,
 I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?  
 Thank you.
 
-### A. Warm-Up: Identify the Inconsistencies
+#### Warm-Up: Identify the Inconsistencies
 
 Read the two emails. What is inconsistent?
 
@@ -5097,7 +5270,7 @@ What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 
 - closing and sign-off
 
-### B. Model Check: Why the Consistent Version Works
+### B. Model Check
 
 The consistent version is stronger because every part supports the same professional image:
 
@@ -5114,7 +5287,9 @@ Inconsistent emails slow the reader down because the format and tone change from
 Consistency helps the reader know what to expect.  
 It also helps teams sound reliable instead of random.
 
-### C. Language 1 - Standard Email Elements
+### C. Language Focus
+
+#### 1. Standard Email Elements
 
 Use standardised components to create consistency.
 
@@ -5142,7 +5317,7 @@ Use standardised components to create consistency.
 
 - Please let me know if you need further information.
 
-### C. Practice A - Improve Consistency
+#### 2. Improve Consistency
 
 Rewrite the emails to make them consistent in tone and structure.
 
@@ -5155,7 +5330,7 @@ Rewrite the emails to make them consistent in tone and structure.
 3. "Team, The file is wrong. Fix it."
    ->
 
-### C. Language 2 - Formatting for Clarity and Consistency
+#### 3. Formatting for Clarity and Consistency
 
 Emails should use:
 
@@ -5189,7 +5364,7 @@ Mini comparison:
 
 That is why formatting supports clarity, not only appearance.
 
-### C. Practice B - Reformat the Email
+#### 4. Reformat the Email
 
 Rewrite this email with clear formatting.
 
@@ -5219,7 +5394,7 @@ Hi, I saw the file. It looks wrong. Please explain. Thanks.
 
 Rewrite here:
 
-### D. Guided Practice - Standardise a Draft Email
+### D. Guided Practice
 
 Rewrite the following email to make it consistent.
 
@@ -5236,16 +5411,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U15-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your own consistent emails, check:
-
-1. Does the email use a standard opening?
-2. Is the purpose sentence clear?
-3. Does the body sound like the same email as the opening?
-4. Does the closing match the tone?
-
-### E. Freer Practice - Write Two Consistent Emails
+### E. Freer Practice
 
 Choose two situations and write emails using **consistent tone and structure**.
 For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
@@ -5269,7 +5435,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-3: U15-freer-email-2}}
 
-### G. Editing Practice: Bring Two Drafts to One Standard
+### F. Review & Self-Assessment
+
+Before writing your own consistent emails, check:
+
+1. Does the email use a standard opening?
+2. Is the purpose sentence clear?
+3. Does the body sound like the same email as the opening?
+4. Does the closing match the tone?
+
+1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
+
+2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
+
+3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
+
+### G. Editing Practice
 
 Rewrite the two short messages below so they follow the same team style.
 
@@ -5284,7 +5465,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U15-editing-rewrite}}
 
-### H. Transfer Extension: Mini Team Style Rule
+### H. Homework & Extension
 
 Write three style rules your team could use for similar emails.
 
@@ -5301,7 +5482,14 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U15-transfer-response}}
 
-### E. Extended Writing Task - Email Style Guide Paragraph
+Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
+
+If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
+
+**Homework Draft**
+{{PH-3: U15-homework-document}}
+
+#### Extended Writing Task - Email Style Guide Paragraph
 
 Write a paragraph (6-8 sentences) explaining why your team should follow a consistent email style and what elements are important.
 
@@ -5323,22 +5511,20 @@ Write your paragraph:
 **Write Your Paragraph**
 {{PH-2: U15-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before writing your own consistent emails, check:
+
+1. Does the email use a standard opening?
+2. Is the purpose sentence clear?
+3. Does the body sound like the same email as the opening?
+4. Does the closing match the tone?
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
 2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
 
 3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
-
-### H. Homework
-
-Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
-
-If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
-
-**Homework Draft**
-{{PH-3: U15-homework-document}}
 
 ## Module 4 Review Workshop
 
@@ -5557,11 +5743,6 @@ After writing, explain:
 
 This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
 
-
-
-
-
-
 # MODULE 5. Editing & Revision Skills (Basic)
 
 ## Module Guide
@@ -5612,7 +5793,7 @@ Accuracy refers to the **correct use of language**, including:
 
 Accurate writing is easier for readers to understand and avoids mistakes in administrative processes.
 
-### A. Warm-Up: Spot the Errors
+#### Warm-Up: Spot the Errors
 
 Correct the mistakes in each sentence.
 
@@ -5640,7 +5821,7 @@ Write your corrections:
 
 - Is the punctuation clear?
 
-### B. Model Check: Why Accuracy Matters To The Reader
+### B. Model Check
 
 Compare:
 
@@ -5672,7 +5853,9 @@ Mini contrast:
 
 One small change can stop the reader from doubting the message.
 
-### C. Language 1 - Common Accuracy Problems
+### C. Language Focus
+
+#### 1. Common Accuracy Problems
 
 #### Verb Forms
 
@@ -5703,7 +5886,7 @@ When you edit for accuracy, check one error family at a time:
 
 This makes editing more reliable than trying to fix everything at once.
 
-### C. Practice A - Correct the Sentences
+#### 2. Correct the Sentences
 
 Rewrite each sentence correctly.
 
@@ -5731,7 +5914,7 @@ Accuracy check:
 4. *The documents is complete.*  
    ->
 
-### C. Practice B - Edit for Accuracy
+#### 3. Edit for Accuracy
 
 Each short text contains 4-5 errors. Rewrite the corrected version.
 
@@ -5747,7 +5930,7 @@ Corrected version:
 
 Corrected version:
 
-### D. Guided Practice - Edit a Short Administrative Email
+### D. Guided Practice
 
 You are editing a short email draft before it is sent to a colleague or applicant.
 
@@ -5763,16 +5946,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U16-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before editing the next texts, ask:
-
-1. Is the time clear?
-2. Are singular and plural forms correct?
-3. Are the articles and prepositions correct?
-4. Does the corrected version sound natural enough to send?
-
-### E. Freer Practice - Edit Two Short Texts
+### E. Freer Practice
 
 Choose two situations and write the **accurate, corrected version**.
 For each one, imagine you are the person checking the draft before it is sent or shared.
@@ -5794,7 +5968,22 @@ Write each document in its own box.
 **Version 2**
 {{PH-2: U16-freer-version-2}}
 
-### G. Editing Practice: Explain The Change
+### F. Review & Self-Assessment
+
+Before editing the next texts, ask:
+
+1. Is the time clear?
+2. Are singular and plural forms correct?
+3. Are the articles and prepositions correct?
+4. Does the corrected version sound natural enough to send?
+
+1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
+
+2. Which correction in your work changed the meaning or clarity most clearly for the reader?  
+
+3. What check should come first in your own editing routine next time, and why?
+
+### G. Editing Practice
 
 Choose two corrections from your work in this unit.
 
@@ -5809,20 +5998,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U16-editing-rewrite}}
 
-### E. Extended Writing Task - Editing a Paragraph
-
-Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
-Treat it as a draft internal update that needs editing before your team shares it.
-
-**Original:**
-The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
-
-**Corrected paragraph:**
-
-**Write Your Paragraph**
-{{PH-2: U16-extended-paragraph}}
-
-### H. Transfer Extension: Accuracy Review Routine
+### H. Homework & Extension
 
 Write a short editing routine of `4-5` lines for yourself.
 
@@ -5838,16 +6014,6 @@ Use your own wording, but make it a routine you could really use at work.
 **Planning Notes**
 {{PH-1: U16-transfer-notes}}
 
-### F. Reflection
-
-1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
-
-2. Which correction in your work changed the meaning or clarity most clearly for the reader?  
-
-3. What check should come first in your own editing routine next time, and why?
-
-### H. Homework
-
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 
 If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
@@ -5855,6 +6021,34 @@ If you do not want to use a real email or document, choose one Unit 16 freer-pra
 
 **Homework Draft**
 {{PH-3: U16-homework-document}}
+
+#### Extended Writing Task - Editing a Paragraph
+
+Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
+Treat it as a draft internal update that needs editing before your team shares it.
+
+**Original:**
+The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
+
+**Corrected paragraph:**
+
+**Write Your Paragraph**
+{{PH-2: U16-extended-paragraph}}
+
+#### Review & Self-Assessment
+
+Before editing the next texts, ask:
+
+1. Is the time clear?
+2. Are singular and plural forms correct?
+3. Are the articles and prepositions correct?
+4. Does the corrected version sound natural enough to send?
+
+1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
+
+2. Which correction in your work changed the meaning or clarity most clearly for the reader?  
+
+3. What check should come first in your own editing routine next time, and why?
 
 ## Unit 17 - Editing for Clarity
 
@@ -5884,7 +6078,7 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
 **After:** The document appears to be missing some parts.
 
-### A. Warm-Up: What Makes These Sentences Unclear?
+#### Warm-Up: What Makes These Sentences Unclear?
 
 Identify the problems.
 
@@ -5912,7 +6106,7 @@ Write the problems (too vague? too long? unnecessary words?):
 
 - cut extra words that do not help the reader
 
-### B. Model Check: Why The Clearer Version Works
+### B. Model Check
 
 Compare:
 
@@ -5930,7 +6124,9 @@ It is also:
 - show the main point earlier
 - put related ideas together
 
-### C. Language 1 - Common Clarity Problems
+### C. Language Focus
+
+#### 1. Common Clarity Problems
 
 #### Vague Language
 
@@ -5959,7 +6155,7 @@ Mini contrast:
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
 
-### C. Practice A - Make the Sentences Clearer
+#### 2. Make the Sentences Clearer
 
 Rewrite each sentence.
 
@@ -5975,7 +6171,7 @@ Rewrite each sentence.
 4. "It would be appreciated if you could maybe check the document again."
    ->
 
-### C. Language 2 - Improving Flow
+#### 3. Improving Flow
 
 Clear writing follows a **logical order**, often:
 
@@ -5991,7 +6187,7 @@ Clear writing follows a **logical order**, often:
 
 **After:** The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 
-### C. Practice B - Reorganise for Better Flow
+#### 4. Reorganise for Better Flow
 
 Rewrite the sentences in a clear, logical order.
 
@@ -6016,7 +6212,7 @@ Write the best order:
 2.
 3.
 
-### D. Guided Practice - Edit for Clarity
+### D. Guided Practice
 
 Rewrite this paragraph (4-5 sentences) to make it clearer.
 Treat it as a draft update that a colleague wrote for internal use.
@@ -6031,16 +6227,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-2: U17-guided-paragraph}}
 
-### F. Self-Check Before Freer Practice
-
-Before revising your own texts, check:
-
-1. What is the main point?
-2. Which words are vague?
-3. Which sentence can be made shorter?
-4. Does the order help the reader follow the message?
-
-### E. Freer Practice - Edit Two Texts for Clarity
+### E. Freer Practice
 
 Choose two situations and rewrite them clearly.
 For each one, imagine you are revising a draft message for a colleague, supervisor, or internal reader who needs a clearer version.
@@ -6064,7 +6251,22 @@ Write each document in its own box.
 **Version 2**
 {{PH-2: U17-freer-version-2}}
 
-### G. Editing Practice: From Vague To Usable
+### F. Review & Self-Assessment
+
+Before revising your own texts, check:
+
+1. What is the main point?
+2. Which words are vague?
+3. Which sentence can be made shorter?
+4. Does the order help the reader follow the message?
+
+1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
+
+2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?  
+
+3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
+
+### G. Editing Practice
 
 Rewrite this draft so it becomes clearer for an internal reader.
 
@@ -6079,7 +6281,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U17-editing-rewrite}}
 
-### H. Transfer Extension: Explain Your Revision Choice
+### H. Homework & Extension
 
 Choose one sentence you improved in this unit.
 
@@ -6094,7 +6296,13 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U17-transfer-response}}
 
-### E. Extended Writing Task - Clear Paragraph Revision
+Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
+---
+
+**Homework Draft**
+{{PH-2: U17-homework-paragraph}}
+
+#### Extended Writing Task - Clear Paragraph Revision
 
 Rewrite this paragraph (6-8 sentences) to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
@@ -6107,21 +6315,20 @@ We checked some things and there are maybe a few issues. The system did somethin
 **Write Your Paragraph**
 {{PH-2: U17-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before revising your own texts, check:
+
+1. What is the main point?
+2. Which words are vague?
+3. Which sentence can be made shorter?
+4. Does the order help the reader follow the message?
 
 1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
 
 2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?  
 
 3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
-
-### H. Homework
-
-Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
----
-
-**Homework Draft**
-{{PH-2: U17-homework-paragraph}}
 
 ## Unit 18 - Editing for Tone
 
@@ -6160,7 +6367,7 @@ A poor tone may be:
 **Before:** You didn't send the right file. Send the correct one now.  
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 
-### A. Warm-Up: Why Is the Tone Wrong?
+#### Warm-Up: Why Is the Tone Wrong?
 
 Identify what makes the tone inappropriate.
 
@@ -6188,7 +6395,7 @@ Write the issues:
 
 - keep the original purpose
 
-### B. Model Check: Why The Softer Version Works
+### B. Model Check
 
 Compare:
 
@@ -6203,7 +6410,9 @@ The stronger version works because it:
 
 Tone editing is successful when the message stays useful and becomes easier to receive.
 
-### C. Language 1 - Softening Direct Language
+### C. Language Focus
+
+#### 1. Softening Direct Language
 
 #### Direct ->Polite
 
@@ -6226,7 +6435,7 @@ Tone editing is successful when the message stays useful and becomes easier to r
 
 - Thank you for checking...
 
-### C. Practice A - Make the Tone Polite
+#### 2. Make the Tone Polite
 
 Rewrite the sentences politely.
 
@@ -6256,7 +6465,7 @@ The stronger version keeps the message usable and professional.
 4. "This is not acceptable."
    ->
 
-### C. Language 2 - Tone in Emails
+#### 3. Tone in Emails
 
 Emails often need polite tone markers.
 
@@ -6287,7 +6496,7 @@ When revising for tone, try this order:
 3. add the needed action politely
 4. keep the original purpose
 
-### C. Practice B - Improve the Email Tone
+#### 4. Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
@@ -6305,7 +6514,7 @@ Why didn't you tell me about this earlier? Now we have a delay.
 
 Rewrite:
 
-### D. Guided Practice - Edit a Full Email
+### D. Guided Practice
 
 Rewrite the email to make the tone neutral and professional.
 Treat it as a draft message that will be sent back to an applicant or colleague after revision.
@@ -6322,16 +6531,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U18-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before revising your own emails, check:
-
-1. Did I remove blame?
-2. Does the message still say what is needed?
-3. Does the tone sound calm and professional?
-4. Would I be comfortable sending this version?
-
-### E. Freer Practice - Write Two Tone-Improved Emails
+### E. Freer Practice
 
 Choose two situations and write improved versions.
 For each one, imagine you are revising a rough draft so it can be sent in a more professional tone.
@@ -6355,7 +6555,22 @@ Write each document in its own box.
 **Email 2**
 {{PH-2: U18-freer-email-2}}
 
-### G. Editing Practice: Keep The Meaning, Change The Tone
+### F. Review & Self-Assessment
+
+Before revising your own emails, check:
+
+1. Did I remove blame?
+2. Does the message still say what is needed?
+3. Does the tone sound calm and professional?
+4. Would I be comfortable sending this version?
+
+1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
+
+2. Which softening phrase works best only when the message still stays clear and useful for the reader?  
+
+3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
+
+### G. Editing Practice
 
 Rewrite this draft so it stays clear but sounds more professional.
 
@@ -6370,7 +6585,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U18-editing-rewrite}}
 
-### H. Transfer Extension: Tone Choice For Two Readers
+### H. Homework & Extension
 
 Take one message from this unit and write:
 
@@ -6387,7 +6602,14 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U18-transfer-response}}
 
-### E. Extended Writing Task - Tone Revision Paragraph
+Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
+
+If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
+
+**Homework Draft**
+{{PH-3: U18-homework-document}}
+
+#### Extended Writing Task - Tone Revision Paragraph
 
 Rewrite this paragraph (6-8 sentences) to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
@@ -6400,22 +6622,20 @@ We told the applicant many times, but they still submitted the wrong file. This 
 **Write Your Paragraph**
 {{PH-2: U18-extended-paragraph}}
 
-### F. Reflection
+#### Review & Self-Assessment
+
+Before revising your own emails, check:
+
+1. Did I remove blame?
+2. Does the message still say what is needed?
+3. Does the tone sound calm and professional?
+4. Would I be comfortable sending this version?
 
 1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
 
 2. Which softening phrase works best only when the message still stays clear and useful for the reader?  
 
 3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
-
-### H. Homework
-
-Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
-
-If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
-
-**Homework Draft**
-{{PH-3: U18-homework-document}}
 
 ## Module 5 Review Workshop
 
@@ -6549,9 +6769,6 @@ Before you submit any later task, write a short memo:
 
 This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
 
-
-
-
 # MODULE 6. Capstone & Applied Administrative Writing
 
 ## Module Guide
@@ -6594,7 +6811,7 @@ In this unit, you will write:
 
 2. **An internal explanation** summarising the situation for colleagues.
 
-### A. Warm-Up: Understanding the Situation
+#### Warm-Up: Understanding the Situation
 
 Read the scenario and answer the questions.
 
@@ -6622,7 +6839,7 @@ Write your answers:
 
 - keep the facts the same, but change the tone and detail
 
-### B. Model Check: Why Two Documents Are Needed
+### B. Model Check
 
 In this unit, one situation produces **two different writing jobs**.
 
@@ -6646,7 +6863,9 @@ Good multi-document writing keeps the same facts but changes:
 - detail
 - immediate purpose
 
-### C. Language - Writing for Two Audiences
+### C. Language Focus
+
+#### 1. Language - Writing for Two Audiences
 
 #### External Email (Polite, Clear, Concise)
 
@@ -6672,7 +6891,7 @@ Good multi-document writing keeps the same facts but changes:
 
 If the two texts sound almost the same, the audience control is probably too weak.
 
-### C. Practice A - Rewrite for Audience & Tone
+#### 2. Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
@@ -6696,7 +6915,7 @@ Rewrite each sentence for the correct audience.
 "The form is wrong but they didn't explain well."
 ->
 
-### D. Guided Practice - Write the External Email
+### D. Guided Practice
 
 Write a **4-5 sentence** external follow-up email to the external office based on the scenario.
 
@@ -6719,7 +6938,7 @@ Use this box for one complete version.
 **External Email**
 {{PH-3: U19-guided-external-email}}
 
-### D. Guided Practice - Write the Internal Explanation
+### D. Guided Practice
 
 Write a **4-5 sentence** explanation for your colleagues or team.
 Include:
@@ -6757,15 +6976,6 @@ Use this box for one complete version.
 **Internal Explanation**
 {{PH-3: U19-guided-internal-explanation}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing the full pair, check:
-
-1. Did I change the tone for each reader?
-2. Did I keep the facts consistent?
-3. Does each text have a different immediate purpose?
-4. Will each reader understand what matters to them?
-
 ### E. Reader-Control Planning Board
 
 Before writing the full pair, note the same situation in two different ways.
@@ -6783,7 +6993,22 @@ Before writing the full pair, note the same situation in two different ways.
 Writers often lose audience control because they start drafting too quickly.  
 This board slows the decision down just enough to keep the two texts linked but not identical.
 
-### E. Freer Practice - Choose One Integrated Scenario
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
+
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
+
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
+
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+
+### E. Freer Practice
 
 Choose one scenario and write **both**:
 
@@ -6811,7 +7036,22 @@ Write each document in its own box.
 **Internal Explanation**
 {{PH-3: U19-paired-internal-explanation}}
 
-### G. Editing Practice: Separate The Reader Needs
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
+
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
+
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
+
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+
+### G. Editing Practice
 
 Rewrite the weak pair below so the external and internal texts do different jobs.
 
@@ -6825,7 +7065,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U19-editing-rewrite}}
 
-### H. Transfer Extension: Same Fact, New Audience Pair
+### H. Homework & Extension
 
 Choose one earlier unit task.
 
@@ -6840,6 +7080,12 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U19-transfer-response}}
+
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
+---
+
+**Homework Draft**
+{{PH-3: U19-homework-document}}
 
 ### E. Extended Writing Task - Multi-Purpose Communication
 
@@ -6873,21 +7119,20 @@ Write each document in its own box.
 **Internal Explanation**
 {{PH-3: U19-extended-internal-explanation}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing the full pair, check:
+
+1. Did I change the tone for each reader?
+2. Did I keep the facts consistent?
+3. Does each text have a different immediate purpose?
+4. Will each reader understand what matters to them?
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
 
 2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?  
 
 3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
-
-### H. Homework
-
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
----
-
-**Homework Draft**
-{{PH-3: U19-homework-document}}
 
 ## Unit 20 - Integrated Task 2: Revision + Notice Writing
 
@@ -6922,7 +7167,7 @@ Document-control check:
 - external purpose: correct the previously sent information
 - internal purpose: prevent staff from using the wrong date again
 
-### A. Warm-Up: Understanding the Situation
+#### Warm-Up: Understanding the Situation
 
 Read the scenario and answer the questions.
 
@@ -6950,7 +7195,7 @@ Write your answers:
 
 - the audience and purpose are different
 
-### B. Model Check: Why Connected Documents Need Control
+### B. Model Check
 
 This unit is not only about writing two texts.  
 It is about keeping one corrected fact stable across both texts.
@@ -6965,7 +7210,9 @@ Revision writing becomes trustworthy when:
 
 If the correction changes between texts, the writing may create more confusion instead of solving it.
 
-### C. Language - Revision vs. Notice
+### C. Language Focus
+
+#### 1. Language - Revision vs. Notice
 
 #### Revision Message (External Office)
 
@@ -7000,7 +7247,7 @@ Useful phrases:
 The external revision message repairs the relationship with the outside reader.  
 The internal notice repairs shared team understanding.
 
-### C. Practice A - Rewrite for Audience & Tone
+#### 2. Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
@@ -7024,7 +7271,7 @@ Rewrite each sentence for the appropriate audience.
 "We told them the wrong date."
 ->
 
-### D. Guided Practice - Write the Revision Message
+### D. Guided Practice
 
 Write a **4-5 sentence** message to the external office that received the earlier schedule.
 
@@ -7049,7 +7296,7 @@ Use this box for one complete version.
 **Revision Message**
 {{PH-3: U20-guided-revision-message}}
 
-### D. Guided Practice - Write the Internal Notice
+### D. Guided Practice
 
 Write a **4-5 sentence** internal notice for colleagues in your section.
 
@@ -7069,15 +7316,6 @@ Use this box for one complete version.
 
 **Internal Notice**
 {{PH-3: U20-guided-internal-notice}}
-
-### F. Self-Check Before Freer Practice
-
-Before writing both texts, ask:
-
-1. Is the correction exactly the same in both texts?
-2. Is the external tone more polite?
-3. Is the internal version shorter and more factual?
-4. Can each reader see what happens next?
 
 ### E. Correction Control Board
 
@@ -7101,7 +7339,22 @@ If the corrected fact changes between the two documents, the pair becomes less u
 Keep the corrected fact identical.  
 Change the tone, format, and amount of explanation around that fact.
 
-### E. Freer Practice - Choose One Scenario
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
+
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
+
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
+
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
+
+### E. Freer Practice
 
 Choose one and write both texts:
 
@@ -7129,7 +7382,22 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-3: U20-internal-notice}}
 
-### G. Editing Practice: Repair The Correction Set
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
+
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
+
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
+
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
+
+### G. Editing Practice
 
 Rewrite this weak pair so both texts stay consistent.
 
@@ -7143,7 +7411,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U20-editing-rewrite}}
 
-### H. Transfer Extension: Correction Log
+### H. Homework & Extension
 
 Write a short `3-4` line correction log for one scenario in this unit:
 
@@ -7156,6 +7424,16 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U20-transfer-response}}
+
+Choose a message from a previous unit. Rewrite it as:  
+
+A) a revision email, or  
+
+B) an internal notice.
+---
+
+**Homework Draft**
+{{PH-3: U20-homework-document}}
 
 ### E. Extended Writing Task - Combined Communication Pack
 
@@ -7191,25 +7469,20 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-3: U20-extended-internal-notice}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing both texts, ask:
+
+1. Is the correction exactly the same in both texts?
+2. Is the external tone more polite?
+3. Is the internal version shorter and more factual?
+4. Can each reader see what happens next?
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
 
 2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?  
 
 3. How can a well-written correction message reduce repeated errors or repeated questions later?
-
-### H. Homework
-
-Choose a message from a previous unit. Rewrite it as:  
-
-A) a revision email, or  
-
-B) an internal notice.
----
-
-**Homework Draft**
-{{PH-3: U20-homework-document}}
 
 ## Unit 21 - Writing for Consistency Across a Team
 
@@ -7254,7 +7527,7 @@ Clear team standards help:
 
 - formatting basics
 
-### A. Warm-Up: Spot the Inconsistencies
+#### Warm-Up: Spot the Inconsistencies
 
 Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
 
@@ -7282,7 +7555,7 @@ Write the inconsistencies you notice:
 
 - Clarity:
 
-### B. Model Check: Why Team Consistency Helps
+### B. Model Check
 
 If one team sends very different styles of email, readers may feel:
 
@@ -7299,7 +7572,9 @@ Consistency helps because the reader can recognize the team's style quickly:
 - standard body pattern
 - standard closing
 
-### C. Language - Standardising Team Writing
+### C. Language Focus
+
+#### 1. Language - Standardising Team Writing
 
 #### Standard Openings
 
@@ -7337,7 +7612,7 @@ Consistency helps because the reader can recognize the team's style quickly:
 
 Team consistency is a reader-support tool, not only a style preference.
 
-### C. Practice A - Improve Team Consistency
+#### 2. Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
 
@@ -7350,7 +7625,7 @@ Rewrite these sentences/emails to make them consistent with team standards.
 3. "Team, The file is wrong. Fix it."
    ->
 
-### C. Practice B - Standardise Format & Tone
+#### 3. Standardise Format & Tone
 
 Rewrite the email with correct formatting, tone, and clarity.
 
@@ -7378,7 +7653,7 @@ Hey, I don't think this is right. Check it and tell me.
 
 **Rewrite:**
 
-### D. Guided Practice - Rewrite Three Short Messages
+### D. Guided Practice
 
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
@@ -7402,16 +7677,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U21-guided-document}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing your next rewritten message set, check:
-
-1. Do all messages sound like they come from one team?
-2. Is the tone level stable?
-3. Is the structure similar across the messages?
-4. Is the formatting predictable?
-
-### E. Freer Practice - Rewrite Two Related Messages To One Standard
+### E. Freer Practice
 
 Choose **one** of the situations below and rewrite **both** messages so they follow one shared team standard.
 
@@ -7447,7 +7713,22 @@ Write each document in its own box.
 **Message 2**
 {{PH-3: U21-message-2}}
 
-### G. Editing Practice: Build One Standard
+### F. Review & Self-Assessment
+
+Before writing your next rewritten message set, check:
+
+1. Do all messages sound like they come from one team?
+2. Is the tone level stable?
+3. Is the structure similar across the messages?
+4. Is the formatting predictable?
+
+1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
+
+2. Which standard phrase or rule from this unit would be most useful as a shared team default?  
+
+3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
+
+### G. Editing Practice
 
 Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly.
 
@@ -7461,7 +7742,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U21-editing-rewrite}}
 
-### H. Transfer Extension: Turn Your Rewrite Into A Team Rule
+### H. Homework & Extension
 
 Choose one consistency feature from your freer-practice pair.
 
@@ -7481,6 +7762,14 @@ This keeps the unit focused on message rewriting first, then turns one successfu
 
 **Planning Notes**
 {{PH-1: U21-transfer-notes}}
+
+Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
+
+If you want to use real workplace writing, you may do so, but it is not required.
+---
+
+**Homework Draft**
+{{PH-5: U21-homework-pack}}
 
 ### E. Extended Writing Task - Rewrite a Set of Communications
 
@@ -7510,23 +7799,20 @@ Write each document in its own box.
 **Message 3**
 {{PH-2: U21-extended-message-3}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing your next rewritten message set, check:
+
+1. Do all messages sound like they come from one team?
+2. Is the tone level stable?
+3. Is the structure similar across the messages?
+4. Is the formatting predictable?
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
 
 2. Which standard phrase or rule from this unit would be most useful as a shared team default?  
 
 3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
-
-### H. Homework
-
-Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
-
-If you want to use real workplace writing, you may do so, but it is not required.
----
-
-**Homework Draft**
-{{PH-5: U21-homework-pack}}
 
 ## Unit 22 - Multi-Document Communication Task
 
@@ -7557,7 +7843,7 @@ You must produce **three documents**:
 
 3. A **short internal notice** for the team (vertical/internal communication).
 
-### A. Warm-Up: Analyse the Situation
+#### Warm-Up: Analyse the Situation
 
 Answer the questions:
 
@@ -7583,7 +7869,7 @@ Write your answers:
 
 - decide what detail level each reader needs
 
-### B. Model Check: Why Audience Control Matters
+### B. Model Check
 
 This unit is stronger than earlier units because one situation now requires **three** reader views.
 
@@ -7599,7 +7885,9 @@ The tone, detail, and purpose change.
 
 If all three texts sound the same, the communication set does not match the real workplace need.
 
-### C. Language - Three Audiences, Three Styles
+### C. Language Focus
+
+#### 1. Language - Three Audiences, Three Styles
 
 #### (A) Applicant Reply - Polite, supportive, clear
 
@@ -7631,7 +7919,7 @@ If all three texts sound the same, the communication set does not match the real
 
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 
-### C. Practice A - Match Tone to Audience
+#### 2. Match Tone to Audience
 
 Rewrite each sentence for the appropriate audience.
 
@@ -7647,7 +7935,7 @@ Rewrite each sentence for the appropriate audience.
 4. (Applicant) "Send the document quickly."
    ->
 
-### D. Guided Practice - Write the Applicant Reply
+### D. Guided Practice
 
 Write a **4-5 sentence** email replying directly to the applicant.
 Include:
@@ -7669,7 +7957,7 @@ Use this box for one complete version.
 **Applicant Reply**
 {{PH-3: U22-guided-applicant-reply}}
 
-### D. Guided Practice - Write the Colleague Explanation
+### D. Guided Practice
 
 Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
 Include:
@@ -7689,7 +7977,7 @@ Write one sentence on each line where possible.
 **Colleague Explanation**
 {{PH-2: U22-guided-colleague-explanation}}
 
-### D. Guided Practice - Write the Internal Notice
+### D. Guided Practice
 
 Write a **3-4 sentence** notice for the wider team.
 Include:
@@ -7727,15 +8015,6 @@ Use this box for one complete version.
 **Internal Notice**
 {{PH-3: U22-guided-internal-notice}}
 
-### F. Self-Check Before Freer Practice
-
-Before writing the full three-document set, check:
-
-1. Did I identify the three readers clearly?
-2. Does each document have a different job?
-3. Are the shared facts consistent across all three?
-4. Is the tone right for each audience?
-
 ### E. Planning Board - Three Documents from One Situation
 
 Before drafting the full set, map the same situation across the three readers.
@@ -7757,7 +8036,22 @@ Use this quick test:
 - if a sentence explains team workflow only, keep it out of the applicant reply
 - if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
 
-### E. Freer Practice - Full Multi-Document Set
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
+
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
+
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
+
+3. What planning step would help you control consistency across all three documents next time?
+
+### E. Freer Practice
 
 Choose **one** of the scenarios below and write all three documents:
 
@@ -7790,7 +8084,22 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-2: U22-freer-internal-notice}}
 
-### G. Editing Practice: Separate The Three Voices
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
+
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
+
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
+
+3. What planning step would help you control consistency across all three documents next time?
+
+### G. Editing Practice
 
 Rewrite the short draft below into three clearer document openings.
 
@@ -7807,7 +8116,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U22-editing-rewrite}}
 
-### H. Transfer Extension: Cross-Document Consistency Check
+### H. Homework & Extension
 
 Before finalizing the pack, compare the three drafts line by line.
 
@@ -7837,6 +8146,12 @@ Write one sentence on each line where possible.
 
 **Write Here**
 {{PH-1: U22-transfer-response}}
+
+Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
+---
+
+**Homework Draft**
+{{PH-3: U22-homework-document}}
 
 ### E. Extended Writing Task - Multi-Audience Communication Pack
 
@@ -7875,21 +8190,20 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-2: U22-multi-doc-internal-notice}}
 
-### F. Reflection
+### F. Review & Self-Assessment
+
+Before writing the full three-document set, check:
+
+1. Did I identify the three readers clearly?
+2. Does each document have a different job?
+3. Are the shared facts consistent across all three?
+4. Is the tone right for each audience?
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
 
 2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?  
 
 3. What planning step would help you control consistency across all three documents next time?
-
-### H. Homework
-
-Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
----
-
-**Homework Draft**
-{{PH-3: U22-homework-document}}
 
 ## Unit 23 - Portfolio Writing & Final Revision
 
@@ -7930,7 +8244,7 @@ Your final submission should show:
 
 - Consistency across documents
 
-### A. Warm-Up: Select Your Drafts
+#### Warm-Up: Select Your Drafts
 
 Look back at your writing from Units 1-22.
 Choose **three drafts** you want to improve:
@@ -7946,7 +8260,7 @@ Write the titles or sources of the drafts you chose:
 2.
 3.
 
-### B. Model Check: Why Portfolio Revision Matters
+### B. Model Check
 
 A portfolio is not only a collection of old drafts.  
 It should show that you can:
@@ -7961,7 +8275,9 @@ It should show that you can:
 Revision shows professional control.  
 A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
 
-### C. Language - Advanced Editing Checklist
+### C. Language Focus
+
+#### 1. Language - Advanced Editing Checklist
 
 Before revising your drafts, check for:
 
@@ -8003,7 +8319,7 @@ Before revising your drafts, check for:
 
 4. check formatting and consistency
 
-### C. Practice A - Edit a Draft Email
+#### 2. Edit a Draft Email
 
 Choose **one email** from your previous work.
 Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
@@ -8012,7 +8328,7 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 
 **Revised email:**
 
-### C. Practice B - Edit a Paragraph
+#### 3. Edit a Paragraph
 
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
@@ -8035,7 +8351,7 @@ Revision focus:
 
 **Revised paragraph:**
 
-### C. Practice C - Edit a Notice or Short Message
+#### 4. Edit a Notice or Short Message
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience.
@@ -8056,15 +8372,6 @@ Mini edit test:
 **Original message:**
 
 **Revised message:**
-
-### F. Self-Check Before Final Submission
-
-Before you submit your portfolio, ask:
-
-1. Does each document match its reader and purpose?
-2. Did I improve accuracy, clarity, and tone?
-3. Are the final versions consistent in formatting and style?
-4. Does the new Unit 23 document fit the rest of the portfolio?
 
 ### E. Portfolio Assembly Board
 
@@ -8088,7 +8395,45 @@ Before finalizing, check:
 - Is one item clearly weaker than the rest?
 - Does the new Unit 23 document add a skill the earlier pieces do not already show?
 
-### D. Guided Practice - Create a New Document
+### F. Review & Self-Assessment
+
+Before you submit your portfolio, ask:
+
+1. Does each document match its reader and purpose?
+2. Did I improve accuracy, clarity, and tone?
+3. Are the final versions consistent in formatting and style?
+4. Does the new Unit 23 document fit the rest of the portfolio?
+
+Before submission, test whether the portfolio really shows range.
+
+| Check question | Yes / No |
+| --- | --- |
+| Does the set include more than one audience type? |  |
+| Does at least one piece explain a problem or status clearly? |  |
+| Does at least one piece ask for or guide action? |  |
+| Does at least one piece show revision from a weaker earlier draft? |  |
+| Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? |  |
+
+**If you answer `No` to any item**
+
+Do not only polish sentence-level grammar.  
+Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
+
+Write each document in its own box.
+
+**Revised External Email**
+{{PH-4: U23-portfolio-external-email}}
+
+**Revised Internal Explanation or Notice**
+{{PH-3: U23-portfolio-internal-document}}
+
+**Revised Report Paragraph**
+{{PH-3: U23-portfolio-report-paragraph}}
+
+**New Unit 23 Document**
+{{PH-4: U23-portfolio-new-document}}
+
+### D. Guided Practice
 
 Write **one new document** based on a scenario below.
 Choose ONE:
@@ -8150,7 +8495,14 @@ Portfolio quality reminder:
 - each document should feel finished enough to keep in a real workplace file set
 - the new Unit 23 piece should not feel weaker than the revised earlier pieces
 
-### F. Portfolio Balance Check
+### F. Review & Self-Assessment
+
+Before you submit your portfolio, ask:
+
+1. Does each document match its reader and purpose?
+2. Did I improve accuracy, clarity, and tone?
+3. Are the final versions consistent in formatting and style?
+4. Does the new Unit 23 document fit the rest of the portfolio?
 
 Before submission, test whether the portfolio really shows range.
 
@@ -8198,6 +8550,26 @@ What is this document supposed to help the reader do next?
 
 If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
 
+### H. Homework & Extension
+
+Write a short plan for future workplace writing.
+
+Include:
+
+- one strength you want to keep using
+- one editing habit you want to remember
+- one area you still want to improve
+
+Write one sentence on each line where possible.
+
+**Write Here**
+{{PH-1: U23-transfer-response}}
+
+Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+**Homework Draft**
+{{PH-3: U23-homework-document}}
+
 ### F. Portfolio Review Rubric
 
 Use this rubric to check your final portfolio. Mark each criterion as:
@@ -8219,7 +8591,7 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 
 Your teacher or reviewer can use a companion marking note aligned to this rubric.
 
-### G. Editing Practice: Explain One Revision Decision
+### G. Editing Practice
 
 Choose one document from your portfolio.
 
@@ -8234,7 +8606,7 @@ Write the full corrected version below.
 **Write Your Revised Version**
 {{PH-2: U23-editing-rewrite}}
 
-### H. Transfer Extension: Next-Time Writing Plan
+### H. Homework & Extension
 
 Write a short plan for future workplace writing.
 
@@ -8249,6 +8621,11 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U23-transfer-response}}
 
+Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
+
+**Homework Draft**
+{{PH-3: U23-homework-document}}
+
 ### F. Reflection
 
 1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?  
@@ -8256,13 +8633,6 @@ Write one sentence on each line where possible.
 2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?  
 
 3. Which revision habit from this course should become part of your real workplace writing routine from now on?  
-
-### H. Homework (Final Course Task)
-
-Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
-
-**Homework Draft**
-{{PH-3: U23-homework-document}}
 
 ## Module 6 Review Workshop
 
@@ -8534,7 +8904,3 @@ Use these prompts:
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
-
-
-
-
