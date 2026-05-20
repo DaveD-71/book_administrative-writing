@@ -55,17 +55,15 @@ pandoc adv\md\working\aw-adv-all_0516.md ^
 
 ```bash
 python ../textmaker/scripts/postprocess_docx.py \
-  adv/md/working/aw-adv-all.docx \
-  --source-md adv/md/working/aw-adv-all_0516.md \
+  adv/md/working/aw-adv-all_0516.docx \
   --reference-doc adv/md/working/aw-adv-styleref.docx
 ```
 
-`--source-md` points to the Markdown source file. The postprocessor reads its YAML
-front matter to resolve style names (e.g. `style_bridge.body_text: "AW Body Text"`),
-keeping the same single source of truth used by `style_bridge.lua` during Pandoc conversion.
+This applies structural cleanup only (list styles, heading codes, table styles, placeholder tables).
+It does **not** create or modify styles, insert TOC section breaks, or insert H1 page breaks.
 
-This applies structural cleanup only (section breaks, page numbering, heading codes).
-It does **not** create or modify styles.
+- **`--toc`** — add only if the document has a Word/Pandoc Table of Contents that needs its own section
+- **`--h1-sections`** — add only if the reference DOCX does NOT set `pageBreakBefore` on Heading 1; omit for this textbook since the styleref handles it
 
 ---
 
