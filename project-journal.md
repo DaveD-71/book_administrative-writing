@@ -1767,3 +1767,52 @@ Historical note:
 - Ran `textmaker.cmd docx-to-pdf` with absolute paths and generated `int/md/working/aw-int-all_0519_stage7a.pdf`; PDF verified as 250 pages, A4, PDF 1.7.
 - Note: a first relative-path `docx-to-pdf` attempt failed because the command resolved the input under `C:\Dev\Code\textmaker`; use absolute paths for this command.
 
+### 2026-05-20 - Session 16: Answer Keys Created For Both INT And ADV Books
+
+**Files created:**
+
+- `int/md/working/aw-int-answer-key.md` (42 KB) — complete coverage of all 23 INT units + 6 module review workshops
+- `adv/md/working/aw-adv-answer-key.md` (31 KB) — detailed answers for ADV Units 1–5; instructor guidance for Units 6–23
+
+**INT answer key coverage (all 23 units):**
+
+Consistent exercise coverage per unit:
+
+- Warm-up comparison answers (B option is always the better answer — the 1b/2b/3b pattern holds throughout)
+- Language exercise model answers (SVO identification, sentence building, rewrites, simplification)
+- Guided Practice model emails and paragraphs
+- Editing Practice model fixes
+- Assessment guidance notes for open-ended exercises (Freer Practice, Transfer Extension, Reflection, Homework)
+- Module review workshop guidance for all 6 modules
+
+Key patterns documented:
+
+- Units 1–3: SVO control, parallel structure, flow clarity
+- Units 4–7: Tone, directness, hedging, email register
+- Units 8–11: Cohesion, connectors, linking devices
+- Units 12–15: Paragraph structure, report and memo conventions
+- Units 16–18: Editing for concision and style (heavier reliance on student-generated material; model answers shorter)
+- Units 19–23: Integrated and portfolio tasks (instructor rubric guidance only, no fixed model answers)
+
+**ADV answer key coverage:**
+
+Units 1–5 (detailed specific answers):
+
+- Unit 1: Coordinator choices (and/but/so/yet), subordination function labels (reason/contrast/time), segmentation/Pattern 1/Pattern 2 model rewrites, ambiguous sentence analysis + rewrites
+- Unit 2: Match-softening-to-function table, rewrite-direct-questions model answers, audience-version selection (A=internal/B=agency/C=foreign), diplomatic rewrites with strategy labels
+- Unit 3: Cohesive/disjointed classification with reasons, sentence sequencing (B→C→A→D), reference word replacements, logical connector additions
+- Unit 4: Email structure analysis, multi-part email model rewrite
+- Unit 5: Phrase bank sorted by function, precision rewrite model answers
+
+Units 6–23 (instructor guidance frameworks):
+
+- Consistent guidance structure: exercise types, expected patterns, common errors, assessment notes
+- Intended as a base for instructor expansion; unit-specific exercise detail not yet added
+
+**Appendices added to ADV key:**
+
+- Exercise taxonomy table (exercise types vs. cognitive level)
+- Common student errors by module
+
+**Outstanding:** ADV Units 6–23 have framework guidance only — unit-specific exercise answers (match tables, sequencing, model rewrites) remain to be added in a follow-up session.
+
