@@ -973,3 +973,11 @@ Historical note:
 - Decision: heading-to-div reclassification should not reduce specific, useful activity titles to generic repeated content. Preserve meaningful information about document type, audience, purpose, language feature, scenario, or decision point.
 - Preferred behavior: when converting a heading to a semantic div, keep the specific title information in one of three places: the div label, a short body sublabel, or the first instruction line. Avoid broad runs of labels like only `Practice`, `Example`, `Rewrite`, or `Notice` when the original heading carried useful orientation for students.
 
+## 2026-05-20 - Canonical Build CLI Is Documented In adv/README-build.md
+
+- Status: `active`
+- Scope: project/tooling
+- Decision: `adv/README-build.md` is the single source of truth for the correct `textmaker.cmd` CLI arguments for both the ADV and INT DOCX builds and for PDF conversion. Before running any build, read that file first rather than reconstructing the command from memory.
+- Observation: both books use identical `markdown-to-docx` arguments except for `--input` and `--output`; the shared styleref is always `adv\md\working\aw-adv-styleref.docx`; required flags are `--no-pagebreak-filter --apply-semantic-labels --tag-style outline`; `--h1-sections` and `--toc` must never be passed for this project.
+- Preferred behavior: when a future session needs to run a DOCX or PDF build, open `adv/README-build.md` immediately — do not guess flags or reconstruct the command from project-learning entries alone.
+

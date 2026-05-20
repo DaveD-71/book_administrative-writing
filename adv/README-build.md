@@ -1,14 +1,6 @@
-# Advanced textbook — DOCX build guide
+# Administrative Writing — DOCX & PDF build guide
 
 All commands assume the working directory is the `book_administrative-writing/` repo root.
-
----
-
-## Prerequisites
-
-- Pandoc installed and on PATH
-- `python-docx`, `lxml`, and `pyyaml` installed (`pip install python-docx lxml pyyaml`)
-- The `textmaker` repo checked out alongside this repo as a sibling directory
 
 ---
 
@@ -16,80 +8,91 @@ All commands assume the working directory is the `book_administrative-writing/` 
 
 | File | Purpose |
 |---|---|
-| `adv/md/working/<date>.md` | Active Markdown source with YAML `style_map` metadata (e.g. `aw-adv-all_0516.md`) |
-| `adv/md/working/aw-adv-styleref.docx` | Reference DOCX — single source of truth for all style definitions |
-| `adv/style_specs/aw-div-label-styles.yaml` | YAML spec for Div label colors and fonts (manual maintenance input) |
-| `../textmaker/scripts/style_bridge.lua` | Lua filter that maps Div classes to Word custom styles from YAML metadata |
-| `../textmaker/scripts/postprocess_docx.py` | Structural DOCX cleanup (section breaks, page numbering, heading codes) |
-| `../textmaker/scripts/manage_docx_styles.py` | Manual maintenance tool for updating reference DOCX styles |
-| `../textmaker/scripts/audit_docx_styles.py` | Inspect reference DOCX style definitions without modifying |
-| `../textmaker/scripts/validate_docx_against_reference.py` | Validate generated DOCX styles against reference DOCX |
+| `adv/md/working/<date>.md` | ADV active Markdown source (e.g. `aw-adv-all_0516.md`) |
+| `int/md/working/<date>.md` | INT active Markdown source (e.g. `aw-int-all_0519.md`) |
+| `adv/md/working/aw-adv-styleref.docx` | **Single shared reference DOCX for both books** — canonical source for all style definitions, headers/footers, and page setup |
+| `adv/style_specs/aw-div-label-styles.yaml` | YAML spec for Div label colors/fonts (manual maintenance only) |
+| `../textmaker/scripts/style_bridge.lua` | Lua filter — maps fenced Div classes to Word styles via YAML `style_map` in Markdown front matter |
+| `../textmaker/scripts/postprocess_docx.py` | Structural DOCX cleanup (run automatically by `markdown-to-docx`) |
+| `../textmaker/scripts/manage_docx_styles.py` | Manual reference DOCX style maintenance — not part of the automated build |
+| `../textmaker/scripts/validate_docx_against_reference.py` | Post-build style validator |
 
 ---
 
-## Step 1 — Pandoc conversion
+## Canonical build command — both books
 
-```bash
-pandoc adv/md/working/aw-adv-all_0516.md \
-  --from markdown \
-  --to docx \
-  --reference-doc adv/md/working/aw-adv-styleref.docx \
-  --lua-filter ../textmaker/scripts/style_bridge.lua \
-  -o adv/md/working/aw-adv-all_0516.docx
-```
+The single CLI entry point for all DOCX generation is `textmaker.cmd markdown-to-docx`. Run from `book_administrative-writing/`:
 
-On Windows (cmd.exe):
-
+**Advanced book:**
 ```cmd
-pandoc adv\md\working\aw-adv-all_0516.md ^
-  --from markdown ^
-  --to docx ^
-  --reference-doc adv\md\working\aw-adv-styleref.docx ^
+textmaker.cmd markdown-to-docx ^
+  --input adv\md\working\aw-adv-all_0516.md ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
   --lua-filter ..\textmaker\scripts\style_bridge.lua ^
-  -o adv\md\working\aw-adv-all_0516.docx
+  --output adv\md\working\aw-adv-all_0516.docx ^
+  --no-pagebreak-filter ^
+  --apply-semantic-labels ^
+  --tag-style outline
 ```
+
+**Intermediate book:**
+```cmd
+textmaker.cmd markdown-to-docx ^
+  --input int\md\working\aw-int-all_0519.md ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
+  --lua-filter ..\textmaker\scripts\style_bridge.lua ^
+  --output int\md\working\aw-int-all_0519.docx ^
+  --no-pagebreak-filter ^
+  --apply-semantic-labels ^
+  --tag-style outline
+```
+
+**The command is identical for both books** except for `--input` and `--output`. Both use the same `aw-adv-styleref.docx` reference.
+
+### Flag rationale
+
+| Flag | Why |
+|---|---|
+| `--reference adv\md\working\aw-adv-styleref.docx` | Shared single source of truth for styles, headers/footers, and page setup for both books |
+| `--lua-filter ..\textmaker\scripts\style_bridge.lua` | Maps fenced Div classes to Word styles defined in Markdown YAML `style_map` |
+| `--no-pagebreak-filter` | Prevents Textmaker's `pagebreak.lua` from converting `---` separators into page breaks; `style_bridge.lua` suppresses them correctly |
+| `--apply-semantic-labels` | Enables icon label tables, Div label character styles, and unit title table insertion |
+| `--tag-style outline` | Uses the outline icon variant before Div label text |
+| *(no `--h1-sections`)* | H1 headings already have `pageBreakBefore` set in the styleref — adding section breaks via postprocess breaks header/footer inheritance across the document |
+| *(no `--toc`)* | TOC is not used in this project |
 
 ---
 
-## Step 2 — Structural post-processing (default, safe)
+## PDF conversion
 
-```bash
-python ../textmaker/scripts/postprocess_docx.py \
-  adv/md/working/aw-adv-all_0516.docx \
-  --reference-doc adv/md/working/aw-adv-styleref.docx
+Pass **absolute paths** when running `docx-to-pdf` from outside the Textmaker repo root. Relative paths resolve under the Textmaker directory and fail silently.
+
+```powershell
+$t = "\\<server>\...\textmaker"
+
+& "$t\textmaker.cmd" docx-to-pdf `
+  --input  "\\<server>\...\book_administrative-writing\adv\md\working\aw-adv-all_0516.docx" `
+  --output "\\<server>\...\book_administrative-writing\adv\md\working\aw-adv-all_0516.pdf"
+
+& "$t\textmaker.cmd" docx-to-pdf `
+  --input  "\\<server>\...\book_administrative-writing\int\md\working\aw-int-all_0519.docx" `
+  --output "\\<server>\...\book_administrative-writing\int\md\working\aw-int-all_0519.pdf"
 ```
 
-This applies structural cleanup only (list styles, heading codes, table styles, placeholder tables).
-It does **not** create or modify styles, insert TOC section breaks, or insert H1 page breaks.
-
-- **`--toc`** — add only if the document has a Word/Pandoc Table of Contents that needs its own section
-- **`--h1-sections`** — add only if the reference DOCX does NOT set `pageBreakBefore` on Heading 1; omit for this textbook since the styleref handles it
+`docx-to-pdf` uses Word COM and typically completes in under 60 seconds per book.
 
 ---
 
-## Step 3 — Style validation
-
-```bash
-python ../textmaker/scripts/validate_docx_against_reference.py \
-  adv/md/working/aw-adv-all.docx \
-  --reference adv/md/working/aw-adv-styleref.docx \
-  --style-map adv/style_specs/aw-div-label-styles.yaml
-```
-
-Exit code 0 = all styles consistent. Non-zero = report printed, build should be treated as failed.
-
----
-
-## Full build with semantic label rendering (Windows)
-
-When you want emoji labels, Div label character styles, and unit title tables:
+## Style validation (optional, post-build)
 
 ```cmd
-python ..\textmaker\scripts\postprocess_docx.py ^
-  adv\docx\aw-adv-all.docx ^
-  --reference-doc adv\md\final\aw-adv-styleref.docx ^
-  --apply-semantic-labels
+python ..\textmaker\scripts\validate_docx_against_reference.py ^
+  adv\md\working\aw-adv-all_0516.docx ^
+  --reference adv\md\working\aw-adv-styleref.docx ^
+  --style-map adv\style_specs\aw-div-label-styles.yaml
 ```
+
+Exit code 0 = all styles consistent with the reference. Non-zero = mismatch report printed.
 
 ---
 
@@ -97,39 +100,21 @@ python ..\textmaker\scripts\postprocess_docx.py ^
 
 To update Div label colors or fonts in the reference DOCX:
 
-```bash
-python ../textmaker/scripts/manage_docx_styles.py \
-  --input adv/md/working/aw-adv-styleref.docx \
-  --spec adv/style_specs/aw-div-label-styles.yaml \
-  --output adv/md/final/aw-adv-styleref.updated.docx
-```
-
-Review `aw-adv-styleref.updated.docx` in Word. If correct, replace the original:
-
-```bash
-python ../textmaker/scripts/manage_docx_styles.py \
-  --input adv/md/working/aw-adv-styleref.docx \
-  --spec adv/style_specs/aw-div-label-styles.yaml \
+```cmd
+python ..\textmaker\scripts\manage_docx_styles.py ^
+  --input adv\md\working\aw-adv-styleref.docx ^
+  --spec adv\style_specs\aw-div-label-styles.yaml ^
   --in-place
 ```
 
 `--in-place` creates a `.bak` backup automatically before overwriting.
 
-To audit the reference DOCX without modifying it:
-
-```bash
-python ../textmaker/scripts/audit_docx_styles.py \
-  adv/md/working/aw-adv-styleref.docx \
-  --filter "Div Label"
-```
-
 ---
 
 ## Design rules
 
-- The reference DOCX is the **only** place style definitions live.
+- `aw-adv-styleref.docx` is the **only** place style definitions live. Both books share it.
 - `postprocess_docx.py` never creates or redefines styles.
-- `manage_docx_styles.py` is a manual maintenance tool, not part of the automated build.
-- `style_bridge.lua` reads the `style_map` from the Markdown YAML front matter and passes
-  Div classes to Pandoc as `custom-style` attributes — no style definitions of its own.
-- If a mapped style is missing from the reference DOCX, validation fails loudly.
+- `manage_docx_styles.py` is a manual maintenance tool — never add it to the automated build.
+- `style_bridge.lua` reads the `style_map` from the Markdown YAML front matter — no hardcoded style names.
+- If a mapped style is missing from the reference DOCX, `validate_docx_against_reference.py` fails loudly.
