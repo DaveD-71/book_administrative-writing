@@ -9899,6 +9899,7 @@ Please send the correct form. We also need to tell the team there is a delay. Ev
 Version B
 
 External message: Thank you for your submission. We noticed that the attached form is not the required version. Could you please send the updated form by Thursday?
+
 Internal note: The file submitted today does not match the required template. Please pause the next review step until the corrected form arrives.
 :::
 

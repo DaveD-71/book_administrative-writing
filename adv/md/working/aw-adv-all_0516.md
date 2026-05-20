@@ -2640,7 +2640,13 @@ Original Text
 ::: example-good
 Revised Text
 
-*"Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November. The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability. We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice. Should any questions arise regarding the transition, please do not hesitate to contact our office."*
+*Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November.*
+
+*The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability.*
+
+*We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice.*
+
+*Should any questions arise regarding the transition, please do not hesitate to contact our office.*
 
 :::
 
@@ -3552,7 +3558,11 @@ Original Text
 ::: example-good
 Revised Text
 
-*"We would appreciate your assistance in confirming the current status of the applicant's submission. For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps. Your support is appreciated, and please let us know if any further information is required on our side."*
+*We would appreciate your assistance in confirming the current status of the applicant's submission.*
+
+*For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps.*
+
+*Your support is appreciated, and please let us know if any further information is required on our side.*
 
 :::
 
@@ -5264,7 +5274,7 @@ Revised Text
 
 **Overview:**
 
-*"The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility*
+*"The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility."*
 
 **Key Points:**
 
@@ -7422,8 +7432,11 @@ Response A
 Response B
 
 *"This report summarises current implementation challenges arising from the distribution of Circular 2024/12.*
+
 *Two main issues have been identified. First, terminology in the revised guidelines is being applied inconsistently: Office A has noted that the term 'submission date' is being interpreted differently across examining staff, creating variation in how applications are assessed. Second, implementation delays have been reported because some staff in Office B continue to use a previous version of the applicant form, despite the updated version having been distributed.*
+
 *Additionally, a number of offices raised questions during the recent coordination call regarding applicant communication timelines. No resolution was reached and no follow-up action was formally assigned.*
+
 *To address these issues, the following steps are proposed: a clarification note on revised terminology will be prepared and circulated within five working days; Office B is asked to confirm full adoption of the updated form by 31 January; and a brief follow-up consultation will be scheduled to resolve outstanding timeline questions. Offices that have not yet acknowledged receipt of Circular 2024/12 are asked to do so by end of week."*
 :::
 
