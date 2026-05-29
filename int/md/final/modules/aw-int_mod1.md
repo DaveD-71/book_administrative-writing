@@ -226,7 +226,7 @@ Before you draft, decide which sentence will do each job:
 
 Mini model:
 
-:::example
+::: example
 
 1. We received the wrong form with your submission.
 2. Please send the corrected form for this application.
@@ -503,7 +503,7 @@ Try to improve all three areas:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: blame first, urgent demand, no calm context
 - Stronger: short greeting, clear problem statement, polite request, stable tone
@@ -693,13 +693,13 @@ Read both paragraphs. Decide which one is **better organised**.
 
 #### Paragraph A
 
-:::example-good
+::: example-good
 We reviewed the updated guidelines yesterday. During the review, we found several sections that were unclear and inconsistent with earlier versions. These inconsistencies may cause confusion for staff who use the document. Additional notes will be compiled before we continue with the next stage of the review.
 :::
 
 #### Paragraph B
 
-:::example-bad
+::: example-bad
 We reviewed the updated guidelines yesterday. The office renovation will begin next month. Several sections in the document were unclear. Our team attended a training session last week.
 :::
 

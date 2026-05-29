@@ -45,7 +45,7 @@ It should:
 
 #### Example (Part of a Larger Manual)
 
-:::example
+::: example
 Steps to create a new file record:
 
 1. Open the database system.
@@ -63,7 +63,7 @@ Compare the two versions. Choose the clearer one.
 
 #### Version A
 
-:::example-bad
+::: example-bad
 - Check the form.
 
 - If it looks OK, then you can send it. But you might want to check the applicant ID first because sometimes it is wrong.
@@ -73,7 +73,7 @@ Compare the two versions. Choose the clearer one.
 
 #### Version B
 
-:::example-good
+::: example-good
 1. Check the form for complete and correct information.
 
 2. Confirm the applicant ID number.
@@ -144,7 +144,7 @@ Avoid vague verbs such as "handle," "do," or "fix" when a more exact action is p
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "Do the form."
 - Stronger: "Review the form and attach the signed copy."
@@ -408,7 +408,7 @@ An **internal notice** is a short message shared inside a department or organisa
 
 #### Example (Part of a Larger Internal Bulletin)
 
-:::example
+::: example
 Internal Notice - File System Update  
 The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
 :::
@@ -419,13 +419,13 @@ Read the two notices. Choose the clearer one.
 
 #### Notice A
 
-:::example-bad
+::: example-bad
 There was a problem with the system today. Please be careful. We will check it. Thank you.
 :::
 
 #### Notice B
 
-:::example-good
+::: example-good
 System Notice - Temporary Error  
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 :::
@@ -660,7 +660,7 @@ When you revise it, check:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak notice: vague warning, no action path
 - Stronger notice: clear topic, clear problem, clear reminder or next step
@@ -894,7 +894,7 @@ Try to make the reader understand:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "There is a problem with the file."
 - Stronger: "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
@@ -1138,7 +1138,7 @@ A meeting summary is a **brief record** of important points from a meeting. It:
 
 #### Example (Part of a Larger Report)
 
-:::example
+::: example
 Meeting Summary - Review Preparation Meeting  
 The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
 :::
@@ -1149,13 +1149,13 @@ Compare the two versions.
 
 #### Summary A
 
-:::example-bad
+::: example-bad
 We talked about many things. Some documents were mentioned. IT will do something with the system. We will meet again.
 :::
 
 #### Summary B
 
-:::example-good
+::: example-good
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
 :::
 
@@ -1620,7 +1620,7 @@ Add one sentence that makes the reader-use value visible:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak notice:
   - "The room will change next week."

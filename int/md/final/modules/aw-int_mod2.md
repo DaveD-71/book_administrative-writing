@@ -53,7 +53,7 @@ Read the two emails and choose which one is clearer and more professional.
 
 #### Email A
 
-:::example-bad
+::: example-bad
 Subject: Question
 
 Hi,
@@ -67,7 +67,7 @@ Thanks,
 
 #### Email B
 
-:::example-good
+::: example-good
 Subject: Question About Application Form
 
 Dear Ms. Tanaka,
@@ -457,7 +457,7 @@ Each stronger question should show:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "Tell me the details."
 - Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
@@ -837,7 +837,7 @@ Try to replace vague updates with:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "The meeting is delayed."
 - Stronger: "The meeting is delayed until Thursday because the updated file set is not yet complete."
@@ -1235,7 +1235,7 @@ Specific requests are easier to answer because they name:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "Could you update me?"
 - Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"

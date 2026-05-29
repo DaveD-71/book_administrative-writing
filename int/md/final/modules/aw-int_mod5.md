@@ -103,7 +103,7 @@ A small grammar error can become a workplace problem when it changes:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "The documents is complete."
 - Stronger: "The documents are complete."
@@ -338,11 +338,11 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 #### Example (Before -> After)
 
-:::example-bad
+::: example-bad
 **Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.
 :::
 
-:::example-good
+::: example-good
 **After:** The document appears to be missing some parts.
 :::
 
@@ -420,7 +420,7 @@ When you edit for clarity, ask:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
@@ -640,11 +640,11 @@ A poor tone may be:
 
 #### Example (Before -> After)
 
-:::example-bad
+::: example-bad
 **Before:** You didn't send the right file. Send the correct one now.
 :::
 
-:::example-good
+::: example-good
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 :::
 
@@ -729,7 +729,7 @@ Try to soften the message by changing:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak: "You made a mistake."
 - Stronger: "There seems to be an error in the current version."

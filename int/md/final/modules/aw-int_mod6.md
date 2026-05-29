@@ -197,7 +197,7 @@ You can use this simple frame:
 
 Mini contrast:
 
-:::example
+::: example
 
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
@@ -774,7 +774,7 @@ Compare the two emails. Identify inconsistencies in tone, format, structure, and
 
 #### Email A
 
-:::example-bad
+::: example-bad
 Subject: Info  
 Hi,  
 I saw it. What next?  
@@ -783,7 +783,7 @@ Thx.
 
 #### Email B
 
-:::example-good
+::: example-good
 Subject: Information Required for Review  
 Dear Team,  
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
@@ -2122,7 +2122,7 @@ Review the pack with these prompts:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak pack:
   - every document repeats "There is a problem with the file" and changes only the greeting

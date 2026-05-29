@@ -45,7 +45,7 @@ It should:
 
 #### Example (Part of a Larger Message Chain)
 
-:::example
+::: example
 Subject: Inquiry Regarding Updated Application Guidelines  
 Dear Review Office Team,
 We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.  
@@ -58,7 +58,7 @@ Compare the two versions.
 
 #### Email A
 
-:::example-bad
+::: example-bad
 Subject: Question  
 Hi,
 I don't understand the guidelines. Please explain.
@@ -66,7 +66,7 @@ I don't understand the guidelines. Please explain.
 
 #### Email B
 
-:::example-good
+::: example-good
 Subject: Question About Guidelines - Section 4  
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
@@ -168,7 +168,7 @@ For each one, make sure you:
 
 Mini model:
 
-:::example
+::: example
 
 - Weak: "What is the rule?"
 - Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
@@ -205,7 +205,7 @@ Use the background sentence to answer:
 
 Mini model:
 
-:::example
+::: example
 
 - Weak background: "I have a question."
 - Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
@@ -419,7 +419,7 @@ A simple explanation:
 
 #### Example (Part of a Larger Document)
 
-:::example
+::: example
 The review process will take longer this month because several files require additional checks. These checks are necessary to confirm applicant information. A further update will be provided next week.
 :::
 
@@ -519,7 +519,7 @@ Build each answer so the reader can understand:
 
 Mini model:
 
-:::example
+::: example
 
 - Weak: "The schedule changed."
 - Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
@@ -749,7 +749,7 @@ When someone is confused, your response should:
 
 #### Example (Part of a Longer Email Thread)
 
-:::example
+::: example
 Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
 :::
 
@@ -843,7 +843,7 @@ Aim for this order when possible:
 
 Mini model:
 
-:::example
+::: example
 
 - Weak: "You misunderstood the instructions."
 - Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
@@ -1064,12 +1064,12 @@ Consistency helps:
 
 #### Example - Inconsistent vs. Consistent
 
-:::example-bad
+::: example-bad
 **Inconsistent:**  
 Hi, I checked it. Please tell me what to do. Thanks.
 :::
 
-:::example-good
+::: example-good
 **Consistent:**  
 Dear Team,
 I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?  
@@ -1082,7 +1082,7 @@ Read the two emails. What is inconsistent?
 
 #### Email A
 
-:::example-bad
+::: example-bad
 Subject: Info  
 Hi,  
 I saw it. What next?  
@@ -1091,7 +1091,7 @@ Thx.
 
 #### Email B
 
-:::example-good
+::: example-good
 Subject: Information Required for Review  
 Dear Team,  
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
@@ -1222,7 +1222,7 @@ When you rewrite it, decide:
 
 Mini model:
 
-:::example
+::: example
 
 - Weak:
   Subject: Question
@@ -1565,7 +1565,7 @@ Now review the tone with this contrast:
 
 Mini contrast:
 
-:::example
+::: example
 
 - Weak:
   - "You misunderstood the form. Please read the instructions again."
