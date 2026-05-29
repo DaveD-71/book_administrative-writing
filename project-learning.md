@@ -995,19 +995,28 @@ Historical note:
 
 - Status: `active`
 - Scope: project/int-content
-- Last updated: 2026-05-29
-- Source files: `int/md/final/modules/aw-int_mod[1-6].md` (canonical — edit these, not the working file)
+- Last updated: 2026-05-29 (updated in session)
+- Active editing target: `int/md/working/aw-int-all_0519.md` (NOT module files — see workflow entry)
 
-1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances). Committed with module fixes.
-2. ✅ Fix `->` student answer lines — 147 instances book-wide (137 indented + 10 bare). All covered.
-3. ✅ Placeholder size verification — all 320 INT + 127 ADV markers migrated to `{{PH-N: id | rows=R}}` format. Committed `77e6b81` (INT) and `f09c9fc` (ADV).
-4. ✅ Fix checklist formatting — self-check numbered lists and "Your labels" converted to `- [ ]` checkboxes. Committed `0b7b163`.
-5. ✅ Fix Focus stem mismatch — "By the end of this unit, you should be able to:" changed to "By the end of this unit, I will be able to:" across all 23 units. Committed `02f976c`.
-   - Decision: future tense ("I will be able to:") was chosen over "I can:" because future tense is more appropriate as a learning objective framing alongside present-tense self-assessment items ("I can..."). This is the final decision — no further change needed.
-6. ✅ Div pass 6a — A. section example divs applied across all 23 units. Committed `4e16797`.
-   - Key finding: block-level examples are in A. sections (warm-ups), not B. Model Check. B. is explanatory text referring back to A.
-   - Vocabulary used in source: Weak/Strong, Version A/B, Email A/B, Paragraph A/B, Notice A/B, Before/After, Inconsistent/Consistent.
-   - Applied: `:::example-bad` (weaker/original), `:::example-good` (stronger/revised), `:::example` (neutral standalone).
+1. ✅ Fix `Clear:` lines — PH markers added in module files and working file.
+2. ✅ Fix `->` student answer lines — 147 instances, all covered in both files.
+3. ✅ Placeholder size verification — all markers migrated to `{{PH-N: id | rows=R}}` format. INT working file: 406 markers. ADV: 127 markers.
+4. ✅ Fix checklist formatting — self-check numbered lists and "Your labels" → `- [ ]`. 308 checkboxes in working file.
+5. ✅ Fix Focus stem — "I will be able to:" across all 23 units. Future tense final — no further change.
+6. ✅ Div pass 6a — A. section example-bad/example-good divs. Working file: 579 balanced div pairs.
+7. ✅ Div pass 6b — Mini model/contrast blocks in :::example. Done in working file.
+8. ✅ Div pass 6c — Full semantic div classification. Restored from pre-`e88e828` git state (552 divs), then expanded to 579 with 6a/6b splits. All 23 units covered.
+9. ✅ Why this works — already prose in working file from stage 7A.
+10. ✅ Email formatting in D. — 2 run-on blockquote emails fixed.
+11. ✅ Inline structural labels — Unit 3 C.1 T/S/C labels removed. Other bold label patterns (Before/After, Weak/Stronger, Situation, Discussion) confirmed correctly used.
+12. ✅ Mod6 A-H heading standardization — 38 duplicate headings demoted to #### in working file. Committed `ee84776`.
+13. ✅ Weak/Stronger splits — 6 B. Model Check `:::learn` divs containing `- Weak:` / `- Stronger:` bullet pairs split into proper `:::example-bad` / `:::example-good` divs. Committed `2b7c4c8`. Divs now 579 balanced.
+14. ✅ Section letter ordering audit — F before E is INTENTIONAL throughout (self-check gate before freer practice). Unit 23 F→E→D is also intentional (capstone flow). No reordering needed.
+15. **Next: Rebuild INT DOCX and PDF from working file.**
+
+**Design decision — section ordering:**
+The pattern A B C D F E G H (F before E) in all 23 units is deliberate: `### F. Self-Check Before Freer Practice` is positioned as a gate that must be completed before `### E. Freer Practice`. Do not reorder these sections in future editing passes.
+
 7. 🔄 **Div pass 6b — NEXT: E. Freer Practice mini-model divs**
    - Any block labelled "Mini model", "Mini Example", "Mini contrast", or showing a sample response in an E. section → `:::example` ... `:::`
    - Work through all 23 units.
