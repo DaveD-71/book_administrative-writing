@@ -1,4 +1,4 @@
-## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
+﻿## Module 3 — Writing Complex Procedures & Internal Explanations (Units 8–11)
 
 *Homework target: ~200 words*
 
@@ -144,7 +144,7 @@ Rewrite the original unclear procedure from Section B into a structured, formal 
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U08-D1-guided-rewrite}}
+{{PH-2: U08-D1-guided-rewrite | rows=8}}
 
 #### Information Reorganisation (D5)
 
@@ -162,7 +162,7 @@ Reorganise the information into a clearly numbered, logically sequenced procedur
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U08-D5-reorganised-version}}
+{{PH-3: U08-D5-reorganised-version | rows=10}}
 
 ### E. Freer Writing
 
@@ -188,7 +188,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U08-E1-freer-write}}
+{{PH-4: U08-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -238,7 +238,7 @@ Write your revised version as a numbered procedure with step labels.
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U08-G2-editing-rewrite}}
+{{PH-3: U08-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -260,7 +260,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U08-H3-homework-draft}}
+{{PH-4: U08-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -400,7 +400,7 @@ Rewrite the original unclear message from Section B. Your version must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U09-D1-guided-rewrite}}
+{{PH-2: U09-D1-guided-rewrite | rows=8}}
 
 #### Template-Guided Writing (D3)
 
@@ -436,7 +436,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U09-D3-guided-draft}}
+{{PH-3: U09-D3-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -462,7 +462,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U09-E1-freer-write}}
+{{PH-4: U09-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -513,7 +513,7 @@ Write your full revised version as a coherent change management notice.
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U09-G2-editing-rewrite}}
+{{PH-3: U09-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -536,7 +536,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U09-H3-homework-draft}}
+{{PH-4: U09-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -674,7 +674,7 @@ Rewrite the original vague explanation from Section B. Your version must include
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U10-D1-guided-rewrite}}
+{{PH-2: U10-D1-guided-rewrite | rows=8}}
 
 #### Scenario-Based Writing (D2)
 
@@ -697,7 +697,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U10-D2-guided-draft}}
+{{PH-3: U10-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -723,7 +723,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U10-E2-freer-write}}
+{{PH-4: U10-E2-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -770,7 +770,7 @@ Your revised version must:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U10-G1-editing-rewrite}}
+{{PH-2: U10-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -793,7 +793,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U10-H3-homework-draft}}
+{{PH-4: U10-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -939,7 +939,7 @@ Your rewrite should include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U11-D1-guided-rewrite}}
+{{PH-2: U11-D1-guided-rewrite | rows=8}}
 
 #### Format Conversion (D7)
 
@@ -975,7 +975,7 @@ Write the converted summary using formal, complete sentences. Attribute action i
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U11-D7-format-conversion}}
+{{PH-3: U11-D7-format-conversion | rows=10}}
 
 ### E. Freer Writing
 
@@ -1002,7 +1002,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U11-E1-freer-write}}
+{{PH-4: U11-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -1052,7 +1052,7 @@ Write your revised version as a complete, properly formatted executive summary.
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U11-G2-editing-rewrite}}
+{{PH-3: U11-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -1076,7 +1076,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U11-H3-homework-draft}}
+{{PH-4: U11-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 

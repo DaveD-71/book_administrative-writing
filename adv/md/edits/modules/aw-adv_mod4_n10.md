@@ -1,4 +1,4 @@
-## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
+﻿## Module 4 — Cross-Border & Interagency Communication (Units 12–15)
 
 *Homework target: ~250 words*
 
@@ -201,7 +201,7 @@ Rewrite the original text from Section B using:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U12-D1-guided-rewrite}}
+{{PH-2: U12-D1-guided-rewrite | rows=8}}
 
 #### Two-Audience Version Task (D4)
 
@@ -219,7 +219,7 @@ Discuss: What changes did you make for the internal audience? What did you remov
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U12-D4-two-audience-draft}}
+{{PH-3: U12-D4-two-audience-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -246,7 +246,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U12-E3-role-based-write}}
+{{PH-4: U12-E3-role-based-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -296,7 +296,7 @@ Your edited version should:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U12-G2-editing-rewrite}}
+{{PH-3: U12-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -308,7 +308,7 @@ Identify one situation in your current or recent work where a more clearly struc
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U12-H2-real-world-draft}}
+{{PH-3: U12-H2-real-world-draft | rows=12}}
 
 #### Homework Writing Task (H3)
 
@@ -329,7 +329,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U12-H3-homework-draft}}
+{{PH-4: U12-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -498,7 +498,7 @@ Rewrite the vague original model from Section B using:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U13-D1-guided-rewrite}}
+{{PH-2: U13-D1-guided-rewrite | rows=8}}
 
 #### Scenario-Based Risk Assessment (D2)
 
@@ -524,7 +524,7 @@ Your assessment must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U13-D2-guided-draft}}
+{{PH-3: U13-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -550,7 +550,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U13-E1-freer-write}}
+{{PH-4: U13-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -605,7 +605,7 @@ Risk and impact writing relies heavily on conditional and hedging language to ex
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U13-G1-editing-rewrite}}
+{{PH-2: U13-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -627,7 +627,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U13-H3-homework-draft}}
+{{PH-4: U13-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -791,7 +791,7 @@ Rewrite the original text from Section B using:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U14-D1-guided-rewrite}}
+{{PH-2: U14-D1-guided-rewrite | rows=8}}
 
 #### Two-Audience Version Task (D4)
 
@@ -811,10 +811,10 @@ Discuss: What did you change between the two versions? Which version required mo
 ---
 
 **Version A**
-{{PH-3: U14-D4-version-a}}
+{{PH-3: U14-D4-version-a | rows=10}}
 
 **Version B**
-{{PH-3: U14-D4-version-b}}
+{{PH-3: U14-D4-version-b | rows=10}}
 
 ### E. Freer Writing
 
@@ -835,10 +835,10 @@ Together, your two pieces form a communication package for the same procedural c
 Write each part in its own box.
 
 **Document 1**
-{{PH-3: U14-E4-task-1}}
+{{PH-3: U14-E4-task-1 | rows=12}}
 
 **Document 2**
-{{PH-4: U14-E4-task-2}}
+{{PH-4: U14-E4-task-2 | rows=18}}
 
 ### F. Review & Self-Assessment
 
@@ -886,7 +886,7 @@ Your edited version should:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U14-G2-editing-rewrite}}
+{{PH-3: U14-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -902,7 +902,7 @@ Write a **220–260 word** multi-audience notice for a procedural or policy chan
 
 
 **Homework Draft**
-{{PH-4: U14-H3-homework-draft}}
+{{PH-4: U14-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -1068,7 +1068,7 @@ Rewrite the weak original from Section B. Your rationale should include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U15-D1-guided-rewrite}}
+{{PH-2: U15-D1-guided-rewrite | rows=8}}
 
 #### Template-Guided Writing (D3)
 
@@ -1093,7 +1093,7 @@ Adapt the template as needed. Your rationale should be 5–7 sentences.
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U15-D3-guided-draft}}
+{{PH-3: U15-D3-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -1120,7 +1120,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U15-E1-freer-write}}
+{{PH-4: U15-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -1171,7 +1171,7 @@ For each decision: state whether you accept or reject the change, and explain in
 ---
 
 **Write Your Decisions**
-{{PH-2: U15-G3-decision-notes}}
+{{PH-2: U15-G3-decision-notes | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1194,7 +1194,7 @@ Choose one situation:
 
 
 **Homework Draft**
-{{PH-4: U15-H3-homework-draft}}
+{{PH-4: U15-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 

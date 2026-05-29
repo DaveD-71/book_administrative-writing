@@ -1,4 +1,4 @@
-## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
+﻿## Module 6 — Capstone & Applied Administrative Writing (Units 19–23)
 
 *Homework target: ~280–350 words, with the longest tasks in Units 22–23*
 
@@ -194,7 +194,7 @@ Using the improved version as your guide, rewrite the original technical text fr
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U19-D1-guided-rewrite}}
+{{PH-2: U19-D1-guided-rewrite | rows=8}}
 
 #### Format Conversion (D7)
 
@@ -220,7 +220,7 @@ Your plain-language summary must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U19-D7-format-conversion}}
+{{PH-3: U19-D7-format-conversion | rows=10}}
 
 ### E. Freer Writing
 
@@ -250,7 +250,7 @@ Write a briefing of approximately **220–260 words** for non-expert readers in 
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U19-E3-role-based-write}}
+{{PH-4: U19-E3-role-based-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -302,7 +302,7 @@ Issues to identify:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U19-G2-editing-rewrite}}
+{{PH-3: U19-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -326,7 +326,7 @@ Your summary must include:
 ---
 
 **Homework Draft**
-{{PH-4: U19-H3-homework-draft}}
+{{PH-4: U19-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -525,7 +525,7 @@ Using the improved model from Section B as your guide, rewrite the original vagu
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U20-D1-guided-rewrite}}
+{{PH-2: U20-D1-guided-rewrite | rows=8}}
 
 #### Draft a Justification for One Scenario (D2)
 
@@ -545,7 +545,7 @@ Your justification must include a decision statement, a rationale, and a benefit
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U20-D2-guided-draft}}
+{{PH-3: U20-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -571,7 +571,7 @@ Write approximately **200–240 words**. Your justification must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U20-E1-freer-write}}
+{{PH-4: U20-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -621,7 +621,7 @@ Issues to identify:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U20-G2-editing-rewrite}}
+{{PH-3: U20-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -643,7 +643,7 @@ Your justification must include:
 
 
 **Homework Draft**
-{{PH-4: U20-H3-homework-draft}}
+{{PH-4: U20-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -891,7 +891,7 @@ Using the improved model as your guide, rewrite the original vague text from Sec
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U21-D1-guided-rewrite}}
+{{PH-2: U21-D1-guided-rewrite | rows=8}}
 
 #### Information Reorganisation (D5)
 
@@ -910,7 +910,7 @@ The following sentences are drawn from several office updates but have not yet b
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U21-D5-reorganised-version}}
+{{PH-3: U21-D5-reorganised-version | rows=10}}
 
 #### Format Conversion (D7)
 
@@ -928,7 +928,7 @@ Below is a narrative email chain summary from a coordination officer. Convert it
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U21-D7-format-conversion}}
+{{PH-3: U21-D7-format-conversion | rows=10}}
 
 ### E. Freer Writing
 
@@ -967,13 +967,13 @@ Your report must include:
 Write each part in its own box.
 
 **Document 1 - Summary + Issues Identified**
-{{PH-3: U21-E4-part-a-summary-issues}}
+{{PH-3: U21-E4-part-a-summary-issues | rows=8}}
 
 **Document 2 - Actions Taken + Outstanding Questions**
-{{PH-3: U21-E4-part-b-actions-questions}}
+{{PH-3: U21-E4-part-b-actions-questions | rows=15}}
 
 **Document 3 - Next Steps + Closing**
-{{PH-2: U21-E4-part-c-next-steps-closing}}
+{{PH-2: U21-E4-part-c-next-steps-closing | rows=6}}
 
 ### F. Review & Self-Assessment
 
@@ -1021,7 +1021,7 @@ Issues to identify:
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U21-G2-editing-rewrite}}
+{{PH-3: U21-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -1038,7 +1038,7 @@ Your report must use the five-section format (Summary / Issues Identified / Acti
 
 
 **Homework Draft**
-{{PH-4: U21-H3-homework-draft}}
+{{PH-4: U21-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -1189,7 +1189,7 @@ Using the integrated response in Section B as your guide, rewrite the inadequate
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U22-D1-guided-rewrite}}
+{{PH-2: U22-D1-guided-rewrite | rows=8}}
 
 #### Revision Chain (D6)
 
@@ -1214,7 +1214,7 @@ Using what you have learned in Units 19–22, revise your Unit 18 writing to add
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U22-D6-revision-chain}}
+{{PH-3: U22-D6-revision-chain | rows=10}}
 
 ### E. Freer Writing
 
@@ -1242,12 +1242,12 @@ Your document must:
 ---
 
 **Planning Notes (Not Submitted)**
-{{PH-1: U22-E4-part-a-planning}}
+{{PH-1: U22-E4-part-a-planning | rows=3}}
 
 Write each part in its own box.
 
 **Document 1 - Full Administrative Document**
-{{PH-4: U22-E4-part-b-full-document}}
+{{PH-4: U22-E4-part-b-full-document | rows=20}}
 
 ### F. Review & Self-Assessment
 
@@ -1295,7 +1295,7 @@ After marking the document, write a clean revised version incorporating all your
 Write one complete version only.
 
 **Clean Copy**
-{{PH-3: U22-G3-clean-copy}}
+{{PH-3: U22-G3-clean-copy | rows=8}}
 
 ### H. Homework & Extension
 
@@ -1313,7 +1313,7 @@ Your document must:
 
 
 **Homework Draft**
-{{PH-4: U22-H3-homework-draft}}
+{{PH-4: U22-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -1456,7 +1456,7 @@ Revise your selected piece to address any weaknesses identified. Aim to improve 
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U23-D6-revision-chain}}
+{{PH-3: U23-D6-revision-chain | rows=10}}
 
 ### E. Freer Writing
 
@@ -1487,12 +1487,12 @@ Your document must:
 ---
 
 **Planning Notes (Not Submitted)**
-{{PH-1: U23-E4-part-a-planning}}
+{{PH-1: U23-E4-part-a-planning | rows=3}}
 
 Write one complete version only.
 
 **Final Document**
-{{PH-4: U23-E4-part-b-capstone-document}}
+{{PH-4: U23-E4-part-b-capstone-document | rows=20}}
 
 ### F. Review & Self-Assessment
 
@@ -1546,7 +1546,7 @@ The following draft was produced in response to the capstone scenario. It contai
 Write one complete version only.
 
 **Clean Copy**
-{{PH-3: U23-G3-clean-copy}}
+{{PH-3: U23-G3-clean-copy | rows=8}}
 
 ### H. Homework & Extension
 
@@ -1564,7 +1564,7 @@ Your document must:
 
 
 **Homework Draft**
-{{PH-4: U23-H3-homework-draft}}
+{{PH-4: U23-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 

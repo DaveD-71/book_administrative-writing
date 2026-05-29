@@ -1,4 +1,4 @@
-## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
+﻿## Module 2 — Professional Email Writing for Interagency Contexts (Units 4–7)
 
 *Homework target: ~200 words*
 
@@ -164,7 +164,7 @@ Rewrite the original (informal) model email as a structured, diplomatic version.
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U04-D1-guided-rewrite}}
+{{PH-2: U04-D1-guided-rewrite | rows=8}}
 
 #### Template-Guided Writing (D3) ★
 
@@ -206,7 +206,7 @@ Your email must use the structural sequence from this unit.
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U04-D2-guided-draft}}
+{{PH-3: U04-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -233,7 +233,7 @@ Choose one scenario:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U04-E1-freer-write}}
+{{PH-4: U04-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -276,7 +276,7 @@ Your rewrite must add: context, a clear explanation for each request, appropriat
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U04-G1-editing-rewrite}}
+{{PH-2: U04-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -301,7 +301,7 @@ Choose one scenario:
 ---
 
 **Homework Draft**
-{{PH-4: U04-H3-homework-draft}}
+{{PH-4: U04-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -472,7 +472,7 @@ Rewrite the original (vague) model text as a precise, structured clarification r
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U05-D1-guided-rewrite}}
+{{PH-2: U05-D1-guided-rewrite | rows=8}}
 
 #### Two-Audience Version Task (D4)
 
@@ -497,10 +497,10 @@ After writing both versions, compare:
 ---
 
 **Version A**
-{{PH-3: U05-D4-version-a}}
+{{PH-3: U05-D4-version-a | rows=10}}
 
 **Version B**
-{{PH-3: U05-D4-version-b}}
+{{PH-3: U05-D4-version-b | rows=10}}
 
 ### E. Freer Writing
 
@@ -528,7 +528,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U05-E3-role-based-write}}
+{{PH-4: U05-E3-role-based-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -575,7 +575,7 @@ For each rewrite, add: a specific reference, a clearly scoped question, softenin
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U05-G1-editing-rewrite}}
+{{PH-2: U05-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -599,7 +599,7 @@ Choose one scenario:
 ---
 
 **Homework Draft**
-{{PH-4: U05-H3-homework-draft}}
+{{PH-4: U05-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -776,7 +776,7 @@ Rewrite the original (too direct) model using the diplomatic techniques from thi
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U06-D1-guided-rewrite}}
+{{PH-2: U06-D1-guided-rewrite | rows=8}}
 
 #### Scenario Writing (D2)
 
@@ -797,7 +797,7 @@ Your message must include: a neutral identification of the issue, an impact stat
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U06-D2-guided-draft}}
+{{PH-3: U06-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -824,7 +824,7 @@ Choose one scenario:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U06-E1-freer-write}}
+{{PH-4: U06-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -870,7 +870,7 @@ Your rewrites must add: diplomatic framing, a specific reference, an impact expl
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U06-G1-editing-rewrite}}
+{{PH-2: U06-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -910,7 +910,7 @@ Choose one scenario:
 ---
 
 **Homework Draft**
-{{PH-4: U06-H3-homework-draft}}
+{{PH-4: U06-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -1058,7 +1058,7 @@ Rewrite the original (unstructured) model into a layered, prioritised request me
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U07-D1-guided-rewrite}}
+{{PH-2: U07-D1-guided-rewrite | rows=8}}
 
 #### Scenario Writing (D2)
 
@@ -1078,7 +1078,7 @@ Your message must include: a rationale, a clearly sequenced set of requests, dep
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U07-D2-guided-draft}}
+{{PH-3: U07-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -1105,7 +1105,7 @@ Choose one scenario:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U07-E1-freer-write}}
+{{PH-4: U07-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -1146,7 +1146,7 @@ Rewrite the following message. It contains unsequenced requests, missing depende
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U07-G1-editing-rewrite}}
+{{PH-2: U07-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -1170,7 +1170,7 @@ Choose one scenario:
 ---
 
 **Homework Draft**
-{{PH-4: U07-H3-homework-draft}}
+{{PH-4: U07-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 

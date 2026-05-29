@@ -1,4 +1,4 @@
-## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
+﻿## Module 5 — Advanced Editing & Revision Skills (Units 16–18)
 
 *Homework target: ~250 words*
 
@@ -159,7 +159,7 @@ Your rewrite must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U16-D1-guided-rewrite}}
+{{PH-2: U16-D1-guided-rewrite | rows=8}}
 
 #### Revision Chain (D6)
 
@@ -188,7 +188,7 @@ Write a brief note (2–3 sentences) explaining what you changed and why.
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U16-D6-revision-chain}}
+{{PH-3: U16-D6-revision-chain | rows=10}}
 
 ### E. Freer Writing
 
@@ -213,7 +213,7 @@ Your evaluation must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U16-E1-freer-write}}
+{{PH-4: U16-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -269,7 +269,7 @@ The text below is a draft evaluation. It includes five proposed edits, shown as 
 ---
 
 **Write Your Decisions**
-{{PH-2: U16-G3-decision-notes}}
+{{PH-2: U16-G3-decision-notes | rows=6}}
 
 ### H. Homework & Extension
 
@@ -285,7 +285,7 @@ Write a **220–260 word** balanced evaluation of a document or process relevant
 
 
 **Homework Draft**
-{{PH-4: U16-H3-homework-draft}}
+{{PH-4: U16-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -431,7 +431,7 @@ Your brief must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U17-D1-guided-rewrite}}
+{{PH-2: U17-D1-guided-rewrite | rows=8}}
 
 #### Format Conversion (D7)
 
@@ -457,7 +457,7 @@ Write the executive brief in full, using the four-part structure: Overview / Key
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U17-D7-format-conversion}}
+{{PH-3: U17-D7-format-conversion | rows=10}}
 
 ### E. Freer Writing
 
@@ -483,7 +483,7 @@ Your brief must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U17-E1-freer-write}}
+{{PH-4: U17-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -523,7 +523,7 @@ Your edited version should be a properly structured executive brief with all fou
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U17-G2-editing-rewrite}}
+{{PH-3: U17-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -546,7 +546,7 @@ Choose one scenario:
 
 
 **Homework Draft**
-{{PH-4: U17-H3-homework-draft}}
+{{PH-4: U17-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -713,7 +713,7 @@ Your paragraph must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U18-D1-guided-rewrite}}
+{{PH-2: U18-D1-guided-rewrite | rows=8}}
 
 #### Scenario Writing (D2)
 
@@ -736,7 +736,7 @@ Write your revised paragraph, then compare with a partner.
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U18-D2-guided-draft}}
+{{PH-3: U18-D2-guided-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -761,7 +761,7 @@ Your synthesis must include:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U18-E1-freer-write}}
+{{PH-4: U18-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -803,7 +803,7 @@ Your edited version should be a properly synthesised paragraph with grouped them
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-3: U18-G2-editing-rewrite}}
+{{PH-3: U18-G2-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -819,7 +819,7 @@ If you do not have access to workplace documents, use three public or sample sou
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U18-H2-real-world-draft}}
+{{PH-3: U18-H2-real-world-draft | rows=12}}
 
 #### Homework Writing Task (H3)
 
@@ -832,7 +832,7 @@ Write a **220–260 word** synthesis combining information from three or more so
 
 
 **Homework Draft**
-{{PH-4: U18-H3-homework-draft}}
+{{PH-4: U18-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 

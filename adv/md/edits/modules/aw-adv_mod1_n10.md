@@ -1,4 +1,4 @@
-## Module 1 — Advanced Foundations for Administrative Writing (Units 1–3)
+﻿## Module 1 — Advanced Foundations for Administrative Writing (Units 1–3)
 
 *Homework target: ~150 words*
 
@@ -196,7 +196,7 @@ Rewrite the **original** model text (the unclear version) as **three to four cle
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U01-D1-guided-rewrite}}
+{{PH-2: U01-D1-guided-rewrite | rows=8}}
 
 #### Write Your Own Complex Sentence (D2)
 
@@ -219,16 +219,16 @@ Then explain which version would be most appropriate for an internal memo, and w
 ---
 
 **Version 1**
-{{PH-2: U01-D2-version-1}}
+{{PH-2: U01-D2-version-1 | rows=4}}
 
 **Version 2**
-{{PH-2: U01-D2-version-2}}
+{{PH-2: U01-D2-version-2 | rows=4}}
 
 **Version 3**
-{{PH-2: U01-D2-version-3}}
+{{PH-2: U01-D2-version-3 | rows=4}}
 
 **Planning Notes**
-{{PH-1: U01-D2-version-choice-note}}
+{{PH-1: U01-D2-version-choice-note | rows=3}}
 
 ### E. Freer Writing
 
@@ -250,7 +250,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U01-E1-freer-write}}
+{{PH-4: U01-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -282,7 +282,7 @@ Rewrite the following sentences to eliminate ambiguity. For each one, identify t
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U01-G1-editing-rewrite}}
+{{PH-2: U01-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -300,7 +300,7 @@ Choose one situation:
 ---
 
 **Homework Draft**
-{{PH-4: U01-H3-homework-draft}}
+{{PH-4: U01-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -485,7 +485,7 @@ Rewrite the original (direct) model text into a diplomatic version. Your rewrite
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U02-D1-guided-rewrite}}
+{{PH-2: U02-D1-guided-rewrite | rows=8}}
 
 #### Tone Transformation (D4)
 
@@ -505,7 +505,7 @@ After writing, compare the two versions. Identify at least two specific differen
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U02-D4-two-audience-draft}}
+{{PH-3: U02-D4-two-audience-draft | rows=10}}
 
 ### E. Freer Writing
 
@@ -528,7 +528,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U02-E1-freer-write}}
+{{PH-4: U02-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -568,7 +568,7 @@ Rewrite these sentences to make them more diplomatic. For each one, identify whi
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U02-G1-editing-rewrite}}
+{{PH-2: U02-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -584,7 +584,7 @@ Write approximately **150 words**. Your message must use at least three softenin
 ---
 
 **Homework Draft**
-{{PH-4: U02-H3-homework-draft}}
+{{PH-4: U02-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
@@ -774,7 +774,7 @@ Rewrite the original (disjointed) model text as **one cohesive paragraph**. Incl
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-2: U03-D1-guided-rewrite}}
+{{PH-2: U03-D1-guided-rewrite | rows=8}}
 
 #### Reorganise and Rewrite (D5)
 
@@ -796,7 +796,7 @@ Below are seven pieces of information presented without structure or logical ord
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-3: U03-D5-reorganised-version}}
+{{PH-3: U03-D5-reorganised-version | rows=10}}
 
 ### E. Freer Writing
 
@@ -814,7 +814,7 @@ Choose one situation:
 Use this space for your first full draft.
 
 **Draft Here**
-{{PH-4: U03-E1-freer-write}}
+{{PH-4: U03-E1-freer-write | rows=15}}
 
 ### F. Review & Self-Assessment
 
@@ -853,7 +853,7 @@ Rewrite these paragraphs for better cohesion. Identify at least two specific cha
 Revise the text above and write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U03-G1-editing-rewrite}}
+{{PH-2: U03-G1-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -871,7 +871,7 @@ Choose one situation:
 ---
 
 **Homework Draft**
-{{PH-4: U03-H3-homework-draft}}
+{{PH-4: U03-H3-homework-draft | rows=18}}
 
 #### Extension Task (H1)
 
