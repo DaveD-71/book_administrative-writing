@@ -3806,10 +3806,18 @@ When you revise it, check:
 - [ ] Does the body explain the real issue?
 - [ ] Can the reader see what to do next?
 
+::: example
+
 Mini contrast:
+:::
+
+
+::: example
 
 - [ ] Weak notice: vague warning, no action path
 - [ ] Stronger notice: clear topic, clear problem, clear reminder or next step
+:::
+
 
 **Rewrite:**
 :::
@@ -4867,12 +4875,20 @@ Add one sentence that makes the reader-use value visible:
 - what to remember
 - what to do next
 
+::: example
+
 Mini contrast:
+:::
+
+
+::: example
 
 - Weak notice:
   - "The room will change next week."
 - Stronger notice:
   - "The document check will move to Room 304 next week because Room 201 is under maintenance. Please bring all morning submissions to Room 304 from Monday to Friday."
+:::
+
 
 The stronger version works because it combines change, reason, and action in a usable order.
 :::
@@ -5088,10 +5104,18 @@ For each one, make sure you:
 - use a polite request form
 - avoid sounding demanding
 
+::: example
+
 Mini example:
+:::
+
+
+::: example
 
 - Weak: "What is the rule?"
 - Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
+:::
+
 
 The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
 
@@ -5123,10 +5147,18 @@ Add **one sentence of background** before each question. Use the background sent
 - What part is still unclear?
 - Why do you need the answer now?
 
+::: example
+
 Mini example:
+:::
+
+
+::: example
 
 - Weak background: "I have a question."
 - Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
+:::
+
 
 The better version helps the reader understand the task situation before they read the question itself.
 
@@ -5443,10 +5475,18 @@ Build each answer so the reader can understand:
 - why it happened
 - why it matters
 
+::: example
+
 Mini example:
+:::
+
+
+::: example
 
 - Weak: "The schedule changed."
 - Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
+:::
+
 
 This is stronger because the reader can follow fact, cause, and effect in one short explanation.
 
@@ -5793,10 +5833,18 @@ Aim for this order when possible:
 2. state the correct information
 3. add the next useful detail
 
+::: example
+
 Mini example:
+:::
+
+
+::: example
 
 - Weak: "You misunderstood the instructions."
 - Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
+:::
+
 
 The stronger version corrects the information without blaming the reader.
 
@@ -6207,11 +6255,19 @@ When you rewrite it, decide:
 - which sentence should become the direct request
 - what closing fits the tone
 
+::: example
+
 Mini example:
+:::
+
+
+::: example
 
 - Weak:
   Subject: Question
   Hi, I saw the file. It looks wrong. Please explain. Thanks.
+:::
+
 
 - Stronger:
   Subject: Clarification Request About File Version
@@ -6638,12 +6694,20 @@ Now review the tone with this contrast:
 - heavy background -> only the background the reader needs
 - abrupt request -> clear action with reason
 
+::: example
+
 Mini contrast:
+:::
+
+
+::: example
 
 - Weak:
   - "You misunderstood the form. Please read the instructions again."
 - Stronger:
   - "Thank you for your message. To clarify the form process, the supporting document is uploaded after the main form is submitted. Please let us know if you would like us to confirm the next step in more detail."
+:::
+
 
 The stronger version works because it protects trust, explains the sequence, and leaves the reader with a clear way forward.
 :::
@@ -8161,10 +8225,18 @@ You can use this simple frame:
 3. We now need to ...
 4. The next step will be ...
 
+::: example
+
 Mini contrast:
+:::
+
+
+::: example
 
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
+:::
+
 
 If both texts sound the same, the reader-purpose control is still weak. Write your explanation:
 
@@ -10183,7 +10255,13 @@ Review the pack with these prompts:
 - [ ] Which document now carries the clearest next step?
 - [ ] Which document still sounds like it was copied from another one?
 
+::: example
+
 Mini contrast:
+:::
+
+
+::: example
 
 - Weak pack:
   - every document repeats "There is a problem with the file" and changes only the greeting
@@ -10192,6 +10270,8 @@ Mini contrast:
   - the internal explanation tells the team why review must pause
   - the notice tells staff which date or step has changed
   - the revision note explains why the wording split was necessary
+:::
+
 
 This workshop matters because Module 6 cannot reach parity only through better sentence control. It needs fuller task-set support so the learner can manage one fact across several different writing jobs without flattening the differences between readers.
 :::
@@ -10228,5 +10308,3 @@ Use these prompts:
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
 :::
-
-
