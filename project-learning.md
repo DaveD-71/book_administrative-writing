@@ -1090,6 +1090,28 @@ Historical note:
 - Fallback: if `rows=` is absent, the script falls back to default row counts: PH-1a=1, PH-1b=2, PH-1c=3, PH-1=4, PH-2=6, PH-3=11, PH-4=19, PH-5=28.
 - Preferred behavior: during the size verification pass, set rows based on task context — single sentence rewrite = 2 rows, short paragraph = 5–6 rows, full email = 8–10 rows, full document = 12–15 rows.
 
+## 2026-05-29 - Checklist Formatting Rules (What Was Converted, What Was Not)
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: two types of numbered lists in F. Review & Self-Assessment sections were converted to `- [ ]` checkboxes; one type was left as numbered. The distinction is important for future editing passes.
+- **Converted to `- [ ]`:**
+  - Compact numbered self-check blocks — items appear on consecutive lines with no blank line between them (e.g. "1. Did I greet politely? 2. Did I explain clearly?"). These are yes/no checkable items, typically followed by "If the answer is No, revise before continuing."
+  - "Your labels: 1. 2. 3." bare numbered lines — students write T, S, or C in the checkbox space.
+- **Left as numbered lists:**
+  - Reflection questions with a blank line between each item (e.g. "1. What was difficult?\n\n2. Which point do you want to remember?"). These are open-ended student-response prompts, not checkable items.
+- Committed `0b7b163`. 239 self-check items + 6 "Your labels" items converted.
+
+## 2026-05-29 - Div Pass 6a: Example Blocks Are in A. Sections, Not B. Model Check
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: the block-level `:::example-bad` / `:::example-good` wrappers belong around the warm-up examples in **A. sections**, not in B. Model Check.
+- Why: B. Model Check is explanatory text that refers back to the A. examples — it is teaching content (`:::learn`), not the examples themselves.
+- Approach for 6a: read A and B together per unit to determine which version is weaker and which is stronger. Do not rely on heading keywords alone — the B. explanation confirms the quality direction.
+- The "weaker/original" version always gets `:::example-bad`; the "stronger/revised" version gets `:::example-good`. Neutral standalone examples (no comparison pair) get `:::example`.
+- Committed `4e16797`.
+
 ## 2026-05-29 - ADV Canonical Source Is adv/md/edits/modules (Not adv/md/final/modules)
 
 - Status: `active`
