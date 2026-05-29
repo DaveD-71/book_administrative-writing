@@ -848,9 +848,7 @@ A strong paragraph usually includes:
 ::: example-good
 Example Paragraph
 
-**Topic sentence:** We reviewed the applicant's file yesterday.
-**Supporting sentences:** During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage.
-**Closing sentence:** This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
+We reviewed the applicant's file yesterday. During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage. This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 :::
 
 ### C. Practice A
