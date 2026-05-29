@@ -1040,6 +1040,20 @@ Historical note:
 14. P6 — PH marker → response box conversion (final print-layout step). Run `postprocess_docx.py` via the textmaker pipeline; verify all `{{PH-N: id | rows=R}}` markers produce correctly sized Word tables.
 15. INT answer key sign-off — review and formally close P3.
 
+## 2026-05-29 - Preferred Editing Workflow: All File First, Then Sync To Modules
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: for bulk content edits, it is faster to work in the combined `all` file and then split/sync back to the module files before committing. The module files remain the canonical committed source.
+- Preferred workflow:
+  1. Ensure the `all` file is up to date (rebuild from modules first if needed — see task 12)
+  2. Make edits in `int/md/working/aw-int-all_0519.md`
+  3. Review and validate in the combined file
+  4. Split changes back into the relevant `int/md/final/modules/aw-int_mod[1-6].md` files
+  5. Commit the module files
+- Current blocker: `aw-int-all_0519.md` is currently OUT OF SYNC (no `:::` div markers — lost in commit `e88e828`). Do not use it as an editing base until task 12 (rebuild working file) is complete.
+- Once the working file is rebuilt, this all-file-first workflow is preferred for multi-unit edits such as tasks 3–11.
+
 ## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
 
 - Status: `active`
