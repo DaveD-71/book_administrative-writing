@@ -190,15 +190,19 @@ Rewrite each sentence in a clearer, shorter way.
 
 1. Original: With reference to your email which was sent to our section yesterday afternoon, we are now in the process of checking the details.
    Clear:
+   {{PH-1: U01-C-simplify-1 | rows=2}}
 
 2. Original: It has been decided by our department that the deadline for submission of the documents will be extended until 30 June.
    Clear:
+   {{PH-1: U01-C-simplify-2 | rows=2}}
 
 3. Original: Due to the fact that the system is currently under maintenance, it is not possible for us to access your file at this moment in time.
    Clear:
+   {{PH-1: U01-C-simplify-3 | rows=2}}
 
 4. Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
    Clear:
+   {{PH-1: U01-C-simplify-4 | rows=2}}
 :::
 
 
@@ -214,15 +218,19 @@ Rewrite each sentence so that it is easier to read.
 
 1. We are now in the checking of your application and more time is needed by us.
    ->
+   {{PH-1: U01-D-rewrite-1 | rows=2}}
 
 2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
    ->
+   {{PH-1: U01-D-rewrite-2 | rows=2}}
 
 3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
    ->
+   {{PH-1: U01-D-rewrite-3 | rows=2}}
 
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
    ->
+   {{PH-1: U01-D-rewrite-4 | rows=2}}
 :::
 
 Use this box for one complete version.
@@ -294,15 +302,19 @@ Each sentence below has a common clarity problem. Rewrite it so the reader can u
 
 1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
    ->
+   {{PH-1: U01-G-rewrite-1 | rows=2}}
 
 2. It has been explained by the supervisor that a new review step will be necessary for the application.
    ->
+   {{PH-1: U01-G-rewrite-2 | rows=2}}
 
 3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
    ->
+   {{PH-1: U01-G-rewrite-3 | rows=2}}
 
 4. We are writing for the purpose of asking you to send the correct version of the attached file.
    ->
+   {{PH-1: U01-G-rewrite-4 | rows=2}}
 :::
 
 Write the full corrected version below.
@@ -447,15 +459,19 @@ Rewrite the message using a polite request phrase.
 
 1. Send the updated form.
    ->
+   {{PH-1: U02-C-rewrite-1 | rows=2}}
 
 2. Tell me the deadline.
    ->
+   {{PH-1: U02-C-rewrite-2 | rows=2}}
 
 3. Check the file.
    ->
+   {{PH-1: U02-C-rewrite-3 | rows=2}}
 
 4. Give me the information.
    ->
+   {{PH-1: U02-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -502,15 +518,19 @@ Rewrite each sentence to make it sound more professional.
 
 1. You didn't send the document.
    ->
+   {{PH-1: U02-C-rewrite-5 | rows=2}}
 
 2. I can't do this because the system is broken.
    ->
+   {{PH-1: U02-C-rewrite-6 | rows=2}}
 
 3. That information is wrong.
    ->
+   {{PH-1: U02-C-rewrite-7 | rows=2}}
 
 4. I already told you this yesterday.
    ->
+   {{PH-1: U02-C-rewrite-8 | rows=2}}
 :::
 
 
@@ -625,15 +645,19 @@ Rewrite each line so it keeps the same purpose but sounds more professional.
 
 1. You sent the wrong file again.
    ->
+   {{PH-1: U02-G-rewrite-1 | rows=2}}
 
 2. Tell me what happened.
    ->
+   {{PH-1: U02-G-rewrite-2 | rows=2}}
 
 3. Why didn't you check this before?
    ->
+   {{PH-1: U02-G-rewrite-3 | rows=2}}
 
 4. Send the update today.
    ->
+   {{PH-1: U02-G-rewrite-4 | rows=2}}
 :::
 
 Write the full corrected version below.
@@ -922,7 +946,9 @@ Write the best order:
 
 Add one more supporting sentence that continues the explanation without giving instructions:
 ->
+{{PH-1: U03-C-rewrite-1 | rows=2}}
 ->
+{{PH-1: U03-C-rewrite-2 | rows=2}}
 :::
 
 
@@ -1392,15 +1418,19 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 1. Subject: I have a question about the document that you sent to me yesterday
    ->
+   {{PH-1: U04-C-rewrite-1 | rows=2}}
 
 2. Subject: I want to ask you about when I should submit the missing form for the application
    ->
+   {{PH-1: U04-C-rewrite-2 | rows=2}}
 
 3. Subject: I am writing this email because there is a problem with the online system today
    ->
+   {{PH-1: U04-C-rewrite-3 | rows=2}}
 
 4. Subject: I need to know the reason why the applicant has not received the confirmation message yet
    ->
+   {{PH-1: U04-C-rewrite-4 | rows=2}}
 
 **Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
 
@@ -1491,12 +1521,15 @@ Write a clear opening sentence for each situation.
 
 1. You want to ask about a missing document.
    ->
+   {{PH-1: U04-C-rewrite-5 | rows=2}}
 
 2. You want to confirm a deadline.
    ->
+   {{PH-1: U04-C-rewrite-6 | rows=2}}
 
 3. You want to give information about a system update.
    ->
+   {{PH-1: U04-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -1749,15 +1782,19 @@ Each stronger question should show:
 
 1. What do you mean?
    ->
+   {{PH-1: U05-C-rewrite-1 | rows=2}}
 
 2. I don't understand this part.
    ->
+   {{PH-1: U05-C-rewrite-2 | rows=2}}
 
 3. Tell me the details.
    ->
+   {{PH-1: U05-C-rewrite-3 | rows=2}}
 
 4. What should I do?
    ->
+   {{PH-1: U05-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -1805,15 +1842,19 @@ Rewrite each sentence as a better clarification question.
 
 1. "This is different from what you said before."
    ->
+   {{PH-1: U05-C-rewrite-5 | rows=2}}
 
 2. "The instructions are confusing."
    ->
+   {{PH-1: U05-C-rewrite-6 | rows=2}}
 
 3. "I don't know what to write in this part."
    ->
+   {{PH-1: U05-C-rewrite-7 | rows=2}}
 
 4. "The system doesn't work."
    ->
+   {{PH-1: U05-C-rewrite-8 | rows=2}}
 :::
 
 
@@ -1862,15 +1903,19 @@ Rewrite each unclear message into a **clear, polite clarification request**.
 
 1. "I don't get this. Explain it."
    ->
+   {{PH-1: U05-D-rewrite-1 | rows=2}}
 
 2. "Which one is correct? These files look different."
    ->
+   {{PH-1: U05-D-rewrite-2 | rows=2}}
 
 3. "What am I supposed to do with this form?"
    ->
+   {{PH-1: U05-D-rewrite-3 | rows=2}}
 
 4. "This part is wrong."
    ->
+   {{PH-1: U05-D-rewrite-4 | rows=2}}
 :::
 
 
@@ -1946,15 +1991,19 @@ Rewrite each message as a better clarification request.
 
 1. I don't understand this instruction.
    ->
+   {{PH-1: U05-G-rewrite-1 | rows=2}}
 
 2. The file names are confusing.
    ->
+   {{PH-1: U05-G-rewrite-2 | rows=2}}
 
 3. The deadline message is different from the form.
    ->
+   {{PH-1: U05-G-rewrite-3 | rows=2}}
 
 4. The supervisor said to prepare the report.
    ->
+   {{PH-1: U05-G-rewrite-4 | rows=2}}
 :::
 
 Write the full corrected version below.
@@ -2151,15 +2200,19 @@ Try to replace vague updates with:
 
 1. "The meeting is delayed."
    ->
+   {{PH-1: U06-C-rewrite-1 | rows=2}}
 
 2. "We changed the procedure."
    ->
+   {{PH-1: U06-C-rewrite-2 | rows=2}}
 
 3. "The file will be late."
    ->
+   {{PH-1: U06-C-rewrite-3 | rows=2}}
 
 4. "The system is slow."
    ->
+   {{PH-1: U06-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -2233,12 +2286,15 @@ Expand each message to 2-3 sentences by adding supporting information.
 
 1. "The deadline has been extended."
    ->
+   {{PH-1: U06-C-rewrite-5 | rows=2}}
 
 2. "The applicant's file will be reviewed next week."
    ->
+   {{PH-1: U06-C-rewrite-6 | rows=2}}
 
 3. "There has been a change in the procedure."
    ->
+   {{PH-1: U06-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -2325,15 +2381,19 @@ Rewrite each update so the reader does not need to ask a second question.
 
 1. The meeting changed.
    ->
+   {{PH-1: U06-G-rewrite-1 | rows=2}}
 
 2. We cannot finish this today.
    ->
+   {{PH-1: U06-G-rewrite-2 | rows=2}}
 
 3. There was a problem with the documents.
    ->
+   {{PH-1: U06-G-rewrite-3 | rows=2}}
 
 4. The system update will affect the process.
    ->
+   {{PH-1: U06-G-rewrite-4 | rows=2}}
 :::
 
 Write the full corrected version below.
@@ -2530,15 +2590,19 @@ Mini request frame:
 - short reason
 1. "Send the updated file."
    ->
+   {{PH-1: U07-C-rewrite-1 | rows=2}}
 
 2. "Tell me the deadline."
    ->
+   {{PH-1: U07-C-rewrite-2 | rows=2}}
 
 3. "Check this."
    ->
+   {{PH-1: U07-C-rewrite-3 | rows=2}}
 
 4. "Give me the information."
    ->
+   {{PH-1: U07-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -2582,15 +2646,19 @@ Specific requests are easier to answer because they name:
 
 1. "Could you send the document?"
    ->
+   {{PH-1: U07-C-rewrite-5 | rows=2}}
 
 2. "Could you check this?"
    ->
+   {{PH-1: U07-C-rewrite-6 | rows=2}}
 
 3. "Could you confirm the information?"
    ->
+   {{PH-1: U07-C-rewrite-7 | rows=2}}
 
 4. "Could you update me?"
    ->
+   {{PH-1: U07-C-rewrite-8 | rows=2}}
 :::
 
 
@@ -2641,15 +2709,19 @@ Rewrite each message so it is **polite but not weak**, using softening phrases.
 
 1. "Send this today."
    ->
+   {{PH-1: U07-C-rewrite-9 | rows=2}}
 
 2. "Tell me the result now."
    ->
+   {{PH-1: U07-C-rewrite-10 | rows=2}}
 
 3. "Check this immediately."
    ->
+   {{PH-1: U07-C-rewrite-11 | rows=2}}
 
 4. "Give me the corrected file as soon as possible."
    ->
+   {{PH-1: U07-C-rewrite-12 | rows=2}}
 :::
 
 
@@ -2739,15 +2811,19 @@ Rewrite each message so it keeps the same request but sounds more professional.
 
 1. Send me the corrected file today.
    ->
+   {{PH-1: U07-G-rewrite-1 | rows=2}}
 
 2. Tell me the meeting time now.
    ->
+   {{PH-1: U07-G-rewrite-2 | rows=2}}
 
 3. Check this and reply quickly.
    ->
+   {{PH-1: U07-G-rewrite-3 | rows=2}}
 
 4. Give me the missing information.
    ->
+   {{PH-1: U07-G-rewrite-4 | rows=2}}
 :::
 
 Write the full corrected version below.
@@ -3246,15 +3322,19 @@ Rewrite each instruction using a **clear action verb**.
 
 1. "Make sure the file is OK."
    ->
+   {{PH-1: U08-C-rewrite-1 | rows=2}}
 
 2. "Put the name in the system."
    ->
+   {{PH-1: U08-C-rewrite-2 | rows=2}}
 
 3. "Look at the form to see if something is missing."
    ->
+   {{PH-1: U08-C-rewrite-3 | rows=2}}
 
 4. "Send it to the right place."
    ->
+   {{PH-1: U08-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -3653,15 +3733,19 @@ Rewrite These to Make Them Neutral
 
 1. "The delay is very annoying."
    ->
+   {{PH-1: U09-C-rewrite-1 | rows=2}}
 
 2. "Everyone MUST check the new files today!"
    ->
+   {{PH-1: U09-C-rewrite-2 | rows=2}}
 
 3. "I think the system is acting strange again."
    ->
+   {{PH-1: U09-C-rewrite-3 | rows=2}}
 
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    ->
+   {{PH-1: U09-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -3689,15 +3773,19 @@ Mini notice frame:
 - what staff should do next
 1. "The meeting will change."
    ->
+   {{PH-1: U09-C-rewrite-5 | rows=2}}
 
 2. "There is something wrong with the file."
    ->
+   {{PH-1: U09-C-rewrite-6 | rows=2}}
 
 3. "We are doing something with the system tomorrow."
    ->
+   {{PH-1: U09-C-rewrite-7 | rows=2}}
 
 4. "The documents are not ready yet."
    ->
+   {{PH-1: U09-C-rewrite-8 | rows=2}}
 :::
 
 
@@ -4053,15 +4141,19 @@ Try to make the reader understand:
 
 1. "There is a problem with the file."
    ->
+   {{PH-1: U10-C-rewrite-1 | rows=2}}
 
 2. "The system is slow."
    ->
+   {{PH-1: U10-C-rewrite-2 | rows=2}}
 
 3. "We can't finish the work."
    ->
+   {{PH-1: U10-C-rewrite-3 | rows=2}}
 
 4. "The document is wrong."
    ->
+   {{PH-1: U10-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -4089,12 +4181,15 @@ Use them to give:
 
 1. The application cannot be opened.
    ->
+   {{PH-1: U10-C-rewrite-5 | rows=2}}
 
 2. The review is delayed.
    ->
+   {{PH-1: U10-C-rewrite-6 | rows=2}}
 
 3. The uploaded form is incomplete.
    ->
+   {{PH-1: U10-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -4417,12 +4512,15 @@ Rewrite each summary to make it clearer.
 
 1. "We talked about some documents. IT will do something."
    ->
+   {{PH-1: U11-C-rewrite-1 | rows=2}}
 
 2. "The meeting was long. Many ideas were shared. We will do more later."
    ->
+   {{PH-1: U11-C-rewrite-2 | rows=2}}
 
 3. "The form was discussed. Someone needs to fix it."
    ->
+   {{PH-1: U11-C-rewrite-3 | rows=2}}
 :::
 
 
@@ -5121,15 +5219,19 @@ The stronger version works better because the reader can see the context, the ex
 
 1. "I don't understand this part. Tell me."
    ->
+   {{PH-1: U12-C-rewrite-1 | rows=2}}
 
 2. "What is the rule?"
    ->
+   {{PH-1: U12-C-rewrite-2 | rows=2}}
 
 3. "When is the deadline?"
    ->
+   {{PH-1: U12-C-rewrite-3 | rows=2}}
 
 4. "Explain Section 2."
    ->
+   {{PH-1: U12-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -5164,12 +5266,15 @@ The better version helps the reader understand the task situation before they re
 
 1. Could you clarify the new ID requirement?
    ->
+   {{PH-1: U12-C-rewrite-5 | rows=2}}
 
 2. Could you confirm the review schedule?
    ->
+   {{PH-1: U12-C-rewrite-6 | rows=2}}
 
 3. Could you explain how the updated rule applies?
    ->
+   {{PH-1: U12-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -5492,15 +5597,19 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 
 1. "The schedule changed."
    ->
+   {{PH-1: U13-C-rewrite-1 | rows=2}}
 
 2. "The file is wrong."
    ->
+   {{PH-1: U13-C-rewrite-2 | rows=2}}
 
 3. "The review will take longer."
    ->
+   {{PH-1: U13-C-rewrite-3 | rows=2}}
 
 4. "The system is slow."
    ->
+   {{PH-1: U13-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -5527,12 +5636,15 @@ You can test your answer with three quick questions:
 3. Can the reader see why the information matters now?
 1. The applicant list is incomplete.
    ->
+   {{PH-1: U13-C-rewrite-5 | rows=2}}
 
 2. The document cannot be accepted.
    ->
+   {{PH-1: U13-C-rewrite-6 | rows=2}}
 
 3. The review must be rescheduled.
    ->
+   {{PH-1: U13-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -5850,15 +5962,19 @@ The stronger version corrects the information without blaming the reader.
 
 1. "No, that's wrong."
    ->
+   {{PH-1: U14-C-rewrite-1 | rows=2}}
 
 2. "You misunderstood the instructions."
    ->
+   {{PH-1: U14-C-rewrite-2 | rows=2}}
 
 3. "The other form is for something else."
    ->
+   {{PH-1: U14-C-rewrite-3 | rows=2}}
 
 4. "Read the guidelines again."
    ->
+   {{PH-1: U14-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -5874,12 +5990,15 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 1. The applicant uploaded the wrong file.
    ->
+   {{PH-1: U14-C-rewrite-5 | rows=2}}
 
 2. The deadline mentioned in the email is incorrect.
    ->
+   {{PH-1: U14-C-rewrite-6 | rows=2}}
 
 3. The instructions refer to two different processes.
    ->
+   {{PH-1: U14-C-rewrite-7 | rows=2}}
 :::
 
 
@@ -6189,12 +6308,15 @@ Rewrite the emails to make them consistent in tone and structure.
 
 1. "Hi, I checked it. What should I do now?"
    ->
+   {{PH-1: U15-C-rewrite-1 | rows=2}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
+   {{PH-1: U15-C-rewrite-2 | rows=2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
+   {{PH-1: U15-C-rewrite-3 | rows=2}}
 :::
 
 
@@ -6356,9 +6478,11 @@ Rewrite the two short messages below so they follow the same team style.
 
 1. Hi, the file is not right. Check it.
    ->
+   {{PH-1: U15-G-rewrite-1 | rows=2}}
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
    ->
+   {{PH-1: U15-G-rewrite-2 | rows=2}}
 
 Write the full corrected version below.
 :::
@@ -6925,15 +7049,19 @@ Accuracy check:
 - [ ] Does the noun or verb form match the message?
 1. *The system under maintenance today.*
    ->
+   {{PH-1: U16-C-rewrite-1 | rows=2}}
 
 2. *We will checking the documents.*
    ->
+   {{PH-1: U16-C-rewrite-2 | rows=2}}
 
 3. *Please send me informations about new procedure.*
    ->
+   {{PH-1: U16-C-rewrite-3 | rows=2}}
 
 4. *The documents is complete.*
    ->
+   {{PH-1: U16-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -7234,15 +7362,19 @@ Rewrite each sentence.
 
 1. "It looks like the file maybe has a few issues."
    ->
+   {{PH-1: U17-C-rewrite-1 | rows=2}}
 
 2. "There are things missing from the form somewhere."
    ->
+   {{PH-1: U17-C-rewrite-2 | rows=2}}
 
 3. "We think that it could possibly be delayed for some reason."
    ->
+   {{PH-1: U17-C-rewrite-3 | rows=2}}
 
 4. "It would be appreciated if you could maybe check the document again."
    ->
+   {{PH-1: U17-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -7581,15 +7713,19 @@ The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
    ->
+   {{PH-1: U18-C-rewrite-1 | rows=2}}
 
 2. "You made a mistake."
    ->
+   {{PH-1: U18-C-rewrite-2 | rows=2}}
 
 3. "Check it again."
    ->
+   {{PH-1: U18-C-rewrite-3 | rows=2}}
 
 4. "This is not acceptable."
    ->
+   {{PH-1: U18-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -8157,21 +8293,25 @@ Rewrite each sentence for the correct audience.
 
 "Send us the correct form."
 ->
+{{PH-1: U19-C-rewrite-1 | rows=2}}
 
 **Internal Team ->Make it neutral and concise**
 
 "They said the applicant messed up the form again."
 ->
+{{PH-1: U19-C-rewrite-2 | rows=2}}
 
 **External Office ->Make it complete and professional**
 
 "What is the problem?"
 ->
+{{PH-1: U19-C-rewrite-3 | rows=2}}
 
 **Internal Team ->Make it clear and factual**
 
 "The form is wrong but they didn't explain well."
 ->
+{{PH-1: U19-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -8529,21 +8669,25 @@ Rewrite each sentence for the appropriate audience.
 
 "The schedule was wrong. Here is the real date."
 ->
+{{PH-1: U20-C-rewrite-1 | rows=2}}
 
 **Internal Team ->Make it neutral and concise**
 
 "Someone made a mistake in the schedule."
 ->
+{{PH-1: U20-C-rewrite-2 | rows=2}}
 
 **External Office ->Make it complete**
 
 "The day changed."
 ->
+{{PH-1: U20-C-rewrite-3 | rows=2}}
 
 **Internal Team ->Make it professional**
 
 "We told them the wrong date."
 ->
+{{PH-1: U20-C-rewrite-4 | rows=2}}
 :::
 
 
@@ -8890,12 +9034,15 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 1. "Hi, I checked it. What should I do now?"
    ->
+   {{PH-1: U21-C-rewrite-1 | rows=2}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
+   {{PH-1: U21-C-rewrite-2 | rows=2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
+   {{PH-1: U21-C-rewrite-3 | rows=2}}
 :::
 
 
@@ -9237,15 +9384,19 @@ Rewrite each sentence for the appropriate audience.
 
 1. (Applicant) "You didn't upload the file we need."
    ->
+   {{PH-1: U22-C-rewrite-1 | rows=2}}
 
 2. (Colleague) "The applicant didn't follow the instructions again."
    ->
+   {{PH-1: U22-C-rewrite-2 | rows=2}}
 
 3. (Internal Notice) "The file is wrong and causing trouble."
    ->
+   {{PH-1: U22-C-rewrite-3 | rows=2}}
 
 4. (Applicant) "Send the document quickly."
    ->
+   {{PH-1: U22-C-rewrite-4 | rows=2}}
 :::
 
 
