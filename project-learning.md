@@ -1043,16 +1043,14 @@ Historical note:
 
 - Status: `active`
 - Scope: project/conventions
-- Decision: for bulk content edits, it is faster to work in the combined `all` file and then split/sync back to the module files before committing. The module files remain the canonical committed source.
-- Preferred workflow:
-  1. Ensure the `all` file is up to date (rebuild from modules first if needed — see task 12)
-  2. Make edits in `int/md/working/aw-int-all_0519.md`
-  3. Review and validate in the combined file
-  4. Split changes back into the relevant `int/md/final/modules/aw-int_mod[1-6].md` files
-  5. Commit the module files
-- Current blocker (INT): `aw-int-all_0519.md` is currently OUT OF SYNC (no `:::` div markers — lost in commit `e88e828`). Do not use it as an editing base until task 12 (rebuild working file) is complete.
-- ADV working file: `adv/md/working/aw-adv-all_0516.md`. Check whether it is in sync with `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` before using it as an editing base. ADV canonical modules are in `adv/md/edits/modules/` (not `adv/md/final/modules/` — that path does not exist).
-- Once each book's working file is confirmed in sync, the all-file-first workflow is preferred for multi-unit edits.
+- Decision: for bulk content edits, work in the combined `all` file. The working file is now the active editing target for INT.
+- **INT working file: `int/md/working/aw-int-all_0519.md`** — ACTIVE. Restored from pre-`e88e828` git state (commit `6bd8144`) with full div markup (552 div pairs). All post-`e88e828` fixes applied: Focus stems, rows= PH markers, checkboxes, mini-model divs. This is the canonical editing base going forward. Committed `92d182d`.
+- **INT module files: `int/md/final/modules/aw-int_mod[1-6].md`** — these have all content fixes but lack div markup. They are NO LONGER the primary editing target for div-related work. After all edits are complete in the working file, the module files should be regenerated from it.
+- **ADV working file: `adv/md/working/aw-adv-all_0516.md`** — check sync with `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` before editing. ADV canonical modules are in `adv/md/edits/modules/` (not `adv/md/final/modules/` — that path does not exist).
+- Preferred workflow for remaining INT tasks (6c div pass, tasks 9-12):
+  1. Edit in `int/md/working/aw-int-all_0519.md`
+  2. Commit the working file after each major edit pass
+  3. Module files will be regenerated from working file in task 13 (rebuild)
 
 ## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
 
@@ -1111,6 +1109,53 @@ Historical note:
 - Approach for 6a: read A and B together per unit to determine which version is weaker and which is stronger. Do not rely on heading keywords alone — the B. explanation confirms the quality direction.
 - The "weaker/original" version always gets `:::example-bad`; the "stronger/revised" version gets `:::example-good`. Neutral standalone examples (no comparison pair) get `:::example`.
 - Committed `4e16797`.
+
+## 2026-05-29 - Div Fence Formatting Conventions (INT and ADV books)
+
+- Status: `active`
+- Scope: project/conventions
+- Source: `adv/md/working/aw-adv-all_0516.md` and `adv/edits & guides/style edits/step3-div-reclassification/`
+
+**Correct format:**
+```
+::: class
+Title Line
+
+Content paragraph or list.
+More content.
+
+:::
+
+```
+
+Rules:
+- Opening fence: `::: class` — **space required** between `:::` and class name. `:::class` (no space) is wrong.
+- First line inside the div: short plain-text title (no `**` bold, just text). This becomes the visible label in the DOCX.
+- Blank line between title and body content.
+- Content (paragraphs, lists, tables) flows inside without interruption — do NOT close and reopen the div for multiple paragraphs/lists within the same block.
+- Closing fence: `:::` on its own line with **no space**.
+- Blank line after closing `:::` before the next element — this prevents the following text from being pulled into the div style.
+- Nested divs are allowed: inner div closes with `:::`, then outer div closes with `:::` on the next line.
+
+**Classification key** (from `div_reclassification_review_0516.md`):
+- `learn` — teaching input, explanations, principles, "Why this works", before-you-write reminders
+- `language` — grammar patterns, phrase banks, vocabulary lists presented for **reference only** (no task attached). If task is attached → reclassify.
+- `structure` — templates, format guides, planning boards, document hierarchy diagrams
+- `notice` — guided observation/analysis/comparison of **given text** (learner does not produce new text)
+- `write` — original production from scratch (scenarios, free writing, homework)
+- `rewrite` — transformation of **given text** at sentence level (reformulation, pattern application)
+- `revise` — improvement/restructuring of paragraph or document (learner's own or given longer text)
+- `edit` — correction, error-finding, proofreading, checklist application
+- `example` / `example-good` / `example-bad` — model/reference text (learner reads, does not act on)
+
+**Critical distinctions:**
+- `language` vs `learn`: language reference list = `language`; explanation of WHY a pattern works = `learn`
+- `language` vs `rewrite`: if the div asks the learner to DO something with language → `rewrite` or `notice`
+- `notice` vs `write`: notice = observation of given text; write = production of new text
+- `rewrite` vs `revise`: rewrite = sentence-level transformation; revise = paragraph/document-level improvement
+- `edit` vs `rewrite`: edit = find and fix errors; rewrite = reformulate/transform (may or may not have errors)
+
+**Reference:** `adv/edits & guides/style edits/step3-div-reclassification/div_misclassification_audit_0516.md` documents common misclassification patterns in detail.
 
 ## 2026-05-29 - ADV Canonical Source Is adv/md/edits/modules (Not adv/md/final/modules)
 
