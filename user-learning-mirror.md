@@ -126,6 +126,20 @@ Sync rule:
 - Failure: I over-attributed the problem to VS Code, settings, or other extensions before checking the local Codex extension bundle that actually generates the link behavior
 - Preferred behavior: when the defect is clearly inside the Codex pane, inspect the local `openai.chatgpt` extension files early, especially `webview/index.html`, `webview/assets/index-*.js`, `webview/assets/vscode-api-*.js`, source maps, and `out/extension.js`, before spending much time on broader editor-level blame
 
+### 2026-05-29 - Project Memory Lives In Repo-Root Files, Not AI-Specific Internal Memory
+
+- Status: `active`
+- Scope: user/workflow
+- Pattern: saving project memory during any session in this workspace
+- Decision: the user works with multiple AI tools in VS Code (Claude Code, Codex, and others) that share one memory source. Project memory must always be written to the repo-root files defined in AGENTS.md — never to an AI tool's internal/private memory only.
+- Required behavior:
+  1. At session start, read `AGENTS.md` at the repo root — it defines the startup read order and memory file locations
+  2. Durable project facts and decisions → `project-learning.md` (repo root)
+  3. Chronological session events → `project-journal.md` (repo root), appended in date order at the END of the file
+  4. AI-internal memory (e.g. Claude Code memory) is secondary only — never the sole record of project decisions
+  5. After writing to repo memory files, commit and push so all AIs see the update
+- Why: writing memory only to AI-specific internal storage makes it invisible to other AIs working in the same repo, breaking shared context across tools
+
 ### 2026-03-14 - Treat User-Found Devtools Evidence As A Primary Lead
 
 - Status: `workaround`
