@@ -197,8 +197,12 @@ You can use this simple frame:
 
 Mini contrast:
 
+:::example
+
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
+
+:::
 
 If both texts sound the same, the reader-purpose control is still weak.
 
@@ -2118,6 +2122,8 @@ Review the pack with these prompts:
 
 Mini contrast:
 
+:::example
+
 - Weak pack:
   - every document repeats "There is a problem with the file" and changes only the greeting
 - Stronger pack:
@@ -2125,6 +2131,8 @@ Mini contrast:
   - the internal explanation tells the team why review must pause
   - the notice tells staff which date or step has changed
   - the revision note explains why the wording split was necessary
+
+:::
 
 This workshop matters because Module 6 cannot reach parity only through better sentence control. It needs fuller task-set support so the learner can manage one fact across several different writing jobs without flattening the differences between readers.
 
@@ -2152,6 +2160,5 @@ Use these prompts:
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
-
 
 

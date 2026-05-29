@@ -103,8 +103,12 @@ A small grammar error can become a workplace problem when it changes:
 
 Mini contrast:
 
+:::example
+
 - Weak: "The documents is complete."
 - Stronger: "The documents are complete."
+
+:::
 
 One small change can stop the reader from doubting the message.
 
@@ -416,8 +420,12 @@ When you edit for clarity, ask:
 
 Mini contrast:
 
+:::example
+
 - Weak: "There is something about the file that may cause a kind of delay."
 - Stronger: "The file is missing two pages, so the next review step will be delayed."
+
+:::
 
 #### 2. Make the Sentences Clearer
 
@@ -721,8 +729,12 @@ Try to soften the message by changing:
 
 Mini contrast:
 
+:::example
+
 - Weak: "You made a mistake."
 - Stronger: "There seems to be an error in the current version."
+
+:::
 
 The stronger version keeps the message usable and professional.
 
@@ -1045,6 +1057,5 @@ Before you submit any later task, write a short memo:
 - one sentence that still needs a better next-step signal
 
 This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
-
 
 

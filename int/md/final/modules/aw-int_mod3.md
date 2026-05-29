@@ -144,8 +144,12 @@ Avoid vague verbs such as "handle," "do," or "fix" when a more exact action is p
 
 Mini contrast:
 
+:::example
+
 - Weak: "Do the form."
 - Stronger: "Review the form and attach the signed copy."
+
+:::
 
 The stronger version tells the reader exactly what action sequence to follow.
 
@@ -656,8 +660,12 @@ When you revise it, check:
 
 Mini contrast:
 
+:::example
+
 - Weak notice: vague warning, no action path
 - Stronger notice: clear topic, clear problem, clear reminder or next step
+
+:::
 
 **Original:**
 
@@ -886,8 +894,12 @@ Try to make the reader understand:
 
 Mini contrast:
 
+:::example
+
 - Weak: "There is a problem with the file."
 - Stronger: "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
+
+:::
 
 1. "There is a problem with the file."
    ->
@@ -1608,10 +1620,14 @@ Add one sentence that makes the reader-use value visible:
 
 Mini contrast:
 
+:::example
+
 - Weak notice:
   - "The room will change next week."
 - Stronger notice:
   - "The document check will move to Room 304 next week because Room 201 is under maintenance. Please bring all morning submissions to Room 304 from Monday to Friday."
+
+:::
 
 The stronger version works because it combines change, reason, and action in a usable order.
 
@@ -1634,6 +1650,5 @@ Why Ending B is stronger:
 Now rewrite one ending from your own summary work so it does the same three jobs.
 
 This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.
-
 
 

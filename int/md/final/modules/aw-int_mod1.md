@@ -226,9 +226,13 @@ Before you draft, decide which sentence will do each job:
 
 Mini model:
 
+:::example
+
 1. We received the wrong form with your submission.
 2. Please send the corrected form for this application.
 3. Kindly send it by next Friday so the review can continue.
+
+:::
 
 1.
 2.
@@ -499,8 +503,12 @@ Try to improve all three areas:
 
 Mini contrast:
 
+:::example
+
 - Weak: blame first, urgent demand, no calm context
 - Stronger: short greeting, clear problem statement, polite request, stable tone
+
+:::
 
 **Original email:**
 > Hi,  

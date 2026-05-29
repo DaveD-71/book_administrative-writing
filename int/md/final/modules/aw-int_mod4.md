@@ -168,8 +168,12 @@ For each one, make sure you:
 
 Mini model:
 
+:::example
+
 - Weak: "What is the rule?"
 - Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
+
+:::
 
 The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
 
@@ -201,8 +205,12 @@ Use the background sentence to answer:
 
 Mini model:
 
+:::example
+
 - Weak background: "I have a question."
 - Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
+
+:::
 
 The better version helps the reader understand the task situation before they read the question itself.
 
@@ -511,8 +519,12 @@ Build each answer so the reader can understand:
 
 Mini model:
 
+:::example
+
 - Weak: "The schedule changed."
 - Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
+
+:::
 
 This is stronger because the reader can follow fact, cause, and effect in one short explanation.
 
@@ -831,8 +843,12 @@ Aim for this order when possible:
 
 Mini model:
 
+:::example
+
 - Weak: "You misunderstood the instructions."
 - Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
+
+:::
 
 The stronger version corrects the information without blaming the reader.
 
@@ -1206,9 +1222,13 @@ When you rewrite it, decide:
 
 Mini model:
 
+:::example
+
 - Weak:
   Subject: Question
   Hi, I saw the file. It looks wrong. Please explain. Thanks.
+
+:::
 
 - Stronger:
   Subject: Clarification Request About File Version
@@ -1545,10 +1565,14 @@ Now review the tone with this contrast:
 
 Mini contrast:
 
+:::example
+
 - Weak:
   - "You misunderstood the form. Please read the instructions again."
 - Stronger:
   - "Thank you for your message. To clarify the form process, the supporting document is uploaded after the main form is submitted. Please let us know if you would like us to confirm the next step in more detail."
+
+:::
 
 The stronger version works because it protects trust, explains the sequence, and leaves the reader with a clear way forward.
 
@@ -1573,7 +1597,6 @@ After writing, explain:
 - which opening can assume the most background knowledge
 
 This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
-
 
 
 

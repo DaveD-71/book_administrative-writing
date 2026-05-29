@@ -457,8 +457,12 @@ Each stronger question should show:
 
 Mini contrast:
 
+:::example
+
 - Weak: "Tell me the details."
 - Stronger: "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
+
+:::
 
 1. What do you mean?  
    ->
@@ -833,8 +837,12 @@ Try to replace vague updates with:
 
 Mini contrast:
 
+:::example
+
 - Weak: "The meeting is delayed."
 - Stronger: "The meeting is delayed until Thursday because the updated file set is not yet complete."
+
+:::
 
 1. "The meeting is delayed."
    ->
@@ -1227,8 +1235,12 @@ Specific requests are easier to answer because they name:
 
 Mini contrast:
 
+:::example
+
 - Weak: "Could you update me?"
 - Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"
+
+:::
 
 1. "Could you send the document?"
    ->
@@ -1638,6 +1650,5 @@ Before you send a clarification or request email, add one short planning line:
 - If the reply is incomplete, what is your follow-up question?
 
 This keeps the message sequence practical and helps the first email lead more naturally to the next step.
-
 
 
