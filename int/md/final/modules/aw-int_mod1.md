@@ -685,11 +685,15 @@ Read both paragraphs. Decide which one is **better organised**.
 
 #### Paragraph A
 
+:::example-good
 We reviewed the updated guidelines yesterday. During the review, we found several sections that were unclear and inconsistent with earlier versions. These inconsistencies may cause confusion for staff who use the document. Additional notes will be compiled before we continue with the next stage of the review.
+:::
 
 #### Paragraph B
 
+:::example-bad
 We reviewed the updated guidelines yesterday. The office renovation will begin next month. Several sections in the document were unclear. Our team attended a training session last week.
+:::
 
 **Discussion:** Why is Paragraph A better?
 

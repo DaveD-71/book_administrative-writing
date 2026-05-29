@@ -53,6 +53,7 @@ Read the two emails and choose which one is clearer and more professional.
 
 #### Email A
 
+:::example-bad
 Subject: Question
 
 Hi,
@@ -62,9 +63,11 @@ I don't understand this part.
 Can you tell me what it means?
 
 Thanks,
+:::
 
 #### Email B
 
+:::example-good
 Subject: Question About Application Form
 
 Dear Ms. Tanaka,
@@ -74,6 +77,7 @@ I have a question about the new application form.
 Could you clarify the purpose of Section 3?
 
 Thank you,
+:::
 
 **Discussion:** Why is Email B more professional?
 

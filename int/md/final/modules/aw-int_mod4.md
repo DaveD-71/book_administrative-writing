@@ -45,10 +45,12 @@ It should:
 
 #### Example (Part of a Larger Message Chain)
 
+:::example
 Subject: Inquiry Regarding Updated Application Guidelines  
 Dear Review Office Team,
 We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.  
 Thank you.
+:::
 
 #### Warm-Up: Which Inquiry Is Better?
 
@@ -56,15 +58,19 @@ Compare the two versions.
 
 #### Email A
 
+:::example-bad
 Subject: Question  
 Hi,
 I don't understand the guidelines. Please explain.
+:::
 
 #### Email B
 
+:::example-good
 Subject: Question About Guidelines - Section 4  
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
+:::
 
 **Discussion:** Why is Email B more appropriate?
 
@@ -405,7 +411,9 @@ A simple explanation:
 
 #### Example (Part of a Larger Document)
 
+:::example
 The review process will take longer this month because several files require additional checks. These checks are necessary to confirm applicant information. A further update will be provided next week.
+:::
 
 #### Warm-Up: What Information Is Missing?
 
@@ -729,7 +737,9 @@ When someone is confused, your response should:
 
 #### Example (Part of a Longer Email Thread)
 
+:::example
 Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
+:::
 
 #### Warm-Up: What Is the Confusion?
 
@@ -1038,13 +1048,17 @@ Consistency helps:
 
 #### Example - Inconsistent vs. Consistent
 
+:::example-bad
 **Inconsistent:**  
 Hi, I checked it. Please tell me what to do. Thanks.
+:::
 
+:::example-good
 **Consistent:**  
 Dear Team,
 I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?  
 Thank you.
+:::
 
 #### Warm-Up: Identify the Inconsistencies
 
@@ -1052,17 +1066,21 @@ Read the two emails. What is inconsistent?
 
 #### Email A
 
+:::example-bad
 Subject: Info  
 Hi,  
 I saw it. What next?  
 Thx.
+:::
 
 #### Email B
 
+:::example-good
 Subject: Information Required for Review  
 Dear Team,  
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
 Thank you.
+:::
 
 What is inconsistent in Email A? (tone, clarity, formatting, etc.)
 

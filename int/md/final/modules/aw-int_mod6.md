@@ -770,17 +770,21 @@ Compare the two emails. Identify inconsistencies in tone, format, structure, and
 
 #### Email A
 
+:::example-bad
 Subject: Info  
 Hi,  
 I saw it. What next?  
 Thx.
+:::
 
 #### Email B
 
+:::example-good
 Subject: Information Required for Review  
 Dear Team,  
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?  
 Thank you.
+:::
 
 Write the inconsistencies you notice:
 

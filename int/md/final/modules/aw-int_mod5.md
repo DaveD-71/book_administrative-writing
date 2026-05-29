@@ -334,8 +334,13 @@ Clarity refers to how easily the reader can understand your message. Clear writi
 
 #### Example (Before -> After)
 
-**Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.  
+:::example-bad
+**Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.
+:::
+
+:::example-good
 **After:** The document appears to be missing some parts.
+:::
 
 #### Warm-Up: What Makes These Sentences Unclear?
 
@@ -627,8 +632,13 @@ A poor tone may be:
 
 #### Example (Before -> After)
 
-**Before:** You didn't send the right file. Send the correct one now.  
+:::example-bad
+**Before:** You didn't send the right file. Send the correct one now.
+:::
+
+:::example-good
 **After:** Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
+:::
 
 #### Warm-Up: Why Is the Tone Wrong?
 
