@@ -990,3 +990,46 @@ Historical note:
 - Observation: docx-to-markdown exposes the useful reverse-conversion flags --output-dir, --assets-dir, --unit-heading-level, --reference-out, --keep-temp-md, --preserve-headers, --shape-output, and --no-local-staging.
 - Observation: with local staging enabled on this UNC-backed workspace, --keep-temp-md retains _full.md only inside the temporary staging area; the synced output keeps the split .md unit files, ssets, and eference.docx, but not the combined _full.md.
 - Preferred behavior: if a future task explicitly needs the combined _full.md artifact on disk, rerun with --no-local-staging; otherwise treat the split unit files as the durable TextMaker output and assemble a repo-local editing copy as needed.
+
+## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: all INT content edits must go to `int/md/final/modules/aw-int_mod[1-6].md`. The working file `int/md/working/aw-int-all_0519.md` is currently OUT OF SYNC — it has no `:::` div markers (lost in commit `e88e828` heading normalization). Do not edit the working file directly; it will be rebuilt from module files via the full stage 7A pipeline when content fixes are complete.
+- Preferred behavior: when doing book-wide content fixes, always target the canonical module files. Never target the working or combined file.
+
+## 2026-05-29 - Student Answer Placeholder Coverage Completed (INT, -> lines)
+
+- Status: `active`
+- Scope: project/int-content
+- Decision: all student answer placeholder markers are now inserted across INT modules 1–6.
+  - 4 `Clear:` lines in Unit 1 C. Simplify the Sentence → `{{PH-1: U01-C-simplify-N}}`
+  - 147 `->` student answer lines (indented and bare) across all 23 units → `{{PH-1: U0N-S-rewrite-N}}`
+  - Total INT PH markers as of this session: 320 (PH-1 through PH-5)
+- Observation: the original automation script only caught 3-space-indented `   ->` lines. Bare (no-indent) `->` lines in mod1 and mod6 were missed and had to be fixed manually. Scan all indentation variants when searching for student-answer arrows.
+- Preferred behavior: after any automated PH marker insertion pass, run a full scan for `^\s*->\s*$` with no-PH check to verify complete coverage.
+
+## 2026-05-29 - Placeholder System Changed To Per-Instance rows= Parameter
+
+- Status: `active`
+- Scope: project/tooling
+- Decision: the placeholder system no longer uses fixed row counts per PH type. Each marker now carries an explicit `rows=N` parameter:
+  ```
+  {{PH-1: U01-C-rewrite-1 | rows=2}}
+  ```
+- Rationale: a single sentence rewrite and a multi-clause rewrite were getting identical box sizes under the old system. Per-instance sizing allows appropriate space for each task.
+- Script: `../textmaker/scripts/postprocess_docx.py` — function `apply_response_placeholders`. Updated in commit `e632658`.
+  - Row height: 454 twips (~0.8 cm), down from 567 twips (~1 cm)
+  - Header height: 340 twips (~0.6 cm)
+  - Regex: `PH-\d+[a-z]?` to support `PH-1a`/`PH-1b`/`PH-1c` sub-types
+  - PH type still conveys pedagogical nature (sentence / paragraph / short doc / long doc / multi-part)
+- Migration status: script updated; source file markers NOT yet migrated. INT has 320 markers, ADV has 127 markers. All currently use old format `{{PH-N: id}}` without `rows=`. Migration is the next active task.
+- Fallback: if `rows=` is absent, the script falls back to default row counts: PH-1a=1, PH-1b=2, PH-1c=3, PH-1=4, PH-2=6, PH-3=11, PH-4=19, PH-5=28.
+- Preferred behavior: during the size verification pass, set rows based on task context — single sentence rewrite = 2 rows, short paragraph = 5–6 rows, full email = 8–10 rows, full document = 12–15 rows.
+
+## 2026-05-29 - ADV Canonical Source Is adv/md/edits/modules (Not adv/md/final/modules)
+
+- Status: `active`
+- Scope: project/conventions
+- Observation: `adv/md/final/modules/` does not exist. The canonical ADV source files are `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`. These contain 127 PH markers (PH-1: 3, PH-2: 37, PH-3: 42, PH-4: 45) that need migration to the `rows=N` format.
+- Preferred behavior: when working on ADV content, always target `adv/md/edits/modules/`. Do not assume a `final/` subdirectory exists for ADV.
