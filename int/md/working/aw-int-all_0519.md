@@ -570,6 +570,7 @@ You can use these phrases to make your tone more appropriate:
 Original Email
 
 > Hi,
+>
 > You didn't send the right file. Send the correct one today. I need it now.
 :::
 
@@ -961,7 +962,11 @@ Add one more supporting sentence that continues the explanation without giving i
 ::: example-bad
 Original
 
-> We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before.
+> We checked the application yesterday.
+>
+> One document was missing. The missing document is required for further review.
+>
+> It is essential for completing the examination process. The applicant sent the wrong version before.
 :::
 
 ::: rewrite
