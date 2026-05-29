@@ -1000,12 +1000,7 @@ Historical note:
 
 1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances). Done.
 2. ✅ Fix `->` student answer lines — 147 instances book-wide. All `^\s*->\s*$` lines in mods 1–6 now have a `{{PH-1: ID}}` marker on the following line. Done.
-3. 🔄 **Placeholder size verification — NEXT ACTIVE TASK**
-   - All existing markers use old format `{{PH-N: id}}` with no row count.
-   - New format: `{{PH-N: id | rows=R}}`. The `postprocess_docx.py` script (`apply_response_placeholders` in `../textmaker/scripts/postprocess_docx.py`) already parses `rows=N` — this was updated in commit `e632658` of the textmaker repo.
-   - Row height is 0.8 cm per row. Use these benchmarks: single sentence rewrite = 2 rows; short phrase/word answer = 1 row; 2–3 sentence answer = 3–4 rows; paragraph (5–6 sentences) = 6 rows; short email/memo = 8–10 rows; full document = 12–15 rows.
-   - INT has 320 markers across mods 1–6. ADV has 127 markers in `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`.
-   - Work through each marker in context, decide rows, rewrite in new format. This requires human judgment per marker — it cannot be done with a single regex replacement.
+3. ✅ Placeholder size verification — all 320 INT + 127 ADV markers migrated to `{{PH-N: id | rows=R}}` format. Committed `77e6b81` (INT) and `f09c9fc` (ADV).
 4. Fix checklist formatting book-wide
    - Self-check sections use numbered lists (`1. 2. 3.`) but should use `- [ ]` checkboxes.
    - "Your labels: 1. 2. 3." patterns should also become `- [ ]` items — the checkbox space is where students write T/S/C labels.
