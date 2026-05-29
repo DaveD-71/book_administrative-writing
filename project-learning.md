@@ -981,3 +981,12 @@ Historical note:
 - Observation: both books use identical `markdown-to-docx` arguments except for `--input` and `--output`; the shared styleref is always `adv\md\working\aw-adv-styleref.docx`; required flags are `--no-pagebreak-filter --apply-semantic-labels --tag-style outline`; `--h1-sections` and `--toc` must never be passed for this project.
 - Preferred behavior: when a future session needs to run a DOCX or PDF build, open `adv/README-build.md` immediately — do not guess flags or reconstruct the command from project-learning entries alone.
 
+
+## 2026-05-21T12:19:38.7157891+09:00 - TextMaker DOCX-To-Markdown Reverse Conversion Notes
+
+- Status: ctive
+- Scope: project/tooling
+- Decision: for one-file editing conversions from DOCX, prefer 	extmaker.cmd docx-to-markdown with --shape-output inline-text-only, then assemble the final editable Markdown from the generated .md unit files when the source is short.
+- Observation: docx-to-markdown exposes the useful reverse-conversion flags --output-dir, --assets-dir, --unit-heading-level, --reference-out, --keep-temp-md, --preserve-headers, --shape-output, and --no-local-staging.
+- Observation: with local staging enabled on this UNC-backed workspace, --keep-temp-md retains _full.md only inside the temporary staging area; the synced output keeps the split .md unit files, ssets, and eference.docx, but not the combined _full.md.
+- Preferred behavior: if a future task explicitly needs the combined _full.md artifact on disk, rerun with --no-local-staging; otherwise treat the split unit files as the durable TextMaker output and assemble a repo-local editing copy as needed.

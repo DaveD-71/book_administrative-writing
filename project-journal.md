@@ -1816,3 +1816,71 @@ Units 6–23 (instructor guidance frameworks):
 
 **Outstanding:** ADV Units 6–23 have framework guidance only — unit-specific exercise answers (match tables, sequencing, model rewrites) remain to be added in a follow-up session.
 
+
+## 2026-05-21T12:19:38.7157891+09:00 - Rubric Scoring Guide Converted From DOCX To Editable Markdown
+
+- Workspace: \\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing
+- Source: writing_tests\Rubric Scoring Guide Writing Course.docx
+- Tooling review: confirmed 	extmaker.cmd supports docx-to-markdown, docx-to-pdf, export-docx-package, generate-reference, image-to-markdown, markdown-to-docx, pdf-to-markdown, postprocess-docx, postprocess-markdown, pptx-to-package, preprocess-docx, split-docx-units, and yaml-to-audio.
+- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced split Markdown units, ssets\shapes, and eference.docx.
+- Follow-up handling: assembled the generated unit files into writing_tests\Rubric Scoring Guide Writing Course.md and normalized escaped LINEBREAK / SHAPE markers so the file is practical to edit directly.
+
+## 2026-05-21T12:45:11.9327538+09:00 - Instructor Marking Guide Converted From DOCX To Editable Markdown
+
+- Workspace: \\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing
+- Source: writing_tests\Instructor Marking Guide Writing Course.docx
+- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\instructor_textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced 12 split Markdown units, ssets\shapes, and eference.docx.
+- Follow-up handling: assembled the generated unit files into writing_tests\Instructor Marking Guide Writing Course.md and normalized escaped LINEBREAK / SHAPE markers so the file is practical to edit directly.
+
+## 2026-05-21T12:52:00+09:00 - Writing Test Conversion Outputs Reorganized Into Per-Document Bundles
+
+- Workspace: \\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing
+- Scope: writing_tests
+- Decision: group each converted document into a single folder containing the source DOCX, assembled editable Markdown, related PDF when present, and a local 	extmaker subfolder.
+- Result: moved the generic 	extmaker_out and instructor_textmaker_out folders into the respective document folders as 	extmaker, and renamed the hidden .md unit folders to sections for clarity.
+- Preferred behavior: keep future per-document reverse-conversion artifacts inside the corresponding document folder so the repo root does not accumulate ambiguous sibling output folders.
+
+## 2026-05-21T13:02:00+09:00 - Writing Test Master Markdown Files Cleaned For Editing
+
+- Scope: writing_tests
+- Files: writing_tests\Rubric Scoring Guide Writing Course\Rubric Scoring Guide Writing Course.md; writing_tests\Instructor Marking Guide Writing Course\Instructor Marking Guide Writing Course.md
+- Result: replaced TextMaker-flattened <br> chains with normal Markdown paragraphs, bullets, and numbered lists; reorganized headings into cleaner bilingual editing copies.
+- Preferred behavior: treat the assembled master Markdown files as the primary editing targets and keep 	extmaker\sections as raw conversion trace artifacts.
+
+## 2026-05-21T13:10:00+09:00 - Rubric And Instructor Guide Restructured Into Separate English And Japanese Halves
+
+- Scope: writing_tests
+- Files: writing_tests\Rubric Scoring Guide Writing Course\Rubric Scoring Guide Writing Course.md; writing_tests\Instructor Marking Guide Writing Course\Instructor Marking Guide Writing Course.md
+- Result: removed inline bilingual pairing and reorganized each file into a full English version first, followed by a full Japanese version with mirrored heading structure.
+- Preferred behavior: keep future editing focused on the assembled master files and preserve the raw 	extmaker\sections files only as source-conversion artifacts.
+
+## 2026-05-21T13:03:57.6671177+09:00 - Markdown Masters Rebuilt To New DOCX Outputs
+
+- Scope: writing_tests
+- Outputs: writing_tests\Rubric Scoring Guide Writing Course\Rubric Scoring Guide Writing Course_from-md_0521.docx; writing_tests\Instructor Marking Guide Writing Course\Instructor Marking Guide Writing Course_from-md_0521.docx
+- Result: successfully rebuilt both edited Markdown master files to DOCX using the TextMaker CLI entry invoked via Python with Pandoc on PATH.
+- Build note: the local per-document 	extmaker\reference.docx files and the generic 	extmaker\reference.docx did not satisfy TextMaker postprocessing requirements (Heading 2, then List Number 3 were missing). The successful build used dv\md\working\aw-adv-styleref.docx as the reference with --no-pagebreak-filter.
+- Preferred behavior: for future markdown-to-docx rebuilds in this repo, use the project styleref when TextMaker postprocessing is required and the local extracted reference documents are incomplete.
+
+## 2026-05-21T13:24:02.6129700+09:00 - Added Reconstructed /100 Scoring Sheet For Writing Tests
+
+- Scope: writing_tests
+- File: writing_tests\Writing Course Scoring Sheet.md
+- Result: created a standalone scoring worksheet that operationalizes the inferred A=25, B1=25, B2=25, C=25 model, with one /25 rubric table per section, a final /100 total, and short marker guidance for handling Section A holistically.
+- Constraint: the current source set still does not contain an original explicit per-question point allocation; this sheet is an inferred working framework derived from the test structure, rubric, and instructor marking guide.
+
+## 2026-05-21T13:27:02.9450963+09:00 - Section A Scoring Model Revised To Mixed A1/A2 Allocation
+
+- Scope: writing_tests
+- File: writing_tests\Writing Course Scoring Sheet.md
+- Decision: replace the earlier holistic Section A `/25` treatment with a mixed operational model: `A1 = 5 questions x 2 points = /10` and `A2 = 3 questions x 5 points = /15`.
+- Result: the scoring sheet now keeps `B1`, `B2`, and `C` as `/25` rubric-scored sections while making Section A easier to mark in a way that better matches the task types.
+- Preferred behavior: use the same mixed architecture for both the Pre-Test and Post-Test unless a source document with an original official point allocation is later found.
+
+## 2026-05-21T13:27:02.9450963+09:00 - Pre/Post Test DOCX Files Revised To Show Point Values
+
+- Scope: writing_tests/tests
+- Outputs: writing_tests\tests\og\pre\Pre Test Bilingual_scored.docx; writing_tests\tests\og\post\Post Test Bilingual_scored.docx
+- Result: created revised DOCX copies of both bilingual tests with explicit point indications for each question, including per-item labels in `A1` and `A2` and `/25` task labels for `B1`, `B2`, and `C`.
+- Layout note: modest extra answer space was added to the short `A2` responses and the final `C` rewriting task to better match expected student output length.
+- Verification: Word COM automation opened both revised files successfully; page count increased from 12 to 13 after the spacing adjustment.
