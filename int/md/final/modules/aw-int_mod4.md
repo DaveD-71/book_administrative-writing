@@ -23,7 +23,7 @@ Use this module carefully:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can write a short external inquiry email with a clear question.
 - I can provide enough background for another office to understand my question.
@@ -382,7 +382,7 @@ Before writing your own external inquiries, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can explain a process or issue in simple professional language.
 - I can add the right amount of background and reason information.
@@ -708,7 +708,7 @@ Before writing your own explanations, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can acknowledge confusion politely in writing.
 - I can restate the correct information clearly.
@@ -1009,7 +1009,7 @@ Before writing your own responses, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify inconsistency in an email's tone, structure, or formatting.
 - I can rewrite an email to match a more consistent professional style.

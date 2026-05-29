@@ -23,7 +23,7 @@ When you use this module, do not skip the support layer:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify what different audiences need to know about the same situation.
 - I can write a polite external email about an issue.
@@ -371,7 +371,7 @@ Before writing the full pair, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can write a polite revision or correction message to another office.
 - I can write a short internal notice about the same correction.
@@ -725,7 +725,7 @@ Before writing both texts, ask:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify inconsistency across related team messages.
 - I can rewrite short messages so they follow a shared team standard.
@@ -1058,7 +1058,7 @@ Before writing your next rewritten message set, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can decide what different readers need from the same situation.
 - I can write an applicant reply, a colleague explanation, and an internal notice about one issue.
@@ -1453,7 +1453,7 @@ Before writing the full three-document set, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can revise earlier writing to a higher standard.
 - I can choose portfolio pieces that show different administrative writing skills.

@@ -23,7 +23,7 @@ Use the module support in this order:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify basic grammar and accuracy problems in workplace writing.
 - I can correct common errors in short administrative texts.
@@ -313,7 +313,7 @@ Before editing the next texts, ask:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify vague, wordy, or poorly organized writing.
 - I can rewrite sentences to make them clearer and more direct.
@@ -597,7 +597,7 @@ Before revising your own texts, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify tone problems such as directness, blame, or emotional language.
 - I can soften a message without making it unclear.

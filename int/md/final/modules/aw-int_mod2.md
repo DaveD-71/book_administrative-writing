@@ -23,7 +23,7 @@ Use the module support actively:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify the main parts of a professional email.
 - I can write a short, clear subject line for a workplace email.
@@ -367,7 +367,7 @@ If you do not want to use a real email, rewrite one of the Unit 4 freer-practice
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can write polite clarification questions about unclear or missing information.
 - I can ask for specific details instead of writing a vague question.
@@ -731,7 +731,7 @@ Before writing your own clarification email, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can explain a delay or change using neutral professional language.
 - I can organise an update message in a clear order.
@@ -1062,7 +1062,7 @@ Before writing your own update email, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can choose a polite request structure for a workplace email.
 - I can make a request more specific and useful by adding the necessary detail.

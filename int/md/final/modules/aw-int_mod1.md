@@ -22,7 +22,7 @@ Use this module in the same way each time:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can write short clear sentences using basic subject-verb-object or subject-verb-complement patterns.
 - I can rewrite long or indirect sentences in a simpler administrative style.
@@ -323,7 +323,7 @@ If you do not want to use a real email, use one of the Unit 1 situations or your
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can make a short request sound more polite and professional.
 - I can rewrite direct or emotional wording in a neutral workplace style.
@@ -625,7 +625,7 @@ If you do not want to use a real email, use the original draft in this unit or o
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify the main parts of a paragraph.
 - I can organise sentences into a clear paragraph with logical flow.

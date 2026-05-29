@@ -23,7 +23,7 @@ Work through the module with these habits:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can write simple step-by-step instructions in a clear order.
 - I can choose clear action verbs for procedure writing.
@@ -377,7 +377,7 @@ If you do not want to use a task from your job, choose one Unit 8 freer-practice
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify the main parts of an internal notice.
 - I can write a short internal notice using neutral language.
@@ -736,7 +736,7 @@ Check your notice before moving on:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can explain a workplace problem in clear neutral language.
 - I can include the main parts of a problem explanation in a logical way.
@@ -1093,7 +1093,7 @@ Before writing your own problem descriptions, check:
 
 ### Focus
 
-By the end of this unit, you should be able to:
+By the end of this unit, I will be able to:
 
 - I can identify the key information that belongs in a meeting summary.
 - I can write a short meeting summary using clear neutral language.
