@@ -244,10 +244,10 @@ Use this box for one complete version.
 
 Before you write your own message, check each sentence with these questions:
 
-1. Can the reader find the subject quickly?
-2. Can the reader find the main verb quickly?
-3. Is there one main message in the sentence?
-4. Can I replace a long phrase with a shorter one?
+- [ ] Can the reader find the subject quickly?
+- [ ] Can the reader find the main verb quickly?
+- [ ] Is there one main message in the sentence?
+- [ ] Can I replace a long phrase with a shorter one?
 
 If the answer to one of these is `No`, rewrite the sentence before you continue.
 
@@ -540,10 +540,10 @@ Use this box for one complete version.
 
 Before writing your own email, check:
 
-1. Did I greet the reader politely?
-2. Did I explain my purpose clearly?
-3. Did I use one polite request or clarification phrase?
-4. Does the message sound calm and professional?
+- [ ] Did I greet the reader politely?
+- [ ] Did I explain my purpose clearly?
+- [ ] Did I use one polite request or clarification phrase?
+- [ ] Does the message sound calm and professional?
 
 If one answer is `No`, improve the draft before moving on.
 
@@ -753,9 +753,9 @@ Label each sentence:
 3. This information forms part of the initial review before we proceed to later steps.
 
 Your labels:
-1.
-2.
-3.
+- [ ]
+- [ ]
+- [ ]
 
 #### Paragraph 2
 
@@ -766,9 +766,9 @@ Your labels:
 3. These observations will be included in the technical report that follows.
 
 Your labels:
-1.
-2.
-3.
+- [ ]
+- [ ]
+- [ ]
 
 #### 3. Logical Flow Inside a Paragraph
 
@@ -1052,4 +1052,3 @@ Write one short note after revising:
 - which sentence became clearer
 - which tone change mattered most
 - which paragraph move helped the reader fastest
-

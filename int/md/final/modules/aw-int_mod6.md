@@ -230,10 +230,10 @@ This board slows the decision down just enough to keep the two texts linked but 
 
 Before writing the full pair, check:
 
-1. Did I change the tone for each reader?
-2. Did I keep the facts consistent?
-3. Does each text have a different immediate purpose?
-4. Will each reader understand what matters to them?
+- [ ] Did I change the tone for each reader?
+- [ ] Did I keep the facts consistent?
+- [ ] Does each text have a different immediate purpose?
+- [ ] Will each reader understand what matters to them?
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
 
@@ -273,10 +273,10 @@ Write each document in its own box.
 
 Before writing the full pair, check:
 
-1. Did I change the tone for each reader?
-2. Did I keep the facts consistent?
-3. Does each text have a different immediate purpose?
-4. Will each reader understand what matters to them?
+- [ ] Did I change the tone for each reader?
+- [ ] Did I keep the facts consistent?
+- [ ] Does each text have a different immediate purpose?
+- [ ] Will each reader understand what matters to them?
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
 
@@ -356,10 +356,10 @@ Write each document in its own box.
 
 Before writing the full pair, check:
 
-1. Did I change the tone for each reader?
-2. Did I keep the facts consistent?
-3. Does each text have a different immediate purpose?
-4. Will each reader understand what matters to them?
+- [ ] Did I change the tone for each reader?
+- [ ] Did I keep the facts consistent?
+- [ ] Does each text have a different immediate purpose?
+- [ ] Will each reader understand what matters to them?
 
 1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.  
 
@@ -580,10 +580,10 @@ Change the tone, format, and amount of explanation around that fact.
 
 Before writing both texts, ask:
 
-1. Is the correction exactly the same in both texts?
-2. Is the external tone more polite?
-3. Is the internal version shorter and more factual?
-4. Can each reader see what happens next?
+- [ ] Is the correction exactly the same in both texts?
+- [ ] Is the external tone more polite?
+- [ ] Is the internal version shorter and more factual?
+- [ ] Can each reader see what happens next?
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
 
@@ -623,10 +623,10 @@ Write each document in its own box.
 
 Before writing both texts, ask:
 
-1. Is the correction exactly the same in both texts?
-2. Is the external tone more polite?
-3. Is the internal version shorter and more factual?
-4. Can each reader see what happens next?
+- [ ] Is the correction exactly the same in both texts?
+- [ ] Is the external tone more polite?
+- [ ] Is the internal version shorter and more factual?
+- [ ] Can each reader see what happens next?
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
 
@@ -710,10 +710,10 @@ Write each document in its own box.
 
 Before writing both texts, ask:
 
-1. Is the correction exactly the same in both texts?
-2. Is the external tone more polite?
-3. Is the internal version shorter and more factual?
-4. Can each reader see what happens next?
+- [ ] Is the correction exactly the same in both texts?
+- [ ] Is the external tone more polite?
+- [ ] Is the internal version shorter and more factual?
+- [ ] Can each reader see what happens next?
 
 1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?  
 
@@ -957,10 +957,10 @@ Write each document in its own box.
 
 Before writing your next rewritten message set, check:
 
-1. Do all messages sound like they come from one team?
-2. Is the tone level stable?
-3. Is the structure similar across the messages?
-4. Is the formatting predictable?
+- [ ] Do all messages sound like they come from one team?
+- [ ] Is the tone level stable?
+- [ ] Is the structure similar across the messages?
+- [ ] Is the formatting predictable?
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
 
@@ -1043,10 +1043,10 @@ Write each document in its own box.
 
 Before writing your next rewritten message set, check:
 
-1. Do all messages sound like they come from one team?
-2. Is the tone level stable?
-3. Is the structure similar across the messages?
-4. Is the formatting predictable?
+- [ ] Do all messages sound like they come from one team?
+- [ ] Is the tone level stable?
+- [ ] Is the structure similar across the messages?
+- [ ] Is the formatting predictable?
 
 1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.  
 
@@ -1284,10 +1284,10 @@ Use this quick test:
 
 Before writing the full three-document set, check:
 
-1. Did I identify the three readers clearly?
-2. Does each document have a different job?
-3. Are the shared facts consistent across all three?
-4. Is the tone right for each audience?
+- [ ] Did I identify the three readers clearly?
+- [ ] Does each document have a different job?
+- [ ] Are the shared facts consistent across all three?
+- [ ] Is the tone right for each audience?
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
 
@@ -1332,10 +1332,10 @@ Write each document in its own box.
 
 Before writing the full three-document set, check:
 
-1. Did I identify the three readers clearly?
-2. Does each document have a different job?
-3. Are the shared facts consistent across all three?
-4. Is the tone right for each audience?
+- [ ] Did I identify the three readers clearly?
+- [ ] Does each document have a different job?
+- [ ] Are the shared facts consistent across all three?
+- [ ] Is the tone right for each audience?
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
 
@@ -1438,10 +1438,10 @@ Write each document in its own box.
 
 Before writing the full three-document set, check:
 
-1. Did I identify the three readers clearly?
-2. Does each document have a different job?
-3. Are the shared facts consistent across all three?
-4. Is the tone right for each audience?
+- [ ] Did I identify the three readers clearly?
+- [ ] Does each document have a different job?
+- [ ] Are the shared facts consistent across all three?
+- [ ] Is the tone right for each audience?
 
 1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?  
 
@@ -1643,10 +1643,10 @@ Before finalizing, check:
 
 Before you submit your portfolio, ask:
 
-1. Does each document match its reader and purpose?
-2. Did I improve accuracy, clarity, and tone?
-3. Are the final versions consistent in formatting and style?
-4. Does the new Unit 23 document fit the rest of the portfolio?
+- [ ] Does each document match its reader and purpose?
+- [ ] Did I improve accuracy, clarity, and tone?
+- [ ] Are the final versions consistent in formatting and style?
+- [ ] Does the new Unit 23 document fit the rest of the portfolio?
 
 Before submission, test whether the portfolio really shows range.
 
@@ -1743,10 +1743,10 @@ Portfolio quality reminder:
 
 Before you submit your portfolio, ask:
 
-1. Does each document match its reader and purpose?
-2. Did I improve accuracy, clarity, and tone?
-3. Are the final versions consistent in formatting and style?
-4. Does the new Unit 23 document fit the rest of the portfolio?
+- [ ] Does each document match its reader and purpose?
+- [ ] Did I improve accuracy, clarity, and tone?
+- [ ] Are the final versions consistent in formatting and style?
+- [ ] Does the new Unit 23 document fit the rest of the portfolio?
 
 Before submission, test whether the portfolio really shows range.
 
@@ -1901,11 +1901,11 @@ Internal note: The file submitted today does not match the required template. Pl
 
 Use the comparison to answer:
 
-1. Why is Version B more usable than Version A?
-2. Which sentence in Version B best shows audience control?
-3. Which unit from this module helps most with the external message?
-4. Which unit helps most with the internal note?
-5. Where would you apply Module 5 editing habits before final submission?
+- [ ] Why is Version B more usable than Version A?
+- [ ] Which sentence in Version B best shows audience control?
+- [ ] Which unit from this module helps most with the external message?
+- [ ] Which unit helps most with the internal note?
+- [ ] Where would you apply Module 5 editing habits before final submission?
 
 ### Module 6 final self-edit routine
 
@@ -1921,11 +1921,11 @@ Before you finish the course, use this routine on one integrated task set.
 
 Use this quick lab on any integrated task from Units 19 to 23.
 
-1. Choose one pair or set of linked documents.
-2. Write the shared fact in one short sentence.
-3. Write one reader-only detail for each document.
-4. Check whether any sentence from one document was copied too directly into another.
-5. Rewrite the weakest opening so the reader and purpose are clear immediately.
+- [ ] Choose one pair or set of linked documents.
+- [ ] Write the shared fact in one short sentence.
+- [ ] Write one reader-only detail for each document.
+- [ ] Check whether any sentence from one document was copied too directly into another.
+- [ ] Rewrite the weakest opening so the reader and purpose are clear immediately.
 
 **What this lab trains**
 
@@ -2037,10 +2037,10 @@ Use this matrix before you write any multi-document task in this module.
 
 Ask four questions before drafting:
 
-1. Which fact must stay identical across all documents?
-2. Which detail belongs in only one document?
-3. Which reader needs the clearest next step?
-4. Which text needs the calmest tone?
+- [ ] Which fact must stay identical across all documents?
+- [ ] Which detail belongs in only one document?
+- [ ] Which reader needs the clearest next step?
+- [ ] Which text needs the calmest tone?
 
 This matrix matters because Module 6 becomes weak when the writer treats all documents as one message split into smaller parts. The reader changes the writing job. When the job changes, the detail level, sequence, and tone must also change.
 
@@ -2107,10 +2107,10 @@ Now rewrite the pack so each document starts with the reader's most urgent need:
 
 Review the pack with these prompts:
 
-1. Which facts must stay identical in all documents?
-2. Which details appear in only one document because only that reader needs them?
-3. Which document now carries the clearest next step?
-4. Which document still sounds like it was copied from another one?
+- [ ] Which facts must stay identical in all documents?
+- [ ] Which details appear in only one document because only that reader needs them?
+- [ ] Which document now carries the clearest next step?
+- [ ] Which document still sounds like it was copied from another one?
 
 Mini contrast:
 
@@ -2148,7 +2148,6 @@ Use these prompts:
 - Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
 
 This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
-
 
 
 

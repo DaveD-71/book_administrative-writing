@@ -305,10 +305,10 @@ Use this box for one complete version.
 
 Before writing your own email, check:
 
-1. Can the reader understand the purpose from the subject line and first sentence?
-2. Is the question or information specific enough?
-3. Is the body short but complete?
-4. Does the closing sound professional?
+- [ ] Can the reader understand the purpose from the subject line and first sentence?
+- [ ] Is the question or information specific enough?
+- [ ] Is the body short but complete?
+- [ ] Does the closing sound professional?
 
 1. Which part of the email is easiest for you?  
 
@@ -617,10 +617,10 @@ Write each document in its own box.
 
 Before writing your own clarification email, check:
 
-1. Did I identify one clear unclear point?
-2. Did I ask a specific question?
-3. Did I avoid blame or frustration?
-4. Could the reader answer without asking me another question first?
+- [ ] Did I identify one clear unclear point?
+- [ ] Did I ask a specific question?
+- [ ] Did I avoid blame or frustration?
+- [ ] Could the reader answer without asking me another question first?
 
 1. Which clarification phrase is most useful for you?  
 
@@ -716,10 +716,10 @@ Write your paragraph:
 
 Before writing your own clarification email, check:
 
-1. Did I identify one clear unclear point?
-2. Did I ask a specific question?
-3. Did I avoid blame or frustration?
-4. Could the reader answer without asking me another question first?
+- [ ] Did I identify one clear unclear point?
+- [ ] Did I ask a specific question?
+- [ ] Did I avoid blame or frustration?
+- [ ] Could the reader answer without asking me another question first?
 
 1. Which clarification phrase is most useful for you?  
 
@@ -963,10 +963,10 @@ Write each document in its own box.
 
 Before writing your own update email, check:
 
-1. Did I state the change clearly?
-2. Did I add the reason or background if needed?
-3. Did I show the effect on the reader or schedule?
-4. Did I include a neutral next-step line?
+- [ ] Did I state the change clearly?
+- [ ] Did I add the reason or background if needed?
+- [ ] Did I show the effect on the reader or schedule?
+- [ ] Did I include a neutral next-step line?
 
 1. What phrases do you find most useful for explaining delays or changes?
 
@@ -1047,10 +1047,10 @@ Write your paragraph:
 
 Before writing your own update email, check:
 
-1. Did I state the change clearly?
-2. Did I add the reason or background if needed?
-3. Did I show the effect on the reader or schedule?
-4. Did I include a neutral next-step line?
+- [ ] Did I state the change clearly?
+- [ ] Did I add the reason or background if needed?
+- [ ] Did I show the effect on the reader or schedule?
+- [ ] Did I include a neutral next-step line?
 
 1. What phrases do you find most useful for explaining delays or changes?
 
@@ -1355,10 +1355,10 @@ Write each document in its own box.
 
 Before writing your request email, check:
 
-1. Is the request clear?
-2. Is the request specific enough?
-3. Did I add a short reason if it helps?
-4. Did I avoid pressure words or commands?
+- [ ] Is the request clear?
+- [ ] Is the request specific enough?
+- [ ] Did I add a short reason if it helps?
+- [ ] Did I avoid pressure words or commands?
 
 1. What polite request phrase do you prefer using?
 
@@ -1442,10 +1442,10 @@ Write your paragraph:
 
 Before writing your request email, check:
 
-1. Is the request clear?
-2. Is the request specific enough?
-3. Did I add a short reason if it helps?
-4. Did I avoid pressure words or commands?
+- [ ] Is the request clear?
+- [ ] Is the request specific enough?
+- [ ] Did I add a short reason if it helps?
+- [ ] Did I avoid pressure words or commands?
 
 1. What polite request phrase do you prefer using?
 
@@ -1474,10 +1474,10 @@ Could you please send the updated file today? I need it to complete the report b
 
 Then answer:
 
-1. Which version sounds more cooperative?
-2. Which version gives the reader a clearer reason to act?
-3. Which unit in this module best explains the change from A to B?
-4. What else would you add if the request were going to an external office instead of a colleague?
+- [ ] Which version sounds more cooperative?
+- [ ] Which version gives the reader a clearer reason to act?
+- [ ] Which unit in this module best explains the change from A to B?
+- [ ] What else would you add if the request were going to an external office instead of a colleague?
 
 ### Module 2 email control checklist
 
@@ -1572,9 +1572,9 @@ Choose one of these situations:
 
 Write a three-part email set:
 
-1. a first email
-2. a polite follow-up email
-3. a final short internal note explaining the situation to your team
+- [ ] a first email
+- [ ] a polite follow-up email
+- [ ] a final short internal note explaining the situation to your team
 
 After writing, answer these questions:
 
@@ -1634,7 +1634,6 @@ Before you send a clarification or request email, add one short planning line:
 - If the reply is incomplete, what is your follow-up question?
 
 This keeps the message sequence practical and helps the first email lead more naturally to the next step.
-
 
 
 

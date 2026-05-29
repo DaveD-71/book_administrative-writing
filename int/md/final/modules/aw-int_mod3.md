@@ -268,10 +268,10 @@ Use this box for one complete version.
 
 Before writing your own procedures, check:
 
-1. Does each step begin with a clear action verb?
-2. Is one step doing only one main job?
-3. Does the order match the real task?
-4. Will the user know when the task is finished?
+- [ ] Does each step begin with a clear action verb?
+- [ ] Is one step doing only one main job?
+- [ ] Does the order match the real task?
+- [ ] Will the user know when the task is finished?
 
 1. What is difficult about writing procedures?
 
@@ -318,10 +318,10 @@ Use this box for one complete version.
 
 Before writing your own procedures, check:
 
-1. Does each step begin with a clear action verb?
-2. Is one step doing only one main job?
-3. Does the order match the real task?
-4. Will the user know when the task is finished?
+- [ ] Does each step begin with a clear action verb?
+- [ ] Is one step doing only one main job?
+- [ ] Does the order match the real task?
+- [ ] Will the user know when the task is finished?
 
 1. What is difficult about writing procedures?
 
@@ -593,10 +593,10 @@ Write each document in its own box.
 
 Check your notice before moving on:
 
-1. Is the topic clear?
-2. Is the language factual, not emotional?
-3. Does the message tell the reader what happens next?
-4. Is the notice short but complete?
+- [ ] Is the topic clear?
+- [ ] Is the language factual, not emotional?
+- [ ] Does the message tell the reader what happens next?
+- [ ] Is the notice short but complete?
 
 1. What makes a notice effective or ineffective?  
 
@@ -621,10 +621,10 @@ Use this board before you draft so each notice tells staff what changed, why it 
 
 Check your notice before moving on:
 
-1. Is the topic clear?
-2. Is the language factual, not emotional?
-3. Does the message tell the reader what happens next?
-4. Is the notice short but complete?
+- [ ] Is the topic clear?
+- [ ] Is the language factual, not emotional?
+- [ ] Does the message tell the reader what happens next?
+- [ ] Is the notice short but complete?
 
 1. What makes a notice effective or ineffective?  
 
@@ -721,10 +721,10 @@ Use this box for one complete version.
 
 Check your notice before moving on:
 
-1. Is the topic clear?
-2. Is the language factual, not emotional?
-3. Does the message tell the reader what happens next?
-4. Is the notice short but complete?
+- [ ] Is the topic clear?
+- [ ] Is the language factual, not emotional?
+- [ ] Does the message tell the reader what happens next?
+- [ ] Is the notice short but complete?
 
 1. What makes a notice effective or ineffective?  
 
@@ -964,10 +964,10 @@ Writers often lose clarity when they name the problem but do not explain the eff
 
 Before writing your own problem descriptions, check:
 
-1. Did I state the issue clearly?
-2. Did I add the cause if it is known?
-3. Did I explain the effect on work or schedule?
-4. Did I tell the reader the current status?
+- [ ] Did I state the issue clearly?
+- [ ] Did I add the cause if it is known?
+- [ ] Did I explain the effect on work or schedule?
+- [ ] Did I tell the reader the current status?
 
 1. What makes a problem explanation clear or unclear?
 
@@ -1003,10 +1003,10 @@ Write each document in its own box.
 
 Before writing your own problem descriptions, check:
 
-1. Did I state the issue clearly?
-2. Did I add the cause if it is known?
-3. Did I explain the effect on work or schedule?
-4. Did I tell the reader the current status?
+- [ ] Did I state the issue clearly?
+- [ ] Did I add the cause if it is known?
+- [ ] Did I explain the effect on work or schedule?
+- [ ] Did I tell the reader the current status?
 
 1. What makes a problem explanation clear or unclear?
 
@@ -1078,10 +1078,10 @@ Write your paragraph:
 
 Before writing your own problem descriptions, check:
 
-1. Did I state the issue clearly?
-2. Did I add the cause if it is known?
-3. Did I explain the effect on work or schedule?
-4. Did I tell the reader the current status?
+- [ ] Did I state the issue clearly?
+- [ ] Did I add the cause if it is known?
+- [ ] Did I explain the effect on work or schedule?
+- [ ] Did I tell the reader the current status?
 
 1. What makes a problem explanation clear or unclear?
 
@@ -1254,10 +1254,10 @@ A useful summary does more than report. It helps the next reader act.
 
 Before writing your own summaries, check:
 
-1. Did I name the meeting topic?
-2. Did I include the main point or decision?
-3. Did I add one next step?
-4. Did I remove unnecessary detail?
+- [ ] Did I name the meeting topic?
+- [ ] Did I include the main point or decision?
+- [ ] Did I add one next step?
+- [ ] Did I remove unnecessary detail?
 
 1. What part of meeting summaries is easiest for you?  
 
@@ -1293,10 +1293,10 @@ Write each document in its own box.
 
 Before writing your own summaries, check:
 
-1. Did I name the meeting topic?
-2. Did I include the main point or decision?
-3. Did I add one next step?
-4. Did I remove unnecessary detail?
+- [ ] Did I name the meeting topic?
+- [ ] Did I include the main point or decision?
+- [ ] Did I add one next step?
+- [ ] Did I remove unnecessary detail?
 
 1. What part of meeting summaries is easiest for you?  
 
@@ -1381,10 +1381,10 @@ Use this box for one complete version.
 
 Before writing your own summaries, check:
 
-1. Did I name the meeting topic?
-2. Did I include the main point or decision?
-3. Did I add one next step?
-4. Did I remove unnecessary detail?
+- [ ] Did I name the meeting topic?
+- [ ] Did I include the main point or decision?
+- [ ] Did I add one next step?
+- [ ] Did I remove unnecessary detail?
 
 1. What part of meeting summaries is easiest for you?  
 
@@ -1413,10 +1413,10 @@ The team met on Monday to review the new system schedule. The main issue was a d
 
 Use the comparison to decide:
 
-1. Which version helps the reader act after reading?
-2. Which sentence in Version B gives the clearest next step?
-3. Which module unit best explains why Version B is stronger?
-4. How could you rewrite Version A so the purpose is clearer?
+- [ ] Which version helps the reader act after reading?
+- [ ] Which sentence in Version B gives the clearest next step?
+- [ ] Which module unit best explains why Version B is stronger?
+- [ ] How could you rewrite Version A so the purpose is clearer?
 
 ### Module 3 self-edit routine
 
@@ -1616,7 +1616,6 @@ Why Ending B is stronger:
 Now rewrite one ending from your own summary work so it does the same three jobs.
 
 This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.
-
 
 
 

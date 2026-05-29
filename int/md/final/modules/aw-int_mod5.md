@@ -231,10 +231,10 @@ Write each document in its own box.
 
 Before editing the next texts, ask:
 
-1. Is the time clear?
-2. Are singular and plural forms correct?
-3. Are the articles and prepositions correct?
-4. Does the corrected version sound natural enough to send?
+- [ ] Is the time clear?
+- [ ] Are singular and plural forms correct?
+- [ ] Are the articles and prepositions correct?
+- [ ] Does the corrected version sound natural enough to send?
 
 1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
 
@@ -298,10 +298,10 @@ The review process start tomorrow. The team are preparing the documents now. The
 
 Before editing the next texts, ask:
 
-1. Is the time clear?
-2. Are singular and plural forms correct?
-3. Are the articles and prepositions correct?
-4. Does the corrected version sound natural enough to send?
+- [ ] Is the time clear?
+- [ ] Are singular and plural forms correct?
+- [ ] Are the articles and prepositions correct?
+- [ ] Does the corrected version sound natural enough to send?
 
 1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.  
 
@@ -518,10 +518,10 @@ Write each document in its own box.
 
 Before revising your own texts, check:
 
-1. What is the main point?
-2. Which words are vague?
-3. Which sentence can be made shorter?
-4. Does the order help the reader follow the message?
+- [ ] What is the main point?
+- [ ] Which words are vague?
+- [ ] Which sentence can be made shorter?
+- [ ] Does the order help the reader follow the message?
 
 1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
 
@@ -582,10 +582,10 @@ We checked some things and there are maybe a few issues. The system did somethin
 
 Before revising your own texts, check:
 
-1. What is the main point?
-2. Which words are vague?
-3. Which sentence can be made shorter?
-4. Does the order help the reader follow the message?
+- [ ] What is the main point?
+- [ ] Which words are vague?
+- [ ] Which sentence can be made shorter?
+- [ ] Does the order help the reader follow the message?
 
 1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.  
 
@@ -826,10 +826,10 @@ Write each document in its own box.
 
 Before revising your own emails, check:
 
-1. Did I remove blame?
-2. Does the message still say what is needed?
-3. Does the tone sound calm and professional?
-4. Would I be comfortable sending this version?
+- [ ] Did I remove blame?
+- [ ] Does the message still say what is needed?
+- [ ] Does the tone sound calm and professional?
+- [ ] Would I be comfortable sending this version?
 
 1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
 
@@ -893,10 +893,10 @@ We told the applicant many times, but they still submitted the wrong file. This 
 
 Before revising your own emails, check:
 
-1. Did I remove blame?
-2. Does the message still say what is needed?
-3. Does the tone sound calm and professional?
-4. Would I be comfortable sending this version?
+- [ ] Did I remove blame?
+- [ ] Does the message still say what is needed?
+- [ ] Does the tone sound calm and professional?
+- [ ] Would I be comfortable sending this version?
 
 1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?  
 
@@ -924,19 +924,19 @@ The attached file does not appear to match the requested format. Could you pleas
 
 Use the comparison to answer:
 
-1. Which version is more accurate about the problem?
-2. Which version is clearer about the required action?
-3. Which version manages tone better?
-4. What changes from Units 16-18 created the stronger result?
+- [ ] Which version is more accurate about the problem?
+- [ ] Which version is clearer about the required action?
+- [ ] Which version manages tone better?
+- [ ] What changes from Units 16-18 created the stronger result?
 
 ### Module 5 editing routine
 
 Use these steps on one draft from an earlier module.
 
-1. Accuracy pass: check grammar, word choice, and basic correctness.
-2. Clarity pass: shorten heavy sentences and remove vague language.
-3. Tone pass: check whether the message sounds cooperative and professional.
-4. Final pass: confirm that the revised draft still says the same essential thing.
+- [ ] Accuracy pass: check grammar, word choice, and basic correctness.
+- [ ] Clarity pass: shorten heavy sentences and remove vague language.
+- [ ] Tone pass: check whether the message sounds cooperative and professional.
+- [ ] Final pass: confirm that the revised draft still says the same essential thing.
 
 ### Module 5 transfer task
 
@@ -1035,7 +1035,6 @@ Before you submit any later task, write a short memo:
 - one sentence that still needs a better next-step signal
 
 This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
-
 
 
 

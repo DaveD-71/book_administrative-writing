@@ -250,10 +250,10 @@ Use this box for one complete version.
 
 Before writing your own external inquiries, check:
 
-1. Did I give enough background for the outside reader?
-2. Is the question specific?
-3. Did I avoid unnecessary office detail?
-4. Does the closing sound polite and professional?
+- [ ] Did I give enough background for the outside reader?
+- [ ] Is the question specific?
+- [ ] Did I avoid unnecessary office detail?
+- [ ] Does the closing sound polite and professional?
 
 - **Subject:**
 
@@ -355,10 +355,10 @@ Use this box for one complete version.
 
 Before writing your own external inquiries, check:
 
-1. Did I give enough background for the outside reader?
-2. Is the question specific?
-3. Did I avoid unnecessary office detail?
-4. Does the closing sound polite and professional?
+- [ ] Did I give enough background for the outside reader?
+- [ ] Is the question specific?
+- [ ] Did I avoid unnecessary office detail?
+- [ ] Does the closing sound polite and professional?
 
 - **Subject:**
 
@@ -605,10 +605,10 @@ Write each document in its own box.
 
 Before writing your own explanations, check:
 
-1. Did I give enough background?
-2. Did I explain the reason clearly?
-3. Did I show the effect on work or timing?
-4. Is the explanation neutral and easy to follow?
+- [ ] Did I give enough background?
+- [ ] Did I explain the reason clearly?
+- [ ] Did I show the effect on work or timing?
+- [ ] Is the explanation neutral and easy to follow?
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
 
@@ -693,10 +693,10 @@ Write your paragraph:
 
 Before writing your own explanations, check:
 
-1. Did I give enough background?
-2. Did I explain the reason clearly?
-3. Did I show the effect on work or timing?
-4. Is the explanation neutral and easy to follow?
+- [ ] Did I give enough background?
+- [ ] Did I explain the reason clearly?
+- [ ] Did I show the effect on work or timing?
+- [ ] Is the explanation neutral and easy to follow?
 
 1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.  
 
@@ -907,10 +907,10 @@ Write each document in its own box.
 
 Before writing your own responses, check:
 
-1. Did I acknowledge the confusion politely?
-2. Did I restate the correct information clearly?
-3. Did I add one useful detail?
-4. Did I avoid blame?
+- [ ] Did I acknowledge the confusion politely?
+- [ ] Did I restate the correct information clearly?
+- [ ] Did I add one useful detail?
+- [ ] Did I avoid blame?
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
 
@@ -994,10 +994,10 @@ Write your paragraph:
 
 Before writing your own responses, check:
 
-1. Did I acknowledge the confusion politely?
-2. Did I restate the correct information clearly?
-3. Did I add one useful detail?
-4. Did I avoid blame?
+- [ ] Did I acknowledge the confusion politely?
+- [ ] Did I restate the correct information clearly?
+- [ ] Did I add one useful detail?
+- [ ] Did I avoid blame?
 
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?  
 
@@ -1250,10 +1250,10 @@ Write each document in its own box.
 
 Before writing your own consistent emails, check:
 
-1. Does the email use a standard opening?
-2. Is the purpose sentence clear?
-3. Does the body sound like the same email as the opening?
-4. Does the closing match the tone?
+- [ ] Does the email use a standard opening?
+- [ ] Is the purpose sentence clear?
+- [ ] Does the body sound like the same email as the opening?
+- [ ] Does the closing match the tone?
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
@@ -1328,10 +1328,10 @@ Write your paragraph:
 
 Before writing your own consistent emails, check:
 
-1. Does the email use a standard opening?
-2. Is the purpose sentence clear?
-3. Does the body sound like the same email as the opening?
-4. Does the closing match the tone?
+- [ ] Does the email use a standard opening?
+- [ ] Is the purpose sentence clear?
+- [ ] Does the body sound like the same email as the opening?
+- [ ] Does the closing match the tone?
 
 1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
 
@@ -1360,10 +1360,10 @@ I am writing to ask for clarification about the document submission process desc
 
 Now answer:
 
-1. Which version is easier to answer?
-2. Which words in Version B make the topic narrower and clearer?
-3. Which unit from this module explains why that change matters?
-4. How would you continue Version B if the reader were an applicant instead of another office?
+- [ ] Which version is easier to answer?
+- [ ] Which words in Version B make the topic narrower and clearer?
+- [ ] Which unit from this module explains why that change matters?
+- [ ] How would you continue Version B if the reader were an applicant instead of another office?
 
 ### Module 4 communication checklist
 
@@ -1436,9 +1436,9 @@ Choose one scenario:
 
 Write a three-part communication set:
 
-1. one outward-facing message
-2. one internal explanation for your team
-3. one short style note or rule for future messages
+- [ ] one outward-facing message
+- [ ] one internal explanation for your team
+- [ ] one short style note or rule for future messages
 
 After writing, explain:
 
@@ -1499,10 +1499,10 @@ Use this workshop when an external-facing message still feels underbuilt after o
 
 Write short answers to these questions:
 
-1. What does the reader already know?
-2. What exact question or explanation does the reader still need?
-3. Which detail would only matter to your internal team?
-4. What kind of trust does this reader need from the message?
+- [ ] What does the reader already know?
+- [ ] What exact question or explanation does the reader still need?
+- [ ] Which detail would only matter to your internal team?
+- [ ] What kind of trust does this reader need from the message?
 
 #### Step 2 - Answerability rebuild
 
@@ -1544,9 +1544,9 @@ Take one workplace issue such as:
 
 Write three short openings:
 
-1. to an external office
-2. to an applicant or student
-3. to your internal team
+- [ ] to an external office
+- [ ] to an applicant or student
+- [ ] to your internal team
 
 After writing, explain:
 
@@ -1555,7 +1555,6 @@ After writing, explain:
 - which opening can assume the most background knowledge
 
 This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
-
 
 
 
