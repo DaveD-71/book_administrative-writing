@@ -92,9 +92,22 @@ The clearer sentence usually improves one or more of these points:
 - the reader can understand the message in one reading
 
 Compare Pair 2 again:
+:::
 
-- Weak: *It is requested that you will kindly send, as soon as it is convenient, the missing form.*
-- Stronger: *Please send the missing form as soon as possible.*
+::: example-bad
+Weak
+
+*It is requested that you will kindly send, as soon as it is convenient, the missing form.*
+:::
+
+::: example-good
+Stronger
+
+*Please send the missing form as soon as possible.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because the reader can see the action immediately:
 
@@ -422,9 +435,22 @@ Professional Tone Usually Does Three Things
 Why the Stronger Tone Works
 
 Look again at this pair:
+:::
 
-- Weak: *I don't understand this. Explain it.*
-- Stronger: *I'm not sure I understand this part. Could you explain it?*
+::: example-bad
+Weak
+
+*I don't understand this. Explain it.*
+:::
+
+::: example-good
+Stronger
+
+*I'm not sure I understand this part. Could you explain it?*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because it:
 
@@ -1729,9 +1755,22 @@ A Strong Clarification Question
 Why a Better Clarification Question Works
 
 Compare:
+:::
 
-- Weak: *What do you mean?*
-- Stronger: *Could you clarify which version of the form we should use for applications submitted this month?*
+::: example-bad
+Weak
+
+*What do you mean?*
+:::
+
+::: example-good
+Stronger
+
+*Could you clarify which version of the form we should use for applications submitted this month?*
+:::
+
+::: learn
+Why This Works
 
 The stronger question works because it:
 
@@ -2143,9 +2182,22 @@ A Useful Update Answers Four Questions
 Why a Good Update Helps the Reader
 
 Compare these two ideas:
+:::
 
-- Weak: *The review will be delayed.*
-- Stronger: *The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.*
+::: example-bad
+Weak
+
+*The review will be delayed.*
+:::
+
+::: example-good
+Stronger
+
+*The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because the reader learns:
 
@@ -2511,9 +2563,22 @@ Quick Rule for Polite Requests
 Why the Polite Version Works
 
 Compare:
+:::
 
-- Weak: *Send the updated file.*
-- Stronger: *Could you please send the updated file? We need it for the next review stage.*
+::: example-bad
+Weak
+
+*Send the updated file.*
+:::
+
+::: example-good
+Stronger
+
+*Could you please send the updated file? We need it for the next review stage.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because it:
 
@@ -5516,9 +5581,22 @@ A Useful Explanation Helps the Reader
 Example Check: Why a Better Explanation Works
 
 Compare:
+:::
 
-- Weak: *The process will take longer.*
-- Stronger: *The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.*
+::: example-bad
+Weak
+
+*The process will take longer.*
+:::
+
+::: example-good
+Stronger
+
+*The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because it gives:
 
@@ -6971,9 +7049,22 @@ Quick Accuracy Check
 Example Check: Why Accuracy Matters To The Reader
 
 Compare:
+:::
 
-- Weak: *The applicant have submit the form yesterday.*
-- Stronger: *The applicant submitted the form yesterday.*
+::: example-bad
+Weak
+
+*The applicant have submit the form yesterday.*
+:::
+
+::: example-good
+Stronger
+
+*The applicant submitted the form yesterday.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because the reader does not need to stop and repair the grammar mentally.
 
@@ -7313,9 +7404,22 @@ Quick Clarity Check
 Example Check: Why The Clearer Version Works
 
 Compare:
+:::
 
-- Weak: *The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.*
-- Stronger: *The review was delayed because some information is missing. A new schedule will be announced tomorrow.*
+::: example-bad
+Weak
+
+*The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.*
+:::
+
+::: example-good
+Stronger
+
+*The review was delayed because some information is missing. A new schedule will be announced tomorrow.*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because the reader can see the relationship between the ideas.
 
@@ -7657,9 +7761,22 @@ Quick Tone Check
 Example Check: Why The Softer Version Works
 
 Compare:
+:::
 
-- Weak: *You didn't send the right file. Send the correct one now.*
-- Stronger: *Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
+::: example-bad
+Weak
+
+*You didn't send the right file. Send the correct one now.*
+:::
+
+::: example-good
+Stronger
+
+*Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
+:::
+
+::: learn
+Why This Works
 
 The stronger version works because it:
 
