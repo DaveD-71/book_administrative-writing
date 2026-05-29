@@ -1002,7 +1002,11 @@ Historical note:
 2. ✅ Fix `->` student answer lines — 147 instances book-wide. Done.
 3. ✅ Placeholder size verification — all 320 INT + 127 ADV markers migrated to `{{PH-N: id | rows=R}}` format. Committed `77e6b81` (INT) and `f09c9fc` (ADV).
 4. ✅ Fix checklist formatting — self-check numbered lists and "Your labels" converted to `- [ ]` checkboxes. Committed `0b7b163`.
-5. ✅ Fix Focus stem mismatch — "By the end of this unit, you should be able to:" changed to "By the end of this unit, I will be able to:" across all 23 units. Committed `02f976c`.
+5. ⚠️ Fix Focus stem mismatch — PARTIALLY RESOLVED, may need revisiting.
+   - Issue: stem "By the end of this unit, you should be able to:" was mismatched with "I can..." self-assessment items.
+   - Decision discussed: two options were considered — (a) change stem to "I can:" for full first-person consistency, or (b) "I will be able to:" as a learning-objective framing.
+   - What was actually applied: option (b) — "By the end of this unit, I will be able to:" — committed `02f976c`.
+   - Outstanding concern: user noted this decision was not the one reached in conversation. Option (a) "I can:" may have been the preferred resolution. Needs verification with user before finalising.
 6. 🔄 **Div pass 6a — ACTIVE: A. section example divs**
    - Background: all `:::div` markup was lost in commit `e88e828`. It must be re-established in the canonical module files before the working file is rebuilt.
    - The weaker/original example and the stronger/revised example are presented in the A. section warm-ups, not in B. Model Check (which is explanatory text referring back to A).
