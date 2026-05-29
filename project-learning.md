@@ -991,6 +991,28 @@ Historical note:
 - Observation: with local staging enabled on this UNC-backed workspace, --keep-temp-md retains _full.md only inside the temporary staging area; the synced output keeps the split .md unit files, ssets, and eference.docx, but not the combined _full.md.
 - Preferred behavior: if a future task explicitly needs the combined _full.md artifact on disk, rerun with --no-local-staging; otherwise treat the split unit files as the durable TextMaker output and assemble a repo-local editing copy as needed.
 
+## 2026-05-29 - Active To-Do List (INT Book Revision)
+
+- Status: `active`
+- Scope: project/int-content
+- Last updated: 2026-05-29
+
+1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances)
+2. ✅ Fix `->` student answer lines — 147 instances, book-wide (all modules)
+3. 🔄 Placeholder size verification — migrate all `{{PH-N: id}}` markers to `{{PH-N: id | rows=R}}` format, setting R based on task context. INT: 320 markers. ADV: 127 markers. **Next active task.**
+4. Fix checklist formatting book-wide — self-check numbered lists, Final self-edit bullets, "Your labels" → `- [ ]`
+5. Fix Focus stem mismatch — "By the end of this unit…" + "I can…" in all 23 units
+6. Wrap Weak/Strong examples in `:::example-bad` / `:::example-good` divs (B. Model Check sections)
+7. Wrap Mini model/Mini Example blocks in `:::example` divs (E. Freer Practice sections)
+8. Fix "Why this works" sections — bullet lists → flowing prose
+9. Fix original email formatting in D. Guided Practice — paragraph breaks
+10. Fix Unit 3 C.1 model paragraph — labeled topic/supporting/closing structure
+11. Mod6 A-H heading standardization — capstone units manual review
+12. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline
+13. Rebuild INT DOCX and PDF
+14. P6 — PH marker → response box conversion (final print-layout step)
+15. INT answer key sign-off
+
 ## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
 
 - Status: `active`
