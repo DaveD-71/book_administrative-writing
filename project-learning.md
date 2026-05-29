@@ -996,22 +996,49 @@ Historical note:
 - Status: `active`
 - Scope: project/int-content
 - Last updated: 2026-05-29
+- Source files: `int/md/final/modules/aw-int_mod[1-6].md` (canonical — edit these, not the working file)
 
-1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances)
-2. ✅ Fix `->` student answer lines — 147 instances, book-wide (all modules)
-3. 🔄 Placeholder size verification — migrate all `{{PH-N: id}}` markers to `{{PH-N: id | rows=R}}` format, setting R based on task context. INT: 320 markers. ADV: 127 markers. **Next active task.**
-4. Fix checklist formatting book-wide — self-check numbered lists, Final self-edit bullets, "Your labels" → `- [ ]`
-5. Fix Focus stem mismatch — "By the end of this unit…" + "I can…" in all 23 units
-6. Wrap Weak/Strong examples in `:::example-bad` / `:::example-good` divs (B. Model Check sections)
-7. Wrap Mini model/Mini Example blocks in `:::example` divs (E. Freer Practice sections)
-8. Fix "Why this works" sections — bullet lists → flowing prose
-9. Fix original email formatting in D. Guided Practice — paragraph breaks
-10. Fix Unit 3 C.1 model paragraph — labeled topic/supporting/closing structure
-11. Mod6 A-H heading standardization — capstone units manual review
-12. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline
-13. Rebuild INT DOCX and PDF
-14. P6 — PH marker → response box conversion (final print-layout step)
-15. INT answer key sign-off
+1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances). Done.
+2. ✅ Fix `->` student answer lines — 147 instances book-wide. All `^\s*->\s*$` lines in mods 1–6 now have a `{{PH-1: ID}}` marker on the following line. Done.
+3. 🔄 **Placeholder size verification — NEXT ACTIVE TASK**
+   - All existing markers use old format `{{PH-N: id}}` with no row count.
+   - New format: `{{PH-N: id | rows=R}}`. The `postprocess_docx.py` script (`apply_response_placeholders` in `../textmaker/scripts/postprocess_docx.py`) already parses `rows=N` — this was updated in commit `e632658` of the textmaker repo.
+   - Row height is 0.8 cm per row. Use these benchmarks: single sentence rewrite = 2 rows; short phrase/word answer = 1 row; 2–3 sentence answer = 3–4 rows; paragraph (5–6 sentences) = 6 rows; short email/memo = 8–10 rows; full document = 12–15 rows.
+   - INT has 320 markers across mods 1–6. ADV has 127 markers in `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`.
+   - Work through each marker in context, decide rows, rewrite in new format. This requires human judgment per marker — it cannot be done with a single regex replacement.
+4. Fix checklist formatting book-wide
+   - Self-check sections use numbered lists (`1. 2. 3.`) but should use `- [ ]` checkboxes.
+   - "Your labels: 1. 2. 3." patterns should also become `- [ ]` items — the checkbox space is where students write T/S/C labels.
+   - Final self-edit sections use bullet lists (`-`) but should be `- [ ]`.
+   - Scan for these patterns across all 6 modules and convert.
+5. Fix Focus stem mismatch in all 23 units
+   - Current: stem says "By the end of this unit, you should be able to:" followed by "I can…" statements.
+   - These need to be consistent — either change the stem to "I can:" or change the items to infinitives. Check which form is used more consistently across the book and normalise.
+6. Wrap Weak/Strong examples in `:::example-bad` / `:::example-good` divs
+   - Location: B. Model Check sections in each unit.
+   - Currently the Weak and Strong example blocks have no div wrapper, so they render as plain paragraphs in the DOCX.
+   - Each Weak example → `:::example-bad` ... `:::`, each Strong example → `:::example-good` ... `:::`.
+7. Wrap Mini model / Mini Example blocks in `:::example` divs
+   - Location: E. Freer Practice sections.
+   - Any block labelled "Mini model", "Mini Example", or similar that shows a sample response needs `:::example` ... `:::` wrapper.
+   - Currently these are caught by the div above them and styled incorrectly (the example instruction text gets styled as part of the write div).
+8. Fix "Why this works" sections — convert bullet lists to flowing prose
+   - Currently these sections have bullet-point explanations.
+   - They should be 2–3 sentence prose paragraphs, not lists.
+   - Rewrite each one across all units.
+9. Fix original email formatting in D. Guided Practice
+   - Some original emails are formatted as a single run-on line with no paragraph breaks.
+   - Add proper blank-line paragraph breaks within the quoted email text so it reads as a structured email.
+10. Fix Unit 3 C.1 model paragraph
+    - The model paragraph uses inline labels ("Topic sentence:", "Supporting sentence 1:", etc.) on the same line as the text.
+    - Restructure so it is a clean example paragraph without inline labels, or present it as a properly labelled table/diagram.
+11. Mod6 A-H heading standardization
+    - Commit `e88e828` standardised A-H headings in mods 1–5 but explicitly excluded mod6 (capstone units 19–23).
+    - Mod6 needs manual review — its structure is more complex (integrated tasks, multi-document layouts) so headings may need different treatment than a straight find-replace.
+12. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline. Do this after all content fixes above are complete. See `adv/README-build.md` for the canonical build command.
+13. Rebuild INT DOCX and PDF. See `adv/README-build.md`.
+14. P6 — PH marker → response box conversion (final print-layout step). Run `postprocess_docx.py` via the textmaker pipeline; verify all `{{PH-N: id | rows=R}}` markers produce correctly sized Word tables.
+15. INT answer key sign-off — review and formally close P3.
 
 ## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
 
