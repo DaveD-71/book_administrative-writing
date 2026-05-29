@@ -1003,25 +1003,29 @@ Historical note:
 3. ✅ Placeholder size verification — all 320 INT + 127 ADV markers migrated to `{{PH-N: id | rows=R}}` format. Committed `77e6b81` (INT) and `f09c9fc` (ADV).
 4. ✅ Fix checklist formatting — self-check numbered lists and "Your labels" converted to `- [ ]` checkboxes. Committed `0b7b163`.
 5. ✅ Fix Focus stem mismatch — "By the end of this unit, you should be able to:" changed to "By the end of this unit, I will be able to:" across all 23 units. Committed `02f976c`.
-6. 🔄 **Book-wide div classification pass — ACTIVE** (tasks 6–7 are the opening phase of this larger task)
-   - Background: all `:::div` markup was lost in commit `e88e828` (heading normalization pass). The stage 7A pipeline added it back to the working file but that file is out of sync. The div markup must be re-established in the canonical module source files before the working file is rebuilt.
-   - Div classes available: `:::learn`, `:::language`, `:::structure`, `:::notice`, `:::write`, `:::rewrite`, `:::revise`, `:::edit`, `:::example`, `:::example-good`, `:::example-bad`
-   - **Task 6a — B. Model Check example divs:**
-     - The book uses varied vocabulary to indicate example quality: Weak/Strong, Poor/Better, Original/Revised, Before/After, and similar. Do NOT rely on keyword matching.
-     - For each B. Model Check section, read the heading/label above the example block to determine whether it is the weaker/original version or the stronger/revised version, then apply `:::example-bad` or `:::example-good` accordingly.
-     - Neutral examples with no quality signal → `:::example`
-   - **Task 6b — E. Freer Practice mini-model divs:**
-     - Any block labelled "Mini model", "Mini Example", "Mini contrast", or showing a sample response → `:::example`
-   - **Task 6c — All remaining unclassified content blocks:**
-     - Teaching explanations, rules, tips → `:::learn`
-     - Language pattern boxes, phrase banks, grammar notes → `:::language`
-     - Structure diagrams, templates, format guides → `:::structure`
-     - Warnings, cautions, "avoid this" notes → `:::notice`
-     - Student free-writing tasks → `:::write`
-     - Sentence-level rewrite tasks → `:::rewrite`
-     - Paragraph/document revision tasks → `:::revise`
-     - Editing/proofreading tasks (find and fix errors) → `:::edit`
-   - **Approach:** work unit by unit, reading each section in full before applying divs. Do not automate — div classification requires judgment about content type, not keyword matching.
+6. 🔄 **Div pass 6a — ACTIVE: A. section example divs**
+   - Background: all `:::div` markup was lost in commit `e88e828`. It must be re-established in the canonical module files before the working file is rebuilt.
+   - The weaker/original example and the stronger/revised example are presented in the A. section warm-ups, not in B. Model Check (which is explanatory text referring back to A).
+   - Read A + B together per unit to determine which version is which. Vocabulary varies: Weak/Strong, Poor/Better, Version A/B, Email A/B, Paragraph A/B, Notice A/B, Before/After, Original/Revised, and similar.
+   - Weaker/original version → `:::example-bad` ... `:::` — Stronger/revised version → `:::example-good` ... `:::`
+   - Neutral standalone examples with no quality signal → `:::example`
+   - Do NOT rely on keyword matching — read the content and the B. explanation to determine quality.
+7. **Div pass 6b — E. Freer Practice mini-model divs**
+   - Any block labelled "Mini model", "Mini Example", "Mini contrast", or showing a sample response in an E. section → `:::example` ... `:::`
+   - Work through all 23 units.
+8. **Div pass 6c — Full semantic div classification of ALL remaining untagged content (CRITICAL — do not skip)**
+   - This is the complete re-application of stage 7A div markup to the canonical module source files. Every instructional content block across all 23 units (sections A through H) must end up inside exactly one div wrapper.
+   - This pass cannot be automated — each block requires a content judgment.
+   - Classification rules:
+     - `:::learn` — teaching explanation, rule, principle, concept introduction
+     - `:::language` — phrase bank, grammar pattern box, language note, vocabulary list
+     - `:::structure` — template, format diagram, document structure guide
+     - `:::notice` — warning, caution, "avoid this", common mistake alert
+     - `:::write` — student free-writing task (producing original text)
+     - `:::rewrite` — sentence-level rewrite task (transforming existing text)
+     - `:::revise` — paragraph or document-level revision task
+     - `:::edit` — find-and-fix error correction task
+   - Approach: work unit by unit, section by section. Read the full block before classifying. When in doubt between two classes, choose the one that best describes the primary cognitive demand on the student.
 7. Fix "Why this works" sections — convert bullet lists to flowing prose
    - Currently these sections have bullet-point explanations.
    - They should be 2–3 sentence prose paragraphs, not lists.
