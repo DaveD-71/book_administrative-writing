@@ -1040,6 +1040,11 @@ Historical note:
 14. P6 — PH marker → response box conversion (final print-layout step). Run `postprocess_docx.py` via the textmaker pipeline; verify all `{{PH-N: id | rows=R}}` markers produce correctly sized Word tables.
 15. INT answer key sign-off — review and formally close P3.
 
+**ADV book parallel tasks (same treatment required):**
+- A. ADV placeholder migration — migrate 127 `{{PH-N: id}}` markers in `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` to `{{PH-N: id | rows=R}}` format using the same row-count benchmarks as INT task 3.
+- B. ADV working file sync check — verify `adv/md/working/aw-adv-all_0516.md` is in sync with the module files before using it as an editing base.
+- C. ADV DOCX and PDF rebuild after placeholder migration. See `adv/README-build.md` for the canonical build command.
+
 ## 2026-05-29 - Preferred Editing Workflow: All File First, Then Sync To Modules
 
 - Status: `active`
@@ -1051,8 +1056,9 @@ Historical note:
   3. Review and validate in the combined file
   4. Split changes back into the relevant `int/md/final/modules/aw-int_mod[1-6].md` files
   5. Commit the module files
-- Current blocker: `aw-int-all_0519.md` is currently OUT OF SYNC (no `:::` div markers — lost in commit `e88e828`). Do not use it as an editing base until task 12 (rebuild working file) is complete.
-- Once the working file is rebuilt, this all-file-first workflow is preferred for multi-unit edits such as tasks 3–11.
+- Current blocker (INT): `aw-int-all_0519.md` is currently OUT OF SYNC (no `:::` div markers — lost in commit `e88e828`). Do not use it as an editing base until task 12 (rebuild working file) is complete.
+- ADV working file: `adv/md/working/aw-adv-all_0516.md`. Check whether it is in sync with `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` before using it as an editing base. ADV canonical modules are in `adv/md/edits/modules/` (not `adv/md/final/modules/` — that path does not exist).
+- Once each book's working file is confirmed in sync, the all-file-first workflow is preferred for multi-unit edits.
 
 ## 2026-05-29 - INT Canonical Source Files Are int/md/final/modules, Not int/md/working
 
