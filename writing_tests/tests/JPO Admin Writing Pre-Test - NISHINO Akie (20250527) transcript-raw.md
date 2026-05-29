@@ -97,7 +97,7 @@ before 10/06/2026.
 Foreign applicants need to submit the trademark
 application document (so-called "MM2") with
 their name and address written in Katakana
-(片仮名) from Jan 1st, 2027.
+(Japanese phonetic script) from Jan 1st, 2027.
 
 The above step added to an application
 process help examiners of Japan Patent Office

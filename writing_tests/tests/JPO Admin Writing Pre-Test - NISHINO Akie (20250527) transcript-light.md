@@ -75,7 +75,7 @@ I could appreciate if you reply the inquiry before 10/06/2026.
 ### Task B2. Administrative Explanation
 
 ```text
-Foreign applicants need to submit the trademark application document (so-called "MM2") with their name and address written in Katakana (迚・ｻｮ蜷・ from Jan 1st, 2027.
+Foreign applicants need to submit the trademark application document (so-called "MM2") with their name and address written in Katakana (Japanese phonetic script) from Jan 1st, 2027.
 
     The above step added to an application process help examiners of Japan Patent Office to understand whether a foreign applicant of international registration is the same as holder(s) of national registration or not, in examination concerning the Article 4(1)(iv) of the Trademark Act.
 
