@@ -8204,7 +8204,7 @@ In this unit, you will write:
 2. **An internal explanation** summarising the situation for colleagues.
 :::
 
-### A. Warm-Up
+#### A. Warm-Up
 
 ::: notice
 Warm-Up: Understanding the Situation
@@ -8285,7 +8285,7 @@ Transfer Reminder
 If the two texts sound almost the same, the audience control is probably too weak.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Rewrite for Audience & Tone
@@ -8344,7 +8344,7 @@ Use this box for one complete version.
 **External Email**
 {{PH-3: U19-guided-external-email | rows=10}}
 
-### D. Guided Practice
+#### D. Guided Practice
 
 ::: write
 Guided Practice: Write the Internal Explanation
@@ -8421,7 +8421,7 @@ Writers often lose audience control because they start drafting too quickly.
 This board slows the decision down just enough to keep the two texts linked but not identical.
 :::
 
-### E. Freer Practice
+#### E. Freer Practice
 
 ::: write
 Freer Practice: Choose One Integrated Scenario
@@ -8488,7 +8488,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U19-transfer-response | rows=4}}
 
-### E. Extended Writing Task
+#### E. Extended Writing Task
 
 ::: write
 Extended Writing Task: Multi-Purpose Communication
@@ -8520,7 +8520,7 @@ Write each document in its own box.
 **Internal Explanation**
 {{PH-3: U19-extended-internal-explanation | rows=10}}
 
-### F. Reflection
+#### F. Reflection
 
 ::: write
 Reflect on This Unit
@@ -8531,7 +8531,7 @@ Reflect on This Unit
 :::
 
 
-### H. Homework
+#### H. Homework
 
 ::: write
 Homework Task
@@ -8580,7 +8580,7 @@ Document-control check:
 - internal purpose: prevent staff from using the wrong date again
 :::
 
-### A. Warm-Up
+#### A. Warm-Up
 
 ::: notice
 Warm-Up: Understanding the Situation
@@ -8661,7 +8661,7 @@ The external revision message repairs the relationship with the outside reader.
 The internal notice repairs shared team understanding.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Rewrite for Audience & Tone
@@ -8721,7 +8721,7 @@ Use this box for one complete version.
 **Revision Message**
 {{PH-3: U20-guided-revision-message | rows=10}}
 
-### D. Guided Practice
+#### D. Guided Practice
 
 ::: write
 Guided Practice: Write the Internal Notice
@@ -8776,7 +8776,7 @@ Many weak correction sets change the wording of the correction itself. If the co
 Keep the corrected fact identical. Change the tone, format, and amount of explanation around that fact.
 :::
 
-### E. Freer Practice
+#### E. Freer Practice
 
 ::: write
 Freer Practice: Choose One Scenario
@@ -8843,7 +8843,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U20-transfer-response | rows=4}}
 
-### E. Extended Writing Task
+#### E. Extended Writing Task
 
 ::: write
 Extended Writing Task: Combined Communication Pack
@@ -8874,7 +8874,7 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-3: U20-extended-internal-notice | rows=10}}
 
-### F. Reflection
+#### F. Reflection
 
 ::: write
 Reflect on This Unit
@@ -8885,7 +8885,7 @@ Reflect on This Unit
 :::
 
 
-### H. Homework
+#### H. Homework
 
 ::: write
 Homework Task
@@ -8940,7 +8940,7 @@ Clear team standards help:
 - formatting basics
 :::
 
-### A. Warm-Up
+#### A. Warm-Up
 
 ::: notice
 Warm-Up: Spot the Inconsistencies
@@ -9028,7 +9028,7 @@ Teaching Point
 Team consistency is a reader-support tool, not only a style preference.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve Team Consistency
@@ -9052,7 +9052,7 @@ Rewrite these sentences/emails to make them consistent with team standards.
 **Write Here**
 {{PH-1: U21-practice-a-consistency | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 
 ::: example-bad
@@ -9214,7 +9214,7 @@ This keeps the unit focused on message rewriting first, then turns one successfu
 **Planning Notes**
 {{PH-1: U21-transfer-notes | rows=4}}
 
-### E. Extended Writing Task
+#### E. Extended Writing Task
 
 
 ::: example-bad
@@ -9247,7 +9247,7 @@ Write each document in its own box.
 **Message 3**
 {{PH-2: U21-extended-message-3 | rows=10}}
 
-### F. Reflection
+#### F. Reflection
 
 ::: write
 Reflect on This Unit
@@ -9258,7 +9258,7 @@ Reflect on This Unit
 :::
 
 
-### H. Homework
+#### H. Homework
 
 ::: write
 Homework Task
@@ -9302,7 +9302,7 @@ You must produce **three documents**:
 3. A **short internal notice** for the team (vertical/internal communication).
 :::
 
-### A. Warm-Up
+#### A. Warm-Up
 
 ::: notice
 Warm-Up: Analyse the Situation
@@ -9378,7 +9378,7 @@ Transfer Reminder
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Match Tone to Audience
@@ -9428,7 +9428,7 @@ Use this box for one complete version.
 **Applicant Reply**
 {{PH-3: U22-guided-applicant-reply | rows=6}}
 
-### D. Guided Practice
+#### D. Guided Practice
 
 ::: write
 Guided Practice: Write the Colleague Explanation
@@ -9449,7 +9449,7 @@ Write one sentence on each line where possible.
 **Colleague Explanation**
 {{PH-2: U22-guided-colleague-explanation | rows=6}}
 
-### D. Guided Practice
+#### D. Guided Practice
 
 ::: write
 Guided Practice: Write the Internal Notice
@@ -9521,7 +9521,7 @@ In a three-document task, the biggest risk is not grammar. It is overlap. One me
 - if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
 :::
 
-### E. Freer Practice
+#### E. Freer Practice
 
 ::: write
 Freer Practice: Full Multi-Document Set
@@ -9606,7 +9606,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U22-transfer-response | rows=4}}
 
-### E. Extended Writing Task
+#### E. Extended Writing Task
 
 ::: write
 Extended Writing Task: Multi-Audience Communication Pack
@@ -9640,7 +9640,7 @@ Write each document in its own box.
 **Internal Notice**
 {{PH-2: U22-multi-doc-internal-notice | rows=10}}
 
-### F. Reflection
+#### F. Reflection
 
 ::: write
 Reflect on This Unit
@@ -9651,7 +9651,7 @@ Reflect on This Unit
 :::
 
 
-### H. Homework
+#### H. Homework
 
 ::: write
 Homework Task
@@ -9699,7 +9699,7 @@ Your final submission should show:
 - Consistency across documents
 :::
 
-### A. Warm-Up
+#### A. Warm-Up
 
 ::: structure
 Warm-Up: Select Your Drafts
@@ -9777,7 +9777,7 @@ Final Revision Order
 4. check formatting and consistency
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: revise
 Practice A: Edit a Draft Email
@@ -9794,7 +9794,7 @@ Rewrite it to meet portfolio standards. Choose one that is meant for a clear rea
 **Revised Email**
 {{PH-3: U23-practice-a-email | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: revise
 Practice B: Edit a Paragraph
@@ -9825,7 +9825,7 @@ Revision focus:
 **Revised Paragraph**
 {{PH-2: U23-practice-b-paragraph | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: revise
 Practice C: Edit a Notice or Short Message
@@ -9913,7 +9913,7 @@ Use this box for one complete version.
 **Write Here**
 {{PH-3: U23-guided-document | rows=10}}
 
-### E. Final Portfolio Submission
+#### E. Final Portfolio Submission
 
 ::: structure
 Submission Task
@@ -9953,7 +9953,7 @@ Portfolio quality reminder:
 - the new Unit 23 piece should not feel weaker than the revised earlier pieces
 :::
 
-### F. Portfolio Balance Check
+#### F. Portfolio Balance Check
 
 ::: structure
 Balance Check
@@ -10009,7 +10009,7 @@ What is this document supposed to help the reader do next?
 If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
 :::
 
-### F. Portfolio Review Rubric
+#### F. Portfolio Review Rubric
 
 ::: structure
 Review Rubric
@@ -10032,7 +10032,7 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 Your teacher or reviewer can use a companion marking note aligned to this rubric.
 :::
 
-### G. Editing Practice
+#### G. Editing Practice
 
 ::: edit
 Editing Practice: Explain One Revision Decision
@@ -10070,7 +10070,7 @@ Write one sentence on each line where possible.
 **Write Here**
 {{PH-1: U23-transfer-response | rows=4}}
 
-### F. Reflection
+#### F. Reflection
 
 ::: write
 Reflect on This Unit
@@ -10081,7 +10081,7 @@ Reflect on This Unit
 :::
 
 
-### H. Homework
+#### H. Homework
 
 ::: write
 Final Course Task
