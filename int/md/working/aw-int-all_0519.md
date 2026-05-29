@@ -48,9 +48,9 @@ Use this module in the same way each time:
 
 By the end of this unit, I will be able to:
 
-- I can write short clear sentences using basic subject-verb-object or subject-verb-complement patterns.
-- I can rewrite long or indirect sentences in a simpler administrative style.
-- I can write a short work-related message using clear sentence structure.
+- write short clear sentences using basic subject-verb-object or subject-verb-complement patterns.
+- rewrite long or indirect sentences in a simpler administrative style.
+- write a short work-related message using clear sentence structure.
 
 ### A. Warm-Up
 
@@ -118,7 +118,7 @@ The stronger version works because the reader can see the action immediately:
 The weaker version makes the reader wait too long before the real action appears.
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Basic Sentence Pattern
@@ -166,7 +166,7 @@ Rewrite the word groups as clear SVO or SVC sentences.
 **Write Your Sentences**
 {{PH-1: U01-lang1-build-sentences | rows=2}}
 
-### C. Language 2
+#### C. Language 2
 
 ::: learn
 Simplification Strategies
@@ -246,6 +246,7 @@ Rewrite each sentence so that it is easier to read.
    {{PH-1: U01-D-rewrite-4 | rows=2}}
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -301,6 +302,7 @@ Mini Example
 3. Kindly send it by next Friday so the review can continue.
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -330,6 +332,7 @@ Each sentence below has a common clarity problem. Rewrite it so the reader can u
    {{PH-1: U01-G-rewrite-4 | rows=2}}
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -357,6 +360,7 @@ For each situation:
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-1: U01-transfer-response | rows=4}}
 
@@ -365,9 +369,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] What was difficult for you in this unit?
-- [ ] Which point do you want to remember when you write emails at work?
-- [ ] Choose one clear sentence you wrote today and rewrite it here.
+1. What was difficult for you in this unit?
+2. Which point do you want to remember when you write emails at work?
+3. Choose one clear sentence you wrote today and rewrite it here.
 :::
 
 ::: edit
@@ -390,6 +394,7 @@ Choose one real email you sent at work (in Japanese). Translate the **main messa
 If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -401,9 +406,9 @@ If you do not want to use a real email, use one of the Unit 1 situations or your
 
 By the end of this unit, I will be able to:
 
-- I can make a short request sound more polite and professional.
-- I can rewrite direct or emotional wording in a neutral workplace style.
-- I can write a short professional email for a simple administrative situation.
+- make a short request sound more polite and professional.
+- rewrite direct or emotional wording in a neutral workplace style.
+- write a short professional email for a simple administrative situation.
 
 ### A. Warm-Up
 
@@ -462,7 +467,7 @@ Professional tone does not mean "very formal words only."
 It means the reader can cooperate without feeling attacked.
 :::
 
-### C. Language 1. Polite Request Phrases
+### C. Language
 
 Administrative emails often use **softened, polite expressions**.
 
@@ -504,7 +509,7 @@ Rewrite the message using a polite request phrase.
 **Write Here**
 {{PH-1: U02-lang1-polite-request | rows=2}}
 
-### C. Language 2
+#### C. Language 2
 
 ::: learn
 Professional Tone in Explanations
@@ -563,7 +568,7 @@ Rewrite each sentence to make it sound more professional.
 **Write Here**
 {{PH-1: U02-lang2-tone | rows=2}}
 
-### C. Common Useful Phrases for Professional Emails
+#### C. Common Useful Phrases for Professional Emails
 
 ::: language
 Useful Phrases by Function
@@ -618,6 +623,7 @@ Try to improve all three areas:
 **Rewrite here:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -660,6 +666,7 @@ Include:
 - a professional closing line
 :::
 
+
 **Write Here**
 {{PH-3: U02-freer-document | rows=10}}
 
@@ -687,6 +694,7 @@ Rewrite each line so it keeps the same purpose but sounds more professional.
    {{PH-1: U02-G-rewrite-4 | rows=2}}
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -701,8 +709,8 @@ Choose one of your real workplace situations.
 
 Write:
 
-- [ ] a direct version you should **not** send
-- [ ] a professional version you **could** send
+1. a direct version you should **not** send
+2. a professional version you **could** send
 
 Then note:
 
@@ -715,6 +723,7 @@ If you do not want to use a real workplace situation, rewrite one of the Unit 2 
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-1: U02-transfer-response | rows=4}}
 
@@ -723,9 +732,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] Which polite expression do you want to remember?
-- [ ] What tone problems do you want to avoid in your emails?
-- [ ] Write one example of a polite request you can use at work.
+1. Which polite expression do you want to remember?
+2. What tone problems do you want to avoid in your emails?
+3. Write one example of a polite request you can use at work.
 :::
 
 
@@ -751,6 +760,7 @@ Find one real English email you received that had a **very polite** or **not pol
 If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -762,9 +772,9 @@ If you do not want to use a real email, use the original draft in this unit or o
 
 By the end of this unit, I will be able to:
 
-- I can identify the main parts of a paragraph.
-- I can organise sentences into a clear paragraph with logical flow.
-- I can write a short administrative paragraph with topic, supporting detail, and closing.
+- identify the main parts of a paragraph.
+- organise sentences into a clear paragraph with logical flow.
+- write a short administrative paragraph with topic, supporting detail, and closing.
 
 ### A. What Is a Paragraph?
 
@@ -858,7 +868,7 @@ In administrative writing, this matters because the reader often needs to know:
 3. what the result or next point is
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Three-Part Paragraph Structure
@@ -877,7 +887,7 @@ Example Paragraph
 We reviewed the applicant's file yesterday. During the review, we found that two pages were missing, and one form was incomplete. These gaps in the file may slow the preliminary assessment and will need to be noted before the next review stage. This paragraph summarises the issues identified so far and leads into further discussion of required documentation in the next section.
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: notice
 Identify the Parts
@@ -911,7 +921,7 @@ Your labels:
 3.
 :::
 
-### C. Language 2
+#### C. Language 2
 
 ::: learn
 Logical Flow Inside a Paragraph
@@ -940,7 +950,7 @@ Do not add every fact you know. Choose the facts that belong to the same paragra
 - preparing the next section
 :::
 
-### C. Practice B
+#### C. Practice B
 
 ::: write
 Reorder and Extend
@@ -1001,6 +1011,7 @@ Rewrite this paragraph so it has a clear **topic ->support ->closing** structure
 **Rewrite here:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -1037,6 +1048,7 @@ C. Your office recently changed one internal rule, and you need to explain the c
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U03-freer-paragraph | rows=8}}
 
@@ -1056,6 +1068,7 @@ The paragraph below has a topic problem and an order problem. Rewrite it as a cl
 
 **Rewrite:**
 :::
+
 
 Write the full corrected version below.
 
@@ -1080,6 +1093,7 @@ This helps you see the link between sentence control, tone control, and paragrap
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-2: U03-transfer-response | rows=4}}
 
@@ -1088,9 +1102,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] What is one thing you learned about paragraph structure?
-- [ ] When do you think you should start a new paragraph?
-- [ ] Which part (topic, support, closing) do you find most difficult?
+1. What is one thing you learned about paragraph structure?
+2. When do you think you should start a new paragraph?
+3. Which part (topic, support, closing) do you find most difficult?
 :::
 
 
@@ -1115,6 +1129,7 @@ Find a real paragraph from a work email (English or Japanese). Rewrite it in Eng
 
 If you do not want to use a real paragraph, turn one of your Unit 3 paragraph drafts or one earlier Unit 1 or Unit 2 task into a stronger paragraph instead.
 :::
+
 
 **Homework Draft**
 {{PH-2: U03-homework-paragraph | rows=8}}
@@ -1150,6 +1165,7 @@ Version B
 
 We checked your request yesterday. At present, one required document is missing. Please send the missing document by Friday so that we can continue the review.
 :::
+
 
 Use these questions:
 
@@ -1324,9 +1340,9 @@ Use the module support actively:
 
 By the end of this unit, I will be able to:
 
-- I can identify the main parts of a professional email.
-- I can write a short, clear subject line for a workplace email.
-- I can write a simple professional email with an appropriate opening and closing.
+- identify the main parts of a professional email.
+- write a short, clear subject line for a workplace email.
+- write a simple professional email with an appropriate opening and closing.
 
 ### A. What Does a Professional Email Look Like?
 
@@ -1381,6 +1397,7 @@ Could you clarify the purpose of Section 3?
 Thank you,
 :::
 
+
 **Discussion:** Which email is more professional, and why?
 
 ::: learn
@@ -1420,7 +1437,7 @@ A professional email helps the reader act quickly.
 The reader should understand the purpose without guessing.
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Subject Lines
@@ -1473,7 +1490,7 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 **Write Here**
 {{PH-1: U04-lang1-subject-lines | rows=2}}
 
-### C. Language 2
+#### C. Language 2
 
 ::: language
 Email Openings and Closings
@@ -1514,7 +1531,7 @@ Select an appropriate opening and closing for each situation.
 **Write Here**
 {{PH-1: U04-lang2-openings-closings | rows=2}}
 
-### C. Language 3. Opening Sentences (Purpose)
+#### C. Language 3
 
 The first sentence must tell the reader **why you are writing**.
 
@@ -1584,6 +1601,7 @@ Write your email:
 - **Sign-off:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -1628,6 +1646,7 @@ Include:
 Write your email:
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -1656,6 +1675,7 @@ Rewrite the email so each part has a clear job.
 **Rewrite:**
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -1668,8 +1688,8 @@ Build Two Purpose Lines
 
 For each situation below, write:
 
-- [ ] a clear subject line
-- [ ] a clear opening sentence
+1. a clear subject line
+2. a clear opening sentence
 
 A. asking about a missing document
 
@@ -1682,6 +1702,7 @@ This helps you separate the job of the subject line from the job of the opening 
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-1: U04-transfer-response | rows=4}}
 
@@ -1690,9 +1711,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] Which part of the email is easiest for you?
-- [ ] Which part is most difficult?
-- [ ] Which new phrase do you want to use in real emails?
+1. Which part of the email is easiest for you?
+2. Which part is most difficult?
+3. Which new phrase do you want to use in real emails?
 :::
 
 
@@ -1706,6 +1727,7 @@ Find one real email you sent recently (in Japanese or English). Rewrite it in En
 If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -1717,10 +1739,10 @@ If you do not want to use a real email, rewrite one of the Unit 4 freer-practice
 
 By the end of this unit, I will be able to:
 
-- I can write polite clarification questions about unclear or missing information.
-- I can ask for specific details instead of writing a vague question.
-- I can write a short clarification email about one clear problem.
-- I can explain, in a short paragraph, why clarification is needed in a workplace situation.
+- write polite clarification questions about unclear or missing information.
+- ask for specific details instead of writing a vague question.
+- write a short clarification email about one clear problem.
+- explain, in a short paragraph, why clarification is needed in a workplace situation.
 
 ### A. Warm-Up
 
@@ -1781,7 +1803,7 @@ The stronger question works because it:
 The weak question may sound frustrated and gives the reader no clear starting point.
 :::
 
-### C. Language 1. Useful Clarification Phrases
+### C. Language
 
 Use these phrases when the information is not clear.
 
@@ -1805,7 +1827,7 @@ Checking Your Understanding
 - Should I understand that...?
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: rewrite
 Make These Questions Clearer
@@ -1843,7 +1865,7 @@ Each stronger question should show:
 **Write Here**
 {{PH-1: U05-practice-a-questions | rows=6}}
 
-### C. Language 2
+#### C. Language 2
 
 
 ::: learn
@@ -1875,7 +1897,7 @@ Clarification writing is easier to answer when the reader does not need to guess
 - what kind of answer is needed
 :::
 
-### C. Practice B
+#### C. Practice B
 
 ::: rewrite
 Improve the Clarity
@@ -1903,7 +1925,7 @@ Rewrite each sentence as a better clarification question.
 **Write Here**
 {{PH-1: U05-practice-b-clarity | rows=6}}
 
-### C. Practice C
+#### C. Practice C
 
 ::: write
 Clarification from Context
@@ -1983,6 +2005,7 @@ Write your email:
 - **Sign-off:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -2016,6 +2039,7 @@ Write **two short emails**, each 3-4 sentences, asking for clarification. Keep e
 Write your emails:
 :::
 
+
 Write each document in its own box.
 
 **Email 1**
@@ -2048,6 +2072,7 @@ Rewrite each message as a better clarification request.
    {{PH-1: U05-G-rewrite-4 | rows=2}}
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -2062,14 +2087,15 @@ Choose one of the freer-practice topics.
 
 Write:
 
-- [ ] one weak email that asks too many things
-- [ ] one stronger email that asks about only one topic
+1. one weak email that asks too many things
+2. one stronger email that asks about only one topic
 
 Then note:
 
 - what information you removed
 - why the stronger email is easier to answer
 :::
+
 
 **Planning Notes**
 {{PH-1: U05-transfer-notes | rows=4}}
@@ -2106,6 +2132,7 @@ Mini Paragraph Frame
 - A follow-up message will therefore be sent today.
 :::
 
+
 Write your paragraph:
 
 **Write Your Paragraph**
@@ -2116,9 +2143,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] Which clarification phrase is most useful for you?
-- [ ] Do you find it difficult to ask questions politely? Why or why not?
-- [ ] Write one clarification question you can use in your work.
+1. Which clarification phrase is most useful for you?
+2. Do you find it difficult to ask questions politely? Why or why not?
+3. Write one clarification question you can use in your work.
 :::
 
 
@@ -2132,6 +2159,7 @@ Find an email or set of instructions you received recently. Identify **one uncle
 If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -2143,10 +2171,10 @@ If you do not want to use a real message, choose one Unit 5 freer-practice situa
 
 By the end of this unit, I will be able to:
 
-- I can explain a delay or change using neutral professional language.
-- I can organise an update message in a clear order.
-- I can write a short update email about a delay or schedule change.
-- I can summarise a delay or change in a short report-style paragraph.
+- explain a delay or change using neutral professional language.
+- organise an update message in a clear order.
+- write a short update email about a delay or schedule change.
+- summarise a delay or change in a short report-style paragraph.
 
 ### A. Warm-Up
 
@@ -2208,7 +2236,7 @@ The stronger version works because the reader learns:
 That reduces uncertainty and extra follow-up questions.
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Useful Phrases for Delays and Changes
@@ -2236,7 +2264,7 @@ Useful Phrases for Delays and Changes
 - The new schedule will be shared shortly.
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: rewrite
 Improve the Clarity
@@ -2274,7 +2302,7 @@ Try to replace vague updates with:
 **Write Here**
 {{PH-1: U06-practice-a-clarity | rows=6}}
 
-### C. Language 2
+#### C. Language 2
 
 ::: learn
 Logical Order for Update Messages
@@ -2307,7 +2335,7 @@ The paragraph moves in a useful order:
 This order helps the reader understand both the situation and the practical meaning of the delay.
 :::
 
-### C. Practice B
+#### C. Practice B
 
 ::: write
 Reorder to Make a Clear Update
@@ -2332,7 +2360,7 @@ Write the best order:
 **Write the Order**
 {{PH-1: U06-practice-b-reorder | rows=6}}
 
-### C. Practice C
+#### C. Practice C
 
 ::: write
 Add Supporting Information
@@ -2374,6 +2402,7 @@ Write your email:
 - **Neutral next step:**
 - **Sign-off:**
 :::
+
 
 Use this box for one complete version.
 
@@ -2419,6 +2448,7 @@ In each email, include:
 Write your emails:
 :::
 
+
 Write each document in its own box.
 
 **Email 1**
@@ -2451,6 +2481,7 @@ Rewrite each update so the reader does not need to ask a second question.
    {{PH-1: U06-G-rewrite-4 | rows=2}}
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -2472,6 +2503,7 @@ Keep the same core facts, but make the new version sound like part of a report, 
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-2: U06-transfer-response | rows=4}}
 
@@ -2492,6 +2524,7 @@ Your paragraph should:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U06-extended-paragraph | rows=8}}
 
@@ -2500,9 +2533,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] What phrases do you find most useful for explaining delays or changes?
-- [ ] Is it difficult for you to give neutral explanations without sounding too direct?
-- [ ] Which part of this unit was easiest or hardest for you?
+1. What phrases do you find most useful for explaining delays or changes?
+2. Is it difficult for you to give neutral explanations without sounding too direct?
+3. Which part of this unit was easiest or hardest for you?
 :::
 
 
@@ -2516,6 +2549,7 @@ Find an email or notice about a delay or change (English or Japanese). Rewrite i
 If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -2527,10 +2561,10 @@ If you do not want to use a real email or notice, rewrite one of the Unit 6 free
 
 By the end of this unit, I will be able to:
 
-- I can choose a polite request structure for a workplace email.
-- I can make a request more specific and useful by adding the necessary detail.
-- I can soften a request without making it unclear.
-- I can write a short professional email requesting information or action.
+- choose a polite request structure for a workplace email.
+- make a request more specific and useful by adding the necessary detail.
+- soften a request without making it unclear.
+- write a short professional email requesting information or action.
 
 ### A. Warm-Up
 
@@ -2587,7 +2621,7 @@ The stronger version works because it:
 - gives a reason that makes the request easier to understand
 :::
 
-### C. Language 1. Levels of Politeness in Requests
+### C. Language
 
 Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
 
@@ -2637,7 +2671,7 @@ Often a request is clearer when you add **one short context sentence**.
 - This will help us complete the process.
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: rewrite
 Rewrite the Request
@@ -2677,7 +2711,7 @@ Mini request frame:
 **Write Here**
 {{PH-1: U07-practice-a-request | rows=6}}
 
-### C. Language 2
+#### C. Language 2
 
 ::: language
 Requests with Specific Details
@@ -2695,7 +2729,7 @@ A good request includes:
 - I would appreciate it if you could confirm **the applicant's submission date**.
 :::
 
-### C. Practice B
+#### C. Practice B
 
 ::: rewrite
 Make the Request More Specific
@@ -2733,7 +2767,7 @@ Specific requests are easier to answer because they name:
 **Write Here**
 {{PH-1: U07-practice-b-specific | rows=6}}
 
-### C. Language 3
+#### C. Language 3
 
 ::: learn
 Avoiding Pressure in Requests
@@ -2768,7 +2802,7 @@ Good request writing balances:
 - professional tone
 :::
 
-### C. Practice C
+#### C. Practice C
 
 ::: rewrite
 Soften the Request
@@ -2816,6 +2850,7 @@ Write your email:
 - **Sign-off:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -2862,6 +2897,7 @@ In each email, include:
 Write your emails:
 :::
 
+
 Write each document in its own box.
 
 **Email 1**
@@ -2894,6 +2930,7 @@ Rewrite each message so it keeps the same request but sounds more professional.
    {{PH-1: U07-G-rewrite-4 | rows=2}}
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -2908,8 +2945,8 @@ Choose one request from your real work.
 
 Write:
 
-- [ ] a safe standard version using `Could you...?`
-- [ ] a softer version using `Would you be able to...?` or `I would appreciate it if...`
+1. a safe standard version using `Could you...?`
+2. a softer version using `Would you be able to...?` or `I would appreciate it if...`
 
 Then decide:
 
@@ -2920,6 +2957,7 @@ If you do not want to use a real request, choose one Unit 7 freer-practice situa
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U07-transfer-response | rows=4}}
@@ -2941,6 +2979,7 @@ Write a **neutral paragraph** (5-6 sentences) explaining:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U07-extended-paragraph | rows=8}}
 
@@ -2949,9 +2988,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] What polite request phrase do you prefer using?
-- [ ] Do you sometimes write requests that are too direct? Why?
-- [ ] Which softening phrase will you try in future emails?
+1. What polite request phrase do you prefer using?
+2. Do you sometimes write requests that are too direct? Why?
+3. Which softening phrase will you try in future emails?
 :::
 
 
@@ -2964,6 +3003,7 @@ Think of a real request you made at work this week. Rewrite it using **two diffe
 
 If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
 :::
+
 
 **Homework Draft**
 {{PH-3: U07-homework-document | rows=8}}
@@ -3000,6 +3040,7 @@ Version B
 
 Could you please send the updated file today? I need it to complete the report before the afternoon deadline.
 :::
+
 
 Then answer:
 
@@ -3132,9 +3173,9 @@ Choose one of these situations:
 
 Write a three-part email set:
 
-- [ ] a first email
-- [ ] a polite follow-up email
-- [ ] a final short internal note explaining the situation to your team
+1. a first email
+2. a polite follow-up email
+3. a final short internal note explaining the situation to your team
 
 After writing, answer these questions:
 
@@ -3143,6 +3184,7 @@ After writing, answer these questions:
 - Which message needed the most careful tone control?
 - Which unit from this module helped you most at each step?
 :::
+
 
 **Email 1**
 {{PH-2: M2-revision-lab-email-1 | rows=6}}
@@ -3258,10 +3300,10 @@ Work through the module with these habits:
 
 By the end of this unit, I will be able to:
 
-- I can write simple step-by-step instructions in a clear order.
-- I can choose clear action verbs for procedure writing.
-- I can write a short workplace procedure that another person can follow.
-- I can write a simple manual-style section for a routine office task.
+- write simple step-by-step instructions in a clear order.
+- choose clear action verbs for procedure writing.
+- write a short workplace procedure that another person can follow.
+- write a simple manual-style section for a routine office task.
 
 ### A. What Is a Procedure?
 
@@ -3313,6 +3355,7 @@ Version B
 3. Send the form to the next department.
 :::
 
+
 **Discussion:** Which version is better, and why?
 
 ::: learn
@@ -3349,7 +3392,7 @@ Procedures reduce reader error when:
 - the format stays consistent
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Clear Instruction Verbs
@@ -3381,7 +3424,7 @@ Avoid vague verbs such as "handle," "do," or "fix" when a more exact action is p
 The stronger version tells the reader exactly what action sequence to follow.
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: rewrite
 Improve the Verb Choice
@@ -3409,7 +3452,7 @@ Rewrite each instruction using a **clear action verb**.
 **Write Here**
 {{PH-1: U08-practice-a-verbs | rows=6}}
 
-### C. Language 2. Logical Order
+#### C. Language 2
 
 Procedures must follow a logical sequence.
 
@@ -3420,7 +3463,7 @@ If the order is wrong, even correct instructions can cause mistakes.
 A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 :::
 
-### C. Practice B
+#### C. Practice B
 
 ::: write
 Put the Steps in Order
@@ -3446,7 +3489,7 @@ Write the correct order:
 **Write Here**
 {{PH-2: U08-practice-b-order | rows=6}}
 
-### C. Practice C
+#### C. Practice C
 
 ::: write
 Add Missing Steps
@@ -3489,6 +3532,7 @@ Write the procedure for that team member. Use numbered steps only. Write your pr
 5.
 6.
 :::
+
 
 Use this box for one complete version.
 
@@ -3547,6 +3591,7 @@ Procedure 2:
 7.
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -3579,6 +3624,7 @@ Your manual section should explain:
 Write your manual section:
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -3603,6 +3649,7 @@ Rewrite this procedure so it becomes clearer and easier to follow.
 **Rewrite:**
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -3617,9 +3664,9 @@ Choose one workplace task you know well.
 
 Write:
 
-- [ ] one sentence explaining who the procedure is for
-- [ ] a `4-5` step procedure
-- [ ] one closing sentence explaining what happens after the task
+1. one sentence explaining who the procedure is for
+2. a `4-5` step procedure
+3. one closing sentence explaining what happens after the task
 
 This helps you turn short instructions into a more usable manual-style section.
 
@@ -3627,6 +3674,7 @@ If you do not want to use a real workplace task, choose one Unit 8 freer-practic
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U08-transfer-response | rows=4}}
@@ -3636,9 +3684,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] What is difficult about writing procedures?
-- [ ] Do you prefer numbered steps or bullet points? Why?
-- [ ] Which instruction verbs are useful for your work?
+1. What is difficult about writing procedures?
+2. Do you prefer numbered steps or bullet points? Why?
+3. Which instruction verbs are useful for your work?
 :::
 
 
@@ -3652,6 +3700,7 @@ Choose a routine task from your job. Write a 6-8 step procedure explaining how t
 If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -3663,10 +3712,10 @@ If you do not want to use a task from your job, choose one Unit 8 freer-practice
 
 By the end of this unit, I will be able to:
 
-- I can identify the main parts of an internal notice.
-- I can write a short internal notice using neutral language.
-- I can explain an internal update or change clearly for colleagues.
-- I can write a short bulletin-style notice for internal communication.
+- identify the main parts of an internal notice.
+- write a short internal notice using neutral language.
+- explain an internal update or change clearly for colleagues.
+- write a short bulletin-style notice for internal communication.
 
 ### A. What Is an Internal Notice?
 
@@ -3743,7 +3792,7 @@ A notice is useful when it reduces uncertainty.
 The reader should be able to understand the situation without asking a second question immediately.
 :::
 
-### C. Language 1
+### C. Language
 
 ::: language
 Notice Structure
@@ -3764,7 +3813,7 @@ Internal Notice - Document Review Schedule
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
 :::
 
-### C. Practice A
+#### C. Practice A
 
 ::: notice
 Identify the Parts
@@ -3783,7 +3832,7 @@ Your answers:
 4.
 :::
 
-### C. Language 2
+#### C. Language 2
 
 ::: learn
 Neutral Tone in Notices
@@ -3820,7 +3869,7 @@ Rewrite These to Make Them Neutral
 **Write Here**
 {{PH-1: U09-lang2-neutral-tone | rows=2}}
 
-### C. Practice B
+#### C. Practice B
 
 ::: rewrite
 Improve the Clarity
@@ -3877,6 +3926,7 @@ Write your notice:
 - **Next step:**
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -3915,6 +3965,7 @@ D. Monthly reports will be reviewed later than usual this month.
 
 Include a clear heading, short background, essential information, and a neutral next-step line in each notice. Write your notices:
 :::
+
 
 Write each document in its own box.
 
@@ -3978,6 +4029,7 @@ Mini contrast:
 **Rewrite:**
 :::
 
+
 Write the full corrected version below.
 
 **Write Your Revised Version**
@@ -4000,6 +4052,7 @@ This shows how a short internal message can grow into a fuller internal informat
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-2: U09-transfer-response | rows=4}}
@@ -4032,6 +4085,7 @@ Bulletin support question:
 Write your bulletin section:
 :::
 
+
 Use this box for one complete version.
 
 **Write Here**
@@ -4042,9 +4096,9 @@ Use this box for one complete version.
 ::: write
 Reflect on This Unit
 
-- [ ] What makes a notice effective or ineffective?
-- [ ] Which part of the notice structure do you find most difficult?
-- [ ] Do you prefer short notices or longer bulletin-style notices? Why?
+1. What makes a notice effective or ineffective?
+2. Which part of the notice structure do you find most difficult?
+3. Do you prefer short notices or longer bulletin-style notices? Why?
 :::
 
 
@@ -4058,6 +4112,7 @@ Find an internal notice (English or Japanese). Rewrite it to follow the structur
 If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -4069,10 +4124,10 @@ If you do not want to use a real notice, choose one Unit 9 freer-practice scenar
 
 By the end of this unit, I will be able to:
 
-- I can explain a workplace problem in clear neutral language.
-- I can include the main parts of a problem explanation in a logical way.
-- I can write a short explanation of a problem or issue.
-- I can write a report-style paragraph describing a problem and its effect.
+- explain a workplace problem in clear neutral language.
+- include the main parts of a problem explanation in a logical way.
+- write a short explanation of a problem or issue.
+- write a report-style paragraph describing a problem and its effect.
 
 ### A. What Makes a Clear Problem Explanation?
 
@@ -4190,7 +4245,7 @@ These phrases help because they separate different jobs:
 When these jobs are mixed together, the explanation feels vague.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve the Explanation
@@ -4228,7 +4283,7 @@ Try to make the reader understand:
 **Write Here**
 {{PH-1: U10-practice-a-explanation | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: write
 Practice B: Add Details
@@ -4285,6 +4340,7 @@ Write your explanation:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-2: U10-guided-paragraph | rows=8}}
@@ -4343,6 +4399,7 @@ In each explanation, include the issue, the effect, and the current status. Add 
 Write each document in its own box.
 :::
 
+
 **Explanation 1**
 {{PH-2: U10-freer-explanation-1 | rows=8}}
 
@@ -4368,6 +4425,7 @@ Rewrite this explanation so it is clearer and better organized.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U10-editing-rewrite | rows=2}}
 
@@ -4387,6 +4445,7 @@ Keep the tone factual and neutral.
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-2: U10-transfer-response | rows=4}}
@@ -4408,6 +4467,7 @@ Your paragraph should:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U10-extended-paragraph | rows=8}}
 
@@ -4416,9 +4476,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] What makes a problem explanation clear or unclear?
-- [ ] Which part of the structure (background, issue, cause, effect, status) is easiest for you?
-- [ ] Which is the most difficult?
+1. What makes a problem explanation clear or unclear?
+2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
+3. Which is the most difficult?
 :::
 
 
@@ -4432,6 +4492,7 @@ Find an example of unclear problem communication (from email or conversation). R
 If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -4443,10 +4504,10 @@ If you do not want to use a real example, choose one Unit 10 freer-practice scen
 
 By the end of this unit, I will be able to:
 
-- I can identify the key information that belongs in a meeting summary.
-- I can write a short meeting summary using clear neutral language.
-- I can record decisions and next steps from a meeting.
-- I can write a short report-style section summarizing a meeting.
+- identify the key information that belongs in a meeting summary.
+- write a short meeting summary using clear neutral language.
+- record decisions and next steps from a meeting.
+- write a short report-style section summarizing a meeting.
 
 ### A. What Is a Meeting Summary?
 
@@ -4487,6 +4548,7 @@ Summary B
 
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
 :::
+
 
 **Discussion:** Which summary is clearer, and why?
 
@@ -4552,7 +4614,7 @@ A stronger summary usually shows:
 - next step
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: notice
 Practice A: Identify the Elements
@@ -4571,7 +4633,7 @@ Your answers:
 4.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice B: Improve the Clarity
@@ -4608,6 +4670,7 @@ Write your summary:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-2: U11-guided-paragraph | rows=8}}
@@ -4665,6 +4728,7 @@ Include the topic, the main point or decision, and one next step in each summary
 Write each document in its own box.
 :::
 
+
 **Summary 1**
 {{PH-2: U11-freer-summary-1 | rows=8}}
 
@@ -4690,6 +4754,7 @@ Rewrite this summary so it becomes clearer for a colleague who missed the meetin
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U11-editing-rewrite | rows=2}}
 
@@ -4706,6 +4771,7 @@ Choose one summary you wrote in this unit. Rewrite it for a manager by making:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-2: U11-transfer-response | rows=4}}
@@ -4743,6 +4809,7 @@ Write your report section:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U11-extended-document | rows=10}}
 
@@ -4751,9 +4818,9 @@ Use this box for one complete version.
 ::: write
 Reflect on This Unit
 
-- [ ] What part of meeting summaries is easiest for you?
-- [ ] What part is the most difficult?
-- [ ] Which phrases from this unit will you use in your work?
+1. What part of meeting summaries is easiest for you?
+2. What part is the most difficult?
+3. Which phrases from this unit will you use in your work?
 :::
 
 
@@ -4766,6 +4833,7 @@ Write a summary of a real meeting you attended this week. Keep it to 5-6 sentenc
 
 If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
 :::
+
 
 **Homework Draft**
 {{PH-2: U11-homework-paragraph | rows=8}}
@@ -4802,6 +4870,7 @@ Version B
 
 The team met on Monday to review the new system schedule. The main issue was a document delay from one office. We agreed to request the missing file by Wednesday. A follow-up meeting will be held only if the file does not arrive.
 :::
+
 
 Use the comparison to decide:
 
@@ -4888,6 +4957,7 @@ Version B
 
 The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
 :::
+
 
 Which version would be more useful to a reader who needs to act quickly? Then check your reasoning:
 
@@ -5124,10 +5194,10 @@ Use this module carefully:
 
 By the end of this unit, I will be able to:
 
-- I can write a short external inquiry email with a clear question.
-- I can provide enough background for another office to understand my question.
-- I can use polite inquiry phrases in a professional way.
-- I can explain, in a short paragraph, why an external inquiry is needed.
+- write a short external inquiry email with a clear question.
+- provide enough background for another office to understand my question.
+- use polite inquiry phrases in a professional way.
+- explain, in a short paragraph, why an external inquiry is needed.
 
 ### A. What Is an External Inquiry?
 
@@ -5175,6 +5245,7 @@ Subject: Question About Guidelines - Section 4
 Dear Team,
 We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
 :::
+
 
 **Discussion:** Which email is more appropriate, and why?
 
@@ -5256,7 +5327,7 @@ An external inquiry often needs two jobs:
 2. show the reader exactly what answer you need
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve the Inquiry
@@ -5306,7 +5377,7 @@ The stronger version works better because the reader can see the context, the ex
 **Write Here**
 {{PH-1: U12-practice-a-inquiry | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: write
 Practice B: Add Background Information
@@ -5363,6 +5434,7 @@ Write your email:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U12-guided-document | rows=10}}
 
@@ -5408,6 +5480,7 @@ Include a specific subject line, brief background, one clear question, and a pol
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U12-freer-document | rows=10}}
 
@@ -5432,6 +5505,7 @@ Rewrite this inquiry so the outside reader can answer it more easily.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U12-editing-rewrite | rows=2}}
 
@@ -5450,6 +5524,7 @@ This helps connect external inquiry writing to internal reporting.
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U12-transfer-response | rows=4}}
@@ -5488,6 +5563,7 @@ Write your paragraph:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U12-extended-document | rows=10}}
 
@@ -5496,9 +5572,9 @@ Use this box for one complete version.
 ::: write
 Reflect on This Unit
 
-- [ ] Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?
-- [ ] When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?
-- [ ] Which question phrase fits best when the reader is an outside office rather than a close colleague?
+1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?
+2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?
+3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
 :::
 
 
@@ -5512,6 +5588,7 @@ Find a real external instruction or notice. Write an inquiry email asking one cl
 If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -5523,10 +5600,10 @@ If you do not want to use a real instruction or notice, choose one Unit 12 freer
 
 By the end of this unit, I will be able to:
 
-- I can explain a process or issue in simple professional language.
-- I can add the right amount of background and reason information.
-- I can write a short explanatory text about a workplace issue.
-- I can write a report-style explanatory paragraph.
+- explain a process or issue in simple professional language.
+- add the right amount of background and reason information.
+- write a short explanatory text about a workplace issue.
+- write a report-style explanatory paragraph.
 
 ### A. What Is a Simple Explanation?
 
@@ -5647,7 +5724,7 @@ background -> reason -> effect
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve the Explanation
@@ -5697,7 +5774,7 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 **Write Here**
 {{PH-1: U13-practice-a-explanation | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: write
 Practice B: Add a Reason or Background
@@ -5754,6 +5831,7 @@ Write your explanation:
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-2: U13-guided-paragraph | rows=8}}
 
@@ -5793,6 +5871,7 @@ Include background, the main issue, and the reason or effect in each explanation
 Write each document in its own box.
 :::
 
+
 **Explanation 1**
 {{PH-2: U13-freer-explanation-1 | rows=8}}
 
@@ -5818,6 +5897,7 @@ Rewrite this explanation so the reader can see both the reason and the effect.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U13-editing-rewrite | rows=2}}
 
@@ -5835,6 +5915,7 @@ Keep the facts the same, but decide how much detail each reader needs.
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U13-transfer-response | rows=4}}
@@ -5871,6 +5952,7 @@ Mini report-style frame:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U13-extended-paragraph | rows=8}}
 
@@ -5879,9 +5961,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.
-- [ ] If a new colleague read your explanation, which detail would help them understand the situation fastest?
-- [ ] Which phrase from this unit is most useful for making an explanation easier to follow, and why?
+1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.
+2. If a new colleague read your explanation, which detail would help them understand the situation fastest?
+3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
 :::
 
 
@@ -5895,6 +5977,7 @@ Find a real explanation you wrote or received. Rewrite it using the structure fr
 If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -5906,10 +5989,10 @@ If you do not want to use a real explanation, choose one Unit 13 freer-practice 
 
 By the end of this unit, I will be able to:
 
-- I can acknowledge confusion politely in writing.
-- I can restate the correct information clearly.
-- I can write a short response that corrects a misunderstanding without blaming the reader.
-- I can write a report-style paragraph describing a misunderstanding and its resolution.
+- acknowledge confusion politely in writing.
+- restate the correct information clearly.
+- write a short response that corrects a misunderstanding without blaming the reader.
+- write a report-style paragraph describing a misunderstanding and its resolution.
 
 ### A. What Does It Mean to Respond to Confusion?
 
@@ -6013,7 +6096,7 @@ The response should stay focused on solving the confusion.
 Do not turn it into a complaint about the other person's mistake.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve the Response
@@ -6062,7 +6145,7 @@ The stronger version corrects the information without blaming the reader.
 **Write Here**
 {{PH-1: U14-practice-a-response | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: write
 Practice B: Add Clarifying Information
@@ -6106,6 +6189,7 @@ Write your response:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U14-guided-document | rows=10}}
 
@@ -6145,6 +6229,7 @@ In each response, acknowledge the confusion, state the correct information, and 
 Write each document in its own box.
 :::
 
+
 **Response 1**
 {{PH-3: U14-freer-response-1 | rows=10}}
 
@@ -6170,6 +6255,7 @@ Rewrite this response so it becomes clearer and more professional.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U14-editing-rewrite | rows=2}}
 
@@ -6186,6 +6272,7 @@ Choose one misunderstanding from this unit. Write a short internal record explai
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U14-transfer-response | rows=4}}
@@ -6222,6 +6309,7 @@ Mini internal-report frame:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U14-extended-paragraph | rows=8}}
 
@@ -6230,9 +6318,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?
-- [ ] In your draft, where did you need to reduce blame or defensiveness most carefully?
-- [ ] How would your response change if the reader were a colleague instead of an outside contact?
+1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?
+2. In your draft, where did you need to reduce blame or defensiveness most carefully?
+3. How would your response change if the reader were a colleague instead of an outside contact?
 :::
 
 
@@ -6246,6 +6334,7 @@ Find an unclear message from a real situation. Write a clear, polite response to
 If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -6257,10 +6346,10 @@ If you do not want to use a real situation, choose one Unit 14 freer-practice op
 
 By the end of this unit, I will be able to:
 
-- I can identify inconsistency in an email's tone, structure, or formatting.
-- I can rewrite an email to match a more consistent professional style.
-- I can write short emails that follow a standard structure.
-- I can explain why consistent email style matters for a team.
+- identify inconsistency in an email's tone, structure, or formatting.
+- rewrite an email to match a more consistent professional style.
+- write short emails that follow a standard structure.
+- explain why consistent email style matters for a team.
 
 ### A. What Is Email Consistency?
 
@@ -6380,7 +6469,7 @@ Use standardised components to create consistency.
 - Please let me know if you need further information.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Improve Consistency
@@ -6404,7 +6493,7 @@ Rewrite the emails to make them consistent in tone and structure.
 **Write Here**
 {{PH-1: U15-practice-a-consistency | rows=6}}
 
-### C. Language
+#### C. Language
 
 ::: learn
 Language 2. Formatting for Clarity and Consistency
@@ -6436,7 +6525,7 @@ Mini comparison:
 That is why formatting supports clarity, not only appearance.
 :::
 
-### C. Practice
+#### C. Practice
 
 
 ::: example-bad
@@ -6505,6 +6594,7 @@ Rewrite the following email to make it consistent. Rewrite it as a short email t
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U15-guided-document | rows=10}}
 
@@ -6544,6 +6634,7 @@ Make the reader clear in each email and keep the tone, layout, and sign-off cons
 Write each document in its own box.
 :::
 
+
 **Email 1**
 {{PH-3: U15-freer-email-1 | rows=10}}
 
@@ -6568,6 +6659,7 @@ Rewrite the two short messages below so they follow the same team style.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U15-editing-rewrite | rows=2}}
 
@@ -6588,6 +6680,7 @@ Then use those rules to check one email from your freer practice.
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U15-transfer-response | rows=4}}
@@ -6615,6 +6708,7 @@ Mini content frame:
 Write your paragraph:
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U15-extended-paragraph | rows=8}}
 
@@ -6623,9 +6717,9 @@ Write your paragraph:
 ::: write
 Reflect on This Unit
 
-- [ ] Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
-- [ ] Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
-- [ ] When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
+1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
+2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
+3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
 :::
 
 
@@ -6638,6 +6732,7 @@ Find two emails you wrote recently. Rewrite them to follow a **consistent, stand
 
 If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
 :::
+
 
 **Homework Draft**
 {{PH-3: U15-homework-document | rows=8}}
@@ -6674,6 +6769,7 @@ Version B
 
 I am writing to ask for clarification about the document submission process described in your previous email.
 :::
+
 
 Now answer:
 
@@ -6761,6 +6857,7 @@ Version B
 Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
 :::
 
+
 Why Version B works better:
 
 - it starts by keeping the relationship calm
@@ -6783,9 +6880,9 @@ Choose one scenario:
 
 Write a three-part communication set:
 
-- [ ] one outward-facing message
-- [ ] one internal explanation for your team
-- [ ] one short style note or rule for future messages
+1. one outward-facing message
+2. one internal explanation for your team
+3. one short style note or rule for future messages
 
 After writing, explain:
 
@@ -6934,9 +7031,9 @@ Take one workplace issue such as:
 
 Write three short openings:
 
-- [ ] to an external office
-- [ ] to an applicant or student
-- [ ] to your internal team
+1. to an external office
+2. to an applicant or student
+3. to your internal team
 
 After writing, explain:
 
@@ -6989,10 +7086,10 @@ Use the module support in this order:
 
 By the end of this unit, I will be able to:
 
-- I can identify basic grammar and accuracy problems in workplace writing.
-- I can correct common errors in short administrative texts.
-- I can revise a short email for more accurate language use.
-- I can edit a short paragraph for accuracy and clarity.
+- identify basic grammar and accuracy problems in workplace writing.
+- correct common errors in short administrative texts.
+- revise a short email for more accurate language use.
+- edit a short paragraph for accuracy and clarity.
 
 ### A. What Does `Accuracy`Mean in Writing?
 
@@ -7123,7 +7220,7 @@ When you edit for accuracy, check one error family at a time:
 This makes editing more reliable than trying to fix everything at once.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: edit
 Practice A: Correct the Sentences
@@ -7162,7 +7259,7 @@ Accuracy check:
 **Write Your Corrected Sentences**
 {{PH-1: U16-practice-a-corrections | rows=6}}
 
-### C. Practice
+#### C. Practice
 
 ::: edit
 Practice B: Edit for Accuracy
@@ -7210,6 +7307,7 @@ You are editing a short email draft before it is sent to a colleague or applican
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U16-guided-document | rows=10}}
 
@@ -7249,6 +7347,7 @@ Keep the original meaning, but correct the language so the final version is accu
 Write each document in its own box.
 :::
 
+
 **Version 1**
 {{PH-2: U16-freer-version-1 | rows=10}}
 
@@ -7271,6 +7370,7 @@ For each one, explain:
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U16-editing-rewrite | rows=2}}
 
@@ -7292,6 +7392,7 @@ Treat it as a draft internal update that needs editing before your team shares i
 **Corrected paragraph:**
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U16-extended-paragraph | rows=8}}
 
@@ -7312,6 +7413,7 @@ For example:
 Use your own wording, but make it a routine you could really use at work.
 :::
 
+
 **Planning Notes**
 {{PH-1: U16-transfer-notes | rows=4}}
 
@@ -7320,9 +7422,9 @@ Use your own wording, but make it a routine you could really use at work.
 ::: write
 Reflect on This Unit
 
-- [ ] Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.
-- [ ] Which correction in your work changed the meaning or clarity most clearly for the reader?
-- [ ] What check should come first in your own editing routine next time, and why?
+1. Which accuracy problem still slows your editing most: verb form, article/plural control, prepositions, or punctuation? Explain why.
+2. Which correction in your work changed the meaning or clarity most clearly for the reader?
+3. What check should come first in your own editing routine next time, and why?
 :::
 
 
@@ -7336,6 +7438,7 @@ Find one email or document you wrote recently. Edit it for accuracy using the sk
 If you do not want to use a real email or document, choose one Unit 16 freer-practice situation and edit that text instead.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -7347,10 +7450,10 @@ If you do not want to use a real email or document, choose one Unit 16 freer-pra
 
 By the end of this unit, I will be able to:
 
-- I can identify vague, wordy, or poorly organized writing.
-- I can rewrite sentences to make them clearer and more direct.
-- I can reorganize information for better logical flow.
-- I can revise a paragraph so it is easier to understand.
+- identify vague, wordy, or poorly organized writing.
+- rewrite sentences to make them clearer and more direct.
+- reorganize information for better logical flow.
+- revise a paragraph so it is easier to understand.
 
 ### A. What Does `Clarity` Mean in Writing?
 
@@ -7460,7 +7563,7 @@ When you edit for clarity, ask:
 **Stronger:** "The file is missing two pages, so the next review step will be delayed."
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Make the Sentences Clearer
@@ -7488,7 +7591,7 @@ Rewrite each sentence.
 **Write Here**
 {{PH-1: U17-practice-a-clarity | rows=6}}
 
-### C. Language
+#### C. Language
 
 ::: learn
 Language 2. Improving Flow
@@ -7506,7 +7609,7 @@ Clear writing follows a **logical order**, often:
 **After:** The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice B: Reorganise for Better Flow
@@ -7560,6 +7663,7 @@ Treat it as a draft update that a colleague wrote for internal use.
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-2: U17-guided-paragraph | rows=8}}
 
@@ -7599,6 +7703,7 @@ Keep the meaning, but make the final version shorter, clearer, and better organi
 Write each document in its own box.
 :::
 
+
 **Version 1**
 {{PH-2: U17-freer-version-1 | rows=10}}
 
@@ -7624,6 +7729,7 @@ Rewrite this draft so it becomes clearer for an internal reader.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U17-editing-rewrite | rows=2}}
 
@@ -7642,6 +7748,7 @@ Write:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U17-transfer-response | rows=4}}
@@ -7664,6 +7771,7 @@ Treat it as a draft internal paragraph that needs revision before it is shared.
 **Rewrite:**
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U17-extended-paragraph | rows=8}}
 
@@ -7672,9 +7780,9 @@ Treat it as a draft internal paragraph that needs revision before it is shared.
 ::: write
 Reflect on This Unit
 
-- [ ] Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.
-- [ ] Which revision strategy from this unit improved your draft most clearly, and what exactly changed?
-- [ ] When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
+1. Which clarity problem causes the biggest reader difficulty in your writing: vagueness, wordiness, or poor order? Explain your choice.
+2. Which revision strategy from this unit improved your draft most clearly, and what exactly changed?
+3. When you revise for clarity, which detail should stay and which detail is usually better cut or moved?
 :::
 
 
@@ -7685,6 +7793,7 @@ Homework Task
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
 :::
+
 
 ---
 
@@ -7697,10 +7806,10 @@ Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using 
 
 By the end of this unit, I will be able to:
 
-- I can identify tone problems such as directness, blame, or emotional language.
-- I can soften a message without making it unclear.
-- I can rewrite a short email in a more professional tone.
-- I can revise a paragraph so it sounds more neutral and appropriate.
+- identify tone problems such as directness, blame, or emotional language.
+- soften a message without making it unclear.
+- rewrite a short email in a more professional tone.
+- revise a paragraph so it sounds more neutral and appropriate.
 
 ### A. What Is `Tone` in Writing?
 
@@ -7811,7 +7920,7 @@ Language 1. Softening Direct Language
 - Thank you for checking...
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice A: Make the Tone Polite
@@ -7852,7 +7961,7 @@ The stronger version keeps the message usable and professional.
 **Write Here**
 {{PH-1: U18-practice-a-tone | rows=2}}
 
-### C. Language
+#### C. Language
 
 ::: language
 Language 2. Tone in Emails
@@ -7884,7 +7993,7 @@ When revising for tone, try this order:
 4. keep the original purpose
 :::
 
-### C. Practice
+#### C. Practice
 
 ::: rewrite
 Practice B: Improve the Email Tone
@@ -7932,6 +8041,7 @@ Treat it as a draft message that will be sent back to an applicant or colleague 
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U18-guided-document | rows=10}}
 
@@ -7971,6 +8081,7 @@ Keep the original purpose, but make the final email polite, neutral, and suitabl
 Write each document in its own box.
 :::
 
+
 **Email 1**
 {{PH-2: U18-freer-email-1 | rows=10}}
 
@@ -7996,6 +8107,7 @@ Rewrite this draft so it stays clear but sounds more professional.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U18-editing-rewrite | rows=2}}
 
@@ -8006,8 +8118,8 @@ Transfer Extension: Tone Choice For Two Readers
 
 Take one message from this unit and write:
 
-- [ ] a version for a colleague
-- [ ] a version for an outside reader
+1. a version for a colleague
+2. a version for an outside reader
 
 Then explain:
 
@@ -8016,6 +8128,7 @@ Then explain:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U18-transfer-response | rows=4}}
@@ -8038,6 +8151,7 @@ Treat it as a draft internal note that needs a more neutral and professional ton
 **Rewrite:**
 :::
 
+
 **Write Your Paragraph**
 {{PH-2: U18-extended-paragraph | rows=8}}
 
@@ -8046,9 +8160,9 @@ Treat it as a draft internal note that needs a more neutral and professional ton
 ::: write
 Reflect on This Unit
 
-- [ ] Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?
-- [ ] Which softening phrase works best only when the message still stays clear and useful for the reader?
-- [ ] How should tone revision change when the reader is a colleague rather than an applicant or outside office?
+1. Which tone problem is hardest to fix in revision: blame, pressure, emotional wording, or abruptness? Why?
+2. Which softening phrase works best only when the message still stays clear and useful for the reader?
+3. How should tone revision change when the reader is a colleague rather than an applicant or outside office?
 :::
 
 
@@ -8061,6 +8175,7 @@ Find one email you wrote recently. Rewrite it using the tone strategies from thi
 
 If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
 :::
+
 
 **Homework Draft**
 {{PH-3: U18-homework-document | rows=8}}
@@ -8096,6 +8211,7 @@ Version B
 
 The attached file does not appear to match the requested format. Could you please send the correct file today so that we can continue the review?
 :::
+
 
 Use the comparison to answer:
 
@@ -8303,10 +8419,10 @@ When you use this module, do not skip the support layer:
 
 By the end of this unit, I will be able to:
 
-- I can identify what different audiences need to know about the same situation.
-- I can write a polite external email about an issue.
-- I can write a short internal explanation of the same issue.
-- I can adjust tone and detail when the audience changes.
+- identify what different audiences need to know about the same situation.
+- write a polite external email about an issue.
+- write a short internal explanation of the same issue.
+- adjust tone and detail when the audience changes.
 
 ### A. Scenario Overview
 
@@ -8458,6 +8574,7 @@ Write your email:
 Use this box for one complete version.
 :::
 
+
 **External Email**
 {{PH-3: U19-guided-external-email | rows=10}}
 
@@ -8502,6 +8619,7 @@ If both texts sound the same, the reader-purpose control is still weak. Write yo
 
 Use this box for one complete version.
 :::
+
 
 **Internal Explanation**
 {{PH-3: U19-guided-internal-explanation | rows=10}}
@@ -8563,6 +8681,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **External Email**
 {{PH-3: U19-paired-external-email | rows=10}}
 
@@ -8584,6 +8703,7 @@ Rewrite the weak pair below so the external and internal texts do different jobs
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U19-editing-rewrite | rows=2}}
 
@@ -8601,6 +8721,7 @@ Use the same core facts, but change the tone and detail for each audience.
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U19-transfer-response | rows=4}}
@@ -8631,6 +8752,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **External Email**
 {{PH-3: U19-extended-external-email | rows=10}}
 
@@ -8642,9 +8764,9 @@ Write each document in its own box.
 ::: write
 Reflect on This Unit
 
-- [ ] Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.
-- [ ] Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
-- [ ] How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
 :::
 
 
@@ -8655,6 +8777,7 @@ Homework Task
 
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
 :::
+
 
 ---
 
@@ -8667,10 +8790,10 @@ Choose one email you wrote in a previous unit. Rewrite it for an alternate audie
 
 By the end of this unit, I will be able to:
 
-- I can write a polite revision or correction message to another office.
-- I can write a short internal notice about the same correction.
-- I can explain a corrected detail clearly and concisely.
-- I can adapt the same information for external and internal audiences.
+- write a polite revision or correction message to another office.
+- write a short internal notice about the same correction.
+- explain a corrected detail clearly and concisely.
+- adapt the same information for external and internal audiences.
 
 ### A. Scenario Overview
 
@@ -8835,6 +8958,7 @@ Write your message:
 Use this box for one complete version.
 :::
 
+
 **Revision Message**
 {{PH-3: U20-guided-revision-message | rows=10}}
 
@@ -8856,6 +8980,7 @@ Write your notice:
 
 Use this box for one complete version.
 :::
+
 
 **Internal Notice**
 {{PH-3: U20-guided-internal-notice | rows=10}}
@@ -8918,6 +9043,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Revision Message**
 {{PH-3: U20-revision-message | rows=10}}
 
@@ -8939,6 +9065,7 @@ Rewrite this weak pair so both texts stay consistent.
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U20-editing-rewrite | rows=2}}
 
@@ -8956,6 +9083,7 @@ Write a short `3-4` line correction log for one scenario in this unit:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Write Here**
 {{PH-1: U20-transfer-response | rows=4}}
@@ -8985,6 +9113,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Revision Message**
 {{PH-3: U20-extended-revision-message | rows=10}}
 
@@ -8996,9 +9125,9 @@ Write each document in its own box.
 ::: write
 Reflect on This Unit
 
-- [ ] Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?
-- [ ] What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
-- [ ] How can a well-written correction message reduce repeated errors or repeated questions later?
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
 :::
 
 
@@ -9014,6 +9143,7 @@ A) a revision email, or
 B) an internal notice.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -9025,10 +9155,10 @@ B) an internal notice.
 
 By the end of this unit, I will be able to:
 
-- I can identify inconsistency across related team messages.
-- I can rewrite short messages so they follow a shared team standard.
-- I can explain simple team writing rules.
-- I can revise a set of related messages into one professional style.
+- identify inconsistency across related team messages.
+- rewrite short messages so they follow a shared team standard.
+- explain simple team writing rules.
+- revise a set of related messages into one professional style.
 
 ### A. Why Team Consistency Matters
 
@@ -9082,6 +9212,7 @@ Dear Team,
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
 Thank you.
 :::
+
 
 Write the inconsistencies you notice:
 
@@ -9232,6 +9363,7 @@ Rewrite all messages in a consistent style:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U21-guided-document | rows=10}}
 
@@ -9284,6 +9416,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Message 1**
 {{PH-3: U21-message-1 | rows=10}}
 
@@ -9303,6 +9436,7 @@ Take one message from your guided practice and revise it again so it matches the
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U21-editing-rewrite | rows=2}}
 
@@ -9315,9 +9449,9 @@ Choose one consistency feature from your freer-practice pair.
 
 Write:
 
-- [ ] the rule in one short sentence
-- [ ] one example your team should use
-- [ ] one example your team should avoid
+1. the rule in one short sentence
+2. one example your team should use
+3. one example your team should avoid
 
 For example:
 
@@ -9327,6 +9461,7 @@ For example:
 
 This keeps the unit focused on message rewriting first, then turns one successful pattern into a reusable team rule.
 :::
+
 
 **Planning Notes**
 {{PH-1: U21-transfer-notes | rows=4}}
@@ -9355,6 +9490,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Message 1**
 {{PH-2: U21-extended-message-1 | rows=10}}
 
@@ -9369,9 +9505,9 @@ Write each document in its own box.
 ::: write
 Reflect on This Unit
 
-- [ ] Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.
-- [ ] Which standard phrase or rule from this unit would be most useful as a shared team default?
-- [ ] When should team messages stay identical in style, and when should they still adapt to audience or purpose?
+1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.
+2. Which standard phrase or rule from this unit would be most useful as a shared team default?
+3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
 :::
 
 
@@ -9385,6 +9521,7 @@ Choose one of the Unit 21 situations and rewrite the two messages again using a 
 If you want to use real workplace writing, you may do so, but it is not required.
 :::
 
+
 ---
 
 **Homework Draft**
@@ -9396,10 +9533,10 @@ If you want to use real workplace writing, you may do so, but it is not required
 
 By the end of this unit, I will be able to:
 
-- I can decide what different readers need from the same situation.
-- I can write an applicant reply, a colleague explanation, and an internal notice about one issue.
-- I can adapt tone, detail, and structure across three related documents.
-- I can keep multiple related messages clear and consistent.
+- decide what different readers need from the same situation.
+- write an applicant reply, a colleague explanation, and an internal notice about one issue.
+- adapt tone, detail, and structure across three related documents.
+- keep multiple related messages clear and consistent.
 
 ### A. Scenario Overview
 
@@ -9542,6 +9679,7 @@ Write your reply:
 Use this box for one complete version.
 :::
 
+
 **Applicant Reply**
 {{PH-3: U22-guided-applicant-reply | rows=6}}
 
@@ -9562,6 +9700,7 @@ Write your explanation:
 
 Write one sentence on each line where possible.
 :::
+
 
 **Colleague Explanation**
 {{PH-2: U22-guided-colleague-explanation | rows=6}}
@@ -9601,6 +9740,7 @@ Write your notice:
 
 Use this box for one complete version.
 :::
+
 
 **Internal Notice**
 {{PH-3: U22-guided-internal-notice | rows=10}}
@@ -9664,6 +9804,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Applicant Reply**
 {{PH-3: U22-freer-applicant-reply | rows=6}}
 
@@ -9690,6 +9831,7 @@ Write:
 
 Write the full corrected version below.
 :::
+
 
 **Write Your Revised Version**
 {{PH-2: U22-editing-rewrite | rows=2}}
@@ -9720,6 +9862,7 @@ Safer final check:
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-1: U22-transfer-response | rows=4}}
 
@@ -9748,6 +9891,7 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 :::
 
+
 **Applicant Reply**
 {{PH-4: U22-multi-doc-applicant-reply | rows=12}}
 
@@ -9762,9 +9906,9 @@ Write each document in its own box.
 ::: write
 Reflect on This Unit
 
-- [ ] Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?
-- [ ] Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
-- [ ] What planning step would help you control consistency across all three documents next time?
+1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
+3. What planning step would help you control consistency across all three documents next time?
 :::
 
 
@@ -9775,6 +9919,7 @@ Homework Task
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 :::
+
 
 ---
 
@@ -9787,10 +9932,10 @@ Choose one scenario from the freer practice section. Rewrite the three documents
 
 By the end of this unit, I will be able to:
 
-- I can revise earlier writing to a higher standard.
-- I can choose portfolio pieces that show different administrative writing skills.
-- I can produce a new final document that matches the portfolio standard.
-- I can review my writing for accuracy, clarity, tone, coherence, and conciseness.
+- revise earlier writing to a higher standard.
+- choose portfolio pieces that show different administrative writing skills.
+- produce a new final document that matches the portfolio standard.
+- review my writing for accuracy, clarity, tone, coherence, and conciseness.
 
 ### A. What Is a Writing Portfolio?
 
@@ -10027,6 +10172,7 @@ Write your new document:
 Use this box for one complete version.
 :::
 
+
 **Write Here**
 {{PH-3: U23-guided-document | rows=10}}
 
@@ -10092,6 +10238,7 @@ Replace the weakest piece or rebuild it so the portfolio shows a wider professio
 
 Write each document in its own box.
 :::
+
 
 **Revised External Email**
 {{PH-4: U23-portfolio-external-email | rows=12}}
@@ -10165,6 +10312,7 @@ Write:
 Write the full corrected version below.
 :::
 
+
 **Write Your Revised Version**
 {{PH-2: U23-editing-rewrite | rows=2}}
 
@@ -10184,6 +10332,7 @@ Include:
 Write one sentence on each line where possible.
 :::
 
+
 **Write Here**
 {{PH-1: U23-transfer-response | rows=4}}
 
@@ -10192,9 +10341,9 @@ Write one sentence on each line where possible.
 ::: write
 Reflect on This Unit
 
-- [ ] Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
-- [ ] Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
-- [ ] Which revision habit from this course should become part of your real workplace writing routine from now on?
+1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
+2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
+3. Which revision habit from this course should become part of your real workplace writing routine from now on?
 :::
 
 
@@ -10205,6 +10354,7 @@ Final Course Task
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
 :::
+
 
 **Homework Draft**
 {{PH-3: U23-homework-document | rows=8}}
@@ -10245,6 +10395,7 @@ External message: Thank you for your submission. We noticed that the attached fo
 
 Internal note: The file submitted today does not match the required template. Please pause the next review step until the corrected form arrives.
 :::
+
 
 Use the comparison to answer:
 
