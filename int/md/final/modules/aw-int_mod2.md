@@ -137,15 +137,19 @@ Rewrite each subject line so it sounds **natural and professional**. These examp
 
 1. Subject: I have a question about the document that you sent to me yesterday
    ->
+   {{PH-1: U04-C-rewrite-1}}
 
 2. Subject: I want to ask you about when I should submit the missing form for the application
    ->
+   {{PH-1: U04-C-rewrite-2}}
 
 3. Subject: I am writing this email because there is a problem with the online system today
    ->
+   {{PH-1: U04-C-rewrite-3}}
 
 4. Subject: I need to know the reason why the applicant has not received the confirmation message yet
    ->
+   {{PH-1: U04-C-rewrite-4}}
 
 **Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
 
@@ -233,12 +237,15 @@ Write a clear opening sentence for each situation.
 
 1. You want to ask about a missing document.
    ->
+   {{PH-1: U04-C-rewrite-5}}
 
 2. You want to confirm a deadline.
    ->
+   {{PH-1: U04-C-rewrite-6}}
 
 3. You want to give information about a system update.
    ->
+   {{PH-1: U04-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -451,15 +458,19 @@ Mini contrast:
 
 1. What do you mean?  
    ->
+   {{PH-1: U05-C-rewrite-1}}
 
 2. I don't understand this part.  
    ->
+   {{PH-1: U05-C-rewrite-2}}
 
 3. Tell me the details.  
    ->
+   {{PH-1: U05-C-rewrite-3}}
 
 4. What should I do?  
    ->
+   {{PH-1: U05-C-rewrite-4}}
 
 #### 3. Asking About Missing or Confusing Information
 
@@ -497,15 +508,19 @@ Rewrite each sentence as a better clarification question.
 
 1. "This is different from what you said before."  
    ->
+   {{PH-1: U05-C-rewrite-5}}
 
 2. "The instructions are confusing."  
    ->
+   {{PH-1: U05-C-rewrite-6}}
 
 3. "I don't know what to write in this part."  
    ->
+   {{PH-1: U05-C-rewrite-7}}
 
 4. "The system doesn't work."  
    ->
+   {{PH-1: U05-C-rewrite-8}}
 
 #### 5. Clarification from Context
 
@@ -538,15 +553,19 @@ Rewrite each unclear message into a **clear, polite clarification request**.
 
 1. "I don't get this. Explain it."
    ->
+   {{PH-1: U05-D-rewrite-1}}
 
 2. "Which one is correct? These files look different."
    ->
+   {{PH-1: U05-D-rewrite-2}}
 
 3. "What am I supposed to do with this form?"
    ->
+   {{PH-1: U05-D-rewrite-3}}
 
 4. "This part is wrong."
    ->
+   {{PH-1: U05-D-rewrite-4}}
 
 #### Guided Practice
 
@@ -615,15 +634,19 @@ Rewrite each message as a better clarification request.
 
 1. I don't understand this instruction.
    ->
+   {{PH-1: U05-G-rewrite-1}}
 
 2. The file names are confusing.
    ->
+   {{PH-1: U05-G-rewrite-2}}
 
 3. The deadline message is different from the form.
    ->
+   {{PH-1: U05-G-rewrite-3}}
 
 4. The supervisor said to prepare the report.
    ->
+   {{PH-1: U05-G-rewrite-4}}
 
 Write the full corrected version below.
 
@@ -811,15 +834,19 @@ Mini contrast:
 
 1. "The meeting is delayed."
    ->
+   {{PH-1: U06-C-rewrite-1}}
 
 2. "We changed the procedure."
    ->
+   {{PH-1: U06-C-rewrite-2}}
 
 3. "The file will be late."
    ->
+   {{PH-1: U06-C-rewrite-3}}
 
 4. "The system is slow."
    ->
+   {{PH-1: U06-C-rewrite-4}}
 
 #### 3. Logical Order for Update Messages
 
@@ -868,12 +895,15 @@ Expand each message to 2-3 sentences by adding supporting information.
 
 1. "The deadline has been extended."
    ->
+   {{PH-1: U06-C-rewrite-5}}
 
 2. "The applicant's file will be reviewed next week."
    ->
+   {{PH-1: U06-C-rewrite-6}}
 
 3. "There has been a change in the procedure."
    ->
+   {{PH-1: U06-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -950,15 +980,19 @@ Rewrite each update so the reader does not need to ask a second question.
 
 1. The meeting changed.
    ->
+   {{PH-1: U06-G-rewrite-1}}
 
 2. We cannot finish this today.
    ->
+   {{PH-1: U06-G-rewrite-2}}
 
 3. There was a problem with the documents.
    ->
+   {{PH-1: U06-G-rewrite-3}}
 
 4. The system update will affect the process.
    ->
+   {{PH-1: U06-G-rewrite-4}}
 
 Write the full corrected version below.
 
@@ -1145,15 +1179,19 @@ Mini request frame:
 
 1. "Send the updated file."
    ->
+   {{PH-1: U07-C-rewrite-1}}
 
 2. "Tell me the deadline."
    ->
+   {{PH-1: U07-C-rewrite-2}}
 
 3. "Check this."
    ->
+   {{PH-1: U07-C-rewrite-3}}
 
 4. "Give me the information."
    ->
+   {{PH-1: U07-C-rewrite-4}}
 
 #### 3. Requests with Specific Details
 
@@ -1190,15 +1228,19 @@ Mini contrast:
 
 1. "Could you send the document?"
    ->
+   {{PH-1: U07-C-rewrite-5}}
 
 2. "Could you check this?"
    ->
+   {{PH-1: U07-C-rewrite-6}}
 
 3. "Could you confirm the information?"
    ->
+   {{PH-1: U07-C-rewrite-7}}
 
 4. "Could you update me?"
    ->
+   {{PH-1: U07-C-rewrite-8}}
 
 #### 5. Requests Without Sounding Too Direct
 
@@ -1236,15 +1278,19 @@ Rewrite each message so it is **polite but not weak**, using softening phrases.
 
 1. "Send this today."
    ->
+   {{PH-1: U07-C-rewrite-9}}
 
 2. "Tell me the result now."
    ->
+   {{PH-1: U07-C-rewrite-10}}
 
 3. "Check this immediately."
    ->
+   {{PH-1: U07-C-rewrite-11}}
 
 4. "Give me the corrected file as soon as possible."
    ->
+   {{PH-1: U07-C-rewrite-12}}
 
 ### D. Guided Practice
 
@@ -1326,15 +1372,19 @@ Rewrite each message so it keeps the same request but sounds more professional.
 
 1. Send me the corrected file today.
    ->
+   {{PH-1: U07-G-rewrite-1}}
 
 2. Tell me the meeting time now.
    ->
+   {{PH-1: U07-G-rewrite-2}}
 
 3. Check this and reply quickly.
    ->
+   {{PH-1: U07-G-rewrite-3}}
 
 4. Give me the missing information.
    ->
+   {{PH-1: U07-G-rewrite-4}}
 
 Write the full corrected version below.
 

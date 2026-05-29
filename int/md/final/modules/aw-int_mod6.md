@@ -128,21 +128,25 @@ Rewrite each sentence for the correct audience.
 
 "Send us the correct form."
 ->
+{{PH-1: U19-C-rewrite-1}}
 
 #### Internal Team ->Make it neutral and concise
 
 "They said the applicant messed up the form again."
 ->
+{{PH-1: U19-C-rewrite-2}}
 
 #### External Office ->Make it complete and professional
 
 "What is the problem?"
 ->
+{{PH-1: U19-C-rewrite-3}}
 
 #### Internal Team ->Make it clear and factual
 
 "The form is wrong but they didn't explain well."
 ->
+{{PH-1: U19-C-rewrite-4}}
 
 ### D. Guided Practice
 
@@ -484,21 +488,25 @@ Rewrite each sentence for the appropriate audience.
 
 "The schedule was wrong. Here is the real date."
 ->
+{{PH-1: U20-C-rewrite-1}}
 
 #### Internal Team ->Make it neutral and concise
 
 "Someone made a mistake in the schedule."
 ->
+{{PH-1: U20-C-rewrite-2}}
 
 #### External Office ->Make it complete
 
 "The day changed."
 ->
+{{PH-1: U20-C-rewrite-3}}
 
 #### Internal Team ->Make it professional
 
 "We told them the wrong date."
 ->
+{{PH-1: U20-C-rewrite-4}}
 
 ### D. Guided Practice
 
@@ -847,12 +855,15 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 1. "Hi, I checked it. What should I do now?"
    ->
+   {{PH-1: U21-C-rewrite-1}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
+   {{PH-1: U21-C-rewrite-2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
+   {{PH-1: U21-C-rewrite-3}}
 
 #### 3. Standardise Format & Tone
 
@@ -1154,15 +1165,19 @@ Rewrite each sentence for the appropriate audience.
 
 1. (Applicant) "You didn't upload the file we need."
    ->
+   {{PH-1: U22-C-rewrite-1}}
 
 2. (Colleague) "The applicant didn't follow the instructions again."
    ->
+   {{PH-1: U22-C-rewrite-2}}
 
 3. (Internal Notice) "The file is wrong and causing trouble."
    ->
+   {{PH-1: U22-C-rewrite-3}}
 
 4. (Applicant) "Send the document quickly."
    ->
+   {{PH-1: U22-C-rewrite-4}}
 
 ### D. Guided Practice
 

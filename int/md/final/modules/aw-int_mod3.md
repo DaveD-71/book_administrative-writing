@@ -149,15 +149,19 @@ Rewrite each instruction using a **clear action verb**.
 
 1. "Make sure the file is OK."
    ->
+   {{PH-1: U08-C-rewrite-1}}
 
 2. "Put the name in the system."
    ->
+   {{PH-1: U08-C-rewrite-2}}
 
 3. "Look at the form to see if something is missing."
    ->
+   {{PH-1: U08-C-rewrite-3}}
 
 4. "Send it to the right place."
    ->
+   {{PH-1: U08-C-rewrite-4}}
 
 #### 3. Logical Order
 
@@ -493,15 +497,19 @@ Internal notices use **neutral, factual language**. Avoid:
 
 1. "The delay is very annoying."
    ->
+   {{PH-1: U09-C-rewrite-1}}
 
 2. "Everyone MUST check the new files today!"
    ->
+   {{PH-1: U09-C-rewrite-2}}
 
 3. "I think the system is acting strange again."
    ->
+   {{PH-1: U09-C-rewrite-3}}
 
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    ->
+   {{PH-1: U09-C-rewrite-4}}
 
 #### 4. Improve the Clarity
 
@@ -522,15 +530,19 @@ Mini notice frame:
 
 1. "The meeting will change."
    ->
+   {{PH-1: U09-C-rewrite-5}}
 
 2. "There is something wrong with the file."
    ->
+   {{PH-1: U09-C-rewrite-6}}
 
 3. "We are doing something with the system tomorrow."
    ->
+   {{PH-1: U09-C-rewrite-7}}
 
 4. "The documents are not ready yet."
    ->
+   {{PH-1: U09-C-rewrite-8}}
 
 ### D. Guided Practice
 
@@ -867,15 +879,19 @@ Mini contrast:
 
 1. "There is a problem with the file."
    ->
+   {{PH-1: U10-C-rewrite-1}}
 
 2. "The system is slow."
    ->
+   {{PH-1: U10-C-rewrite-2}}
 
 3. "We can't finish the work."
    ->
+   {{PH-1: U10-C-rewrite-3}}
 
 4. "The document is wrong."
    ->
+   {{PH-1: U10-C-rewrite-4}}
 
 #### 3. Add Details
 
@@ -895,12 +911,15 @@ Mini support model:
 
 1. The application cannot be opened.
    ->
+   {{PH-1: U10-C-rewrite-5}}
 
 2. The review is delayed.
    ->
+   {{PH-1: U10-C-rewrite-6}}
 
 3. The uploaded form is incomplete.
    ->
+   {{PH-1: U10-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -1195,12 +1214,15 @@ Rewrite each summary to make it clearer.
 
 1. "We talked about some documents. IT will do something."
    ->
+   {{PH-1: U11-C-rewrite-1}}
 
 2. "The meeting was long. Many ideas were shared. We will do more later."
    ->
+   {{PH-1: U11-C-rewrite-2}}
 
 3. "The form was discussed. Someone needs to fix it."
    ->
+   {{PH-1: U11-C-rewrite-3}}
 
 ### D. Guided Practice
 

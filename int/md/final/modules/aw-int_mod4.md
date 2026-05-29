@@ -169,15 +169,19 @@ The stronger version works better because the reader can see the context, the ex
 
 1. "I don't understand this part. Tell me."
    ->
+   {{PH-1: U12-C-rewrite-1}}
 
 2. "What is the rule?"
    ->
+   {{PH-1: U12-C-rewrite-2}}
 
 3. "When is the deadline?"
    ->
+   {{PH-1: U12-C-rewrite-3}}
 
 4. "Explain Section 2."
    ->
+   {{PH-1: U12-C-rewrite-4}}
 
 #### 4. Add Background Information
 
@@ -198,12 +202,15 @@ The better version helps the reader understand the task situation before they re
 
 1. Could you clarify the new ID requirement?
    ->
+   {{PH-1: U12-C-rewrite-5}}
 
 2. Could you confirm the review schedule?
    ->
+   {{PH-1: U12-C-rewrite-6}}
 
 3. Could you explain how the updated rule applies?
    ->
+   {{PH-1: U12-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -503,15 +510,19 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 
 1. "The schedule changed."
    ->
+   {{PH-1: U13-C-rewrite-1}}
 
 2. "The file is wrong."
    ->
+   {{PH-1: U13-C-rewrite-2}}
 
 3. "The review will take longer."
    ->
+   {{PH-1: U13-C-rewrite-3}}
 
 4. "The system is slow."
    ->
+   {{PH-1: U13-C-rewrite-4}}
 
 #### 3. Add a Reason or Background
 
@@ -531,12 +542,15 @@ You can test your answer with three quick questions:
 
 1. The applicant list is incomplete.
    ->
+   {{PH-1: U13-C-rewrite-5}}
 
 2. The document cannot be accepted.
    ->
+   {{PH-1: U13-C-rewrite-6}}
 
 3. The review must be rescheduled.
    ->
+   {{PH-1: U13-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -814,15 +828,19 @@ The stronger version corrects the information without blaming the reader.
 
 1. "No, that's wrong."
    ->
+   {{PH-1: U14-C-rewrite-1}}
 
 2. "You misunderstood the instructions."
    ->
+   {{PH-1: U14-C-rewrite-2}}
 
 3. "The other form is for something else."
    ->
+   {{PH-1: U14-C-rewrite-3}}
 
 4. "Read the guidelines again."
    ->
+   {{PH-1: U14-C-rewrite-4}}
 
 #### 3. Add Clarifying Information
 
@@ -830,12 +848,15 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 1. The applicant uploaded the wrong file.
    ->
+   {{PH-1: U14-C-rewrite-5}}
 
 2. The deadline mentioned in the email is incorrect.
    ->
+   {{PH-1: U14-C-rewrite-6}}
 
 3. The instructions refer to two different processes.
    ->
+   {{PH-1: U14-C-rewrite-7}}
 
 ### D. Guided Practice
 
@@ -1110,12 +1131,15 @@ Rewrite the emails to make them consistent in tone and structure.
 
 1. "Hi, I checked it. What should I do now?"
    ->
+   {{PH-1: U15-C-rewrite-1}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
+   {{PH-1: U15-C-rewrite-2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
+   {{PH-1: U15-C-rewrite-3}}
 
 #### 3. Formatting for Clarity and Consistency
 
@@ -1243,9 +1267,11 @@ Rewrite the two short messages below so they follow the same team style.
 
 1. Hi, the file is not right. Check it.
    ->
+   {{PH-1: U15-G-rewrite-1}}
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
    ->
+   {{PH-1: U15-G-rewrite-2}}
 
 Write the full corrected version below.
 

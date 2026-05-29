@@ -1816,6 +1816,74 @@ Units 6–23 (instructor guidance frameworks):
 
 **Outstanding:** ADV Units 6–23 have framework guidance only — unit-specific exercise answers (match tables, sequencing, model rewrites) remain to be added in a follow-up session.
 
+## 2026-05-29 - INT book content fixes and placeholder system overhaul
+
+### Session scope
+Working session on INT book content corrections and placeholder system redesign. The working file `int/md/working/aw-int-all_0519.md` remains out of sync (no `:::` div markers — lost in `e88e828` heading normalization); all edits went to the canonical module source files `int/md/final/modules/aw-int_mod[1-6].md`.
+
+### Content fixes completed
+
+**Task 1 — Clear: lines (Unit 1 only)**
+- Added `{{PH-1: U01-C-simplify-N}}` after each of the 4 `Clear:` lines in Unit 1 C. Simplify the Sentence.
+- Status: complete.
+
+**Task 2 — `->` student answer lines (book-wide)**
+- The previous session's script added `{{PH-1}}` markers after 3-space-indented `   ->` lines (137 instances across mods 1–6).
+- This session fixed the remaining bare (no-indent) `->` lines that the script missed:
+  - mod1 L828–829: Unit 3 C.4 "Add one more supporting sentence" → `{{PH-1: U03-C-write-1}}` and `{{PH-1: U03-C-write-2}}`
+  - mod6 L130/135/140/145: Unit 19 C. Language Focus (4 audience rewrite slots) → `{{PH-1: U19-C-rewrite-1}}` through `{{PH-1: U19-C-rewrite-4}}`
+  - mod6 L486/491/496/501: Unit 20 C. Language Focus (4 audience rewrite slots) → `{{PH-1: U20-C-rewrite-1}}` through `{{PH-1: U20-C-rewrite-4}}`
+- Full scan confirmed: all 147 `->` answer lines across all 6 modules now have a PH marker immediately following.
+- Status: complete.
+
+### Placeholder system redesign
+
+**Problem identified:** All `->` rewrite slots were tagged `{{PH-1}}` (the default short-response type), but a single sentence rewrite needs far less space than the existing PH-1 box (previously fixed at 2 rows × 1 cm = 2 cm). A per-type fixed row count is too blunt — different tasks within the same PH type need different amounts of space.
+
+**Decision:** Replace the fixed-row-count-per-PH-type system with a per-instance `rows=N` parameter.
+
+**New marker format:**
+```
+{{PH-1: U01-C-rewrite-1 | rows=2}}
+```
+The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of response: sentence / paragraph / short doc / long doc / multi-part). The `rows=N` parameter controls the actual printed table height independently.
+
+**`postprocess_docx.py` changes (textmaker repo):**
+- `ROW_HEIGHT_TWIPS`: 567 → 454 (~0.8 cm per row, down from ~1 cm)
+- `HEADER_HEIGHT_TWIPS`: 454 → 340 (~0.6 cm)
+- `PH_ROWS` lookup dict: replaced with per-instance `rows=N` parsing
+- `PH_RE` regex: updated from `PH-\d+` to `PH-\d+[a-z]?` to also match `PH-1a/1b/1c` sub-types
+- Sub-types `PH-1a` (1 row), `PH-1b` (2 rows), `PH-1c` (3 rows) added to `PH_ROWS` as fallback defaults for markers without an explicit `rows=` parameter
+- Status: script updated. **Marker migration in source files (INT 320 markers, ADV 127 markers) is NOT yet done — next session task.**
+
+**Placeholder asset files (adv/edits & guides/style edits/assets/response placeholders/):**
+- PNG image assets for PH-1 through PH-5 are now obsolete — Word table generation supersedes them.
+- 4 ChatGPT-generated 1/2/3/4-line ruled images were renamed from `ChatGPT Image May 18...` to the standard `4.0.x_PH-1[a-d]_*-line-response-area.png` naming convention.
+- These PNG files are retained as visual references but are no longer part of the production pipeline.
+
+### Outstanding to-do list (for next session)
+
+1. ✅ Fix `Clear:` lines — Unit 1, 4 instances
+2. ✅ Fix `->` student answer lines — 147 instances, book-wide
+3. 🔄 **Placeholder size verification** — migrate all existing `{{PH-N: id}}` markers to `{{PH-N: id | rows=R}}` format, setting R based on task context. INT: 320 markers. ADV: 127 markers. This is the next active task.
+4. Fix checklist formatting book-wide — self-check numbered lists, Final self-edit bullets, "Your labels" → `- [ ]`
+5. Fix Focus stem mismatch — "By the end of this unit…" + "I can…" in all 23 units
+6. Wrap Weak/Strong examples in `:::example-bad` / `:::example-good` divs (B. Model Check sections)
+7. Wrap Mini model/Mini Example blocks in `:::example` divs (E. Freer Practice sections)
+8. Fix "Why this works" sections — bullet lists → flowing prose
+9. Fix original email formatting in D. Guided Practice — paragraph breaks
+10. Fix Unit 3 C.1 model paragraph — labeled topic/supporting/closing structure
+11. Mod6 A-H heading standardization — capstone units manual review
+12. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline
+13. Rebuild INT DOCX and PDF
+14. P6 — PH marker → response box conversion (final print-layout step)
+15. INT answer key sign-off
+
+### Canonical file locations
+- INT source: `int/md/final/modules/aw-int_mod[1-6].md`
+- ADV source: `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`
+- Pipeline script: `../textmaker/scripts/postprocess_docx.py` (`apply_response_placeholders` function)
+
 
 ## 2026-05-21T12:19:38.7157891+09:00 - Rubric Scoring Guide Converted From DOCX To Editable Markdown
 

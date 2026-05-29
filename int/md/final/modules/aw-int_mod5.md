@@ -159,15 +159,19 @@ Accuracy check:
 
 1. *The system under maintenance today.*  
    ->
+   {{PH-1: U16-C-rewrite-1}}
 
 2. *We will checking the documents.*  
    ->
+   {{PH-1: U16-C-rewrite-2}}
 
 3. *Please send me informations about new procedure.*  
    ->
+   {{PH-1: U16-C-rewrite-3}}
 
 4. *The documents is complete.*  
    ->
+   {{PH-1: U16-C-rewrite-4}}
 
 #### 3. Edit for Accuracy
 
@@ -416,15 +420,19 @@ Rewrite each sentence.
 
 1. "It looks like the file maybe has a few issues."
    ->
+   {{PH-1: U17-C-rewrite-1}}
 
 2. "There are things missing from the form somewhere."
    ->
+   {{PH-1: U17-C-rewrite-2}}
 
 3. "We think that it could possibly be delayed for some reason."
    ->
+   {{PH-1: U17-C-rewrite-3}}
 
 4. "It would be appreciated if you could maybe check the document again."
    ->
+   {{PH-1: U17-C-rewrite-4}}
 
 #### 3. Improving Flow
 
@@ -710,15 +718,19 @@ The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
    ->
+   {{PH-1: U18-C-rewrite-1}}
 
 2. "You made a mistake."
    ->
+   {{PH-1: U18-C-rewrite-2}}
 
 3. "Check it again."
    ->
+   {{PH-1: U18-C-rewrite-3}}
 
 4. "This is not acceptable."
    ->
+   {{PH-1: U18-C-rewrite-4}}
 
 #### 3. Tone in Emails
 
