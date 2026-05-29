@@ -1,4 +1,4 @@
-# MODULE 3. Writing Procedures & Internal Explanations
+﻿# MODULE 3. Writing Procedures & Internal Explanations
 
 ## Module Guide
 
@@ -149,19 +149,19 @@ Rewrite each instruction using a **clear action verb**.
 
 1. "Make sure the file is OK."
    ->
-   {{PH-1: U08-C-rewrite-1}}
+   {{PH-1: U08-C-rewrite-1 | rows=2}}
 
 2. "Put the name in the system."
    ->
-   {{PH-1: U08-C-rewrite-2}}
+   {{PH-1: U08-C-rewrite-2 | rows=2}}
 
 3. "Look at the form to see if something is missing."
    ->
-   {{PH-1: U08-C-rewrite-3}}
+   {{PH-1: U08-C-rewrite-3 | rows=2}}
 
 4. "Send it to the right place."
    ->
-   {{PH-1: U08-C-rewrite-4}}
+   {{PH-1: U08-C-rewrite-4 | rows=2}}
 
 #### 3. Logical Order
 
@@ -225,7 +225,7 @@ Write your procedure:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U08-guided-document}}
+{{PH-3: U08-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -262,7 +262,7 @@ Procedure 2:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U08-freer-document}}
+{{PH-3: U08-freer-document | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -312,7 +312,7 @@ Write your manual section:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U08-extended-document}}
+{{PH-3: U08-extended-document | rows=10}}
 
 #### Review & Self-Assessment
 
@@ -344,7 +344,7 @@ Rewrite this procedure so it becomes clearer and easier to follow.
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U08-editing-rewrite}}
+{{PH-2: U08-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -363,7 +363,7 @@ If you do not want to use a real workplace task, choose one Unit 8 freer-practic
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U08-transfer-response}}
+{{PH-1: U08-transfer-response | rows=4}}
 
 Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
 
@@ -371,7 +371,7 @@ If you do not want to use a task from your job, choose one Unit 8 freer-practice
 ---
 
 **Homework Draft**
-{{PH-3: U08-homework-document}}
+{{PH-3: U08-homework-document | rows=10}}
 
 ## Unit 9 - Internal Notices
 
@@ -497,19 +497,19 @@ Internal notices use **neutral, factual language**. Avoid:
 
 1. "The delay is very annoying."
    ->
-   {{PH-1: U09-C-rewrite-1}}
+   {{PH-1: U09-C-rewrite-1 | rows=2}}
 
 2. "Everyone MUST check the new files today!"
    ->
-   {{PH-1: U09-C-rewrite-2}}
+   {{PH-1: U09-C-rewrite-2 | rows=2}}
 
 3. "I think the system is acting strange again."
    ->
-   {{PH-1: U09-C-rewrite-3}}
+   {{PH-1: U09-C-rewrite-3 | rows=2}}
 
 4. "Sorry everyone, but the meeting is suddenly cancelled."
    ->
-   {{PH-1: U09-C-rewrite-4}}
+   {{PH-1: U09-C-rewrite-4 | rows=2}}
 
 #### 4. Improve the Clarity
 
@@ -530,19 +530,19 @@ Mini notice frame:
 
 1. "The meeting will change."
    ->
-   {{PH-1: U09-C-rewrite-5}}
+   {{PH-1: U09-C-rewrite-5 | rows=2}}
 
 2. "There is something wrong with the file."
    ->
-   {{PH-1: U09-C-rewrite-6}}
+   {{PH-1: U09-C-rewrite-6 | rows=2}}
 
 3. "We are doing something with the system tomorrow."
    ->
-   {{PH-1: U09-C-rewrite-7}}
+   {{PH-1: U09-C-rewrite-7 | rows=2}}
 
 4. "The documents are not ready yet."
    ->
-   {{PH-1: U09-C-rewrite-8}}
+   {{PH-1: U09-C-rewrite-8 | rows=2}}
 
 ### D. Guided Practice
 
@@ -563,7 +563,7 @@ Write your notice:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U09-guided-document}}
+{{PH-3: U09-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -584,10 +584,10 @@ Write your notices:
 Write each document in its own box.
 
 **Notice 1**
-{{PH-3: U09-freer-notice-1}}
+{{PH-3: U09-freer-notice-1 | rows=10}}
 
 **Notice 2**
-{{PH-3: U09-freer-notice-2}}
+{{PH-3: U09-freer-notice-2 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -657,7 +657,7 @@ There is a problem with the files today. Please be careful. More later.
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U09-editing-rewrite}}
+{{PH-2: U09-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -674,7 +674,7 @@ This shows how a short internal message can grow into a fuller internal informat
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U09-transfer-response}}
+{{PH-2: U09-transfer-response | rows=6}}
 
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 
@@ -682,7 +682,7 @@ If you do not want to use a real notice, choose one Unit 9 freer-practice scenar
 ---
 
 **Homework Draft**
-{{PH-3: U09-homework-document}}
+{{PH-3: U09-homework-document | rows=10}}
 
 #### Extended Writing Task - Internal Bulletin Section
 
@@ -715,7 +715,7 @@ Write your bulletin section:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U09-extended-document}}
+{{PH-3: U09-extended-document | rows=10}}
 
 #### Review & Self-Assessment
 
@@ -879,19 +879,19 @@ Mini contrast:
 
 1. "There is a problem with the file."
    ->
-   {{PH-1: U10-C-rewrite-1}}
+   {{PH-1: U10-C-rewrite-1 | rows=2}}
 
 2. "The system is slow."
    ->
-   {{PH-1: U10-C-rewrite-2}}
+   {{PH-1: U10-C-rewrite-2 | rows=2}}
 
 3. "We can't finish the work."
    ->
-   {{PH-1: U10-C-rewrite-3}}
+   {{PH-1: U10-C-rewrite-3 | rows=2}}
 
 4. "The document is wrong."
    ->
-   {{PH-1: U10-C-rewrite-4}}
+   {{PH-1: U10-C-rewrite-4 | rows=2}}
 
 #### 3. Add Details
 
@@ -911,15 +911,15 @@ Mini support model:
 
 1. The application cannot be opened.
    ->
-   {{PH-1: U10-C-rewrite-5}}
+   {{PH-1: U10-C-rewrite-5 | rows=2}}
 
 2. The review is delayed.
    ->
-   {{PH-1: U10-C-rewrite-6}}
+   {{PH-1: U10-C-rewrite-6 | rows=2}}
 
 3. The uploaded form is incomplete.
    ->
-   {{PH-1: U10-C-rewrite-7}}
+   {{PH-1: U10-C-rewrite-7 | rows=2}}
 
 ### D. Guided Practice
 
@@ -944,7 +944,7 @@ Write your explanation:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U10-guided-paragraph}}
+{{PH-2: U10-guided-paragraph | rows=8}}
 
 #### Problem-Logic Planning Grid
 
@@ -994,10 +994,10 @@ Write your explanations:
 Write each document in its own box.
 
 **Explanation 1**
-{{PH-2: U10-freer-explanation-1}}
+{{PH-2: U10-freer-explanation-1 | rows=8}}
 
 **Explanation 2**
-{{PH-2: U10-freer-explanation-2}}
+{{PH-2: U10-freer-explanation-2 | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -1027,7 +1027,7 @@ There is a problem with the database. We cannot continue some work. Something is
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U10-editing-rewrite}}
+{{PH-2: U10-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1045,7 +1045,7 @@ Keep the tone factual and neutral.
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U10-transfer-response}}
+{{PH-2: U10-transfer-response | rows=6}}
 
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 
@@ -1053,7 +1053,7 @@ If you do not want to use a real example, choose one Unit 10 freer-practice scen
 ---
 
 **Homework Draft**
-{{PH-3: U10-homework-document}}
+{{PH-3: U10-homework-document | rows=10}}
 
 #### Extended Writing Task - Report-Style Description
 
@@ -1072,7 +1072,7 @@ Your paragraph should:
 Write your paragraph:
 
 **Write Your Paragraph**
-{{PH-2: U10-extended-paragraph}}
+{{PH-2: U10-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 
@@ -1214,15 +1214,15 @@ Rewrite each summary to make it clearer.
 
 1. "We talked about some documents. IT will do something."
    ->
-   {{PH-1: U11-C-rewrite-1}}
+   {{PH-1: U11-C-rewrite-1 | rows=2}}
 
 2. "The meeting was long. Many ideas were shared. We will do more later."
    ->
-   {{PH-1: U11-C-rewrite-2}}
+   {{PH-1: U11-C-rewrite-2 | rows=2}}
 
 3. "The form was discussed. Someone needs to fix it."
    ->
-   {{PH-1: U11-C-rewrite-3}}
+   {{PH-1: U11-C-rewrite-3 | rows=2}}
 
 ### D. Guided Practice
 
@@ -1235,7 +1235,7 @@ Write your summary:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U11-guided-paragraph}}
+{{PH-2: U11-guided-paragraph | rows=8}}
 
 #### Summary Action Check
 
@@ -1284,10 +1284,10 @@ Write your summaries:
 Write each document in its own box.
 
 **Summary 1**
-{{PH-2: U11-freer-summary-1}}
+{{PH-2: U11-freer-summary-1 | rows=8}}
 
 **Summary 2**
-{{PH-2: U11-freer-summary-2}}
+{{PH-2: U11-freer-summary-2 | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -1317,7 +1317,7 @@ We talked about the forms and some schedule issues. IT also said something about
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U11-editing-rewrite}}
+{{PH-2: U11-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1332,14 +1332,14 @@ Rewrite it for a manager by making:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U11-transfer-response}}
+{{PH-2: U11-transfer-response | rows=6}}
 
 Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
 
 If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
 
 **Homework Draft**
-{{PH-2: U11-homework-paragraph}}
+{{PH-2: U11-homework-paragraph | rows=8}}
 
 #### Extended Writing Task - Meeting Report Section
 
@@ -1375,7 +1375,7 @@ Write your report section:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U11-extended-document}}
+{{PH-3: U11-extended-document | rows=10}}
 
 #### Review & Self-Assessment
 

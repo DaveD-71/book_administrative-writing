@@ -1,4 +1,4 @@
-# MODULE 5. Editing & Revision Skills (Basic)
+﻿# MODULE 5. Editing & Revision Skills (Basic)
 
 ## Module Guide
 
@@ -159,19 +159,19 @@ Accuracy check:
 
 1. *The system under maintenance today.*  
    ->
-   {{PH-1: U16-C-rewrite-1}}
+   {{PH-1: U16-C-rewrite-1 | rows=2}}
 
 2. *We will checking the documents.*  
    ->
-   {{PH-1: U16-C-rewrite-2}}
+   {{PH-1: U16-C-rewrite-2 | rows=2}}
 
 3. *Please send me informations about new procedure.*  
    ->
-   {{PH-1: U16-C-rewrite-3}}
+   {{PH-1: U16-C-rewrite-3 | rows=2}}
 
 4. *The documents is complete.*  
    ->
-   {{PH-1: U16-C-rewrite-4}}
+   {{PH-1: U16-C-rewrite-4 | rows=2}}
 
 #### 3. Edit for Accuracy
 
@@ -203,7 +203,7 @@ I check the document yesterday and it have some mistake. The informations in sec
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U16-guided-document}}
+{{PH-3: U16-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -222,10 +222,10 @@ Keep the original meaning, but correct the language so the final version is accu
 Write each document in its own box.
 
 **Version 1**
-{{PH-2: U16-freer-version-1}}
+{{PH-2: U16-freer-version-1 | rows=8}}
 
 **Version 2**
-{{PH-2: U16-freer-version-2}}
+{{PH-2: U16-freer-version-2 | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -255,7 +255,7 @@ For each one, explain:
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U16-editing-rewrite}}
+{{PH-2: U16-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -271,7 +271,7 @@ For example:
 Use your own wording, but make it a routine you could really use at work.
 
 **Planning Notes**
-{{PH-1: U16-transfer-notes}}
+{{PH-1: U16-transfer-notes | rows=4}}
 
 Find one email or document you wrote recently. Edit it for accuracy using the skills from this unit.
 
@@ -279,7 +279,7 @@ If you do not want to use a real email or document, choose one Unit 16 freer-pra
 ---
 
 **Homework Draft**
-{{PH-3: U16-homework-document}}
+{{PH-3: U16-homework-document | rows=10}}
 
 #### Extended Writing Task - Editing a Paragraph
 
@@ -292,7 +292,7 @@ The review process start tomorrow. The team are preparing the documents now. The
 **Corrected paragraph:**
 
 **Write Your Paragraph**
-{{PH-2: U16-extended-paragraph}}
+{{PH-2: U16-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 
@@ -420,19 +420,19 @@ Rewrite each sentence.
 
 1. "It looks like the file maybe has a few issues."
    ->
-   {{PH-1: U17-C-rewrite-1}}
+   {{PH-1: U17-C-rewrite-1 | rows=2}}
 
 2. "There are things missing from the form somewhere."
    ->
-   {{PH-1: U17-C-rewrite-2}}
+   {{PH-1: U17-C-rewrite-2 | rows=2}}
 
 3. "We think that it could possibly be delayed for some reason."
    ->
-   {{PH-1: U17-C-rewrite-3}}
+   {{PH-1: U17-C-rewrite-3 | rows=2}}
 
 4. "It would be appreciated if you could maybe check the document again."
    ->
-   {{PH-1: U17-C-rewrite-4}}
+   {{PH-1: U17-C-rewrite-4 | rows=2}}
 
 #### 3. Improving Flow
 
@@ -488,7 +488,7 @@ The system was slow today and we couldn't do much because of it. Also, there was
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U17-guided-paragraph}}
+{{PH-2: U17-guided-paragraph | rows=8}}
 
 ### E. Freer Practice
 
@@ -509,10 +509,10 @@ Write your revised texts:
 Write each document in its own box.
 
 **Version 1**
-{{PH-2: U17-freer-version-1}}
+{{PH-2: U17-freer-version-1 | rows=8}}
 
 **Version 2**
-{{PH-2: U17-freer-version-2}}
+{{PH-2: U17-freer-version-2 | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -542,7 +542,7 @@ There were maybe some issues with the forms and things will probably take a bit 
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U17-editing-rewrite}}
+{{PH-2: U17-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -557,13 +557,13 @@ Write:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U17-transfer-response}}
+{{PH-1: U17-transfer-response | rows=4}}
 
 Choose one paragraph you wrote in a previous unit. Rewrite it for clarity using today's strategies.
 ---
 
 **Homework Draft**
-{{PH-2: U17-homework-paragraph}}
+{{PH-2: U17-homework-paragraph | rows=8}}
 
 #### Extended Writing Task - Clear Paragraph Revision
 
@@ -576,7 +576,7 @@ We checked some things and there are maybe a few issues. The system did somethin
 **Rewrite:**
 
 **Write Your Paragraph**
-{{PH-2: U17-extended-paragraph}}
+{{PH-2: U17-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 
@@ -718,19 +718,19 @@ The stronger version keeps the message usable and professional.
 
 1. "This is wrong."
    ->
-   {{PH-1: U18-C-rewrite-1}}
+   {{PH-1: U18-C-rewrite-1 | rows=2}}
 
 2. "You made a mistake."
    ->
-   {{PH-1: U18-C-rewrite-2}}
+   {{PH-1: U18-C-rewrite-2 | rows=2}}
 
 3. "Check it again."
    ->
-   {{PH-1: U18-C-rewrite-3}}
+   {{PH-1: U18-C-rewrite-3 | rows=2}}
 
 4. "This is not acceptable."
    ->
-   {{PH-1: U18-C-rewrite-4}}
+   {{PH-1: U18-C-rewrite-4 | rows=2}}
 
 #### 3. Tone in Emails
 
@@ -796,7 +796,7 @@ The applicant did not follow the instructions again. This is causing problems fo
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U18-guided-document}}
+{{PH-3: U18-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -817,10 +817,10 @@ Write your emails:
 Write each document in its own box.
 
 **Email 1**
-{{PH-2: U18-freer-email-1}}
+{{PH-2: U18-freer-email-1 | rows=10}}
 
 **Email 2**
-{{PH-2: U18-freer-email-2}}
+{{PH-2: U18-freer-email-2 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -850,7 +850,7 @@ You gave us the wrong information again. This is causing delays for our team. Pl
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U18-editing-rewrite}}
+{{PH-2: U18-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -867,14 +867,14 @@ Then explain:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U18-transfer-response}}
+{{PH-1: U18-transfer-response | rows=4}}
 
 Find one email you wrote recently. Rewrite it using the tone strategies from this unit.
 
 If you do not want to use a real email, choose one Unit 18 freer-practice situation and rewrite it using the tone strategies from this unit instead.
 
 **Homework Draft**
-{{PH-3: U18-homework-document}}
+{{PH-3: U18-homework-document | rows=10}}
 
 #### Extended Writing Task - Tone Revision Paragraph
 
@@ -887,7 +887,7 @@ We told the applicant many times, but they still submitted the wrong file. This 
 **Rewrite:**
 
 **Write Your Paragraph**
-{{PH-2: U18-extended-paragraph}}
+{{PH-2: U18-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 

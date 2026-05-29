@@ -1,4 +1,4 @@
-# MODULE 6. Capstone & Applied Administrative Writing
+﻿# MODULE 6. Capstone & Applied Administrative Writing
 
 ## Module Guide
 
@@ -128,25 +128,25 @@ Rewrite each sentence for the correct audience.
 
 "Send us the correct form."
 ->
-{{PH-1: U19-C-rewrite-1}}
+{{PH-1: U19-C-rewrite-1 | rows=2}}
 
 #### Internal Team ->Make it neutral and concise
 
 "They said the applicant messed up the form again."
 ->
-{{PH-1: U19-C-rewrite-2}}
+{{PH-1: U19-C-rewrite-2 | rows=2}}
 
 #### External Office ->Make it complete and professional
 
 "What is the problem?"
 ->
-{{PH-1: U19-C-rewrite-3}}
+{{PH-1: U19-C-rewrite-3 | rows=2}}
 
 #### Internal Team ->Make it clear and factual
 
 "The form is wrong but they didn't explain well."
 ->
-{{PH-1: U19-C-rewrite-4}}
+{{PH-1: U19-C-rewrite-4 | rows=2}}
 
 ### D. Guided Practice
 
@@ -169,7 +169,7 @@ Write your email:
 Use this box for one complete version.
 
 **External Email**
-{{PH-3: U19-guided-external-email}}
+{{PH-3: U19-guided-external-email | rows=10}}
 
 ### D. Guided Practice
 
@@ -207,7 +207,7 @@ Write your explanation:
 Use this box for one complete version.
 
 **Internal Explanation**
-{{PH-3: U19-guided-internal-explanation}}
+{{PH-3: U19-guided-internal-explanation | rows=10}}
 
 ### E. Reader-Control Planning Board
 
@@ -264,10 +264,10 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **External Email**
-{{PH-3: U19-paired-external-email}}
+{{PH-3: U19-paired-external-email | rows=10}}
 
 **Internal Explanation**
-{{PH-3: U19-paired-internal-explanation}}
+{{PH-3: U19-paired-internal-explanation | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -296,7 +296,7 @@ Rewrite the weak pair below so the external and internal texts do different jobs
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U19-editing-rewrite}}
+{{PH-2: U19-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -312,13 +312,13 @@ Use the same core facts, but change the tone and detail for each audience.
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U19-transfer-response}}
+{{PH-1: U19-transfer-response | rows=4}}
 
 Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
 ---
 
 **Homework Draft**
-{{PH-3: U19-homework-document}}
+{{PH-3: U19-homework-document | rows=10}}
 
 ### E. Extended Writing Task - Multi-Purpose Communication
 
@@ -347,10 +347,10 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **External Email**
-{{PH-3: U19-extended-external-email}}
+{{PH-3: U19-extended-external-email | rows=10}}
 
 **Internal Explanation**
-{{PH-3: U19-extended-internal-explanation}}
+{{PH-3: U19-extended-internal-explanation | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -488,25 +488,25 @@ Rewrite each sentence for the appropriate audience.
 
 "The schedule was wrong. Here is the real date."
 ->
-{{PH-1: U20-C-rewrite-1}}
+{{PH-1: U20-C-rewrite-1 | rows=2}}
 
 #### Internal Team ->Make it neutral and concise
 
 "Someone made a mistake in the schedule."
 ->
-{{PH-1: U20-C-rewrite-2}}
+{{PH-1: U20-C-rewrite-2 | rows=2}}
 
 #### External Office ->Make it complete
 
 "The day changed."
 ->
-{{PH-1: U20-C-rewrite-3}}
+{{PH-1: U20-C-rewrite-3 | rows=2}}
 
 #### Internal Team ->Make it professional
 
 "We told them the wrong date."
 ->
-{{PH-1: U20-C-rewrite-4}}
+{{PH-1: U20-C-rewrite-4 | rows=2}}
 
 ### D. Guided Practice
 
@@ -531,7 +531,7 @@ Write your message:
 Use this box for one complete version.
 
 **Revision Message**
-{{PH-3: U20-guided-revision-message}}
+{{PH-3: U20-guided-revision-message | rows=10}}
 
 ### D. Guided Practice
 
@@ -552,7 +552,7 @@ Write your notice:
 Use this box for one complete version.
 
 **Internal Notice**
-{{PH-3: U20-guided-internal-notice}}
+{{PH-3: U20-guided-internal-notice | rows=10}}
 
 ### E. Correction Control Board
 
@@ -614,10 +614,10 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Revision Message**
-{{PH-3: U20-revision-message}}
+{{PH-3: U20-revision-message | rows=10}}
 
 **Internal Notice**
-{{PH-3: U20-internal-notice}}
+{{PH-3: U20-internal-notice | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -646,7 +646,7 @@ Rewrite this weak pair so both texts stay consistent.
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U20-editing-rewrite}}
+{{PH-2: U20-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -660,7 +660,7 @@ Write a short `3-4` line correction log for one scenario in this unit:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U20-transfer-response}}
+{{PH-1: U20-transfer-response | rows=4}}
 
 Choose a message from a previous unit. Rewrite it as:  
 
@@ -670,7 +670,7 @@ B) an internal notice.
 ---
 
 **Homework Draft**
-{{PH-3: U20-homework-document}}
+{{PH-3: U20-homework-document | rows=10}}
 
 ### E. Extended Writing Task - Combined Communication Pack
 
@@ -701,10 +701,10 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Revision Message**
-{{PH-3: U20-extended-revision-message}}
+{{PH-3: U20-extended-revision-message | rows=10}}
 
 **Internal Notice**
-{{PH-3: U20-extended-internal-notice}}
+{{PH-3: U20-extended-internal-notice | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -855,15 +855,15 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 1. "Hi, I checked it. What should I do now?"
    ->
-   {{PH-1: U21-C-rewrite-1}}
+   {{PH-1: U21-C-rewrite-1 | rows=2}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
-   {{PH-1: U21-C-rewrite-2}}
+   {{PH-1: U21-C-rewrite-2 | rows=2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
-   {{PH-1: U21-C-rewrite-3}}
+   {{PH-1: U21-C-rewrite-3 | rows=2}}
 
 #### 3. Standardise Format & Tone
 
@@ -915,7 +915,7 @@ Rewrite all messages in a consistent style:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U21-guided-document}}
+{{PH-3: U21-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -948,10 +948,10 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Message 1**
-{{PH-3: U21-message-1}}
+{{PH-3: U21-message-1 | rows=10}}
 
 **Message 2**
-{{PH-3: U21-message-2}}
+{{PH-3: U21-message-2 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -980,7 +980,7 @@ Then note:
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U21-editing-rewrite}}
+{{PH-2: U21-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1001,7 +1001,7 @@ For example:
 This keeps the unit focused on message rewriting first, then turns one successful pattern into a reusable team rule.
 
 **Planning Notes**
-{{PH-1: U21-transfer-notes}}
+{{PH-1: U21-transfer-notes | rows=4}}
 
 Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
 
@@ -1009,7 +1009,7 @@ If you want to use real workplace writing, you may do so, but it is not required
 ---
 
 **Homework Draft**
-{{PH-5: U21-homework-pack}}
+{{PH-5: U21-homework-pack | rows=22}}
 
 ### E. Extended Writing Task - Rewrite a Set of Communications
 
@@ -1031,13 +1031,13 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Message 1**
-{{PH-2: U21-extended-message-1}}
+{{PH-2: U21-extended-message-1 | rows=10}}
 
 **Message 2**
-{{PH-2: U21-extended-message-2}}
+{{PH-2: U21-extended-message-2 | rows=10}}
 
 **Message 3**
-{{PH-2: U21-extended-message-3}}
+{{PH-2: U21-extended-message-3 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -1165,19 +1165,19 @@ Rewrite each sentence for the appropriate audience.
 
 1. (Applicant) "You didn't upload the file we need."
    ->
-   {{PH-1: U22-C-rewrite-1}}
+   {{PH-1: U22-C-rewrite-1 | rows=2}}
 
 2. (Colleague) "The applicant didn't follow the instructions again."
    ->
-   {{PH-1: U22-C-rewrite-2}}
+   {{PH-1: U22-C-rewrite-2 | rows=2}}
 
 3. (Internal Notice) "The file is wrong and causing trouble."
    ->
-   {{PH-1: U22-C-rewrite-3}}
+   {{PH-1: U22-C-rewrite-3 | rows=2}}
 
 4. (Applicant) "Send the document quickly."
    ->
-   {{PH-1: U22-C-rewrite-4}}
+   {{PH-1: U22-C-rewrite-4 | rows=2}}
 
 ### D. Guided Practice
 
@@ -1199,7 +1199,7 @@ Write your reply:
 Use this box for one complete version.
 
 **Applicant Reply**
-{{PH-3: U22-guided-applicant-reply}}
+{{PH-3: U22-guided-applicant-reply | rows=10}}
 
 ### D. Guided Practice
 
@@ -1219,7 +1219,7 @@ Write your explanation:
 Write one sentence on each line where possible.
 
 **Colleague Explanation**
-{{PH-2: U22-guided-colleague-explanation}}
+{{PH-2: U22-guided-colleague-explanation | rows=8}}
 
 ### D. Guided Practice
 
@@ -1257,7 +1257,7 @@ Write your notice:
 Use this box for one complete version.
 
 **Internal Notice**
-{{PH-3: U22-guided-internal-notice}}
+{{PH-3: U22-guided-internal-notice | rows=10}}
 
 ### E. Planning Board - Three Documents from One Situation
 
@@ -1320,13 +1320,13 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Applicant Reply**
-{{PH-3: U22-freer-applicant-reply}}
+{{PH-3: U22-freer-applicant-reply | rows=10}}
 
 **Colleague Explanation**
-{{PH-3: U22-freer-colleague-explanation}}
+{{PH-3: U22-freer-colleague-explanation | rows=8}}
 
 **Internal Notice**
-{{PH-2: U22-freer-internal-notice}}
+{{PH-2: U22-freer-internal-notice | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -1358,7 +1358,7 @@ Write:
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U22-editing-rewrite}}
+{{PH-2: U22-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1389,13 +1389,13 @@ Safer final check:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U22-transfer-response}}
+{{PH-1: U22-transfer-response | rows=4}}
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
 ---
 
 **Homework Draft**
-{{PH-3: U22-homework-document}}
+{{PH-3: U22-homework-document | rows=10}}
 
 ### E. Extended Writing Task - Multi-Audience Communication Pack
 
@@ -1426,13 +1426,13 @@ Keep the facts the same, but change the audience and tone.
 Write each document in its own box.
 
 **Applicant Reply**
-{{PH-4: U22-multi-doc-applicant-reply}}
+{{PH-4: U22-multi-doc-applicant-reply | rows=12}}
 
 **Colleague Explanation**
-{{PH-3: U22-multi-doc-colleague-explanation}}
+{{PH-3: U22-multi-doc-colleague-explanation | rows=10}}
 
 **Internal Notice**
-{{PH-2: U22-multi-doc-internal-notice}}
+{{PH-2: U22-multi-doc-internal-notice | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -1666,16 +1666,16 @@ Replace the weakest piece or rebuild it so the portfolio shows a wider professio
 Write each document in its own box.
 
 **Revised External Email**
-{{PH-4: U23-portfolio-external-email}}
+{{PH-4: U23-portfolio-external-email | rows=12}}
 
 **Revised Internal Explanation or Notice**
-{{PH-3: U23-portfolio-internal-document}}
+{{PH-3: U23-portfolio-internal-document | rows=10}}
 
 **Revised Report Paragraph**
-{{PH-3: U23-portfolio-report-paragraph}}
+{{PH-3: U23-portfolio-report-paragraph | rows=8}}
 
 **New Unit 23 Document**
-{{PH-4: U23-portfolio-new-document}}
+{{PH-4: U23-portfolio-new-document | rows=12}}
 
 ### D. Guided Practice
 
@@ -1695,7 +1695,7 @@ Write your new document:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U23-guided-document}}
+{{PH-3: U23-guided-document | rows=10}}
 
 ### E. Final Portfolio Submission
 
@@ -1766,16 +1766,16 @@ Replace the weakest piece or rebuild it so the portfolio shows a wider professio
 Write each document in its own box.
 
 **Revised External Email**
-{{PH-4: U23-portfolio-external-email}}
+{{PH-4: U23-portfolio-external-email | rows=12}}
 
 **Revised Internal Explanation or Notice**
-{{PH-3: U23-portfolio-internal-document}}
+{{PH-3: U23-portfolio-internal-document | rows=10}}
 
 **Revised Report Paragraph**
-{{PH-3: U23-portfolio-report-paragraph}}
+{{PH-3: U23-portfolio-report-paragraph | rows=8}}
 
 **New Unit 23 Document**
-{{PH-4: U23-portfolio-new-document}}
+{{PH-4: U23-portfolio-new-document | rows=12}}
 
 ### G. Capstone Rebuild Routine
 
@@ -1807,12 +1807,12 @@ Include:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U23-transfer-response}}
+{{PH-1: U23-transfer-response | rows=4}}
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
 
 **Homework Draft**
-{{PH-3: U23-homework-document}}
+{{PH-3: U23-homework-document | rows=10}}
 
 ### F. Portfolio Review Rubric
 
@@ -1848,7 +1848,7 @@ Write:
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U23-editing-rewrite}}
+{{PH-2: U23-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1863,12 +1863,12 @@ Include:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U23-transfer-response}}
+{{PH-1: U23-transfer-response | rows=4}}
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
 
 **Homework Draft**
-{{PH-3: U23-homework-document}}
+{{PH-3: U23-homework-document | rows=10}}
 
 ### F. Reflection
 

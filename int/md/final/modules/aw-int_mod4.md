@@ -1,4 +1,4 @@
-# MODULE 4. Communicating with Applicants & Foreign Offices
+﻿# MODULE 4. Communicating with Applicants & Foreign Offices
 
 ## Module Guide
 
@@ -169,19 +169,19 @@ The stronger version works better because the reader can see the context, the ex
 
 1. "I don't understand this part. Tell me."
    ->
-   {{PH-1: U12-C-rewrite-1}}
+   {{PH-1: U12-C-rewrite-1 | rows=2}}
 
 2. "What is the rule?"
    ->
-   {{PH-1: U12-C-rewrite-2}}
+   {{PH-1: U12-C-rewrite-2 | rows=2}}
 
 3. "When is the deadline?"
    ->
-   {{PH-1: U12-C-rewrite-3}}
+   {{PH-1: U12-C-rewrite-3 | rows=2}}
 
 4. "Explain Section 2."
    ->
-   {{PH-1: U12-C-rewrite-4}}
+   {{PH-1: U12-C-rewrite-4 | rows=2}}
 
 #### 4. Add Background Information
 
@@ -202,15 +202,15 @@ The better version helps the reader understand the task situation before they re
 
 1. Could you clarify the new ID requirement?
    ->
-   {{PH-1: U12-C-rewrite-5}}
+   {{PH-1: U12-C-rewrite-5 | rows=2}}
 
 2. Could you confirm the review schedule?
    ->
-   {{PH-1: U12-C-rewrite-6}}
+   {{PH-1: U12-C-rewrite-6 | rows=2}}
 
 3. Could you explain how the updated rule applies?
    ->
-   {{PH-1: U12-C-rewrite-7}}
+   {{PH-1: U12-C-rewrite-7 | rows=2}}
 
 ### D. Guided Practice
 
@@ -223,7 +223,7 @@ Write your email:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U12-guided-document}}
+{{PH-3: U12-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -244,7 +244,7 @@ Write your inquiry emails:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U12-freer-document}}
+{{PH-3: U12-freer-document | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -288,7 +288,7 @@ We do not understand this and need help. Please explain the rule.
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U12-editing-rewrite}}
+{{PH-2: U12-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -305,7 +305,7 @@ This helps connect external inquiry writing to internal reporting.
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U12-transfer-response}}
+{{PH-1: U12-transfer-response | rows=4}}
 
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 
@@ -313,7 +313,7 @@ If you do not want to use a real instruction or notice, choose one Unit 12 freer
 ---
 
 **Homework Draft**
-{{PH-3: U12-homework-document}}
+{{PH-3: U12-homework-document | rows=10}}
 
 #### Extended Writing Task - Inquiry Paragraph
 
@@ -349,7 +349,7 @@ Write your paragraph:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U12-extended-document}}
+{{PH-3: U12-extended-document | rows=10}}
 
 #### Review & Self-Assessment
 
@@ -510,19 +510,19 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 
 1. "The schedule changed."
    ->
-   {{PH-1: U13-C-rewrite-1}}
+   {{PH-1: U13-C-rewrite-1 | rows=2}}
 
 2. "The file is wrong."
    ->
-   {{PH-1: U13-C-rewrite-2}}
+   {{PH-1: U13-C-rewrite-2 | rows=2}}
 
 3. "The review will take longer."
    ->
-   {{PH-1: U13-C-rewrite-3}}
+   {{PH-1: U13-C-rewrite-3 | rows=2}}
 
 4. "The system is slow."
    ->
-   {{PH-1: U13-C-rewrite-4}}
+   {{PH-1: U13-C-rewrite-4 | rows=2}}
 
 #### 3. Add a Reason or Background
 
@@ -542,15 +542,15 @@ You can test your answer with three quick questions:
 
 1. The applicant list is incomplete.
    ->
-   {{PH-1: U13-C-rewrite-5}}
+   {{PH-1: U13-C-rewrite-5 | rows=2}}
 
 2. The document cannot be accepted.
    ->
-   {{PH-1: U13-C-rewrite-6}}
+   {{PH-1: U13-C-rewrite-6 | rows=2}}
 
 3. The review must be rescheduled.
    ->
-   {{PH-1: U13-C-rewrite-7}}
+   {{PH-1: U13-C-rewrite-7 | rows=2}}
 
 ### D. Guided Practice
 
@@ -575,7 +575,7 @@ Write your explanation:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U13-guided-paragraph}}
+{{PH-2: U13-guided-paragraph | rows=8}}
 
 ### E. Freer Practice
 
@@ -596,10 +596,10 @@ Write your explanations:
 Write each document in its own box.
 
 **Explanation 1**
-{{PH-2: U13-freer-explanation-1}}
+{{PH-2: U13-freer-explanation-1 | rows=8}}
 
 **Explanation 2**
-{{PH-2: U13-freer-explanation-2}}
+{{PH-2: U13-freer-explanation-2 | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -629,7 +629,7 @@ The document cannot be accepted. There is a problem with one section. The proces
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U13-editing-rewrite}}
+{{PH-2: U13-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -645,7 +645,7 @@ Keep the facts the same, but decide how much detail each reader needs.
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U13-transfer-response}}
+{{PH-1: U13-transfer-response | rows=4}}
 
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 
@@ -653,7 +653,7 @@ If you do not want to use a real explanation, choose one Unit 13 freer-practice 
 ---
 
 **Homework Draft**
-{{PH-2: U13-homework-paragraph}}
+{{PH-2: U13-homework-paragraph | rows=8}}
 
 #### Extended Writing Task - Explanatory Paragraph
 
@@ -687,7 +687,7 @@ Mini report-style frame:
 Write your paragraph:
 
 **Write Your Paragraph**
-{{PH-2: U13-extended-paragraph}}
+{{PH-2: U13-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 
@@ -828,19 +828,19 @@ The stronger version corrects the information without blaming the reader.
 
 1. "No, that's wrong."
    ->
-   {{PH-1: U14-C-rewrite-1}}
+   {{PH-1: U14-C-rewrite-1 | rows=2}}
 
 2. "You misunderstood the instructions."
    ->
-   {{PH-1: U14-C-rewrite-2}}
+   {{PH-1: U14-C-rewrite-2 | rows=2}}
 
 3. "The other form is for something else."
    ->
-   {{PH-1: U14-C-rewrite-3}}
+   {{PH-1: U14-C-rewrite-3 | rows=2}}
 
 4. "Read the guidelines again."
    ->
-   {{PH-1: U14-C-rewrite-4}}
+   {{PH-1: U14-C-rewrite-4 | rows=2}}
 
 #### 3. Add Clarifying Information
 
@@ -848,15 +848,15 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 1. The applicant uploaded the wrong file.
    ->
-   {{PH-1: U14-C-rewrite-5}}
+   {{PH-1: U14-C-rewrite-5 | rows=2}}
 
 2. The deadline mentioned in the email is incorrect.
    ->
-   {{PH-1: U14-C-rewrite-6}}
+   {{PH-1: U14-C-rewrite-6 | rows=2}}
 
 3. The instructions refer to two different processes.
    ->
-   {{PH-1: U14-C-rewrite-7}}
+   {{PH-1: U14-C-rewrite-7 | rows=2}}
 
 ### D. Guided Practice
 
@@ -877,7 +877,7 @@ Write your response:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U14-guided-document}}
+{{PH-3: U14-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -898,10 +898,10 @@ Write your responses:
 Write each document in its own box.
 
 **Response 1**
-{{PH-3: U14-freer-response-1}}
+{{PH-3: U14-freer-response-1 | rows=10}}
 
 **Response 2**
-{{PH-3: U14-freer-response-2}}
+{{PH-3: U14-freer-response-2 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -931,7 +931,7 @@ You misunderstood the message. We already explained this rule before, so please 
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U14-editing-rewrite}}
+{{PH-2: U14-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -946,7 +946,7 @@ Write a short internal record explaining:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U14-transfer-response}}
+{{PH-1: U14-transfer-response | rows=4}}
 
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 
@@ -954,7 +954,7 @@ If you do not want to use a real situation, choose one Unit 14 freer-practice op
 ---
 
 **Homework Draft**
-{{PH-3: U14-homework-document}}
+{{PH-3: U14-homework-document | rows=10}}
 
 #### Extended Writing Task - Clarification Paragraph
 
@@ -988,7 +988,7 @@ Mini internal-report frame:
 Write your paragraph:
 
 **Write Your Paragraph**
-{{PH-2: U14-extended-paragraph}}
+{{PH-2: U14-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 
@@ -1131,15 +1131,15 @@ Rewrite the emails to make them consistent in tone and structure.
 
 1. "Hi, I checked it. What should I do now?"
    ->
-   {{PH-1: U15-C-rewrite-1}}
+   {{PH-1: U15-C-rewrite-1 | rows=2}}
 
 2. "Hello, Please check. I think there is a problem."
    ->
-   {{PH-1: U15-C-rewrite-2}}
+   {{PH-1: U15-C-rewrite-2 | rows=2}}
 
 3. "Team, The file is wrong. Fix it."
    ->
-   {{PH-1: U15-C-rewrite-3}}
+   {{PH-1: U15-C-rewrite-3 | rows=2}}
 
 #### 3. Formatting for Clarity and Consistency
 
@@ -1220,7 +1220,7 @@ Rewrite it as a short email to a colleague or team mailbox using a consistent pr
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U15-guided-document}}
+{{PH-3: U15-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -1241,10 +1241,10 @@ Write your emails:
 Write each document in its own box.
 
 **Email 1**
-{{PH-3: U15-freer-email-1}}
+{{PH-3: U15-freer-email-1 | rows=10}}
 
 **Email 2**
-{{PH-3: U15-freer-email-2}}
+{{PH-3: U15-freer-email-2 | rows=10}}
 
 ### F. Review & Self-Assessment
 
@@ -1267,16 +1267,16 @@ Rewrite the two short messages below so they follow the same team style.
 
 1. Hi, the file is not right. Check it.
    ->
-   {{PH-1: U15-G-rewrite-1}}
+   {{PH-1: U15-G-rewrite-1 | rows=2}}
 
 2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
    ->
-   {{PH-1: U15-G-rewrite-2}}
+   {{PH-1: U15-G-rewrite-2 | rows=2}}
 
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U15-editing-rewrite}}
+{{PH-2: U15-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -1293,14 +1293,14 @@ Then use those rules to check one email from your freer practice.
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U15-transfer-response}}
+{{PH-1: U15-transfer-response | rows=4}}
 
 Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
 
 If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
 
 **Homework Draft**
-{{PH-3: U15-homework-document}}
+{{PH-3: U15-homework-document | rows=10}}
 
 #### Extended Writing Task - Email Style Guide Paragraph
 
@@ -1322,7 +1322,7 @@ Mini content frame:
 Write your paragraph:
 
 **Write Your Paragraph**
-{{PH-2: U15-extended-paragraph}}
+{{PH-2: U15-extended-paragraph | rows=8}}
 
 #### Review & Self-Assessment
 

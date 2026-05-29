@@ -1,4 +1,4 @@
-# MODULE 1. Foundations of Clear Administrative Writing
+﻿# MODULE 1. Foundations of Clear Administrative Writing
 
 ## Module Guide
 
@@ -165,19 +165,19 @@ Rewrite each sentence in a clearer, shorter way.
 
 1. Original: With reference to your email which was sent to our section yesterday afternoon, we are now in the process of checking the details.
    Clear:
-   {{PH-1: U01-C-simplify-1}}
+   {{PH-1: U01-C-simplify-1 | rows=2}}
 
 2. Original: It has been decided by our department that the deadline for submission of the documents will be extended until 30 June.
    Clear:
-   {{PH-1: U01-C-simplify-2}}
+   {{PH-1: U01-C-simplify-2 | rows=2}}
 
 3. Original: Due to the fact that the system is currently under maintenance, it is not possible for us to access your file at this moment in time.
    Clear:
-   {{PH-1: U01-C-simplify-3}}
+   {{PH-1: U01-C-simplify-3 | rows=2}}
 
 4. Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
    Clear:
-   {{PH-1: U01-C-simplify-4}}
+   {{PH-1: U01-C-simplify-4 | rows=2}}
 
 ### D. Guided Practice
 
@@ -185,24 +185,24 @@ Rewrite each sentence so that it is easier to read.
 
 1. We are now in the checking of your application and more time is needed by us.
    ->
-   {{PH-1: U01-D-rewrite-1}}
+   {{PH-1: U01-D-rewrite-1 | rows=2}}
 
 2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
    ->
-   {{PH-1: U01-D-rewrite-2}}
+   {{PH-1: U01-D-rewrite-2 | rows=2}}
 
 3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
    ->
-   {{PH-1: U01-D-rewrite-3}}
+   {{PH-1: U01-D-rewrite-3 | rows=2}}
 
 4. It will be necessary for us to confirm the information with another department before a reply can be given.
    ->
-   {{PH-1: U01-D-rewrite-4}}
+   {{PH-1: U01-D-rewrite-4 | rows=2}}
 
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U01-guided-document}}
+{{PH-3: U01-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -238,7 +238,7 @@ Mini model:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U01-freer-document}}
+{{PH-3: U01-freer-document | rows=6}}
 
 ### F. Review & Self-Assessment
 
@@ -273,24 +273,24 @@ Each sentence below has a common clarity problem. Rewrite it so the reader can u
 
 1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
    ->
-   {{PH-1: U01-G-rewrite-1}}
+   {{PH-1: U01-G-rewrite-1 | rows=2}}
 
 2. It has been explained by the supervisor that a new review step will be necessary for the application.
    ->
-   {{PH-1: U01-G-rewrite-2}}
+   {{PH-1: U01-G-rewrite-2 | rows=2}}
 
 3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
    ->
-   {{PH-1: U01-G-rewrite-3}}
+   {{PH-1: U01-G-rewrite-3 | rows=2}}
 
 4. We are writing for the purpose of asking you to send the correct version of the attached file.
    ->
-   {{PH-1: U01-G-rewrite-4}}
+   {{PH-1: U01-G-rewrite-4 | rows=2}}
 
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U01-editing-rewrite}}
+{{PH-2: U01-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -309,7 +309,7 @@ For each situation:
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U01-transfer-response}}
+{{PH-1: U01-transfer-response | rows=6}}
 
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
@@ -317,7 +317,7 @@ If you do not want to use a real email, use one of the Unit 1 situations or your
 ---
 
 **Homework Draft**
-{{PH-3: U01-homework-document}}
+{{PH-3: U01-homework-document | rows=8}}
 
 ## Unit 2 - Professional Tone Basics
 
@@ -395,19 +395,19 @@ Rewrite the message using a polite request phrase.
 
 1. Send the updated form.
    ->
-   {{PH-1: U02-C-rewrite-1}}
+   {{PH-1: U02-C-rewrite-1 | rows=2}}
 
 2. Tell me the deadline.
    ->
-   {{PH-1: U02-C-rewrite-2}}
+   {{PH-1: U02-C-rewrite-2 | rows=2}}
 
 3. Check the file.
    ->
-   {{PH-1: U02-C-rewrite-3}}
+   {{PH-1: U02-C-rewrite-3 | rows=2}}
 
 4. Give me the information.
    ->
-   {{PH-1: U02-C-rewrite-4}}
+   {{PH-1: U02-C-rewrite-4 | rows=2}}
 
 #### 2. Professional Tone in Explanations
 
@@ -445,19 +445,19 @@ Rewrite each sentence to make it sound more professional.
 
 1. You didn't send the document.
    ->
-   {{PH-1: U02-C-rewrite-5}}
+   {{PH-1: U02-C-rewrite-5 | rows=2}}
 
 2. I can't do this because the system is broken.
    ->
-   {{PH-1: U02-C-rewrite-6}}
+   {{PH-1: U02-C-rewrite-6 | rows=2}}
 
 3. That information is wrong.
    ->
-   {{PH-1: U02-C-rewrite-7}}
+   {{PH-1: U02-C-rewrite-7 | rows=2}}
 
 4. I already told you this yesterday.
    ->
-   {{PH-1: U02-C-rewrite-8}}
+   {{PH-1: U02-C-rewrite-8 | rows=2}}
 
 #### 3. Common Useful Phrases for Professional Emails
 
@@ -511,7 +511,7 @@ Mini contrast:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U02-guided-document}}
+{{PH-3: U02-guided-document | rows=10}}
 
 ### E. Freer Practice
 
@@ -534,7 +534,7 @@ Include:
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U02-freer-document}}
+{{PH-3: U02-freer-document | rows=6}}
 
 ### F. Review & Self-Assessment
 
@@ -568,24 +568,24 @@ Rewrite each line so it keeps the same purpose but sounds more professional.
 
 1. You sent the wrong file again.
    ->
-   {{PH-1: U02-G-rewrite-1}}
+   {{PH-1: U02-G-rewrite-1 | rows=2}}
 
 2. Tell me what happened.
    ->
-   {{PH-1: U02-G-rewrite-2}}
+   {{PH-1: U02-G-rewrite-2 | rows=2}}
 
 3. Why didn't you check this before?
    ->
-   {{PH-1: U02-G-rewrite-3}}
+   {{PH-1: U02-G-rewrite-3 | rows=2}}
 
 4. Send the update today.
    ->
-   {{PH-1: U02-G-rewrite-4}}
+   {{PH-1: U02-G-rewrite-4 | rows=2}}
 
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U02-editing-rewrite}}
+{{PH-2: U02-editing-rewrite | rows=6}}
 
 ### H. Homework & Extension
 
@@ -607,7 +607,7 @@ If you do not want to use a real workplace situation, rewrite one of the Unit 2 
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-1: U02-transfer-response}}
+{{PH-1: U02-transfer-response | rows=8}}
 
 Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
 
@@ -619,7 +619,7 @@ If you do not want to use a real email, use the original draft in this unit or o
 ---
 
 **Homework Draft**
-{{PH-3: U02-homework-document}}
+{{PH-3: U02-homework-document | rows=10}}
 
 ## Unit 3 - Paragraph Structure
 
@@ -826,9 +826,9 @@ Write the best order:
 
 Add one more supporting sentence that continues the explanation without giving instructions:
 ->
-{{PH-1: U03-C-write-1}}
+{{PH-1: U03-C-write-1 | rows=2}}
 ->
-{{PH-1: U03-C-write-2}}
+{{PH-1: U03-C-write-2 | rows=2}}
 
 ### D. Guided Practice
 
@@ -842,7 +842,7 @@ Rewrite this paragraph so it has a clear **topic ->support ->closing** structure
 Use this box for one complete version.
 
 **Write Here**
-{{PH-3: U03-guided-document}}
+{{PH-3: U03-guided-document | rows=8}}
 
 ### E. Freer Practice
 
@@ -857,7 +857,7 @@ C. Your office recently changed one internal rule, and you need to explain the c
 Write your paragraph:
 
 **Write Your Paragraph**
-{{PH-2: U03-freer-paragraph}}
+{{PH-2: U03-freer-paragraph | rows=8}}
 
 ### F. Review & Self-Assessment
 
@@ -897,7 +897,7 @@ The file review started this morning. The office printer will be replaced next w
 Write the full corrected version below.
 
 **Write Your Revised Version**
-{{PH-2: U03-editing-rewrite}}
+{{PH-2: U03-editing-rewrite | rows=8}}
 
 ### H. Homework & Extension
 
@@ -914,14 +914,14 @@ This helps you see the link between sentence control, tone control, and paragrap
 Write one sentence on each line where possible.
 
 **Write Here**
-{{PH-2: U03-transfer-response}}
+{{PH-2: U03-transfer-response | rows=6}}
 
 Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
 
 If you do not want to use a real paragraph, turn one of your Unit 3 paragraph drafts or one earlier Unit 1 or Unit 2 task into a stronger paragraph instead.
 
 **Homework Draft**
-{{PH-2: U03-homework-paragraph}}
+{{PH-2: U03-homework-paragraph | rows=8}}
 
 ## Module 1 Review Workshop
 
