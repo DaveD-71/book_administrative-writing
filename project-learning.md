@@ -998,23 +998,17 @@ Historical note:
 - Last updated: 2026-05-29
 - Source files: `int/md/final/modules/aw-int_mod[1-6].md` (canonical — edit these, not the working file)
 
-1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances). Done.
-2. ✅ Fix `->` student answer lines — 147 instances book-wide. Done.
+1. ✅ Fix `Clear:` lines — add PH-1 marker after each (Unit 1, 4 instances). Committed with module fixes.
+2. ✅ Fix `->` student answer lines — 147 instances book-wide (137 indented + 10 bare). All covered.
 3. ✅ Placeholder size verification — all 320 INT + 127 ADV markers migrated to `{{PH-N: id | rows=R}}` format. Committed `77e6b81` (INT) and `f09c9fc` (ADV).
 4. ✅ Fix checklist formatting — self-check numbered lists and "Your labels" converted to `- [ ]` checkboxes. Committed `0b7b163`.
-5. ⚠️ Fix Focus stem mismatch — PARTIALLY RESOLVED, may need revisiting.
-   - Issue: stem "By the end of this unit, you should be able to:" was mismatched with "I can..." self-assessment items.
-   - Decision discussed: two options were considered — (a) change stem to "I can:" for full first-person consistency, or (b) "I will be able to:" as a learning-objective framing.
-   - What was actually applied: option (b) — "By the end of this unit, I will be able to:" — committed `02f976c`.
-   - Outstanding concern: user noted this decision was not the one reached in conversation. Option (a) "I can:" may have been the preferred resolution. Needs verification with user before finalising.
-6. 🔄 **Div pass 6a — ACTIVE: A. section example divs**
-   - Background: all `:::div` markup was lost in commit `e88e828`. It must be re-established in the canonical module files before the working file is rebuilt.
-   - The weaker/original example and the stronger/revised example are presented in the A. section warm-ups, not in B. Model Check (which is explanatory text referring back to A).
-   - Read A + B together per unit to determine which version is which. Vocabulary varies: Weak/Strong, Poor/Better, Version A/B, Email A/B, Paragraph A/B, Notice A/B, Before/After, Original/Revised, and similar.
-   - Weaker/original version → `:::example-bad` ... `:::` — Stronger/revised version → `:::example-good` ... `:::`
-   - Neutral standalone examples with no quality signal → `:::example`
-   - Do NOT rely on keyword matching — read the content and the B. explanation to determine quality.
-7. **Div pass 6b — E. Freer Practice mini-model divs**
+5. ✅ Fix Focus stem mismatch — "By the end of this unit, you should be able to:" changed to "By the end of this unit, I will be able to:" across all 23 units. Committed `02f976c`.
+   - Decision: future tense ("I will be able to:") was chosen over "I can:" because future tense is more appropriate as a learning objective framing alongside present-tense self-assessment items ("I can..."). This is the final decision — no further change needed.
+6. ✅ Div pass 6a — A. section example divs applied across all 23 units. Committed `4e16797`.
+   - Key finding: block-level examples are in A. sections (warm-ups), not B. Model Check. B. is explanatory text referring back to A.
+   - Vocabulary used in source: Weak/Strong, Version A/B, Email A/B, Paragraph A/B, Notice A/B, Before/After, Inconsistent/Consistent.
+   - Applied: `:::example-bad` (weaker/original), `:::example-good` (stronger/revised), `:::example` (neutral standalone).
+7. 🔄 **Div pass 6b — NEXT: E. Freer Practice mini-model divs**
    - Any block labelled "Mini model", "Mini Example", "Mini contrast", or showing a sample response in an E. section → `:::example` ... `:::`
    - Work through all 23 units.
 8. **Div pass 6c — Full semantic div classification of ALL remaining untagged content (CRITICAL — do not skip)**
@@ -1029,29 +1023,21 @@ Historical note:
      - `:::rewrite` — sentence-level rewrite task (transforming existing text)
      - `:::revise` — paragraph or document-level revision task
      - `:::edit` — find-and-fix error correction task
-   - Approach: work unit by unit, section by section. Read the full block before classifying. When in doubt between two classes, choose the one that best describes the primary cognitive demand on the student.
-7. Fix "Why this works" sections — convert bullet lists to flowing prose
-   - Currently these sections have bullet-point explanations.
-   - They should be 2–3 sentence prose paragraphs, not lists.
-   - Rewrite each one across all units.
-8. Fix original email formatting in D. Guided Practice
-   - Some original emails are formatted as a single run-on line with no paragraph breaks.
-   - Add proper blank-line paragraph breaks within the quoted email text so it reads as a structured email.
-9. Fix Unit 3 C.1 model paragraph
-   - The model paragraph uses inline labels ("Topic sentence:", "Supporting sentence 1:", etc.) on the same line as the text.
-   - Restructure so it is a clean example paragraph without inline labels, or present it as a properly labelled table/diagram.
-10. Mod6 A-H heading standardization
-    - Commit `e88e828` standardised A-H headings in mods 1–5 but explicitly excluded mod6 (capstone units 19–23).
-    - Mod6 needs manual review — its structure is more complex (integrated tasks, multi-document layouts) so headings may need different treatment than a straight find-replace.
-11. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline. Do this after all content fixes above are complete. See `adv/README-build.md` for the canonical build command.
-12. Rebuild INT DOCX and PDF. See `adv/README-build.md`.
-13. P6 — PH marker → response box conversion (final print-layout step). Run `postprocess_docx.py` via the textmaker pipeline; verify all `{{PH-N: id | rows=R}}` markers produce correctly sized Word tables.
-14. INT answer key sign-off — review and formally close P3.
+   - Approach: work unit by unit, section by section. Read the full block before classifying. When in doubt, choose the class that best describes the primary cognitive demand on the student.
+9. Fix "Why this works" sections — convert bullet lists to flowing prose (2–3 sentences per section, across all units).
+10. Fix original email formatting in D. Guided Practice — add proper blank-line paragraph breaks inside quoted emails that are currently single run-on lines.
+11. Fix Unit 3 C.1 model paragraph — remove or restructure inline T/S/C labels ("Topic sentence:", etc.) from the example paragraph.
+12. Mod6 A-H heading standardization — capstone units 19–23 manual review. Commit `e88e828` normalised mods 1–5 but excluded mod6 due to its more complex integrated-task structure.
+13. Rebuild working file — regenerate `aw-int-all_0519.md` from module files + full stage 7A pipeline. Do this after all content fixes (items 6–12) are complete. See `adv/README-build.md` for the canonical build command.
+14. Rebuild INT DOCX and PDF. See `adv/README-build.md`.
+15. P6 — PH marker → response box conversion (final print-layout step). Run `postprocess_docx.py` via the textmaker pipeline; verify all `{{PH-N: id | rows=R}}` markers produce correctly sized Word tables.
+16. INT answer key sign-off — review and formally close P3.
 
-**ADV book parallel tasks (same treatment required):**
-- A. ADV placeholder migration — migrate 127 `{{PH-N: id}}` markers in `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` to `{{PH-N: id | rows=R}}` format using the same row-count benchmarks as INT task 3.
-- B. ADV working file sync check — verify `adv/md/working/aw-adv-all_0516.md` is in sync with the module files before using it as an editing base.
-- C. ADV DOCX and PDF rebuild after placeholder migration. See `adv/README-build.md` for the canonical build command.
+**ADV book parallel tasks:**
+- A. ✅ ADV placeholder migration — 127 markers migrated to `rows=R` format. Committed `f09c9fc`.
+- B. ADV working file sync check — verify `adv/md/working/aw-adv-all_0516.md` is in sync with `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md` before using as editing base.
+- C. ADV div classification pass — same 6a/6b/6c treatment as INT, applied to `adv/md/edits/modules/`.
+- D. ADV DOCX and PDF rebuild. See `adv/README-build.md`.
 
 ## 2026-05-29 - Preferred Editing Workflow: All File First, Then Sync To Modules
 
