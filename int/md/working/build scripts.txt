@@ -1,0 +1,12 @@
+textmaker.cmd markdown-to-docx `
+  --input int\md\working\aw-int-all_0519.md `
+  --reference adv\md\working\aw-adv-styleref.docx `
+  --lua-filter ..\textmaker\scripts\style_bridge.lua `
+  --output int\md\working\aw-int-all_0530.docx `
+  --no-pagebreak-filter `
+  --apply-semantic-labels `
+  --tag-style outline
+
+textmaker.cmd docx-to-pdf `
+  --input  "C:\Dev\Code\book_administrative-writing\int\md\working\aw-int-all_0530.docx" `
+  --output "C:\Dev\Code\book_administrative-writing\int\md\working\aw-int-all_0530.pdf"
