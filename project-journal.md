@@ -1924,6 +1924,74 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Sub-types `PH-1a` (1 row), `PH-1b` (2 rows), `PH-1c` (3 rows) added to `PH_ROWS` as fallback defaults for markers without an explicit `rows=` parameter
 - Status: script updated. **Marker migration in source files (INT 320 markers, ADV 127 markers) is NOT yet done — next session task.**
 
+
+## 2026-05-30T00:00:00+00:00 - INT Print-Readiness Repair Plan Created
+
+- Scope: Intermediate working manuscript / full-review repair planning.
+- Trigger: user identified significant remaining textbook issues in `int/md/working/aw-int-all_0519.md` and asked for a writing-course-teacher review plus a clear implementation plan.
+- Actions:
+  - read project memory and current INT guide-set files;
+  - checked git status/remotes/fetch state;
+  - inspected recent edits to `int/md/working/aw-int-all_0519.md`;
+  - ran lightweight heading, div, placeholder, and visible-marker audits;
+  - created `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`.
+- Findings: earlier project state that treated INT as stable is now superseded for the working manuscript by the reopened print-readiness repair. The next practical step is a Unit 1 pilot repair, followed by Units 2-4 and then the rest of the book.
+
+## 2026-05-31T00:00:00+00:00 - INT Repair Plan Revised For Whole-Book Sampling
+
+- Scope: Intermediate print-readiness repair plan.
+- Trigger: user clarified that the first few manually edited units are not representative of the whole manuscript and that any plan or implementation focused only on those units would be insufficient.
+- Action: revised `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md` to require representative cross-book sampling before applying a reusable standard, stated that Unit 1 is only a pilot area, and added `int/edits & guides/full-review/print-readiness-audits/representative_reading_notes_0531.md`.
+- Outcome: the plan now explicitly requires coverage of all 23 units and all 6 module review workshops, with special attention to later module families and capstone units that differ from the manually edited opening units.
+
+## 2026-05-31T00:00:00+00:00 - INT Repair Plan Updated For Intermediate Learner Readability
+
+- Scope: Intermediate print-readiness repair plan and representative-reading note.
+- Trigger: user clarified that the textbook is for intermediate-level students and that student-facing instructional information should avoid advanced grammar, vocabulary, and idiomatic phrasing.
+- Action: added an explicit intermediate-level student-facing language standard to the repair plan, added readability checks to the unit checklist and definition of done, and added a representative-reading guardrail for later modules.
+- Outcome: future INT repair work must separate teacher/LLM-facing planning language from student-facing textbook language and rewrite instructions in clear intermediate-level English.
+
+## 2026-05-31T00:00:00+00:00 - INT Working Manuscript Structural Repair Pass Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`.
+- Trigger: user approved the repair plan and instructed implementation rather than additional analysis documents.
+- Actions: normalized visible unit activity headings to `A-H` across all 23 units; demoted duplicate primer/reflection/homework/extended-task headings; removed generic response labels; cleaned excessive blank lines; normalized module review heading capitalization; removed nested div fences; balanced div markers; removed visible `->` prompt notation; fixed duplicate placeholder IDs and row-count outliers.
+- Verification: local audits now report 23 units with `ABCDEFGH` sequences, 0 duplicate lettered H4 headings, 0 generic `Write Here` labels, 0 `Use this box` labels, 0 lowercase module headings, 0 visible `->` prompts, balanced div counts, no nested div opens, unique placeholder IDs, and no mojibake in the working manuscript.
+
+## 2026-05-31T00:00:00+00:00 - INT Repair Recheck Completed Against Approved Plan
+
+- Scope: `int/md/working/aw-int-all_0519.md`.
+- Trigger: user requested checking the implementation against the approved plan and completing any missing work.
+- Actions: audited the manuscript against the plan's structural, div-boundary, placeholder, generic-label, heading-sequence, arrow-notation, blank-line, and row-count requirements; found that response placeholders were still floating outside activity divs; moved or wrapped response spaces into semantic activity divs and simplified one generic `Response` wrapper label.
+- Verification: the manuscript now reports 23 units with `ABCDEFGH` sequences, no duplicate lettered H4 headings, no generic `Write Here` / `Use this box` labels, no visible `->` prompts, no double blank lines, no extra horizontal rules, balanced divs, no nested divs, no placeholders outside divs, unique placeholder IDs, no row-count outliers, and no mojibake.
+
+## 2026-05-31T00:00:00+00:00 - INT Phase 3 Student-Facing Instruction Pass Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`.
+- Trigger: user rejected the prior work as mostly easy regex cleanup and requested full Phase 3 implementation.
+- Actions: revised recurring student-facing instruction issues across all modules, including learner-facing title replacements for `Teaching Point`, simpler wording for later-module abstract terms, clearer audience/reader language, removal of repeated `Write your...` clauses from several multi-step prompts, and simplification of Unit 22/23 capstone wording.
+- Verification: structural and placeholder audits still pass after the content edits: 23 `ABCDEFGH` unit sequences, balanced divs, no nested divs, no placeholders outside divs, unique placeholder IDs, no generic response labels, no visible arrows, no row-count outliers, and no mojibake.
+
+## 2026-05-31T00:00:00+00:00 - INT Phase 3 Recheck Added Spoiler And Missing-Prose Controls
+
+- Scope: `int/md/working/aw-int-all_0519.md`.
+- Trigger: user asked where the plan addressed instruction reorganization, immediate answer/model spoilers, and missing prose after headers.
+- Actions: checked the manuscript against those three Phase 3 concerns; moved a floating Unit 4 explanatory sentence into the correct language div; simplified additional student-facing wording in model/task instructions and Unit 23 review-table language; updated the repair plan so instruction order, spoiler/model placement, and missing-prose checks are explicit; verified no empty/title-only divs remain.
+- Verification: structural, placeholder, div-boundary, empty-div, and mojibake audits pass after the recheck.
+
+## 2026-05-31T00:00:00+00:00 - INT Repair Plan Mapped To Original Request
+
+- Scope: `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`.
+- Trigger: user asked whether every item in the original request had been clearly addressed in the repair plan.
+- Actions: added an explicit original-request coverage table to the plan; tightened the formatting checklist for excessive list use and redundant title stacks; added a suggested heuristic audit for title/header stacks and title-to-placeholder jumps.
+- Verification: markdown diff and whitespace checks passed after the plan update.
+
+## 2026-05-31T00:00:00+00:00 - INT Original Request Coverage Check Applied To Manuscript
+
+- Scope: `int/md/working/aw-int-all_0519.md`.
+- Trigger: user requested doing the original-request coverage check in full rather than creating another task.
+- Actions: checked the manuscript against the original request categories; removed redundant standalone response labels such as `Write Your...`, removed direct `Write your...` labels immediately before placeholders, clarified vague references to previous/earlier work with unit ranges or a named activity, and changed the remaining `Analyse` heading to `Analyze`.
+- Verification: coverage-oriented audit passed for 23 unit sequences, no duplicate lettered H4 headings, no generic response labels, no visible arrows, no `Write Your` title labels, no vague previous-unit references, no row-count outliers, unique placeholders with rows, balanced/non-nested/non-empty divs, and no placeholders outside divs; mojibake and whitespace checks also passed.
 **Placeholder asset files (adv/edits & guides/style edits/assets/response placeholders/):**
 - PNG image assets for PH-1 through PH-5 are now obsolete — Word table generation supersedes them.
 - 4 ChatGPT-generated 1/2/3/4-line ruled images were renamed from `ChatGPT Image May 18...` to the standard `4.0.x_PH-1[a-d]_*-line-response-area.png` naming convention.

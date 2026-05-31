@@ -1146,6 +1146,79 @@ Rules:
 - Blank line after closing `:::` before the next element — this prevents the following text from being pulled into the div style.
 - Nested divs are allowed: inner div closes with `:::`, then outer div closes with `:::` on the next line.
 
+
+### 2026-05-30T00:00:00+00:00 - INT Working Manuscript Requires Reopened Print-Readiness Repair
+
+- Status: `open`
+- Scope: project/state
+- Context: teacher-facing review of `int/md/working/aw-int-all_0519.md` after user-reported manual edits and frustration with prior automated passes.
+- Observation: the current working combined manuscript is not print-ready despite earlier control documents marking INT full review complete. Confirmed blockers include misordered and duplicated visible A-H activity headings, lingering `#### A-H` headings in Module 6, an imbalanced fenced-div count, generic/redundant response labels, excessive blank-line runs, placeholder row-count outliers, and activity instructions that often blur model/input/task/answer-space boundaries.
+- Decision: treat `int/md/working/aw-int-all_0519.md` as the immediate active editing surface for the reopened repair unless the user explicitly redirects work back to the canonical module files. Do not regenerate it from modules during the repair.
+- Preferred behavior: implement the repair unit-by-unit from the new plan at `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`; use scripts for audits and detection, not broad blind rewrites.
+
+### 2026-05-31T00:00:00+00:00 - INT Repair Plan Must Not Treat Opening Units As Representative
+
+- Status: `open`
+- Scope: project/conventions
+- Context: user clarification after the initial print-readiness repair plan: the first few units of `int/md/working/aw-int-all_0519.md` were manually edited and are not representative of the whole book.
+- Decision: before implementing a reusable repair standard, read and note a representative cross-book sample covering later routine email, internal document, external/explanation, editing, capstone, and module review sections. Unit 1 may be used only as a pilot for the method, not as proof that the whole book shares the same problems or solution. The first representative note is `int/edits & guides/full-review/print-readiness-audits/representative_reading_notes_0531.md`.
+- Preferred behavior: never limit the INT print-readiness repair to Units 1-4; apply the final repair to all 23 units and all 6 module review workshops after whole-book sampling.
+
+### 2026-05-31T00:00:00+00:00 - INT Student-Facing Text Must Stay Intermediate-Level
+
+- Status: `open`
+- Scope: project/conventions
+- Context: user clarification during INT print-readiness planning: the book is for intermediate-level English learners, so instructional language must show awareness of their comprehension level.
+- Decision: all student-facing instructions, examples, reminders, and checklists in the INT manuscript should use clear intermediate-level English, with short direct sentences, common vocabulary, limited embedding, no unnecessary idioms, and no editor-facing audit terminology.
+- Preferred behavior: when repairing INT units, distinguish teacher/LLM-facing planning language from student-facing textbook language. Do not copy advanced terms from repair plans into the student book; rewrite instructions so learners can understand exactly what to do.
+
+### 2026-05-31T00:00:00+00:00 - INT Working Manuscript Structural Repair Pass Applied
+
+- Status: `active`
+- Scope: project/state
+- Context: implementation of the approved INT print-readiness repair plan on `int/md/working/aw-int-all_0519.md`.
+- Observation: the first implementation pass normalized all 23 unit heading sequences to visible `A-H`, removed duplicate visible `#### A-H` letter headings, removed generic `Write Here` / `Use this box` labels, balanced fenced divs, removed nested fenced divs, eliminated `->` prompt notation, fixed duplicate placeholder IDs, and corrected placeholder row-count outliers.
+- Preferred behavior: continue implementation from the repaired working manuscript; do not recreate the previous duplicated/misordered heading structure or generic response-label layer.
+
+### 2026-05-31T00:00:00+00:00 - INT Structural Repair Recheck Closed Placeholder-Div Gap
+
+- Status: `active`
+- Scope: project/state
+- Context: recheck of the implemented INT print-readiness repair against the approved plan.
+- Observation: the first structural implementation pass still left many response placeholders outside their activity divs, which did not satisfy the plan's activity-boundary rule. A follow-up implementation moved or wrapped response spaces so every `{{PH-*}}` marker in `int/md/working/aw-int-all_0519.md` now sits inside a fenced activity div.
+- Preferred behavior: keep future INT edits from reintroducing floating response placeholders; response spaces should remain inside their relevant semantic activity div unless a specific production-pipeline exception is documented.
+
+### 2026-05-31T00:00:00+00:00 - INT Phase 3 Student-Facing Instruction Pass Applied
+
+- Status: `active`
+- Scope: project/state
+- Context: user clarified that the previous implementation was mostly easy structural cleanup and requested full Phase 3 implementation.
+- Observation: a follow-up pass revised recurring student-facing instruction problems across the working manuscript: teacher-facing `Teaching Point` labels were replaced with learner-facing titles, advanced or idiomatic wording such as `carry-forward`, `standardise`, `horizontal/internal`, and `vertical/internal` was simplified, repeated `Write your...` clauses were removed from multi-step instructions where they duplicated response labels, and several later-module prompts were rewritten to use clearer intermediate-level wording.
+- Preferred behavior: continue Phase 3 from this manuscript state by doing more per-unit content judgement rather than broad structural regex cleanup; preserve the simpler learner-facing wording introduced in this pass.
+
+### 2026-05-31T00:00:00+00:00 - INT Phase 3 Recheck Added Spoiler And Missing-Prose Controls
+
+- Status: `active`
+- Scope: project/state
+- Context: user asked where the approved plan handled instruction reorganization, answer/model spoilers, and missing prose after headers.
+- Observation: the plan already named these issues in its principles and checklist, but the implementation needed a more direct check. The follow-up pass audited empty div/header-like content, checked model/spoiler language, moved an orphan Unit 4 prose sentence into the relevant language div, simplified additional student-facing wording around models and portfolio review language, and updated the repair plan so these controls are explicit.
+- Preferred behavior: future Phase 3 work should explicitly check each activity for information order, spoiler/model placement, and enough prose after titles or headers before treating structural audits as sufficient.
+
+### 2026-05-31T00:00:00+00:00 - INT Repair Plan Mapped To Original User Issue List
+
+- Status: `active`
+- Scope: project/state
+- Context: user asked to return to the original request and verify every listed issue was clearly addressed in the repair plan.
+- Observation: the repair plan now includes an explicit original-request coverage table that maps each user-named issue to plan sections and required repair actions, including instruction clarity/order, insufficient references, spoiler models, goal alignment, A-H order, list use, paragraphing, div classes, proofreading, placeholder sizing/redundancy, redundant titles, and missing prose after headers.
+- Preferred behavior: before implementing or approving future INT print-readiness work, check the plan's original-request coverage table instead of relying only on structural audit results.
+
+### 2026-05-31T00:00:00+00:00 - INT Original Request Coverage Check Applied To Manuscript
+
+- Status: `active`
+- Scope: project/state
+- Context: user asked to perform the original-request coverage check in full, not create another task.
+- Observation: the manuscript pass removed redundant `Write Your...` and direct `Write your...` response labels, clarified vague prior-work references by naming unit ranges or source activities, changed the remaining `Analyse` heading to `Analyze`, and reran structural/placeholder/div/readability-pattern audits against the original issue categories.
+- Preferred behavior: future INT coverage checks should result in manuscript edits where the check finds redundant labels, vague source references, or title/prose problems; do not stop at adding checklist text to the plan.
 **Classification key** (from `div_reclassification_review_0516.md`):
 - `learn` — teaching input, explanations, principles, "Why this works", before-you-write reminders
 - `language` — grammar patterns, phrase banks, vocabulary lists presented for **reference only** (no task attached). If task is attached → reclassify.
