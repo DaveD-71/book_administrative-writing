@@ -96,3 +96,19 @@ timestamp_iso,workspace_root,scope,file_path,reason
 "2026-05-29T10:01:36.0444012+09:00","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing","repo","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\user-learning-mirror.md","startup read: repo user mirror"
 "2026-05-29T10:01:36.0444012+09:00","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing","repo","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\project-learning.md","startup read: repo project memory"
 "2026-05-29T10:01:36.0444012+09:00","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing","repo","\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\project-journal.md","startup read: repo recent journal"
+2026-05-30T23:51:27.277873+00:00,/workspace/book_administrative-writing,user,/root/.codex/AGENTS.md,startup bootstrap copy/read
+2026-05-30T23:51:27.277996+00:00,/workspace/book_administrative-writing,project,/workspace/book_administrative-writing/AGENTS.md,startup instruction read
+2026-05-30T23:51:27.278010+00:00,/workspace/book_administrative-writing,user,/root/.codex/memories/user-learning.md,startup memory copy/read
+2026-05-30T23:51:27.278017+00:00,/workspace/book_administrative-writing,project,/workspace/book_administrative-writing/user-learning-mirror.md,startup project memory read
+2026-05-30T23:51:27.278024+00:00,/workspace/book_administrative-writing,project,/workspace/book_administrative-writing/project-learning.md,startup project memory read
+2026-05-30T23:51:27.278031+00:00,/workspace/book_administrative-writing,project,/workspace/book_administrative-writing/project-journal.md,startup recent journal read
+2026-05-31T06:40:34.709955+00:00,/workspace/book_administrative-writing,project,AGENTS.md,startup instruction read
+2026-05-31T06:40:34.709955+00:00,/workspace/book_administrative-writing,project,user-learning-mirror.md,startup memory read
+2026-05-31T06:40:34.709955+00:00,/workspace/book_administrative-writing,project,project-learning.md,startup project memory read
+2026-05-31T06:40:34.709955+00:00,/workspace/book_administrative-writing,project,project-journal.md,startup project journal read
+2026-05-31T09:18:04.092146+00:00,/workspace/book_administrative-writing,project,AGENTS.md,startup instruction read
+2026-05-31T09:18:04.092146+00:00,/workspace/book_administrative-writing,project,project-learning.md,startup project memory read
+2026-05-31T09:18:04.092146+00:00,/workspace/book_administrative-writing,project,project-journal.md,startup project journal read
+2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,AGENTS.md,startup instruction read
+2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,project-learning.md,startup project memory read
+2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,project-journal.md,startup project journal read
