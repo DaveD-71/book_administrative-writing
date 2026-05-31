@@ -112,3 +112,6 @@ timestamp_iso,workspace_root,scope,file_path,reason
 2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,AGENTS.md,startup instruction read
 2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,project-learning.md,startup project memory read
 2026-05-31T09:34:39.108552+00:00,/workspace/book_administrative-writing,project,project-journal.md,startup project journal read
+2026-05-31T19:30:31.7310669+09:00,C:\Dev\Code\book_administrative-writing,repo-agents,C:\Dev\Code\book_administrative-writing\AGENTS.md,PDF inspection context read
+2026-05-31T19:30:31.7310669+09:00,C:\Dev\Code\book_administrative-writing,repo-memory,C:\Dev\Code\book_administrative-writing\project-learning.md,PDF inspection context read
+2026-05-31T19:30:31.7310669+09:00,C:\Dev\Code\book_administrative-writing,repo-memory,C:\Dev\Code\book_administrative-writing\project-journal.md,PDF inspection context read

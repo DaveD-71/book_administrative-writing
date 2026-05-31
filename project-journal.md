@@ -2019,3 +2019,23 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - INT source: `int/md/final/modules/aw-int_mod[1-6].md`
 - ADV source: `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`
 - Pipeline script: `../textmaker/scripts/postprocess_docx.py` (`apply_response_placeholders` function)
+
+## 2026-05-31T19:31:01+09:00 - INT Module 1 PDF Visual Inspection Completed
+
+- Scope: int/md/working/aw-int-all_0530.pdf, PDF pages 1-33 / printed p.1-p.33.
+- Trigger: user requested visual inspection of the first module and a list of visible page-layout problems.
+- Action: rendered Module 1 pages to PNG via Poppler and inspected contact sheets plus detailed page renders for problem pages.
+- Outcome: identified recurring pagination/running-header issues, including misleading even-page headers, orphaned continuation lines, section starts near page bottoms, response areas split from prompts, boxed content split across pages, and an almost-empty trailing page.
+
+## 2026-05-31T19:43:55+09:00 - INT Module 2 PDF Visual Inspection Completed
+
+- Scope: int/md/working/aw-int-all_0530.pdf, PDF pages 34-84 / printed p.34-p.84.
+- Trigger: user requested visual assessment of Module 2 after the Module 1 layout review.
+- Action: rendered Module 2 pages to PNG via Poppler and inspected contact sheets plus detailed page renders for likely problem pages.
+- Outcome: found repeated pagination and running-header issues, exposed markdown/table syntax on Unit 7 language content, split examples and response areas, and an almost-empty end page for the module.
+
+## 2026-05-31T21:26:31+09:00 - INT Module 2 PDF Layout Follow-Up Summary Created
+
+- Scope: Module 2 PDF layout follow-up for int/md/working/aw-int-all_0530.pdf.
+- Action: created int/edits & guides/full-review/print-readiness-audits/module2_pdf_layout_followup_0531.md with categorized issues and suggested fix order.
+- Outcome: Module 2 layout defects are now grouped for follow-up action, including running headers, raw pipe-table rendering, split examples, orphaned headings, split response areas, split structured blocks, and sparse final page balance.
