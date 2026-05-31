@@ -1,0 +1,38 @@
+unit,title,line,text
+3,Paragraph Structure,762,1. Explaining the background ->Asking for an action
+3,Paragraph Structure,763,2. Describing an issue ->Giving details ->Explaining next steps
+3,Paragraph Structure,764,3. Summarising a problem ->Reporting what you did ->What will happen next
+3,Paragraph Structure,870,- Background ->Details ->Result
+3,Paragraph Structure,871,- Topic ->Explanation ->Action
+3,Paragraph Structure,872,- Issue ->Impact ->What happens next
+3,Paragraph Structure,948,"Rewrite this paragraph so it has a clear **topic ->support ->closing** structure. Expand it to **5-6 sentences**, and make sure it reads like part of a larger report or document- not a complete message."
+11,Writing Simple Meeting Summaries,5015,| Procedure | follow steps | sequence -> check -> result | the action that starts the task |
+11,Writing Simple Meeting Summaries,5016,| Notice | react to a change | change -> reason -> action | the changed fact |
+11,Writing Simple Meeting Summaries,5017,| Problem explanation | understand disruption | problem -> cause -> effect -> current response | the main problem |
+11,Writing Simple Meeting Summaries,5018,| Meeting summary | continue later work | purpose -> main points -> decision -> next step | the meeting purpose |
+13,Providing Simple Explanations,5727,background -> reason -> effect
+15,Maintaining Consistent Email Style,7024,- blame language -> calm clarification
+15,Maintaining Consistent Email Style,7025,- vague warning -> specific explanation
+15,Maintaining Consistent Email Style,7026,- heavy background -> only the background the reader needs
+15,Maintaining Consistent Email Style,7027,- abrupt request -> clear action with reason
+17,Editing for Clarity,7510,**Example (Before -> After)**
+17,Editing for Clarity,7587,- The reason is because ->The reason is
+17,Editing for Clarity,7588,- Due to the fact that ->Because
+17,Editing for Clarity,7639,- Background ->Main point ->Detail
+17,Editing for Clarity,7640,- Issue ->Cause ->Effect
+17,Editing for Clarity,7641,- Topic ->Explanation ->Closing idea
+18,Editing for Tone,7877,**Example (Before -> After)**
+18,Editing for Tone,7948,**Direct ->Polite**
+18,Editing for Tone,7951,->
+18,Editing for Tone,7954,->
+18,Editing for Tone,7957,->
+18,Editing for Tone,8408,| several problems appear together | accuracy -> clarity -> tone | later passes work better after the earlier control problem is fixed |
+19,Integrated Task 1: Combined Email + Internal Explanation,8581,**External Office ->Make it polite**
+19,Integrated Task 1: Combined Email + Internal Explanation,8587,**Internal Team ->Make it neutral and concise**
+19,Integrated Task 1: Combined Email + Internal Explanation,8593,**External Office ->Make it complete and professional**
+19,Integrated Task 1: Combined Email + Internal Explanation,8599,**Internal Team ->Make it clear and factual**
+19,Integrated Task 1: Combined Email + Internal Explanation,8841,"Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external)."
+20,Integrated Task 2: Revision + Notice Writing,8973,**External Office ->Make it polite and clear**
+20,Integrated Task 2: Revision + Notice Writing,8979,**Internal Team ->Make it neutral and concise**
+20,Integrated Task 2: Revision + Notice Writing,8985,**External Office ->Make it complete**
+20,Integrated Task 2: Revision + Notice Writing,8991,**Internal Team ->Make it professional**

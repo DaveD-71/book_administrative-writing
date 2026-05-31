@@ -112,4 +112,4 @@ Before large-scale implementation, create the remaining machine-readable invento
 - arrow / spacing audit
 - module review heading capitalization audit
 
-This note satisfies the representative-reading requirement only at the planning level. It does not replace the detailed per-unit repair pass.
+Status update, 2026-05-31: the Phase 1 inventory files have now been generated in this folder with the `phase1_` prefix, and `phase1_audit_summary.md` records the current counts. This note satisfies the representative-reading requirement only at the planning level. It does not replace the detailed per-unit repair pass.

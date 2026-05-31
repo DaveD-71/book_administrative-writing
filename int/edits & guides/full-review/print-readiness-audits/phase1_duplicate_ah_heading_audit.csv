@@ -1,0 +1,63 @@
+unit,title,letter,count,instances
+2,Professional Tone Basics,F,2,L570: F. Self-Check Before Freer Practice | L672: F. Reflection
+2,Professional Tone Basics,H,2,L644: H. Transfer Extension | L692: H. Homework
+3,Paragraph Structure,A,3,L722: A. What Is a Paragraph? | L748: A. When Should You Start a New Paragraph? | L767: A. Warm-Up
+3,Paragraph Structure,F,2,L960: F. Self-Check Before Freer Practice | L1043: F. Reflection
+3,Paragraph Structure,H,2,L1020: H. Transfer Extension | L1066: H. Homework
+4,Email Layout and Standard Phrases,A,2,L1293: A. What Does a Professional Email Look Like? | L1310: A. Warm-Up
+4,Email Layout and Standard Phrases,F,2,L1557: F. Self-Check Before Freer Practice | L1659: F. Reflection
+4,Email Layout and Standard Phrases,H,2,L1633: H. Transfer Extension | L1670: H. Homework
+5,Requesting Clarification,D,2,L1909: D. Extended Guided Practice | L1939: D. Guided Practice
+5,Requesting Clarification,E,2,L1978: E. Freer Practice | L2059: E. Extended Writing Task
+5,Requesting Clarification,F,2,L1965: F. Self-Check Before Freer Practice | L2098: F. Reflection
+5,Requesting Clarification,H,2,L2036: H. Transfer Extension | L2109: H. Homework
+6,Communicating Delays or Changes,E,2,L2381: E. Freer Practice | L2471: E. Extended Writing Task
+6,Communicating Delays or Changes,F,2,L2368: F. Self-Check Before Freer Practice | L2493: F. Reflection
+6,Communicating Delays or Changes,H,2,L2450: H. Transfer Extension | L2504: H. Homework
+7,Making Requests Politely,E,2,L2832: E. Freer Practice | L2930: E. Extended Writing Task
+7,Making Requests Politely,F,2,L2819: F. Self-Check Before Freer Practice | L2952: F. Reflection
+7,Making Requests Politely,H,2,L2903: H. Transfer Extension | L2963: H. Homework
+8,Writing Simple Procedures,A,2,L3280: A. What Is a Procedure? | L3306: A. Warm-Up
+8,Writing Simple Procedures,E,2,L3524: E. Freer Practice | L3570: E. Extended Writing Task
+8,Writing Simple Procedures,F,2,L3511: F. Self-Check Before Freer Practice | L3655: F. Reflection
+8,Writing Simple Procedures,H,2,L3630: H. Transfer Extension | L3666: H. Homework
+9,Internal Notices,A,2,L3694: A. What Is an Internal Notice? | L3715: A. Warm-Up
+9,Internal Notices,E,3,L3921: E. Freer Practice | L3953: E. Notice Control Board | L4037: E. Extended Writing Task
+9,Internal Notices,F,2,L3908: F. Self-Check Before Freer Practice | L4072: F. Reflection
+9,Internal Notices,H,2,L4014: H. Transfer Extension | L4083: H. Homework
+10,Explaining Problems Clearly,A,2,L4111: A. What Makes a Clear Problem Explanation? | L4127: A. Warm-Up
+10,Explaining Problems Clearly,E,3,L4341: E. Problem-Logic Planning Grid | L4359: E. Freer Practice | L4437: E. Extended Writing Task
+10,Explaining Problems Clearly,F,2,L4328: F. Self-Check Before Freer Practice | L4459: F. Reflection
+10,Explaining Problems Clearly,H,2,L4415: H. Transfer Extension | L4470: H. Homework
+11,Writing Simple Meeting Summaries,A,2,L4498: A. What Is a Meeting Summary? | L4518: A. Warm-Up
+11,Writing Simple Meeting Summaries,E,3,L4676: E. Summary Action Check | L4693: E. Freer Practice | L4768: E. Extended Writing Task
+11,Writing Simple Meeting Summaries,F,2,L4663: F. Self-Check Before Freer Practice | L4806: F. Reflection
+11,Writing Simple Meeting Summaries,H,2,L4749: H. Transfer Extension | L4817: H. Homework
+12,Writing Simple External Inquiries,A,2,L5201: A. What Is an External Inquiry? | L5224: A. Warm-Up
+12,Writing Simple External Inquiries,E,2,L5460: E. Freer Practice | L5535: E. Extended Writing Task
+12,Writing Simple External Inquiries,F,2,L5441: F. Self-Check Before Freer Practice | L5574: F. Reflection
+12,Writing Simple External Inquiries,H,2,L5514: H. Transfer Extension | L5585: H. Homework
+13,Providing Simple Explanations,A,2,L5613: A. What Is a Simple Explanation? | L5633: A. Warm-Up
+13,Providing Simple Explanations,E,2,L5857: E. Freer Practice | L5933: E. Extended Writing Task
+13,Providing Simple Explanations,F,2,L5844: F. Self-Check Before Freer Practice | L5970: F. Reflection
+13,Providing Simple Explanations,H,2,L5913: H. Transfer Extension | L5981: H. Homework
+14,Responding to Confusion,A,2,L6009: A. What Does It Mean to Respond to Confusion? | L6028: A. Warm-Up
+14,Responding to Confusion,E,2,L6222: E. Freer Practice | L6297: E. Extended Writing Task
+14,Responding to Confusion,F,2,L6209: F. Self-Check Before Freer Practice | L6334: F. Reflection
+14,Responding to Confusion,H,2,L6278: H. Transfer Extension | L6345: H. Homework
+15,Maintaining Consistent Email Style,A,2,L6373: A. What Is Email Consistency? | L6408: A. Warm-Up
+15,Maintaining Consistent Email Style,E,2,L6631: E. Freer Practice | L6709: E. Extended Writing Task
+15,Maintaining Consistent Email Style,F,2,L6618: F. Self-Check Before Freer Practice | L6737: F. Reflection
+15,Maintaining Consistent Email Style,H,2,L6686: H. Transfer Extension | L6748: H. Homework
+16,Editing for Accuracy,A,2,L7126: A. What Does `Accuracy`Mean in Writing? | L7143: A. Warm-Up
+16,Editing for Accuracy,E,2,L7361: E. Freer Practice | L7414: E. Extended Writing Task
+16,Editing for Accuracy,F,2,L7348: F. Self-Check Before Freer Practice | L7459: F. Reflection
+16,Editing for Accuracy,H,2,L7437: H. Transfer Extension | L7470: H. Homework
+17,Editing for Clarity,A,2,L7498: A. What Does `Clarity` Mean in Writing? | L7516: A. Warm-Up
+17,Editing for Clarity,E,2,L7721: E. Freer Practice | L7798: E. Extended Writing Task
+17,Editing for Clarity,F,2,L7708: F. Self-Check Before Freer Practice | L7821: F. Reflection
+17,Editing for Clarity,H,2,L7777: H. Transfer Extension | L7832: H. Homework
+18,Editing for Tone,A,2,L7858: A. What Is `Tone` in Writing? | L7883: A. Warm-Up
+18,Editing for Tone,E,2,L8103: E. Freer Practice | L8182: E. Extended Writing Task
+18,Editing for Tone,F,2,L8090: F. Self-Check Before Freer Practice | L8205: F. Reflection
+18,Editing for Tone,H,2,L8159: H. Transfer Extension | L8216: H. Homework

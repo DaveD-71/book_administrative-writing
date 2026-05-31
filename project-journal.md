@@ -2039,3 +2039,65 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Scope: Module 2 PDF layout follow-up for int/md/working/aw-int-all_0530.pdf.
 - Action: created int/edits & guides/full-review/print-readiness-audits/module2_pdf_layout_followup_0531.md with categorized issues and suggested fix order.
 - Outcome: Module 2 layout defects are now grouped for follow-up action, including running headers, raw pipe-table rendering, split examples, orphaned headings, split response areas, split structured blocks, and sparse final page balance.
+
+## 2026-05-31T21:53:03+09:00 - INT First-A Heading Preservation Defect Identified
+
+- Scope: int/md/working/aw-int-all_0519.md and int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md.
+- Trigger: Dave identified that repeated `A` headings were flattened incorrectly: the first intended `### A.` heading was demoted in some units while a later `A. Warm-Up` heading was kept.
+- Action: checked project memory and manuscript headings; confirmed Units 3, 4, and 8-18 have unlettered `####` concept-primer headings before the surviving `### A. Warm-Up`.
+- Outcome: updated the repair plan with a first-`A` preservation defect, required audit, repair rule, and Definition of Done item so duplicate-heading cleanup cannot silently invert the activity shell again.
+
+## 2026-05-31T22:00:46+09:00 - INT Working Markdown Restored To Pre-May31 Source
+
+- Scope: int/md/working/aw-int-all_0519.md.
+- Trigger: Dave requested a rollback to the last committed version before the faulty heading-demotion changes.
+- Action: no May 30 commit touched the file, so restored the file from commit `2615f8f` dated 2026-05-29T21:28:18+09:00.
+- Outcome: the working Markdown is now back before the May 31 heading/content changes; Unit 3 again contains repeated `### A.` headings, including `A. What Is a Paragraph?`, `A. When Should You Start a New Paragraph?`, and `A. Warm-Up`.
+
+## 2026-05-31T22:13:06+09:00 - INT Print-Readiness Repair Implementation Started
+
+- Scope: int/md/working/aw-int-all_0519.md and int/edits & guides/full-review/print-readiness-audits/.
+- Action: completed Phase 0 backup, generated Phase 1 audit inventories, created the Phase 2 unit shell plan, and repaired Unit 1 as the Phase 3 pilot.
+- Outcome: Unit 1 now has a clean `ABCDEFGH` visible heading sequence; whole-manuscript divs remain balanced; placeholder IDs remain unique with rows; detailed audit artifacts and Unit 1 pilot notes were saved for follow-up implementation.
+
+## 2026-05-31T23:42:09+09:00 - INT Unit 1 Pilot Defects Tightened
+
+- Scope: int/md/working/aw-int-all_0519.md, int/edits & guides/full-review/print-readiness-audits/, and C:\Dev\Code\textmaker\scripts\postprocess_docx.py.
+- Trigger: Dave reviewed the Unit 1 pilot and identified missed defects: redundant rewrite labels, split paragraph prose, undersized placeholder rows, list capitalization/punctuation, confusing E/F/G activity order, unclear references to "the message", and confusing transfer-task wording.
+- Action: revised Unit 1 source, expanded the Phase 1 audit generator with placeholder size-risk and list capitalization/punctuation checks, updated Unit 1 pilot notes and the repair plan inventory list, and patched Textmaker placeholder postprocessing to honor explicit `rows=N` and add spacer paragraphs after placeholder tables.
+- Outcome: Unit 1 still audits as `ABCDEFGH`; divs remain balanced; Textmaker `postprocess_docx.py` passes Python compilation.
+
+## 2026-06-01T00:06:20+09:00 - Placeholder Tables After Lists Need Explicit Breaks
+
+- Scope: C:\Dev\Code\textmaker\scripts\postprocess_docx.py and int/md/working/aw-int-all_0519.md Unit 1 rewrite activities.
+- Trigger: Dave noted that earlier attempts to place placeholder tables inside structured list items deleted or obscured the list paragraph, suggesting the insertion method rather than Markdown list syntax may be the root cause.
+- Action: updated Textmaker placeholder replacement so explicit `rows=N` is parsed, normal spacer paragraphs are inserted after placeholder tables, and a spacer paragraph is inserted before a placeholder table when the previous DOCX paragraph is a numbered/bulleted/checklist paragraph.
+- Outcome: Python compilation passes; next DOCX build should test whether proper Markdown ordered lists can coexist with inter-item response tables without losing list paragraphs.
+
+## 2026-06-01T00:20:32+09:00 - INT Phase 1-3 Audit Rerun After F/G Rule Correction
+
+- Scope: int/md/working/aw-int-all_0519.md, aw-int_print_readiness_repair_plan_0530.md, and print-readiness audit files.
+- Trigger: Dave identified that the repair plan's ordinary unit shell had F/G reversed; Editing Practice should precede Self-Check / Reflection.
+- Action: updated the audit generator to add `phase1_shell_role_order_audit.csv`, refined list punctuation detection to distinguish fragment lists after labels such as `Include:`, regenerated Phase 1 CSV inventories, and refreshed Unit 1 pilot notes.
+- Outcome: Unit 1 remains `ABCDEFGH`; the shell-role audit reports 0 clean-sequence units with swapped F/G roles; Phase 3 notes now record the corrected drafting -> editing -> self-check/reflection -> transfer sequence.
+
+## 2026-06-01T00:56:54+09:00 - PDF Export Numbering Issue Is Not Source/DOCX
+
+- Scope: int/md/working/aw-int-all_0530.docx / PDF exports and C:\Dev\Code\textmaker\scripts\postprocess_docx.py.
+- Trigger: Dave confirmed the numbered list in the source DOCX is correct, and a PDF made with Word's Export function renders correctly; the bad `1,2,3,1,2` numbering appears only in the existing automated PDF conversion output.
+- Action: treated list numbering as a PDF export path issue, not a Markdown/DOCX source issue. Removed the extra pre-table spacer before placeholder tables, kept a small post-table spacer, and configured list-adjacent placeholder tables to indent to the list text column.
+- Outcome: Textmaker postprocess compiles; next DOCX build should test table spacing/alignment, and future PDF validation should prefer Word Export behavior over the current failing automated PDF path.
+
+## 2026-06-01T00:58:09+09:00 - List-Adjacent Placeholder Alignment Standard
+
+- Scope: C:\Dev\Code\textmaker\scripts\postprocess_docx.py.
+- Trigger: Dave clarified that writing-sample/task lists followed by placeholder tables should have list numbers aligned to the left margin, with a hanging text indent, and placeholder table left borders aligned to the list text indent.
+- Action: updated placeholder postprocessing so list paragraphs immediately before response tables get a direct hanging-indent override with the number at margin and text at 357 twips; matching placeholder tables are indented to 357 twips.
+- Outcome: Textmaker postprocess compiles; next DOCX build should verify the visual alignment.
+
+## 2026-06-01T01:35:00+09:00 - INT Regenerated Build Baseline Locked For Follow-Up
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-all_0530.docx`, `int/md/working/aw-int-all_0530.pdf`, and print-readiness audit artifacts.
+- Trigger: Dave regenerated the DOCX/PDF after the Unit 1 pilot and Textmaker placeholder/PDF export fixes, then requested the current state be recorded and pushed.
+- Action: recorded the current repair baseline, including Phase 1-3 audit artifacts, Unit 1 pilot changes, corrected F/G sequence rule, contextual list-punctuation rule, list-adjacent placeholder alignment standard, and the PDF-export-path diagnosis for numbering restarts.
+- Outcome: current files are ready to be committed and pushed as the next rollback point before continuing print-readiness work.

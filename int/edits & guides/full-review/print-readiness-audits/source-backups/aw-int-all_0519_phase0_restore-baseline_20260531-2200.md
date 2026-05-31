@@ -84,7 +84,12 @@ Why the Stronger Sentence Works
 
 Look again at the three pairs in the warm-up.
 
-The clearer sentence usually improves one or more of these points: the **main subject** appears earlier, the **main action** is expressed by a simple verb, extra information is kept shorter, and the reader can understand the message in one reading.
+The clearer sentence usually improves one or more of these points:
+
+- the **main subject** appears earlier
+- the **main action** is expressed by a simple verb
+- extra information is kept shorter
+- the reader can understand the message in one reading
 
 Compare Pair 2 again:
 :::
@@ -155,9 +160,12 @@ Rewrite the word groups as clear SVO or SVC sentences.
 3. we / send / confirmation email / tomorrow
 4. applicant / not / submit / fee / yet
 5. system / show / error message / this morning
-
-{{PH-1: U01-lang1-build-sentences | rows=5}}
 :::
+
+
+**Write Your Sentences**
+
+{{PH-1: U01-lang1-build-sentences | rows=2}}
 
 ::: learn
 Simplification Strategies
@@ -166,9 +174,9 @@ Administrative English should be **short, direct, and clear**.
 
 Three common ways to simplify a sentence:
 
-1. Change long formal openings to direct verbs.
-2. Cut extra explanation that the reader does not need.
-3. Move the main action closer to the subject.
+1. change long formal openings to direct verbs
+2. cut extra explanation that the reader does not need
+3. move the main action closer to the subject
 :::
 
 ::: learn
@@ -192,23 +200,32 @@ Simplify the Sentence
 
 Rewrite each sentence in a clearer, shorter way.
 
-1. With reference to your email which was sent to our section yesterday afternoon, we are now in the process of checking the details.
+**1.** Original: With reference to your email which was sent to our section yesterday afternoon, we are now in the process of checking the details.
+   Clear:
 
-   {{PH-1: U01-C-simplify-1 | rows=2}}
+{{PH-1: U01-C-simplify-1 | rows=2}}
 
-2. It has been decided by our department that the deadline for submission of the documents will be extended until 30 June.
+**2.** Original: It has been decided by our department that the deadline for submission of the documents will be extended until 30 June.
+   Clear:
 
-   {{PH-1: U01-C-simplify-2 | rows=2}}
+{{PH-1: U01-C-simplify-2 | rows=2}}
 
-3. Due to the fact that the system is currently under maintenance, it is not possible for us to access your file at this moment in time.
+**3.** Original: Due to the fact that the system is currently under maintenance, it is not possible for us to access your file at this moment in time.
+   Clear:
 
-   {{PH-1: U01-C-simplify-3 | rows=2}}
+{{PH-1: U01-C-simplify-3 | rows=2}}
 
-4. In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
+**4.** Original: In the situation where the applicant does not provide the required documents, we will not be able to continue the examination.
+   Clear:
 
-   {{PH-1: U01-C-simplify-4 | rows=2}}
+{{PH-1: U01-C-simplify-4 | rows=2}}
 
 :::
+
+
+**Write Your Simplified Sentences**
+
+{{PH-1: U01-lang2-simplify | rows=2}}
 
 ### D. Guided Practice
 
@@ -217,97 +234,126 @@ Rewrite for Clarity
 
 Rewrite each sentence so that it is easier to read.
 
-1. We are now in the checking of your application and more time is needed by us.
+**1.** We are now in the checking of your application and more time is needed by us.
 
-   {{PH-1: U01-D-rewrite-1 | rows=2}}
+{{PH-1: U01-D-rewrite-1 | rows=2}}
 
-2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
+**2.** The document which was attached to the email that you sent on Monday is not the same as the one discussed.
 
-   {{PH-1: U01-D-rewrite-2 | rows=2}}
+{{PH-1: U01-D-rewrite-2 | rows=2}}
 
-3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
+**3.** The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
 
-   {{PH-1: U01-D-rewrite-3 | rows=2}}
+{{PH-1: U01-D-rewrite-3 | rows=2}}
 
-4. It will be necessary for us to confirm the information with another department before a reply can be given.
+**4.** It will be necessary for us to confirm the information with another department before a reply can be given.
 
-   {{PH-1: U01-D-rewrite-4 | rows=2}}
+{{PH-1: U01-D-rewrite-4 | rows=2}}
 
 :::
 
+
+Use this box for one complete version.
+
+**Write Here**
+
+{{PH-3: U01-guided-document | rows=10}}
+
+### F. Self-Check Before Freer Practice
+
+::: edit
+Self-Check
+
+Before you write your own message, check each sentence with these questions:
+
+- [ ] Can the reader find the subject quickly?
+- [ ] Can the reader find the main verb quickly?
+- [ ] Is there one main message in the sentence?
+- [ ] Can I replace a long phrase with a shorter one?
+
+If the answer to one of these is `No`, rewrite the sentence before you continue.
+:::
 
 ### E. Freer Practice
 
 ::: write
 Write Clear Administrative Sentences
 
-**Situation:** An applicant sent the wrong form. You need to contact the applicant and ask for the correct form. The deadline is next Friday.
+Write a short message to the applicant in **3-4 clear sentences**.
 
-Write a short message to the applicant in **3-4 clear sentences**. Include:
+**Situation:** The applicant sent the wrong form. You need to contact the applicant and ask for the correct form. The deadline is next Friday.
+
+Include:
 
 - the problem
 - what the applicant needs to send
 - the deadline
 
-{{PH-3: U01-freer-document | rows=8}}
+Before you draft, decide which sentence will do each job:
+
+1. identify the problem
+2. request the correct document
+3. state the deadline clearly
+
+1.
+2.
+3.
+4.
 :::
 
-### F. Editing Practice
+::: example
+Mini Example
+
+1. We received the wrong form with your submission.
+2. Please send the corrected form for this application.
+3. Kindly send it by next Friday so the review can continue.
+:::
+
+
+Use this box for one complete version.
+
+**Write Here**
+
+{{PH-3: U01-freer-document | rows=10}}
+
+### G. Editing Practice
 
 ::: edit
 Fix the Reader Problem
 
 Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
 
-1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
+**1.** The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
 
-   {{PH-1: U01-G-rewrite-1 | rows=2}}
+{{PH-1: U01-G-rewrite-1 | rows=2}}
 
-2. It has been explained by the supervisor that a new review step will be necessary for the application.
+**2.** It has been explained by the supervisor that a new review step will be necessary for the application.
 
-   {{PH-1: U01-G-rewrite-2 | rows=2}}
+{{PH-1: U01-G-rewrite-2 | rows=2}}
 
-3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
+**3.** Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
 
-   {{PH-1: U01-G-rewrite-3 | rows=2}}
+{{PH-1: U01-G-rewrite-3 | rows=2}}
 
-4. We are writing for the purpose of asking you to send the correct version of the attached file.
+**4.** We are writing for the purpose of asking you to send the correct version of the attached file.
 
-   {{PH-1: U01-G-rewrite-4 | rows=2}}
+{{PH-1: U01-G-rewrite-4 | rows=2}}
 
 :::
 
-### G. Self-Check and Reflection
 
-::: edit
-Final Self-Check
+Write the full corrected version below.
 
-After you write the applicant message in Activity E and complete the editing practice in Activity F, check your work again:
+**Write Your Revised Version**
 
-- [ ] Does each sentence have a clear subject?
-- [ ] Does each sentence have a clear verb?
-- [ ] Did you remove words that the reader does not need?
-- [ ] Is your request clear?
-:::
-
-::: write
-Reflection
-
-Answer the questions in short notes.
-
-1. What was difficult for you in this unit?
-2. Which point do you want to remember when you write emails at work?
-3. Choose one clear sentence you wrote today and rewrite it here.
-
-{{PH-1: U01-reflection | rows=4}}
-:::
+{{PH-2: U01-editing-rewrite | rows=2}}
 
 ### H. Transfer Extension
 
 ::: write
 Turn Sentences into a Mini Message
 
-Choose **one** of the situations below.
+Choose **one** of the situations below. First write **two clear sentences**. Then combine them into a **3-4 sentence** mini message.
 
 A. A form is missing one page.
 
@@ -315,17 +361,41 @@ B. A meeting time has changed.
 
 C. A file needs to be checked again.
 
-For your first draft, write two simple sentences:
+For each situation:
 
-1. State the main issue.
-2. State the next important fact.
+- sentence 1 = state the main issue
+- sentence 2 = state the next important fact
+- sentence 3-4 = turn the two clear sentences into a short professional message
 
-{{PH-1: U01-transfer-two-sentences | rows=2}}
-
-Then write a final 3-4 sentence message. Use the same information, but make it sound like a short professional message.
-
-{{PH-3: U01-transfer-response | rows=6}}
+Write one sentence on each line where possible.
 :::
+
+
+**Write Here**
+
+{{PH-1: U01-transfer-response | rows=4}}
+
+### F. Reflection
+
+::: write
+Reflect on This Unit
+
+1. What was difficult for you in this unit?
+2. Which point do you want to remember when you write emails at work?
+3. Choose one clear sentence you wrote today and rewrite it here.
+:::
+
+::: edit
+Final Self-Edit
+
+Circle the sentence in your work that is easiest to read. Then answer:
+
+- [ ] Why is that sentence clear?
+- [ ] What did you remove or simplify?
+- [ ] What will you do again next time?
+:::
+
+### H. Homework
 
 ::: write
 Homework Task
@@ -333,9 +403,14 @@ Homework Task
 Choose one real email you sent at work (in Japanese). Translate the **main message** into 3-4 clear English sentences using SVO structure.
 
 If you do not want to use a real email, use one of the Unit 1 situations or your Unit 1 freer-practice draft instead.
+:::
+
+
+---
+
+**Homework Draft**
 
 {{PH-3: U01-homework-document | rows=8}}
-:::
 
 ## Unit 2. Professional Tone Basics
 

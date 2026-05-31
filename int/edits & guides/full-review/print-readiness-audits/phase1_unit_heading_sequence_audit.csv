@@ -1,0 +1,24 @@
+unit,title,start_line,end_line,h3_letter_sequence,h3_letter_count,first_a_line,first_a_text,clean_standard_sequence
+1,Clear Sentence Structure,45,339,ABCDEFGH,8,55,A. Warm-Up,True
+2,Professional Tone Basics,340,711,ABCDFEGHFH,10,350,A. Warm-Up,False
+3,Paragraph Structure,712,1282,AAABCDFEGHFH,12,722,A. What Is a Paragraph?,False
+4,Email Layout and Standard Phrases,1283,1686,AABCDFEGHFH,11,1293,A. What Does a Professional Email Look Like?,False
+5,Requesting Clarification,1687,2125,ABCDDFEGHEFH,12,1698,A. Warm-Up,False
+6,Communicating Delays or Changes,2126,2520,ABCDFEGHEFH,11,2137,A. Warm-Up,False
+7,Making Requests Politely,2521,3268,ABCDFEGHEFH,11,2532,A. Warm-Up,False
+8,Writing Simple Procedures,3269,3682,AABCDFEEGHFH,12,3280,A. What Is a Procedure?,False
+9,Internal Notices,3683,4099,AABCDFEEGHEFH,13,3694,A. What Is an Internal Notice?,False
+10,Explaining Problems Clearly,4100,4486,AABCDFEEGHEFH,13,4111,A. What Makes a Clear Problem Explanation?,False
+11,Writing Simple Meeting Summaries,4487,5189,AABCDFEEGHEFH,13,4498,A. What Is a Meeting Summary?,False
+12,Writing Simple External Inquiries,5190,5601,AABCDFEGHEFH,12,5201,A. What Is an External Inquiry?,False
+13,Providing Simple Explanations,5602,5997,AABCDFEGHEFH,12,5613,A. What Is a Simple Explanation?,False
+14,Responding to Confusion,5998,6361,AABCDFEGHEFH,12,6009,A. What Does It Mean to Respond to Confusion?,False
+15,Maintaining Consistent Email Style,6362,7114,AABCDFEGHEFH,12,6373,A. What Is Email Consistency?,False
+16,Editing for Accuracy,7115,7486,AABCDFEGEHFH,12,7126,A. What Does `Accuracy`Mean in Writing?,False
+17,Editing for Clarity,7487,7846,AABCDFEGHEFH,12,7498,A. What Does `Clarity` Mean in Writing?,False
+18,Editing for Tone,7847,8470,AABCDFEGHEFH,12,7858,A. What Is `Tone` in Writing?,False
+19,Integrated Task 1: Combined Email + Internal Explanation,8471,8850,ABCDFEGH,8,8482,A. Scenario Overview,False
+20,Integrated Task 2: Revision + Notice Writing,8851,9224,ABCDFEGH,8,8862,A. Scenario Overview,False
+21,Writing for Consistency Across a Team,9225,9610,ABCDFEGH,8,9236,A. Why Team Consistency Matters,False
+22,Multi-Document Communication Task,9611,10021,ABCDFEGH,8,9622,A. Scenario Overview,False
+23,Portfolio Writing & Final Revision,10022,10841,ABCFEDGH,8,10033,A. What Is a Writing Portfolio?,False

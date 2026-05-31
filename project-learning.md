@@ -1245,3 +1245,14 @@ Rules:
 - Scope: project/conventions
 - Observation: `adv/md/final/modules/` does not exist. The canonical ADV source files are `adv/md/edits/modules/aw-adv_mod[1-6]_n10.md`. These contain 127 PH markers (PH-1: 3, PH-2: 37, PH-3: 42, PH-4: 45) that need migration to the `rows=N` format.
 - Preferred behavior: when working on ADV content, always target `adv/md/edits/modules/`. Do not assume a `final/` subdirectory exists for ADV.
+
+## 2026-06-01 - INT Print-Readiness Current Baseline
+
+- Status: `active`
+- Scope: project/state
+- Context: INT print-readiness restart after the faulty duplicate-heading flattening was rolled back to the last committed pre-May31 source.
+- Observation: `int/md/working/aw-int-all_0519.md` is again the working manuscript baseline. Phase 0-3 audits were regenerated under `int/edits & guides/full-review/print-readiness-audits/`, Unit 1 was repaired as the pilot, and `int/md/working/aw-int-all_0530.docx` / `.pdf` were regenerated for visual review.
+- Decision: ordinary INT unit sequence is Focus, A Warm-Up/intro, B Example Check, C Language, D Guided Practice, E Freer Practice, F Editing Practice, G Self-Check/Reflection/Review, H Transfer/Homework. The earlier repair-plan order with Self-Check before Editing Practice is obsolete.
+- Decision: list punctuation is contextual. Complete sentence/imperative list items should be capitalized and punctuated as sentences; fragment bullets that complete a lead-in such as `Include:` should remain fragments and should not receive blanket sentence punctuation.
+- Decision: automated PDF list-numbering defects that are not present in the DOCX or in Word's manual Export PDF are treated as export-path problems, not manuscript-source problems.
+- Preferred behavior: continue the repair from the Phase 1-3 audit files and Unit 1 pilot notes; avoid broad heading-flattening passes that can preserve a later duplicate `A` while demoting the first intended structural `A`.

@@ -1,0 +1,1155 @@
+line,event,class,unit,title
+57,open,notice,1,Clear Sentence Structure
+69,close,notice,1,Clear Sentence Structure
+71,open,learn,1,Clear Sentence Structure
+78,close,learn,1,Clear Sentence Structure
+82,open,learn,1,Clear Sentence Structure
+90,close,learn,1,Clear Sentence Structure
+92,open,example-bad,1,Clear Sentence Structure
+96,close,example-bad,1,Clear Sentence Structure
+98,open,example-good,1,Clear Sentence Structure
+102,close,example-good,1,Clear Sentence Structure
+104,open,learn,1,Clear Sentence Structure
+114,close,learn,1,Clear Sentence Structure
+118,open,language,1,Clear Sentence Structure
+132,close,language,1,Clear Sentence Structure
+135,open,notice,1,Clear Sentence Structure
+145,close,notice,1,Clear Sentence Structure
+148,open,write,1,Clear Sentence Structure
+160,close,write,1,Clear Sentence Structure
+162,open,learn,1,Clear Sentence Structure
+172,close,learn,1,Clear Sentence Structure
+174,open,learn,1,Clear Sentence Structure
+187,close,learn,1,Clear Sentence Structure
+190,open,rewrite,1,Clear Sentence Structure
+211,close,rewrite,1,Clear Sentence Structure
+215,open,rewrite,1,Clear Sentence Structure
+236,close,rewrite,1,Clear Sentence Structure
+241,open,write,1,Clear Sentence Structure
+253,close,write,1,Clear Sentence Structure
+257,open,edit,1,Clear Sentence Structure
+278,close,edit,1,Clear Sentence Structure
+282,open,edit,1,Clear Sentence Structure
+291,close,edit,1,Clear Sentence Structure
+293,open,write,1,Clear Sentence Structure
+303,close,write,1,Clear Sentence Structure
+307,open,write,1,Clear Sentence Structure
+328,close,write,1,Clear Sentence Structure
+330,open,write,1,Clear Sentence Structure
+338,close,write,1,Clear Sentence Structure
+352,open,notice,2,Professional Tone Basics
+364,close,notice,2,Professional Tone Basics
+366,open,learn,2,Professional Tone Basics
+372,close,learn,2,Professional Tone Basics
+376,open,learn,2,Professional Tone Basics
+380,close,learn,2,Professional Tone Basics
+382,open,example-bad,2,Professional Tone Basics
+386,close,example-bad,2,Professional Tone Basics
+388,open,example-good,2,Professional Tone Basics
+392,close,example-good,2,Professional Tone Basics
+394,open,learn,2,Professional Tone Basics
+405,close,learn,2,Professional Tone Basics
+412,open,language,2,Professional Tone Basics
+420,close,language,2,Professional Tone Basics
+423,open,rewrite,2,Professional Tone Basics
+444,close,rewrite,2,Professional Tone Basics
+451,open,learn,2,Professional Tone Basics
+465,close,learn,2,Professional Tone Basics
+467,open,learn,2,Professional Tone Basics
+479,close,learn,2,Professional Tone Basics
+482,open,rewrite,2,Professional Tone Basics
+503,close,rewrite,2,Professional Tone Basics
+510,open,language,2,Professional Tone Basics
+532,close,language,2,Professional Tone Basics
+537,open,example-bad,2,Professional Tone Basics
+543,close,example-bad,2,Professional Tone Basics
+545,open,rewrite,2,Professional Tone Basics
+561,close,rewrite,2,Professional Tone Basics
+572,open,edit,2,Professional Tone Basics
+583,close,edit,2,Professional Tone Basics
+587,open,write,2,Professional Tone Basics
+605,close,write,2,Professional Tone Basics
+614,open,edit,2,Professional Tone Basics
+635,close,edit,2,Professional Tone Basics
+646,open,write,2,Professional Tone Basics
+665,close,write,2,Professional Tone Basics
+674,open,write,2,Professional Tone Basics
+680,close,write,2,Professional Tone Basics
+683,open,edit,2,Professional Tone Basics
+690,close,edit,2,Professional Tone Basics
+694,open,write,2,Professional Tone Basics
+703,close,write,2,Professional Tone Basics
+724,open,learn,3,Paragraph Structure
+746,close,learn,3,Paragraph Structure
+750,open,learn,3,Paragraph Structure
+765,close,learn,3,Paragraph Structure
+769,open,notice,3,Paragraph Structure
+783,close,notice,3,Paragraph Structure
+787,open,learn,3,Paragraph Structure
+800,close,learn,3,Paragraph Structure
+802,open,learn,3,Paragraph Structure
+812,close,learn,3,Paragraph Structure
+816,open,language,3,Paragraph Structure
+824,close,language,3,Paragraph Structure
+827,open,example-good,3,Paragraph Structure
+831,close,example-good,3,Paragraph Structure
+833,open,notice,3,Paragraph Structure
+863,close,notice,3,Paragraph Structure
+865,open,learn,3,Paragraph Structure
+879,close,learn,3,Paragraph Structure
+881,open,learn,3,Paragraph Structure
+890,close,learn,3,Paragraph Structure
+892,open,write,3,Paragraph Structure
+925,close,write,3,Paragraph Structure
+935,open,example-bad,3,Paragraph Structure
+943,close,example-bad,3,Paragraph Structure
+945,open,rewrite,3,Paragraph Structure
+951,close,rewrite,3,Paragraph Structure
+962,open,edit,3,Paragraph Structure
+971,close,edit,3,Paragraph Structure
+975,open,write,3,Paragraph Structure
+989,close,write,3,Paragraph Structure
+999,open,example-bad,3,Paragraph Structure
+1003,close,example-bad,3,Paragraph Structure
+1005,open,edit,3,Paragraph Structure
+1011,close,edit,3,Paragraph Structure
+1022,open,write,3,Paragraph Structure
+1036,close,write,3,Paragraph Structure
+1045,open,write,3,Paragraph Structure
+1051,close,write,3,Paragraph Structure
+1054,open,edit,3,Paragraph Structure
+1064,close,edit,3,Paragraph Structure
+1068,open,write,3,Paragraph Structure
+1074,close,write,3,Paragraph Structure
+1085,open,learn,3,Paragraph Structure
+1091,close,learn,3,Paragraph Structure
+1095,open,notice,3,Paragraph Structure
+1099,close,notice,3,Paragraph Structure
+1101,open,example-bad,3,Paragraph Structure
+1105,close,example-bad,3,Paragraph Structure
+1107,open,example-good,3,Paragraph Structure
+1111,close,example-good,3,Paragraph Structure
+1123,open,edit,3,Paragraph Structure
+1133,close,edit,3,Paragraph Structure
+1137,open,write,3,Paragraph Structure
+1153,close,write,3,Paragraph Structure
+1162,open,learn,3,Paragraph Structure
+1172,close,learn,3,Paragraph Structure
+1177,open,example-bad,3,Paragraph Structure
+1181,close,example-bad,3,Paragraph Structure
+1183,open,revise,3,Paragraph Structure
+1197,close,revise,3,Paragraph Structure
+1204,open,example-good,3,Paragraph Structure
+1214,close,example-good,3,Paragraph Structure
+1218,open,edit,3,Paragraph Structure
+1229,close,edit,3,Paragraph Structure
+1295,open,learn,4,Email Layout and Standard Phrases
+1308,close,learn,4,Email Layout and Standard Phrases
+1312,open,notice,4,Email Layout and Standard Phrases
+1316,close,notice,4,Email Layout and Standard Phrases
+1318,open,example-bad,4,Email Layout and Standard Phrases
+1330,close,example-bad,4,Email Layout and Standard Phrases
+1332,open,example-good,4,Email Layout and Standard Phrases
+1344,close,example-good,4,Email Layout and Standard Phrases
+1349,open,learn,4,Email Layout and Standard Phrases
+1356,close,learn,4,Email Layout and Standard Phrases
+1360,open,learn,4,Email Layout and Standard Phrases
+1377,close,learn,4,Email Layout and Standard Phrases
+1379,open,learn,4,Email Layout and Standard Phrases
+1384,close,learn,4,Email Layout and Standard Phrases
+1388,open,language,4,Email Layout and Standard Phrases
+1403,close,language,4,Email Layout and Standard Phrases
+1406,open,rewrite,4,Email Layout and Standard Phrases
+1433,close,rewrite,4,Email Layout and Standard Phrases
+1440,open,language,4,Email Layout and Standard Phrases
+1456,close,language,4,Email Layout and Standard Phrases
+1459,open,write,4,Email Layout and Standard Phrases
+1473,close,write,4,Email Layout and Standard Phrases
+1483,open,language,4,Email Layout and Standard Phrases
+1490,close,language,4,Email Layout and Standard Phrases
+1492,open,learn,4,Email Layout and Standard Phrases
+1504,close,learn,4,Email Layout and Standard Phrases
+1507,open,write,4,Email Layout and Standard Phrases
+1524,close,write,4,Email Layout and Standard Phrases
+1533,open,write,4,Email Layout and Standard Phrases
+1548,close,write,4,Email Layout and Standard Phrases
+1559,open,edit,4,Email Layout and Standard Phrases
+1568,close,edit,4,Email Layout and Standard Phrases
+1572,open,write,4,Email Layout and Standard Phrases
+1594,close,write,4,Email Layout and Standard Phrases
+1606,open,example-bad,4,Email Layout and Standard Phrases
+1616,close,example-bad,4,Email Layout and Standard Phrases
+1618,open,edit,4,Email Layout and Standard Phrases
+1624,close,edit,4,Email Layout and Standard Phrases
+1635,open,write,4,Email Layout and Standard Phrases
+1652,close,write,4,Email Layout and Standard Phrases
+1661,open,write,4,Email Layout and Standard Phrases
+1667,close,write,4,Email Layout and Standard Phrases
+1672,open,write,4,Email Layout and Standard Phrases
+1678,close,write,4,Email Layout and Standard Phrases
+1700,open,notice,5,Requesting Clarification
+1715,close,notice,5,Requesting Clarification
+1717,open,learn,5,Requesting Clarification
+1723,close,learn,5,Requesting Clarification
+1727,open,learn,5,Requesting Clarification
+1731,close,learn,5,Requesting Clarification
+1733,open,example-bad,5,Requesting Clarification
+1737,close,example-bad,5,Requesting Clarification
+1739,open,example-good,5,Requesting Clarification
+1743,close,example-good,5,Requesting Clarification
+1745,open,learn,5,Requesting Clarification
+1755,close,learn,5,Requesting Clarification
+1762,open,language,5,Requesting Clarification
+1770,close,language,5,Requesting Clarification
+1773,open,language,5,Requesting Clarification
+1779,close,language,5,Requesting Clarification
+1781,open,rewrite,5,Requesting Clarification
+1812,close,rewrite,5,Requesting Clarification
+1820,open,learn,5,Requesting Clarification
+1827,close,learn,5,Requesting Clarification
+1830,open,language,5,Requesting Clarification
+1837,close,language,5,Requesting Clarification
+1839,open,learn,5,Requesting Clarification
+1847,close,learn,5,Requesting Clarification
+1849,open,rewrite,5,Requesting Clarification
+1870,close,rewrite,5,Requesting Clarification
+1877,open,write,5,Requesting Clarification
+1902,close,write,5,Requesting Clarification
+1911,open,rewrite,5,Requesting Clarification
+1932,close,rewrite,5,Requesting Clarification
+1941,open,write,5,Requesting Clarification
+1956,close,write,5,Requesting Clarification
+1967,open,edit,5,Requesting Clarification
+1976,close,edit,5,Requesting Clarification
+1980,open,write,5,Requesting Clarification
+1991,close,write,5,Requesting Clarification
+2006,open,edit,5,Requesting Clarification
+2027,close,edit,5,Requesting Clarification
+2038,open,write,5,Requesting Clarification
+2052,close,write,5,Requesting Clarification
+2061,open,write,5,Requesting Clarification
+2079,close,write,5,Requesting Clarification
+2081,open,example,5,Requesting Clarification
+2089,close,example,5,Requesting Clarification
+2100,open,write,5,Requesting Clarification
+2106,close,write,5,Requesting Clarification
+2111,open,write,5,Requesting Clarification
+2117,close,write,5,Requesting Clarification
+2139,open,notice,6,Communicating Delays or Changes
+2154,close,notice,6,Communicating Delays or Changes
+2156,open,learn,6,Communicating Delays or Changes
+2163,close,learn,6,Communicating Delays or Changes
+2167,open,learn,6,Communicating Delays or Changes
+2171,close,learn,6,Communicating Delays or Changes
+2173,open,example-bad,6,Communicating Delays or Changes
+2177,close,example-bad,6,Communicating Delays or Changes
+2179,open,example-good,6,Communicating Delays or Changes
+2183,close,example-good,6,Communicating Delays or Changes
+2185,open,learn,6,Communicating Delays or Changes
+2195,close,learn,6,Communicating Delays or Changes
+2199,open,language,6,Communicating Delays or Changes
+2223,close,language,6,Communicating Delays or Changes
+2225,open,rewrite,6,Communicating Delays or Changes
+2256,close,rewrite,6,Communicating Delays or Changes
+2263,open,learn,6,Communicating Delays or Changes
+2272,close,learn,6,Communicating Delays or Changes
+2275,open,example-good,6,Communicating Delays or Changes
+2279,close,example-good,6,Communicating Delays or Changes
+2281,open,learn,6,Communicating Delays or Changes
+2292,close,learn,6,Communicating Delays or Changes
+2294,open,write,6,Communicating Delays or Changes
+2311,close,write,6,Communicating Delays or Changes
+2318,open,write,6,Communicating Delays or Changes
+2335,close,write,6,Communicating Delays or Changes
+2344,open,write,6,Communicating Delays or Changes
+2359,close,write,6,Communicating Delays or Changes
+2370,open,edit,6,Communicating Delays or Changes
+2379,close,edit,6,Communicating Delays or Changes
+2383,open,write,6,Communicating Delays or Changes
+2405,close,write,6,Communicating Delays or Changes
+2420,open,edit,6,Communicating Delays or Changes
+2441,close,edit,6,Communicating Delays or Changes
+2452,open,write,6,Communicating Delays or Changes
+2464,close,write,6,Communicating Delays or Changes
+2473,open,write,6,Communicating Delays or Changes
+2486,close,write,6,Communicating Delays or Changes
+2495,open,write,6,Communicating Delays or Changes
+2501,close,write,6,Communicating Delays or Changes
+2506,open,write,6,Communicating Delays or Changes
+2512,close,write,6,Communicating Delays or Changes
+2534,open,notice,7,Making Requests Politely
+2546,close,notice,7,Making Requests Politely
+2548,open,learn,7,Making Requests Politely
+2555,close,learn,7,Making Requests Politely
+2559,open,learn,7,Making Requests Politely
+2563,close,learn,7,Making Requests Politely
+2565,open,example-bad,7,Making Requests Politely
+2569,close,example-bad,7,Making Requests Politely
+2571,open,example-good,7,Making Requests Politely
+2575,close,example-good,7,Making Requests Politely
+2577,open,learn,7,Making Requests Politely
+2585,close,learn,7,Making Requests Politely
+2596,open,language,7,Making Requests Politely
+2614,close,language,7,Making Requests Politely
+2617,open,learn,7,Making Requests Politely
+2624,close,learn,7,Making Requests Politely
+2627,open,language,7,Making Requests Politely
+2635,close,language,7,Making Requests Politely
+2637,open,rewrite,7,Making Requests Politely
+2670,close,rewrite,7,Making Requests Politely
+2677,open,language,7,Making Requests Politely
+2691,close,language,7,Making Requests Politely
+2693,open,rewrite,7,Making Requests Politely
+2724,close,rewrite,7,Making Requests Politely
+2731,open,learn,7,Making Requests Politely
+2739,close,learn,7,Making Requests Politely
+2742,open,language,7,Making Requests Politely
+2748,close,language,7,Making Requests Politely
+2750,open,learn,7,Making Requests Politely
+2762,close,learn,7,Making Requests Politely
+2764,open,rewrite,7,Making Requests Politely
+2785,close,rewrite,7,Making Requests Politely
+2794,open,write,7,Making Requests Politely
+2810,close,write,7,Making Requests Politely
+2821,open,edit,7,Making Requests Politely
+2830,close,edit,7,Making Requests Politely
+2834,open,write,7,Making Requests Politely
+2858,close,write,7,Making Requests Politely
+2873,open,edit,7,Making Requests Politely
+2894,close,edit,7,Making Requests Politely
+2905,open,write,7,Making Requests Politely
+2923,close,write,7,Making Requests Politely
+2932,open,write,7,Making Requests Politely
+2945,close,write,7,Making Requests Politely
+2954,open,write,7,Making Requests Politely
+2960,close,write,7,Making Requests Politely
+2965,open,write,7,Making Requests Politely
+2971,close,write,7,Making Requests Politely
+2982,open,learn,7,Making Requests Politely
+2989,close,learn,7,Making Requests Politely
+2993,open,notice,7,Making Requests Politely
+2997,close,notice,7,Making Requests Politely
+2999,open,example-bad,7,Making Requests Politely
+3003,close,example-bad,7,Making Requests Politely
+3005,open,example-good,7,Making Requests Politely
+3009,close,example-good,7,Making Requests Politely
+3021,open,edit,7,Making Requests Politely
+3032,close,edit,7,Making Requests Politely
+3036,open,write,7,Making Requests Politely
+3055,close,write,7,Making Requests Politely
+3068,open,learn,7,Making Requests Politely
+3084,close,learn,7,Making Requests Politely
+3089,open,example-bad,7,Making Requests Politely
+3097,close,example-bad,7,Making Requests Politely
+3099,open,notice,7,Making Requests Politely
+3110,close,notice,7,Making Requests Politely
+3112,open,example-good,7,Making Requests Politely
+3130,close,example-good,7,Making Requests Politely
+3134,open,write,7,Making Requests Politely
+3155,close,write,7,Making Requests Politely
+3172,open,structure,7,Making Requests Politely
+3188,close,structure,7,Making Requests Politely
+3192,open,learn,7,Making Requests Politely
+3204,close,learn,7,Making Requests Politely
+3208,open,notice,7,Making Requests Politely
+3223,close,notice,7,Making Requests Politely
+3227,open,structure,7,Making Requests Politely
+3236,close,structure,7,Making Requests Politely
+3282,open,learn,8,Writing Simple Procedures
+3292,close,learn,8,Writing Simple Procedures
+3295,open,example-good,8,Writing Simple Procedures
+3304,close,example-good,8,Writing Simple Procedures
+3308,open,notice,8,Writing Simple Procedures
+3312,close,notice,8,Writing Simple Procedures
+3314,open,example-bad,8,Writing Simple Procedures
+3320,close,example-bad,8,Writing Simple Procedures
+3322,open,example-good,8,Writing Simple Procedures
+3328,close,example-good,8,Writing Simple Procedures
+3333,open,learn,8,Writing Simple Procedures
+3339,close,learn,8,Writing Simple Procedures
+3343,open,learn,8,Writing Simple Procedures
+3355,close,learn,8,Writing Simple Procedures
+3357,open,learn,8,Writing Simple Procedures
+3365,close,learn,8,Writing Simple Procedures
+3369,open,language,8,Writing Simple Procedures
+3397,close,language,8,Writing Simple Procedures
+3399,open,rewrite,8,Writing Simple Procedures
+3420,close,rewrite,8,Writing Simple Procedures
+3429,open,learn,8,Writing Simple Procedures
+3434,close,learn,8,Writing Simple Procedures
+3436,open,write,8,Writing Simple Procedures
+3454,close,write,8,Writing Simple Procedures
+3461,open,write,8,Writing Simple Procedures
+3479,close,write,8,Writing Simple Procedures
+3488,open,write,8,Writing Simple Procedures
+3502,close,write,8,Writing Simple Procedures
+3513,open,edit,8,Writing Simple Procedures
+3522,close,edit,8,Writing Simple Procedures
+3526,open,write,8,Writing Simple Procedures
+3561,close,write,8,Writing Simple Procedures
+3572,open,write,8,Writing Simple Procedures
+3595,close,write,8,Writing Simple Procedures
+3607,open,example-bad,8,Writing Simple Procedures
+3613,close,example-bad,8,Writing Simple Procedures
+3615,open,edit,8,Writing Simple Procedures
+3621,close,edit,8,Writing Simple Procedures
+3632,open,write,8,Writing Simple Procedures
+3648,close,write,8,Writing Simple Procedures
+3657,open,write,8,Writing Simple Procedures
+3663,close,write,8,Writing Simple Procedures
+3668,open,write,8,Writing Simple Procedures
+3674,close,write,8,Writing Simple Procedures
+3696,open,learn,9,Internal Notices
+3705,close,learn,9,Internal Notices
+3708,open,example-good,9,Internal Notices
+3713,close,example-good,9,Internal Notices
+3717,open,notice,9,Internal Notices
+3732,close,notice,9,Internal Notices
+3734,open,learn,9,Internal Notices
+3741,close,learn,9,Internal Notices
+3745,open,learn,9,Internal Notices
+3760,close,learn,9,Internal Notices
+3762,open,learn,9,Internal Notices
+3767,close,learn,9,Internal Notices
+3771,open,language,9,Internal Notices
+3780,close,language,9,Internal Notices
+3783,open,example-good,9,Internal Notices
+3788,close,example-good,9,Internal Notices
+3790,open,notice,9,Internal Notices
+3805,close,notice,9,Internal Notices
+3807,open,learn,9,Internal Notices
+3815,close,learn,9,Internal Notices
+3818,open,rewrite,9,Internal Notices
+3837,close,rewrite,9,Internal Notices
+3844,open,rewrite,9,Internal Notices
+3877,close,rewrite,9,Internal Notices
+3886,open,write,9,Internal Notices
+3899,close,write,9,Internal Notices
+3910,open,edit,9,Internal Notices
+3919,close,edit,9,Internal Notices
+3923,open,write,9,Internal Notices
+3940,close,write,9,Internal Notices
+3955,open,structure,9,Internal Notices
+3968,close,structure,9,Internal Notices
+3973,open,example-bad,9,Internal Notices
+3978,close,example-bad,9,Internal Notices
+3980,open,edit,9,Internal Notices
+3991,open,example,9,Internal Notices
+3994,close,example,9,Internal Notices
+3997,open,example,9,Internal Notices
+4001,close,example,9,Internal Notices
+4005,close,edit,9,Internal Notices
+4016,open,write,9,Internal Notices
+4030,close,write,9,Internal Notices
+4039,open,write,9,Internal Notices
+4063,close,write,9,Internal Notices
+4074,open,write,9,Internal Notices
+4080,close,write,9,Internal Notices
+4085,open,write,9,Internal Notices
+4091,close,write,9,Internal Notices
+4113,open,learn,10,Explaining Problems Clearly
+4125,close,learn,10,Explaining Problems Clearly
+4129,open,notice,10,Explaining Problems Clearly
+4144,close,notice,10,Explaining Problems Clearly
+4146,open,learn,10,Explaining Problems Clearly
+4154,close,learn,10,Explaining Problems Clearly
+4158,open,learn,10,Explaining Problems Clearly
+4171,close,learn,10,Explaining Problems Clearly
+4173,open,learn,10,Explaining Problems Clearly
+4178,close,learn,10,Explaining Problems Clearly
+4182,open,language,10,Explaining Problems Clearly
+4212,close,language,10,Explaining Problems Clearly
+4214,open,learn,10,Explaining Problems Clearly
+4225,close,learn,10,Explaining Problems Clearly
+4227,open,rewrite,10,Explaining Problems Clearly
+4258,close,rewrite,10,Explaining Problems Clearly
+4265,open,write,10,Explaining Problems Clearly
+4294,close,write,10,Explaining Problems Clearly
+4303,open,write,10,Explaining Problems Clearly
+4321,close,write,10,Explaining Problems Clearly
+4330,open,edit,10,Explaining Problems Clearly
+4339,close,edit,10,Explaining Problems Clearly
+4343,open,structure,10,Explaining Problems Clearly
+4357,close,structure,10,Explaining Problems Clearly
+4361,open,write,10,Explaining Problems Clearly
+4380,close,write,10,Explaining Problems Clearly
+4394,open,example-bad,10,Explaining Problems Clearly
+4398,close,example-bad,10,Explaining Problems Clearly
+4400,open,edit,10,Explaining Problems Clearly
+4408,close,edit,10,Explaining Problems Clearly
+4417,open,write,10,Explaining Problems Clearly
+4430,close,write,10,Explaining Problems Clearly
+4439,open,write,10,Explaining Problems Clearly
+4452,close,write,10,Explaining Problems Clearly
+4461,open,write,10,Explaining Problems Clearly
+4467,close,write,10,Explaining Problems Clearly
+4472,open,write,10,Explaining Problems Clearly
+4478,close,write,10,Explaining Problems Clearly
+4500,open,learn,11,Writing Simple Meeting Summaries
+4509,close,learn,11,Writing Simple Meeting Summaries
+4511,open,example,11,Writing Simple Meeting Summaries
+4516,close,example,11,Writing Simple Meeting Summaries
+4520,open,notice,11,Writing Simple Meeting Summaries
+4524,close,notice,11,Writing Simple Meeting Summaries
+4526,open,example-bad,11,Writing Simple Meeting Summaries
+4530,close,example-bad,11,Writing Simple Meeting Summaries
+4532,open,example-good,11,Writing Simple Meeting Summaries
+4536,close,example-good,11,Writing Simple Meeting Summaries
+4541,open,learn,11,Writing Simple Meeting Summaries
+4547,close,learn,11,Writing Simple Meeting Summaries
+4551,open,learn,11,Writing Simple Meeting Summaries
+4561,close,learn,11,Writing Simple Meeting Summaries
+4563,open,learn,11,Writing Simple Meeting Summaries
+4568,close,learn,11,Writing Simple Meeting Summaries
+4572,open,language,11,Writing Simple Meeting Summaries
+4589,close,language,11,Writing Simple Meeting Summaries
+4591,open,learn,11,Writing Simple Meeting Summaries
+4601,close,learn,11,Writing Simple Meeting Summaries
+4603,open,notice,11,Writing Simple Meeting Summaries
+4618,close,notice,11,Writing Simple Meeting Summaries
+4620,open,rewrite,11,Writing Simple Meeting Summaries
+4637,close,rewrite,11,Writing Simple Meeting Summaries
+4646,open,write,11,Writing Simple Meeting Summaries
+4656,close,write,11,Writing Simple Meeting Summaries
+4665,open,edit,11,Writing Simple Meeting Summaries
+4674,close,edit,11,Writing Simple Meeting Summaries
+4678,open,structure,11,Writing Simple Meeting Summaries
+4691,close,structure,11,Writing Simple Meeting Summaries
+4695,open,write,11,Writing Simple Meeting Summaries
+4714,close,write,11,Writing Simple Meeting Summaries
+4728,open,example-bad,11,Writing Simple Meeting Summaries
+4732,close,example-bad,11,Writing Simple Meeting Summaries
+4734,open,edit,11,Writing Simple Meeting Summaries
+4742,close,edit,11,Writing Simple Meeting Summaries
+4751,open,revise,11,Writing Simple Meeting Summaries
+4761,close,revise,11,Writing Simple Meeting Summaries
+4770,open,write,11,Writing Simple Meeting Summaries
+4799,close,write,11,Writing Simple Meeting Summaries
+4808,open,write,11,Writing Simple Meeting Summaries
+4814,close,write,11,Writing Simple Meeting Summaries
+4819,open,write,11,Writing Simple Meeting Summaries
+4825,close,write,11,Writing Simple Meeting Summaries
+4836,open,learn,11,Writing Simple Meeting Summaries
+4843,close,learn,11,Writing Simple Meeting Summaries
+4847,open,notice,11,Writing Simple Meeting Summaries
+4851,close,notice,11,Writing Simple Meeting Summaries
+4853,open,example-bad,11,Writing Simple Meeting Summaries
+4857,close,example-bad,11,Writing Simple Meeting Summaries
+4859,open,example-good,11,Writing Simple Meeting Summaries
+4863,close,example-good,11,Writing Simple Meeting Summaries
+4875,open,edit,11,Writing Simple Meeting Summaries
+4885,close,edit,11,Writing Simple Meeting Summaries
+4889,open,write,11,Writing Simple Meeting Summaries
+4905,close,write,11,Writing Simple Meeting Summaries
+4922,open,learn,11,Writing Simple Meeting Summaries
+4933,close,learn,11,Writing Simple Meeting Summaries
+4937,open,notice,11,Writing Simple Meeting Summaries
+4941,close,notice,11,Writing Simple Meeting Summaries
+4943,open,example-bad,11,Writing Simple Meeting Summaries
+4947,close,example-bad,11,Writing Simple Meeting Summaries
+4949,open,example-good,11,Writing Simple Meeting Summaries
+4953,close,example-good,11,Writing Simple Meeting Summaries
+4969,open,write,11,Writing Simple Meeting Summaries
+4991,close,write,11,Writing Simple Meeting Summaries
+5008,open,structure,11,Writing Simple Meeting Summaries
+5027,close,structure,11,Writing Simple Meeting Summaries
+5031,open,revise,11,Writing Simple Meeting Summaries
+5049,close,revise,11,Writing Simple Meeting Summaries
+5058,open,revise,11,Writing Simple Meeting Summaries
+5112,open,example,11,Writing Simple Meeting Summaries
+5115,close,example,11,Writing Simple Meeting Summaries
+5118,open,example,11,Writing Simple Meeting Summaries
+5124,close,example,11,Writing Simple Meeting Summaries
+5128,close,revise,11,Writing Simple Meeting Summaries
+5137,open,notice,11,Writing Simple Meeting Summaries
+5157,close,notice,11,Writing Simple Meeting Summaries
+5203,open,learn,12,Writing Simple External Inquiries
+5213,close,learn,12,Writing Simple External Inquiries
+5215,open,example,12,Writing Simple External Inquiries
+5222,close,example,12,Writing Simple External Inquiries
+5226,open,notice,12,Writing Simple External Inquiries
+5230,close,notice,12,Writing Simple External Inquiries
+5232,open,example-bad,12,Writing Simple External Inquiries
+5238,close,example-bad,12,Writing Simple External Inquiries
+5240,open,example-good,12,Writing Simple External Inquiries
+5246,close,example-good,12,Writing Simple External Inquiries
+5251,open,learn,12,Writing Simple External Inquiries
+5257,close,learn,12,Writing Simple External Inquiries
+5261,open,learn,12,Writing Simple External Inquiries
+5272,close,learn,12,Writing Simple External Inquiries
+5274,open,learn,12,Writing Simple External Inquiries
+5279,close,learn,12,Writing Simple External Inquiries
+5283,open,language,12,Writing Simple External Inquiries
+5318,close,language,12,Writing Simple External Inquiries
+5320,open,learn,12,Writing Simple External Inquiries
+5327,close,learn,12,Writing Simple External Inquiries
+5329,open,rewrite,12,Writing Simple External Inquiries
+5341,open,example,12,Writing Simple External Inquiries
+5344,close,example,12,Writing Simple External Inquiries
+5347,open,example,12,Writing Simple External Inquiries
+5351,close,example,12,Writing Simple External Inquiries
+5372,close,rewrite,12,Writing Simple External Inquiries
+5379,open,write,12,Writing Simple External Inquiries
+5388,open,example,12,Writing Simple External Inquiries
+5391,close,example,12,Writing Simple External Inquiries
+5394,open,example,12,Writing Simple External Inquiries
+5398,close,example,12,Writing Simple External Inquiries
+5415,close,write,12,Writing Simple External Inquiries
+5424,open,write,12,Writing Simple External Inquiries
+5434,close,write,12,Writing Simple External Inquiries
+5443,open,edit,12,Writing Simple External Inquiries
+5458,close,edit,12,Writing Simple External Inquiries
+5462,open,write,12,Writing Simple External Inquiries
+5481,close,write,12,Writing Simple External Inquiries
+5491,open,example-bad,12,Writing Simple External Inquiries
+5497,close,example-bad,12,Writing Simple External Inquiries
+5499,open,edit,12,Writing Simple External Inquiries
+5507,close,edit,12,Writing Simple External Inquiries
+5516,open,write,12,Writing Simple External Inquiries
+5528,close,write,12,Writing Simple External Inquiries
+5537,open,write,12,Writing Simple External Inquiries
+5567,close,write,12,Writing Simple External Inquiries
+5576,open,write,12,Writing Simple External Inquiries
+5582,close,write,12,Writing Simple External Inquiries
+5587,open,write,12,Writing Simple External Inquiries
+5593,close,write,12,Writing Simple External Inquiries
+5615,open,learn,13,Providing Simple Explanations
+5625,close,learn,13,Providing Simple Explanations
+5627,open,example,13,Providing Simple Explanations
+5631,close,example,13,Providing Simple Explanations
+5635,open,notice,13,Providing Simple Explanations
+5650,close,notice,13,Providing Simple Explanations
+5652,open,learn,13,Providing Simple Explanations
+5658,close,learn,13,Providing Simple Explanations
+5662,open,learn,13,Providing Simple Explanations
+5666,close,learn,13,Providing Simple Explanations
+5668,open,example-bad,13,Providing Simple Explanations
+5672,close,example-bad,13,Providing Simple Explanations
+5674,open,example-good,13,Providing Simple Explanations
+5678,close,example-good,13,Providing Simple Explanations
+5680,open,learn,13,Providing Simple Explanations
+5690,close,learn,13,Providing Simple Explanations
+5694,open,language,13,Providing Simple Explanations
+5720,close,language,13,Providing Simple Explanations
+5722,open,learn,13,Providing Simple Explanations
+5730,close,learn,13,Providing Simple Explanations
+5732,open,rewrite,13,Providing Simple Explanations
+5744,open,example,13,Providing Simple Explanations
+5747,close,example,13,Providing Simple Explanations
+5750,open,example,13,Providing Simple Explanations
+5754,close,example,13,Providing Simple Explanations
+5775,close,rewrite,13,Providing Simple Explanations
+5782,open,write,13,Providing Simple Explanations
+5810,close,write,13,Providing Simple Explanations
+5819,open,write,13,Providing Simple Explanations
+5837,close,write,13,Providing Simple Explanations
+5846,open,edit,13,Providing Simple Explanations
+5855,close,edit,13,Providing Simple Explanations
+5859,open,write,13,Providing Simple Explanations
+5878,close,write,13,Providing Simple Explanations
+5892,open,example-bad,13,Providing Simple Explanations
+5896,close,example-bad,13,Providing Simple Explanations
+5898,open,edit,13,Providing Simple Explanations
+5906,close,edit,13,Providing Simple Explanations
+5915,open,rewrite,13,Providing Simple Explanations
+5926,close,rewrite,13,Providing Simple Explanations
+5935,open,write,13,Providing Simple Explanations
+5963,close,write,13,Providing Simple Explanations
+5972,open,write,13,Providing Simple Explanations
+5978,close,write,13,Providing Simple Explanations
+5983,open,write,13,Providing Simple Explanations
+5989,close,write,13,Providing Simple Explanations
+6011,open,learn,14,Responding to Confusion
+6020,close,learn,14,Responding to Confusion
+6022,open,example,14,Responding to Confusion
+6026,close,example,14,Responding to Confusion
+6030,open,notice,14,Responding to Confusion
+6045,close,notice,14,Responding to Confusion
+6047,open,learn,14,Responding to Confusion
+6053,close,learn,14,Responding to Confusion
+6057,open,learn,14,Responding to Confusion
+6067,close,learn,14,Responding to Confusion
+6069,open,learn,14,Responding to Confusion
+6078,close,learn,14,Responding to Confusion
+6082,open,language,14,Responding to Confusion
+6102,close,language,14,Responding to Confusion
+6104,open,learn,14,Responding to Confusion
+6109,close,learn,14,Responding to Confusion
+6111,open,rewrite,14,Responding to Confusion
+6122,open,example,14,Responding to Confusion
+6125,close,example,14,Responding to Confusion
+6128,open,example,14,Responding to Confusion
+6132,close,example,14,Responding to Confusion
+6153,close,rewrite,14,Responding to Confusion
+6160,open,write,14,Responding to Confusion
+6177,close,write,14,Responding to Confusion
+6186,open,write,14,Responding to Confusion
+6202,close,write,14,Responding to Confusion
+6211,open,edit,14,Responding to Confusion
+6220,close,edit,14,Responding to Confusion
+6224,open,write,14,Responding to Confusion
+6243,close,write,14,Responding to Confusion
+6257,open,example-bad,14,Responding to Confusion
+6261,close,example-bad,14,Responding to Confusion
+6263,open,edit,14,Responding to Confusion
+6271,close,edit,14,Responding to Confusion
+6280,open,write,14,Responding to Confusion
+6290,close,write,14,Responding to Confusion
+6299,open,write,14,Responding to Confusion
+6327,close,write,14,Responding to Confusion
+6336,open,write,14,Responding to Confusion
+6342,close,write,14,Responding to Confusion
+6347,open,write,14,Responding to Confusion
+6353,close,write,14,Responding to Confusion
+6375,open,learn,15,Maintaining Consistent Email Style
+6390,close,learn,15,Maintaining Consistent Email Style
+6392,open,example-bad,15,Maintaining Consistent Email Style
+6397,close,example-bad,15,Maintaining Consistent Email Style
+6399,open,example-good,15,Maintaining Consistent Email Style
+6406,close,example-good,15,Maintaining Consistent Email Style
+6410,open,notice,15,Maintaining Consistent Email Style
+6430,close,notice,15,Maintaining Consistent Email Style
+6432,open,learn,15,Maintaining Consistent Email Style
+6440,close,learn,15,Maintaining Consistent Email Style
+6444,open,learn,15,Maintaining Consistent Email Style
+6456,close,learn,15,Maintaining Consistent Email Style
+6458,open,learn,15,Maintaining Consistent Email Style
+6463,close,learn,15,Maintaining Consistent Email Style
+6467,open,language,15,Maintaining Consistent Email Style
+6489,close,language,15,Maintaining Consistent Email Style
+6491,open,rewrite,15,Maintaining Consistent Email Style
+6508,close,rewrite,15,Maintaining Consistent Email Style
+6515,open,learn,15,Maintaining Consistent Email Style
+6543,close,learn,15,Maintaining Consistent Email Style
+6546,open,example-bad,15,Maintaining Consistent Email Style
+6551,close,example-bad,15,Maintaining Consistent Email Style
+6553,open,rewrite,15,Maintaining Consistent Email Style
+6565,open,example,15,Maintaining Consistent Email Style
+6568,close,example,15,Maintaining Consistent Email Style
+6571,open,example,15,Maintaining Consistent Email Style
+6576,close,example,15,Maintaining Consistent Email Style
+6586,close,rewrite,15,Maintaining Consistent Email Style
+6596,open,example-bad,15,Maintaining Consistent Email Style
+6601,close,example-bad,15,Maintaining Consistent Email Style
+6603,open,rewrite,15,Maintaining Consistent Email Style
+6611,close,rewrite,15,Maintaining Consistent Email Style
+6620,open,edit,15,Maintaining Consistent Email Style
+6629,close,edit,15,Maintaining Consistent Email Style
+6633,open,write,15,Maintaining Consistent Email Style
+6652,close,write,15,Maintaining Consistent Email Style
+6665,open,edit,15,Maintaining Consistent Email Style
+6679,close,edit,15,Maintaining Consistent Email Style
+6688,open,write,15,Maintaining Consistent Email Style
+6702,close,write,15,Maintaining Consistent Email Style
+6711,open,write,15,Maintaining Consistent Email Style
+6730,close,write,15,Maintaining Consistent Email Style
+6739,open,write,15,Maintaining Consistent Email Style
+6745,close,write,15,Maintaining Consistent Email Style
+6750,open,write,15,Maintaining Consistent Email Style
+6756,close,write,15,Maintaining Consistent Email Style
+6767,open,learn,15,Maintaining Consistent Email Style
+6774,close,learn,15,Maintaining Consistent Email Style
+6778,open,notice,15,Maintaining Consistent Email Style
+6782,close,notice,15,Maintaining Consistent Email Style
+6784,open,example-bad,15,Maintaining Consistent Email Style
+6788,close,example-bad,15,Maintaining Consistent Email Style
+6790,open,example-good,15,Maintaining Consistent Email Style
+6794,close,example-good,15,Maintaining Consistent Email Style
+6806,open,edit,15,Maintaining Consistent Email Style
+6816,close,edit,15,Maintaining Consistent Email Style
+6820,open,write,15,Maintaining Consistent Email Style
+6835,close,write,15,Maintaining Consistent Email Style
+6848,open,learn,15,Maintaining Consistent Email Style
+6863,close,learn,15,Maintaining Consistent Email Style
+6867,open,notice,15,Maintaining Consistent Email Style
+6871,close,notice,15,Maintaining Consistent Email Style
+6873,open,example-bad,15,Maintaining Consistent Email Style
+6877,close,example-bad,15,Maintaining Consistent Email Style
+6879,open,example-good,15,Maintaining Consistent Email Style
+6883,close,example-good,15,Maintaining Consistent Email Style
+6897,open,write,15,Maintaining Consistent Email Style
+6918,close,write,15,Maintaining Consistent Email Style
+6935,open,structure,15,Maintaining Consistent Email Style
+6953,close,structure,15,Maintaining Consistent Email Style
+6957,open,revise,15,Maintaining Consistent Email Style
+6983,close,revise,15,Maintaining Consistent Email Style
+6996,open,revise,15,Maintaining Consistent Email Style
+7029,open,example,15,Maintaining Consistent Email Style
+7032,close,example,15,Maintaining Consistent Email Style
+7035,open,example,15,Maintaining Consistent Email Style
+7041,close,example,15,Maintaining Consistent Email Style
+7045,close,revise,15,Maintaining Consistent Email Style
+7054,open,write,15,Maintaining Consistent Email Style
+7076,close,write,15,Maintaining Consistent Email Style
+7128,open,learn,16,Editing for Accuracy
+7141,close,learn,16,Editing for Accuracy
+7145,open,edit,16,Editing for Accuracy
+7160,close,edit,16,Editing for Accuracy
+7167,open,learn,16,Editing for Accuracy
+7174,close,learn,16,Editing for Accuracy
+7178,open,learn,16,Editing for Accuracy
+7182,close,learn,16,Editing for Accuracy
+7184,open,example-bad,16,Editing for Accuracy
+7188,close,example-bad,16,Editing for Accuracy
+7190,open,example-good,16,Editing for Accuracy
+7194,close,example-good,16,Editing for Accuracy
+7196,open,learn,16,Editing for Accuracy
+7220,close,learn,16,Editing for Accuracy
+7224,open,language,16,Editing for Accuracy
+7241,close,language,16,Editing for Accuracy
+7243,open,learn,16,Editing for Accuracy
+7254,close,learn,16,Editing for Accuracy
+7256,open,edit,16,Editing for Accuracy
+7288,close,edit,16,Editing for Accuracy
+7295,open,edit,16,Editing for Accuracy
+7311,close,edit,16,Editing for Accuracy
+7325,open,example-bad,16,Editing for Accuracy
+7331,close,example-bad,16,Editing for Accuracy
+7333,open,edit,16,Editing for Accuracy
+7341,close,edit,16,Editing for Accuracy
+7350,open,edit,16,Editing for Accuracy
+7359,close,edit,16,Editing for Accuracy
+7363,open,edit,16,Editing for Accuracy
+7382,close,edit,16,Editing for Accuracy
+7395,open,edit,16,Editing for Accuracy
+7407,close,edit,16,Editing for Accuracy
+7417,open,example-bad,16,Editing for Accuracy
+7421,close,example-bad,16,Editing for Accuracy
+7423,open,edit,16,Editing for Accuracy
+7430,close,edit,16,Editing for Accuracy
+7439,open,write,16,Editing for Accuracy
+7452,close,write,16,Editing for Accuracy
+7461,open,write,16,Editing for Accuracy
+7467,close,write,16,Editing for Accuracy
+7472,open,write,16,Editing for Accuracy
+7478,close,write,16,Editing for Accuracy
+7500,open,learn,17,Editing for Clarity
+7514,close,learn,17,Editing for Clarity
+7518,open,notice,17,Editing for Clarity
+7533,close,notice,17,Editing for Clarity
+7535,open,learn,17,Editing for Clarity
+7542,close,learn,17,Editing for Clarity
+7546,open,learn,17,Editing for Clarity
+7550,close,learn,17,Editing for Clarity
+7552,open,example-bad,17,Editing for Clarity
+7556,close,example-bad,17,Editing for Clarity
+7558,open,example-good,17,Editing for Clarity
+7562,close,example-good,17,Editing for Clarity
+7564,open,learn,17,Editing for Clarity
+7574,close,learn,17,Editing for Clarity
+7578,open,language,17,Editing for Clarity
+7604,close,language,17,Editing for Clarity
+7606,open,rewrite,17,Editing for Clarity
+7627,close,rewrite,17,Editing for Clarity
+7634,open,learn,17,Editing for Clarity
+7648,close,learn,17,Editing for Clarity
+7650,open,rewrite,17,Editing for Clarity
+7676,close,rewrite,17,Editing for Clarity
+7686,open,example-bad,17,Editing for Clarity
+7690,close,example-bad,17,Editing for Clarity
+7692,open,edit,17,Editing for Clarity
+7701,close,edit,17,Editing for Clarity
+7710,open,edit,17,Editing for Clarity
+7719,close,edit,17,Editing for Clarity
+7723,open,edit,17,Editing for Clarity
+7742,close,edit,17,Editing for Clarity
+7756,open,example-bad,17,Editing for Clarity
+7760,close,example-bad,17,Editing for Clarity
+7762,open,edit,17,Editing for Clarity
+7770,close,edit,17,Editing for Clarity
+7779,open,write,17,Editing for Clarity
+7791,close,write,17,Editing for Clarity
+7801,open,example-bad,17,Editing for Clarity
+7805,close,example-bad,17,Editing for Clarity
+7807,open,edit,17,Editing for Clarity
+7814,close,edit,17,Editing for Clarity
+7823,open,write,17,Editing for Clarity
+7829,close,write,17,Editing for Clarity
+7834,open,write,17,Editing for Clarity
+7838,close,write,17,Editing for Clarity
+7860,open,learn,18,Editing for Tone
+7881,close,learn,18,Editing for Tone
+7885,open,notice,18,Editing for Tone
+7900,close,notice,18,Editing for Tone
+7902,open,learn,18,Editing for Tone
+7909,close,learn,18,Editing for Tone
+7913,open,learn,18,Editing for Tone
+7917,close,learn,18,Editing for Tone
+7919,open,example-bad,18,Editing for Tone
+7923,close,example-bad,18,Editing for Tone
+7925,open,example-good,18,Editing for Tone
+7929,close,example-good,18,Editing for Tone
+7931,open,learn,18,Editing for Tone
+7941,close,learn,18,Editing for Tone
+7945,open,language,18,Editing for Tone
+7965,close,language,18,Editing for Tone
+7967,open,rewrite,18,Editing for Tone
+8001,close,rewrite,18,Editing for Tone
+8008,open,language,18,Editing for Tone
+8025,close,language,18,Editing for Tone
+8027,open,learn,18,Editing for Tone
+8036,close,learn,18,Editing for Tone
+8038,open,rewrite,18,Editing for Tone
+8056,close,rewrite,18,Editing for Tone
+8066,open,example-bad,18,Editing for Tone
+8072,close,example-bad,18,Editing for Tone
+8074,open,edit,18,Editing for Tone
+8083,close,edit,18,Editing for Tone
+8092,open,edit,18,Editing for Tone
+8101,close,edit,18,Editing for Tone
+8105,open,edit,18,Editing for Tone
+8124,close,edit,18,Editing for Tone
+8138,open,example-bad,18,Editing for Tone
+8142,close,example-bad,18,Editing for Tone
+8144,open,edit,18,Editing for Tone
+8152,close,edit,18,Editing for Tone
+8161,open,write,18,Editing for Tone
+8175,close,write,18,Editing for Tone
+8185,open,example-bad,18,Editing for Tone
+8189,close,example-bad,18,Editing for Tone
+8191,open,edit,18,Editing for Tone
+8198,close,edit,18,Editing for Tone
+8207,open,write,18,Editing for Tone
+8213,close,write,18,Editing for Tone
+8218,open,write,18,Editing for Tone
+8224,close,write,18,Editing for Tone
+8235,open,learn,18,Editing for Tone
+8241,close,learn,18,Editing for Tone
+8245,open,notice,18,Editing for Tone
+8249,close,notice,18,Editing for Tone
+8251,open,example-bad,18,Editing for Tone
+8255,close,example-bad,18,Editing for Tone
+8257,open,example-good,18,Editing for Tone
+8261,close,example-good,18,Editing for Tone
+8273,open,edit,18,Editing for Tone
+8282,close,edit,18,Editing for Tone
+8286,open,revise,18,Editing for Tone
+8300,close,revise,18,Editing for Tone
+8317,open,learn,18,Editing for Tone
+8330,close,learn,18,Editing for Tone
+8335,open,example-bad,18,Editing for Tone
+8358,close,example-bad,18,Editing for Tone
+8360,open,edit,18,Editing for Tone
+8365,close,edit,18,Editing for Tone
+8374,open,write,18,Editing for Tone
+8385,close,write,18,Editing for Tone
+8398,open,structure,18,Editing for Tone
+8415,close,structure,18,Editing for Tone
+8419,open,write,18,Editing for Tone
+8432,close,write,18,Editing for Tone
+8484,open,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8493,close,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8497,open,notice,19,Integrated Task 1: Combined Email + Internal Explanation
+8514,close,notice,19,Integrated Task 1: Combined Email + Internal Explanation
+8516,open,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8522,close,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8526,open,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8548,close,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8552,open,language,19,Integrated Task 1: Combined Email + Internal Explanation
+8568,close,language,19,Integrated Task 1: Combined Email + Internal Explanation
+8570,open,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8574,close,learn,19,Integrated Task 1: Combined Email + Internal Explanation
+8576,open,rewrite,19,Integrated Task 1: Combined Email + Internal Explanation
+8605,close,rewrite,19,Integrated Task 1: Combined Email + Internal Explanation
+8614,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8630,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8639,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8661,open,example,19,Integrated Task 1: Combined Email + Internal Explanation
+8664,close,example,19,Integrated Task 1: Combined Email + Internal Explanation
+8667,open,example,19,Integrated Task 1: Combined Email + Internal Explanation
+8671,close,example,19,Integrated Task 1: Combined Email + Internal Explanation
+8677,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8686,open,edit,19,Integrated Task 1: Combined Email + Internal Explanation
+8695,close,edit,19,Integrated Task 1: Combined Email + Internal Explanation
+8699,open,structure,19,Integrated Task 1: Combined Email + Internal Explanation
+8714,close,structure,19,Integrated Task 1: Combined Email + Internal Explanation
+8718,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8739,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8752,open,edit,19,Integrated Task 1: Combined Email + Internal Explanation
+8763,close,edit,19,Integrated Task 1: Combined Email + Internal Explanation
+8772,open,rewrite,19,Integrated Task 1: Combined Email + Internal Explanation
+8783,close,rewrite,19,Integrated Task 1: Combined Email + Internal Explanation
+8792,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8814,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8827,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8833,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8838,open,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8842,close,write,19,Integrated Task 1: Combined Email + Internal Explanation
+8864,open,learn,20,Integrated Task 2: Revision + Notice Writing
+8885,close,learn,20,Integrated Task 2: Revision + Notice Writing
+8889,open,notice,20,Integrated Task 2: Revision + Notice Writing
+8906,close,notice,20,Integrated Task 2: Revision + Notice Writing
+8908,open,learn,20,Integrated Task 2: Revision + Notice Writing
+8914,close,learn,20,Integrated Task 2: Revision + Notice Writing
+8918,open,learn,20,Integrated Task 2: Revision + Notice Writing
+8931,close,learn,20,Integrated Task 2: Revision + Notice Writing
+8935,open,language,20,Integrated Task 2: Revision + Notice Writing
+8959,close,language,20,Integrated Task 2: Revision + Notice Writing
+8961,open,learn,20,Integrated Task 2: Revision + Notice Writing
+8966,close,learn,20,Integrated Task 2: Revision + Notice Writing
+8968,open,rewrite,20,Integrated Task 2: Revision + Notice Writing
+8997,close,rewrite,20,Integrated Task 2: Revision + Notice Writing
+9006,open,write,20,Integrated Task 2: Revision + Notice Writing
+9023,close,write,20,Integrated Task 2: Revision + Notice Writing
+9032,open,write,20,Integrated Task 2: Revision + Notice Writing
+9047,close,write,20,Integrated Task 2: Revision + Notice Writing
+9056,open,edit,20,Integrated Task 2: Revision + Notice Writing
+9065,close,edit,20,Integrated Task 2: Revision + Notice Writing
+9069,open,structure,20,Integrated Task 2: Revision + Notice Writing
+9085,close,structure,20,Integrated Task 2: Revision + Notice Writing
+9089,open,write,20,Integrated Task 2: Revision + Notice Writing
+9110,close,write,20,Integrated Task 2: Revision + Notice Writing
+9123,open,edit,20,Integrated Task 2: Revision + Notice Writing
+9134,close,edit,20,Integrated Task 2: Revision + Notice Writing
+9143,open,write,20,Integrated Task 2: Revision + Notice Writing
+9154,close,write,20,Integrated Task 2: Revision + Notice Writing
+9163,open,write,20,Integrated Task 2: Revision + Notice Writing
+9184,close,write,20,Integrated Task 2: Revision + Notice Writing
+9197,open,write,20,Integrated Task 2: Revision + Notice Writing
+9203,close,write,20,Integrated Task 2: Revision + Notice Writing
+9208,open,write,20,Integrated Task 2: Revision + Notice Writing
+9216,close,write,20,Integrated Task 2: Revision + Notice Writing
+9238,open,learn,21,Writing for Consistency Across a Team
+9261,close,learn,21,Writing for Consistency Across a Team
+9265,open,notice,21,Writing for Consistency Across a Team
+9269,close,notice,21,Writing for Consistency Across a Team
+9271,open,example-bad,21,Writing for Consistency Across a Team
+9278,close,example-bad,21,Writing for Consistency Across a Team
+9280,open,example-good,21,Writing for Consistency Across a Team
+9287,close,example-good,21,Writing for Consistency Across a Team
+9299,open,learn,21,Writing for Consistency Across a Team
+9314,close,learn,21,Writing for Consistency Across a Team
+9318,open,language,21,Writing for Consistency Across a Team
+9344,close,language,21,Writing for Consistency Across a Team
+9346,open,learn,21,Writing for Consistency Across a Team
+9350,close,learn,21,Writing for Consistency Across a Team
+9352,open,rewrite,21,Writing for Consistency Across a Team
+9369,close,rewrite,21,Writing for Consistency Across a Team
+9377,open,example-bad,21,Writing for Consistency Across a Team
+9382,close,example-bad,21,Writing for Consistency Across a Team
+9384,open,rewrite,21,Writing for Consistency Across a Team
+9406,close,rewrite,21,Writing for Consistency Across a Team
+9415,open,rewrite,21,Writing for Consistency Across a Team
+9436,close,rewrite,21,Writing for Consistency Across a Team
+9445,open,edit,21,Writing for Consistency Across a Team
+9454,close,edit,21,Writing for Consistency Across a Team
+9458,open,rewrite,21,Writing for Consistency Across a Team
+9490,close,rewrite,21,Writing for Consistency Across a Team
+9503,open,edit,21,Writing for Consistency Across a Team
+9512,close,edit,21,Writing for Consistency Across a Team
+9521,open,write,21,Writing for Consistency Across a Team
+9539,close,write,21,Writing for Consistency Across a Team
+9549,open,example-bad,21,Writing for Consistency Across a Team
+9555,close,example-bad,21,Writing for Consistency Across a Team
+9557,open,rewrite,21,Writing for Consistency Across a Team
+9568,close,rewrite,21,Writing for Consistency Across a Team
+9585,open,write,21,Writing for Consistency Across a Team
+9591,close,write,21,Writing for Consistency Across a Team
+9596,open,write,21,Writing for Consistency Across a Team
+9602,close,write,21,Writing for Consistency Across a Team
+9624,open,learn,22,Multi-Document Communication Task
+9638,close,learn,22,Multi-Document Communication Task
+9642,open,notice,22,Multi-Document Communication Task
+9657,close,notice,22,Multi-Document Communication Task
+9659,open,learn,22,Multi-Document Communication Task
+9665,close,learn,22,Multi-Document Communication Task
+9669,open,learn,22,Multi-Document Communication Task
+9683,close,learn,22,Multi-Document Communication Task
+9687,open,language,22,Multi-Document Communication Task
+9708,close,language,22,Multi-Document Communication Task
+9710,open,learn,22,Multi-Document Communication Task
+9714,close,learn,22,Multi-Document Communication Task
+9716,open,rewrite,22,Multi-Document Communication Task
+9737,close,rewrite,22,Multi-Document Communication Task
+9746,open,write,22,Multi-Document Communication Task
+9761,close,write,22,Multi-Document Communication Task
+9770,open,write,22,Multi-Document Communication Task
+9784,close,write,22,Multi-Document Communication Task
+9793,open,write,22,Multi-Document Communication Task
+9825,close,write,22,Multi-Document Communication Task
+9834,open,edit,22,Multi-Document Communication Task
+9843,close,edit,22,Multi-Document Communication Task
+9847,open,structure,22,Multi-Document Communication Task
+9863,close,structure,22,Multi-Document Communication Task
+9867,open,write,22,Multi-Document Communication Task
+9889,close,write,22,Multi-Document Communication Task
+9906,open,edit,22,Multi-Document Communication Task
+9920,close,edit,22,Multi-Document Communication Task
+9929,open,structure,22,Multi-Document Communication Task
+9951,close,structure,22,Multi-Document Communication Task
+9960,open,write,22,Multi-Document Communication Task
+9981,close,write,22,Multi-Document Communication Task
+9998,open,write,22,Multi-Document Communication Task
+10004,close,write,22,Multi-Document Communication Task
+10009,open,write,22,Multi-Document Communication Task
+10013,close,write,22,Multi-Document Communication Task
+10035,open,learn,23,Portfolio Writing & Final Revision
+10055,close,learn,23,Portfolio Writing & Final Revision
+10059,open,structure,23,Portfolio Writing & Final Revision
+10073,close,structure,23,Portfolio Writing & Final Revision
+10077,open,learn,23,Portfolio Writing & Final Revision
+10092,close,learn,23,Portfolio Writing & Final Revision
+10096,open,language,23,Portfolio Writing & Final Revision
+10124,close,language,23,Portfolio Writing & Final Revision
+10126,open,learn,23,Portfolio Writing & Final Revision
+10133,close,learn,23,Portfolio Writing & Final Revision
+10135,open,revise,23,Portfolio Writing & Final Revision
+10144,close,revise,23,Portfolio Writing & Final Revision
+10151,open,revise,23,Portfolio Writing & Final Revision
+10174,close,revise,23,Portfolio Writing & Final Revision
+10181,open,revise,23,Portfolio Writing & Final Revision
+10201,close,revise,23,Portfolio Writing & Final Revision
+10210,open,edit,23,Portfolio Writing & Final Revision
+10219,close,edit,23,Portfolio Writing & Final Revision
+10223,open,structure,23,Portfolio Writing & Final Revision
+10245,close,structure,23,Portfolio Writing & Final Revision
+10249,open,write,23,Portfolio Writing & Final Revision
+10263,close,write,23,Portfolio Writing & Final Revision
+10272,open,structure,23,Portfolio Writing & Final Revision
+10308,close,structure,23,Portfolio Writing & Final Revision
+10312,open,structure,23,Portfolio Writing & Final Revision
+10331,close,structure,23,Portfolio Writing & Final Revision
+10352,open,revise,23,Portfolio Writing & Final Revision
+10369,close,revise,23,Portfolio Writing & Final Revision
+10373,open,structure,23,Portfolio Writing & Final Revision
+10392,close,structure,23,Portfolio Writing & Final Revision
+10396,open,edit,23,Portfolio Writing & Final Revision
+10408,close,edit,23,Portfolio Writing & Final Revision
+10417,open,write,23,Portfolio Writing & Final Revision
+10429,close,write,23,Portfolio Writing & Final Revision
+10438,open,write,23,Portfolio Writing & Final Revision
+10444,close,write,23,Portfolio Writing & Final Revision
+10449,open,write,23,Portfolio Writing & Final Revision
+10453,close,write,23,Portfolio Writing & Final Revision
+10464,open,learn,23,Portfolio Writing & Final Revision
+10472,close,learn,23,Portfolio Writing & Final Revision
+10477,open,notice,23,Portfolio Writing & Final Revision
+10481,close,notice,23,Portfolio Writing & Final Revision
+10483,open,example-bad,23,Portfolio Writing & Final Revision
+10487,close,example-bad,23,Portfolio Writing & Final Revision
+10489,open,example-good,23,Portfolio Writing & Final Revision
+10495,close,example-good,23,Portfolio Writing & Final Revision
+10508,open,learn,23,Portfolio Writing & Final Revision
+10518,close,learn,23,Portfolio Writing & Final Revision
+10522,open,revise,23,Portfolio Writing & Final Revision
+10540,close,revise,23,Portfolio Writing & Final Revision
+10549,open,write,23,Portfolio Writing & Final Revision
+10566,close,write,23,Portfolio Writing & Final Revision
+10583,open,structure,23,Portfolio Writing & Final Revision
+10599,close,structure,23,Portfolio Writing & Final Revision
+10603,open,rewrite,23,Portfolio Writing & Final Revision
+10634,close,rewrite,23,Portfolio Writing & Final Revision
+10651,open,write,23,Portfolio Writing & Final Revision
+10674,close,write,23,Portfolio Writing & Final Revision
+10691,open,structure,23,Portfolio Writing & Final Revision
+10711,close,structure,23,Portfolio Writing & Final Revision
+10715,open,learn,23,Portfolio Writing & Final Revision
+10736,close,learn,23,Portfolio Writing & Final Revision
+10740,open,revise,23,Portfolio Writing & Final Revision
+10788,open,example,23,Portfolio Writing & Final Revision
+10791,close,example,23,Portfolio Writing & Final Revision
+10794,open,example,23,Portfolio Writing & Final Revision
+10803,close,example,23,Portfolio Writing & Final Revision
+10807,close,revise,23,Portfolio Writing & Final Revision
+10816,open,structure,23,Portfolio Writing & Final Revision
+10841,close,structure,23,Portfolio Writing & Final Revision

@@ -61,6 +61,7 @@ A heading audit of `int/md/working/aw-int-all_0519.md` found:
 - Units 1-18 have duplicate visible section letters, usually `F` and `H`, and many also have duplicate `A`, `D`, or `E`
 - Units 19-23 still contain lettered `####` subsections that should be normalized or intentionally treated as subordinate labels
 - Unit 23 has `A B C F E D G H`, which is visibly misordered
+- A later audit found the inverse failure in `int/md/working/aw-int-all_0519.md`: Units 3, 4, and 8-18 have concept-primer material demoted to unlettered `####` headings before the surviving `### A. Warm-Up`. These likely came from a duplicate-heading cleanup that kept the later `A. Warm-Up` instead of preserving the first intended `### A.` structural section.
 
 These issues are severe because students, teachers, and answer-key writers need stable activity references.
 
@@ -116,15 +117,36 @@ The user's original problem list is the acceptance checklist for this plan. Do n
 | Too much information, including answers or models immediately after questions | Sections 3.3, 3.4, 4.3, Phase 3 step 9, 6.3, and Definition of Done item 8 | Separate input, practice, and answer space; use a different model, a partial model, or teacher material when the model would answer the task. |
 | Weak connection between activities and unit/module goals | Sections 3.1, 4.1, Phase 3 steps 1-4, and 6.1-6.2 | Map every activity to the unit Focus statements and to one learner action before rewriting. |
 | Misordered activities, generally needing A-H order | Sections 2.3, 4.1, Phase 3 step 5, 6.2, 6.5, and Definition of Done items 1-2 | Normalize visible activity headings and document any capstone exception. |
+| First structural `A` heading accidentally demoted | Sections 2.3, 4.1, Phase 1, Phase 2, and Definition of Done items 1-2 | Preserve the first intended `### A.` structural heading in each unit; do not treat a later warm-up heading as the only `A` when an earlier concept primer was originally the `A` section. |
 | Incorrect list type or unnecessary list formatting | Sections 4.5, Phase 3 step 11, and 6.5 | Use numbered lists for ordered work, bullets for unordered options, checkboxes only for checks, and prose when no list is needed. |
 | Excessive list usage | Sections 4.5 and 6.5 | Convert explanation-only lists into short prose when list formatting adds clutter without helping the task. |
-| Writing examples lack appropriate paragraph structure | Sections 2.5, 4.8, 6.5, and Definition of Done item 10 | Format model emails, notes, paragraphs, and reports as readable workplace text blocks. |
+| Writing examples lack appropriate paragraph structure | Sections 2.5, 4.9, 6.5, and Definition of Done item 10 | Format model emails, notes, paragraphs, and reports as readable workplace text blocks. |
 | Incorrect div class choice and application | Sections 4.6, Phase 3 step 12, 6.5, and Definition of Done item 3 | Match each fenced div class to the activity function and keep activity boundaries clear. |
-| Spelling, grammar, and punctuation errors | Sections 4.8, Phase 3 step 14, and Definition of Done item 11 | Proofread instructional prose and models as core content, not as a cosmetic final pass. |
+| Spelling, grammar, and punctuation errors | Sections 4.9, Phase 3 step 14, and Definition of Done item 11 | Proofread instructional prose and models as core content, not as a cosmetic final pass. |
 | Incorrect student response placeholder row count | Sections 2.4, 4.7, Phase 3 step 13, 6.6, and Definition of Done item 4 | Match `rows=N` to the expected student output and flag outliers for layout review. |
 | Redundant student response placeholders | Sections 2.4, 4.7, 6.6, and Definition of Done item 4 | Remove generic or duplicate boxes unless the activity explicitly needs a separate final version. |
 | Excessive redundant titles | Sections 4.2 and 6.5 | Reduce stacked near-synonym titles to one clear activity/div title plus needed prose. |
 | Missing prose after headers or title-like lines | Sections 4.3, Phase 3 step 10, 6.3, and Definition of Done item 9 | Add enough student-facing explanation, task language, or example context after each title/header-like line. |
+| Page-layout defects found in rendered PDF review | Sections 2.8, 4.8, Phase 7, and Definition of Done items 14-18 | Fix running headers, raw Markdown/table rendering, split examples, split prompts/response areas, split tables, orphaned headings, and sparse final pages before print sign-off. |
+
+### 2.8 PDF visual inspection defects added after Module 1-2 review
+
+Visual inspection of `int/md/working/aw-int-all_0530.pdf` added production-layout issues that must feed back into the repair list. Detailed notes are recorded in:
+
+- `int/edits & guides/full-review/print-readiness-audits/module1_pdf_layout_followup_0531.md`
+- `int/edits & guides/full-review/print-readiness-audits/module2_pdf_layout_followup_0531.md`
+
+New repair categories from the rendered PDF:
+
+- running headers can carry stale context, including `Module Guide` on unit pages and a previous module review header on a new module title page
+- section headings, div labels, short lists, and activity starts can be orphaned at page bottoms
+- prompts and response areas can split so a page begins with answer lines detached from the task
+- weak/strong examples, model boxes, and explanation bullets can split across pages in a way that weakens the comparison
+- short tables and structured grids can split without a repeated header or enough context
+- raw Markdown can leak into the PDF, confirmed by the Unit 7 `Politeness Scale` pipe-table rendering with visible `|` characters and literal `**` markers
+- module endings can leave sparse trailing pages that look accidental rather than intentional
+
+These are not a replacement for the source-level repair. They are additional print-readiness gates that must be checked after DOCX/PDF generation.
 
 ---
 
@@ -230,11 +252,11 @@ Each ordinary unit has this visible sequence unless a documented capstone except
 4. `### C. Language`
 5. `### D. Guided Practice`
 6. `### E. Freer Practice`
-7. `### F. Self-Check / Reflection / Review` as appropriate
-8. `### G. Editing Practice`
+7. `### F. Editing Practice`
+8. `### G. Self-Check / Reflection / Review` as appropriate
 9. `### H. Transfer Extension / Homework` as appropriate
 
-Important: do not use duplicate visible `### A.` to `### H.` headings in the same unit. If a unit needs a concept primer before the warm-up, make it an internal div heading, not another top-level `### A.` heading.
+Important: do not use duplicate visible `### A.` to `### H.` headings in the same unit. When repairing duplicate `A` sections, preserve the first intended structural `### A.` heading unless the unit-specific design review deliberately chooses a different `A` activity. If a later warm-up must remain inside the same `A` section, demote it to a body subheading or div label rather than stripping the first `A` marker from the concept primer.
 
 ### 4.2 Activity titles
 
@@ -337,7 +359,25 @@ Every placeholder should have:
 - an explicit `rows=N`
 - a nearby label only when the label adds information not already present in the instruction
 
-### 4.8 Language correctness
+### 4.8 Rendered page layout
+
+Print readiness requires visual checks of rendered DOCX/PDF pages, not only Markdown audits. Source repairs must support clean page behavior in the generated book.
+
+Fix or flag:
+
+- stale or misleading running headers
+- orphaned section headings, div labels, and short activity starts at page bottoms
+- response lines separated from the prompt or task instruction
+- weak/strong examples split across pages without enough context
+- model boxes separated from their immediate explanation
+- short checklists split so only one or two items continue on the next page
+- tables or grids split without a repeated header or readable continuation
+- raw Markdown syntax that appears in the rendered output
+- module-ending pages with very little content and no intentional design reason
+
+These issues should be addressed with source structure, style keep rules, table-format changes, placeholder row calibration, or intentional page-break controls. Do not rely on manual PDF cleanup.
+
+### 4.9 Language correctness
 
 Because this is an English writing textbook, proofreading is part of the content repair, not a final cosmetic pass. Fix:
 
@@ -370,14 +410,17 @@ Required inventories:
 
 1. unit heading sequence audit
 2. duplicate `A-H` heading audit
-3. `#### A-H` subordinate-heading audit
-4. div balance and div-class audit
-5. placeholder inventory with type, ID, rows, surrounding heading, and likely output type
-6. generic label audit for `Write Here`, `Use this box`, and similar labels
-7. excessive blank-line audit
-8. visible arrow / spacing audit for `->` and missing spaces
-9. module review heading capitalization audit
-10. representative unit-reading note covering the module-family sample in Section 2.6
+3. first-`A` preservation audit, especially units where unlettered `####` concept-primer headings appear before `### A. Warm-Up`
+4. `#### A-H` subordinate-heading audit
+5. div balance and div-class audit
+6. placeholder inventory with type, ID, rows, surrounding heading, and likely output type
+7. placeholder size-risk audit for multi-item tasks where `rows=N` appears too small
+8. generic label audit for `Write Here`, `Use this box`, and similar labels
+9. excessive blank-line audit
+10. visible arrow / spacing audit for `->` and missing spaces
+11. list capitalization and punctuation audit for instructional lists
+12. module review heading capitalization audit
+13. representative unit-reading note covering the module-family sample in Section 2.6
 
 These inventories should be reviewed before editing so the next LLM does not rediscover the same problems repeatedly. The editor must not rely on Units 1-4 as the whole-book baseline because those units have already been manually altered.
 
@@ -393,8 +436,8 @@ Standard target:
 - `C. Language`
 - `D. Guided Practice`
 - `E. Freer Practice`
-- `F. Self-Check and Reflection` or a comparable combined review section
-- `G. Editing Practice`
+- `F. Editing Practice`
+- `G. Self-Check and Reflection` or a comparable combined review section
 - `H. Transfer / Homework`
 
 Allowed exceptions:
@@ -409,6 +452,8 @@ For every duplicate visible heading, choose one of these treatments:
 3. convert it to an internal div title
 4. delete it if it is only a redundant label
 
+Do not let the duplicate-heading repair invert the activity shell. If the first `A` heading is the unit's concept primer and a later `A` heading is the warm-up, keep the concept primer as the structural `### A.` unless the unit design is explicitly changed, then fold the warm-up into that section as a subordinate activity.
+
 ### Phase 3 - Repair one unit at a time
 
 Use this workflow for each unit.
@@ -418,16 +463,17 @@ Use this workflow for each unit.
 3. Write a one-sentence teacher goal for the unit.
 4. Map each activity to the goal and to one learner action.
 5. Fix the visible heading order.
-6. Repair instructions for clarity, completeness, information order, and intermediate-level readability.
-7. Reorganize instructions so related sentences stay together and the student sees context, source, action, output requirement, and response space in a logical order.
-8. Remove or replace advanced vocabulary, idioms, and editor-facing wording in student-facing text.
-9. Remove or relocate spoilers, including full model answers placed immediately after the same question.
-10. Check for activity titles or header-like lines with missing prose, and write the needed student-facing explanation or task sentence.
-11. Normalize list types.
-12. Repair div class choices and boundaries.
-13. Calibrate placeholder type and row count.
-14. Proofread examples and model texts.
-15. Run local audits before moving to the next unit.
+6. Repair activity information order before polishing wording: context or source first, student action second, length/number/output requirement third, response space last.
+7. Repair instructions for clarity, completeness, information order, and intermediate-level readability.
+8. Reorganize instructions so related sentences stay together and the student sees context, source, action, output requirement, and response space in a logical order.
+9. Remove or replace advanced vocabulary, idioms, and editor-facing wording in student-facing text.
+10. Remove or relocate spoilers, including full model answers placed immediately after the same question.
+11. Check for activity titles or header-like lines with missing prose, and write the needed student-facing explanation or task sentence.
+12. Normalize list types.
+13. Repair div class choices and boundaries.
+14. Calibrate placeholder type and row count.
+15. Proofread examples and model texts.
+16. Run local audits before moving to the next unit.
 
 Do not batch-rewrite all 23 units at once. The previous failure pattern suggests that broad automated passes can damage structure faster than they improve it.
 
@@ -487,11 +533,14 @@ Only after the working manuscript is approved:
 After Markdown sign-off only:
 
 1. rebuild DOCX
-2. inspect representative pages from each module
+2. inspect representative pages from each module in DOCX before PDF export
 3. verify response boxes do not split badly across pages
-4. verify headings and div labels render correctly
+4. verify headings, div labels, tables, model boxes, and running headers render correctly
 5. rebuild PDF
-6. perform a final print-readiness checklist pass
+6. visually inspect at least one full module from each major module family, plus every module title page and review workshop ending
+7. check that prompts, examples, response areas, short tables, and checklists stay together or split with readable context
+8. confirm no raw Markdown syntax appears in the PDF, especially pipe tables and emphasis markers
+9. perform a final print-readiness checklist pass
 
 ---
 
@@ -512,8 +561,8 @@ Use this checklist for each unit and record pass/fail notes.
 - [ ] Language section teaches the needed form, phrase, structure, or editing principle.
 - [ ] Guided Practice gives enough support but does not complete the task for the student.
 - [ ] Freer Practice asks students to produce a meaningful workplace text.
-- [ ] Self-check appears after drafting or immediately before a larger draft only if it clearly supports that draft.
 - [ ] Editing Practice requires revision or correction, not just rereading.
+- [ ] Self-check / Reflection appears after production and editing, unless a pre-draft checklist clearly supports a specific larger draft.
 - [ ] Transfer / Homework extends the unit skill to a new or later context.
 
 ### 6.3 Instruction quality
@@ -643,6 +692,12 @@ The repair is complete when:
 11. the manuscript passes proofreading for spelling, grammar, punctuation, capitalization, and spacing
 12. the answer key is rechecked against revised activity references
 13. DOCX and PDF builds are produced only after Markdown sign-off
+14. running headers show the correct module, unit, or review context and do not carry stale previous-section labels
+15. rendered pages do not split prompts from their first response space or leave answer lines detached from the task
+16. examples, weak/strong comparisons, model explanations, short checklists, and short tables are kept together or split only with clear continuation context
+17. no raw Markdown syntax, pipe-table syntax, or emphasis markers appear in the DOCX/PDF output
+18. module-ending pages are visually balanced or intentionally designed; sparse trailing pages are fixed or accepted deliberately
+19. the first intended `### A.` structural heading is preserved in every unit, and no concept-primer section has been silently demoted while a later warm-up was kept as the only visible `A`
 
 ---
 
