@@ -376,7 +376,7 @@ Professional Tone Usually Does Three Things
 ::: learn
 Why the Stronger Tone Works
 
-Look again at this pair:
+Read the weak and stronger versions. Notice how the stronger version asks for help without blaming the reader.
 :::
 
 ::: example-bad
@@ -400,8 +400,7 @@ The stronger version works because it:
 - sounds cooperative, not demanding
 - keeps the focus on the task, not on blame
 
-Professional tone does not mean "very formal words only."
-It means the reader can cooperate without feeling attacked.
+Professional tone does not mean "very formal words only." It means the reader can cooperate without feeling attacked.
 :::
 
 ### C. Language
@@ -423,39 +422,34 @@ Useful Phrases for Requests
 ::: rewrite
 Practice: Make the Request Polite
 
-Rewrite the message using a polite request phrase.
+Rewrite each direct sentence as a polite request. Use one phrase from the list above.
 
-**1.** Send the updated form.
+1. Send the updated form.
 
-{{PH-1: U02-C-rewrite-1 | rows=2}}
+   {{PH-1: U02-C-rewrite-1 | rows=2}}
 
-**2.** Tell me the deadline.
+2. Tell me the deadline.
 
-{{PH-1: U02-C-rewrite-2 | rows=2}}
+   {{PH-1: U02-C-rewrite-2 | rows=2}}
 
-**3.** Check the file.
+3. Check the file.
 
-{{PH-1: U02-C-rewrite-3 | rows=2}}
+   {{PH-1: U02-C-rewrite-3 | rows=2}}
 
-**4.** Give me the information.
+4. Give me the information.
 
-{{PH-1: U02-C-rewrite-4 | rows=2}}
+   {{PH-1: U02-C-rewrite-4 | rows=2}}
 
 :::
 
-
-**Write Here**
-
-{{PH-1: U02-lang1-polite-request | rows=2}}
-
 ::: learn
-Professional Tone in Explanations
+Check the Tone
 
-Professional tone is:
+Use these three points to check whether a workplace message sounds professional:
 
-- **Clear** (not too long or complicated)
-- **Neutral** (not emotional)
-- **Respectful** (polite and calm)
+- **Clear:** the message is not too long or complicated.
+- **Neutral:** the message is not emotional.
+- **Respectful:** the message is polite and calm.
 
 When you check tone, ask:
 
@@ -465,13 +459,9 @@ When you check tone, ask:
 :::
 
 ::: learn
-Why This Works
+Why Tone Matters
 
-A professional message helps the reader do the next step calmly.
-
-If a message sounds too direct, the reader may focus on the tone instead of the task.
-
-If a message sounds calm and clear, the reader can focus on:
+A professional message helps the reader do the next step calmly. If a message sounds too direct, the reader may focus on the tone instead of the task. If a message sounds calm and clear, the reader can focus on:
 
 - what is needed
 - what needs clarification
@@ -482,35 +472,30 @@ If a message sounds calm and clear, the reader can focus on:
 ::: rewrite
 Change the Tone
 
-Rewrite each sentence to make it sound more professional.
+Rewrite each sentence in a more neutral, professional tone. Keep the same basic meaning.
 
-**1.** You didn't send the document.
+1. You didn't send the document.
 
-{{PH-1: U02-C-rewrite-5 | rows=2}}
+   {{PH-1: U02-C-rewrite-5 | rows=2}}
 
-**2.** I can't do this because the system is broken.
+2. I can't do this because the system is broken.
 
-{{PH-1: U02-C-rewrite-6 | rows=2}}
+   {{PH-1: U02-C-rewrite-6 | rows=2}}
 
-**3.** That information is wrong.
+3. That information is wrong.
 
-{{PH-1: U02-C-rewrite-7 | rows=2}}
+   {{PH-1: U02-C-rewrite-7 | rows=2}}
 
-**4.** I already told you this yesterday.
+4. I already told you this yesterday.
 
-{{PH-1: U02-C-rewrite-8 | rows=2}}
+   {{PH-1: U02-C-rewrite-8 | rows=2}}
 
 :::
-
-
-**Write Here**
-
-{{PH-1: U02-lang2-tone | rows=2}}
 
 ::: language
 Useful Phrases by Function
 
-You can use these phrases to make your tone more appropriate:
+Use these phrases when you need to give information, ask a question, or refer to an earlier message.
 
 **Giving Information**
 
@@ -545,41 +530,16 @@ Original Email
 ::: rewrite
 Rewrite the Email
 
-Rewrite the email to make it more polite and professional.
+Read the weak email above. Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: ask for the correct file today.
 
-Try to improve all three areas:
+Include:
 
-- tone
-- clarity of request
-- calm explanation of the problem
-
-**Mini contrast — Weak:** blame first, urgent demand, no calm context
-
-**Stronger:** short greeting, clear problem statement, polite request, stable tone
-
-**Rewrite here:**
-:::
-
-
-Use this box for one complete version.
-
-**Write Here**
+- short greeting
+- a clear problem statement
+- a polite request
+- a calm professional tone
 
 {{PH-3: U02-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your own email, check:
-
-- [ ] Did I greet the reader politely?
-- [ ] Did I explain my purpose clearly?
-- [ ] Did I use one polite request or clarification phrase?
-- [ ] Does the message sound calm and professional?
-
-If one answer is `No`, improve the draft before moving on.
 :::
 
 ### E. Freer Practice
@@ -587,9 +547,7 @@ If one answer is `No`, improve the draft before moving on.
 ::: write
 Write Your Own Professional Email
 
-Choose one situation and write a short professional email in **3-4 sentences**.
-
-**Situations**
+Choose one situation below.
 
 A. Write to a colleague who needs to check a document today.
 
@@ -597,117 +555,111 @@ B. Write to an applicant to confirm the correct deadline.
 
 C. Write to a colleague to ask for clarification about one part of an application.
 
-Include:
+Write a short professional email in **3-4 sentences**. Include:
 
 - a clear opening
 - one polite request or clarification question
 - a professional closing line
-:::
 
+Before you write, check that your plan will:
 
-**Write Here**
+- [ ] greet the reader politely
+- [ ] explain your purpose clearly
+- [ ] use one polite request or clarification phrase
+- [ ] sound calm and professional
 
 {{PH-3: U02-freer-document | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
 Remove the Tone Problem
 
-Rewrite each line so it keeps the same purpose but sounds more professional.
+Rewrite each sentence so it keeps the same purpose but sounds more professional. Do not add new facts.
 
-**1.** You sent the wrong file again.
+1. You sent the wrong file again.
 
-{{PH-1: U02-G-rewrite-1 | rows=2}}
+   {{PH-1: U02-G-rewrite-1 | rows=2}}
 
-**2.** Tell me what happened.
+2. Tell me what happened.
 
-{{PH-1: U02-G-rewrite-2 | rows=2}}
+   {{PH-1: U02-G-rewrite-2 | rows=2}}
 
-**3.** Why didn't you check this before?
+3. Why didn't you check this before?
 
-{{PH-1: U02-G-rewrite-3 | rows=2}}
+   {{PH-1: U02-G-rewrite-3 | rows=2}}
 
-**4.** Send the update today.
+4. Send the update today.
 
-{{PH-1: U02-G-rewrite-4 | rows=2}}
+   {{PH-1: U02-G-rewrite-4 | rows=2}}
 
 :::
 
+### G. Self-Check and Reflection
 
-Write the full corrected version below.
+::: edit
+Final Self-Edit
 
-**Write Your Revised Version**
+After you write the email in Activity E and complete the editing practice in Activity F, check your Activity E email again:
 
-{{PH-2: U02-editing-rewrite | rows=2}}
+- [ ] Did you greet the reader politely?
+- [ ] Did you explain your purpose clearly?
+- [ ] Did you use one polite request or clarification phrase?
+- [ ] Does the message sound calm and professional?
+
+Underline the most professional sentence in your Activity E email.
+:::
+
+::: write
+Reflect on This Unit
+
+Answer the questions in short notes.
+
+1. Which polite expression do you want to remember?
+2. What tone problem do you want to avoid in your emails?
+3. Write one example of a polite request you can use at work.
+
+{{PH-1: U02-reflection | rows=4}}
+:::
 
 ### H. Transfer Extension
 
 ::: write
 Same Message, Better Relationship
 
-Choose one of your real workplace situations.
+Choose a simple workplace request. Do not use private information.
 
-Write:
+First write two short versions of the same request:
 
 1. a direct version you should **not** send
 2. a professional version you **could** send
 
-Then note:
+Then write short notes about:
 
 - what changed
 - why the professional version is better for the reader
 - which phrase from today you used
 
-If you do not want to use a real workplace situation, rewrite one of the Unit 2 freer-practice situations twice instead.
+If you do not want to use a real workplace request, use one of the Activity E situations instead.
 
 Write one sentence on each line where possible.
+
+{{PH-2: U02-transfer-response | rows=8}}
 :::
-
-
-**Write Here**
-
-{{PH-1: U02-transfer-response | rows=4}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which polite expression do you want to remember?
-2. What tone problems do you want to avoid in your emails?
-3. Write one example of a polite request you can use at work.
-:::
-
-
-::: edit
-Final Self-Edit
-
-Underline the most professional sentence in your freer-practice email. Then explain in one line:
-
-- [ ] why it sounds professional
-- [ ] what makes it polite but still clear
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
 
-Find one real English email you received that had a **very polite** or **not polite** tone. Make brief notes for yourself:
+Find one English email you received that had a **very polite** or **not polite** tone. Do not copy private information. Make brief notes:
 
 - What part sounded polite or not polite?
 - How would you rewrite it in a more professional way?
 
-If you do not want to use a real email, use the original draft in this unit or one of the freer-practice situations instead.
-:::
-
-
----
-
-**Homework Draft**
+If you do not want to use a real email, use the weak email in Activity D or one of the Activity E situations instead.
 
 {{PH-3: U02-homework-document | rows=8}}
+:::
 
 ## Unit 3. Paragraph Structure
 

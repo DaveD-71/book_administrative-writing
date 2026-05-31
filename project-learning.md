@@ -1256,3 +1256,11 @@ Rules:
 - Decision: list punctuation is contextual. Complete sentence/imperative list items should be capitalized and punctuated as sentences; fragment bullets that complete a lead-in such as `Include:` should remain fragments and should not receive blanket sentence punctuation.
 - Decision: automated PDF list-numbering defects that are not present in the DOCX or in Word's manual Export PDF are treated as export-path problems, not manuscript-source problems.
 - Preferred behavior: continue the repair from the Phase 1-3 audit files and Unit 1 pilot notes; avoid broad heading-flattening passes that can preserve a later duplicate `A` while demoting the first intended structural `A`.
+
+## 2026-06-01 - INT Unit 2 Phase 3 Repair Baseline
+
+- Status: `active`
+- Scope: project/state
+- Observation: Unit 2 has now received the full Phase 3 treatment after the Unit 1 pilot: visible shell normalized to `ABCDEFGH`, redundant generic response labels removed, item-level rewrite tasks converted to real ordered lists with item-level placeholders, and task instructions rewritten for context/source -> action -> output requirement -> response space order.
+- Decision: Unit 2 confirms that Phase 3 must include substantive task-language editing, not just A-H shell normalization. Conservative shell fixes alone are inadequate.
+- Preferred behavior: for Unit 3 onward, perform the full activity-language pass in the same edit cycle as shell repair; check vague definite references, redundant pattern/example divs, unclear output requirements, unnecessary full-version placeholders, and student-facing readability before marking a unit complete.

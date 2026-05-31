@@ -2101,3 +2101,10 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave regenerated the DOCX/PDF after the Unit 1 pilot and Textmaker placeholder/PDF export fixes, then requested the current state be recorded and pushed.
 - Action: recorded the current repair baseline, including Phase 1-3 audit artifacts, Unit 1 pilot changes, corrected F/G sequence rule, contextual list-punctuation rule, list-adjacent placeholder alignment standard, and the PDF-export-path diagnosis for numbering restarts.
 - Outcome: current files are ready to be committed and pushed as the next rollback point before continuing print-readiness work.
+
+## 2026-06-01T02:05:00+09:00 - INT Unit 2 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md` Unit 2 and `int/edits & guides/full-review/print-readiness-audits/phase3_unit2_repair_notes.md`.
+- Trigger: Dave approved proceeding from the Unit 1 pilot to Phase 3 repair for Unit 2.
+- Action: normalized Unit 2 to visible `ABCDEFGH`, removed redundant response labels and generic boxes, converted rewrite prompts to real ordered lists with item-level placeholders, rewrote task instructions for clearer context/action/output order, clarified guided/freer/transfer task sources and output requirements, kept the pre-writing checklist inside `E. Freer Practice`, moved post-production self-check/reflection to `G`, and folded homework under `H`.
+- Verification: Unit 2 heading sequence is `ABCDEFGH`; Unit 2 fenced divs are balanced at 20 opens / 20 closes; Unit 2 has 17 placeholders, all with explicit `rows=N`, and no duplicate Unit 2 placeholder IDs.
