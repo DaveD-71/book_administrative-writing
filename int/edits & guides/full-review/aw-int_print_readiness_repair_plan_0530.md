@@ -301,6 +301,10 @@ Additional Phase 3 checks:
 
 - Put related information together. Do not split the situation, source text, output requirement, and response instruction across separate paragraphs or unrelated reminders.
 - Put information in task order: context first, source text second, student action third, length or number requirement fourth, and response space last.
+- For scenario-based writing tasks, introduce the situation before asking students to write. Do not refer to `the message`, `the applicant`, `the document`, or another definite item before the activity has introduced it.
+- State the required output once. If the task already says what students will write, remove repeated planning language such as `decide which sentence will do each job` unless it teaches a distinct step the student must actually complete.
+- Do not duplicate the same task information in a second div. A `notice`, `example`, or `pattern` div must add a real model, contrast, or observation task; if it repeats the `write` div, delete it or merge the useful sentence into the task instruction.
+- Put draft checks after the relevant draft unless the checklist is clearly a pre-writing planning checklist. Do not create a second response space for a checklist activity unless students are actually revising or redrafting there.
 - Do not place the answer or a full model response immediately after the same question students must answer. If a model is needed, use a different example, a partial example, or move the full answer to teacher material.
 - Check every activity title, div title, and header-like line. If it introduces a task or teaching point, add enough student-facing prose after it so the page does not jump from title to exercise, box, or list with no clear explanation.
 
@@ -327,6 +331,7 @@ Use list formatting only when it helps the student perform the task.
 - Use bullets for unordered features, options, or reminders.
 - Use checkboxes only for self-checks, editing checklists, or completion checks.
 - Convert explanation-only bullet lists into short prose when bullets create visual clutter without a student action.
+- Punctuate list items according to their grammar, not by a blanket rule. Complete sentence or imperative items should usually be capitalized and end with periods. Fragment items that complete a lead-in such as `Include:` should normally remain lowercase fragments without sentence periods, unless a project-specific style reason requires otherwise.
 
 ### 4.6 Div classes
 
@@ -358,6 +363,11 @@ Every placeholder should have:
 - an appropriate `PH-*` type
 - an explicit `rows=N`
 - a nearby label only when the label adds information not already present in the instruction
+
+When a placeholder follows a numbered exercise list, distinguish two layout cases:
+
+- Case 1: one placeholder after each list item. Keep a real Word numbered list, and let the postprocessor align the list number to the left margin while the placeholder table starts at the hanging text indent.
+- Case 2: one placeholder after a complete multi-item list. Keep the normal list indentation and normal table position; do not apply the Case 1 flush-number/table-indent policy.
 
 ### 4.8 Rendered page layout
 
