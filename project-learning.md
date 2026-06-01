@@ -1264,3 +1264,20 @@ Rules:
 - Observation: Unit 2 has now received the full Phase 3 treatment after the Unit 1 pilot: visible shell normalized to `ABCDEFGH`, redundant generic response labels removed, item-level rewrite tasks converted to real ordered lists with item-level placeholders, and task instructions rewritten for context/source -> action -> output requirement -> response space order.
 - Decision: Unit 2 confirms that Phase 3 must include substantive task-language editing, not just A-H shell normalization. Conservative shell fixes alone are inadequate.
 - Preferred behavior: for Unit 3 onward, perform the full activity-language pass in the same edit cycle as shell repair; check vague definite references, redundant pattern/example divs, unclear output requirements, unnecessary full-version placeholders, and student-facing readability before marking a unit complete.
+
+## 2026-06-01 - INT Unit 3 Confirms First-A Preservation Rule
+
+- Status: `active`
+- Scope: project/conventions
+- Observation: Unit 3 required the first visible `A` heading (`A. What Is a Paragraph?`) to remain structural while the later `A` primer/warm-up headings were demoted inside the section. The full Phase 3 pass also worked better after the paragraph model explicitly labeled topic/supporting/closing roles and after the reflection step regained its own placeholder.
+- Decision: when a unit has both a concept primer and a later warm-up, preserve the first intended structural `A` and demote later `A` labels rather than flattening them mechanically. For paragraph-structure tasks, label model roles directly when the learner is later asked to identify those same roles.
+- Preferred behavior: use Unit 3 as the baseline for Units 4 and 8-18 where first-`A` preservation is expected, and size editing-practice placeholders for full paragraph output when the task asks for a complete rewritten paragraph.
+
+## 2026-06-01 - INT Unit 3 Revealed Book-Wide Warm-Up Standard Must Override Bad Source Labels
+
+- Status: `active`
+- Scope: project/conventions
+- Context: deeper review of Unit 3 showed that the earlier "keep the first duplicate A heading" rule was too mechanical for this manuscript.
+- Observation: `A. Warm-Up` is the book-wide standard visible `A` activity. In Unit 3, other `A`-level items such as `What Is a Paragraph?` and `When Should You Start a New Paragraph?` were inappropriately labeled at the source level rather than functioning as true co-equal `A` sections.
+- Decision: when duplicate visible `A` headings appear, do not preserve the first one blindly. Normalize the unit to the book-wide shell first: visible `A` should remain `Warm-Up` unless a documented exception is intentionally designed. Reclassify mislabeled primer/explanation material by function and rehome it under the appropriate activity or support block.
+- Preferred behavior: for Unit 3 and similar units, resolve duplicate `A` headings by pedagogical function, not by original order. Also audit each activity for clean div titles, context -> action -> output instruction order, and removal of redundant labels or repeated task wording before considering the unit repaired.

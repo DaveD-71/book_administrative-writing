@@ -1,12 +1,22 @@
 textmaker.cmd markdown-to-docx `
   --input int\md\working\aw-int-all_0519.md `
   --reference adv\md\working\aw-adv-styleref.docx `
-  --lua-filter C:\Dev\Code\textmaker\scripts\style_bridge.lua `
+  --lua-filter ..\textmaker\scripts\style_bridge.lua `
   --output int\md\working\aw-int-all_0530.docx `
   --no-pagebreak-filter `
   --apply-semantic-labels `
   --tag-style outline
 
 textmaker.cmd docx-to-pdf `
-  --input  "C:\Dev\Code\book_administrative-writing\int\md\working\aw-int-all_0530.docx" `
-  --output "C:\Dev\Code\book_administrative-writing\int\md\working\aw-int-all_0530.pdf"
+  --input  "..\book_administrative-writing\int\md\working\aw-int-all_0530.docx" `
+  --output "..\book_administrative-writing\int\md\working\aw-int-all_0530.pdf"
+
+
+
+"C:\Users\d-dobson\AppData\Local\Pandoc\pandoc.exe" `
+  --from markdown+fancy_lists `
+  --to docx `
+  --reference-doc "\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\adv\md\working\aw-adv-styleref.docx" `
+  --output "\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\writing_tests\tests\JPO Admin Writing Pre-Test - NISHINO Akie (20250527) scoring sheet.docx" `
+  "\\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing\writing_tests\tests\JPO Admin Writing Pre-Test - NISHINO Akie (20250527) scoring sheet.md"
+

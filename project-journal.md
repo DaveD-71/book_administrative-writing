@@ -2108,3 +2108,17 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave approved proceeding from the Unit 1 pilot to Phase 3 repair for Unit 2.
 - Action: normalized Unit 2 to visible `ABCDEFGH`, removed redundant response labels and generic boxes, converted rewrite prompts to real ordered lists with item-level placeholders, rewrote task instructions for clearer context/action/output order, clarified guided/freer/transfer task sources and output requirements, kept the pre-writing checklist inside `E. Freer Practice`, moved post-production self-check/reflection to `G`, and folded homework under `H`.
 - Verification: Unit 2 heading sequence is `ABCDEFGH`; Unit 2 fenced divs are balanced at 20 opens / 20 closes; Unit 2 has 17 placeholders, all with explicit `rows=N`, and no duplicate Unit 2 placeholder IDs.
+
+## 2026-06-01T16:33:44.9134565+09:00 - INT Unit 3 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md` Unit 3 and `int/edits & guides/full-review/print-readiness-audits/phase3_unit3_repair_notes.md`.
+- Trigger: Dave approved continuing the Phase 3 unit pass with Unit 3.
+- Action: normalized Unit 3 from `AAABCDFEGHFH` to visible `ABCDEFGH`, preserved the first intended `A` section and demoted the later paragraph-primer/warm-up `A` headings inside it, rebuilt the labeled paragraph-structure model, replaced the old `Your labels` and generic response-box patterns with task-specific placeholders, rewrote guided/freer/editing instructions for clearer output expectations, moved the unit back to draft -> edit -> self-check/reflection -> transfer order, added a reflection placeholder, and folded homework under the single visible `H` section.
+- Verification: Unit 3 heading sequence is `ABCDEFGH`; Unit 3 fenced divs are balanced at 19 opens / 19 closes; Unit 3 has 9 placeholders, all with explicit `rows=N`; no duplicate Unit 3 placeholder IDs or generic response labels remain.
+
+## 2026-06-01T19:05:00+09:00 - INT Unit 3 Repair Reopened After Pedagogical Review And User-Backup Merge
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `aw-int-all_0519_tmp.md`, `int/md/working/aw-int-all_0530.docx`, `int/md/working/aw-int-all_0530.pdf`, and project memory.
+- Trigger: Dave reviewed the new Unit 3 PDF and identified that the apparent merge had overridden user edits, that the unit still leaned too heavily on list-style presentation for a paragraph lesson, and that the duplicate-`A` handling had been treated too mechanically.
+- Action: performed a full-file comparison against `aw-int-all_0519_tmp.md`, merged the user backup back into the working manuscript, preserved the structural Unit 3 shell repairs where still wanted, and recorded the clarified normalization rule that book-wide `A. Warm-Up` standard should override bad source labels rather than blindly keeping the first duplicate `A`. Also documented that future Unit 3 repair must explicitly relabel div titles, reorder context/action/output information for clarity, and remove redundant task wording.
+- Outcome: `aw-int-all_0519_tmp.md` remains as the untouched safety backup; `int/md/working/aw-int-all_0519.md` is the new merged baseline; the latest PDF confirms that the placeholder leak is fixed, but the even-page Unit header is still not resolved and Unit 3 remains pedagogically in progress rather than signed off.
