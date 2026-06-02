@@ -1267,11 +1267,11 @@ Rules:
 
 ## 2026-06-01 - INT Unit 3 Confirms First-A Preservation Rule
 
-- Status: `active`
+- Status: `superseded`
 - Scope: project/conventions
 - Observation: Unit 3 required the first visible `A` heading (`A. What Is a Paragraph?`) to remain structural while the later `A` primer/warm-up headings were demoted inside the section. The full Phase 3 pass also worked better after the paragraph model explicitly labeled topic/supporting/closing roles and after the reflection step regained its own placeholder.
 - Decision: when a unit has both a concept primer and a later warm-up, preserve the first intended structural `A` and demote later `A` labels rather than flattening them mechanically. For paragraph-structure tasks, label model roles directly when the learner is later asked to identify those same roles.
-- Preferred behavior: use Unit 3 as the baseline for Units 4 and 8-18 where first-`A` preservation is expected, and size editing-practice placeholders for full paragraph output when the task asks for a complete rewritten paragraph.
+- Superseded by: the later book-wide warm-up standard and the 2026-06-02 Unit 3 pedagogical rewrite. Do not use this entry as current guidance.
 
 ## 2026-06-01 - INT Unit 3 Revealed Book-Wide Warm-Up Standard Must Override Bad Source Labels
 
@@ -1281,3 +1281,35 @@ Rules:
 - Observation: `A. Warm-Up` is the book-wide standard visible `A` activity. In Unit 3, other `A`-level items such as `What Is a Paragraph?` and `When Should You Start a New Paragraph?` were inappropriately labeled at the source level rather than functioning as true co-equal `A` sections.
 - Decision: when duplicate visible `A` headings appear, do not preserve the first one blindly. Normalize the unit to the book-wide shell first: visible `A` should remain `Warm-Up` unless a documented exception is intentionally designed. Reclassify mislabeled primer/explanation material by function and rehome it under the appropriate activity or support block.
 - Preferred behavior: for Unit 3 and similar units, resolve duplicate `A` headings by pedagogical function, not by original order. Also audit each activity for clean div titles, context -> action -> output instruction order, and removal of redundant labels or repeated task wording before considering the unit repaired.
+
+## 2026-06-02 - INT Answer Key Must Track Activity Edits
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: any change to INT lesson activity prompts, task purpose, expected output, item numbering, or placeholder structure must be reflected in `int/md/working/aw-int-answer-key.md` in the same work cycle.
+- Preferred behavior: before marking a unit repair complete, check the corresponding answer-key unit section and update headings, model answers, diagnostic notes, and open-task guidance so teachers do not receive stale activity references.
+
+## 2026-06-02 - INT Unit 3 Pedagogical Rewrite Baseline
+
+- Status: `active`
+- Scope: project/state
+- Observation: Unit 3 has been rewritten from the old lecture-heavy paragraph primer into a clearer Phase 3 sequence: `A. Warm-Up`, `B. Example Check`, `C. Language`, `D. Guided Practice`, `E. Freer Practice`, `F. Editing Practice`, `G. Self-Check and Reflection`, `H. Transfer Extension`.
+- Decision: paragraph-structure units should provide controlled source facts before asking intermediate learners to write report-style paragraphs. Avoid asking students to invent content while they are learning paragraph structure.
+- Preferred behavior: for later paragraph/report-style units, use Unit 3's current sequence as the model: compare, explain, label structure, practise with controlled facts, write from a fact bank, edit paragraph logic, self-check, then transfer. Update the answer key in the same work cycle.
+
+## 2026-06-02 - INT Paragraph Labels And Module Review Workshop Standards
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: when a paragraph-structure activity teaches sentence roles without breaking paragraph flow, model labels such as `(T)`, `(S)`, and `(C)` should appear at the ends of sentences in the model paragraph, and the student labelling task should use the same end-position blank pattern.
+- Decision: duplicate `A-H` repairs should be resolved by pedagogical function, not original heading order. Ordinary units should normally keep `A. Warm-Up` as the visible opening activity; concept-primer material should be rehomed under the activity where it teaches the skill.
+- Decision: module review workshops follow Phase 3 standards even though they are not ordinary `A-H` units: title-case visible headings, no generic `Write Here` labels, placeholders inside task divs, redundant strategy/review blocks combined or removed, and answer-key criteria for open-ended review tasks.
+- Preferred behavior: before signing off a module review workshop, check the source and answer key together, especially transfer and revision tasks with open-ended outputs.
+
+## 2026-06-02 - INT Div Content Styles Are Source-Driven
+
+- Status: `active`
+- Scope: project/tooling/source-contract
+- Decision: the INT Markdown front matter must include `div_content_style_map` for semantic content styles, especially `example`, `example-good`, and `example-bad` mapping to `AW Example`, `AW Example Good`, and `AW Example Bad`.
+- Decision: model/example styling should come from explicit fenced div classification in the Markdown source, not postprocessor inference from phrases, quotation marks, or incidental Word quote styles.
+- Preferred behavior: when adding or repairing model text, wrap it in the correct fenced div class. Do not rely on Textmaker to infer content style from labels such as `Original`, `Strong`, `Possible Stronger Version`, or from quoted paragraphs.

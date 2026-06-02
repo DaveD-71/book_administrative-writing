@@ -14,6 +14,10 @@ style_map:
   example: "Div Label Example"
   example-good: "Div Label Example Good"
   example-bad: "Div Label Example Bad"
+div_content_style_map:
+  example: "AW Example"
+  example-good: "AW Example Good"
+  example-bad: "AW Example Bad"
 ---
 
 # MODULE 1. Foundations of Clear Administrative Writing
@@ -34,14 +38,6 @@ By the end of this module, you should be able to:
 - choose tone that sounds polite and professional
 - organise one paragraph so the reader can follow the idea from start to finish
 
-Use this module in the same way each time:
-
-- read the example comparison and notice what changed
-- underline the explanation about why the stronger version works
-- complete the self-check before freer practice
-- use the editing practice to repair common reader problems
-- finish the transfer extension so the skill moves beyond one exercise type
-
 ## Unit 1. Clear Sentence Structure
 
 ### Focus
@@ -59,7 +55,7 @@ Sentence Comparison
 
 Read the pairs of sentences. Choose the one that feels **clearer**.
 
-| # | a) | b) |
+| # | A | B |
 |---|---|---|
 | 1 | The document was, after some discussion in the meeting yesterday, finally checked by Mr. Sato. | Mr. Sato finally checked the document after the meeting yesterday. |
 | 2 | It is requested that you will kindly send, as soon as it is convenient, the missing form. | Please send the missing form as soon as possible. |
@@ -69,7 +65,9 @@ Read the pairs of sentences. Choose the one that feels **clearer**.
 :::
 
 ::: learn
-Quick Check for a Clear Sentence
+Quick Check
+
+For a clear sentence:
 
 - Put the main subject near the beginning.
 - Use one clear main verb.
@@ -79,26 +77,30 @@ Quick Check for a Clear Sentence
 
 ### B. Example Check
 
-::: learn
-Why the Stronger Sentence Works
+::: notice
+Look at the Stronger Sentence
 
 Look again at the three pairs in the warm-up.
 
 The clearer sentence usually improves one or more of these points: the **main subject** appears earlier, the **main action** is expressed by a simple verb, extra information is kept shorter, and the reader can understand the message in one reading.
 
-Compare Pair 2 again:
+
+::: notice
+Compare 
+
+Look at the second pair of sentences from the Warm-Up again.
 :::
 
 ::: example-bad
 Weak
 
-*It is requested that you will kindly send, as soon as it is convenient, the missing form.*
+It is requested that you will kindly send, as soon as it is convenient, the missing form.
 :::
 
 ::: example-good
 Stronger
 
-*Please send the missing form as soon as possible.*
+Please send the missing form as soon as possible.
 :::
 
 ::: learn
@@ -111,6 +113,7 @@ The stronger version works because the reader can see the action immediately:
 3. **as soon as possible**
 
 The weaker version makes the reader wait too long before the real action appears.
+:::
 :::
 
 ### C. Language
@@ -149,39 +152,36 @@ Practice: Build Clear Sentences
 Rewrite the word groups as clear SVO or SVC sentences.
 
 1. application / our office / receive / yesterday
+
+   {{PH-1: U01-lang1-build-sentence-1 | rows=2}}
+
 2. examiner / request / more information
+
+   {{PH-1: U01-lang1-build-sentence-2 | rows=2}}
+
 3. we / send / confirmation email / tomorrow
+
+   {{PH-1: U01-lang1-build-sentence-3 | rows=2}}
+
 4. applicant / not / submit / fee / yet
+
+   {{PH-1: U01-lang1-build-sentence-4 | rows=2}}
+
 5. system / show / error message / this morning
 
-{{PH-1: U01-lang1-build-sentences | rows=5}}
+   {{PH-1: U01-lang1-build-sentence-5 | rows=2}}
 :::
 
 ::: learn
 Simplification Strategies
 
-Administrative English should be **short, direct, and clear**.
-
-Three common ways to simplify a sentence:
+Administrative English should be **short, direct, and clear**. Three common ways to simplify a sentence are:
 
 1. Change long formal openings to direct verbs.
 2. Cut extra explanation that the reader does not need.
 3. Move the main action closer to the subject.
-:::
 
-::: learn
-Why This Works
-
-Administrative readers often need to understand:
-
-- what happened
-- what is needed
-- what happens next
-
-They should not have to search through a long sentence to find the main point.
-
-When you simplify a sentence, you are not making it "less professional."
-You are making it **more useful** for the reader.
+These strategies help the reader find the main point quickly. When you simplify a sentence, you are not making it "less professional." You are making it **more useful** for the reader.
 :::
 
 ::: rewrite
@@ -209,27 +209,21 @@ Rewrite each sentence in a clearer, shorter way.
 
 ### D. Guided Practice
 
-::: rewrite
-Rewrite for Clarity
+::: write
+Build a Clear Mini Message
 
-Rewrite each sentence so that it is easier to read.
+Read the situation. Then write a short **4-sentence** message. Use the sentence jobs to help you build the message step by step.
 
-1. We are now in the checking of your application and more time is needed by us.
+**Situation:** Your office is checking an application. The document attached to the applicant's email is not the same as the document discussed on Monday. Your office needs to confirm the information with another department before replying.
 
-   {{PH-1: U01-D-rewrite-1 | rows=2}}
+Sentence jobs:
 
-2. The document which was attached to the email that you sent on Monday is not the same as the one discussed.
+1. State that the application is being checked.
+2. Explain the document problem.
+3. Explain why more time is needed.
+4. State the next step clearly.
 
-   {{PH-1: U01-D-rewrite-2 | rows=2}}
-
-3. The guidelines of our office say that in the case that documents are missing, the applicant should be contacted by us.
-
-   {{PH-1: U01-D-rewrite-3 | rows=2}}
-
-4. It will be necessary for us to confirm the information with another department before a reply can be given.
-
-   {{PH-1: U01-D-rewrite-4 | rows=2}}
-
+{{PH-3: U01-D-guided-message | rows=8}}
 :::
 
 ### E. Freer Practice
@@ -253,23 +247,32 @@ Write a short message to the applicant in **3-4 clear sentences**. Include:
 ::: edit
 Fix the Reader Problem
 
-Each sentence below has a common clarity problem. Rewrite it so the reader can understand the point more easily.
+It is sometimes difficult for the reader to understand fully the writer's intended message.
 
-1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office.
+Common problem types:
 
-   {{PH-1: U01-G-rewrite-1 | rows=2}}
+A. Main action is hidden
+B. Extra detail is too long
+C. Passive or indirect wording
+D. Unnecessary purpose phrase
 
-2. It has been explained by the supervisor that a new review step will be necessary for the application.
+Each sentence below has a common clarity problem. First label the problem with A-D from the list above. Then rewrite the sentence so the reader can understand the point more easily.
 
-   {{PH-1: U01-G-rewrite-2 | rows=2}}
+1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office. (____)
 
-3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue.
+   {{PH-1: U01-F-edit-1 | rows=2}}
 
-   {{PH-1: U01-G-rewrite-3 | rows=2}}
+2. It has been explained by the supervisor that a new review step will be necessary for the application. (____)
 
-4. We are writing for the purpose of asking you to send the correct version of the attached file.
+   {{PH-1: U01-F-edit-2 | rows=2}}
 
-   {{PH-1: U01-G-rewrite-4 | rows=2}}
+3. Because there were several items in the form which were not complete and because the database was also unavailable, the check could not continue. (____)
+
+   {{PH-1: U01-F-edit-3 | rows=2}}
+
+4. We are writing for the purpose of asking you to send the correct version of the attached file. (____)
+
+   {{PH-1: U01-F-edit-4 | rows=2}}
 
 :::
 
@@ -306,9 +309,7 @@ Turn Sentences into a Mini Message
 Choose **one** of the situations below.
 
 A. A form is missing one page.
-
 B. A meeting time has changed.
-
 C. A file needs to be checked again.
 
 For your first draft, write two simple sentences:
@@ -348,19 +349,21 @@ By the end of this unit, I will be able to:
 ::: notice
 Which Sounds More Professional?
 
-Read each pair. Choose the sentence that sounds **more appropriate** for workplace communication.
+Choose one sentence in each row that sounds **more appropriate** for workplace communication.
 
-| # | a) | b) |
+| # | A | B |
 |---|---|---|
 | 1 | Send me the file. | Could you please send me the file? |
 | 2 | I don't understand this. Explain it. | I'm not sure I understand this part. Could you explain it? |
 | 3 | What do you want me to do? | Could you let me know what I should do next? |
 
-**Discussion:** Which sentences sound more professional, and why?
+Which sentences sound more professional, and why?
 :::
 
 ::: learn
-Professional Tone Usually Does Three Things
+Professional Tone
+
+Professional tone usually does three things. It:
 
 - sounds polite, not demanding
 - explains the situation clearly
@@ -390,7 +393,7 @@ Stronger
 ::: learn
 Why This Works
 
-The stronger version works because it:
+The stronger version is better because it:
 
 - reduces pressure on the reader
 - sounds cooperative, not demanding
@@ -439,27 +442,19 @@ Rewrite each direct sentence as a polite request. Use one phrase from the list a
 ::: learn
 Check the Tone
 
-Use these three points to check whether a workplace message sounds professional:
+Use these questions to check whether a workplace message sounds professional.
 
-- **Clear:** the message is not too long or complicated.
-- **Neutral:** the message is not emotional.
-- **Respectful:** the message is polite and calm.
-
-When you check tone, ask:
-
-1. Does this sound calm?
-2. Does it tell the reader what they need to know?
-3. Would I be comfortable sending this at work?
+| Tone | Intent | Check |
+|---|---|---|
+| Clear | The message is not too long or complicated. | Does it tell the reader what they need to know? |
+| Neutral | The message is not emotional or blaming. | Does it avoid emotional or blaming language? |
+| Respectful | The message is polite and calm. | Does it sound calm enough to send at work? |
 :::
 
 ::: learn
 Why Tone Matters
 
-A professional message helps the reader do the next step calmly. If a message sounds too direct, the reader may focus on the tone instead of the task. If a message sounds calm and clear, the reader can focus on:
-
-- what is needed
-- what needs clarification
-- what happens next
+A professional message helps the reader receive your message calmly. If a message sounds too direct, the reader may focus on the tone instead of the information. If a message sounds calm and clear, the reader can focus on what is needed, what needs to be checked, and what happens next.
 :::
 
 ::: rewrite
@@ -511,27 +506,32 @@ Use these phrases when you need to give information, ask a question, or refer to
 
 ### D. Guided Practice
 
-::: example-bad
-Original Email
-
-> Hi,
->
-> You didn't send the right file. Send the correct one today. I need it now.
-:::
-
 ::: rewrite
 Rewrite the Email
 
-Read the weak email above. Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: ask for the correct file today.
+Read the email. Why is it weak?
 
-Include:
+::: example-bad
+Original Email
 
-- short greeting
+>
+>Hi,
+>
+> You didn't send the right file.
+>
+> Send the correct one today. I need it now.
+>
+:::
+
+ Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: Ask for the correct file today. Include:
+
+- a short greeting
 - a clear problem statement
 - a polite request
-- a calm professional tone
 
-{{PH-3: U02-guided-document | rows=10}}
+Write with a calm professional tone.
+
+{{PH-3: U02-guided-document | rows=6}}
 :::
 
 ### E. Freer Practice
@@ -542,25 +542,16 @@ Write Your Own Professional Email
 Choose one situation below.
 
 A. Write to a colleague who needs to check a document today.
-
 B. Write to an applicant to confirm the correct deadline.
-
 C. Write to a colleague to ask for clarification about one part of an application.
 
-Write a short professional email in **3-4 sentences**. Include:
+Then write a short professional email in **3-4 sentences**. Include:
 
 - a clear opening
 - one polite request or clarification question
 - a professional closing line
 
-Before you write, check that your plan will:
-
-- [ ] greet the reader politely
-- [ ] explain your purpose clearly
-- [ ] use one polite request or clarification phrase
-- [ ] sound calm and professional
-
-{{PH-3: U02-freer-document | rows=10}}
+{{PH-3: U02-freer-document | rows=8}}
 :::
 
 ### F. Editing Practice
@@ -620,12 +611,19 @@ Answer the questions in short notes.
 ::: write
 Same Message, Better Relationship
 
-Choose a simple workplace request. Do not use private information.
+Choose a simple workplace request. Do not use private information. If you do not want to use a real workplace request, use one of the Activity E situations instead.
+
+Write one sentence on each line where possible.
 
 First write two short versions of the same request:
 
 1. a direct version you should **not** send
+
+   {{PH-1: U02-transfer-direct-version | rows=2}}
+
 2. a professional version you **could** send
+
+   {{PH-1: U02-transfer-professional-version | rows=2}}
 
 Then write short notes about:
 
@@ -633,11 +631,7 @@ Then write short notes about:
 - why the professional version is better for the reader
 - which phrase from today you used
 
-If you do not want to use a real workplace request, use one of the Activity E situations instead.
-
-Write one sentence on each line where possible.
-
-{{PH-2: U02-transfer-response | rows=8}}
+{{PH-1: U02-transfer-notes | rows=4}}
 :::
 
 ::: write
@@ -660,89 +654,41 @@ If you do not want to use a real email, use the weak email in Activity D or one 
 By the end of this unit, I will be able to:
 
 - identify the main parts of a paragraph.
-- organise sentences into a clear paragraph with logical flow.
-- write a short administrative paragraph with topic, supporting detail, and closing.
+- keep one paragraph focused on one main idea.
+- write a short administrative paragraph with a topic sentence, supporting details, and a closing sentence.
 
-### A. What Is a Paragraph?
-
-::: learn
-Definition
-
-A **paragraph** is a group of sentences about **one main idea**. All sentences in the paragraph should connect to that idea.
-
-You can think of a paragraph as answering one simple question such as:
-
-- What happened?
-- What is the problem?
-- What happens next?
-
-**A paragraph should**
-
-- Have one clear topic
-- Contain supporting information about that topic
-- Include a **closing sentence** or a final point
-
-**A paragraph is NOT**
-
-- A list of unrelated sentences
-- A collection of short, disconnected statements
-- A single sentence (except in special cases)
-:::
-
-::: learn
-When to Start a New Paragraph
-
-Start a new paragraph when:
-
-- The **topic changes**
-- The **purpose** of the message changes
-- You move from **background** to **action**, or **reason** to **result**
-- You begin addressing a **different reader** (less common in administrative writing)
-
-**Paragraph break examples**
-
-1. Explain the background, then ask for an action.
-2. Describe an issue, then give details, then explain next steps.
-3. Summarise a problem, then report what you did, then say what will happen next.
-:::
+### A. Warm-Up
 
 ::: notice
-Quick Warm-Up: Which Is a Better Paragraph?
+Which Is a Better Paragraph?
 
 Read both paragraphs. Decide which one is **better organised**.
+:::
 
-**Paragraph A**
+::: example
+Paragraph A
 
 We reviewed the updated guidelines yesterday. During the review, we found several sections that were unclear and inconsistent with earlier versions. These inconsistencies may cause confusion for staff who use the document. Additional notes will be compiled before we continue with the next stage of the review.
+:::
 
-**Paragraph B**
+::: example
+Paragraph B
 
 We reviewed the updated guidelines yesterday. The office renovation will begin next month. Several sections in the document were unclear. Our team attended a training session last week.
+:::
 
 **Discussion:** Which paragraph is better organised, and why?
-:::
 
 ### B. Example Check
 
 ::: learn
-Why the Stronger Paragraph Works
+Why Paragraph A Works
 
-Paragraph A is stronger because all sentences support **one main topic**: the review of the guidelines.
+Paragraph A is stronger because every sentence connects to one main idea: the review of the updated guidelines.
 
-Paragraph B is weaker because the reader has to jump between different topics:
+The paragraph also moves in a clear order. First, the team reviewed the guidelines. Then the team found unclear sections. Next, the paragraph explains why those unclear sections may create a problem for staff. The final sentence explains what will happen before the next stage.
 
-- guidelines
-- office renovation
-- unclear sections
-- training session
-
-That makes the paragraph feel like a list, not a piece of organized writing.
-:::
-
-::: learn
-Why This Works
-
-A good paragraph helps the reader move through one idea step by step. In administrative writing, this matters because the reader needs to understand the topic, the key details, and the result or next point without stopping to reorganise the information.
+Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph should help the reader follow one idea without stopping to reorganise the information.
 :::
 
 ### C. Language
@@ -750,95 +696,59 @@ A good paragraph helps the reader move through one idea step by step. In adminis
 ::: language
 Three-Part Paragraph Structure
 
-A strong paragraph usually includes:
-
-1. **Topic sentence (T)** - the main idea of the paragraph
-2. **Supporting sentences (S)** - details, reasons, or examples
-3. **Closing sentence (C)** - summary, result, or next step
+A clear administrative paragraph usually has three jobs. The **topic sentence (T)** states the main idea and tells the reader what the paragraph is about. The **supporting details (S)** give the facts, reasons, or examples the reader needs. The **closing sentence (C)** gives the result, next point, or link forward.
 :::
 
 ::: example-good
-Example Paragraph
+Paragraph Structure Example
 
-**T** We reviewed the applicant's file yesterday.
+We reviewed the applicant's file yesterday. (T) During the review, we found that two pages were missing. (S) One form was also incomplete. (S) These issues will be recorded before the next review stage begins. (C)
+:::
 
-**S1** During the review, we found that two pages were missing and one form was incomplete.
+::: learn
+How the Example Is Built
 
-**S2** These gaps may slow the preliminary assessment and should be noted before the next review stage.
-
-**C** A follow-up request for the missing documents will be prepared for the next step in the review.
+In this paragraph, the first sentence is the **topic sentence**. The second and third sentences are **supporting details**. The final sentence is the **closing sentence** because it shows how the information will be used next.
 :::
 
 ::: notice
 Identify the Parts
 
-Label each sentence:
-
-- **T** = Topic sentence
-- **S** = Supporting detail
-- **C** = Closing sentence
+Read each paragraph. Write **T** for topic sentence, **S** for supporting detail, or **C** for closing sentence in the space after each sentence.
 
 **Paragraph 1**
 
-1. We processed your request this morning (____).
-2. However, the attached form was incomplete.
-3. This information forms part of the initial review before we proceed to later steps.
-
-Write the three labels in order. Then rewrite the three sentences as one clear paragraph in the correct order.
-
-{{PH-1: U03-C-paragraph-1 | rows=4}}
+1. We processed your request this morning. (____)
+2. The attached form was incomplete. (____)
+3. The missing information will be checked before we proceed to the next step. (____)
 
 **Paragraph 2**
 
-1. The system was updated last night.
-2. Some users reported error messages after the update.
-3. These observations will be included in the technical report that follows.
-
-Write the three labels in order. Then rewrite the three sentences as one clear paragraph in the correct order.
-
-{{PH-1: U03-C-paragraph-2 | rows=4}}
+1. The system was updated last night. (____)
+2. Some users reported error messages after the update. (____)
+3. These observations will be included in the technical report that follows. (____)
 :::
 
 ::: learn
 Logical Flow Inside a Paragraph
 
-A paragraph should follow a clear, logical order:
+A paragraph should follow one clear path. Before you write, decide the main point, the detail the reader needs, and how the paragraph will close. If you:
 
-- Background, then details, then result
-- Topic, then explanation, then action
-- Issue, then impact, then what happens next
-
-Before you write, make a short paragraph plan:
-
-1. What is my main point?
-2. What detail or explanation does the reader need?
-3. How will I close the paragraph?
-:::
-
-::: learn
-Transfer Reminder
-
-Do not add every fact you know. Choose the facts that belong to the same paragraph job:
-
-- explaining a problem
-- giving background
-- summarising a result
-- preparing the next section
+- explain a problem, move from (1) the issue to (2) the detail and then to (3) the effect.
+- give background, start with (1) the main event, add (2) the useful detail, and finish with (3) the result.
+- summarise a review, first say (1) what was reviewed, then say (2) what was found, and then (3) explain what the finding means for the record or next step.
 :::
 
 ::: write
-Reorder and Extend
+Build a Short Review Summary
 
-Put the three sentences in a logical order. Then add **one more supporting sentence**. Build the paragraph so it moves from:
+::: example
+Review Summary Example
 
-1. background check
-2. main finding
-3. broader meaning or category
-4. one extra supporting detail
+We reviewed the payment records this morning. During the review, we found that one receipt was missing from the file. This missing receipt should be noted before the monthly summary is completed.
+:::
 
-Mini support sentence example:
-
-- "The missing forms affect the first documentation check and may delay the next review step."
+Put the sentences below in a logical order for a short **review summary**. The paragraph should first say what was checked, then say what was found, and then explain what the finding means.
 
 Sentences:
 
@@ -848,67 +758,61 @@ B. We checked the application yesterday.
 
 C. These issues form part of the initial documentation review.
 
-Write the best order with the sentence letters only. Example: `B - A - C`
+Write the best order with the sentence letters only.
 
-{{PH-1: U03-practice-b-order | rows=1}}
+{{PH-1: U03-C-order | rows=1}}
 
-Write one more supporting sentence that adds a helpful detail and continues the explanation without giving instructions.
+Then write **one supporting sentence** for the same review summary: Explain why the missing forms matter for the review.
 
-{{PH-1: U03-practice-b-support | rows=2}}
+{{PH-1: U03-C-support | rows=2}}
 :::
 
 ### D. Guided Practice
 
-::: example-bad
-Original
+::: write
+Build a Paragraph From Facts
 
-> We checked the application yesterday.
->
-> One document was missing. The missing document is required for further review.
->
-> It is essential for completing the examination process. The applicant sent the wrong version before.
-:::
+Read the situation and facts. Then write one clear paragraph of **4-5 sentences**.
 
-::: rewrite
-Write a Better Paragraph
+**Situation:** Your office is preparing an internal update about an application review.
 
-Rewrite the paragraph so it has a clear **topic -> support -> closing** structure. Expand it to **5-6 sentences**. Make it read like part of a larger report or document, not a complete message.
+Facts:
 
-Include:
+- The review started yesterday.
+- One required document was missing.
+- The applicant sent an older version of the form.
+- The review cannot move to the next stage yet.
+- Your office will prepare a follow-up request.
 
-- one clear topic sentence
-- two or three supporting sentences
-- one closing sentence that leads forward
-- a focus on the missing document and the review process
+Your paragraph should begin with one clear topic sentence. It should then give two or three supporting details and finish with one closing sentence that gives the next point.
 
-{{PH-3: U03-guided-document | rows=10}}
+{{PH-3: U03-guided-paragraph | rows=10}}
 :::
 
 ### E. Freer Practice
 
 ::: write
-Write a Full Paragraph
+Write One Administrative Paragraph
 
-Choose **one** situation below. Write **one administrative paragraph** of **5-6 sentences**. Make it feel like part of a longer document, such as a report or internal summary. Avoid requests or instructions. Focus on information, background, and explanation.
+Choose **one** situation below. Write **one paragraph** of **4-5 sentences** for an internal update or short report.
 
-**Situations**
+Use the facts provided. Do not add a request or greeting.
 
-A. Your supervisor needs a short internal summary explaining a delay in one review stage and what caused it.
+1. **Review delay:** One review stage is delayed because two documents need to be checked again. The team needs one more day, and the updated result will be added to the review record.
 
-B. Your team is preparing an internal summary after a system problem affected document access this morning.
+2. **System problem:** Staff could not open several files this morning because the system showed an error message. IT checked the problem before lunch, and the affected files will be reviewed again this afternoon.
 
-C. Your office recently changed one internal rule, and you need to explain the change and the reason in a short guidance note.
-
-Before you write, check three points:
-
-- What is the main point of the paragraph?
-- What details does the reader need?
-- How will the paragraph close?
+3. **Rule change:** The office changed one internal filing rule because the old rule created confusion for new staff. The new rule uses one standard file name, and the change will help staff find documents faster.
 
 {{PH-2: U03-freer-paragraph | rows=8}}
 :::
 
 ### F. Editing Practice
+
+::: edit
+Repair the Paragraph Logic
+
+This paragraph has one unrelated sentence and one missing closing point.
 
 ::: example-bad
 Original
@@ -916,10 +820,7 @@ Original
 The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
 :::
 
-::: edit
-Repair the Paragraph Logic
-
-The paragraph below has a topic problem and an order problem. Rewrite it as a clear paragraph of `4-5` sentences. Keep the same general content, but remove the unrelated sentence and improve the order.
+First, cross out the unrelated sentence. Then rewrite the remaining information as a clear paragraph of **3-4 sentences**. Add one closing sentence that explains the next point.
 
 {{PH-2: U03-editing-rewrite | rows=6}}
 :::
@@ -929,7 +830,7 @@ The paragraph below has a topic problem and an order problem. Rewrite it as a cl
 ::: edit
 Self-Check
 
-Check your paragraph from Activity E.
+Check your paragraph from Activity E or Activity F.
 
 - [ ] Does the first sentence show the topic clearly?
 - [ ] Do the middle sentences stay on the same idea?
@@ -941,7 +842,7 @@ Check your paragraph from Activity E.
 ::: write
 Reflection
 
-Then answer these questions:
+Answer these questions:
 
 - What is one thing you learned about paragraph structure?
 - When should you start a new paragraph?
@@ -953,17 +854,13 @@ Then answer these questions:
 ### H. Transfer Extension
 
 ::: write
-Build a Report Paragraph
+Use the Paragraph Structure
 
-Choose one earlier task from Unit 1 or Unit 2. Turn it into a short paragraph for a report or internal summary.
+Choose one task from Unit 1 or Unit 2. Use the same basic information, but write it as **one internal paragraph** of **4-5 sentences**.
 
-Add:
+Your paragraph should include one topic sentence, two or three supporting sentences, and one closing sentence.
 
-- one topic sentence
-- two supporting sentences
-- one closing sentence
-
-This helps you connect sentence control, tone control, and paragraph structure.
+Do not write an email greeting, request, or closing phrase. Make it sound like part of an internal note or short report.
 
 {{PH-2: U03-transfer-response | rows=6}}
 :::
@@ -971,16 +868,16 @@ This helps you connect sentence control, tone control, and paragraph structure.
 ::: write
 Homework Task
 
-Find a real paragraph from a work email (English or Japanese). Rewrite it in English as a **strong, well-organised paragraph** using the structure from this unit.
+Find one short workplace paragraph in English or Japanese. Rewrite it in English using the structure from this unit.
 
-If you do not want to use a real paragraph, turn one of your Unit 3 paragraph drafts or one earlier Unit 1 or Unit 2 task into a stronger paragraph instead.
+If you do not want to use a real workplace paragraph, revise your Activity E paragraph instead.
 
 {{PH-2: U03-homework-paragraph | rows=8}}
 :::
 
 ## Module 1 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -990,12 +887,12 @@ Core Takeaways
 - Unit 3: A paragraph becomes easier to read when the topic, support, and closing work together instead of competing for attention.
 :::
 
-### Weak vs. strong review case
+### Weak vs. Strong Review Case
 
 ::: notice
 Weak vs. Strong Review
 
-Read these two versions of the same message.
+Read these two versions of the same message. Decide which version is easier to read quickly, tells the reader exactly what to do next, and uses a stronger paragraph structure.
 :::
 
 ::: example-bad
@@ -1010,14 +907,7 @@ Version B
 We checked your request yesterday. At present, one required document is missing. Please send the missing document by Friday so that we can continue the review.
 :::
 
-Use these questions:
-
-- [ ] Which version is easier to read quickly?
-- [ ] Which version tells the reader exactly what to do next?
-- [ ] Which words in Version B improve tone?
-- [ ] How does the paragraph-style structure in Version B help the message flow?
-
-### module 1 self-edit routine
+### Self-Edit Routine
 
 ::: edit
 Self-Edit Routine
@@ -1031,45 +921,21 @@ Before you move to Module 2, check one piece of your own writing from this modul
 - [ ] Rewrite one sentence and one paragraph so the reader can understand the message faster.
 :::
 
-### module 1 transfer task
+### Transfer Task
 
 ::: write
 Transfer Task
 
-Write a short internal message of 5-6 sentences about a simple workplace topic such as a missing document, a meeting update, or a request for confirmation.
+Write a short internal message of **5-6 sentences** about a simple workplace topic, such as a missing document, a meeting update, or a request for confirmation.
 
-Your message should include:
+Your message should include two clear sentences that show Unit 1 sentence control, one polite request or explanation that shows Unit 2 tone control, and one short paragraph structure that shows Unit 3 organisation.
 
-- two clear sentences that show Unit 1 control
-- one polite request or explanation that shows Unit 2 tone control
-- one short paragraph structure that shows Unit 3 organisation
+After writing, add three short notes: where you improved sentence clarity, where you controlled tone, and where you organised the paragraph for the reader.
 
-After writing, add three notes:
-
-- where you improved sentence clarity
-- where you controlled tone
-- where you organised the paragraph for the reader
+{{PH-2: M1-transfer-task | rows=10}}
 :::
 
-**Write Here**
-
-{{PH-2: M1-transfer-task | rows=4}}
-
-### module 1 strategy map
-
-::: learn
-Strategy Map
-
-Use this map when a piece of writing feels weak but you are not sure why.
-
-- If the reader gets lost inside one sentence, return to Unit 1 and check the main subject, verb, and extra information.
-- If the message sounds too sharp, too casual, or too heavy, return to Unit 2 and check the relationship with the reader.
-- If the message feels complete sentence by sentence but still does not flow, return to Unit 3 and check paragraph structure.
-
-This matters because weak writing often has more than one problem at the same time. A sentence can be grammatically correct but still sound too direct. A polite message can still fail if the paragraph order is unclear. Strong administrative writing starts with control at all three levels: sentence, tone, and paragraph.
-:::
-
-### Module 1 revision lab
+### Revision Lab
 
 ::: example-bad
 Weak Draft
@@ -1080,36 +946,20 @@ We checked your application yesterday and there are some problems and we need mo
 ::: revise
 Revision Lab
 
-Read this weak message, then improve it in three steps.
+Read the weak draft. Then improve it in three steps: split the long sentence into smaller sentences, change wording that sounds sudden or forceful, and end with a clear next action for the reader.
 
-1. Sentence control:
-   - Split the long sentence into smaller parts.
-   - Keep one main message in each sentence.
-2. Tone control:
-   - Change any wording that sounds too sudden or forceful.
-   - Keep the request polite and professional.
-3. Paragraph control:
-   - Decide which sentence should come first.
-   - End with a clear next action for the reader.
+{{PH-2: M1-revision-lab | rows=8}}
 :::
-
-**Write Your Revised Version**
-
-{{PH-2: M1-revision-lab | rows=6}}
 
 ::: example-good
 Possible Stronger Version
 
 We checked your application yesterday. At present, we need one more piece of information before the review can continue. Could you please send the missing information by Thursday? Thank you for your cooperation.
 
-Why this stronger version works:
-
-- each sentence has one clear job
-- the request sounds cooperative rather than pressuring
-- the paragraph ends with a visible next step
+This version is stronger because each sentence has one clear job, the request sounds cooperative rather than pressuring, and the paragraph ends with a visible next step.
 :::
 
-### Module 1 preparation for Module 2
+### Preparation for Module 2
 
 ::: edit
 Preparation Check
@@ -1123,30 +973,6 @@ Before you start the email module, check whether you can do these four things wi
 
 If one of these still feels weak, return to the unit that teaches it and revise one more piece of writing before moving on.
 :::
-
-### Module 1 foundation control board
-
-Use this board when a basic message feels weak but you are not yet sure which unit should help most.
-
-| Problem | Return to | What to check first |
-| --- | --- | --- |
-| sentence feels heavy or confusing | Unit 1 | one subject, one action, shorter extra detail |
-| tone feels too sudden or too casual | Unit 2 | greeting, request wording, calm explanation |
-| paragraph feels complete sentence by sentence but still weak as a whole | Unit 3 | topic, support, closing order |
-
-Test one short message with the board:
-
-- identify the strongest sentence
-- identify the weakest sentence
-- explain which unit fixes the weak sentence first
-
-### Module 1 rebuilding note
-
-The early units matter because later modules depend on them. A weak sentence pattern in Module 1 often becomes a weak email, weak notice, or weak report line later. If the basic control layer is strong, later module tasks become easier to revise. Write one short note after revising:
-
-- which sentence became clearer
-- which tone change mattered most
-- which paragraph move helped the reader fastest
 
 # MODULE 2. Essential Email Writing for Administrative Contexts
 
@@ -2391,7 +2217,7 @@ Which Request Sounds More Appropriate?
 
 Read each pair. Choose the request that sounds more professional.
 
-| # | a) | b) |
+| # | A | B |
 |---|---|---|
 | 1 | Send me the file. | Could you please send me the file? |
 | 2 | Tell me the deadline. | Could you let me know the deadline? |

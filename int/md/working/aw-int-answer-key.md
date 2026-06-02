@@ -31,6 +31,8 @@ Model answers are provided for all exercises with specific expected responses. G
 
 ##### C. Language 1 — Practice: Build Clear Sentences
 
+The student book now gives each item its own response space. Model sentences:
+
 1. Our office received your application yesterday.
 2. The examiner requested more information.
 3. We will send a confirmation email tomorrow.
@@ -46,32 +48,48 @@ Model answers are provided for all exercises with specific expected responses. G
 4. If the applicant does not provide the required documents, we cannot continue the examination.
 
 
-##### D. Guided Practice — Rewrite for Clarity
+##### D. Guided Practice — Build a Clear Mini Message
 
-1. We are checking your application and need more time. / We are currently checking your application and require a little more time.
-2. The document attached to your Monday email is different from the one we discussed.
-3. Our guidelines require us to contact the applicant if documents are missing.
-4. We need to confirm the information with another department before we can reply.
+**Model answer:**
+
+> We are currently checking your application. The document attached to your email is not the same as the document discussed on Monday. We need a little more time because we must confirm the information with another department. We will contact you again after the confirmation is complete.
 
 
-##### G. Editing Practice — Fix the Reader Problem
+##### F. Editing Practice — Fix the Reader Problem
 
-1. We are now checking the file that the applicant sent after Monday's meeting.
-   _(Removes embedded clauses; places action at front)_
+Students should name the reader problem and then rewrite the sentence. Accept similar wording if the problem is correctly identified and the rewrite is clearer.
+
+1. **Problem:** extra detail is too long / main action is hard to find.
+   **Rewrite:** We are now checking the file that the applicant sent after Monday's meeting.
 2. The supervisor explained that a new review step will be necessary for the application.
-   _(Changes "It has been explained by" to active voice)_
+   **Problem:** passive or indirect wording.
 3. The check could not continue because some form items were incomplete and the database was unavailable.
-   _(Removes doubled "because"; simplifies)_
+   **Problem:** extra detail is too long.
 4. We are writing to ask you to send the correct version of the attached file.
-   _(Removes "for the purpose of")_
+   **Problem:** unnecessary purpose phrase.
 
 
-##### Module 1 Review — Revision Lab
+##### Module 1 Review Workshop
 
-**Model answer is printed in the student book** (the `:::example-good` block after the exercise). Key improvements:
-- Split the single long run-on sentence into four shorter ones
-- Changed "please reply quickly" to "Could you please send the missing information by Thursday?"
-- Ended with a polite cooperative closing
+**Weak vs. Strong Review Case:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one piece of writing from Units 1-3 and revise at least one sentence and one paragraph.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- a short internal message of 5-6 sentences
+- clear sentence control from Unit 1
+- polite or neutral tone control from Unit 2
+- one paragraph with a visible topic, support, and closing from Unit 3
+- three short notes explaining the sentence, tone, and paragraph choices
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Split the single long run-on sentence into shorter sentences.
+- Changed the pressured request to a cooperative request.
+- Ended with a clear next action for the reader.
+
+**Preparation for Module 2:** Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
 
 
 #### Unit 2. Professional Tone Basics
@@ -121,6 +139,17 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 4. Could you please send the update today at your earliest convenience?
 
 
+##### H. Transfer Extension — Same Message, Better Relationship
+
+Open-ended. Students should write:
+
+1. a direct version that would not be appropriate to send
+2. a professional version of the same request
+3. short notes explaining what changed and why the professional version is better for the reader
+
+The professional version should keep the same meaning, reduce pressure or blame, and use at least one Unit 2 polite request or clarification phrase.
+
+
 #### Unit 3. Paragraph Structure
 
 ##### A. Warm-Up — Which Is a Better Paragraph?
@@ -130,22 +159,32 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 Paragraph A keeps all sentences on the same topic (reviewing the guidelines). Paragraph B mixes four unrelated topics and reads like disconnected notes.
 
 
-##### C. Practice A — Identify the Parts
+##### C. Language — Identify the Parts
 
 **Paragraph 1:**
-1. **T** — Topic sentence (states main action)
-2. **S** — Supporting detail (the finding)
-3. **C** — Closing sentence (connects to the process)
+
+Students should write these labels after the three sentences:
+
+1. We processed your request this morning. _(Topic sentence)_
+2. The attached form was incomplete. _(Supporting detail)_
+3. The missing information will be checked before we proceed to the next step. _(Closing sentence / next point)_
+
+**Labels: T - S - C**
 
 **Paragraph 2:**
-1. **T** — Topic sentence
-2. **S** — Supporting detail
-3. **C** — Closing sentence
+
+Students should write these labels after the three sentences:
+
+1. The system was updated last night. _(Topic sentence)_
+2. Some users reported error messages after the update. _(Supporting detail)_
+3. These observations will be included in the technical report that follows. _(Closing sentence / next point)_
+
+**Labels: T - S - C**
 
 
-##### C. Practice B — Reorder and Extend
+##### C. Language — Build a Short Review Summary
 
-**Best order: B → A → C**
+**Best order: B - A - C**
 
 1. B: We checked the application yesterday. _(background)_
 2. A: Two forms were missing from the submission. _(main finding)_
@@ -153,28 +192,48 @@ Paragraph A keeps all sentences on the same topic (reviewing the guidelines). Pa
 
 **Add one supporting sentence (many correct answers):**
 - The missing forms affect the first documentation check and may delay the next review step.
-  _(This example is suggested in the exercise itself.)_
 - Without these documents, we cannot proceed to the next stage of the review.
 
 
-##### D. Guided Practice — Write a Better Paragraph
+##### D. Guided Practice — Build a Paragraph From Facts
 
-**Original:** "We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before."
+Open-ended. Students should use the provided facts to write one paragraph of 4-5 sentences with a topic sentence, supporting details, and a closing sentence.
 
-**Model rewrite (5–6 sentences, T→S→C):**
+**Model answer:**
 
-> We completed the initial review of the submitted application yesterday. During the review, we identified that one required document was missing from the file. This document is an essential part of the examination process and cannot be substituted. Without it, the review cannot proceed to the next stage. We also noted that the applicant had previously submitted an incorrect version of this form. This information will be recorded as part of the preliminary documentation check.
+> The application review started yesterday. During the review, the office found that one required document was missing. The applicant had also sent an older version of the form. Because of these issues, the review cannot move to the next stage yet. A follow-up request will be prepared so the missing and updated documents can be collected.
 
 
-##### G. Editing Practice — Repair the Paragraph Logic
+##### E. Freer Practice — Write One Administrative Paragraph
+
+Open-ended. Strong responses should:
+
+- use one of the provided fact sets
+- stay focused on one main idea
+- include a clear topic sentence
+- include two or three supporting details
+- close with a result, next point, or link forward
+
+
+##### F. Editing Practice — Repair the Paragraph Logic
 
 **Original:** "The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage."
 
-_Problem: One off-topic sentence (printer); remaining sentences need reordering._
+**Unrelated sentence:** "The office printer will be replaced next week."
 
 **Model rewrite:**
 
-> We started the file review this morning. During the review, we found that two sections of the form were incomplete. These missing sections may delay the next stage of the process. We will contact the applicant to request the missing information before the review can continue.
+> The file review started this morning. During the review, we found that two sections of the form were incomplete. These missing sections may delay the next stage. The missing information will be requested before the review continues.
+
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection responses should show that students understand topic, support, closing, and paragraph breaks.
+
+
+##### H. Transfer Extension — Use the Paragraph Structure
+
+Open-ended. Students should turn information from Unit 1 or Unit 2 into one internal paragraph of 4-5 sentences. The paragraph should not read like an email. It should include one topic sentence, two or three supporting sentences, and one closing sentence.
 
 
 ### MODULE 2. Essential Email Writing for Administrative Contexts

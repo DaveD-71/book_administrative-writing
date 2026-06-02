@@ -2122,3 +2122,17 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave reviewed the new Unit 3 PDF and identified that the apparent merge had overridden user edits, that the unit still leaned too heavily on list-style presentation for a paragraph lesson, and that the duplicate-`A` handling had been treated too mechanically.
 - Action: performed a full-file comparison against `aw-int-all_0519_tmp.md`, merged the user backup back into the working manuscript, preserved the structural Unit 3 shell repairs where still wanted, and recorded the clarified normalization rule that book-wide `A. Warm-Up` standard should override bad source labels rather than blindly keeping the first duplicate `A`. Also documented that future Unit 3 repair must explicitly relabel div titles, reorder context/action/output information for clarity, and remove redundant task wording.
 - Outcome: `aw-int-all_0519_tmp.md` remains as the untouched safety backup; `int/md/working/aw-int-all_0519.md` is the new merged baseline; the latest PDF confirms that the placeholder leak is fixed, but the even-page Unit header is still not resolved and Unit 3 remains pedagogically in progress rather than signed off.
+
+## 2026-06-02T00:00:00+09:00 - INT Unit 3 Pedagogical Rewrite Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md` Unit 3, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit3_repair_notes.md`.
+- Trigger: Dave restored the prior Unit 3 repair notes from the office PC and warned that Unit 3 needed a significant pedagogical rewrite.
+- Action: replaced the old lecture-heavy Unit 3 sequence with a clearer warm-up -> example -> language -> guided practice -> freer practice -> editing -> self-check/reflection -> transfer sequence. Added controlled fact banks for guided and freer paragraph-writing tasks, removed answer-like support examples from student prompts, repaired Unit 3 answer-key alignment, and replaced the stale Unit 3 repair notes with current verification results.
+- Verification: Unit 3 heading sequence is `ABCDEFGH`; Unit 3 fenced divs are balanced at 15 opens / 15 closes; whole-manuscript divs are balanced at 569 opens / 569 closes; Unit 3 has 10 placeholders, all with explicit `rows=N`; no duplicate placeholder IDs, generic response labels, stale Unit 3 labels, old Unit 3 placeholder IDs, or raw arrow notation remain.
+
+## 2026-06-02T15:10:57+09:00 - INT Unit 3 Final Label Polish And Module 1 Review Workshop Repair
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`, and project memory.
+- Trigger: Dave identified that the Unit 3 paragraph model was titled as labelled but no longer showed `T/S/C` labels, then requested project memory and repair-plan updates before moving to the Module 1 Review Workshop.
+- Action: changed the Unit 3 model to a continuous paragraph with end-position `(T)`, `(S)`, `(S)`, `(C)` labels, fixed the `rows=1d` typo, updated the repair plan with function-based duplicate-`A` handling, paragraph-label guidance, and module-review workshop standards, and repaired the Module 1 Review Workshop by title-casing headings, removing redundant strategy/map/note blocks, moving placeholders inside task divs, increasing response rows, and updating the answer key.
+- Verification pending: run focused source audits and review the regenerated DOCX/PDF once Dave finishes conversion.
