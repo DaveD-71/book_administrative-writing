@@ -1313,3 +1313,13 @@ Rules:
 - Decision: the INT Markdown front matter must include `div_content_style_map` for semantic content styles, especially `example`, `example-good`, and `example-bad` mapping to `AW Example`, `AW Example Good`, and `AW Example Bad`.
 - Decision: model/example styling should come from explicit fenced div classification in the Markdown source, not postprocessor inference from phrases, quotation marks, or incidental Word quote styles.
 - Preferred behavior: when adding or repairing model text, wrap it in the correct fenced div class. Do not rely on Textmaker to infer content style from labels such as `Original`, `Strong`, `Possible Stronger Version`, or from quoted paragraphs.
+
+## 2026-06-02 - INT Module Review Workshop Standard Applied Book-Wide
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: all INT module review workshops now follow the same Phase 3 review pattern: key lessons, comparison task with short response space, revision lab, self-edit routine with visible revision space, transfer task with separate reflection/notes where needed, and preparation/final portfolio check.
+- Decision: module review workshops should not accumulate multiple strategy maps, planning grids, rebuild labs, and comparison sets that repeat the same teaching point. Consolidate redundant support into one usable compare/revise/self-edit/transfer sequence.
+- Decision: answer-key review-workshop blocks must appear after the module's final unit and mirror the student-book sequence.
+- Verification: after applying the standard to Modules 2-6, whole-manuscript divs were balanced at 551 opens / 551 closes, placeholder IDs were unique, and Pandoc parsed `int/md/working/aw-int-all_0519.md` with `style_bridge.lua` without warnings.
+- Preferred behavior: when continuing Phase 3 unit work, check module-review workshops alongside units because they are high-risk locations for repeated generic div titles, missing response spaces, and stale answer-key placement.

@@ -15,6 +15,10 @@ style_map:
   example: "Div Label Example"
   example-good: "Div Label Example Good"
   example-bad: "Div Label Example Bad"
+div_content_style_map:
+  example: "AW Example"
+  example-good: "AW Example Good"
+  example-bad: "AW Example Bad"
 ---
 
 # Administrative Writing, Advanced

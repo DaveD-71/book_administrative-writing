@@ -252,8 +252,11 @@ It is sometimes difficult for the reader to understand fully the writer's intend
 Common problem types:
 
 A. Main action is hidden
+
 B. Extra detail is too long
+
 C. Passive or indirect wording
+
 D. Unnecessary purpose phrase
 
 Each sentence below has a common clarity problem. First label the problem with A-D from the list above. Then rewrite the sentence so the reader can understand the point more easily.
@@ -309,7 +312,9 @@ Turn Sentences into a Mini Message
 Choose **one** of the situations below.
 
 A. A form is missing one page.
+
 B. A meeting time has changed.
+
 C. A file needs to be checked again.
 
 For your first draft, write two simple sentences:
@@ -542,7 +547,9 @@ Write Your Own Professional Email
 Choose one situation below.
 
 A. Write to a colleague who needs to check a document today.
+
 B. Write to an applicant to confirm the correct deadline.
+
 C. Write to a colleague to ask for clarification about one part of an application.
 
 Then write a short professional email in **3-4 sentences**. Include:
@@ -890,7 +897,7 @@ Core Takeaways
 ### Weak vs. Strong Review Case
 
 ::: notice
-Weak vs. Strong Review
+Compare the Versions
 
 Read these two versions of the same message. Decide which version is easier to read quickly, tells the reader exactly what to do next, and uses a stronger paragraph structure.
 :::
@@ -907,32 +914,12 @@ Version B
 We checked your request yesterday. At present, one required document is missing. Please send the missing document by Friday so that we can continue the review.
 :::
 
-### Self-Edit Routine
-
-::: edit
-Self-Edit Routine
-
-Before you move to Module 2, check one piece of your own writing from this module.
-
-- [ ] Circle the main action verb in each sentence.
-- [ ] Underline any sentence that feels too long.
-- [ ] Check whether the tone sounds neutral and professional.
-- [ ] Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
-- [ ] Rewrite one sentence and one paragraph so the reader can understand the message faster.
-:::
-
-### Transfer Task
-
 ::: write
-Transfer Task
+Review Response
 
-Write a short internal message of **5-6 sentences** about a simple workplace topic, such as a missing document, a meeting update, or a request for confirmation.
+Write **2-3 sentences** explaining which version is stronger. Mention sentence clarity, tone, and paragraph structure.
 
-Your message should include two clear sentences that show Unit 1 sentence control, one polite request or explanation that shows Unit 2 tone control, and one short paragraph structure that shows Unit 3 organisation.
-
-After writing, add three short notes: where you improved sentence clarity, where you controlled tone, and where you organised the paragraph for the reader.
-
-{{PH-2: M1-transfer-task | rows=10}}
+{{PH-1: M1-review-case-response | rows=4}}
 :::
 
 ### Revision Lab
@@ -944,7 +931,7 @@ We checked your application yesterday and there are some problems and we need mo
 :::
 
 ::: revise
-Revision Lab
+Improve the Weak Draft
 
 Read the weak draft. Then improve it in three steps: split the long sentence into smaller sentences, change wording that sounds sudden or forceful, and end with a clear next action for the reader.
 
@@ -959,10 +946,56 @@ We checked your application yesterday. At present, we need one more piece of inf
 This version is stronger because each sentence has one clear job, the request sounds cooperative rather than pressuring, and the paragraph ends with a visible next step.
 :::
 
+### Self-Edit Routine
+
+::: edit
+Check and Revise Your Writing
+
+Choose one piece of your own writing from Units 1-3. Use the checklist, then revise one sentence and one paragraph.
+
+- [ ] Circle the main action verb in each sentence.
+- [ ] Underline any sentence that feels too long.
+- [ ] Check whether the tone sounds neutral and professional.
+- [ ] Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
+- [ ] Rewrite one sentence and one paragraph so the reader can understand the message faster.
+
+**Revised sentence**
+
+{{PH-1: M1-self-edit-sentence | rows=2}}
+
+**Revised paragraph**
+
+{{PH-2: M1-self-edit-paragraph | rows=5}}
+:::
+
+### Transfer Task
+
+::: write
+Write an Integrated Message
+
+Choose one simple workplace topic, such as a missing document, a meeting update, or a request for confirmation.
+
+Write one short internal message of **5-6 sentences**. Include:
+
+- two clear sentences that show Unit 1 sentence control
+- one polite request or explanation that shows Unit 2 tone control
+- one short paragraph structure that shows Unit 3 organisation
+
+{{PH-2: M1-transfer-message | rows=8}}
+
+After writing, add three short notes:
+
+1. Where did you improve sentence clarity?
+2. Where did you control tone?
+3. Where did you organise the paragraph for the reader?
+
+{{PH-1: M1-transfer-notes | rows=4}}
+:::
+
 ### Preparation for Module 2
 
 ::: edit
-Preparation Check
+Ready for Email Writing?
 
 Before you start the email module, check whether you can do these four things without help:
 
@@ -2644,7 +2677,7 @@ If you do not want to use a real request, choose one Unit 7 freer-practice situa
 
 ## Module 2 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -2655,10 +2688,10 @@ Core Takeaways
 - Unit 7: Request emails are easier to accept when the reason, action, and tone match the relationship.
 :::
 
-### Email comparison review
+### Email Comparison Review
 
 ::: notice
-Email Comparison
+Compare Request Openings
 
 Compare these two request openings.
 :::
@@ -2675,19 +2708,55 @@ Version B
 Could you please send the updated file today? I need it to complete the report before the afternoon deadline.
 :::
 
-Then answer:
+::: write
+Review Response
 
-- [ ] Which version sounds more cooperative?
-- [ ] Which version gives the reader a clearer reason to act?
-- [ ] Which unit in this module best explains the change from A to B?
-- [ ] What else would you add if the request were going to an external office instead of a colleague?
+Write **2-3 sentences** explaining which version is stronger. Mention tone, reason, and reader action.
 
-### module 2 email control checklist
+{{PH-1: M2-review-comparison-response | rows=4}}
+:::
+
+### Revision Lab
+
+::: example-bad
+Weak Email
+
+Subject: Document
+
+Hello,
+About the form, there is a problem, so please send it again soon because we need it.
+Thank you.
+:::
+
+::: revise
+Improve the Weak Email
+
+Rewrite the weak email so the reader can understand the topic, the exact problem, and the action needed. Include a clearer subject line, a professional opening, and one polite request.
+
+{{PH-2: M2-revision-lab-email | rows=8}}
+:::
+
+::: example-good
+Possible Stronger Version
+
+Subject: Request to Resend the Student Information Form
+
+Dear Ms. Lee,
+
+Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
+
+Best regards,
+[Your Name]
+
+This version is stronger because the subject line names the topic, the body explains the exact problem, the request names a clear action, and the deadline is linked to a visible purpose.
+:::
+
+### Self-Edit Routine
 
 ::: edit
-Email Control Checklist
+Check and Revise One Email
 
-Use this checklist on one email from Units 4-7.
+Choose one email from Units 4-7. Use the checklist, then revise the weakest part of the email.
 
 - [ ] Is the subject line specific enough?
 - [ ] Does the opening sentence show the purpose early?
@@ -2695,12 +2764,20 @@ Use this checklist on one email from Units 4-7.
 - [ ] If you report a delay or change, does the message state the current situation and next step?
 - [ ] If you make a request, does the reason help the reader understand why the action matters?
 - [ ] Does the closing tone fit the relationship?
+
+**Revised subject or opening**
+
+{{PH-1: M2-self-edit-opening | rows=2}}
+
+**Revised email section**
+
+{{PH-2: M2-self-edit-section | rows=5}}
 :::
 
-### module 2 transfer task
+### Transfer Task
 
 ::: write
-Transfer Task
+Write Two Audience Versions
 
 Choose one workplace situation:
 
@@ -2713,13 +2790,6 @@ Write two short emails for the same situation:
 - one to an internal colleague
 - one to an external office
 
-After writing, add a note explaining:
-
-- what stayed the same in both emails
-- what changed because of audience
-- which module unit helped you make that decision
-:::
-
 **Internal Email**
 
 {{PH-3: M2-transfer-internal-email | rows=4}}
@@ -2728,174 +2798,30 @@ After writing, add a note explaining:
 
 {{PH-3: M2-transfer-external-email | rows=4}}
 
-### module 2 strategy map
+Audience Notes
 
-::: learn
-Strategy Map
+After writing, add three short notes:
 
-Module 2 asks you to control four linked decisions in every email:
+1. What stayed the same in both emails?
+2. What changed because of audience?
+3. Which module unit helped you make that decision?
 
-- what the reader needs to understand first
-- what action or information you want from the reader
-- how polite the message needs to sound
-- how much detail is enough for this relationship
-
-Use the unit map below when an email feels weak.
-
-- Unit 4 helps when the email has no clear structure.
-- Unit 5 helps when the question is broad, vague, or difficult to answer.
-- Unit 6 helps when the reader may feel uncertain about a change or delay.
-- Unit 7 helps when the action request sounds too direct or too weak.
+{{PH-1: M2-transfer-audience-notes | rows=4}}
 :::
 
-### Module 2 weak-email clinic
+### Preparation for Module 3
 
-::: example-bad
-Weak Version
+::: edit
+Ready for Internal Communication?
 
-Subject: Document
+Before you start the internal communication module, check whether you can do these four things without help:
 
-Hello,
-About the form, there is a problem, so please send it again soon because we need it.
-Thank you.
-:::
+- [ ] write a specific email subject line
+- [ ] state the purpose in the opening sentence
+- [ ] ask one clear question or make one clear request
+- [ ] adjust detail and tone for the reader
 
-::: notice
-Weak-Email Clinic
-
-Read this email.
-
-Why this email causes trouble for the reader:
-
-- the subject line gives almost no useful information
-- the problem is not specific
-- the request is urgent, but the reason is not clear enough
-- the reader still does not know what exact action to take
-:::
-
-::: example-good
-Stronger Version
-
-Subject: Request to resend the student information form
-
-Dear Ms. Lee,
-
-Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
-
-Best regards,
-[Your Name]
-
-Why this stronger version works:
-
-- the subject line tells the reader the topic immediately
-- the body explains the exact problem
-- the request names a clear action
-- the deadline is linked to a visible purpose
-:::
-
-### Module 2 revision lab
-
-::: write
-Revision Lab
-
-Choose one of these situations:
-
-- missing applicant information
-- delayed response from another office
-- request for a colleague to confirm a date
-
-Write a three-part email set:
-
-1. a first email
-2. a polite follow-up email
-3. a final short internal note explaining the situation to your team
-
-After writing, answer these questions:
-
-- How did the opening line change across the three messages?
-- Where did you make the reason for the request clearest?
-- Which message needed the most careful tone control?
-- Which unit from this module helped you most at each step?
-:::
-
-**Email 1**
-
-{{PH-2: M2-revision-lab-email-1 | rows=6}}
-
-**Email 2 (Follow-Up)**
-
-{{PH-2: M2-revision-lab-email-2 | rows=6}}
-
-**Internal Note**
-
-{{PH-2: M2-revision-lab-internal-note | rows=6}}
-
-### Module 2 audience-and-detail grid
-
-::: structure
-Audience-and-Detail Grid
-
-Use this grid when one email still feels underbuilt.
-
-| Situation | Reader | Detail the reader needs | Detail the reader does not need | Most important sentence job |
-| --- | --- | --- | --- | --- |
-| clarification request | office or colleague | exact information gap | unrelated background | precise question |
-| delay or change update | colleague or office | current status and next step | repeated apology | reassurance through clarity |
-| action request | colleague, applicant, or office | exact action and reason | extra history | clear request |
-
-If the email is still weak after one revision, ask:
-
-- Is the message missing the exact information gap?
-- Is the reason for the request still too vague?
-- Is the email giving more background than the relationship needs?
-:::
-
-### Module 2 follow-up planning note
-
-::: learn
-Follow-Up Planning
-
-Strong email control includes knowing what happens after the first message.
-
-Before you finish an email task, write one short follow-up note:
-
-- what reply you expect
-- what you will do if the reply is incomplete
-- what internal update may be needed after the exchange
-
-This extra planning step helps the writer build emails that feel more purposeful and more realistic in workplace sequence.
-:::
-
-### Module 2 audience contrast check
-
-::: notice
-Audience Contrast Check
-
-Take one short email from this module and test it against two readers:
-
-- an internal colleague who already knows the background
-- an outside office that only knows the immediate issue
-
-Then ask:
-
-- Which version needs more background before the main point?
-- Which version needs the narrower question or request?
-- Which version needs the calmest closing line?
-
-This comparison matters because the same email purpose can still need a different shape when the relationship changes.
-:::
-
-### Module 2 reply-path mini planner
-
-::: structure
-Reply-Path Mini Planner
-
-Before you send a clarification or request email, add one short planning line:
-
-- If the reply is clear, what is your next action?
-- If the reply is incomplete, what is your follow-up question?
-
-This keeps the message sequence practical and helps the first email lead more naturally to the next step.
+If one of these still feels weak, return to the unit that teaches it and revise one more email before moving on.
 :::
 
 # MODULE 3. Writing Procedures & Internal Explanations
@@ -4444,7 +4370,7 @@ If you do not want to use a real meeting, choose one Unit 11 freer-practice scen
 
 ## Module 3 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -4455,12 +4381,12 @@ Core Takeaways
 - Unit 11: A meeting summary should help future action, not simply repeat the meeting in time order.
 :::
 
-### Reader-purpose comparison
+### Reader-Purpose Comparison
 
 ::: notice
-Purpose Comparison
+Compare Internal Summaries
 
-Look at these two short summaries.
+Read these two short summaries. Decide which version better helps the reader understand the purpose, main issue, and next action.
 :::
 
 ::: example-bad
@@ -4475,31 +4401,64 @@ Version B
 The team met on Monday to review the new system schedule. The main issue was a document delay from one office. We agreed to request the missing file by Wednesday. A follow-up meeting will be held only if the file does not arrive.
 :::
 
-Use the comparison to decide:
+::: write
+Review Response
 
-- [ ] Which version helps the reader act after reading?
-- [ ] Which sentence in Version B gives the clearest next step?
-- [ ] Which module unit best explains why Version B is stronger?
-- [ ] How could you rewrite Version A so the purpose is clearer?
+Write **2-3 sentences** explaining which version is stronger. Mention reader purpose, order, and next action.
 
-### module 3 self-edit routine
+{{PH-1: M3-review-comparison-response | rows=4}}
+:::
+
+### Revision Lab
+
+::: example-bad
+Weak Notice
+
+The office will use a different room next week. There were some schedule problems and some people may need to move. Please understand.
+:::
+
+::: revise
+Improve the Internal Notice
+
+Rewrite the weak notice so it names the change, gives the reason, and tells the reader what action to take.
+
+{{PH-2: M3-revision-lab-notice | rows=6}}
+:::
+
+::: example-good
+Possible Stronger Version
+
+The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
+
+This version is stronger because the change is named clearly, the reason is specific, the reader action is visible, and the time frame is easy to understand.
+:::
+
+### Self-Edit Routine
 
 ::: edit
-Self-Edit Routine
+Check and Revise One Internal Text
 
-Review one procedure, notice, problem note, or summary from this module.
+Choose one procedure, notice, problem note, or summary from this module. Use the checklist, then revise the weakest part of the text.
 
 - [ ] Number each action or idea if order matters.
 - [ ] Check whether the reason for the message appears early enough.
 - [ ] Underline the sentence that tells the reader what happens next.
 - [ ] Remove one vague sentence and replace it with a factual one.
 - [ ] Ask: if a new staff member reads this text, will they know what to do?
+
+**Revised sentence or step**
+
+{{PH-1: M3-self-edit-sentence | rows=2}}
+
+**Revised text section**
+
+{{PH-2: M3-self-edit-section | rows=5}}
 :::
 
-### module 3 transfer task
+### Transfer Task
 
 ::: write
-Transfer Task
+Build an Internal Communication Pack
 
 Write a short internal communication pack about one small workplace issue such as a room change, a software problem, or a meeting follow-up.
 
@@ -4508,13 +4467,6 @@ Include:
 - a 3-4 step procedure or action list
 - a short notice or explanation paragraph
 - a 4-5 sentence summary of the outcome or next step
-
-Then write three reflection notes:
-
-- which part was hardest to organise
-- which part needed the clearest next-step sentence
-- which unit gave you the most useful support
-:::
 
 **Procedure**
 
@@ -4528,237 +4480,28 @@ Then write three reflection notes:
 
 {{PH-2: M3-transfer-summary | rows=4}}
 
-### module 3 structure clinic
+After writing, add three short notes:
 
-::: learn
-Structure Clinic
+1. Which part was hardest to organise?
+2. Which part needed the clearest next-step sentence?
+3. Which unit gave you the most useful support?
 
-Module 3 teaches a simple but important workplace rule: the reader should not need to guess the order of information. Use this reminder:
-
-- procedures need sequence
-- notices need change + reason + action
-- problem explanations need situation + cause + effect + current response
-- summaries need purpose + main points + decision + next step
-
-When a text feels weak, ask which one of these patterns it should follow. Many internal documents become difficult because the writer mixes two patterns together.
+{{PH-1: M3-transfer-notes | rows=4}}
 :::
 
-### module 3 weak-to-strong comparison
+### Preparation for Module 4
 
-::: notice
-Weak-to-Strong Comparison
+::: edit
+Ready for External Communication?
 
-Read these two internal notices.
-:::
+Before you start the external communication module, check whether you can do these four things without help:
 
-::: example-bad
-Version A
+- [ ] write ordered steps for a simple procedure
+- [ ] explain a change with a clear reason and action
+- [ ] describe a problem by separating problem, cause, effect, and response
+- [ ] finish a summary with a visible next step
 
-The office will use a different room next week. There were some schedule problems and some people may need to move. Please understand.
-:::
-
-::: example-good
-Version B
-
-The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
-:::
-
-Which version would be more useful to a reader who needs to act quickly? Then check your reasoning:
-
-Why the stronger version works:
-
-- the change is named clearly
-- the reason is specific
-- the action for the reader is visible
-- the time frame is easy to understand
-
-Use that same logic when revising a procedure, a problem note, or a meeting summary. The exact format changes, but the reader still needs sequence and visible next action.
-
-### module 3 revision lab
-
-::: write
-Revision Lab
-
-Create one short internal communication set about a realistic office problem such as:
-
-- a printer problem
-- a room change
-- a delayed document
-- a meeting decision that changes a procedure
-
-Include:
-
-- one 3-5 step procedure
-- one short notice
-- one 4-6 sentence explanation or summary
-
-Then review the set with these prompts:
-
-- Which document gives the clearest next step?
-- Which document would confuse a new staff member most if written badly?
-- Where did you make the reason for the message visible early?
-- Which piece needed the strongest logical order?
-:::
-
-**Procedure**
-
-{{PH-2: M3-revision-lab-procedure | rows=6}}
-
-**Notice**
-
-{{PH-2: M3-revision-lab-notice | rows=6}}
-
-**Explanation**
-
-{{PH-2: M3-revision-lab-explanation | rows=6}}
-
-### module 3 internal-writing planning board
-
-::: structure
-Internal-Writing Planning Board
-
-Use this planning board before drafting any procedure, notice, problem note, or meeting summary.
-
-| Text type | Reader action after reading | Order pattern | Sentence that must appear early |
-| --- | --- | --- | --- |
-| Procedure | follow steps | sequence -> check -> result | the action that starts the task |
-| Notice | react to a change | change -> reason -> action | the changed fact |
-| Problem explanation | understand disruption | problem -> cause -> effect -> current response | the main problem |
-| Meeting summary | continue later work | purpose -> main points -> decision -> next step | the meeting purpose |
-
-Use the board to diagnose weak drafts:
-
-- if the text feels repetitive, the order pattern may be missing
-- if the reader cannot act, the early key sentence may be missing
-- if the text feels unclear, two different patterns may be mixed together
-
-This board helps because Module 3 is often weakened by hidden structure problems, not by grammar alone.
-:::
-
-### module 3 sequencing rebuild lab
-
-::: revise
-Sequencing Rebuild Lab
-
-Take one weak internal message and rebuild it in two passes.
-
-1. Structure pass
-   - name the text type
-   - choose the matching order pattern
-   - mark where each part should appear
-2. Reader-use pass
-   - add the sentence that tells the reader what to do, expect, or remember next
-   - remove one sentence that only repeats the same point
-
-Reflection prompts:
-
-- Which pass changed the text more?
-- Which sentence became most useful after the rebuild?
-- What would a new staff member understand now that was not clear before?
-:::
-
-**Write Your Revised Version**
-
-{{PH-2: M3-sequencing-rebuild | rows=3}}
-
-### module 3 internal-document rebuild workshop
-
-::: revise
-Internal-Document Rebuild Workshop
-
-When an internal text still feels too thin, rebuild it with this workshop.
-
-**Step 1 - Name the document job**
-
-Choose one:
-
-- procedure
-- notice
-- problem explanation
-- meeting summary
-
-Then complete:
-
-- the reader needs this document because ...
-- after reading, the reader should be able to ...
-- the most important sentence must appear by line ...
-
-**Step 2 - Build the use-path**
-
-Use the matching path:
-
-- procedure:
-  - start action
-  - ordered steps
-  - check or result
-- notice:
-  - changed fact
-  - reason
-  - action for staff
-- problem explanation:
-  - problem
-  - cause
-  - effect
-  - current response
-- meeting summary:
-  - meeting purpose
-  - key points
-  - decision
-  - next step
-
-**Step 3 - Add a reader-use sentence**
-
-Many weak internal texts explain something but still do not tell the reader what to do with the information.
-
-Add one sentence that makes the reader-use value visible:
-
-- what to check
-- what to pause
-- what to remember
-- what to do next
-
-::: example
-
-Mini contrast:
-:::
-
-::: example
-
-- Weak notice:
-  - "The room will change next week."
-- Stronger notice:
-  - "The document check will move to Room 304 next week because Room 201 is under maintenance. Please bring all morning submissions to Room 304 from Monday to Friday."
-:::
-
-The stronger version works because it combines change, reason, and action in a usable order.
-:::
-
-**Write Your Revised Version**
-
-{{PH-2: M3-internal-doc-workshop | rows=6}}
-
-### module 3 reader-use comparison set
-
-::: notice
-Reader-Use Comparison Set
-
-Compare these two meeting-summary endings.
-
-**Ending A**
-Further discussion may be needed later.
-
-**Ending B**
-The team will request the missing file by Wednesday and review the case again on Friday if the document arrives in time.
-
-Why Ending B is stronger:
-
-- it gives a visible action
-- it gives timing
-- it shows the conditional next step
-
-Now rewrite one ending from your own summary work so it does the same three jobs.
-
-This comparison matters because Module 3 improves most when the text becomes more useful to the next reader, not simply more grammatical.
+If one of these still feels weak, return to the unit that teaches it and revise one more internal text before moving on.
 :::
 
 # MODULE 4. Communicating with Applicants & Foreign Offices
@@ -6312,7 +6055,7 @@ If you do not want to use real emails, choose two Unit 15 freer-practice situati
 
 ## Module 4 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -6323,12 +6066,12 @@ Core Takeaways
 - Unit 15: Consistency gives the reader confidence because repeated messages follow a stable pattern.
 :::
 
-### Audience-control comparison
+### Audience-Control Comparison
 
 ::: notice
-Audience Comparison
+Compare External Openings
 
-Study these two openings.
+Read these two openings. Decide which version is easier for the reader to answer.
 :::
 
 ::: example-bad
@@ -6343,31 +6086,64 @@ Version B
 I am writing to ask for clarification about the document submission process described in your previous email.
 :::
 
-Now answer:
+::: write
+Review Response
 
-- [ ] Which version is easier to answer?
-- [ ] Which words make the topic narrower and clearer?
-- [ ] Which unit from this module explains why that change matters?
-- [ ] How would you continue Version B if the reader were an applicant instead of another office?
+Write **2-3 sentences** explaining which version is stronger. Mention audience, amount of detail, and answerability.
 
-### module 4 communication checklist
+{{PH-1: M4-review-comparison-response | rows=4}}
+:::
+
+### Revision Lab
+
+::: example-bad
+Weak Response
+
+You misunderstood the process. We already explained it before, so please read the instructions again and follow them correctly.
+:::
+
+::: revise
+Improve the Reader Response
+
+Rewrite the weak response so it explains the process clearly, removes blame language, and gives the reader a clear way forward.
+
+{{PH-2: M4-revision-lab-response | rows=8}}
+:::
+
+::: example-good
+Possible Stronger Version
+
+Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
+
+This version is stronger because it keeps the relationship calm, explains the process in the order the reader needs, removes blame language, and leaves the reader with a clear path forward.
+:::
+
+### Self-Edit Routine
 
 ::: edit
-Communication Checklist
+Check and Revise One External Message
 
-Use this checklist on one text from Units 12-15.
+Choose one inquiry, explanation, clarification response, or repeated email from Units 12-15. Use the checklist, then revise the weakest part of the message.
 
 - [ ] Can the reader see the purpose in the first one or two sentences?
 - [ ] Does the message explain only the background that the reader needs?
 - [ ] Is each question or explanation point easy to answer or follow?
 - [ ] If the reader was confused before, does the response sound helpful rather than defensive?
 - [ ] Does the message follow the same style rules used elsewhere in the module?
+
+**Revised opening or question**
+
+{{PH-1: M4-self-edit-opening | rows=2}}
+
+**Revised message section**
+
+{{PH-2: M4-self-edit-section | rows=5}}
 :::
 
-### module 4 transfer task
+### Transfer Task
 
 ::: write
-Transfer Task
+Write for Two Readers
 
 Create a short two-part communication set about one administrative issue such as a missing document, a confusing instruction, or an inconsistent email pattern.
 
@@ -6375,13 +6151,6 @@ Write:
 
 - one outward-facing message to the person or office involved
 - one short internal explanation for your team
-
-Then add a note explaining:
-
-- how the audience changed your wording
-- how you controlled the amount of detail
-- which unit strategy you used to keep the writing consistent
-:::
 
 **Outward-Facing Message**
 
@@ -6391,235 +6160,29 @@ Then add a note explaining:
 
 {{PH-2: M4-transfer-internal | rows=4}}
 
-### module 4 audience-shift map
+After writing, add three short notes:
 
-::: learn
-Audience-Shift Map
+1. How did the audience change your wording?
+2. How did you control the amount of detail?
+3. Which unit strategy helped you keep the writing consistent?
 
-Module 4 becomes stronger when you can explain not only what changed in the message, but why it changed. Use this audience map:
-
-- external office:
-  - needs a respectful, answerable question
-  - usually does not need all of your internal background
-- applicant or student:
-  - often needs clearer explanation and less institutional shorthand
-  - may need reassurance as well as instruction
-- internal team:
-  - needs the practical effect, shared understanding, and next action
-
-The same topic may need three different shapes because each reader has a different job after reading.
+{{PH-1: M4-transfer-notes | rows=4}}
 :::
 
-### module 4 reader-trust clinic
+### Preparation for Module 5
 
-::: notice
-Reader-Trust Clinic
+::: edit
+Ready for Editing Practice?
 
-Read these two responses to the same problem.
+Before you start the editing module, check whether you can do these four things without help:
+
+- [ ] write a respectful, answerable inquiry
+- [ ] explain details in grouped, connected sentences
+- [ ] answer confusion without sounding defensive
+- [ ] keep repeated messages consistent in style
+
+If one of these still feels weak, return to the unit that teaches it and revise one more external message before moving on.
 :::
-
-::: example-bad
-Version A
-
-You misunderstood the process. We already explained it before, so please read the instructions again and follow them correctly.
-:::
-
-::: example-good
-Version B
-
-Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
-:::
-
-Why Version B works better:
-
-- it starts by keeping the relationship calm
-- it explains the process in the order the reader needs
-- it removes blame language
-- it leaves the reader with a clear path forward
-
-This principle matters across Units 12 to 15. A message can be grammatically simple but still fail if it damages reader trust, hides the key step, or gives too much unexplained detail.
-
-### module 4 revision lab
-
-::: write
-Revision Lab
-
-Choose one scenario:
-
-- an applicant is confused about required documents
-- another office sent incomplete instructions
-- your team uses inconsistent email openings in repeated external communication
-
-Write a three-part communication set:
-
-1. one outward-facing message
-2. one internal explanation for your team
-3. one short style note or rule for future messages
-
-After writing, explain:
-
-- what each reader needed most
-- which details you removed from the outward-facing version
-- where you worked hardest to protect clarity and trust
-- which unit from this module you used most directly
-:::
-
-**Outward-Facing Message**
-
-{{PH-2: M4-revision-outward | rows=6}}
-
-**Internal Explanation**
-
-{{PH-2: M4-revision-internal | rows=6}}
-
-**Style Note**
-
-{{PH-1: M4-revision-style-note | rows=6}}
-
-### module 4 reader-planning grid
-
-::: structure
-Reader-Planning Grid
-
-Before you send any outward-facing message in this module, fill in this grid.
-
-| Reader | What they already know | What they still need | What they may misunderstand | What tone helps most |
-| --- | --- | --- | --- | --- |
-| External office | some shared process background | one answerable question | why you are asking now | respectful and efficient |
-| Applicant or student | basic task or document request | clearer explanation and next action | institutional shorthand or hidden assumptions | clear, calm, and supportive |
-| Internal team | full workplace context | practical effect and next step | how much detail the outside reader received | direct and operational |
-
-Use the grid to stop three common Module 4 problems:
-
-- giving too much background to the outside reader
-- giving too little explanation to the less-informed reader
-- forgetting to show why the message matters now
-
-When a message still feels weak after grammar editing, the problem is often here. The writer has not yet decided what the reader already knows, what the reader still needs, and what kind of trust the message should build.
-:::
-
-### module 4 external communication rebuild lab
-
-::: revise
-External Communication Rebuild Lab
-
-Choose one scenario:
-
-- a missing supporting document
-- a confusing instruction in a process note
-- a repeated team email pattern that causes mixed tone
-
-Write a two-stage rebuild:
-
-1. First draft
-   - write the message quickly in 4-6 sentences
-2. Rebuild draft
-   - rewrite it so the first sentence gives the purpose sooner
-   - remove one detail the reader does not need
-   - add one detail the reader does need
-   - add one line that shows the next action clearly
-
-Then answer:
-
-- Which sentence changed reader trust most?
-- Which sentence changed answerability most?
-- Which detail did you remove because it belonged only to internal discussion?
-
-This lab matters because Module 4 is not only about being polite. It is about making the message easy for the other person to answer, follow, or accept without extra confusion.
-:::
-
-**First Draft**
-
-{{PH-2: M4-rebuild-first-draft | rows=3}}
-
-**Rebuild Draft**
-
-{{PH-2: M4-rebuild-second-draft | rows=3}}
-
-### module 4 outward-facing rebuild workshop
-
-::: revise
-Outward-Facing Rebuild Workshop
-
-Use this workshop when an external-facing message still feels underbuilt after one revision.
-
-**Step 1 - Reader need check**
-
-Write short answers to these questions:
-
-- [ ] What does the reader already know?
-- [ ] What exact question or explanation does the reader still need?
-- [ ] Which detail would only matter to your internal team?
-- [ ] What kind of trust does this reader need from the message?
-
-**Step 2 - Answerability rebuild**
-
-Rebuild the message so it becomes easier to answer or follow. Check each sentence:
-
-- Does it help the reader understand the situation?
-- Does it narrow the question or explanation?
-- Does it show what action or reply is needed next?
-
-If a sentence does none of those jobs, remove or rewrite it.
-
-**Step 3 - Reader-trust rebuild**
-
-Now review the tone with this contrast:
-
-- blame language -> calm clarification
-- vague warning -> specific explanation
-- heavy background -> only the background the reader needs
-- abrupt request -> clear action with reason
-
-::: example
-
-Mini contrast:
-:::
-
-::: example
-
-- Weak:
-  - "You misunderstood the form. Please read the instructions again."
-- Stronger:
-  - "Thank you for your message. To clarify the form process, the supporting document is uploaded after the main form is submitted. Please let us know if you would like us to confirm the next step in more detail."
-:::
-
-The stronger version works because it protects trust, explains the sequence, and leaves the reader with a clear way forward.
-:::
-
-**Write Your Rebuilt Message**
-
-{{PH-2: M4-outward-workshop-rebuild | rows=3}}
-
-### module 4 audience-shift practice set
-
-::: write
-Audience-Shift Practice Set
-
-Take one workplace issue such as:
-
-- a missing document
-- an unclear instruction
-- a repeated formatting problem
-
-Write three short openings:
-
-1. to an external office
-2. to an applicant or student
-3. to your internal team
-
-After writing, explain:
-
-- which opening gives the narrowest question
-- which opening needs the clearest explanation
-- which opening can assume the most background knowledge
-
-This practice matters because Module 4 improves when the writer stops treating "external communication" as one single audience type. The module becomes stronger when the writer can shift detail, trust, and explanation according to who is reading.
-:::
-
-**Write Here**
-
-{{PH-1: M4-audience-shift-openings | rows=6}}
 
 # MODULE 5. Editing & Revision Skills (Basic)
 
@@ -7730,7 +7293,7 @@ If you do not want to use a real email, choose one Unit 18 freer-practice situat
 
 ## Module 5 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -7740,12 +7303,12 @@ Core Takeaways
 - Unit 18: Tone revision changes how the reader feels about the message without changing the administrative meaning.
 :::
 
-### Revision comparison
+### Revision Comparison
 
 ::: notice
-Revision Comparison Task
+Compare Editing Choices
 
-Read these two versions.
+Read these two versions. Decide which version better controls accuracy, clarity, and tone.
 :::
 
 ::: example-bad
@@ -7760,43 +7323,65 @@ Version B
 The attached file does not appear to match the requested format. Could you please send the correct file today so that we can continue the review?
 :::
 
-Use the comparison to answer:
+::: write
+Review Response
 
-- [ ] Which version is more accurate about the problem?
-- [ ] Which version is clearer about the required action?
-- [ ] Which version manages tone better?
-- [ ] What changes from Units 16-18 created the stronger result?
+Write **2-3 sentences** explaining which version is stronger. Mention accuracy, clarity, and tone.
 
-### module 5 editing routine
+{{PH-1: M5-review-comparison-response | rows=4}}
+:::
+
+### Revision Lab
+
+::: example-bad
+Weak Draft
+
+The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
+:::
+
+::: revise
+Improve the Weak Draft
+
+Revise the weak draft in three passes: first improve accuracy, then improve clarity, and then improve tone.
+
+{{PH-2: M5-revision-lab-message | rows=6}}
+:::
+
+::: example-good
+Possible Stronger Version
+
+The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
+
+This version is stronger because the problem is more precise, the next action is clearer, and the tone supports cooperation.
+:::
+
+### Self-Edit Routine
 
 ::: edit
-Editing Routine
+Check and Revise One Earlier Draft
 
-Use these steps on one draft from an earlier module.
+Choose one draft from Modules 1-4. Use the routine, then revise the weakest part of the draft.
 
 - [ ] Accuracy pass: check grammar, word choice, and basic correctness.
 - [ ] Clarity pass: shorten heavy sentences and remove vague language.
 - [ ] Tone pass: check whether the message sounds cooperative and professional.
 - [ ] Final pass: confirm that the revised draft still says the same essential thing.
+
+**Revised sentence or section**
+
+{{PH-2: M5-self-edit-section | rows=5}}
 :::
 
-### module 5 transfer task
+### Transfer Task
 
 ::: revise
-Transfer Task
+Revise One Draft Three Ways
 
 Take one earlier draft from Modules 1-4 and revise it three times.
 
 - Version 1: accuracy focus
 - Version 2: clarity focus
 - Version 3: tone focus
-
-After revising, write a short reflection:
-
-- which pass changed the text most
-- which pass felt easiest
-- which pass you most need in your real work
-:::
 
 **Version 1 (Accuracy Focus)**
 
@@ -7810,125 +7395,31 @@ After revising, write a short reflection:
 
 {{PH-2: M5-transfer-tone | rows=2}}
 
-### module 5 editing-decision map
+Revision Notes
 
-::: learn
-Editing-Decision Map
+After revising, add three short notes:
 
-Module 5 is not only about finding errors. It is about deciding what kind of revision the text needs first. Use this order when you edit:
+1. Which pass changed the text most?
+2. Which pass felt easiest?
+3. Which pass do you most need in your real work?
 
-1. accuracy:
-   - Is anything simply wrong?
-2. clarity:
-   - Can the reader follow the message without extra effort?
-3. tone:
-   - Will the reader react well enough to continue working with you?
-
-This order helps because some tone problems disappear after clarity improves, and some clarity problems disappear after an accuracy fix. Good editing is not random correction. It is a controlled sequence.
+{{PH-1: M5-transfer-notes | rows=4}}
 :::
 
-### module 5 revision clinic
-
-::: example-bad
-Weak Draft
-
-The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
-
-Improve it in three passes.
-
-- [ ] Accuracy pass:
-  - check whether each idea is factually and grammatically controlled
-- [ ] Clarity pass:
-  - separate the problem, effect, and action
-- [ ] Tone pass:
-  - remove blame and create a cooperative next step
-
-Possible stronger version:
-
-The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
-
-Why this stronger version works:
-
-- [ ] the problem is more precise
-- [ ] the next action is clearer
-- [ ] the tone supports cooperation
-:::
+### Preparation for Module 6
 
 ::: edit
-Revision Clinic
+Ready for Integrated Tasks?
 
-Read this weak message:
+Before you start the integrated task module, check whether you can do these four things without help:
 
+- [ ] check whether a sentence is factually and grammatically controlled
+- [ ] shorten or clarify a sentence that hides the main point
+- [ ] soften wording that sounds blaming, abrupt, or too casual
+- [ ] decide which editing pass should come first
+
+If one of these still feels weak, return to the unit that teaches it and revise one more draft before moving on.
 :::
-
-**Write Your Revised Version**
-
-{{PH-2: M5-revision-clinic | rows=6}}
-
-### module 5 carry-forward task
-
-::: write
-Carry-Forward Task
-
-Take one draft from Modules 1-4 and one draft from Module 6 if you already have one. Write a short editing note for each draft:
-
-- the biggest accuracy problem
-- the biggest clarity problem
-- the biggest tone problem
-- which problem you would fix first and why
-
-This prepares you for later whole-document revision, where the hardest part is often deciding where to begin.
-:::
-
-**Draft 1 Editing Note**
-
-{{PH-1: M5-carryforward-draft1 | rows=6}}
-
-**Draft 2 Editing Note**
-
-{{PH-1: M5-carryforward-draft2 | rows=6}}
-
-### module 5 revision priorities board
-
-::: structure
-Revision Priorities Board
-
-When a draft still feels weak after one edit, use this board to decide the next pass.
-
-| Problem you notice first | Best first pass | Why |
-| --- | --- | --- |
-| grammar or word-form error changes the meaning | accuracy | the reader may misread the basic fact |
-| the reader cannot see the main point quickly | clarity | the message job is hidden inside the wording |
-| the message sounds blaming, abrupt, or too casual | tone | the relationship may fail even if the facts are correct |
-| several problems appear together | accuracy -> clarity -> tone | later passes work better after the earlier control problem is fixed |
-
-Use the board on one earlier draft from Modules 1-4 and explain:
-
-- which problem you fixed first
-- which later problem became easier after that
-- which pass created the biggest visible improvement
-:::
-
-### module 5 editing memo for later modules
-
-::: write
-Editing Memo for Later Modules
-
-Module 5 should continue helping you after this module ends.
-
-Before you submit any later task, write a short memo:
-
-- one accuracy point to verify
-- one clarity point to simplify
-- one tone point to soften or stabilise
-- one sentence that still needs a better next-step signal
-
-This memo matters because whole-document quality rarely comes from one fast correction pass. Better administrative writing usually comes from repeated, controlled revision decisions.
-:::
-
-**Write Your Memo**
-
-{{PH-1: M5-editing-memo | rows=6}}
 
 # MODULE 6. Capstone & Applied Administrative Writing
 
@@ -9899,7 +9390,7 @@ Choose any earlier writing task and complete a **third revision**, focusing on p
 
 ## Module 6 Review Workshop
 
-### Key lessons to keep
+### Key Lessons to Keep
 
 ::: learn
 Core Takeaways
@@ -9911,12 +9402,12 @@ Core Takeaways
 - Unit 23: Portfolio review turns revision into a deliberate habit instead of a last-minute correction.
 :::
 
-### Multi-document comparison
+### Multi-Document Comparison
 
 ::: notice
-Document Comparison
+Compare Communication Sets
 
-Look at these two responses to the same situation: an applicant submitted the wrong form and the team needs to react.
+Read these two responses to the same situation: an applicant submitted the wrong form and the team needs to react.
 :::
 
 ::: example-bad
@@ -9933,118 +9424,26 @@ External message: Thank you for your submission. We noticed that the attached fo
 Internal note: The file submitted today does not match the required template. Please pause the next review step until the corrected form arrives.
 :::
 
-Use the comparison to answer:
+::: write
+Review Response
 
-- [ ] Why is Version B more usable than Version A?
-- [ ] Which sentence in Version B best shows audience control?
-- [ ] Which unit from this module helps most with the external message?
-- [ ] Which unit helps most with the internal note?
-- [ ] Where would you apply Module 5 editing habits before final submission?
+Write **2-3 sentences** explaining why Version B is stronger. Mention audience control, document purpose, and consistency.
 
-### module 6 final self-edit routine
-
-::: learn
-Final Self-Edit Routine
-
-Before you finish the course, use this routine on one integrated task set.
-
-- Check each document separately for purpose, reader, and next action.
-- Compare the tone across the documents and confirm that each one fits its audience.
-- Check whether facts stay consistent when the audience changes.
-- Remove one sentence that belongs in a different document.
-- Add one sentence that makes the next step clearer.
+{{PH-1: M6-review-comparison-response | rows=4}}
 :::
 
-### module 6 rebuild lab
+### Revision Lab
+
+::: example-bad
+Single Weak Response
+
+There is a document problem. Please send the correct form. We will also tell the team there is a delay and everyone should wait.
+:::
 
 ::: revise
-Rebuild Lab
+Rebuild the Communication Set
 
-Use this quick lab on any integrated task from Units 19 to 23.
-
-- [ ] Choose one pair or set of linked documents.
-- [ ] Write the shared fact in one short sentence.
-- [ ] Write one reader-only detail for each document.
-- [ ] Check whether any sentence from one document was copied too directly into another.
-- [ ] Rewrite the weakest opening so the reader and purpose are clear immediately.
-
-**What this lab trains**
-
-- cross-document consistency
-- audience separation
-- stronger opening control
-- cleaner carry-forward revision habits
-- Use the portfolio rubric to identify the weakest criterion and revise once more.
-:::
-
-**Write Here**
-
-{{PH-2: M6-rebuild-lab | rows=3}}
-
-### module 6 transfer task
-
-::: write
-Transfer Task
-
-Create a final mini communication pack about one realistic workplace situation such as a missing applicant document, a schedule change, or a correction to earlier information.
-
-Include:
-
-- one external-facing message
-- one internal explanation or notice
-- one short note explaining the revision choices you made
-
-After writing, complete these reflection prompts:
-
-- what changed most across the audiences
-- which document was hardest to control
-- which earlier unit from the whole book you needed most
-- what editing habit you want to keep using after the course
-:::
-
-**External-Facing Message**
-
-{{PH-2: M6-transfer-external | rows=4}}
-
-**Internal Explanation**
-
-{{PH-2: M6-transfer-internal | rows=4}}
-
-**Revision Note**
-
-{{PH-1: M6-transfer-revision-note | rows=4}}
-
-### module 6 planning grid
-
-::: structure
-Planning Grid
-
-Before writing any integrated task, fill in this planning grid.
-
-| Document | Reader | Main purpose | Tone | Key next step |
-| --- | --- | --- | --- | --- |
-| Document 1 |  |  |  |  |
-| Document 2 |  |  |  |  |
-| Document 3 |  |  |  |  |
-
-Use the grid to stop three common problems:
-
-- giving the same message to every reader
-- keeping the same tone when the reader changes
-- forgetting to state the next action in one part of the communication set
-:::
-
-### module 6 integrated revision lab
-
-::: rewrite
-Integrated Revision Lab
-
-Read this weak communication set.
-
-**Single weak response**
-There is a document problem. Please send the correct form. We will also tell the team there is a delay and everyone should wait.
-
-Now rebuild it as a stronger set.
+Rebuild the weak response as a stronger set:
 
 1. External message:
    - thank the reader
@@ -10059,32 +9458,42 @@ Now rebuild it as a stronger set.
    - explain why the two texts cannot stay the same
    - explain which audience needed more detail
    - explain which Module 5 editing pass improved the set most
-
-Why this lab matters:
-
-- Unit 19 teaches the two-document split
-- Unit 20 teaches linked corrections
-- Unit 21 teaches consistency across writers
-- Unit 22 teaches stronger audience separation
-- Unit 23 asks you to review the final result as a portfolio, not as isolated tasks
 :::
 
 **External Message**
 
-{{PH-2: M6-integrated-external | rows=6}}
+{{PH-2: M6-revision-external | rows=6}}
 
 **Internal Message**
 
-{{PH-2: M6-integrated-internal | rows=6}}
+{{PH-2: M6-revision-internal | rows=6}}
 
 **Revision Note**
 
-{{PH-1: M6-integrated-revision-note | rows=6}}
+{{PH-1: M6-revision-note | rows=5}}
 
-### module 6 final course transfer task
+### Self-Edit Routine
+
+::: edit
+Check and Revise One Integrated Set
+
+Choose one integrated task set from Units 19-23. Use the checklist, then revise the weakest opening or next-step sentence.
+
+- [ ] Check each document separately for purpose, reader, and next action.
+- [ ] Compare the tone across the documents and confirm that each one fits its audience.
+- [ ] Check whether facts stay consistent when the audience changes.
+- [ ] Remove one sentence that belongs in a different document.
+- [ ] Add one sentence that makes the next step clearer.
+
+**Revised opening or next-step sentence**
+
+{{PH-1: M6-self-edit-sentence | rows=3}}
+:::
+
+### Final Course Transfer Task
 
 ::: write
-Final Course Transfer Task
+Create a Final Communication Pack
 
 Create one complete administrative communication pack about a realistic case such as:
 
@@ -10093,20 +9502,11 @@ Create one complete administrative communication pack about a realistic case suc
 - change to a deadline or procedure
 - correction to earlier shared information
 
-Your pack should include:
+Include:
 
 - one external-facing message
 - one internal explanation or notice
 - one short style or revision note for your team
-
-Then complete this final reflection:
-
-- Which document required the most careful audience control?
-- Where did you apply sentence, tone, and paragraph skills from Module 1?
-- Which earlier module helped most with explanation and structure?
-- Which earlier module helped most with revision?
-- What would you still revise if you had one more draft?
-:::
 
 **External-Facing Message**
 
@@ -10116,157 +9516,45 @@ Then complete this final reflection:
 
 {{PH-3: M6-final-internal | rows=6}}
 
-**Style Note**
+**Style or Revision Note**
 
 {{PH-1: M6-final-style-note | rows=6}}
 
-### module 6 audience-control matrix
+After writing, complete this final reflection:
 
-::: structure
-Audience-Control Matrix
+1. Which document required the most careful audience control?
+2. Where did you apply sentence, tone, and paragraph skills from Module 1?
+3. Which earlier module helped most with explanation and structure?
+4. Which Module 5 editing habit improved the pack most?
+5. What would you still revise if you had one more draft?
 
-Use this matrix before you write any multi-document task in this module.
-
-| Document type | Reader | What the reader needs first | What the reader does next | Tone risk to avoid |
-| --- | --- | --- | --- | --- |
-| External message | applicant or outside office | the exact issue or request | send, confirm, or clarify something | sounding abrupt or under-explained |
-| Internal explanation | colleague or supervisor | what happened and why it matters | prepare, pause, or continue a task | giving too little effect information |
-| Internal notice | wider team | one corrected fact or shared instruction | follow one clear reminder or update | sounding vague or incomplete |
-| Revision or style note | team or reviewer | what changed in the writing and why | reuse the stronger choice next time | listing edits without reader effect |
-
-Ask four questions before drafting:
-
-- [ ] Which fact must stay identical across all documents?
-- [ ] Which detail belongs in only one document?
-- [ ] Which reader needs the clearest next step?
-- [ ] Which text needs the calmest tone?
-
-This matrix matters because Module 6 becomes weak when the writer treats all documents as one message split into smaller parts. The reader changes the writing job. When the job changes, the detail level, sequence, and tone must also change.
+{{PH-1: M6-final-reflection | rows=6}}
 :::
 
-### module 6 capstone coaching memo
+### Portfolio Completion Check
 
-::: learn
-Capstone Coaching Memo
+::: edit
+Final Portfolio Check
 
-If a communication pack still feels weak, diagnose it with this memo.
+Before final submission, choose one portfolio item and check it against this ladder:
 
-- If the texts sound too similar, rewrite the opening sentence of each one so the purpose changes immediately.
-- If the facts drift, underline all dates, document names, and next steps, then compare them across the set.
-- If one document feels too short, ask what the reader still cannot understand, decide, or do after reading.
-- If the set feels repetitive, keep the shared fact but change the reader-facing function:
-  - request
-  - explanation
-  - reminder
-  - correction
-  - revision reflection
-
-Mini coaching contrast:
-
-- Weak set: every document repeats the same problem sentence with only small wording changes.
-- Stronger set: the external message requests action, the internal note controls workflow, and the revision note explains why the wording changed.
-
-Use this memo after drafting and again before final submission. It is normal for integrated tasks to need one extra pass beyond sentence-level editing because the main challenge is not only correctness. The main challenge is keeping reader purpose under control across the whole communication set.
-:::
-
-### module 6 multi-document rebuild workshop
-
-::: revise
-Multi-Document Rebuild Workshop
-
-Use this workshop when one integrated task set still feels too light or too repetitive.
-
-**Stage 1 - Separate the document jobs**
-
-Fill in this table before rewriting:
-
-| Document | Main reader | What the reader must understand | What the reader must do next | One detail to remove |
-| --- | --- | --- | --- | --- |
-| External message |  |  |  |  |
-| Internal explanation |  |  |  |  |
-| Internal notice or team reminder |  |  |  |  |
-| Revision note or style note |  |  |  |  |
-
-If two rows contain the same purpose sentence, the pack is probably still under-differentiated.
-
-**Stage 2 - Rebuild the sequence**
-
-Now rewrite the pack so each document starts with the reader's most urgent need:
-
-- external message:
-  - issue
-  - requested action
-  - timing or next step
-- internal explanation:
-  - event
-  - effect on the work
-  - internal response
-- internal notice:
-  - corrected fact
-  - workflow instruction
-  - follow-up point if needed
-- revision note:
-  - what changed
-  - why it changed
-  - how the new version helps the reader
-
-**Stage 3 - Cross-check for drift**
-
-Review the pack with these prompts:
-
-- [ ] Which facts must stay identical in all documents?
-- [ ] Which details appear in only one document because only that reader needs them?
-- [ ] Which document now carries the clearest next step?
-- [ ] Which document still sounds like it was copied from another one?
-
-::: example
-
-Mini contrast:
-:::
-
-::: example
-
-- Weak pack:
-  - every document repeats "There is a problem with the file" and changes only the greeting
-- Stronger pack:
-  - the external message requests the corrected file
-  - the internal explanation tells the team why review must pause
-  - the notice tells staff which date or step has changed
-  - the revision note explains why the wording split was necessary
-:::
-
-This workshop matters because Module 6 cannot reach parity only through better sentence control. It needs fuller task-set support so the learner can manage one fact across several different writing jobs without flattening the differences between readers.
-:::
-
-**Write Your Rebuilt Pack**
-
-{{PH-5: M6-multidoc-workshop | rows=6}}
-
-### module 6 portfolio completion ladder
-
-::: structure
-Portfolio Completion Ladder
-
-Before final submission, move one portfolio item through this ladder:
-
-1. Draft stage
-   - identify the reader and purpose
-2. Control stage
-   - mark the main sentence, supporting detail, and next-step line
-3. Revision stage
-   - improve accuracy, clarity, and tone
-4. Portfolio stage
-   - compare the item to the other three pieces
-   - decide what skill range it adds to the set
-5. Final reflection stage
-   - explain one revision decision that made the document more useful
+1. Draft stage:
+   - identify the reader and purpose.
+2. Control stage:
+   - mark the main sentence, supporting detail, and next-step line.
+3. Revision stage:
+   - improve accuracy, clarity, and tone.
+4. Portfolio stage:
+   - compare the item to the other pieces and decide what skill range it adds.
+5. Final reflection stage:
+   - explain one revision decision that made the document more useful.
 
 Use these prompts:
 
-- Which portfolio item is the strongest example for audience control?
+- Which portfolio item is the strongest example of audience control?
 - Which item still needs the clearest next-step line?
 - Which item benefits most from a Module 5 editing pass?
-- Which item best proves that the portfolio is a set of deliberate revisions rather than a set of disconnected exercises?
+- Which item best proves that the portfolio is a set of deliberate revisions rather than disconnected exercises?
 
-This ladder makes the capstone more teachable because it shows how one document moves from draft to finished portfolio evidence. Without that bridge, the final portfolio can still feel like a collection task instead of the end of a developed writing course.
+{{PH-1: M6-portfolio-check | rows=6}}
 :::

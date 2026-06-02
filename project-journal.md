@@ -2136,3 +2136,11 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave identified that the Unit 3 paragraph model was titled as labelled but no longer showed `T/S/C` labels, then requested project memory and repair-plan updates before moving to the Module 1 Review Workshop.
 - Action: changed the Unit 3 model to a continuous paragraph with end-position `(T)`, `(S)`, `(S)`, `(C)` labels, fixed the `rows=1d` typo, updated the repair plan with function-based duplicate-`A` handling, paragraph-label guidance, and module-review workshop standards, and repaired the Module 1 Review Workshop by title-casing headings, removing redundant strategy/map/note blocks, moving placeholders inside task divs, increasing response rows, and updating the answer key.
 - Verification pending: run focused source audits and review the regenerated DOCX/PDF once Dave finishes conversion.
+
+## 2026-06-02T17:21:17+09:00 - INT Module 2-6 Review Workshops Standardized
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `adv/md/working/aw-adv-all_0516.md`, and project memory.
+- Trigger: Dave asked whether the Module 1 Review Workshop repairs needed to be carried across the remaining five module review workshops.
+- Action: audited Modules 2-6 review workshops, found repeated generic titles, lowercase H3s, redundant strategy/planning/rebuild sections, missing comparison response spaces, mixed transfer/reflection outputs, and missing or stale answer-key coverage. Applied the Module 1 pattern across Modules 2-6: key lessons, comparison response, revision lab, self-edit routine, transfer task, and preparation/final portfolio check. Updated answer-key blocks for Modules 2-6 in the correct post-module locations. Added missing `div_content_style_map` to the ADV combined source so semantic example content styles remain source-driven.
+- Verification: whole-manuscript divs balanced at 551 opens / 551 closes; no duplicate placeholder IDs; Pandoc parse with `style_bridge.lua` completed without warnings.
+- Next: regenerate DOCX/PDF for visual inspection and continue Phase 3 unit-by-unit work from Module 2/Unit 4 onward if the review workshops render cleanly.

@@ -59,37 +59,14 @@ The student book now gives each item its own response space. Model sentences:
 
 Students should name the reader problem and then rewrite the sentence. Accept similar wording if the problem is correctly identified and the rewrite is clearer.
 
-1. **Problem:** extra detail is too long / main action is hard to find.
-   **Rewrite:** We are now checking the file that the applicant sent after Monday's meeting.
-2. The supervisor explained that a new review step will be necessary for the application.
-   **Problem:** passive or indirect wording.
-3. The check could not continue because some form items were incomplete and the database was unavailable.
-   **Problem:** extra detail is too long.
-4. We are writing to ask you to send the correct version of the attached file.
-   **Problem:** unnecessary purpose phrase.
-
-
-##### Module 1 Review Workshop
-
-**Weak vs. Strong Review Case:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request.
-
-**Self-Edit Routine:** Open-ended. Students should apply the checklist to one piece of writing from Units 1-3 and revise at least one sentence and one paragraph.
-
-**Transfer Task:** Open-ended. A successful response should include:
-
-- a short internal message of 5-6 sentences
-- clear sentence control from Unit 1
-- polite or neutral tone control from Unit 2
-- one paragraph with a visible topic, support, and closing from Unit 3
-- three short notes explaining the sentence, tone, and paragraph choices
-
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
-
-- Split the single long run-on sentence into shorter sentences.
-- Changed the pressured request to a cooperative request.
-- Ended with a clear next action for the reader.
-
-**Preparation for Module 2:** Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
+1. **Label:** A. Main action is hidden.
+   **Rewrite:** Our office is now checking the file that the applicant sent after Monday's meeting.
+2. **Label:** C. Passive or indirect wording.
+   **Rewrite:** The supervisor explained that a new review step will be necessary for the application.
+3. **Label:** B. Extra detail is too long.
+   **Rewrite:** The check could not continue because some form items were incomplete and the database was unavailable.
+4. **Label:** D. Unnecessary purpose phrase.
+   **Rewrite:** We are writing to ask you to send the correct version of the attached file.
 
 
 #### Unit 2. Professional Tone Basics
@@ -234,6 +211,29 @@ Open-ended. Reflection responses should show that students understand topic, sup
 ##### H. Transfer Extension — Use the Paragraph Structure
 
 Open-ended. Students should turn information from Unit 1 or Unit 2 into one internal paragraph of 4-5 sentences. The paragraph should not read like an email. It should include one topic sentence, two or three supporting sentences, and one closing sentence.
+
+
+#### Module 1 Review Workshop
+
+**Weak vs. Strong Review Case / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Split the single long run-on sentence into shorter sentences.
+- Changed the pressured request to a cooperative request.
+- Ended with a clear next action for the reader.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one piece of writing from Units 1-3, then write one revised sentence and one revised paragraph. The revised sentence should make the main action easier to find. The revised paragraph should show a clearer topic, support, and closing.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- a short internal message of 5-6 sentences
+- clear sentence control from Unit 1
+- polite or neutral tone control from Unit 2
+- one paragraph with a visible topic, support, and closing from Unit 3
+- three short notes explaining the sentence, tone, and paragraph choices
+
+**Preparation for Module 2:** Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
 
 
 ### MODULE 2. Essential Email Writing for Administrative Contexts
@@ -487,14 +487,28 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. Could you please provide the missing information? This will help us continue the review.
 
 
-##### Module 2 Review — Email Comparison (Version A vs. B)
+#### Module 2 Review Workshop
 
-**Answer: B is more professional.**
+**Email Comparison Review / Review Response:** Version B is stronger. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and reader action.
 
-Discussion points:
-1. B uses "Could you please" (polite modal); A uses an imperative ("Send")
-2. B gives a reason ("to complete the report before the afternoon deadline"); A gives no context
-3. B is appropriate for a colleague or external contact; A sounds demanding
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Replaced the vague subject line with a specific subject.
+- Named the exact problem: page 2 is missing.
+- Changed the urgent request into a polite request.
+- Connected the deadline to the review purpose.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one email from Units 4-7, then write a revised subject/opening and a revised email section. The revision should make the purpose, action, or tone clearer for the reader.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one short internal email
+- one short external email about the same situation
+- a clear purpose and action in both emails
+- more controlled tone and background detail in the external version where appropriate
+- three short notes explaining what stayed the same, what changed because of audience, and which unit strategy supported the decision
+
+**Preparation for Module 3:** Self-check only. If a student cannot complete one item confidently, they should revise one more email from the relevant unit before beginning Module 3.
 
 
 ### MODULE 3. Administrative Procedures & Internal Communication
@@ -702,6 +716,29 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 > The team met to discuss the review schedule and outstanding document issues. The main finding was that two forms still require additional confirmation. The IT team confirmed that system access for the review will be ready by Monday. A follow-up meeting is planned for later this week to finalise the preparation checklist.
 
 
+#### Module 3 Review Workshop
+
+**Reader-Purpose Comparison / Review Response:** Version B is stronger. It names the meeting purpose, identifies the main issue, gives the agreed action, and explains when a follow-up meeting will be needed. Version A is weak because it lists general topics without helping the reader act. A successful student response should mention reader purpose, order, and next action.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Named the exact room change.
+- Gave the reason for the change.
+- Told the reader where and when to submit documents.
+- Added a clear return-to-normal time frame.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one procedure, notice, problem note, or summary from Units 8-11, then write one revised sentence or step and one revised text section. The revision should improve order, factual detail, or reader action.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- a 3-4 step procedure or action list
+- a short notice or explanation paragraph
+- a 4-5 sentence summary of the outcome or next step
+- three short notes explaining organisation, next-step clarity, and the most useful unit strategy
+
+**Preparation for Module 4:** Self-check only. If a student cannot complete one item confidently, they should revise one more internal text from the relevant unit before beginning Module 4.
+
+
 ### MODULE 4. External Communication
 
 #### Unit 12. Writing Simple External Inquiries
@@ -805,6 +842,29 @@ _Instructor note: Award marks for: clear statement of the issue, specific cause 
 3. Dear Team, We have found that the attached file is not the correct version for this review. Could you please send the updated file? Thank you.
 
 
+#### Module 4 Review Workshop
+
+**Audience-Control Comparison / Review Response:** Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue. A successful student response should mention audience, amount of detail, and answerability.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Removed blame language.
+- Restated the process calmly.
+- Explained the steps in the order the reader needs.
+- Ended with an offer of further help.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one outward-facing message
+- one short internal explanation for the team
+- appropriate differences in tone and background detail for each reader
+- three short notes explaining audience wording, detail control, and the unit strategy used
+
+**Preparation for Module 5:** Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
+
+
 ### MODULE 5. Advanced Editing & Revision Skills
 
 #### Unit 16. Editing for Accuracy
@@ -880,6 +940,29 @@ _Instructor note: Exercise asks students to identify tone problems (too direct, 
 - "Send it now." → "Could you please send it when you have an opportunity today?"
 - "This is unacceptable." → "We would like to discuss how this issue can be resolved."
 - "Why didn't you do this?" → "I have a question about the earlier step. Could you clarify what happened?"
+
+
+#### Module 5 Review Workshop
+
+**Revision Comparison / Review Response:** Version B is stronger. It is more accurate because it describes the file problem without accusation, clearer because it names the requested action, and stronger in tone because it uses a polite request linked to the review purpose. A successful student response should mention accuracy, clarity, and tone.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Made the problem more precise.
+- Separated the problem from the requested action.
+- Replaced blaming or pressured wording with a cooperative request.
+- Kept the administrative meaning while improving tone.
+
+**Self-Edit Routine:** Open-ended. Students should apply the accuracy, clarity, and tone routine to one earlier draft from Modules 1-4, then write a revised sentence or section. The revision should keep the same essential meaning while improving control.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one accuracy-focused revision
+- one clarity-focused revision
+- one tone-focused revision
+- three short notes explaining which pass changed the text most, which felt easiest, and which pass the student needs most in real work
+
+**Preparation for Module 6:** Self-check only. If a student cannot complete one item confidently, they should revise one more draft from the relevant unit before beginning Module 6.
 
 
 ### MODULE 6. Integrated Tasks
@@ -959,6 +1042,28 @@ _All exercises use the student's own previous writing as source material. No fix
 - Does the tone match the stated audience (external, internal, colleague, supervisor)?
 - Are formatting and structure consistent across portfolio pieces?
 - Does the new Unit 23 document fit the standard set by the rest of the portfolio?
+
+
+#### Module 6 Review Workshop
+
+**Multi-Document Comparison / Review Response:** Version B is stronger. It separates the external message from the internal note, gives each reader the information they need, and keeps the shared fact consistent across both texts. Version A mixes reader jobs and gives no clear workflow control. A successful student response should mention audience control, document purpose, and consistency.
+
+**Revision Lab:** Open-ended. A successful rebuilt set should include:
+
+- an external message that thanks the reader, names the exact document problem, and asks for one clear action
+- an internal message that explains the same fact neutrally and tells the team what to pause, continue, or watch
+- a revision note explaining why the two texts cannot stay the same and which editing pass improved the set most
+
+**Self-Edit Routine:** Open-ended. Students should apply the integrated-task checklist to one set from Units 19-23, then revise one opening or next-step sentence. The revision should improve purpose, audience separation, consistency, or action clarity.
+
+**Final Course Transfer Task:** Open-ended. A successful response should include:
+
+- one external-facing message
+- one internal explanation or notice
+- one style or revision note
+- a final reflection explaining audience control, Module 1 carry-forward skills, explanation/structure support, Module 5 editing habits, and one remaining revision goal
+
+**Portfolio Completion Check:** Self-check only. Students should use the ladder to show that at least one portfolio item moved from draft to controlled revision and that the final portfolio demonstrates a deliberate range of course skills.
 
 
 ### APPENDIX. Grading Notes for Open-Ended Exercises
