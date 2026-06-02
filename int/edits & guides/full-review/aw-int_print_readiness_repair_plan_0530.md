@@ -1,4 +1,5 @@
 # INT Print-Readiness Repair Plan
+
 ## Administrative Writing, Intermediate
 
 **Date:** 2026-05-30

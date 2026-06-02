@@ -83,10 +83,10 @@ Look at the Stronger Sentence
 Look again at the three pairs in the warm-up.
 
 The clearer sentence usually improves one or more of these points: the **main subject** appears earlier, the **main action** is expressed by a simple verb, extra information is kept shorter, and the reader can understand the message in one reading.
-
+:::
 
 ::: notice
-Compare 
+Compare
 
 Look at the second pair of sentences from the Warm-Up again.
 :::
@@ -520,11 +520,13 @@ Read the email. Why is it weak?
 Original Email
 
 >
+>
 >Hi,
 >
 > You didn't send the right file.
 >
 > Send the correct one today. I need it now.
+>
 >
 :::
 
@@ -618,17 +620,15 @@ Answer the questions in short notes.
 ::: write
 Same Message, Better Relationship
 
-Choose a simple workplace request. Do not use private information. If you do not want to use a real workplace request, use one of the Activity E situations instead.
-
-Write one sentence on each line where possible.
+Choose a simple workplace request. Do not use private information. If you do not want to use a real workplace request, use one of the Activity E situations instead. Write one sentence on each line where possible.
 
 First write two short versions of the same request:
 
-1. a direct version you should **not** send
+1. A direct version you should **not** send
 
    {{PH-1: U02-transfer-direct-version | rows=2}}
 
-2. a professional version you **could** send
+2. A professional version you **could** send
 
    {{PH-1: U02-transfer-professional-version | rows=2}}
 
