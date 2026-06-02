@@ -281,7 +281,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 
 ##### D. Guided Practice — Build a Complete Email
 
-**Situation: Confirm required documents for an application.**
+**Situation: Writing to applicant Ms. Kim to confirm required documents for her application.**
 
 **Model email:**
 
@@ -295,7 +295,16 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 > [Name]
 
 
-##### G. Editing Practice — Repair the Email Structure
+##### E. Freer Practice — Write Your Own Email
+
+Open-ended. A strong response should:
+
+- use one of the three situations (A, B, or C)
+- include all six email parts: a clear subject line, a professional greeting, an opening sentence that states the purpose, a short body (2–3 sentences), a closing sentence, and a sign-off with a name
+- use appropriate language from Activity C (subject line phrases, openings, closings, and useful phrases)
+
+
+##### F. Editing Practice — Repair the Email Structure
 
 **Original:**
 > Subject: Help
@@ -313,6 +322,35 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 >
 > Thank you.
 > [Name]
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to name one email part that feels easy, one that feels difficult, and one phrase from Activity C they want to use in real emails. Accept any honest, specific response.
+
+
+##### H. Transfer and Homework
+
+**Build Two Purpose Lines — model responses:**
+
+A. asking about a missing document
+
+1. Subject: Missing Document — Application Review
+2. I am writing to ask about a missing document from the application file.
+
+B. confirming a deadline
+
+1. Subject: Deadline Confirmation — Application Review
+2. I would like to confirm the deadline for the current application review.
+
+C. giving an update about a review delay
+
+1. Subject: Update — Application Review Delay
+2. I would like to provide an update regarding a delay in the current review.
+
+**Homework Task:** Open-ended. A strong response rewrites a real or practice email using all six structural parts from Activity A. The email should include a clear subject line, a professional greeting, an opening sentence stating the purpose, a short body, a closing sentence, and a sign-off with a name. The language should match the workplace tone from Activity C.
 
 
 #### Unit 5. Requesting Clarification

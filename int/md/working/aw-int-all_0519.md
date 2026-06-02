@@ -114,7 +114,6 @@ The stronger version works because the reader can see the action immediately:
 
 The weaker version makes the reader wait too long before the real action appears.
 :::
-:::
 
 ### C. Language
 
@@ -1045,23 +1044,6 @@ By the end of this unit, I will be able to:
 - write a short, clear subject line for a workplace email.
 - write a simple professional email with an appropriate opening and closing.
 
-### A. What Does a Professional Email Look Like?
-
-::: learn
-Basic Email Layout
-
-A professional email has a **clear structure** so that the reader can easily understand the purpose.
-
-**Basic Email Layout**
-
-1. **Subject line** - a short summary of the purpose
-2. **Greeting** - polite opening
-3. **Opening sentence** - main purpose of the email
-4. **Body** - details, explanation, or information
-5. **Closing sentence** - final point or next step (not a command)
-6. **Sign-off** - polite closing phrase + name
-:::
-
 ### A. Warm-Up
 
 ::: notice
@@ -1096,9 +1078,23 @@ I have a question about the new application form.
 Could you clarify the purpose of Section 3?
 
 Thank you,
+[Name]
 :::
 
 **Discussion:** Which email is more professional, and why?
+
+::: learn
+Basic Email Layout
+
+A professional email has a **clear structure** so that the reader can easily understand the purpose.
+
+1. **Subject line** - a short summary of the purpose
+2. **Greeting** - polite opening
+3. **Opening sentence** - main purpose of the email
+4. **Body** - details, explanation, or information
+5. **Closing sentence** - final point or next step (not a command)
+6. **Sign-off** - polite closing phrase + name
+:::
 
 ::: learn
 Quick Email Check
@@ -1144,9 +1140,9 @@ Subject Lines
 
 A good subject line is:
 
-- Short
-- Clear
-- Specific
+- short
+- clear
+- specific
 
 **Examples of Clear Subject Lines**
 
@@ -1159,35 +1155,25 @@ A good subject line is:
 ::: rewrite
 Practice: Improve the Subject Line
 
-Rewrite each subject line so it sounds **natural and professional**. These examples show the kind of long SVO-style subjects lower-level writers often produce before they learn standard email patterns.
+Each subject line below is too long. Rewrite it as a short, clear phrase.
 
-**1.** Subject: I have a question about the document that you sent to me yesterday
+1. Subject: I have a question about the document that you sent to me yesterday
 
-{{PH-1: U04-C-rewrite-1 | rows=2}}
+   {{PH-1: U04-C-rewrite-1 | rows=2}}
 
-**2.** Subject: I want to ask you about when I should submit the missing form for the application
+2. Subject: I want to ask you about when I should submit the missing form for the application
 
-{{PH-1: U04-C-rewrite-2 | rows=2}}
+   {{PH-1: U04-C-rewrite-2 | rows=2}}
 
-**3.** Subject: I am writing this email because there is a problem with the online system today
+3. Subject: I am writing this email because there is a problem with the online system today
 
-{{PH-1: U04-C-rewrite-3 | rows=2}}
+   {{PH-1: U04-C-rewrite-3 | rows=2}}
 
-**4.** Subject: I need to know the reason why the applicant has not received the confirmation message yet
+4. Subject: I need to know the reason why the applicant has not received the confirmation message yet
 
-{{PH-1: U04-C-rewrite-4 | rows=2}}
+   {{PH-1: U04-C-rewrite-4 | rows=2}}
 
-**Goal:** Rewrite each one using a **short, compound-noun style** subject line, such as:
-
-- Application Form Question
-- Missing Form Submission Timing
-- Online System Issue
-- Confirmation Notice Status
 :::
-
-**Write Here**
-
-{{PH-1: U04-lang1-subject-lines | rows=2}}
 
 ::: language
 Email Openings and Closings
@@ -1207,27 +1193,24 @@ Email Openings and Closings
 - Please let me know if you need further information.
 :::
 
-::: write
+::: rewrite
 Practice: Choose an Opening and Closing
 
-Select an appropriate opening and closing for each situation.
+Select an appropriate opening and closing for each situation. Write your choices in the box below each situation.
 
 1. You are writing to a colleague about an internal document.
-   - Opening:
-   - Closing:
+
+   {{PH-1: U04-C-lang2-1 | rows=2}}
+
 2. You are writing to an applicant.
-   - Opening:
-   - Closing:
+
+   {{PH-1: U04-C-lang2-2 | rows=2}}
+
 3. You are writing to a foreign office.
-   - Opening:
-   - Closing:
+
+   {{PH-1: U04-C-lang2-3 | rows=2}}
+
 :::
-
-**Write Here**
-
-{{PH-1: U04-lang2-openings-closings | rows=2}}
-
-The first sentence must tell the reader **why you are writing**.
 
 ::: language
 Useful Phrases
@@ -1241,8 +1224,7 @@ Useful Phrases
 ::: learn
 Teaching Point
 
-The opening sentence is not only a polite beginning.
-It tells the reader what kind of message this is:
+The opening sentence tells the reader **why you are writing**. It is not only a polite beginning — it also shows what kind of message this is:
 
 - a question
 - a confirmation
@@ -1257,23 +1239,19 @@ Practice: Write the Opening Sentence
 
 Write a clear opening sentence for each situation.
 
-**1.** You want to ask about a missing document.
+1. You want to ask about a missing document.
 
-{{PH-1: U04-C-rewrite-5 | rows=2}}
+   {{PH-1: U04-C-rewrite-5 | rows=2}}
 
-**2.** You want to confirm a deadline.
+2. You want to confirm a deadline.
 
-{{PH-1: U04-C-rewrite-6 | rows=2}}
+   {{PH-1: U04-C-rewrite-6 | rows=2}}
 
-**3.** You want to give information about a system update.
+3. You want to give information about a system update.
 
-{{PH-1: U04-C-rewrite-7 | rows=2}}
+   {{PH-1: U04-C-rewrite-7 | rows=2}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U04-lang3-opening-sentences | rows=2}}
 
 ### D. Guided Practice
 
@@ -1282,35 +1260,18 @@ Build a Complete Email
 
 Use the prompts to write a simple, clear email.
 
-**Situation:** You want to confirm the required documents for an application.
+**Situation:** You are writing to an applicant, Ms. Kim. You want to confirm the required documents for her application.
 
 Write your email:
 
-- **Subject line:**
-- **Greeting:**
-- **Opening sentence:**
-- **Body (2-3 sentences):**
-- **Closing sentence:**
-- **Sign-off:**
-:::
-
-Use this box for one complete version.
-
-**Write Here**
+1. **Subject line:**
+2. **Greeting:**
+3. **Opening sentence:**
+4. **Body (2-3 sentences):**
+5. **Closing sentence:**
+6. **Sign-off:**
 
 {{PH-3: U04-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your own email, check:
-
-- [ ] Can the reader understand the purpose from the subject line and first sentence?
-- [ ] Is the question or information specific enough?
-- [ ] Is the body short but complete?
-- [ ] Does the closing sound professional?
 :::
 
 ### E. Freer Practice
@@ -1318,7 +1279,7 @@ Before writing your own email, check:
 ::: write
 Write Your Own Email
 
-Choose one situation and write one complete email in **3-4 sentences**.
+Choose one situation and write one complete email.
 
 **Situations**
 
@@ -1328,24 +1289,17 @@ B. Write to an applicant to confirm the correct deadline.
 
 C. Write to a colleague or partner office to ask one clear question about a submitted file.
 
-Include:
-
-- a clear subject line
-- a greeting
-- one opening sentence that explains your purpose
-- a short body
-- a closing sentence and sign-off
-
 Write your email:
-:::
-
-Use this box for one complete version.
-
-**Write Here**
 
 {{PH-3: U04-freer-document | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
+
+::: edit
+Repair the Email Structure
+
+Read the email below. Rewrite it using the six-part email structure from Activity A: subject line, greeting, opening sentence, body, closing sentence, and sign-off.
 
 ::: example-bad
 Original
@@ -1359,24 +1313,38 @@ I saw the file and I do not understand part of it and maybe there is also a prob
 Thanks.
 :::
 
-::: edit
-Repair the Email Structure
-
-Rewrite the email so each part has a clear job.
-
-**Rewrite:**
+{{PH-3: U04-editing-rewrite | rows=8}}
 :::
 
-Write the full corrected version below.
+### G. Self-Check and Reflection
 
-**Write Your Revised Version**
+::: edit
+Self-Check
 
-{{PH-2: U04-editing-rewrite | rows=2}}
+After writing your email in Activity E, check:
 
-### H. Transfer Extension
+- [ ] Can the reader understand the purpose from the subject line and first sentence?
+- [ ] Is the question or information specific enough?
+- [ ] Is the body short but complete?
+- [ ] Does the closing sound professional?
+:::
+
+::: write
+Reflection
+
+1. Which part of the email is easiest for you?
+2. Which part is most difficult?
+3. Which new phrase do you want to use in real emails?
+
+{{PH-1: U04-G-reflection | rows=4}}
+:::
+
+### H. Transfer and Homework
 
 ::: write
 Build Two Purpose Lines
+
+This helps you practise separating the job of the subject line from the job of the opening sentence.
 
 For each situation below, write:
 
@@ -1389,26 +1357,10 @@ B. confirming a deadline
 
 C. giving an update about a review delay
 
-This helps you separate the job of the subject line from the job of the opening sentence.
-
 Write one sentence on each line where possible.
+
+{{PH-1: U04-transfer-response | rows=8}}
 :::
-
-**Write Here**
-
-{{PH-1: U04-transfer-response | rows=4}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which part of the email is easiest for you?
-2. Which part is most difficult?
-3. Which new phrase do you want to use in real emails?
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
@@ -1416,13 +1368,9 @@ Homework Task
 Find one real email you sent recently (in Japanese or English). Rewrite it in English using the **email structure** from this unit.
 
 If you do not want to use a real email, rewrite one of the Unit 4 freer-practice situations instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U04-homework-document | rows=8}}
+:::
 
 ## Unit 5. Requesting Clarification
 
