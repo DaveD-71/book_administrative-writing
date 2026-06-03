@@ -1332,3 +1332,13 @@ Rules:
 - Decision: when a unit teaches a named text structure, the primary student-book model must visibly include every component in that structure. Unit 4 teaches a six-part email, so the strong email model must show subject line, greeting, opening sentence, body/question, closing sentence, and sign-off.
 - Decision: avoid nested semantic divs. If a task needs both an instruction wrapper and a styled model/example, use sibling divs and keep the response placeholder inside the relevant production or edit div.
 - Preferred behavior: merge adjacent generic `learn` blocks such as `Why This Works` when they explain the same model, and replace generic div titles like `Teaching Point` with a title that names the exact learner-facing concept.
+
+## 2026-06-03 - INT Units 5-6 Batch Repair Pattern
+
+- Status: `active`
+- Scope: project/conventions
+- Context: first paired Phase 3 batch repair after the Module 1 pilot and Unit 4 follow-up review.
+- Decision: batch processing is acceptable for adjacent units when they share the same old structural pattern and are still checked with the full per-unit Phase 3 standard. Units 5 and 6 were repaired together because both had the repeated `F. Self-Check Before Freer Practice` -> `E. Freer Practice` -> `G. Editing Practice` -> `H/E/F/H` tail pattern.
+- Decision: old `Extended Guided Practice` material should be folded into `C. Language` when it is controlled sentence-level rewrite work, leaving one visible `D. Guided Practice`.
+- Decision: H sections should not keep two near-identical transfer paragraph tasks. Keep the one that best extends the unit skill and remove or merge the redundant one.
+- Preferred behavior: for future batch repairs, run both unit-level and whole-manuscript audits after the batch: visible sequence, div balance, nested divs, placeholders outside divs, generic response labels, stale placeholder IDs, and answer-key headings.

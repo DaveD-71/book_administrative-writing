@@ -2152,3 +2152,11 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Action: added a missing closing sentence to the strong Email B model, merged redundant B teaching prose, tightened Unit 4 language-section labels, removed leftover `Write your email:` labels, flattened the nested `example-bad` inside the editing task, updated the Unit 4 answer key, marked the old Unit 4 issue list superseded, and created `phase3_unit4_repair_notes.md`.
 - Verification: Unit 4 heading sequence is `ABCDEFGH`; Unit 4 fenced divs are balanced at 22 opens / 22 closes; nested div scan reports none; whole-manuscript div balance is 551 opens / 551 closes; Unit 4 has 16 placeholders, all with `rows=N`; no duplicate placeholder IDs remain.
 - Next: continue Phase 3 with Unit 5 after any desired DOCX/PDF visual check of the revised Unit 4.
+
+## 2026-06-03T11:35:56+09:00 - INT Units 5-6 Phase 3 Batch Repair Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/`.
+- Trigger: Dave asked to begin batch processing while preserving the thorough Module 1 Phase 3 checking standard.
+- Action: reviewed Units 5 and 6 against the repair plan and project-memory superseding decisions, then repaired both units as a paired batch. Normalized both visible shells to `ABCDEFGH`, folded old controlled extended-practice items into C, rebuilt D/E/F/G/H activity boundaries, moved all placeholders inside their divs, removed generic response labels and redundant full-version boxes, removed one redundant Unit 6 report-paragraph transfer task, updated the answer key, and added `phase3_unit5_repair_notes.md` / `phase3_unit6_repair_notes.md`.
+- Verification: Unit 5 sequence `ABCDEFGH`, divs 21/21, 26 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Unit 6 sequence `ABCDEFGH`, divs 20/20, 19 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Whole-manuscript div balance is 547 opens / 547 closes; whole-manuscript placeholder IDs total 407 with 0 duplicates.
+- Next: visually review regenerated DOCX/PDF pages for Units 5-6 if desired, then continue Phase 3 batch processing with Unit 7 or the next shared-pattern pair.

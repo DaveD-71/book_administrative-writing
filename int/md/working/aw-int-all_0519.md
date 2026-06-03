@@ -1395,15 +1395,15 @@ Read the sentences below. Identify what is **unclear** or **missing**.
 3. "We need information about the form."
 4. "The deadline has changed."
 
-Write what you would need to know:
-1.
-2.
-3.
-4.
+Write what you would need to know for each sentence.
+
+{{PH-1: U05-warmup-unclear | rows=4}}
 :::
 
 ::: learn
 A Strong Clarification Question
+
+A strong clarification question does three things:
 
 - names the exact part that is unclear
 - asks for one specific piece of information
@@ -1415,7 +1415,7 @@ A Strong Clarification Question
 ::: learn
 Why a Better Clarification Question Works
 
-Compare:
+Compare the weak and stronger questions.
 :::
 
 ::: example-bad
@@ -1431,23 +1431,17 @@ Stronger
 :::
 
 ::: learn
-Why This Works
+Why the Stronger Question Works
 
-The stronger question works because it:
-
-- names the exact unclear point
-- limits the question to one topic
-- helps the reader give a useful answer
-
-The weak question may sound frustrated and gives the reader no clear starting point.
+The stronger question names the exact unclear point, limits the question to one topic, and helps the reader give a useful answer. The weak question may sound frustrated and gives the reader no clear starting point.
 :::
 
 ### C. Language
 
-Use these phrases when the information is not clear.
-
 ::: language
 Asking for Clarification
+
+Use these phrases when the information is not clear.
 
 - Could you clarify...?
 - Could you explain...?
@@ -1459,6 +1453,8 @@ Asking for Clarification
 ::: language
 Checking Your Understanding
 
+Use these phrases when you want to check that you understood correctly.
+
 - Do you mean that...?
 - Just to confirm,...
 - Should I understand that...?
@@ -1469,40 +1465,29 @@ Make These Questions Clearer
 
 Rewrite the questions to make them specific and professional.
 
-Each stronger question should show:
+Each stronger question should show what part is unclear and what information you need.
 
-- what part is unclear
-- what information you need
-- why the reader can answer it directly
+1. What do you mean?
 
-**Mini contrast — Weak:** "Tell me the details."
+   {{PH-1: U05-C-rewrite-1 | rows=2}}
 
-**Stronger:** "Could you clarify which supporting details should be included in Section 2 of the submission summary?"
+2. I don't understand this part.
 
-**1.** What do you mean?
+   {{PH-1: U05-C-rewrite-2 | rows=2}}
 
-{{PH-1: U05-C-rewrite-1 | rows=2}}
+3. Tell me the details.
 
-**2.** I don't understand this part.
+   {{PH-1: U05-C-rewrite-3 | rows=2}}
 
-{{PH-1: U05-C-rewrite-2 | rows=2}}
+4. What should I do?
 
-**3.** Tell me the details.
-
-{{PH-1: U05-C-rewrite-3 | rows=2}}
-
-**4.** What should I do?
-
-{{PH-1: U05-C-rewrite-4 | rows=2}}
-
+   {{PH-1: U05-C-rewrite-4 | rows=2}}
 :::
-
-**Write Here**
-
-{{PH-1: U05-practice-a-questions | rows=6}}
 
 ::: learn
 Common Situations
+
+Clarification questions are useful when the reader needs one exact answer before work can continue.
 
 - The instructions are unclear.
 - A document is missing or incomplete.
@@ -1513,20 +1498,12 @@ Common Situations
 ::: language
 Example Clarification Questions
 
+These examples name the unclear point and ask for one answer.
+
 - Could you clarify which version of the form we should use?
 - Could you explain what information is needed in Section 4?
 - I'm not sure I understand the deadline: does it mean Friday or Monday?
 - Could you confirm whether the applicant needs to submit this document now or later?
-:::
-
-::: learn
-Why This Works
-
-Clarification writing is easier to answer when the reader does not need to guess:
-
-- what is unclear
-- where the problem is
-- what kind of answer is needed
 :::
 
 ::: rewrite
@@ -1534,124 +1511,82 @@ Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
-**1.** "This is different from what you said before."
+1. "This is different from what you said before."
 
-{{PH-1: U05-C-rewrite-5 | rows=2}}
+   {{PH-1: U05-C-rewrite-5 | rows=2}}
 
-**2.** "The instructions are confusing."
+2. "The instructions are confusing."
 
-{{PH-1: U05-C-rewrite-6 | rows=2}}
+   {{PH-1: U05-C-rewrite-6 | rows=2}}
 
-**3.** "I don't know what to write in this part."
+3. "I don't know what to write in this part."
 
-{{PH-1: U05-C-rewrite-7 | rows=2}}
+   {{PH-1: U05-C-rewrite-7 | rows=2}}
 
-**4.** "The system doesn't work."
+4. "The system doesn't work."
 
-{{PH-1: U05-C-rewrite-8 | rows=2}}
+   {{PH-1: U05-C-rewrite-8 | rows=2}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U05-practice-b-clarity | rows=6}}
 
 ::: write
 Clarification from Context
 
 Read each short scenario. Write **two clarification questions** for each one.
 
-**Scenario 1**
+1. The instructions say: "Submit the form as soon as possible."
 
-The instructions say: "Submit the form as soon as possible."
-Your questions:
-1.
-2.
+   {{PH-1: U05-context-scenario-1 | rows=3}}
 
-**Scenario 2**
+2. Two versions of a file are attached, both named "Application_Final".
 
-Two versions of a file are attached, both named "Application_Final".
-Your questions:
-1.
-2.
+   {{PH-1: U05-context-scenario-2 | rows=3}}
 
-**Scenario 3**
+3. A supervisor writes: "Please prepare the report." No details are given.
 
-A supervisor writes: "Please prepare the report." No details are given.
-Your questions:
-1.
-2.
+   {{PH-1: U05-context-scenario-3 | rows=3}}
 :::
-
-**Write Here**
-
-{{PH-1: U05-practice-c-clarification | rows=6}}
-
-### D. Extended Guided Practice
 
 ::: rewrite
 Rewrite and Improve
 
 Rewrite each unclear message into a **clear, polite clarification request**.
 
-**1.** "I don't get this. Explain it."
+1. "I don't get this. Explain it."
 
-{{PH-1: U05-D-rewrite-1 | rows=2}}
+   {{PH-1: U05-C-rewrite-9 | rows=2}}
 
-**2.** "Which one is correct? These files look different."
+2. "Which one is correct? These files look different."
 
-{{PH-1: U05-D-rewrite-2 | rows=2}}
+   {{PH-1: U05-C-rewrite-10 | rows=2}}
 
-**3.** "What am I supposed to do with this form?"
+3. "What am I supposed to do with this form?"
 
-{{PH-1: U05-D-rewrite-3 | rows=2}}
+   {{PH-1: U05-C-rewrite-11 | rows=2}}
 
-**4.** "This part is wrong."
+4. "This part is wrong."
 
-{{PH-1: U05-D-rewrite-4 | rows=2}}
+   {{PH-1: U05-C-rewrite-12 | rows=2}}
 
 :::
-
-**Write Here**
-
-{{PH-2: U05-extended-guided-rewrite | rows=2}}
 
 ### D. Guided Practice
 
 ::: write
 Write a Clarification Email
 
-Write an email asking for clarification.
-
 **Situation:** You read instructions about a new form, but the information about **where to submit the form** is unclear.
 
-Write your email:
+Write one clarification email in **4-5 sentences**. Use this order:
 
-- **Subject:**
-- **Greeting:**
-- **Opening sentence:**
-- **Clarification question(s):**
-- **Closing sentence:**
-- **Sign-off:**
-:::
-
-Use this box for one complete version.
-
-**Write Here**
+1. Subject line
+2. Greeting
+3. Opening sentence
+4. Clarification question
+5. Closing sentence
+6. Sign-off
 
 {{PH-3: U05-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your own clarification email, check:
-
-- [ ] Did I identify one clear unclear point?
-- [ ] Did I ask a specific question?
-- [ ] Did I avoid blame or frustration?
-- [ ] Could the reader answer without asking me another question first?
 :::
 
 ### E. Freer Practice
@@ -1659,128 +1594,94 @@ Before writing your own clarification email, check:
 ::: write
 Write Two Clarification Emails
 
-Write **two short emails**, each 3-4 sentences, asking for clarification. Keep each email focused on **one topic only**. Choose **two** situations from the list below:
+Choose **two** situations from the list below.
 
-- The deadline notice and the form show different submission dates.
-- Two attached files use the same name, and you need to confirm which version should be used for this month's review.
-- A required attachment is missing from the document set, and you need to ask whether it should be sent now or in the next stage.
-- The written instructions and the checklist use different wording, and you need to confirm which instruction your team should follow.
+A. The deadline notice and the form show different submission dates.
 
-Write your emails:
-:::
+B. Two attached files use the same name, and you need to confirm which version should be used for this month's review.
 
-Write each document in its own box.
+C. A required attachment is missing from the document set, and you need to ask whether it should be sent now or in the next stage.
 
-**Email 1**
+D. The written instructions and the checklist use different wording, and you need to confirm which instruction your team should follow.
+
+Write **two short emails**, each 3-4 sentences. Keep each email focused on **one topic only**.
+
+Email 1:
 
 {{PH-3: U05-freer-email-1 | rows=10}}
 
-**Email 2**
+Email 2:
 
 {{PH-3: U05-freer-email-2 | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
 Fix the Clarification Problem
 
 Rewrite each message as a better clarification request.
 
-**1.** I don't understand this instruction.
+1. I don't understand this instruction.
 
-{{PH-1: U05-G-rewrite-1 | rows=2}}
+   {{PH-1: U05-F-rewrite-1 | rows=2}}
 
-**2.** The file names are confusing.
+2. The file names are confusing.
 
-{{PH-1: U05-G-rewrite-2 | rows=2}}
+   {{PH-1: U05-F-rewrite-2 | rows=2}}
 
-**3.** The deadline message is different from the form.
+3. The deadline message is different from the form.
 
-{{PH-1: U05-G-rewrite-3 | rows=2}}
+   {{PH-1: U05-F-rewrite-3 | rows=2}}
 
-**4.** The supervisor said to prepare the report.
+4. The supervisor said to prepare the report.
 
-{{PH-1: U05-G-rewrite-4 | rows=2}}
+   {{PH-1: U05-F-rewrite-4 | rows=2}}
 
 :::
 
-Write the full corrected version below.
+### G. Self-Check and Reflection
 
-**Write Your Revised Version**
+::: edit
+Self-Check
 
-{{PH-2: U05-editing-rewrite | rows=2}}
+After writing your emails in Activity E and completing the editing practice in Activity F, check your work:
 
-### H. Transfer Extension
+- [ ] Did I identify one clear unclear point?
+- [ ] Did I ask a specific question?
+- [ ] Did I avoid blame or frustration?
+- [ ] Could the reader answer without asking me another question first?
+:::
 
 ::: write
-One Topic, One Email
+Reflection
 
-Choose one of the freer-practice topics.
-
-Write:
-
-1. one weak email that asks too many things
-2. one stronger email that asks about only one topic
-
-Then note:
-
-- what information you removed
-- why the stronger email is easier to answer
-:::
-
-**Planning Notes**
-
-{{PH-1: U05-transfer-notes | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Clarification Summary Paragraph
-
-Write one **informational paragraph** (5-6 sentences) explaining a situation where clarification is needed.
-Your paragraph should:
-
-- Describe the background
-- Explain why clarification is necessary
-- Identify what information is missing
-- Lead into next steps in a neutral way
-
-Useful paragraph order:
-
-1. short background
-2. unclear or missing point
-3. reason clarification is needed
-4. effect on the work
-5. neutral next-step line
-:::
-
-::: example
-Mini Paragraph Frame
-
-- We reviewed the message received this morning.
-- One required point is still unclear.
-- Clarification is needed before the team can complete the next step.
-- The missing information affects the current document check.
-- A follow-up message will therefore be sent today.
-:::
-
-Write your paragraph:
-
-**Write Your Paragraph**
-
-{{PH-2: U05-extended-paragraph | rows=8}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
+Answer the questions in short notes.
 
 1. Which clarification phrase is most useful for you?
 2. Do you find it difficult to ask questions politely? Why or why not?
 3. Write one clarification question you can use in your work.
+
+{{PH-1: U05-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Transfer and Homework
+
+::: revise
+Clarification Summary Paragraph
+
+Choose one unclear situation from Activity E or another workplace situation. Write one **informational paragraph** of 5-6 sentences explaining why clarification is needed.
+
+Use this order:
+
+1. Short background
+2. Unclear or missing point
+3. Reason clarification is needed
+4. Effect on the work
+5. Neutral next-step line
+
+{{PH-2: U05-extended-paragraph | rows=8}}
+:::
 
 ::: write
 Homework Task
@@ -1788,13 +1689,9 @@ Homework Task
 Find an email or set of instructions you received recently. Identify **one unclear point** and write a clarification question about it in English.
 
 If you do not want to use a real message, choose one Unit 5 freer-practice situation and write the clarification question for that case.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U05-homework-document | rows=8}}
+:::
 
 ## Unit 6. Communicating Delays or Changes
 
@@ -1819,15 +1716,15 @@ Read each message and identify what information a reader would still need.
 3. "We cannot finish this today."
 4. "The system will be updated."
 
-Write what is missing:
-1.
-2.
-3.
-4.
+Write what the reader still needs to know for each message.
+
+{{PH-1: U06-warmup-missing-info | rows=4}}
 :::
 
 ::: learn
 A Useful Update Answers Four Questions
+
+A useful update answers these questions:
 
 1. What changed?
 2. Why did it change?
@@ -1840,7 +1737,7 @@ A Useful Update Answers Four Questions
 ::: learn
 Why a Good Update Helps the Reader
 
-Compare these two ideas:
+Compare the weak and stronger updates.
 :::
 
 ::: example-bad
@@ -1856,15 +1753,9 @@ Stronger
 :::
 
 ::: learn
-Why This Works
+Why the Stronger Update Works
 
-The stronger version works because the reader learns:
-
-- what changed
-- why it changed
-- what happens next
-
-That reduces uncertainty and extra follow-up questions.
+The stronger update tells the reader what changed, why it changed, and what happens next. This reduces uncertainty and extra follow-up questions.
 :::
 
 ### C. Language
@@ -1872,7 +1763,9 @@ That reduces uncertainty and extra follow-up questions.
 ::: language
 Useful Phrases for Delays and Changes
 
-**Neutral Phrases**
+Use neutral phrases so the update explains the situation without sounding emotional.
+
+Neutral phrases:
 
 - There will be a delay in...
 - The schedule has been adjusted.
@@ -1880,14 +1773,14 @@ Useful Phrases for Delays and Changes
 - There has been a change in...
 - The update will affect...
 
-**Explaining the Reason (Optional in admin English)**
+Reasons:
 
 - due to additional checks
 - because further review is required
 - because the system is under maintenance
 - due to missing information
 
-**Giving Neutral Information About Next Steps**
+Next steps:
 
 - The next update will be provided when available.
 - Further details will follow.
@@ -1900,37 +1793,25 @@ Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
-Try to replace vague updates with:
+Replace vague updates with information about what changed, which part of the work is affected, and what the reader should understand now.
 
-- what changed
-- which part of the work is affected
-- what the reader should understand now
+1. "The meeting is delayed."
 
-**Mini contrast — Weak:** "The meeting is delayed."
+   {{PH-1: U06-C-rewrite-1 | rows=2}}
 
-**Stronger:** "The meeting is delayed until Thursday because the updated file set is not yet complete."
+2. "We changed the procedure."
 
-**1.** "The meeting is delayed."
+   {{PH-1: U06-C-rewrite-2 | rows=2}}
 
-{{PH-1: U06-C-rewrite-1 | rows=2}}
+3. "The file will be late."
 
-**2.** "We changed the procedure."
+   {{PH-1: U06-C-rewrite-3 | rows=2}}
 
-{{PH-1: U06-C-rewrite-2 | rows=2}}
+4. "The system is slow."
 
-**3.** "The file will be late."
-
-{{PH-1: U06-C-rewrite-3 | rows=2}}
-
-**4.** "The system is slow."
-
-{{PH-1: U06-C-rewrite-4 | rows=2}}
+   {{PH-1: U06-C-rewrite-4 | rows=2}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U06-practice-a-clarity | rows=6}}
 
 ::: learn
 Logical Order for Update Messages
@@ -1950,16 +1831,9 @@ The review process will take longer than expected. Additional checks are require
 :::
 
 ::: learn
-Why This Works
+Why This Order Works
 
-The paragraph moves in a useful order:
-
-1. topic
-2. reason
-3. effect
-4. next step
-
-This order helps the reader understand both the situation and the practical meaning of the delay.
+The paragraph moves from topic to reason, then to effect, and finally to the next step. This order helps the reader understand both the situation and the practical meaning of the delay.
 :::
 
 ::: write
@@ -1975,75 +1849,47 @@ B. The system will be under maintenance on Friday.
 
 C. Users may not be able to access certain functions.
 
-Write the best order:
-1.
-2.
-3.
+Write the best order with the sentence letters only.
+
+{{PH-1: U06-practice-b-reorder | rows=2}}
 :::
-
-**Write the Order**
-
-{{PH-1: U06-practice-b-reorder | rows=6}}
 
 ::: write
 Add Supporting Information
 
 Expand each message to 2-3 sentences by adding supporting information.
 
-**1.** "The deadline has been extended."
+1. "The deadline has been extended."
 
-{{PH-1: U06-C-rewrite-5 | rows=2}}
+   {{PH-1: U06-C-rewrite-5 | rows=3}}
 
-**2.** "The applicant's file will be reviewed next week."
+2. "The applicant's file will be reviewed next week."
 
-{{PH-1: U06-C-rewrite-6 | rows=2}}
+   {{PH-1: U06-C-rewrite-6 | rows=3}}
 
-**3.** "There has been a change in the procedure."
+3. "There has been a change in the procedure."
 
-{{PH-1: U06-C-rewrite-7 | rows=2}}
+   {{PH-1: U06-C-rewrite-7 | rows=3}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U06-practice-c-supporting | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
 Write an Update Email
 
-Write a clear and neutral email explaining a delay or change.
-
 **Situation:** A review that was planned for this week must be delayed because additional verification is required.
 
-Write your email:
+Write one clear and neutral email explaining the delay. Use this order:
 
-- **Subject:**
-- **Greeting:**
-- **Opening sentence:**
-- **Explanation (2-3 sentences):**
-- **Neutral next step:**
-- **Sign-off:**
-:::
-
-Use this box for one complete version.
-
-**Write Here**
+1. Subject line
+2. Greeting
+3. Opening sentence
+4. Explanation of the delay (2-3 sentences)
+5. Neutral next step
+6. Sign-off
 
 {{PH-3: U06-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your own update email, check:
-
-- [ ] Did I state the change clearly?
-- [ ] Did I add the reason or background if needed?
-- [ ] Did I show the effect on the reader or schedule?
-- [ ] Did I include a neutral next-step line?
 :::
 
 ### E. Freer Practice
@@ -2051,9 +1897,7 @@ Before writing your own update email, check:
 ::: write
 Choose a Scenario and Write
 
-Write **two short update emails** (3-4 sentences each).
-
-**Scenario Options**
+Choose **two** situations from the list below.
 
 A. Write to colleagues about a system update that will take longer than planned because one required check is still incomplete.
 
@@ -2063,108 +1907,82 @@ C. Write to staff about a change in an internal rule because the old process cre
 
 D. Write to meeting participants about a rescheduled meeting because the updated document set will not be ready in time.
 
-In each email, include:
+Write **two short update emails**, each 3-4 sentences. In each email, include:
 
 - the change or delay
 - a short reason or background sentence if needed
 - the effect or next step
 
-Write your emails:
-:::
-
-Write each document in its own box.
-
-**Email 1**
+Email 1:
 
 {{PH-3: U06-freer-email-1 | rows=10}}
 
-**Email 2**
+Email 2:
 
 {{PH-3: U06-freer-email-2 | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
 Remove the Reader's Uncertainty
 
 Rewrite each update so the reader does not need to ask a second question.
 
-**1.** The meeting changed.
+1. The meeting changed.
 
-{{PH-1: U06-G-rewrite-1 | rows=2}}
+   {{PH-1: U06-F-rewrite-1 | rows=2}}
 
-**2.** We cannot finish this today.
+2. We cannot finish this today.
 
-{{PH-1: U06-G-rewrite-2 | rows=2}}
+   {{PH-1: U06-F-rewrite-2 | rows=2}}
 
-**3.** There was a problem with the documents.
+3. There was a problem with the documents.
 
-{{PH-1: U06-G-rewrite-3 | rows=2}}
+   {{PH-1: U06-F-rewrite-3 | rows=2}}
 
-**4.** The system update will affect the process.
+4. The system update will affect the process.
 
-{{PH-1: U06-G-rewrite-4 | rows=2}}
+   {{PH-1: U06-F-rewrite-4 | rows=2}}
 
 :::
 
-Write the full corrected version below.
+### G. Self-Check and Reflection
 
-**Write Your Revised Version**
+::: edit
+Self-Check
 
-{{PH-2: U06-editing-rewrite | rows=2}}
+After writing your emails in Activity E and completing the editing practice in Activity F, check your work:
 
-### H. Transfer Extension
-
-::: write
-Turn an Email Update into a Report Line
-
-Choose one update message you wrote in this unit. Rewrite it as a short internal report paragraph by changing:
-
-- the audience
-- the tone
-- the final sentence
-
-Keep the same core facts, but make the new version sound like part of a report, not an email.
-
-Write one sentence on each line where possible.
+- [ ] Did I state the change clearly?
+- [ ] Did I add the reason or background if needed?
+- [ ] Did I show the effect on the reader or schedule?
+- [ ] Did I include a neutral next-step line?
 :::
 
-**Write Here**
-
-{{PH-2: U06-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
 ::: write
-Update Summary Paragraph
+Reflection
 
-Write a paragraph (5-6 sentences) summarising a delay or change as part of a report or internal update.
-
-Your paragraph should:
-
-- Describe the change or delay
-- Provide background
-- Explain the effect
-- Lead into the next section of the report (no requests)
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U06-extended-paragraph | rows=8}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
+Answer the questions in short notes.
 
 1. What phrases do you find most useful for explaining delays or changes?
 2. Is it difficult for you to give neutral explanations without sounding too direct?
 3. Which part of this unit was easiest or hardest for you?
+
+{{PH-1: U06-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Transfer and Homework
+
+::: revise
+Turn an Email Update into a Report Paragraph
+
+Choose one update email you wrote in this unit. Rewrite it as a short internal report paragraph.
+
+Keep the same core facts, but change the audience, tone, and final sentence so the text sounds like part of a report, not an email.
+
+{{PH-2: U06-transfer-response | rows=6}}
+:::
 
 ::: write
 Homework Task
@@ -2172,13 +1990,9 @@ Homework Task
 Find an email or notice about a delay or change (English or Japanese). Rewrite it in English using the structure from this unit.
 
 If you do not want to use a real email or notice, rewrite one of the Unit 6 freer-practice scenarios instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U06-homework-document | rows=8}}
+:::
 
 ## Unit 7. Making Requests Politely
 

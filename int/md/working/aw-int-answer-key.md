@@ -363,7 +363,7 @@ C. giving an update about a review delay
 4. "The deadline has changed." — _What is the new deadline? Which process does it apply to?_
 
 
-##### C. Practice A — Make These Questions Clearer
+##### C. Language — Make These Questions Clearer
 
 1. Could you clarify which section of the document needs to be corrected?
 2. I am not sure I understand Section 3 of the form. Could you explain what information should be included?
@@ -371,7 +371,7 @@ C. giving an update about a review delay
 4. Could you let me know what the next step is and whether I should take any action before then?
 
 
-##### C. Practice B — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. Could you clarify how the current requirement differs from the version you mentioned previously?
 2. Could you explain which specific step in the instructions is unclear? I would like to follow the correct procedure.
@@ -379,7 +379,7 @@ C. giving an update about a review delay
 4. Could you describe the issue you are experiencing with the system so we can investigate further?
 
 
-##### C. Practice C — Clarification from Context
+##### C. Language — Clarification from Context
 
 **Scenario 1:** "Submit the form as soon as possible."
 1. Could you clarify what the specific deadline is for submitting the form?
@@ -394,7 +394,7 @@ C. giving an update about a review delay
 2. Could you confirm the expected format and the submission deadline?
 
 
-##### D. Extended Guided Practice — Rewrite and Improve
+##### C. Language — Rewrite and Improve
 
 1. Could you clarify which part of this process is unclear? I want to follow the correct procedure.
 2. We have received two files that appear to be different versions. Could you confirm which one is correct for the current review?
@@ -402,12 +402,43 @@ C. giving an update about a review delay
 4. Could you clarify what error was found in this part? I would like to correct it as soon as possible.
 
 
-##### G. Editing Practice — Fix the Clarification Problem
+##### D. Guided Practice — Write a Clarification Email
+
+Open-ended. A strong email should use the situation about unclear form-submission information and include:
+
+- a clear subject line
+- a professional greeting
+- an opening sentence that states the purpose
+- one specific clarification question about where to submit the form
+- a polite closing sentence
+- a sign-off
+
+
+##### E. Freer Practice — Write Two Clarification Emails
+
+Open-ended. Each email should focus on one unclear point only and ask a polite, specific question. Students should not combine several unrelated questions in one message.
+
+
+##### F. Editing Practice — Fix the Clarification Problem
 
 1. Could you clarify which step in the instruction requires attention? I want to follow the correct process.
 2. We received two files with the same name. Could you confirm which version should be used for this review?
 3. The deadline in the notice differs from the one on the form. Could you confirm which date is correct?
 4. Could you let me know what format and content are expected in the report requested by the supervisor?
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to name one useful clarification phrase, explain one difficulty in asking polite questions, and write one usable clarification question.
+
+
+##### H. Transfer and Homework
+
+**Clarification Summary Paragraph:** Open-ended. A strong paragraph should explain the background, identify one unclear or missing point, explain why clarification is needed, show the effect on the work, and close with a neutral next-step line.
+
+**Homework Task:** Open-ended. A strong response should identify one unclear point in a real or practice message and write a polite, specific clarification question about that point.
 
 
 #### Unit 6. Communicating Delays or Changes
@@ -420,7 +451,7 @@ C. giving an update about a review delay
 4. "The system will be updated." — _When? Who is affected? For how long?_
 
 
-##### C. Practice A — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. The meeting has been delayed until Thursday because the updated file set is not yet complete.
 2. The submission procedure has been updated. From next week, all forms should be sent directly to the central review office.
@@ -428,7 +459,7 @@ C. giving an update about a review delay
 4. The system is running slowly due to a temporary server issue. Access will return to normal once the maintenance is complete.
 
 
-##### C. Practice B — Reorder to Make a Clear Update
+##### C. Language — Reorder to Make a Clear Update
 
 **Best order: B → C → A**
 
@@ -437,7 +468,7 @@ C. giving an update about a review delay
 3. A: This may affect the planned timeline. _(broader impact)_
 
 
-##### C. Practice C — Add Supporting Information
+##### C. Language — Add Supporting Information
 
 1. The deadline for this review has been extended to 30 June. This change was made because additional documentation was required. The review will continue once all materials have been received.
 2. The applicant's file will be reviewed next week instead of the original schedule. The required verification documents were only received today. An update will be provided once the review is complete.
@@ -460,12 +491,31 @@ C. giving an update about a review delay
 > [Name]
 
 
-##### G. Editing Practice — Remove the Reader's Uncertainty
+##### E. Freer Practice — Choose a Scenario and Write
+
+Open-ended. Each email should include the change or delay, a short reason or background sentence if needed, and the effect or next step. The tone should remain neutral and professional.
+
+
+##### F. Editing Practice — Remove the Reader's Uncertainty
 
 1. The meeting has been rescheduled from Tuesday to Thursday at 2 p.m. This change was made because the updated document set will not be ready in time.
 2. We are unable to complete the file check today because the shared folder is temporarily inaccessible. We expect access to be restored tomorrow morning.
 3. A problem was found with two submitted documents. The relevant sections were incomplete, which means the review cannot continue at this stage.
 4. The system update will require approximately three hours. During this period, some review functions may be temporarily unavailable.
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to identify useful delay/change phrases, comment on neutral explanation style, and name one easy or difficult part of the unit.
+
+
+##### H. Transfer and Homework
+
+**Turn an Email Update into a Report Paragraph:** Open-ended. Students should keep the same core facts but remove email features such as greeting and sign-off. The paragraph should sound like an internal report or update.
+
+**Homework Task:** Open-ended. A strong response rewrites a real or practice delay/change message using the unit structure and neutral professional language.
 
 
 #### Unit 7. Making Requests Politely
