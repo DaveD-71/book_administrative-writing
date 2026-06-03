@@ -2,7 +2,7 @@
 
 **For instructor use only. Not for distribution to students.**
 
-Model answers are provided for all exercises with specific expected responses. Guidance notes are given for open-ended exercises (Freer Practice, Transfer Extension, Reflection, Homework). Where model answers are already printed in the student book (e.g., after a revision lab), they are referenced rather than repeated.
+Model answers are provided for all exercises with specific expected responses. Guidance notes are given for open-ended exercises (Freer Practice, Homework & Extension, and Reflection). Where model answers are already printed in the student book (e.g., after a revision lab), they are referenced rather than repeated.
 
 
 ### MODULE 1. Foundations of Clear Administrative Writing
@@ -116,7 +116,7 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 4. Could you please send the update today at your earliest convenience?
 
 
-##### H. Transfer Extension — Same Message, Better Relationship
+##### H. Homework & Extension — Same Message, Better Relationship
 
 Open-ended. Students should write:
 
@@ -208,7 +208,7 @@ Open-ended. Strong responses should:
 Open-ended. Reflection responses should show that students understand topic, support, closing, and paragraph breaks.
 
 
-##### H. Transfer Extension — Use the Paragraph Structure
+##### H. Homework & Extension — Use the Paragraph Structure
 
 Open-ended. Students should turn information from Unit 1 or Unit 2 into one internal paragraph of 4-5 sentences. The paragraph should not read like an email. It should include one topic sentence, two or three supporting sentences, and one closing sentence.
 
@@ -331,7 +331,7 @@ Self-check: pass/fail only. No model answer required.
 Reflection responses are open-ended. Students should be able to name one email part that feels easy, one that feels difficult, and one phrase from Activity C they want to use in real emails. Accept any honest, specific response.
 
 
-##### H. Transfer and Homework
+##### H. Homework & Extension
 
 **Build Two Purpose Lines — model responses:**
 
@@ -434,7 +434,7 @@ Self-check: pass/fail only. No model answer required.
 Reflection responses are open-ended. Students should be able to name one useful clarification phrase, explain one difficulty in asking polite questions, and write one usable clarification question.
 
 
-##### H. Transfer and Homework
+##### H. Homework & Extension
 
 **Clarification Summary Paragraph:** Open-ended. A strong paragraph should explain the background, identify one unclear or missing point, explain why clarification is needed, show the effect on the work, and close with a neutral next-step line.
 
@@ -511,7 +511,7 @@ Self-check: pass/fail only. No model answer required.
 Reflection responses are open-ended. Students should be able to identify useful delay/change phrases, comment on neutral explanation style, and name one easy or difficult part of the unit.
 
 
-##### H. Transfer and Homework
+##### H. Homework & Extension
 
 **Turn an Email Update into a Report Paragraph:** Open-ended. Students should keep the same core facts but remove email features such as greeting and sign-off. The paragraph should sound like an internal report or update.
 
@@ -527,7 +527,7 @@ Reflection responses are open-ended. Students should be able to identify useful 
 All b options use polite modal forms. They reduce the pressure of the a options while keeping the request clear.
 
 
-##### C. Practice A — Rewrite the Request
+##### C. Language — Choose a Polite Request Form
 
 1. Could you please send the updated file by end of day? We need it for the next review stage.
 2. Could you let me know the deadline for this application? This will help us plan the next steps.
@@ -535,7 +535,7 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. I would appreciate it if you could provide the applicant's current contact details. This information is needed for the next stage of the review.
 
 
-##### C. Practice B — Make the Request More Specific
+##### C. Language — Make the Request Specific
 
 1. Could you please send the completed version of Form B — the one dated 15 May?
 2. Could you check whether all required signatures are present on page 3 of the application?
@@ -543,7 +543,7 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. Could you update me on whether the missing documents have been uploaded to the shared folder?
 
 
-##### C. Practice C — Soften the Request
+##### C. Language — Reduce Pressure
 
 1. Could you please send this by end of day when you have an opportunity?
 2. Could you let me know the result when it is available?
@@ -567,7 +567,12 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 > [Name]
 
 
-##### G. Editing Practice — Keep the Request, Improve the Tone
+##### E. Freer Practice — Write Two Request Emails
+
+Open-ended. A strong response should choose two situations and write two separate request emails. Each email should include a clear opening, one polite request, a short reason or context sentence, and a softened closing. Accept different request structures if the tone is professional and the action is clear.
+
+
+##### F. Editing Practice — Keep the Request, Improve the Tone
 
 1. Could you please send the corrected file today when you have an opportunity?
 2. Could you let me know the meeting time when it has been confirmed?
@@ -575,11 +580,36 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. Could you please provide the missing information? This will help us continue the review.
 
 
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should identify a useful polite request phrase, name a softening phrase they can use, and explain when a request should be more formal.
+
+
+##### H. Homework & Extension
+
+Open-ended. The extension response should write two versions of the same request: one safe standard version using 'Could you...?', and one softer version using 'Would you be able to...?' or 'I would appreciate it if...'. The final comparison should state which version fits a colleague and which version fits an outside office.
+
+The homework response should rewrite one real or practice request using two different polite request structures from the unit.
+
+
 #### Module 2 Review Workshop
 
-**Email Comparison Review / Review Response:** Version B is stronger. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and reader action.
+**Email Comparison Review / Review Response:** Version B is easier for the reader to act on. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and action.
 
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+**Revision Lab:** A possible stronger version:
+
+> Subject: Request to Resend the Student Information Form
+>
+> Dear Ms. Lee,
+>
+> Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
+>
+> Best regards,
+> [Your Name]
+
+Key improvements:
 
 - Replaced the vague subject line with a specific subject.
 - Named the exact problem: page 2 is missing.
@@ -1156,7 +1186,7 @@ _All exercises use the student's own previous writing as source material. No fix
 
 ### APPENDIX. Grading Notes for Open-Ended Exercises
 
-#### For all Freer Practice, Transfer Extension, Reflection, and Homework exercises:
+#### For all Freer Practice, Homework & Extension, and Reflection exercises:
 
 **Assess holistically.** Does the writing show the target skill from the unit?
 

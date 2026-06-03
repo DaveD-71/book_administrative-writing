@@ -1342,3 +1342,12 @@ Rules:
 - Decision: old `Extended Guided Practice` material should be folded into `C. Language` when it is controlled sentence-level rewrite work, leaving one visible `D. Guided Practice`.
 - Decision: H sections should not keep two near-identical transfer paragraph tasks. Keep the one that best extends the unit skill and remove or merge the redundant one.
 - Preferred behavior: for future batch repairs, run both unit-level and whole-manuscript audits after the batch: visible sequence, div balance, nested divs, placeholders outside divs, generic response labels, stale placeholder IDs, and answer-key headings.
+
+## 2026-06-03 - INT Section H Visible Heading Standard
+
+- Status: `active`
+- Scope: project/conventions
+- Context: Dave compared the current working manuscript against `int/md/final/modules` and the intermediate planning files, and confirmed that `transfer` had drifted from a support function into a visible section title.
+- Decision: the visible ordinary-unit Section H heading for the intermediate book is `### H. Homework & Extension`, matching the final module baseline. `Transfer` remains a pedagogical function: applying, extending, or carrying the unit skill to a new/later context. Do not use `Transfer Extension`, `Transfer and Homework`, or `Transfer / Homework` as the visible Section H heading unless a documented capstone exception requires it.
+- Decision: when Phase 3 folds duplicate old H sections into one visible H area, preserve both functions where they add real learner work: an extension/carry-forward task and a clearly labeled `Homework Task`.
+- Preferred behavior: when repairing later units, replace visible `### H. Transfer Extension` plus `### H. Homework` pairs with one `### H. Homework & Extension` section, keep placeholders inside the relevant task divs, and update `int/md/working/aw-int-answer-key.md` in the same cycle.

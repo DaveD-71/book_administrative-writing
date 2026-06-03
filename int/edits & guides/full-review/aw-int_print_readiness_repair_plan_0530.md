@@ -256,7 +256,9 @@ Each ordinary unit has this visible sequence unless a documented capstone except
 6. `### E. Freer Practice`
 7. `### F. Editing Practice`
 8. `### G. Self-Check / Reflection / Review` as appropriate
-9. `### H. Transfer Extension / Homework` as appropriate
+9. `### H. Homework & Extension`
+
+Important: `transfer` is a pedagogical function, not the preferred visible Section H label. The intermediate final module baseline uses `Homework & Extension`; keep that visible heading unless a specific capstone exception is documented.
 
 Important: do not use duplicate visible `### A.` to `### H.` headings in the same unit. Repair duplicate letter headings by pedagogical function, not by original order. The normal visible `A` activity is `A. Warm-Up`; concept primers, definition blocks, and support explanations should be reclassified or rehomed under the activity where they teach the target skill. Do not preserve the first `A` mechanically if it is not the best visible warm-up for the repaired unit.
 
@@ -452,7 +454,7 @@ Standard target:
 - `E. Freer Practice`
 - `F. Editing Practice`
 - `G. Self-Check and Reflection` or a comparable combined review section
-- `H. Transfer / Homework`
+- `H. Homework & Extension`
 
 Allowed exceptions:
 
@@ -494,7 +496,7 @@ For module review workshops, apply the same Phase 3 standards even though they a
 
 1. Use title-case visible headings.
 2. Remove repeated title rows, generic `Write Here` labels, and response labels that do not add information.
-3. Keep response placeholders inside the relevant review, transfer, revision, or self-check div.
+3. Keep response placeholders inside the relevant review, extension, homework, revision, or self-check div.
 4. Combine redundant strategy maps, boards, and notes when they repeat the same review purpose.
 5. Ensure the review task explicitly integrates the preceding units and that the answer key covers open-ended evaluation criteria.
 
@@ -586,7 +588,7 @@ Use this checklist for each unit and record pass/fail notes.
 - [ ] Freer Practice asks students to produce a meaningful workplace text.
 - [ ] Editing Practice requires revision or correction, not just rereading.
 - [ ] Self-check / Reflection appears after production and editing, unless a pre-draft checklist clearly supports a specific larger draft.
-- [ ] Transfer / Homework extends the unit skill to a new or later context.
+- [ ] Homework & Extension extends the unit skill to a new or later context.
 
 ### 6.3 Instruction quality
 
@@ -748,7 +750,7 @@ For the Unit 1 pilot:
 3. remove redundant `Write Here` / `Use this box` labels unless they distinguish a complete-document box from item-level boxes
 4. keep placeholders inside the correct divs
 5. move `E. Freer Practice` before self-check, or rename and reposition the self-check so the visible sequence is teachable
-6. decide whether `F. Reflection` and `H. Homework` should remain separate visible activities or be folded into a single final `H` area
+6. keep extension and homework work together under the single visible `H. Homework & Extension` heading unless a documented capstone exception applies
 7. run the local audits before proceeding to Unit 2
 
 Once Unit 1 is accepted, compare it against the representative-reading notes from later modules before applying it to Units 2-4. Then proceed through all remaining units and all module review workshops using the whole-book audit inventories, not the opening units alone.

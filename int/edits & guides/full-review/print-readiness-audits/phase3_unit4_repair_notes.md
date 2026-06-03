@@ -24,6 +24,13 @@ Unit 4 was reviewed after an external Claude Code edit pass. The visible shell a
 - Flattened the nested `example-bad` div in `F. Editing Practice` so the original email is a sibling example block, followed by a separate edit response div.
 - Updated the Unit 4 answer key so Email B guidance and the D model email match the revised source and the Ms. Kim scenario.
 
+## Follow-Up Cleanup - 2026-06-03
+
+- Unit 4 was briefly flattened to reduce list density, but that approach was reversed after review.
+- Restored vocabulary, phrase, example, and structural-support lists because these lists help intermediate learners scan and reuse language.
+- Follow-up decision: address excessive list density through layout, spacing, and local redundancy checks rather than flattening useful vocabulary or phrase lists into prose.
+- Answer key update was not required for this cleanup because activity prompts, item numbering, expected outputs, and model answers did not change.
+
 ## Verification
 
 - Visible heading sequence: `ABCDEFGH`.

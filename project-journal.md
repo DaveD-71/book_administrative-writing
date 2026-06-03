@@ -2160,3 +2160,10 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Action: reviewed Units 5 and 6 against the repair plan and project-memory superseding decisions, then repaired both units as a paired batch. Normalized both visible shells to `ABCDEFGH`, folded old controlled extended-practice items into C, rebuilt D/E/F/G/H activity boundaries, moved all placeholders inside their divs, removed generic response labels and redundant full-version boxes, removed one redundant Unit 6 report-paragraph transfer task, updated the answer key, and added `phase3_unit5_repair_notes.md` / `phase3_unit6_repair_notes.md`.
 - Verification: Unit 5 sequence `ABCDEFGH`, divs 21/21, 26 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Unit 6 sequence `ABCDEFGH`, divs 20/20, 19 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Whole-manuscript div balance is 547 opens / 547 closes; whole-manuscript placeholder IDs total 407 with 0 duplicates.
 - Next: visually review regenerated DOCX/PDF pages for Units 5-6 if desired, then continue Phase 3 batch processing with Unit 7 or the next shared-pattern pair.
+
+## 2026-06-03T15:57:51+09:00 - INT Section H Heading Standard Restored For Units 1-7
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`, and project memory.
+- Trigger: Dave checked `int/md/final/modules` and noted that the final module baseline uses `H. Homework & Extension`, while the repaired working manuscript had drifted into `Transfer Extension` / `Transfer and Homework`.
+- Action: updated Units 1-7 to use `### H. Homework & Extension`; restored a clear Unit 7 `Homework Task` with its own placeholder; updated the Unit 1-7 answer-key H headings and Unit 7 homework guidance; updated the repair plan so `transfer` is treated as a pedagogical function rather than the visible H label.
+- Verification pending: run full source audits after the current Phase 3 edit batch is complete.

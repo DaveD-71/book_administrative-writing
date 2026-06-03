@@ -128,3 +128,6 @@ timestamp_iso,workspace_root,scope,file_path,reason
 "2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\project-learning.md","session startup / Phase 3 context refresh"
 "2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\project-journal.md","session startup / Phase 3 context refresh"
 "2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\int\edits & guides\full-review\aw-int_print_readiness_repair_plan_0530.md","session startup / Phase 3 context refresh"
+"2026-06-03T15:11:38.0009608+09:00","C:\Dev\Code\book_administrative-writing","repo","C:\Dev\Code\book_administrative-writing\AGENTS.md","startup read"
+"2026-06-03T15:11:38.0009608+09:00","C:\Dev\Code\book_administrative-writing","repo","C:\Dev\Code\book_administrative-writing\project-learning.md","startup read"
+"2026-06-03T15:11:38.0009608+09:00","C:\Dev\Code\book_administrative-writing","repo","C:\Dev\Code\book_administrative-writing\project-journal.md","startup read"

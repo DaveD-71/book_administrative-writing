@@ -1,4 +1,4 @@
-﻿---
+---
 style_bridge:
   remove_horizontal_rules: true
   preserve_div_line_breaks: true
@@ -303,7 +303,7 @@ Answer the questions in short notes.
 {{PH-1: U01-reflection | rows=4}}
 :::
 
-### H. Transfer Extension
+### H. Homework & Extension
 
 ::: write
 Turn Sentences into a Mini Message
@@ -385,13 +385,13 @@ Read the weak and stronger versions. Notice how the stronger version asks for he
 ::: example-bad
 Weak
 
-*I don't understand this. Explain it.*
+I don't understand this. Explain it.
 :::
 
 ::: example-good
 Stronger
 
-*I'm not sure I understand this part. Could you explain it?*
+I'm not sure I understand this part. Could you explain it?
 :::
 
 ::: learn
@@ -446,9 +446,9 @@ Rewrite each direct sentence as a polite request. Use one phrase from the list a
 ::: learn
 Check the Tone
 
-Use these questions to check whether a workplace message sounds professional.
+Use these questions about different points in tone to check whether a workplace message sounds professional.
 
-| Tone | Intent | Check |
+| Point | Goal | Check |
 |---|---|---|
 | Clear | The message is not too long or complicated. | Does it tell the reader what they need to know? |
 | Neutral | The message is not emotional or blaming. | Does it avoid emotional or blaming language? |
@@ -510,28 +510,26 @@ Use these phrases when you need to give information, ask a question, or refer to
 
 ### D. Guided Practice
 
-::: rewrite
-Rewrite the Email
-
-Read the email. Why is it weak?
+Read the email below. Why is it weak?
 
 ::: example-bad
 Original Email
 
-> Hi,
->
-> You didn't send the right file.
->
-> Send the correct one today. I need it now.
+Hi,
+You didn't send the right file.
+Send the correct one today. I need it now.
 :::
 
- Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: Ask for the correct file today. Include:
+::: rewrite
+Improve the Email
+
+Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: Ask for the correct file today. Include:
 
 - a short greeting
 - a clear problem statement
 - a polite request
 
-Write with a calm professional tone.
+Write with a calm, professional tone.
 
 {{PH-3: U02-guided-document | rows=6}}
 :::
@@ -610,7 +608,7 @@ Answer the questions in short notes.
 {{PH-1: U02-reflection | rows=4}}
 :::
 
-### H. Transfer Extension
+### H. Homework & Extension
 
 ::: write
 Same Message, Better Relationship
@@ -698,25 +696,18 @@ Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph s
 ::: language
 Three-Part Paragraph Structure
 
-A clear administrative paragraph usually has three jobs. The **topic sentence (T)** states the main idea and tells the reader what the paragraph is about. The **supporting details (S)** give the facts, reasons, or examples the reader needs. The **closing sentence (C)** gives the result, next point, or link forward.
-:::
-
 ::: example-good
-Paragraph Structure Example
 
-We reviewed the applicant's file yesterday. (T) During the review, we found that two pages were missing. (S) One form was also incomplete. (S) These issues will be recorded before the next review stage begins. (C)
+We reviewed the applicant's file yesterday (T). During the review, we found that two pages were missing (S). One form was also incomplete (S). These issues will be recorded before the next review stage begins (C).
 :::
 
-::: learn
-How the Example Is Built
-
-In this paragraph, the first sentence is the **topic sentence**. The second and third sentences are **supporting details**. The final sentence is the **closing sentence** because it shows how the information will be used next.
+A clear administrative paragraph usually has three jobs. The **topic sentence (T)** states the main idea and tells the reader what the paragraph is about. The **supporting details (S)** give the facts, reasons, or examples the reader needs. The **closing sentence (C)** gives the result, next point, or link forward.
 :::
 
 ::: notice
 Identify the Parts
 
-Read each paragraph. Write **T** for topic sentence, **S** for supporting detail, or **C** for closing sentence in the space after each sentence.
+Read each of the paragraph sentences. Write **T** for topic sentence, **S** for supporting detail, or **C** for closing sentence in the space after each sentence.
 
 **Paragraph 1**
 
@@ -741,14 +732,14 @@ A paragraph should follow one clear path. Before you write, decide the main poin
 - summarise a review, first say (1) what was reviewed, then say (2) what was found, and then (3) explain what the finding means for the record or next step.
 :::
 
-::: write
-Build a Short Review Summary
-
 ::: example
 Review Summary Example
 
 We reviewed the payment records this morning. During the review, we found that one receipt was missing from the file. This missing receipt should be noted before the monthly summary is completed.
 :::
+
+::: write
+Build a Short Review Summary
 
 Put the sentences below in a logical order for a short **review summary**. The paragraph should first say what was checked, then say what was found, and then explain what the finding means.
 
@@ -766,7 +757,7 @@ Write the best order with the sentence letters only.
 
 Then write **one supporting sentence** for the same review summary: Explain why the missing forms matter for the review.
 
-{{PH-1: U03-C-support | rows=2}}
+{{PH-1: U03-C-support | rows=4}}
 :::
 
 ### D. Guided Practice
@@ -838,7 +829,7 @@ Check your paragraph from Activity E or Activity F.
 - [ ] Do the middle sentences stay on the same idea?
 - [ ] Does the final sentence close the paragraph or lead forward?
 - [ ] Did I avoid mixing unrelated topics?
-- [ ] Can I mark the paragraph as `T`, `S`, and `C`?
+- [ ] Can I mark the paragraph as T, S, and C?
 :::
 
 ::: write
@@ -853,7 +844,7 @@ Answer these questions:
 {{PH-2: U03-reflection | rows=5}}
 :::
 
-### H. Transfer Extension
+### H. Homework & Extension
 
 ::: write
 Use the Paragraph Structure
@@ -936,10 +927,14 @@ Read the weak draft. Then improve it in three steps: split the long sentence int
 ::: example-good
 Possible Stronger Version
 
-We checked your application yesterday. At present, we need one more piece of information before the review can continue. Could you please send the missing information by Thursday? Thank you for your cooperation.
+We checked your application yesterday. At present, we need one more piece of information before the review can continue.
+
+Could you please send the missing information by Thursday?
+
+Thank you for your cooperation.
+:::
 
 This version is stronger because each sentence has one clear job, the request sounds cooperative rather than pressuring, and the paragraph ends with a visible next step.
-:::
 
 ### Self-Edit Routine
 
@@ -951,7 +946,7 @@ Choose one piece of your own writing from Units 1-3. Use the checklist, then rev
 - [ ] Circle the main action verb in each sentence.
 - [ ] Underline any sentence that feels too long.
 - [ ] Check whether the tone sounds neutral and professional.
-- [ ] Mark the paragraph as `T`, `S`, and `C` to test whether the structure is complete.
+- [ ] Mark the paragraph as T, S, and C to test whether the structure is complete.
 - [ ] Rewrite one sentence and one paragraph so the reader can understand the message faster.
 
 **Revised sentence**
@@ -1025,7 +1020,7 @@ By the end of this module, you should be able to:
 Use the module support actively:
 
 - compare the example versions before you draft
-- use the `Why this works`notes to understand reader effect
+- use the "Why this works" notes to understand reader effect
 - check the self-edit prompts before freer writing
 - use the editing tasks to repair weak requests and unclear email structure
 - finish the transfer extension so the skill works in a new email situation
@@ -1339,7 +1334,7 @@ Reflection
 {{PH-1: U04-G-reflection | rows=4}}
 :::
 
-### H. Transfer and Homework
+### H. Homework & Extension
 
 ::: write
 Build Two Purpose Lines
@@ -1376,6 +1371,8 @@ If you do not want to use a real email, rewrite one of the Unit 4 freer-practice
 
 ### Focus
 
+Clarification means asking someone to make unclear information clearer.
+
 By the end of this unit, I will be able to:
 
 - write polite clarification questions about unclear or missing information.
@@ -1390,10 +1387,10 @@ What Is Unclear?
 
 Read the sentences below. Identify what is **unclear** or **missing**.
 
-1. "The document is not correct."
-2. "Please check it again."
-3. "We need information about the form."
-4. "The deadline has changed."
+1. The document is not correct.
+2. Please check it again.
+3. We need information about the form.
+4. The deadline has changed.
 
 Write what you would need to know for each sentence.
 
@@ -1403,7 +1400,7 @@ Write what you would need to know for each sentence.
 ::: learn
 A Strong Clarification Question
 
-A strong clarification question does three things:
+A strong clarification question asks for clearer information. It does three things:
 
 - names the exact part that is unclear
 - asks for one specific piece of information
@@ -1421,13 +1418,13 @@ Compare the weak and stronger questions.
 ::: example-bad
 Weak
 
-*What do you mean?*
+What do you mean?
 :::
 
 ::: example-good
 Stronger
 
-*Could you clarify which version of the form we should use for applications submitted this month?*
+Could you clarify which version of the form we should use for applications submitted this month?
 :::
 
 ::: learn
@@ -1487,7 +1484,7 @@ Each stronger question should show what part is unclear and what information you
 ::: learn
 Common Situations
 
-Clarification questions are useful when the reader needs one exact answer before work can continue.
+Clarification questions are useful when the reader needs one exact answer before work can continue. In this unit, a clarification question means a polite question that makes unclear information clearer.
 
 - The instructions are unclear.
 - A document is missing or incomplete.
@@ -1511,19 +1508,19 @@ Improve the Clarity
 
 Rewrite each sentence as a better clarification question.
 
-1. "This is different from what you said before."
+1. This is different from what you said before.
 
    {{PH-1: U05-C-rewrite-5 | rows=2}}
 
-2. "The instructions are confusing."
+2. The instructions are confusing.
 
    {{PH-1: U05-C-rewrite-6 | rows=2}}
 
-3. "I don't know what to write in this part."
+3. I don't know what to write in this part.
 
    {{PH-1: U05-C-rewrite-7 | rows=2}}
 
-4. "The system doesn't work."
+4. The system doesn't work.
 
    {{PH-1: U05-C-rewrite-8 | rows=2}}
 
@@ -1552,19 +1549,19 @@ Rewrite and Improve
 
 Rewrite each unclear message into a **clear, polite clarification request**.
 
-1. "I don't get this. Explain it."
+1. I don't get this. Explain it.
 
    {{PH-1: U05-C-rewrite-9 | rows=2}}
 
-2. "Which one is correct? These files look different."
+2. Which one is correct? These files look different.
 
    {{PH-1: U05-C-rewrite-10 | rows=2}}
 
-3. "What am I supposed to do with this form?"
+3. What am I supposed to do with this form?
 
    {{PH-1: U05-C-rewrite-11 | rows=2}}
 
-4. "This part is wrong."
+4. This part is wrong.
 
    {{PH-1: U05-C-rewrite-12 | rows=2}}
 
@@ -1665,7 +1662,7 @@ Answer the questions in short notes.
 {{PH-1: U05-reflection | rows=4}}
 :::
 
-### H. Transfer and Homework
+### H. Homework & Extension
 
 ::: revise
 Clarification Summary Paragraph
@@ -1711,10 +1708,10 @@ What Information Is Missing?
 
 Read each message and identify what information a reader would still need.
 
-1. "The review will be delayed."
-2. "The schedule has changed."
-3. "We cannot finish this today."
-4. "The system will be updated."
+1. The review will be delayed.
+2. The schedule has changed.
+3. We cannot finish this today.
+4. The system will be updated.
 
 Write what the reader still needs to know for each message.
 
@@ -1734,22 +1731,18 @@ A useful update answers these questions:
 
 ### B. Example Check
 
-::: learn
-Why a Good Update Helps the Reader
-
 Compare the weak and stronger updates.
-:::
 
 ::: example-bad
 Weak
 
-*The review will be delayed.*
+The review will be delayed.
 :::
 
 ::: example-good
 Stronger
 
-*The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.*
+The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.
 :::
 
 ::: learn
@@ -1793,21 +1786,21 @@ Improve the Clarity
 
 Rewrite each message so it includes **clearer information**.
 
-Replace vague updates with information about what changed, which part of the work is affected, and what the reader should understand now.
+Use the phrase bank above to replace vague updates with information about what changed, which part of the work is affected, and what the reader should understand now.
 
-1. "The meeting is delayed."
+1. The meeting is delayed.
 
    {{PH-1: U06-C-rewrite-1 | rows=2}}
 
-2. "We changed the procedure."
+2. We changed the procedure.
 
    {{PH-1: U06-C-rewrite-2 | rows=2}}
 
-3. "The file will be late."
+3. The file will be late.
 
    {{PH-1: U06-C-rewrite-3 | rows=2}}
 
-4. "The system is slow."
+4. The system is slow.
 
    {{PH-1: U06-C-rewrite-4 | rows=2}}
 
@@ -1859,15 +1852,15 @@ Add Supporting Information
 
 Expand each message to 2-3 sentences by adding supporting information.
 
-1. "The deadline has been extended."
+1. The deadline has been extended.
 
    {{PH-1: U06-C-rewrite-5 | rows=3}}
 
-2. "The applicant's file will be reviewed next week."
+2. The applicant's file will be reviewed next week.
 
    {{PH-1: U06-C-rewrite-6 | rows=3}}
 
-3. "There has been a change in the procedure."
+3. There has been a change in the procedure.
 
    {{PH-1: U06-C-rewrite-7 | rows=3}}
 
@@ -1972,7 +1965,7 @@ Answer the questions in short notes.
 {{PH-1: U06-reflection | rows=4}}
 :::
 
-### H. Transfer and Homework
+### H. Homework & Extension
 
 ::: revise
 Turn an Email Update into a Report Paragraph
@@ -2021,253 +2014,147 @@ Read each pair. Choose the request that sounds more professional.
 **Discussion:** Which sentences are more polite, and what makes them that way?
 :::
 
-::: learn
-Quick Rule for Polite Requests
-
-- choose a polite request form
-- say exactly what you need
-- add one short reason if it helps the reader
-- close without pressure
-:::
+A good request is polite, specific, and easy to answer. It tells the reader what action or information is needed, and it gives a short reason when the reason helps the reader understand the request.
 
 ### B. Example Check
-
-::: learn
-Why the Polite Version Works
-
-Compare:
-:::
 
 ::: example-bad
 Weak
 
-*Send the updated file.*
+Send the updated file.
 :::
 
 ::: example-good
 Stronger
 
-*Could you please send the updated file? We need it for the next review stage.*
+Could you please send the updated file? We need it for the next review stage.
 :::
 
 ::: learn
-Why This Works
+Why the Polite Version Works
 
-The stronger version works because it:
-
-- sounds cooperative rather than forceful
-- tells the reader exactly what is needed
-- gives a reason that makes the request easier to understand
+The stronger version sounds cooperative rather than forceful. It also names the exact action and gives a short reason, so the reader can understand why the file is needed.
 :::
 
 ### C. Language
 
-Different request forms sound **more or less polite**. In administrative writing, the level of politeness depends on:
-
-- your relationship with the reader
-- the importance or urgency of the request
-- the formality of the situation
+Different request forms sound **more or less polite**. In administrative writing, the best choice depends on your relationship with the reader, the urgency of the request, and the formality of the situation.
 
 ::: language
 Politeness Scale (From Direct to Most Polite)
 
-| Form | Example | Tone/Use |
+The table shows common request forms from direct to more formal.
 
-|------|---------|-----------|
-
-| **Can you...?** | Can you send the file? | Casual, spoken English; too direct for administrative emails. |
-
-| **Could you...?** | Could you send the file? | Standard polite request; appropriate for most situations. |
-
-| **Could you please...?** | Could you please send the file? | Polite and slightly more formal. |
-
-| **Would you be able to...?** | Would you be able to send the file? | Polite, softer, useful when asking for something more difficult. |
-
-| **Would it be possible to...?** | Would it be possible to send the file? | Formal, respectful, avoids pressure. |
-
-| **I would appreciate it if you could...** | I would appreciate it if you could send the file. | Very polite, used when the request requires effort or cooperation. |
+| Example request | Tone/Use |
+|-----------------|----------|
+| [Can you]{.underline} send the file? | Casual, spoken English; too direct for administrative emails. |
+| [Could you]{.underline} send the file? | Standard polite request; appropriate for most situations. |
+| [Could you please]{.underline} send the file? | Polite and slightly more formal. |
+| [Would you be able to]{.underline} send the file? | Polite, softer, useful when asking for something more difficult. |
+| [Would it be possible to]{.underline} send the file? | Formal, respectful, avoids pressure. |
+| [I would appreciate it if you could]{.underline} send the file. | Very polite, used when the request requires effort or cooperation. |
 :::
 
 ::: learn
-Key Notes
+Choosing a Form
 
-- **`Can you...?` is grammatically correct but **not appropriate** in most administrative emails.
-- **`Could you...?` is the safest default.
-- **`Would you be able to...?` softens the request and reduces pressure.
-- **`I would appreciate it if...` shows gratitude in advance and sounds formal.
+'Could you...?' is the safest default for most workplace emails. Use softer forms, such as 'Would you be able to...?' or 'I would appreciate it if...', when the request needs more effort or when the reader is outside your team.
 :::
 
 ::: language
-Adding Context (Why You Need the Information)
+Useful Context Sentences
 
-Often a request is clearer when you add **one short context sentence**.
-
-- We need this for the next review stage.
-- This information is required for the submission.
-- This will help us complete the process.
+One short context sentence can make a request easier to understand. Useful sentences include 'We need this for the next review stage.', 'This information is required for the submission.', and 'This will help us complete the process.'
 :::
 
 ::: rewrite
-Rewrite the Request
+Choose a Polite Request Form
 
-Rewrite each message to make it **polite, clear, and complete**.
+Rewrite each direct message as one polite request sentence. Use a suitable form from the politeness scale.
 
-Make each request stronger by adding:
-
-- the exact item or action
-- any useful timing detail
-- the reason or purpose when needed
-
-Mini request frame:
-
-- action needed
-- exact document or information
-- timing
-- short reason
-**1.** "Send the updated file."
+1. Send the updated file.
 
 {{PH-1: U07-C-rewrite-1 | rows=2}}
 
-**2.** "Tell me the deadline."
+2. Tell me the deadline.
 
 {{PH-1: U07-C-rewrite-2 | rows=2}}
 
-**3.** "Check this."
+3. Check this.
 
 {{PH-1: U07-C-rewrite-3 | rows=2}}
 
-**4.** "Give me the information."
+4. Give me the information.
 
 {{PH-1: U07-C-rewrite-4 | rows=2}}
-
-:::
-
-**Write Here**
-
-{{PH-1: U07-practice-a-request | rows=6}}
-
-::: language
-Requests with Specific Details
-
-A good request includes:
-
-1. What you need
-2. Any necessary details
-3. A polite expression
-
-**Examples**
-
-- Could you please send **the updated version of Form A**?
-- Could you let me know **which office will handle the review**?
-- I would appreciate it if you could confirm **the applicant's submission date**.
 :::
 
 ::: rewrite
-Make the Request More Specific
+Make the Request Specific
 
-Each message below is polite but **not specific**. Improve it.
+Each request below is polite, but it is not specific enough. Rewrite each one so the reader knows exactly what document, information, or action is needed.
 
-Specific requests are easier to answer because they name:
+**Mini contrast**
 
-- which document or information is needed
-- which part should be checked
-- what kind of update is expected
+Weak: "Could you update me?"
 
-**Mini contrast — Weak:** "Could you update me?"
+Stronger: "Could you update me on whether the signed form has been uploaded to the shared folder?"
 
-**Stronger:** "Could you update me on whether the signed form has been uploaded to the shared folder?"
-
-**1.** "Could you send the document?"
+1. Could you send the document?
 
 {{PH-1: U07-C-rewrite-5 | rows=2}}
 
-**2.** "Could you check this?"
+2. Could you check this?
 
 {{PH-1: U07-C-rewrite-6 | rows=2}}
 
-**3.** "Could you confirm the information?"
+3. Could you confirm the information?
 
 {{PH-1: U07-C-rewrite-7 | rows=2}}
 
-**4.** "Could you update me?"
+4. Could you update me?
 
 {{PH-1: U07-C-rewrite-8 | rows=2}}
 
 :::
 
-**Write Here**
-
-{{PH-1: U07-practice-b-specific | rows=6}}
-
-::: learn
-Avoiding Pressure in Requests
-
-Administrative English avoids:
-
-- Imperatives (Send, Tell, Check...)
-- Emotional language (I really need..., You didn't..., You must...)
-- Pressure (ASAP, immediately)
-:::
-
 ::: language
-Better Alternatives
+Low-Pressure Phrases
 
-- when you have time
-- at your convenience
-- when available
-:::
-
-::: learn
-Why This Works
-
-A polite request does not become weak.
-It becomes easier for the reader to accept and complete.
-
-Good request writing balances:
-
-- clear action
-- enough detail
-- low pressure
-- professional tone
+Administrative English avoids pressure words such as 'now', 'immediately', and 'ASAP' unless there is a real deadline. Softer alternatives include 'when available', 'when you have time', and 'at your convenience'.
 :::
 
 ::: rewrite
-Soften the Request
+Reduce Pressure
 
-Rewrite each message so it is **polite but not weak**, using softening phrases.
+Rewrite each message so it is polite and low-pressure, but still clear.
 
-**1.** "Send this today."
+1. Send this today.
 
 {{PH-1: U07-C-rewrite-9 | rows=2}}
 
-**2.** "Tell me the result now."
+2. Tell me the result now.
 
 {{PH-1: U07-C-rewrite-10 | rows=2}}
 
-**3.** "Check this immediately."
+3. Check this immediately.
 
 {{PH-1: U07-C-rewrite-11 | rows=2}}
 
-**4.** "Give me the corrected file as soon as possible."
+4. Give me the corrected file as soon as possible.
 
 {{PH-1: U07-C-rewrite-12 | rows=2}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U07-practice-c-soften | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
 Write a Request Email
 
-Use the prompts to write a complete request email.
-
 **Situation:** You need to request the applicant's updated contact information for the next review stage.
 
-Write your email:
+Write a complete request email. Include these parts:
 
 - **Subject:**
 - **Greeting:**
@@ -2276,25 +2163,8 @@ Write your email:
 - **Context / reason (1 sentence):**
 - **Softened closing sentence:**
 - **Sign-off:**
-:::
-
-Use this box for one complete version.
-
-**Write Here**
 
 {{PH-3: U07-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your request email, check:
-
-- [ ] Is the request clear?
-- [ ] Is the request specific enough?
-- [ ] Did I add a short reason if it helps?
-- [ ] Did I avoid pressure words or commands?
 :::
 
 ### E. Freer Practice
@@ -2303,7 +2173,7 @@ Before writing your request email, check:
 Write Two Request Emails
 
 Write **two short emails** (3-4 sentences each) requesting information or action.
-Choose two situations below:
+Choose two situations below.
 
 **Options**
 
@@ -2315,17 +2185,7 @@ C. Write to an applicant to request information missing from their documents bec
 
 D. Write to a colleague to request clarification before finalising a report because one section still lacks a confirmed figure.
 
-In each email, include:
-
-- a clear opening
-- one polite request
-- one short reason or context sentence
-- a softened closing line
-
-Write your emails:
-:::
-
-Write each document in its own box.
+In each email, include a clear opening, one polite request, a short reason, and a softened closing.
 
 **Email 1**
 
@@ -2334,96 +2194,79 @@ Write each document in its own box.
 **Email 2**
 
 {{PH-3: U07-freer-email-2 | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
 Keep the Request, Improve the Tone
 
 Rewrite each message so it keeps the same request but sounds more professional.
 
-**1.** Send me the corrected file today.
+1. Send me the corrected file today.
 
 {{PH-1: U07-G-rewrite-1 | rows=2}}
 
-**2.** Tell me the meeting time now.
+2. Tell me the meeting time now.
 
 {{PH-1: U07-G-rewrite-2 | rows=2}}
 
-**3.** Check this and reply quickly.
+3. Check this and reply quickly.
 
 {{PH-1: U07-G-rewrite-3 | rows=2}}
 
-**4.** Give me the missing information.
+4. Give me the missing information.
 
 {{PH-1: U07-G-rewrite-4 | rows=2}}
 
 :::
 
-Write the full corrected version below.
+### G. Self-Check and Reflection
 
-**Write Your Revised Version**
+::: edit
+Self-Check
 
-{{PH-2: U07-editing-rewrite | rows=2}}
+After writing your request email in Activity E, check:
 
-### H. Transfer Extension
+- [ ] Is the request clear?
+- [ ] Is the request specific enough?
+- [ ] Did I add a short reason if it helps?
+- [ ] Did I avoid pressure words or commands?
+:::
+
+::: write
+Reflection
+
+Answer the questions in short notes.
+
+1. Which polite request phrase do you prefer using?
+2. Which softening phrase will you try in future emails?
+3. When should a request be more formal?
+
+{{PH-1: U07-G-reflection | rows=4}}
+:::
+
+### H. Homework & Extension
 
 ::: write
 One Need, Two Levels of Politeness
 
-Choose one request from your real work.
+Choose one real workplace request, or choose one Unit 7 freer-practice situation.
 
-Write:
+Write two versions of the same request:
 
-1. a safe standard version using `Could you...?`
-2. a softer version using `Would you be able to...?` or `I would appreciate it if...`
+1. A safe standard version using 'Could you...?'
 
-Then decide:
+   {{PH-1: U07-transfer-standard | rows=3}}
 
-- which version is better for a colleague
-- which version is better for an outside office
+2. A softer version using 'Would you be able to...?' or 'I would appreciate it if...'
 
-If you do not want to use a real request, choose one Unit 7 freer-practice situation and write the two versions for that case.
+   {{PH-1: U07-transfer-soft | rows=3}}
 
-Write one sentence on each line where possible.
+Then write which version is better for a colleague and which version is better for an outside office.
+
+{{PH-1: U07-transfer-choice | rows=2}}
 :::
-
-**Write Here**
-
-{{PH-1: U07-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Request Paragraph
-
-Write a **neutral paragraph** (5-6 sentences) explaining:
-
-- What information is needed
-- Why it is needed
-- What issue it solves
-- What the next part of the report will describe
-
-(No direct request- this is background information for a report.)
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U07-extended-paragraph | rows=8}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. What polite request phrase do you prefer using?
-2. Do you sometimes write requests that are too direct? Why?
-3. Which softening phrase will you try in future emails?
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
@@ -2431,32 +2274,19 @@ Homework Task
 Think of a real request you made at work this week. Rewrite it using **two different polite request structures** from this unit.
 
 If you do not want to use a real request, choose one Unit 7 freer-practice situation and rewrite it using **two different polite request structures** instead.
-:::
-
-**Homework Draft**
 
 {{PH-3: U07-homework-document | rows=8}}
+:::
 
 ## Module 2 Review Workshop
 
 ### Key Lessons to Keep
 
-::: learn
-Core Takeaways
-
-- Unit 4: A good email lets the reader see purpose, action, and tone from the subject line onward.
-- Unit 5: A clarification email works best when one question connects to one information need.
-- Unit 6: Delay and change messages should reduce uncertainty by naming the issue, current status, and next step clearly.
-- Unit 7: Request emails are easier to accept when the reason, action, and tone match the relationship.
-:::
+Module 2 showed how a short workplace email guides the reader. A good email makes the purpose clear from the subject line and opening sentence. Clarification questions should connect one question to one information need. Delay and change messages should reduce uncertainty. Request emails should match the reason, action, and tone to the reader.
 
 ### Email Comparison Review
 
-::: notice
-Compare Request Openings
-
 Compare these two request openings.
-:::
 
 ::: example-bad
 Version A
@@ -2473,7 +2303,7 @@ Could you please send the updated file today? I need it to complete the report b
 ::: write
 Review Response
 
-Write **2-3 sentences** explaining which version is stronger. Mention tone, reason, and reader action.
+Write **2-3 sentences** explaining why Version B is easier for the reader to act on. Mention tone, reason, and action.
 
 {{PH-1: M2-review-comparison-response | rows=4}}
 :::
@@ -2493,24 +2323,9 @@ Thank you.
 ::: revise
 Improve the Weak Email
 
-Rewrite the weak email so the reader can understand the topic, the exact problem, and the action needed. Include a clearer subject line, a professional opening, and one polite request.
+Rewrite the weak email. Include a clearer subject line, a professional opening, the exact problem, and one polite request.
 
 {{PH-2: M2-revision-lab-email | rows=8}}
-:::
-
-::: example-good
-Possible Stronger Version
-
-Subject: Request to Resend the Student Information Form
-
-Dear Ms. Lee,
-
-Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
-
-Best regards,
-[Your Name]
-
-This version is stronger because the subject line names the topic, the body explains the exact problem, the request names a clear action, and the deadline is linked to a visible purpose.
 :::
 
 ### Self-Edit Routine
@@ -2541,28 +2356,21 @@ Choose one email from Units 4-7. Use the checklist, then revise the weakest part
 ::: write
 Write Two Audience Versions
 
-Choose one workplace situation:
+Choose one workplace situation. Write one internal email and one external email about the same situation. Then add three short notes about what changed for the audience.
 
 - you need missing information
 - you need to explain a short delay
 - you need to make a polite request to another office
 
-Write two short emails for the same situation:
-
-- one to an internal colleague
-- one to an external office
-
 **Internal Email**
 
-{{PH-3: M2-transfer-internal-email | rows=4}}
+{{PH-3: M2-transfer-internal-email | rows=6}}
 
 **External Email**
 
-{{PH-3: M2-transfer-external-email | rows=4}}
+{{PH-3: M2-transfer-external-email | rows=6}}
 
-Audience Notes
-
-After writing, add three short notes:
+After writing both emails, add three short notes about audience choices.
 
 1. What stayed the same in both emails?
 2. What changed because of audience?
@@ -2747,19 +2555,19 @@ Improve the Verb Choice
 
 Rewrite each instruction using a **clear action verb**.
 
-**1.** "Make sure the file is OK."
+1. Make sure the file is OK.
 
 {{PH-1: U08-C-rewrite-1 | rows=2}}
 
-**2.** "Put the name in the system."
+2. Put the name in the system.
 
 {{PH-1: U08-C-rewrite-2 | rows=2}}
 
-**3.** "Look at the form to see if something is missing."
+3. Look at the form to see if something is missing.
 
 {{PH-1: U08-C-rewrite-3 | rows=2}}
 
-**4.** "Send it to the right place."
+4. Send it to the right place.
 
 {{PH-1: U08-C-rewrite-4 | rows=2}}
 
@@ -2976,7 +2784,7 @@ Choose one workplace task you know well.
 Write:
 
 1. one sentence explaining who the procedure is for
-2. a `4-5` step procedure
+2. a 4-5 step procedure
 3. one closing sentence explaining what happens after the task
 
 This helps you turn short instructions into a more usable manual-style section.
@@ -3151,19 +2959,19 @@ Internal notices use **neutral, factual language**. Avoid:
 ::: rewrite
 Rewrite These to Make Them Neutral
 
-**1.** "The delay is very annoying."
+1. The delay is very annoying.
 
 {{PH-1: U09-C-rewrite-1 | rows=2}}
 
-**2.** "Everyone MUST check the new files today!"
+2. Everyone MUST check the new files today!
 
 {{PH-1: U09-C-rewrite-2 | rows=2}}
 
-**3.** "I think the system is acting strange again."
+3. I think the system is acting strange again.
 
 {{PH-1: U09-C-rewrite-3 | rows=2}}
 
-**4.** "Sorry everyone, but the meeting is suddenly cancelled."
+4. Sorry everyone, but the meeting is suddenly cancelled.
 
 {{PH-1: U09-C-rewrite-4 | rows=2}}
 
@@ -3190,19 +2998,19 @@ Mini notice frame:
 - what changed or happened
 - who is affected
 - what staff should do next
-**1.** "The meeting will change."
+1. The meeting will change.
 
 {{PH-1: U09-C-rewrite-5 | rows=2}}
 
-**2.** "There is something wrong with the file."
+2. There is something wrong with the file.
 
 {{PH-1: U09-C-rewrite-6 | rows=2}}
 
-**3.** "We are doing something with the system tomorrow."
+3. We are doing something with the system tomorrow.
 
 {{PH-1: U09-C-rewrite-7 | rows=2}}
 
-**4.** "The documents are not ready yet."
+4. The documents are not ready yet.
 
 {{PH-1: U09-C-rewrite-8 | rows=2}}
 
@@ -3293,7 +3101,7 @@ Use this board before you draft so each notice tells staff what changed, why it 
 | What is the effect on work or schedule? |  |  |
 | What should the reader do next? |  |  |
 
-`Why this works`: internal notices are useful only when readers can quickly see the update, the reason, and the action point.
+"Why this works": internal notices are useful only when readers can quickly see the update, the reason, and the action point.
 :::
 
 ### G. Editing Practice
@@ -3452,10 +3260,10 @@ Warm-Up: Identify the Missing Information
 
 Read the sentences. What is missing from each?
 
-1. "The system isn't working."
-2. "There is a problem with the file."
-3. "The review is delayed."
-4. "We cannot access the document."
+1. The system isn't working.
+2. There is a problem with the file.
+3. The review is delayed.
+4. We cannot access the document.
 
 Write what information is missing:
 1.
@@ -3560,19 +3368,19 @@ Try to make the reader understand:
 
 **Stronger:** "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
 
-**1.** "There is a problem with the file."
+1. There is a problem with the file.
 
 {{PH-1: U10-C-rewrite-1 | rows=2}}
 
-**2.** "The system is slow."
+2. The system is slow.
 
 {{PH-1: U10-C-rewrite-2 | rows=2}}
 
-**3.** "We can't finish the work."
+3. We can't finish the work.
 
 {{PH-1: U10-C-rewrite-3 | rows=2}}
 
-**4.** "The document is wrong."
+4. The document is wrong.
 
 {{PH-1: U10-C-rewrite-4 | rows=2}}
 
@@ -3599,15 +3407,15 @@ Use them to give:
 
 **Detail 2:** "The review can continue once the missing items are uploaded."
 
-**1.** The application cannot be opened.
+1. The application cannot be opened.
 
 {{PH-1: U10-C-rewrite-5 | rows=2}}
 
-**2.** The review is delayed.
+2. The review is delayed.
 
 {{PH-1: U10-C-rewrite-6 | rows=2}}
 
-**3.** The uploaded form is incomplete.
+3. The uploaded form is incomplete.
 
 {{PH-1: U10-C-rewrite-7 | rows=2}}
 
@@ -3732,7 +3540,7 @@ Write the full corrected version below.
 ::: write
 Transfer Extension: Problem Note for a Manager
 
-Choose one problem from your workplace or from an earlier unit. Write a short `5-6` sentence manager update that includes:
+Choose one problem from your workplace or from an earlier unit. Write a short 5-6 sentence manager update that includes:
 
 - background
 - issue
@@ -3932,15 +3740,15 @@ Practice B: Improve the Clarity
 
 Rewrite each summary to make it clearer.
 
-**1.** "We talked about some documents. IT will do something."
+1. We talked about some documents. IT will do something.
 
 {{PH-1: U11-C-rewrite-1 | rows=2}}
 
-**2.** "The meeting was long. Many ideas were shared. We will do more later."
+2. The meeting was long. Many ideas were shared. We will do more later.
 
 {{PH-1: U11-C-rewrite-2 | rows=2}}
 
-**3.** "The form was discussed. Someone needs to fix it."
+3. The form was discussed. Someone needs to fix it.
 
 {{PH-1: U11-C-rewrite-3 | rows=2}}
 
@@ -4289,7 +4097,7 @@ By the end of this module, you should be able to:
 Use this module carefully:
 
 - notice how the example versions change for audience, not only for grammar
-- pay attention to the `Why this works`notes about reader confidence and clarity
+- pay attention to the "Why this works" notes about reader confidence and clarity
 - use the self-check to confirm that your message is answerable and well sequenced
 - complete the editing practice so you can repair weak audience control
 - use the transfer extension to move the unit skill into a related external or team context
@@ -4457,19 +4265,19 @@ Mini example:
 
 The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
 
-**1.** "I don't understand this part. Tell me."
+1. I don't understand this part. Tell me.
 
 {{PH-1: U12-C-rewrite-1 | rows=2}}
 
-**2.** "What is the rule?"
+2. What is the rule?
 
 {{PH-1: U12-C-rewrite-2 | rows=2}}
 
-**3.** "When is the deadline?"
+3. When is the deadline?
 
 {{PH-1: U12-C-rewrite-3 | rows=2}}
 
-**4.** "Explain Section 2."
+4. Explain Section 2.
 
 {{PH-1: U12-C-rewrite-4 | rows=2}}
 
@@ -4501,15 +4309,15 @@ Mini example:
 
 The better version helps the reader understand the task situation before they read the question itself.
 
-**1.** Could you clarify the new ID requirement?
+1. Could you clarify the new ID requirement?
 
 {{PH-1: U12-C-rewrite-5 | rows=2}}
 
-**2.** Could you confirm the review schedule?
+2. Could you confirm the review schedule?
 
 {{PH-1: U12-C-rewrite-6 | rows=2}}
 
-**3.** Could you explain how the updated rule applies?
+3. Could you explain how the updated rule applies?
 
 {{PH-1: U12-C-rewrite-7 | rows=2}}
 
@@ -4729,10 +4537,10 @@ Warm-Up: What Information Is Missing?
 
 Read each explanation. Identify what is missing.
 
-1. "The schedule changed."
-2. "The form is incorrect."
-3. "The applicant information is different."
-4. "The process will take longer."
+1. The schedule changed.
+2. The form is incorrect.
+3. The applicant information is different.
+4. The process will take longer.
 
 What is missing?
 1.
@@ -4760,13 +4568,13 @@ Compare:
 ::: example-bad
 Weak
 
-*The process will take longer.*
+The process will take longer.
 :::
 
 ::: example-good
 Stronger
 
-*The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.*
+The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.
 :::
 
 ::: learn
@@ -4846,19 +4654,19 @@ Mini example:
 
 This is stronger because the reader can follow fact, cause, and effect in one short explanation.
 
-**1.** "The schedule changed."
+1. The schedule changed.
 
 {{PH-1: U13-C-rewrite-1 | rows=2}}
 
-**2.** "The file is wrong."
+2. The file is wrong.
 
 {{PH-1: U13-C-rewrite-2 | rows=2}}
 
-**3.** "The review will take longer."
+3. The review will take longer.
 
 {{PH-1: U13-C-rewrite-3 | rows=2}}
 
-**4.** "The system is slow."
+4. The system is slow.
 
 {{PH-1: U13-C-rewrite-4 | rows=2}}
 
@@ -4882,17 +4690,17 @@ Try this pattern:
 You can test your answer with three quick questions:
 
 1. Would a new colleague understand the context?
-**2.** Does the reason explain the main sentence clearly?
-**3.** Can the reader see why the information matters now?
-**1.** The applicant list is incomplete.
+2. Does the reason explain the main sentence clearly?
+3. Can the reader see why the information matters now?
+1. The applicant list is incomplete.
 
 {{PH-1: U13-C-rewrite-5 | rows=2}}
 
-**2.** The document cannot be accepted.
+2. The document cannot be accepted.
 
 {{PH-1: U13-C-rewrite-6 | rows=2}}
 
-**3.** The review must be rescheduled.
+3. The review must be rescheduled.
 
 {{PH-1: U13-C-rewrite-7 | rows=2}}
 
@@ -5112,10 +4920,10 @@ Warm-Up: What Is the Confusion?
 
 Identify what the reader is confused about.
 
-1. "I thought the deadline was next Monday."
-2. "This form looks different from the one I used last year."
-3. "I'm not sure which file I should upload."
-4. "The instructions say two things."
+1. I thought the deadline was next Monday.
+2. This form looks different from the one I used last year.
+3. I'm not sure which file I should upload.
+4. The instructions say two things.
 
 Write the point of confusion:
 1.
@@ -5212,19 +5020,19 @@ Mini example:
 
 The stronger version corrects the information without blaming the reader.
 
-**1.** "No, that's wrong."
+1. No, that's wrong.
 
 {{PH-1: U14-C-rewrite-1 | rows=2}}
 
-**2.** "You misunderstood the instructions."
+2. You misunderstood the instructions.
 
 {{PH-1: U14-C-rewrite-2 | rows=2}}
 
-**3.** "The other form is for something else."
+3. The other form is for something else.
 
 {{PH-1: U14-C-rewrite-3 | rows=2}}
 
-**4.** "Read the guidelines again."
+4. Read the guidelines again.
 
 {{PH-1: U14-C-rewrite-4 | rows=2}}
 
@@ -5239,15 +5047,15 @@ Practice B: Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
-**1.** The applicant uploaded the wrong file.
+1. The applicant uploaded the wrong file.
 
 {{PH-1: U14-C-rewrite-5 | rows=2}}
 
-**2.** The deadline mentioned in the email is incorrect.
+2. The deadline mentioned in the email is incorrect.
 
 {{PH-1: U14-C-rewrite-6 | rows=2}}
 
-**3.** The instructions refer to two different processes.
+3. The instructions refer to two different processes.
 
 {{PH-1: U14-C-rewrite-7 | rows=2}}
 
@@ -5561,15 +5369,15 @@ Practice A: Improve Consistency
 
 Rewrite the emails to make them consistent in tone and structure.
 
-**1.** "Hi, I checked it. What should I do now?"
+1. Hi, I checked it. What should I do now?
 
 {{PH-1: U15-C-rewrite-1 | rows=2}}
 
-**2.** "Hello, Please check. I think there is a problem."
+2. Hello, Please check. I think there is a problem.
 
 {{PH-1: U15-C-rewrite-2 | rows=2}}
 
-**3.** "Team, The file is wrong. Fix it."
+3. Team, The file is wrong. Fix it.
 
 {{PH-1: U15-C-rewrite-3 | rows=2}}
 
@@ -5727,11 +5535,11 @@ Editing Practice: Bring Two Drafts to One Standard
 
 Rewrite the two short messages below so they follow the same team style.
 
-**1.** Hi, the file is not right. Check it.
+1. Hi, the file is not right. Check it.
 
 {{PH-1: U15-G-rewrite-1 | rows=2}}
 
-**2.** Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
+2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
 
 {{PH-1: U15-G-rewrite-2 | rows=2}}
 
@@ -5984,7 +5792,7 @@ By the end of this unit, I will be able to:
 - revise a short email for more accurate language use.
 - edit a short paragraph for accuracy and clarity.
 
-### A. What Does `Accuracy`Mean in Writing?
+### A. What Does "Accuracy" Mean in Writing?
 
 ::: learn
 What Does "Accuracy" Mean in Writing?
@@ -6044,13 +5852,13 @@ Compare:
 ::: example-bad
 Weak
 
-*The applicant have submit the form yesterday.*
+The applicant have submit the form yesterday.
 :::
 
 ::: example-good
 Stronger
 
-*The applicant submitted the form yesterday.*
+The applicant submitted the form yesterday.
 :::
 
 ::: learn
@@ -6129,19 +5937,19 @@ Accuracy check:
 - [ ] Does the sentence now sound complete?
 - [ ] Does the time reference make sense?
 - [ ] Does the noun or verb form match the message?
-**1.** *The system under maintenance today.*
+1. *The system under maintenance today.*
 
 {{PH-1: U16-C-rewrite-1 | rows=2}}
 
-**2.** *We will checking the documents.*
+2. *We will checking the documents.*
 
 {{PH-1: U16-C-rewrite-2 | rows=2}}
 
-**3.** *Please send me informations about new procedure.*
+3. *Please send me informations about new procedure.*
 
 {{PH-1: U16-C-rewrite-3 | rows=2}}
 
-**4.** *The documents is complete.*
+4. *The documents is complete.*
 
 {{PH-1: U16-C-rewrite-4 | rows=2}}
 
@@ -6291,7 +6099,7 @@ Treat it as a draft internal update that needs editing before your team shares i
 ::: write
 Transfer Extension: Accuracy Review Routine
 
-Write a short editing routine of `4-5` lines for yourself.
+Write a short editing routine of 4-5 lines for yourself.
 
 For example:
 
@@ -6344,7 +6152,7 @@ By the end of this unit, I will be able to:
 - reorganize information for better logical flow.
 - revise a paragraph so it is easier to understand.
 
-### A. What Does `Clarity` Mean in Writing?
+### A. What Does "Clarity" Mean in Writing?
 
 ::: learn
 What Does "Clarity" Mean in Writing?
@@ -6369,10 +6177,10 @@ Warm-Up: What Makes These Sentences Unclear?
 
 Identify the problems.
 
-1. "It looks like maybe there is something wrong with the form in some places."
-2. "We think the system might not be working correctly for some users."
-3. "There are many things to check so it will maybe take a bit longer."
-4. "The information is kind of different from the last version."
+1. It looks like maybe there is something wrong with the form in some places.
+2. We think the system might not be working correctly for some users.
+3. There are many things to check so it will maybe take a bit longer.
+4. The information is kind of different from the last version.
 
 Write the problems (too vague? too long? unnecessary words?):
 1.
@@ -6401,13 +6209,13 @@ Compare:
 ::: example-bad
 Weak
 
-*The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.*
+The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.
 :::
 
 ::: example-good
 Stronger
 
-*The review was delayed because some information is missing. A new schedule will be announced tomorrow.*
+The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 :::
 
 ::: learn
@@ -6457,19 +6265,19 @@ Practice A: Make the Sentences Clearer
 
 Rewrite each sentence.
 
-**1.** "It looks like the file maybe has a few issues."
+1. It looks like the file maybe has a few issues.
 
 {{PH-1: U17-C-rewrite-1 | rows=2}}
 
-**2.** "There are things missing from the form somewhere."
+2. There are things missing from the form somewhere.
 
 {{PH-1: U17-C-rewrite-2 | rows=2}}
 
-**3.** "We think that it could possibly be delayed for some reason."
+3. We think that it could possibly be delayed for some reason.
 
 {{PH-1: U17-C-rewrite-3 | rows=2}}
 
-**4.** "It would be appreciated if you could maybe check the document again."
+4. It would be appreciated if you could maybe check the document again.
 
 {{PH-1: U17-C-rewrite-4 | rows=2}}
 
@@ -6692,7 +6500,7 @@ By the end of this unit, I will be able to:
 - rewrite a short email in a more professional tone.
 - revise a paragraph so it sounds more neutral and appropriate.
 
-### A. What Is `Tone` in Writing?
+### A. What Is "Tone" in Writing?
 
 ::: learn
 What Is "Tone" in Writing?
@@ -6724,10 +6532,10 @@ Warm-Up: Why Is the Tone Wrong?
 
 Identify what makes the tone inappropriate.
 
-1. "You didn't do this correctly."
-2. "Why didn't you check before sending it?"
-3. "Fix this immediately."
-4. "This is wrong again."
+1. You didn't do this correctly.
+2. Why didn't you check before sending it?
+3. Fix this immediately.
+4. This is wrong again.
 
 Write the issues:
 1.
@@ -6756,13 +6564,13 @@ Compare:
 ::: example-bad
 Weak
 
-*You didn't send the right file. Send the correct one now.*
+You didn't send the right file. Send the correct one now.
 :::
 
 ::: example-good
 Stronger
 
-*Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?*
+Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 :::
 
 ::: learn
@@ -6819,19 +6627,19 @@ Try to soften the message by changing:
 
 The stronger version keeps the message usable and professional.
 
-**1.** "This is wrong."
+1. This is wrong.
 
 {{PH-1: U18-C-rewrite-1 | rows=2}}
 
-**2.** "You made a mistake."
+2. You made a mistake.
 
 {{PH-1: U18-C-rewrite-2 | rows=2}}
 
-**3.** "Check it again."
+3. Check it again.
 
 {{PH-1: U18-C-rewrite-3 | rows=2}}
 
-**4.** "This is not acceptable."
+4. This is not acceptable.
 
 {{PH-1: U18-C-rewrite-4 | rows=2}}
 
@@ -7207,7 +7015,7 @@ By the end of this module, you should be able to:
 When you use this module, do not skip the support layer:
 
 - compare the example versions before you draft
-- read the `Why this works`note for audience and document control
+- read the "Why this works" note for audience and document control
 - use the self-check before freer or final writing
 - complete the editing practice so you separate reader needs clearly
 - use the transfer extension to show that the skill can move to a new multi-document context
@@ -7612,7 +7420,7 @@ The two documents must match, but they should not sound the same.
 
 Document-control check:
 
-- shared fact: `Document Verification - Stage 2` is `27 May`
+- shared fact: "Document Verification - Stage 2" is "27 May"
 - external purpose: correct the previously sent information
 - internal purpose: prevent staff from using the wrong date again
 :::
@@ -7871,7 +7679,7 @@ Write the full corrected version below.
 ::: write
 Transfer Extension: Correction Log
 
-Write a short `3-4` line correction log for one scenario in this unit:
+Write a short 3-4 line correction log for one scenario in this unit:
 
 - original incorrect detail
 - corrected detail
@@ -7996,6 +7804,7 @@ Compare the two emails. Identify inconsistencies in tone, format, structure, and
 Email A
 
 Subject: Info
+
 Hi,
 I saw it. What next?
 Thx.
@@ -8005,6 +7814,7 @@ Thx.
 Email B
 
 Subject: Information Required for Review
+
 Dear Team,
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
 Thank you.
@@ -8077,15 +7887,15 @@ Practice A: Improve Team Consistency
 
 Rewrite these sentences/emails to make them consistent with team standards.
 
-**1.** "Hi, I checked it. What should I do now?"
+1. Hi, I checked it. What should I do now?
 
 {{PH-1: U21-C-rewrite-1 | rows=2}}
 
-**2.** "Hello, Please check. I think there is a problem."
+2. Hello, Please check. I think there is a problem.
 
 {{PH-1: U21-C-rewrite-2 | rows=2}}
 
-**3.** "Team, The file is wrong. Fix it."
+3. Team, The file is wrong. Fix it.
 
 {{PH-1: U21-C-rewrite-3 | rows=2}}
 
@@ -8264,9 +8074,9 @@ This keeps the unit focused on message rewriting first, then turns one successfu
 ::: example-bad
 Original Messages
 
-1. "We told them already, but they didn't send the file. Ask again."
-2. "Hi, I think the new form is wrong. They need fix it."
-3. "Team, The deadline is near. Do something."
+1. We told them already, but they didn't send the file. Ask again.
+2. Hi, I think the new form is wrong. They need fix it.
+3. Team, The deadline is near. Do something.
 :::
 
 ::: rewrite
@@ -8430,19 +8240,19 @@ Practice A: Match Tone to Audience
 
 Rewrite each sentence for the appropriate audience.
 
-**1.** (Applicant) "You didn't upload the file we need."
+1. (Applicant) "You didn't upload the file we need."
 
 {{PH-1: U22-C-rewrite-1 | rows=2}}
 
-**2.** (Colleague) "The applicant didn't follow the instructions again."
+2. (Colleague) "The applicant didn't follow the instructions again."
 
 {{PH-1: U22-C-rewrite-2 | rows=2}}
 
-**3.** (Internal Notice) "The file is wrong and causing trouble."
+3. (Internal Notice) "The file is wrong and causing trouble."
 
 {{PH-1: U22-C-rewrite-3 | rows=2}}
 
-**4.** (Applicant) "Send the document quickly."
+4. (Applicant) "Send the document quickly."
 
 {{PH-1: U22-C-rewrite-4 | rows=2}}
 
@@ -9020,7 +8830,7 @@ Before submission, test whether the portfolio really shows range.
 | Does at least one piece show revision from a weaker earlier draft? |  |
 | Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? |  |
 
-**If you answer `No` to any item**
+**If you answer No to any item**
 
 Do not only polish sentence-level grammar.
 Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
@@ -9072,9 +8882,9 @@ Review Rubric
 
 Use this rubric to check your final portfolio. Mark each criterion as:
 
-- `Ready`
-- `Almost ready`
-- `Needs more revision`
+- Ready
+- Almost ready
+- Needs more revision
 
 | Criterion | What to check | Review units |
 | --- | --- | --- |
