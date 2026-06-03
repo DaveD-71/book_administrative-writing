@@ -2414,13 +2414,7 @@ By the end of this module, you should be able to:
 - describe a problem in a logical order
 - summarise a meeting so the key outcomes are easy to use later
 
-Work through the module with these habits:
-
-- compare weak and strong versions before drafting
-- identify the reader problem in the weaker example
-- use the self-check before moving from guided writing to freer writing
-- complete the editing practice so you can repair structure, not only create it
-- use the transfer extension to move the skill into a new internal-writing context
+In each unit, compare weak and strong versions before drafting, practise the key structure, write your own text, repair one weak example, and then use the self-check and homework section to carry the skill into a new internal-writing context.
 
 ## Unit 8. Writing Simple Procedures
 
@@ -2431,34 +2425,14 @@ By the end of this unit, I will be able to:
 - write simple step-by-step instructions in a clear order.
 - choose clear action verbs for procedure writing.
 - write a short workplace procedure that another person can follow.
-- write a simple manual-style section for a routine office task.
-
-### A. What Is a Procedure?
-
-::: learn
-Definition
-
-A **procedure** is a set of steps that explains how to complete a task.
-It should:
-
-- Be clear and easy to follow
-- Use simple, direct language
-- Present steps in a logical order
-- Use consistent formatting (numbers or bullets)
-:::
-
-::: example-good
-Example (Part of a Larger Manual)
-
-Steps to create a new file record:
-
-1. Open the database system.
-2. Select "New Record" from the main menu.
-3. Enter the applicant's basic information.
-4. Save the record and confirm the entry.
-:::
 
 ### A. Warm-Up
+
+::: learn
+Procedure Basics
+
+A **procedure** is a set of steps that explains how to complete a task. A useful procedure is clear, follows the real order of the task, and uses the same format from start to finish.
+:::
 
 ::: notice
 Which Procedure Is Better?
@@ -2482,40 +2456,29 @@ Version B
 3. Send the form to the next department.
 :::
 
-**Discussion:** Which version is better, and why?
-
 ::: learn
-Good Procedures Usually
+Why Version B Is Clearer
 
-- use one clear action in each step
-- follow the real order of the task
-- stay consistent in format and wording
+Version B is easier to follow because each step has one clear action, the steps are numbered, and the order matches the real task.
 :::
 
 ### B. Example Check
 
-::: learn
-Why Version B Works Better
+::: example-good
+Procedure Example
 
-Version B is stronger because each step has **one clear action**.
+Steps to create a new file record:
 
-The reader can see:
-
-1. what to do first
-2. what to do next
-3. when the task is complete
-
-Version A feels less useful because one step contains too many ideas and the order is not clear.
+1. Open the database system.
+2. Select New Record from the main menu.
+3. Enter the applicant's basic information.
+4. Save the record and confirm the entry.
 :::
 
 ::: learn
 Why This Works
 
-Procedures reduce reader error when:
-
-- the steps follow the real order
-- each step has one job
-- the format stays consistent
+This procedure works because the reader can see what to do first, what to do next, and when the task is complete. Procedures reduce mistakes when the steps follow the real order and each step has one job.
 :::
 
 ### C. Language
@@ -2523,7 +2486,7 @@ Procedures reduce reader error when:
 ::: language
 Clear Instruction Verbs
 
-Common verbs used in procedures:
+Common verbs used in procedures include:
 
 - Check
 - Confirm
@@ -2534,20 +2497,7 @@ Common verbs used in procedures:
 - Save
 - Submit
 
-Choose verbs that tell the reader exactly what action to take.
-Good procedure verbs are:
-
-- direct
-- observable
-- easy to do in order
-
-Avoid vague verbs such as "handle," "do," or "fix" when a more exact action is possible.
-
-**Mini contrast — Weak:** "Do the form."
-
-**Stronger:** "Review the form and attach the signed copy."
-
-The stronger version tells the reader exactly what action sequence to follow.
+Choose verbs that tell the reader exactly what action to take. Avoid vague verbs such as handle, do, or fix when a more exact action is possible.
 :::
 
 ::: rewrite
@@ -2573,23 +2523,16 @@ Rewrite each instruction using a **clear action verb**.
 
 :::
 
-**Write Here**
-
-{{PH-1: U08-practice-a-verbs | rows=6}}
-
-Procedures must follow a logical sequence.
-
 ::: learn
-Teaching Point
+Step Order
 
-If the order is wrong, even correct instructions can cause mistakes.
-A procedure is useful only when the reader can complete the task in the same order as the writer intended.
+If the order is wrong, even clear instructions can cause mistakes. A procedure is useful only when the reader can complete the task in the same order as the writer intended.
 :::
 
-::: write
+::: notice
 Put the Steps in Order
 
-Steps for verifying an application:
+Put the steps for verifying an application in the correct order.
 
 A. Review the file for missing documents.
 
@@ -2599,16 +2542,10 @@ C. Enter the applicant's information into the system.
 
 D. Confirm the submission date.
 
-Write the correct order:
-1.
-2.
-3.
-4.
+Write the correct order using the letters only.
+
+{{PH-1: U08-practice-b-order | rows=2}}
 :::
-
-**Write Here**
-
-{{PH-2: U08-practice-b-order | rows=6}}
 
 ::: write
 Add Missing Steps
@@ -2619,68 +2556,36 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 
 1. Open the shared folder.
 2. Download the file.
-3.
-4.
+
+{{PH-1: U08-practice-c-steps-1 | rows=3}}
 
 **Procedure 2**
 
 1. Review the applicant's form.
 2. Check for required signatures.
-3.
-4.
+
+{{PH-1: U08-practice-c-steps-2 | rows=3}}
 
 :::
-
-**Write Here**
-
-{{PH-1: U08-practice-c-steps | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
 Write a Simple Procedure
 
-Write a short procedure (4-5 steps) based on the situation.
-
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
-Write the procedure for that team member. Use numbered steps only. Write your procedure:
-1.
-2.
-3.
-4.
-5.
-6.
-:::
+Write a short procedure for that team member. Use **4-5 numbered steps**.
 
-Use this box for one complete version.
-
-**Write Here**
-
-{{PH-3: U08-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Before writing your own procedures, check:
-
-- [ ] Does each step begin with a clear action verb?
-- [ ] Is one step doing only one main job?
-- [ ] Does the order match the real task?
-- [ ] Will the user know when the task is finished?
+{{PH-3: U08-guided-document | rows=8}}
 :::
 
 ### E. Freer Practice
 
 ::: write
-Write Two Procedures
+Write a Workplace Procedure
 
-Write **two different procedures** (4-5 steps each).
-Choose any two situations below:
-
-**Options**
+Choose **one** situation below and write a clear workplace procedure.
 
 A. A new colleague needs to know how to prepare a file for internal review.
 
@@ -2690,139 +2595,79 @@ C. A new staff member needs to know how to check and update applicant informatio
 
 D. A colleague needs to know how to submit a form to another department.
 
-For each procedure, make clear who will use it and what task it helps them complete.
-
-Procedure 1:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-
-Procedure 2:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-:::
-
-Use this box for one complete version.
-
-**Write Here**
+Write **4-6 numbered steps**. Make clear who will use the procedure and what task it helps them complete.
 
 {{PH-3: U08-freer-document | rows=10}}
-
-### E. Extended Writing Task
-
-::: write
-Write a Section of a Simple Manual
-
-Write a **short manual section** using this fixed format:
-
-- a short title (optional)
-- **1-2 opening sentences** explaining the task and who the section is for
-- a **numbered procedure** with **4-6 steps**
-- **1 closing sentence** explaining what happens after the steps are completed
-
-This means the task has **two clear parts**:
-
-1. a short explanation
-2. a numbered step sequence
-
-Your manual section should explain:
-
-- what the task is
-- why it is important
-- who uses this procedure
-- what happens after the steps are completed
-
-Write your manual section:
 :::
 
-Use this box for one complete version.
-
-**Write Here**
-
-{{PH-3: U08-extended-document | rows=10}}
-
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
 
-- [ ] Check the file and maybe look at the applicant number too because this is important.
-- [ ] If everything is okay then save it, but first rename it if necessary.
-- [ ] Send it later.
+1. Check the file and maybe look at the applicant number too because this is important.
+2. If everything is okay then save it, but first rename it if necessary.
+3. Send it later.
 :::
 
 ::: edit
 Repair the Procedure
 
-Rewrite this procedure so it becomes clearer and easier to follow.
+Rewrite this procedure so it becomes clearer and easier to follow. Use numbered steps.
 
-**Rewrite:**
+{{PH-2: U08-editing-rewrite | rows=6}}
 :::
 
-Write the full corrected version below.
+### G. Self-Check and Reflection
 
-**Write Your Revised Version**
+::: edit
+Final Self-Check
 
-{{PH-2: U08-editing-rewrite | rows=2}}
+After you write your procedure in Activity E and complete the editing practice in Activity F, check your work again:
 
-### H. Transfer Extension
-
-::: write
-Procedure for a New User
-
-Choose one workplace task you know well.
-
-Write:
-
-1. one sentence explaining who the procedure is for
-2. a 4-5 step procedure
-3. one closing sentence explaining what happens after the task
-
-This helps you turn short instructions into a more usable manual-style section.
-
-If you do not want to use a real workplace task, choose one Unit 8 freer-practice scenario instead.
-
-Write one sentence on each line where possible.
+- [ ] Does each step begin with a clear action verb?
+- [ ] Is one step doing only one main job?
+- [ ] Does the order match the real task?
+- [ ] Will the user know when the task is finished?
 :::
-
-**Write Here**
-
-{{PH-1: U08-transfer-response | rows=4}}
-
-### F. Reflection
 
 ::: write
 Reflect on This Unit
 
+Answer the questions in short notes.
+
 1. What is difficult about writing procedures?
-2. Do you prefer numbered steps or bullet points? Why?
-3. Which instruction verbs are useful for your work?
+2. Which instruction verbs are useful for your work?
+3. Which step from your Activity E procedure is the clearest?
+
+{{PH-1: U08-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Homework & Extension
+
+::: write
+Procedure for a New User
+
+Choose one workplace task you know well. If you do not want to use a real workplace task, choose one Unit 8 freer-practice situation instead.
+
+Write a short manual-style section. Include:
+
+- one sentence explaining who the procedure is for
+- a 4-6 step procedure
+- one closing sentence explaining what happens after the task
+
+{{PH-3: U08-transfer-response | rows=8}}
+:::
 
 ::: write
 Homework Task
 
-Choose a routine task from your job. Write a 6-8 step procedure explaining how to complete it.
+Choose a routine task from your job. Write a **6-8 step procedure** explaining how to complete it.
 
-If you do not want to use a task from your job, choose one Unit 8 freer-practice scenario and expand it into a longer procedure instead.
-:::
-
----
-
-**Homework Draft**
+If you do not want to use a task from your job, revise your Activity E procedure and add one opening sentence and one closing sentence.
 
 {{PH-3: U08-homework-document | rows=8}}
+:::
 
 ## Unit 9. Internal Notices
 
@@ -2833,29 +2678,14 @@ By the end of this unit, I will be able to:
 - identify the main parts of an internal notice.
 - write a short internal notice using neutral language.
 - explain an internal update or change clearly for colleagues.
-- write a short bulletin-style notice for internal communication.
-
-### A. What Is an Internal Notice?
-
-::: learn
-Definition
-
-An **internal notice** is a short message shared inside a department or organisation. It:
-
-- Provides important information
-- Explains updates, reminders, or changes
-- Uses neutral, clear language
-- Does **not** include personal opinions or unnecessary details
-:::
-
-::: example-good
-Example (Part of a Larger Internal Bulletin)
-
-Internal Notice - File System Update
-The file system will be updated this weekend. Access may be limited during the update period. Further information will be provided once the update is complete.
-:::
 
 ### A. Warm-Up
+
+::: learn
+Internal Notice Basics
+
+A **notice** is a short message shared inside a department or organization. It gives important information, explains updates or changes, and uses neutral language.
+:::
 
 ::: notice
 Which Notice Is Clearer?
@@ -2890,23 +2720,12 @@ Why Notice B Works Better
 
 Notice B is stronger because it gives the reader a usable structure:
 
-- topic
-- issue
-- current status
-- next update
+1. topic
+2. issue
+3. current status
+4. next update
 
-Notice A feels weak because the reader still does not know:
-
-- what exactly happened
-- who is checking the problem
-- what to expect next
-:::
-
-::: learn
-Why This Works
-
-A notice is useful when it reduces uncertainty.
-The reader should be able to understand the situation without asking a second question immediately.
+Notice A feels weak because the reader still does not know what exactly happened, who is checking the problem, or what to expect next.
 :::
 
 ### C. Language
@@ -2934,16 +2753,11 @@ Identify the Parts
 
 Label each part with: **H = Heading**, **B = Background**, **E = Essential information**, **N = Next step**.
 
-1. The application review will take place next Wednesday.
-2. Internal Notice - Application Review
-3. Additional checks may be required for older files.
-4. More information will be shared after the review.
+1. The application review will take place next Wednesday. (____)
+2. Internal Notice - Application Review (____)
+3. Additional checks may be required for older files. (____)
+4. More information will be shared after the review. (____)
 
-Your answers:
-1.
-2.
-3.
-4.
 :::
 
 ::: learn
@@ -2977,10 +2791,6 @@ Rewrite These to Make Them Neutral
 
 :::
 
-**Write Here**
-
-{{PH-1: U09-lang2-neutral-tone | rows=2}}
-
 ::: rewrite
 Improve the Clarity
 
@@ -2992,12 +2802,6 @@ Make each one more useful by adding:
 - the key fact
 - the effect or next step
 
-Mini notice frame:
-
-- heading or topic
-- what changed or happened
-- who is affected
-- what staff should do next
 1. The meeting will change.
 
 {{PH-1: U09-C-rewrite-5 | rows=2}}
@@ -3016,44 +2820,21 @@ Mini notice frame:
 
 :::
 
-**Write Here**
-
-{{PH-1: U09-practice-b-clarity | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
 Write a Short Internal Notice
 
-Write a notice based on the situation below.
-
 **Situation:** You are writing to colleagues in your section. A system update will occur tomorrow between 9:00-12:00. Users may not be able to access certain functions.
 
-Write your notice:
+Write a short internal notice. Include:
 
 - **Heading:**
 - **Background:**
 - **Essential information:**
 - **Next step:**
-:::
 
-Use this box for one complete version.
-
-**Write Here**
-
-{{PH-3: U09-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Self-Check
-
-Check your notice before moving on:
-
-- [ ] Is the topic clear?
-- [ ] Is the language factual, not emotional?
-- [ ] Does the message tell the reader what happens next?
-- [ ] Is the notice short but complete?
+{{PH-3: U09-guided-document | rows=8}}
 :::
 
 ### E. Freer Practice
@@ -3061,10 +2842,7 @@ Check your notice before moving on:
 ::: write
 Write Two Notices
 
-Choose two situations and write two internal notices.
-Write each notice for colleagues inside your organisation.
-
-**Options**
+Choose two situations and write two internal notices for colleagues inside your organization.
 
 A. A scheduled meeting time has changed for your team.
 
@@ -3074,77 +2852,61 @@ C. An external office will conduct a short audit next week at your section.
 
 D. Monthly reports will be reviewed later than usual this month.
 
-Include a clear heading, short background, essential information, and a neutral next-step line in each notice. Write your notices:
-:::
-
-Write each document in its own box.
+For each notice, include a clear heading, short background, essential information, and a neutral next-step line.
 
 **Notice 1**
 
-{{PH-3: U09-freer-notice-1 | rows=10}}
+{{PH-3: U09-freer-notice-1 | rows=8}}
 
 **Notice 2**
 
-{{PH-3: U09-freer-notice-2 | rows=10}}
-
-### E. Notice Control Board
-
-::: structure
-Control Board
-
-Use this board before you draft so each notice tells staff what changed, why it matters, and what they should do next.
-
-| Checkpoint | Notice 1 | Notice 2 |
-| --- | --- | --- |
-| What changed? |  |  |
-| Why does staff need to know now? |  |  |
-| What is the effect on work or schedule? |  |  |
-| What should the reader do next? |  |  |
-
-"Why this works": internal notices are useful only when readers can quickly see the update, the reason, and the action point.
+{{PH-3: U09-freer-notice-2 | rows=8}}
 :::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
 
 Notice
+
 There is a problem with the files today. Please be careful. More later.
 :::
 
 ::: edit
 Strengthen the Notice
 
-Rewrite this weak internal notice as a clearer one.
+Rewrite this weak internal notice as a clearer one. Give it a specific heading, explain the real issue, and make the next step clear.
 
-When you revise it, check:
-
-- [ ] Is the heading specific?
-- [ ] Does the body explain the real issue?
-- [ ] Can the reader see what to do next?
-
-::: example
-
-Mini contrast:
+{{PH-2: U09-editing-rewrite | rows=6}}
 :::
 
-::: example
+### G. Self-Check and Reflection
 
-- [ ] Weak notice: vague warning, no action path
-- [ ] Stronger notice: clear topic, clear problem, clear reminder or next step
+::: edit
+Final Self-Check
+
+After you write your notices in Activity E and complete the editing practice in Activity F, check your work again:
+
+- [ ] Is the topic clear?
+- [ ] Is the language factual, not emotional?
+- [ ] Does the message tell the reader what happens next?
+- [ ] Is the notice short but complete?
 :::
 
-**Rewrite:**
+::: write
+Reflect on This Unit
+
+Answer the questions in short notes.
+
+1. What makes a notice effective or ineffective?
+2. Which part of the notice structure is most difficult for you?
+3. Which notice from Activity E is clearer? Why?
+
+{{PH-1: U09-reflection | rows=4}}
 :::
 
-Write the full corrected version below.
-
-**Write Your Revised Version**
-
-{{PH-2: U09-editing-rewrite | rows=2}}
-
-### H. Transfer Extension
+### H. Homework & Extension
 
 ::: write
 From Notice to Bulletin
@@ -3159,58 +2921,8 @@ Expand it into a longer bulletin-style paragraph by adding:
 
 This shows how a short internal message can grow into a fuller internal information text.
 
-Write one sentence on each line where possible.
+{{PH-2: U09-transfer-response | rows=6}}
 :::
-
-**Write Here**
-
-{{PH-2: U09-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Internal Bulletin Section
-
-Write a section for an internal bulletin (6-8 sentences) read by staff in your department. Include:
-
-- Main topic
-- Background
-- Explanation of what is happening
-- Expected impact
-- Next steps
-
-Strong bulletin sections usually move in this order:
-
-1. topic
-2. short background
-3. what is changing or happening
-4. effect on staff or workflow
-5. next step or timing
-
-Bulletin support question:
-
-- Would a busy staff reader understand the change, the effect, and the next action after one reading?
-
-Write your bulletin section:
-:::
-
-Use this box for one complete version.
-
-**Write Here**
-
-{{PH-3: U09-extended-document | rows=10}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. What makes a notice effective or ineffective?
-2. Which part of the notice structure do you find most difficult?
-3. Do you prefer short notices or longer bulletin-style notices? Why?
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
@@ -3218,13 +2930,9 @@ Homework Task
 Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
 
 If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U09-homework-document | rows=8}}
+:::
 
 ## Unit 10. Explaining Problems Clearly
 
@@ -3235,81 +2943,61 @@ By the end of this unit, I will be able to:
 - explain a workplace problem in clear neutral language.
 - include the main parts of a problem explanation in a logical way.
 - write a short explanation of a problem or issue.
-- write a report-style paragraph describing a problem and its effect.
-
-### A. What Makes a Clear Problem Explanation?
-
-::: learn
-Definition
-
-A good explanation of a problem includes:
-
-- **Background** - what was expected
-- **Issue** - what went wrong or what is unclear
-- **Cause** - why it happened (if known)
-- **Effect** - impact on work or schedule
-- **Current status** - what is happening now
-
-This is not a request and not a complaint - only **neutral information**.
-:::
 
 ### A. Warm-Up
 
-::: notice
-Warm-Up: Identify the Missing Information
+::: learn
+Problem Explanation Basics
 
-Read the sentences. What is missing from each?
-
-1. The system isn't working.
-2. There is a problem with the file.
-3. The review is delayed.
-4. We cannot access the document.
-
-Write what information is missing:
-1.
-2.
-3.
-4.
+A good problem explanation tells the reader what was expected, what went wrong, what effect this has, and what is happening now. It is not a request or a complaint. It gives neutral information.
 :::
 
-::: learn
-Before You Explain a Problem, Ask
+::: notice
+Identify the Missing Information
 
-1. What was supposed to happen?
-2. What went wrong?
-3. Why did it happen?
-4. What is the effect?
-5. What is the current status?
+Read the sentences. Write one question the reader may still have.
+
+1. The system isn't working.
+
+   {{PH-1: U10-warmup-missing-1 | rows=1}}
+
+2. There is a problem with the file.
+
+   {{PH-1: U10-warmup-missing-2 | rows=1}}
+
+3. The review is delayed.
+
+   {{PH-1: U10-warmup-missing-3 | rows=1}}
+
+4. We cannot access the document.
+
+   {{PH-1: U10-warmup-missing-4 | rows=1}}
 :::
 
 ### B. Example Check
 
-::: learn
-Example Check: Why a Strong Problem Explanation Works
+::: example-bad
+Weak
 
-A weak explanation usually names only the problem:
+The system isn't working.
+:::
 
-- *The system isn't working.*
+::: example-good
+Stronger
 
-A stronger explanation helps the reader understand the full picture:
-
-- what was expected
-- what went wrong
-- what effect this has
-- what is happening now
+Reviewers cannot access the file system this morning because the server is temporarily unavailable. The document review is delayed, and the IT team is checking the issue now.
 :::
 
 ::: learn
 Why This Works
 
-Professional readers often need to make decisions after reading the explanation.
-They need more than the problem label; they need a usable structure.
+The stronger version helps because it gives the issue, the cause, the effect, and the current status. Professional readers often need this information before they can decide what to do next.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Useful Phrases
+Useful Problem-Explanation Phrases
 
 **Describing the Issue**
 
@@ -3340,21 +3028,8 @@ Language 1. Useful Phrases
 - Further updates will be provided.
 :::
 
-::: learn
-Reader Effect
-
-These phrases help because they separate different jobs:
-
-- issue
-- cause
-- effect
-- status
-
-When these jobs are mixed together, the explanation feels vague.
-:::
-
 ::: rewrite
-Practice A: Improve the Explanation
+Improve the Explanation
 
 Rewrite each message to make it clearer and more complete.
 
@@ -3363,10 +3038,6 @@ Try to make the reader understand:
 - what the problem is
 - what caused it
 - what happens next
-
-**Mini contrast — Weak:** "There is a problem with the file."
-
-**Stronger:** "The uploaded file cannot be reviewed because two required sections are missing, so the next check must wait until the corrected version arrives."
 
 1. There is a problem with the file.
 
@@ -3386,12 +3057,8 @@ Try to make the reader understand:
 
 :::
 
-**Write Here**
-
-{{PH-1: U10-practice-a-explanation | rows=6}}
-
 ::: write
-Practice B: Add Details
+Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
 
@@ -3400,12 +3067,6 @@ Use them to give:
 
 - one useful cause, fact, or example
 - one effect, status, or next-step detail
-
-**Mini support example — Base:** "The review is delayed."
-
-**Detail 1:** "Two supporting documents are still missing from the applicant file."
-
-**Detail 2:** "The review can continue once the missing items are uploaded."
 
 1. The application cannot be opened.
 
@@ -3421,76 +3082,39 @@ Use them to give:
 
 :::
 
-**Write Here**
-
-{{PH-2: U10-practice-b-details | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write a Problem Explanation
+Write a Problem Explanation
 
-Write a short explanation (4-5 sentences).
+Read the situation and facts. Then write a short problem explanation of **4-5 sentences**.
 
-**Situation:** You are updating your supervisor about a system error that has stopped reviewers from accessing several files.
+**Situation:** You are updating your supervisor about a system error.
+
+Facts:
+
+- Reviewers cannot access several files.
+- The error started this morning.
+- The IT team says the issue may be connected to yesterday's server update.
+- The review schedule may be delayed.
+- IT is checking the system now.
 
 Include:
 
-- Background
-- Issue
-- Cause (if known)
-- Effect
-- Current status
-
-Write your explanation:
-
-Write one sentence on each line where possible.
-:::
-
-**Write Here**
+- the issue
+- the possible cause
+- the effect on work
+- the current status
 
 {{PH-2: U10-guided-paragraph | rows=8}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own problem descriptions, check:
-
-- [ ] Did I state the issue clearly?
-- [ ] Did I add the cause if it is known?
-- [ ] Did I explain the effect on work or schedule?
-- [ ] Did I tell the reader the current status?
-:::
-
-### E. Problem-Logic Planning Grid
-
-::: structure
-Planning Grid
-
-Complete this grid before you draft. It will help you keep the explanation useful for a busy reader.
-
-| Part | Your note |
-| --- | --- |
-| Background |  |
-| Issue |  |
-| Cause |  |
-| Effect |  |
-| Current status |  |
-
-Writers often lose clarity when they name the problem but do not explain the effect or the current situation.
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two Problem Descriptions
+Write Two Problem Explanations
 
-Choose two situations and write clear explanations of **4-5 sentences each**.
-For each one, imagine you are writing a short internal explanation for a supervisor or colleague who needs clear factual information.
-
-**Options**
+Choose two situations and write clear explanations of **4-5 sentences each**. For each one, write for a supervisor or colleague who needs clear factual information.
 
 A. A deadline must be moved because information is missing.
 
@@ -3500,10 +3124,7 @@ C. Two systems are giving different results.
 
 D. A shared drive is not accessible this morning.
 
-In each explanation, include the issue, the effect, and the current status. Add the cause if it is known. Write your explanations:
-
-Write each document in its own box.
-:::
+In each explanation, include the issue, the effect, and the current status. Add the cause if it is known.
 
 **Explanation 1**
 
@@ -3512,8 +3133,9 @@ Write each document in its own box.
 **Explanation 2**
 
 {{PH-2: U10-freer-explanation-2 | rows=8}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
@@ -3522,25 +3144,46 @@ There is a problem with the database. We cannot continue some work. Something is
 :::
 
 ::: edit
-Editing Practice: Repair the Problem Logic
+Repair the Problem Logic
 
-Rewrite this explanation so it is clearer and better organized.
+Rewrite this explanation so it is clearer and better organized. Include the issue, effect, and current status.
 
-**Rewrite:**
-
-Write the full corrected version below.
+{{PH-2: U10-editing-rewrite | rows=6}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U10-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your explanations in Activity E and complete the editing practice in Activity F, check your work again:
+
+- [ ] Did I state the issue clearly?
+- [ ] Did I add the cause if it is known?
+- [ ] Did I explain the effect on work or schedule?
+- [ ] Did I tell the reader the current status?
+:::
 
 ::: write
-Transfer Extension: Problem Note for a Manager
+Reflect on This Unit
 
-Choose one problem from your workplace or from an earlier unit. Write a short 5-6 sentence manager update that includes:
+Answer the questions in short notes.
+
+1. What makes a problem explanation clear or unclear?
+2. Which part of the structure is easiest for you?
+3. Which part is most difficult?
+
+{{PH-1: U10-reflection | rows=4}}
+:::
+
+### H. Homework & Extension
+
+::: write
+Problem Note for a Manager
+
+Choose one problem from your workplace or from an earlier unit. Write a short **5-6 sentence** manager update.
+
+Include:
 
 - background
 - issue
@@ -3549,45 +3192,8 @@ Choose one problem from your workplace or from an earlier unit. Write a short 5-
 
 Keep the tone factual and neutral.
 
-Write one sentence on each line where possible.
+{{PH-2: U10-transfer-response | rows=8}}
 :::
-
-**Write Here**
-
-{{PH-2: U10-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Report-Style Description
-
-Write a paragraph (6-8 sentences) describing a problem as part of a formal internal report for your manager or team lead.
-
-Your paragraph should:
-
-- Present the background
-- Explain the issue clearly
-- Describe the effect
-- Lead into the following section of the report
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U10-extended-paragraph | rows=8}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. What makes a problem explanation clear or unclear?
-2. Which part of the structure (background, issue, cause, effect, status) is easiest for you?
-3. Which is the most difficult?
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
@@ -3595,13 +3201,9 @@ Homework Task
 Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
 
 If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U10-homework-document | rows=8}}
+:::
 
 ## Unit 11. Writing Simple Meeting Summaries
 
@@ -3612,32 +3214,17 @@ By the end of this unit, I will be able to:
 - identify the key information that belongs in a meeting summary.
 - write a short meeting summary using clear neutral language.
 - record decisions and next steps from a meeting.
-- write a short report-style section summarizing a meeting.
-
-### A. What Is a Meeting Summary?
-
-::: learn
-Definition
-
-A meeting summary is a **brief record** of important points from a meeting. It:
-
-- Highlights key information
-- Records decisions
-- Notes action items (who will do what)
-- Does *not* include personal opinions or long explanations
-:::
-
-::: example
-Example (Part of a Larger Report)
-
-Meeting Summary - Review Preparation Meeting
-The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
-:::
 
 ### A. Warm-Up
 
+::: learn
+Meeting Summary Basics
+
+A meeting summary is a brief record of important points from a meeting. It highlights key information, records decisions, and notes action items. It does not include personal opinions or long explanations.
+:::
+
 ::: notice
-Warm-Up: Which Summary Is Clearer?
+Which Summary Is Clearer?
 
 Compare the two versions.
 :::
@@ -3659,15 +3246,21 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 ::: learn
 A Useful Meeting Summary
 
-- records only the important points
-- separates decisions from general discussion
-- tells the reader what happens next
+A useful meeting summary records only the important points, separates decisions from general discussion, and tells the reader what happens next.
 :::
 
 ### B. Example Check
 
+::: example
+Meeting Summary Example
+
+Meeting Summary - Review Preparation Meeting
+
+The team discussed the schedule for next week's review. Two documents still require confirmation from the external office. The IT team will prepare access to the shared folder by Monday. A follow-up meeting is planned for Wednesday.
+:::
+
 ::: learn
-Example Check: Why Summary B Works Better
+Why Summary B Works Better
 
 Summary B is stronger because it groups the meeting content by function:
 
@@ -3675,20 +3268,13 @@ Summary B is stronger because it groups the meeting content by function:
 - what issues matter
 - what happens next
 
-Summary A feels weak because it uses vague words like *many things* and *something*.
-:::
-
-::: learn
-Why This Works
-
-A meeting summary is not a story of everything that happened.
-It is a practical record for a reader who needs the important points quickly.
+Summary A feels weak because it uses vague words like many things and something. A meeting summary is not a story of everything that happened; it is a practical record for a reader who needs the important points quickly.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Key Elements of a Meeting Summary
+Key Elements of a Meeting Summary
 
 A clear summary usually includes:
 
@@ -3706,37 +3292,20 @@ A clear summary usually includes:
 - The team will...
 :::
 
-::: learn
-Teaching Point
-
-If you only list discussion points, the reader may not know what matters.
-
-A stronger summary usually shows:
-
-- topic
-- decision or key point
-- next step
-:::
-
 ::: notice
-Practice A: Identify the Elements
+Identify the Elements
 
 Label each sentence with: **T = Topic**, **M = Main point**, **D = Decision**, **A = Action item**.
 
-1. The meeting was held to review the new application guidelines.
-2. The team agreed to extend the internal checking period.
-3. Several unclear sections in the guidelines were identified.
-4. A revised draft will be shared on Friday.
+1. The meeting was held to review the new application guidelines. (____)
+2. The team agreed to extend the internal checking period. (____)
+3. Several unclear sections in the guidelines were identified. (____)
+4. A revised draft will be shared on Friday. (____)
 
-Your answers:
-1.
-2.
-3.
-4.
 :::
 
 ::: rewrite
-Practice B: Improve the Clarity
+Improve the Clarity
 
 Rewrite each summary to make it clearer.
 
@@ -3754,67 +3323,29 @@ Rewrite each summary to make it clearer.
 
 :::
 
-**Write Here**
-
-{{PH-1: U11-practice-b-clarity | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write a Short Meeting Summary
+Write a Short Meeting Summary
 
-Write a short paragraph (4-5 sentences) summarising the meeting.
+Read the meeting notes. Then write a short summary of **4-5 sentences** for a colleague who missed the meeting.
 
-**Situation:** You are sending a short internal summary to a colleague who missed the meeting. The team met to discuss the April schedule. Two tasks need more time. IT must finish a system update before the review. The next meeting is planned for next Tuesday.
+Meeting notes:
 
-Write your summary:
-
-Write one sentence on each line where possible.
-:::
-
-**Write Here**
+- Topic: April schedule
+- Two tasks need more time.
+- IT must finish a system update before the review.
+- The next meeting is planned for next Tuesday.
 
 {{PH-2: U11-guided-paragraph | rows=8}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own summaries, check:
-
-- [ ] Did I name the meeting topic?
-- [ ] Did I include the main point or decision?
-- [ ] Did I add one next step?
-- [ ] Did I remove unnecessary detail?
-:::
-
-### E. Summary Action Check
-
-::: structure
-Action Check
-
-Use this check before drafting so the summary helps the next reader understand both the result and the follow-up.
-
-| Question | Yes / No |
-| --- | --- |
-| Does the opening state what the meeting was for? |  |
-| Is the main issue named clearly? |  |
-| Is there a visible decision or action item? |  |
-| Is the next step or follow-up timing clear? |  |
-
-A useful summary does more than report. It helps the next reader act.
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two Summaries
+Write Two Summaries
 
-Choose two situations and write meeting summaries of **4-5 sentences each**.
-For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
-
-**Options**
+Choose two situations and write meeting summaries of **4-5 sentences each**. For each one, write for a colleague or supervisor who needs a short internal record of the meeting.
 
 A. Discussion about unclear instructions in a new form.
 
@@ -3824,10 +3355,7 @@ C. Review of applicant files before submission.
 
 D. Discussion about solving a system access issue.
 
-Include the topic, the main point or decision, and one next step in each summary. Write your summaries:
-
-Write each document in its own box.
-:::
+Include the topic, the main point or decision, and one next step in each summary.
 
 **Summary 1**
 
@@ -3836,8 +3364,9 @@ Write each document in its own box.
 **Summary 2**
 
 {{PH-2: U11-freer-summary-2 | rows=8}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
@@ -3846,23 +3375,42 @@ We talked about the forms and some schedule issues. IT also said something about
 :::
 
 ::: edit
-Editing Practice: Make the Summary Usable
+Make the Summary Usable
 
 Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
 
-**Rewrite:**
-
-Write the full corrected version below.
+{{PH-2: U11-editing-rewrite | rows=6}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U11-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your summaries in Activity E and complete the editing practice in Activity F, check your work again:
+
+- [ ] Did I name the meeting topic?
+- [ ] Did I include the main point or decision?
+- [ ] Did I add one next step?
+- [ ] Did I remove unnecessary detail?
+:::
+
+::: write
+Reflect on This Unit
+
+Answer the questions in short notes.
+
+1. What part of meeting summaries is easiest for you?
+2. What part is the most difficult?
+3. Which phrase from this unit will you use in your work?
+
+{{PH-1: U11-reflection | rows=4}}
+:::
+
+### H. Homework & Extension
 
 ::: revise
-Transfer Extension: Summary for a Manager
+Summary for a Manager
 
 Choose one summary you wrote in this unit. Rewrite it for a manager by making:
 
@@ -3870,61 +3418,8 @@ Choose one summary you wrote in this unit. Rewrite it for a manager by making:
 - the action item clearer
 - the next step easier to see
 
-Write one sentence on each line where possible.
+{{PH-2: U11-transfer-response | rows=6}}
 :::
-
-**Write Here**
-
-{{PH-2: U11-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Meeting Report Section
-
-Write a 6-8 sentence section for a formal internal report summarising a meeting for your team or manager.
-Include:
-
-- Purpose of the meeting
-- Main points
-- Decisions
-- Next steps
-- Link to the next section of the report
-
-Before you write, decide which sentence will do each job:
-
-- open with the meeting purpose
-- group the key points together
-- separate decisions from discussion
-- end with the action path into the next report section
-
-Mini report frame:
-
-- The meeting was held to confirm ...
-- Staff discussed ...
-- The team decided ...
-- The next stage will ...
-
-Write your report section:
-
-Use this box for one complete version.
-:::
-
-**Write Here**
-
-{{PH-3: U11-extended-document | rows=10}}
-
-### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. What part of meeting summaries is easiest for you?
-2. What part is the most difficult?
-3. Which phrases from this unit will you use in your work?
-:::
-
-### H. Homework
 
 ::: write
 Homework Task
@@ -3932,11 +3427,9 @@ Homework Task
 Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
 
 If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
-:::
-
-**Homework Draft**
 
 {{PH-2: U11-homework-paragraph | rows=8}}
+:::
 
 ## Module 3 Review Workshop
 
@@ -3993,14 +3486,6 @@ Improve the Internal Notice
 Rewrite the weak notice so it names the change, gives the reason, and tells the reader what action to take.
 
 {{PH-2: M3-revision-lab-notice | rows=6}}
-:::
-
-::: example-good
-Possible Stronger Version
-
-The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
-
-This version is stronger because the change is named clearly, the reason is specific, the reader action is visible, and the time frame is easy to understand.
 :::
 
 ### Self-Edit Routine

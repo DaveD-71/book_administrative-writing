@@ -2167,3 +2167,17 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave checked `int/md/final/modules` and noted that the final module baseline uses `H. Homework & Extension`, while the repaired working manuscript had drifted into `Transfer Extension` / `Transfer and Homework`.
 - Action: updated Units 1-7 to use `### H. Homework & Extension`; restored a clear Unit 7 `Homework Task` with its own placeholder; updated the Unit 1-7 answer-key H headings and Unit 7 homework guidance; updated the repair plan so `transfer` is treated as a pedagogical function rather than the visible H label.
 - Verification pending: run full source audits after the current Phase 3 edit batch is complete.
+
+## 2026-06-03T16:26:09.4283299+09:00 - INT Module 3 Phase 3 Review Completed
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 8-11 and Module 3 Review Workshop.
+- Trigger: Dave requested a module-wide review against the Phase 3 repair plan and current project-memory standards from Modules 1-2.
+- Action: reviewed Module 3 source structure, activity language, placeholder placement, answer-key coverage, and review-workshop spoiler risk.
+- Outcome: created int/edits & guides/full-review/print-readiness-audits/phase3_module3_repair_recommendations.md. Module 3 is confirmed unrepaired: Units 8-11 still need A-H normalization, duplicate-H consolidation to H. Homework & Extension, placeholder movement inside divs, generic label removal, task-language consolidation, and answer-key updates.
+
+## 2026-06-03T16:42:10.4295704+09:00 - INT Module 3 Phase 3 Repair Applied
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 8-11, Module 3 Review Workshop, int/md/working/aw-int-answer-key.md, and Module 3 audit notes.
+- Trigger: Dave asked to update the Markdown source with the Module 3 Phase 3 recommendations.
+- Action: normalized Units 8-11 to ABCDEFGH, consolidated duplicate concept-primer A sections, replaced obsolete F. Self-Check Before Freer Practice and split H sections, removed generic response labels, moved Module 3 placeholders inside divs, consolidated redundant support blocks, removed the Module 3 review-workshop spoiler model from the student book, and updated the answer key.
+- Verification: Unit 8-11 sequences are ABCDEFGH; Module 3 divs are balanced at 82/82; Module 3 placeholders total 64 with 0 outside divs; whole-manuscript divs are balanced at 520/520; placeholder IDs total 404 with 0 duplicates; stale Module 3 label scan passed; Pandoc parse with ..\textmaker\scripts\style_bridge.lua passed.

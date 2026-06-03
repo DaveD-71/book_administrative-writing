@@ -640,7 +640,7 @@ Key improvements:
 Version B uses numbered steps with one clear action each. Version A mixes instructions, conditions, and explanatory notes in a single step, making the order hard to follow.
 
 
-##### C. Practice A — Improve the Verb Choice
+##### C. Language — Improve the Verb Choice
 
 1. Review the file and confirm all sections are complete.
 2. Enter the applicant's name in the system.
@@ -648,7 +648,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 4. Submit the form to the designated department.
 
 
-##### C. Practice B — Put the Steps in Order
+##### C. Language — Put the Steps in Order
 
 **Best order: A → D → C → B**
 
@@ -685,7 +685,12 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 5. Confirm the document appears correctly in the folder and is accessible to team members.
 
 
-##### G. Editing Practice — Repair the Procedure
+##### E. Freer Practice — Write a Workplace Procedure
+
+Open-ended. A successful response should include 4-6 numbered steps, a clear user or context, one action per step, and a logical order.
+
+
+##### F. Editing Practice — Repair the Procedure
 
 **Original:**
 1. Check the file and maybe look at the applicant number too because this is important.
@@ -700,6 +705,16 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 5. Submit the file to the next department.
 
 
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify one useful instruction verb and one clear step from their own procedure.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should include a short manual-style section or workplace procedure with a clear user, numbered steps, and a closing sentence or end point.
+
+
 #### Unit 9. Internal Notices
 
 ##### A. Warm-Up — Which Notice Is Clearer?
@@ -709,7 +724,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 Notice B has a clear heading, explains what happened, states current status, and gives a next step. Notice A is vague and leaves the reader without useful information.
 
 
-##### C. Practice A — Identify the Parts
+##### C. Language — Identify the Parts
 
 1. **E** (Essential information — the review date)
 2. **H** (Heading)
@@ -717,12 +732,17 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. **N** (Next step)
 
 
-##### C. Language 2 — Rewrite to Make Them Neutral
+##### C. Language — Rewrite These to Make Them Neutral
 
 1. A delay has occurred in the review process. The team has been informed of the updated timeline.
 2. All staff are reminded to check the updated files before the end of the business day.
 3. The system is currently showing a temporary error. The issue is under investigation by the IT team.
 4. The meeting scheduled for this afternoon has been cancelled. A replacement date will be confirmed shortly.
+
+
+##### C. Language — Improve the Clarity
+
+Open-ended. A successful response should add a real topic, a key fact, and an effect or next step.
 
 
 ##### D. Guided Practice — Write a Short Internal Notice
@@ -736,7 +756,12 @@ Notice B has a clear heading, explains what happened, states current status, and
 > The file management system will undergo scheduled maintenance this weekend, from Saturday evening to Sunday morning. During this period, access to shared folders and the review database will be temporarily unavailable. Staff are advised to save all current work before Friday end of day. Normal system access will resume on Monday morning. Further information will be provided if the schedule changes.
 
 
-##### G. Editing Practice — Strengthen the Notice
+##### E. Freer Practice — Write Two Notices
+
+Open-ended. Each notice should have a clear heading, short background, essential information, and a neutral next-step line.
+
+
+##### F. Editing Practice — Strengthen the Notice
 
 **Original:**
 > Notice
@@ -749,6 +774,16 @@ Notice B has a clear heading, explains what happened, states current status, and
 > A temporary issue has been identified with the file access system this morning. Some shared documents may be unavailable or difficult to open. The IT team is currently investigating the cause. An update will be provided once the issue is resolved. Staff are advised to save all work locally until normal access is restored.
 
 
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify which part of the notice structure is most difficult and compare the clarity of their Activity E notices.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should follow the notice structure from the unit. The extension response may expand a short notice into a fuller bulletin-style paragraph by adding background, impact, and a next step.
+
+
 #### Unit 10. Explaining Problems Clearly
 
 ##### A. Warm-Up — Identify the Missing Information
@@ -759,7 +794,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. "We cannot access the document." — _Which document? Since when? Why?_
 
 
-##### C. Practice A — Improve the Explanation
+##### C. Language — Improve the Explanation
 
 1. The uploaded file cannot be reviewed because two required sections are missing. The review will continue once the corrected version is received.
 2. The system is responding slowly due to a high volume of requests this morning. Access is expected to return to normal by early afternoon.
@@ -767,7 +802,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. The information in the document does not match the previous version on file. The discrepancy needs to be resolved before the review can continue.
 
 
-##### C. Practice B — Add Details
+##### C. Language — Add Details
 
 1. The application cannot be opened. / _The file appears to be in an unsupported format._ / _The IT team has been notified, and the applicant has been asked to resubmit._
 2. The review is delayed. / _Two supporting documents are still missing from the applicant file._ / _The review can continue once the missing items are uploaded._
@@ -783,13 +818,28 @@ Notice B has a clear heading, explains what happened, states current status, and
 > We are reporting a system error that has affected file access since early this morning. Reviewers are currently unable to open files in the shared review folder. The error appears to be related to yesterday's server update. As a result, the review scheduled for today has been temporarily suspended. The IT team is currently working to resolve the issue, and we will provide an update as soon as normal access is restored.
 
 
-##### G. Editing Practice — Repair the Problem Logic
+##### E. Freer Practice — Write Two Problem Explanations
+
+Open-ended. Each explanation should include the issue, effect, current status, and cause if known.
+
+
+##### F. Editing Practice — Repair the Problem Logic
 
 **Original:** "There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later."
 
 **Model rewrite:**
 
 > A technical issue has been identified with the database this morning. As a result, the review process has been temporarily suspended. We also found that some uploaded files are displaying errors that prevent normal access. The IT team is currently investigating the problem and will provide an update shortly.
+
+
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify which part of the problem-explanation structure is easiest and which is most difficult.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should describe a problem in neutral language and include background or context, issue, effect, and current status.
 
 
 #### Unit 11. Writing Simple Meeting Summaries
@@ -801,7 +851,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 Summary B names specific items (applicant list, updated guidelines), gives a clear decision (IT confirms on Monday), and provides the next meeting date.
 
 
-##### C. Practice A — Identify the Elements
+##### C. Language — Identify the Elements
 
 1. **T** (Topic — what the meeting was for)
 2. **D** (Decision — what the team agreed to)
@@ -809,7 +859,7 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 4. **A** (Action item — what will happen)
 
 
-##### C. Practice B — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. The team reviewed the document set during the review preparation meeting. The IT team will confirm system access before Monday.
 2. The meeting covered three areas: scheduling, document review, and IT access. The main decision was to extend the review period by two weeks. A follow-up meeting is planned to confirm next steps.
@@ -825,7 +875,12 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 > The team met today to review the April schedule. Two tasks require additional time and will not be completed within the original timeline. The IT team must complete a system update before the review can begin. A follow-up meeting has been scheduled for next Tuesday. Further updates will be provided once the IT update is confirmed.
 
 
-##### G. Editing Practice — Make the Summary Usable
+##### E. Freer Practice — Write Two Summaries
+
+Open-ended. Each summary should include the topic, the main point or decision, and one next step.
+
+
+##### F. Editing Practice — Make the Summary Usable
 
 **Original:** "We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later."
 
@@ -834,11 +889,25 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 > The team met to discuss the review schedule and outstanding document issues. The main finding was that two forms still require additional confirmation. The IT team confirmed that system access for the review will be ready by Monday. A follow-up meeting is planned for later this week to finalise the preparation checklist.
 
 
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify the easiest and most difficult parts of summary writing and choose one useful phrase from the unit.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should record the meeting topic, main point or decision, and next step. The manager version should make the key point and action item more direct.
+
+
 #### Module 3 Review Workshop
 
 **Reader-Purpose Comparison / Review Response:** Version B is stronger. It names the meeting purpose, identifies the main issue, gives the agreed action, and explains when a follow-up meeting will be needed. Version A is weak because it lists general topics without helping the reader act. A successful student response should mention reader purpose, order, and next action.
 
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+**Revision Lab model answer:**
+
+> The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
+
+Key improvements:
 
 - Named the exact room change.
 - Gave the reason for the change.
