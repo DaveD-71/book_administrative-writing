@@ -15,6 +15,10 @@ style_map:
   example: "Div Label Example"
   example-good: "Div Label Example Good"
   example-bad: "Div Label Example Bad"
+div_content_style_map:
+  example: "AW Example"
+  example-good: "AW Example Good"
+  example-bad: "AW Example Bad"
 ---
 
 # Administrative Writing, Advanced
@@ -81,13 +85,13 @@ Below are two versions of an excerpt from an internal explanation memo.
 ::: example-bad
 Original Text
 
-*"Because we were unable to verify the applicant's supporting documents during the initial review, and since the translation submitted last week contained several inconsistencies that require clarification, we will need to request an updated version; however, before doing so, we must confirm internally whether the missing information is essential for the current stage of examination. Additionally, the team noted that some details may have been omitted unintentionally, which could affect the accuracy of further processing if not corrected promptly."*
+"Because we were unable to verify the applicant's supporting documents during the initial review, and since the translation submitted last week contained several inconsistencies that require clarification, we will need to request an updated version; however, before doing so, we must confirm internally whether the missing information is essential for the current stage of examination. Additionally, the team noted that some details may have been omitted unintentionally, which could affect the accuracy of further processing if not corrected promptly."
 :::
 
 ::: example-good
 Revised Text
 
-*"We were unable to verify the applicant's supporting documents during the initial review. The translation submitted last week contained several inconsistencies that require clarification, so we will request an updated version. Before doing so, we will confirm internally whether the missing information is essential at this stage. The team has also noted that some details may have been omitted unintentionally; if left uncorrected, this could affect the accuracy of further processing."*
+"We were unable to verify the applicant's supporting documents during the initial review. The translation submitted last week contained several inconsistencies that require clarification, so we will request an updated version. Before doing so, we will confirm internally whether the missing information is essential at this stage. The team has also noted that some details may have been omitted unintentionally; if left uncorrected, this could affect the accuracy of further processing."
 :::
 
 ::: notice
@@ -395,13 +399,13 @@ Write your responses before continuing.
 ::: example-bad
 Original Text
 
-*"You submitted the wrong document. Please resend the correct version. We cannot continue the review until you fix this."*
+"You submitted the wrong document. Please resend the correct version. We cannot continue the review until you fix this."
 :::
 
 ::: example-good
 Revised Text
 
-*"It appears that the submitted document may not match the version required for this stage. To ensure accuracy in our review, we would appreciate it if you could confirm whether an updated file is available. Once received, we will be able to proceed with the next steps of the examination."*
+"It appears that the submitted document may not match the version required for this stage. To ensure accuracy in our review, we would appreciate it if you could confirm whether an updated file is available. Once received, we will be able to proceed with the next steps of the examination."
 :::
 
 ::: notice
@@ -521,9 +525,9 @@ Worked Example
 
 | Label | Details |
 | --- | --- |
-| Internal | *Could you send the corrected file today?* |
-| Interagency | *Could you confirm whether an updated file is available for this case?* |
-| Foreign office | *We would appreciate it if you could confirm whether an updated file is available at your earliest convenience.* |
+| Internal | Could you send the corrected file today? |
+| Interagency | Could you confirm whether an updated file is available for this case? |
+| Foreign office | We would appreciate it if you could confirm whether an updated file is available at your earliest convenience. |
 
 The core request stays the same, but the amount of softening and explicit reader support increases as the relationship becomes more formal or distant.
 :::
@@ -724,13 +728,13 @@ After sorting, discuss: What specific features make the cohesive examples easier
 ::: example-bad
 Original Text
 
-*"The meeting was productive. Several issues were raised. The guidelines were unclear. The participants wanted clarification. We must revise the document."*
+"The meeting was productive. Several issues were raised. The guidelines were unclear. The participants wanted clarification. We must revise the document."
 :::
 
 ::: example-good
 Revised Text
 
-*"The meeting was productive, but several issues were raised regarding the clarity of the guidelines. Because participants requested further clarification, the team agreed that the document requires revision. The next step will be to prepare a revised draft reflecting the discussion."*
+"The meeting was productive, but several issues were raised regarding the clarity of the guidelines. Because participants requested further clarification, the team agreed that the document requires revision. The next step will be to prepare a revised draft reflecting the discussion."
 :::
 
 ::: notice
@@ -1007,7 +1011,7 @@ Read the following email. Identify what is missing or unclear — and explain wh
 ::: example
 Example Text
 
-*"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
+"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."
 :::
 
 Consider:
@@ -1025,21 +1029,21 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."*
+"Hi, we saw your message. Can you send the other file? Also, the translation had some issues so please check that too. By the way, we need to finish the review soon."
 :::
 
 ::: example-good
 Revised Text: Executive-Level Summary
 
-*Thank you for your message.*
+Thank you for your message.
 
-*We are writing to confirm whether the updated file is available, as the version received may not reflect the latest corrections.*
+We are writing to confirm whether the updated file is available, as the version received may not reflect the latest corrections.
 
-*In addition, our team noted several inconsistencies in the translation.*
+In addition, our team noted several inconsistencies in the translation.
 
-*We would appreciate your review of these points.*
+We would appreciate your review of these points.
 
-*Once the updated materials are received, we will proceed with the remaining steps of the review.*
+Once the updated materials are received, we will proceed with the remaining steps of the review.
 :::
 
 Compare the two versions. Identify differences in:
@@ -1094,13 +1098,13 @@ High-level professional emails typically follow this sequence:
 ::: example-good
 Worked Example
 
-*Thank you for your message regarding the revised file.*
+Thank you for your message regarding the revised file.
 
-*We are writing to confirm whether the version received includes the latest terminology updates. Our team noted two terms that may differ from the version currently on record.*
+We are writing to confirm whether the version received includes the latest terminology updates. Our team noted two terms that may differ from the version currently on record.
 
-*We would appreciate it if you could confirm which version should be treated as final.*
+We would appreciate it if you could confirm which version should be treated as final.
 
-*Once confirmed, we will update our internal records and proceed with the review.*
+Once confirmed, we will update our internal records and proceed with the review.
 :::
 
 Notice how each sentence performs one clear function: opening, purpose, explanation, request, then next step.
@@ -1250,7 +1254,7 @@ The following email has structural and tone problems. Rewrite it as a clear, pro
 ::: example-bad
 Original Text: Weak Response
 
-*"We saw your message. Please send the corrected file. We also need you to check the translation. We want to finish the review soon."*
+"We saw your message. Please send the corrected file. We also need you to check the translation. We want to finish the review soon."
 :::
 
 Your rewrite must add: context, a clear explanation for each request, appropriate sequencing, diplomatic tone, and a next-step statement.
@@ -1315,7 +1319,7 @@ Read the following clarification request. Identify the specific problems that wo
 ::: example
 Example Text
 
-*"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
+"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"
 :::
 
 Consider:
@@ -1333,21 +1337,21 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"*
+"We have some questions about the document. Can you explain the parts that are unclear? Also, is the date correct?"
 :::
 
 ::: example-good
 Revised Text: Strong Response
 
-*Thank you for sharing the revised document.*
+Thank you for sharing the revised document.
 
-*For our confirmation, we are writing to request clarification on two points.*
+For our confirmation, we are writing to request clarification on two points.
 
-*First, in Section 2.3, the date listed appears to differ from the timeline provided in Annex A. Second, the term 'applicant request' is used in several places.*
+First, in Section 2.3, the date listed appears to differ from the timeline provided in Annex A. Second, the term 'applicant request' is used in several places.
 
-*Could you confirm which date is correct, and clarify whether 'applicant request' refers specifically to written submissions or includes verbal requests as well?*
+Could you confirm which date is correct, and clarify whether 'applicant request' refers specifically to written submissions or includes verbal requests as well?
 
-*Once confirmed, we will proceed with updating our internal records.*
+Once confirmed, we will proceed with updating our internal records.
 :::
 
 Identify differences in:
@@ -1458,7 +1462,7 @@ Keep this phrase bank for reference throughout the module.
 ::: example-good
 Worked Example
 
-*For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.*
+For our confirmation, we would appreciate clarification on two points in the revised report. First, in Section 4.2, could you confirm whether the timeline should match the date listed in Annex B? Second, the term "processing date" in Annex C appears to be used differently from the wording in Section 2.1; could you clarify which usage should be followed? Once confirmed, we will update our internal guidance and proceed with the review.
 :::
 
 This example works because each question is tied to a specific reference, each point asks for one answerable clarification, and the next step shows why the reply matters.
@@ -1637,19 +1641,19 @@ Read the two messages below. Without any explanation yet, identify what makes th
 ::: example
 Example Text
 
-*"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
+"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."
 :::
 
 ::: example
 Example Text
 
-*Thank you for sharing the updated document.*
+Thank you for sharing the updated document.
 
-*Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July.*
+Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July.
 
-*For consistency, we would appreciate it if you could confirm whether the dates should be updated.*
+For consistency, we would appreciate it if you could confirm whether the dates should be updated.
 
-*Once clarified, we will be able to proceed with the remaining steps in the review.*
+Once clarified, we will be able to proceed with the remaining steps in the review.
 :::
 
 Discuss:
@@ -1667,19 +1671,19 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."*
+"The timeline in your document is wrong. You didn't follow the updated instructions. Please correct it immediately so we can continue."
 :::
 
 ::: example-good
 Revised Text
 
-*Thank you for sharing the updated document.*
+Thank you for sharing the updated document.
 
-*Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July.*
+Upon review, it appears that the timeline in Section 3 may differ from the revised instructions circulated on 12 July.
 
-*For consistency, we would appreciate it if you could confirm whether the dates should be updated.*
+For consistency, we would appreciate it if you could confirm whether the dates should be updated.
 
-*Once clarified, we will be able to proceed with the remaining steps in the review.*
+Once clarified, we will be able to proceed with the remaining steps in the review.
 :::
 
 Compare the two versions. Identify improvements in:
@@ -1708,7 +1712,7 @@ Read the improved version again with the annotations below. For each annotation,
 ::: example
 Example Text
 
-*"Thank you for sharing the updated document."*
+"Thank you for sharing the updated document."
 :::
 
 ::: learn
@@ -1720,7 +1724,7 @@ Opens by acknowledging the reader's action rather than immediately raising the p
 ::: example
 Example Text
 
-*"Upon review, it appears that the timeline in Section 3 may differ…"*
+"Upon review, it appears that the timeline in Section 3 may differ…"
 :::
 
 ::: learn
@@ -1732,7 +1736,7 @@ Annotation:
 ::: example
 Example Text
 
-*"…from the revised instructions circulated on 12 July."*
+"…from the revised instructions circulated on 12 July."
 :::
 
 ::: learn
@@ -1744,7 +1748,7 @@ Specific reference to a date and a document type adds credibility and gives the 
 ::: example
 Example Text
 
-*"For consistency, we would appreciate it if you could confirm…"*
+"For consistency, we would appreciate it if you could confirm…"
 :::
 
 ::: learn
@@ -1756,7 +1760,7 @@ The request is framed around a shared professional goal ("consistency") rather t
 ::: example
 Example Text
 
-*"…that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm…"*
+"…that the timeline in Section 3 may differ from the revised instructions circulated on 12 July. For consistency, we would appreciate it if you could confirm…"
 :::
 
 ::: learn
@@ -1768,7 +1772,7 @@ The message keeps three functions separate: it identifies the issue first, then 
 ::: example
 Example Text
 
-*"Once clarified, we will be able to proceed…"*
+"Once clarified, we will be able to proceed…"
 :::
 
 ::: learn
@@ -1832,8 +1836,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Direct | *You used the wrong date in Section 3, and this has delayed our work.* |
-| Diplomatic | *Upon review, it appears that the date in Section 3 may differ from the revised timeline circulated on 12 July. To ensure consistency in the next stage of processing, we would appreciate your confirmation of the correct date.* |
+| Direct | You used the wrong date in Section 3, and this has delayed our work. |
+| Diplomatic | Upon review, it appears that the date in Section 3 may differ from the revised timeline circulated on 12 July. To ensure consistency in the next stage of processing, we would appreciate your confirmation of the correct date. |
 
 The revised version removes accusation, adds a specific reference, and explains the impact in neutral terms.
 :::
@@ -2030,21 +2034,21 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Please check the translation, send the corrected file, and confirm the date. We need everything as soon as possible."*
+"Please check the translation, send the corrected file, and confirm the date. We need everything as soon as possible."
 :::
 
 ::: example-good
 Revised Text
 
-*To proceed with the review, we would appreciate your support with the following points.*
+To proceed with the review, we would appreciate your support with the following points.
 
-*First, could you confirm whether the date in Section 2.1 should align with the revision issued on 3 August?*
+First, could you confirm whether the date in Section 2.1 should align with the revision issued on 3 August?
 
-*Once confirmed, we would be grateful if you could review the attached translation for consistency.*
+Once confirmed, we would be grateful if you could review the attached translation for consistency.
 
-*Finally, if an updated version of the file is available, kindly share it at your convenience.*
+Finally, if an updated version of the file is available, kindly share it at your convenience.
 
-*These steps will allow us to complete the review accurately.*
+These steps will allow us to complete the review accurately.
 :::
 
 Identify differences in:
@@ -2109,7 +2113,7 @@ Read the paragraph below. It contains all the necessary information, but the req
 ::: example
 Example Text
 
-*"We need to sort out a few things before we can move forward. The terminology in the document needs to be checked. Also, the timeline should be confirmed — we're not sure which date is correct. The translated version also needs a review, but we can't start that until we know which terms are being used. Once everything is clear, we can update the file and proceed."*
+"We need to sort out a few things before we can move forward. The terminology in the document needs to be checked. Also, the timeline should be confirmed — we're not sure which date is correct. The translated version also needs a review, but we can't start that until we know which terms are being used. Once everything is clear, we can update the file and proceed."
 :::
 
 ::: rewrite
@@ -2128,8 +2132,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Unsequenced | *Please confirm the date, review the terminology, and send the updated file.* |
-| Sequenced | *As a first step, could you confirm whether the date in Section 2 should match the revision issued on 3 August? Once this point is confirmed, we would appreciate your review of the terminology used in the attached translation. Finally, if an updated file is available, kindly share it so that we can complete the review accurately.* |
+| Unsequenced | Please confirm the date, review the terminology, and send the updated file. |
+| Sequenced | As a first step, could you confirm whether the date in Section 2 should match the revision issued on 3 August? Once this point is confirmed, we would appreciate your review of the terminology used in the attached translation. Finally, if an updated file is available, kindly share it so that we can complete the review accurately. |
 
 The second version is easier to follow because the order, dependency, and reason for the sequence are made explicit.
 :::
@@ -2234,7 +2238,7 @@ Rewrite the following message. It contains unsequenced requests, missing depende
 ::: example
 Example Text
 
-*"We need you to correct the dates, confirm which version is valid, and fix the terminology. Then we can proceed."*
+"We need you to correct the dates, confirm which version is valid, and fix the terminology. Then we can proceed."
 :::
 
 Revise the text above and write the full corrected version below.
@@ -2313,7 +2317,7 @@ Read the following internal procedure notice.
 ::: example-good
 Worked Example
 
-*Office Circular — Document Verification Procedure (Revised)*
+Office Circular — Document Verification Procedure (Revised)
 
 All submissions received after 1 October must be processed according to the updated verification procedure. Staff should first check that all required fields in the submission form are complete. If any information is missing, a standard request for additional information should be sent to the submitting office within two working days. Once all materials are confirmed as complete, the file should be forwarded to the reviewing officer. If the reviewing officer identifies any inconsistency, the file is to be returned to the originating office with a written explanation. Files confirmed as accurate may proceed to the approval stage. Processing times may vary depending on submission volume.
 :::
@@ -2334,7 +2338,7 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Review the application and update the record. If the applicant submitted a revision, confirm the changes. Send notification. Check if the timeline should be updated. Follow the guidelines."*
+"Review the application and update the record. If the applicant submitted a revision, confirm the changes. Send notification. Check if the timeline should be updated. Follow the guidelines."
 :::
 
 ::: example-good
@@ -2428,8 +2432,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Vague instruction | *Check the file and do the update.* |
-| Procedural instruction | *Examine the file for missing information, then update the internal record to reflect any confirmed changes.* |
+| Vague instruction | Check the file and do the update. |
+| Procedural instruction | Examine the file for missing information, then update the internal record to reflect any confirmed changes. |
 
 The revised version works better because the actions are separated, the verbs are precise, and the order is explicit.
 :::
@@ -2468,7 +2472,7 @@ Reorganise the information into a clearly numbered, logically sequenced procedur
 ::: example
 Example Text
 
-*"Once the form has been reviewed and any outstanding queries resolved, the file can proceed to the approvals stage. Before that, however, staff must check that all supporting documents have been received. The form itself should be reviewed within three working days of receipt. Any queries should be sent to the originating office in writing. After approval, a confirmation is sent to the applicant and the record is closed."*
+"Once the form has been reviewed and any outstanding queries resolved, the file can proceed to the approvals stage. Before that, however, staff must check that all supporting documents have been received. The form itself should be reviewed within three working days of receipt. Any queries should be sent to the originating office in writing. After approval, a confirmation is sent to the applicant and the record is closed."
 :::
 
 Use this space for your first full draft.
@@ -2536,7 +2540,7 @@ The following draft procedure has several problems. Working in pairs (or indepen
 ::: example
 Example Text
 
-*"First of all, check the document carefully and if something is not right, maybe ask a colleague to have a look too. After you've done that, send whatever reply seems right to the applicant. You also need to update the record at some stage — probably before or after the reply, depending on the situation. Make sure guidelines are being followed somehow. If there are problems, deal with them."*
+"First of all, check the document carefully and if something is not right, maybe ask a colleague to have a look too. After you've done that, send whatever reply seems right to the applicant. You also need to update the record at some stage — probably before or after the reply, depending on the situation. Make sure guidelines are being followed somehow. If there are problems, deal with them."
 :::
 
 Issues to look for:
@@ -2634,19 +2638,19 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"The instructions have changed. Make sure to follow the new steps and use the updated form. The previous version is no longer valid."*
+"The instructions have changed. Make sure to follow the new steps and use the updated form. The previous version is no longer valid."
 :::
 
 ::: example-good
 Revised Text
 
-*Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November.*
+Please note that the procedure for reviewing applicant submissions has been updated, effective 1 November.
 
-*The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability.*
+The revised process now requires sign-off from one reviewing officer at the initial stage, replacing the previous requirement for dual sign-off. This change has been introduced to reduce processing time and to reflect updated guidelines on internal accountability.
 
-*We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice.*
+We would appreciate it if all staff could begin applying the revised procedure from the effective date and discontinue use of the previous sign-off form. An updated version of the form is attached to this notice.
 
-*Should any questions arise regarding the transition, please do not hesitate to contact our office.*
+Should any questions arise regarding the transition, please do not hesitate to contact our office.
 
 :::
 
@@ -2712,8 +2716,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Bare announcement | *Staff should use the updated form.* |
-| Expanded change message | *From 1 December, staff should use the updated form in place of the previous version circulated in September. The revised form includes a separate section for multi-stage submissions, which will reduce the need for follow-up clarification during review.* |
+| Bare announcement | Staff should use the updated form. |
+| Expanded change message | From 1 December, staff should use the updated form in place of the previous version circulated in September. The revised form includes a separate section for multi-stage submissions, which will reduce the need for follow-up clarification during review. |
 
 The expanded version tells the reader when to act, what has changed, and why the change is useful.
 :::
@@ -2832,7 +2836,7 @@ The following change notification has multiple problems. Working in pairs (or in
 ::: example
 Example Text
 
-*"We changed the system. Please use the new rules from now on. The old form doesn't work anymore so stop using it. We decided this was better because of various reasons. If you're confused, ask someone. The new form is somewhere on the shared drive."*
+"We changed the system. Please use the new rules from now on. The old form doesn't work anymore so stop using it. We decided this was better because of various reasons. If you're confused, ask someone. The new form is somewhere on the shared drive."
 :::
 
 Issues to look for:
@@ -2906,7 +2910,7 @@ Read the following explanation.
 ::: example
 Example Text
 
-*"The review is delayed because many things are unclear and we need more information. It is difficult to continue in this situation and we hope to have more clarity soon."*
+"The review is delayed because many things are unclear and we need more information. It is difficult to continue in this situation and we hope to have more clarity soon."
 :::
 
 Answer the following questions:
@@ -2925,13 +2929,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"The report was delayed because there were problems with the data and also the instructions were confusing. We need more time to finish it."*
+"The report was delayed because there were problems with the data and also the instructions were confusing. We need more time to finish it."
 :::
 
 ::: example-good
 Revised Text
 
-*"The completion of the report has been delayed due to two main factors. First, discrepancies were identified in the applicant data submitted by the coordinating office, requiring additional verification before analysis can proceed. Second, the updated instructions issued on 3 October contain several ambiguous points — in particular, the definition of 'response period' appears to be used inconsistently across sections. Both issues are currently being addressed. Once these are resolved, we anticipate being able to finalise the report within five working days."*
+"The completion of the report has been delayed due to two main factors. First, discrepancies were identified in the applicant data submitted by the coordinating office, requiring additional verification before analysis can proceed. Second, the updated instructions issued on 3 October contain several ambiguous points — in particular, the definition of 'response period' appears to be used inconsistently across sections. Both issues are currently being addressed. Once these are resolved, we anticipate being able to finalise the report within five working days."
 
 :::
 
@@ -3008,8 +3012,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Overgeneralised | *The instructions are unclear and this is causing problems.* |
-| Clear explanation | *The updated instructions in Section 4 use the term "response period" in two different ways, which means the review team cannot confirm which deadline should apply to the current file.* |
+| Overgeneralised | The instructions are unclear and this is causing problems. |
+| Clear explanation | The updated instructions in Section 4 use the term "response period" in two different ways, which means the review team cannot confirm which deadline should apply to the current file. |
 
 The clearer version keeps the issue specific, shows why it matters, and gives the reader something concrete to act on.
 :::
@@ -3118,7 +3122,7 @@ Rewrite the following explanation. It contains all the necessary information, bu
 ::: example
 Example Text
 
-*"There are many problems, so we cannot continue. Please fix everything first. The data is not right and also the instructions are confusing which is making things very difficult for our team. We hope this can be resolved quickly."*
+"There are many problems, so we cannot continue. Please fix everything first. The data is not right and also the instructions are confusing which is making things very difficult for our team. We hope this can be resolved quickly."
 :::
 
 Your revised version must:
@@ -3188,7 +3192,7 @@ Read the following meeting summary.
 ::: example
 Example Text
 
-*"We had a meeting. People shared their opinions. Some things were discussed and there were different views. We will meet again later to continue."*
+"We had a meeting. People shared their opinions. Some things were discussed and there were different views. We will meet again later to continue."
 :::
 
 Answer the following questions:
@@ -3206,7 +3210,7 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"The meeting was held on Monday. People discussed the guideline revisions and some offices had concerns. We decided to continue the discussion later."*
+"The meeting was held on Monday. People discussed the guideline revisions and some offices had concerns. We decided to continue the discussion later."
 :::
 
 ::: example-good
@@ -3303,7 +3307,7 @@ Do not add information that is not in the original — focus on reorganising and
 ::: example
 Example Text
 
-*"The meeting on 5 November brought together representatives from Offices A, B, and C. Most of the time was spent discussing the new reporting template. Office B said the template doesn't include a section for multi-stage submissions. Office C agreed and said this causes problems when summarising complex cases. Everyone agreed that the template needs to be revised before it is rolled out. Office A said they would prepare a revised draft. This should be ready by 12 November. The group will look at the draft at the next meeting, which is scheduled for 15 November."*
+"The meeting on 5 November brought together representatives from Offices A, B, and C. Most of the time was spent discussing the new reporting template. Office B said the template doesn't include a section for multi-stage submissions. Office C agreed and said this causes problems when summarising complex cases. Everyone agreed that the template needs to be revised before it is rolled out. Office A said they would prepare a revised draft. This should be ready by 12 November. The group will look at the draft at the next meeting, which is scheduled for 15 November."
 :::
 
 ::: example-good
@@ -3311,8 +3315,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Meeting-note wording | *Everyone agreed that the template needs to be revised before it is rolled out.* |
-| Executive-summary wording | *The group agreed that the reporting template requires revision before implementation.* |
+| Meeting-note wording | Everyone agreed that the template needs to be revised before it is rolled out. |
+| Executive-summary wording | The group agreed that the reporting template requires revision before implementation. |
 
 The executive-summary version removes conversational narrative and foregrounds the decision itself.
 :::
@@ -3432,7 +3436,7 @@ The following executive summary draft has multiple problems. Working in pairs (o
 ::: example
 Example Text
 
-*"People talked about some issues and we decided to check things again next week. Some offices had opinions and there were some disagreements. The meeting was not very productive but we did agree on one thing. Someone is going to look into the problem with the form. There was also a question about deadlines that nobody really answered. We'll sort it out at the next meeting probably."*
+"People talked about some issues and we decided to check things again next week. Some offices had opinions and there were some disagreements. The meeting was not very productive but we did agree on one thing. Someone is going to look into the problem with the form. There was also a question about deadlines that nobody really answered. We'll sort it out at the next meeting probably."
 :::
 
 Issues to look for:
@@ -3523,19 +3527,19 @@ Read the following external inquiry, then answer the questions below.
 ::: example
 Example Text
 
-*Subject: Request for Clarification — Application Reference 2024/1147*
+Subject: Request for Clarification — Application Reference 2024/1147
 
-*Dear Colleagues,*
+Dear Colleagues,
 
-*We are writing to request clarification regarding the current status of application reference 2024/1147. Our office submitted the revised supporting documents on 14 January; however, we have not yet received confirmation that these have been received and reviewed.*
+We are writing to request clarification regarding the current status of application reference 2024/1147. Our office submitted the revised supporting documents on 14 January; however, we have not yet received confirmation that these have been received and reviewed.
 
-*Could you advise whether the submitted documents have been accepted, and whether any further materials are required at this stage? If there are outstanding items, we would appreciate a list so that we can act promptly. We would also be grateful for an estimated timeframe for the next stage of processing, as our internal review is scheduled for late February.*
+Could you advise whether the submitted documents have been accepted, and whether any further materials are required at this stage? If there are outstanding items, we would appreciate a list so that we can act promptly. We would also be grateful for an estimated timeframe for the next stage of processing, as our internal review is scheduled for late February.
 
-*Please do not hesitate to contact us should any queries arise on your side. We look forward to your response.*
+Please do not hesitate to contact us should any queries arise on your side. We look forward to your response.
 
-*Kind regards,*
+Kind regards,
 
-*Name, Coordination Office*
+Name, Coordination Office
 :::
 
 1. What background context does the writer provide, and why is it important?
@@ -3552,17 +3556,17 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We want to know what is going on with the applicant. Please explain what is happening and send us the correct information."*
+"We want to know what is going on with the applicant. Please explain what is happening and send us the correct information."
 :::
 
 ::: example-good
 Revised Text
 
-*We would appreciate your assistance in confirming the current status of the applicant's submission.*
+We would appreciate your assistance in confirming the current status of the applicant's submission.
 
-*For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps.*
+For our internal processing, could you please clarify whether the revision submitted on 12 March has been reviewed and whether any additional documents are required at this stage? If available, we would also be grateful for an updated timeline for the next steps.
 
-*Your support is appreciated, and please let us know if any further information is required on our side.*
+Your support is appreciated, and please let us know if any further information is required on our side.
 
 :::
 
@@ -3732,7 +3736,7 @@ The following inquiry was written for an international partner office. Rewrite i
 ::: example
 Example Text
 
-*"We are writing to request clarification regarding the status of the applicant's file, reference 2024/331. Our records indicate that the revised documentation was submitted on 7 February; however, no acknowledgement has been received. Could you confirm whether the documents have been processed and whether any further action is required on our side? We would also appreciate an updated timeline for the completion of the review. Your prompt response would be greatly appreciated."*
+"We are writing to request clarification regarding the status of the applicant's file, reference 2024/331. Our records indicate that the revised documentation was submitted on 7 February; however, no acknowledgement has been received. Could you confirm whether the documents have been processed and whether any further action is required on our side? We would also appreciate an updated timeline for the completion of the review. Your prompt response would be greatly appreciated."
 :::
 
 Discuss: What changes did you make for the internal audience? What did you remove, simplify, or rephrase — and why?
@@ -3809,7 +3813,7 @@ The following external inquiry contains multiple problems. Edit the full text to
 ::: example
 Example Text
 
-*"Dear Office, We need information about the application. What is happening? We sent the documents last month. Please tell us if there is a problem and when we will get an answer. We also want to know if you need anything else. Send a reply soon. Thank you."*
+"Dear Office, We need information about the application. What is happening? We sent the documents last month. Please tell us if there is a problem and when we will get an answer. We also want to know if you need anything else. Send a reply soon. Thank you."
 :::
 
 Your edited version should:
@@ -3904,13 +3908,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"There are some risks with the new procedure. People might be confused and things might be delayed. We need to check everything carefully."*
+"There are some risks with the new procedure. People might be confused and things might be delayed. We need to check everything carefully."
 :::
 
 ::: example-good
 Revised Text
 
-*"The revised procedure presents two key risks. First, the removal of the preliminary verification step may increase the likelihood of incomplete submissions, resulting in additional processing time. Second, the updated terminology has not yet been standardised across agencies, which may lead to inconsistent interpretation during coordination. These risks may affect overall processing timelines; however, clear guidance and interagency briefing sessions can mitigate their impact."*
+"The revised procedure presents two key risks. First, the removal of the preliminary verification step may increase the likelihood of incomplete submissions, resulting in additional processing time. Second, the updated terminology has not yet been standardised across agencies, which may lead to inconsistent interpretation during coordination. These risks may affect overall processing timelines; however, clear guidance and interagency briefing sessions can mitigate their impact."
 
 :::
 
@@ -4020,8 +4024,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Observed issue | *Terminology queries increased from 6 in January to 21 in March.* |
-| Risk statement with impact and mitigation | *This trend may lead to inconsistent interpretation across agencies and longer processing times during implementation. To mitigate this risk, a shared terminology briefing and reference sheet could be issued before the next rollout stage.* |
+| Observed issue | Terminology queries increased from 6 in January to 21 in March. |
+| Risk statement with impact and mitigation | This trend may lead to inconsistent interpretation across agencies and longer processing times during implementation. To mitigate this risk, a shared terminology briefing and reference sheet could be issued before the next rollout stage. |
 
 The second version does more than report a problem: it explains the likely consequence and proposes a realistic response.
 :::
@@ -4223,7 +4227,7 @@ Version A
 ::: example
 Example Text
 
-*"As explained last week, the revised instructions should now be used. Everyone knows why the changes were made, so please follow the updated process from today."*
+"As explained last week, the revised instructions should now be used. Everyone knows why the changes were made, so please follow the updated process from today."
 :::
 
 ::: learn
@@ -4233,7 +4237,7 @@ Version B
 ::: example
 Example Text
 
-*"We would like to confirm that the updated applicant communication instructions, circulated on 3 October, should now be used for all submissions. The revision addresses inconsistencies identified in the previous version and applies to all offices. For agencies not involved in the consultation sessions, a brief summary of the key changes is available on request."*
+"We would like to confirm that the updated applicant communication instructions, circulated on 3 October, should now be used for all submissions. The revision addresses inconsistencies identified in the previous version and applies to all offices. For agencies not involved in the consultation sessions, a brief summary of the key changes is available on request."
 :::
 
 Discuss:
@@ -4251,13 +4255,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We shared the new instructions last week, so please start using the updated timeline. As you know, this fixes the issues identified earlier."*
+"We shared the new instructions last week, so please start using the updated timeline. As you know, this fixes the issues identified earlier."
 :::
 
 ::: example-good
 Revised Text
 
-*"We would like to confirm that the updated instructions circulated on 3 October should now be used for all applicant submissions. For colleagues already familiar with the revision, the main change concerns the applicant communication timeline in Section 2.2. For partner offices, we note that the revision was introduced to resolve inconsistencies identified in the previous version. Should any questions arise regarding the updated process, please feel free to contact our office."*
+"We would like to confirm that the updated instructions circulated on 3 October should now be used for all applicant submissions. For colleagues already familiar with the revision, the main change concerns the applicant communication timeline in Section 2.2. For partner offices, we note that the revision was introduced to resolve inconsistencies identified in the previous version. Should any questions arise regarding the updated process, please feel free to contact our office."
 
 :::
 
@@ -4283,7 +4287,7 @@ Read the improved version again. The following annotations explain specific deci
 ::: example
 Example Text
 
-*"We would like to confirm that the updated instructions circulated on 3 October…"*
+"We would like to confirm that the updated instructions circulated on 3 October…"
 :::
 
 ::: learn
@@ -4295,7 +4299,7 @@ The writer provides a date and a reference to an earlier document so that all re
 ::: example
 Example Text
 
-*"…should now be used for all applicant submissions."*
+"…should now be used for all applicant submissions."
 :::
 
 ::: learn
@@ -4307,7 +4311,7 @@ The core action is stated clearly before the audience-specific detail. All reade
 ::: example
 Example Text
 
-*"For colleagues already familiar with the revision…"*
+"For colleagues already familiar with the revision…"
 :::
 
 ::: learn
@@ -4319,7 +4323,7 @@ The writer directly addresses one audience group, signalling that the following 
 ::: example
 Example Text
 
-*"For partner offices, we note that the revision was introduced to resolve inconsistencies…"*
+"For partner offices, we note that the revision was introduced to resolve inconsistencies…"
 :::
 
 ::: learn
@@ -4331,7 +4335,7 @@ A second audience group is addressed separately, with different supporting infor
 ::: example
 Example Text
 
-*"Should any questions arise…"*
+"Should any questions arise…"
 :::
 
 ::: learn
@@ -4343,7 +4347,7 @@ The writer closes with a low-pressure offer of support, appropriate for all audi
 ::: example
 Example Text
 
-*"For colleagues already familiar with the revision…" / "For partner offices, we note that…"*
+"For colleagues already familiar with the revision…" / "For partner offices, we note that…"
 :::
 
 ::: learn
@@ -4416,7 +4420,7 @@ Rewrite the following paragraph so that it is accessible to a reader who has no 
 ::: example
 Example Text
 
-*"As you know, the form we discussed has now been updated. Please stop using the old version immediately and switch to the new one. The changes reflect what was agreed in the last round of consultations."*
+"As you know, the form we discussed has now been updated. Please stop using the old version immediately and switch to the new one. The changes reflect what was agreed in the last round of consultations."
 :::
 
 Your rewritten version should be 5–7 sentences and address at least two different reader groups.
@@ -4426,8 +4430,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Knowledge-assuming | *Please start using the updated form from Monday.* |
-| Reader-aware version | *From Monday, all offices should begin using the updated applicant submission form circulated on 3 October. For teams that attended the briefing, the main change concerns the revised timeline field in Section 2. For partner offices receiving this update for the first time, the revision was introduced to resolve inconsistencies in the previous version.* |
+| Knowledge-assuming | Please start using the updated form from Monday. |
+| Reader-aware version | From Monday, all offices should begin using the updated applicant submission form circulated on 3 October. For teams that attended the briefing, the main change concerns the revised timeline field in Section 2. For partner offices receiving this update for the first time, the revision was introduced to resolve inconsistencies in the previous version. |
 
 The revised version preserves the core instruction but changes the explanation density for different readers.
 :::
@@ -4535,7 +4539,7 @@ The following multi-audience message contains multiple problems with context, au
 ::: example
 Example Text
 
-*"Everyone already knows about the changes, so use the new process and follow the updated instructions. The form has been revised and the old version is no longer valid. Staff should already have read the guidance. If you haven't, contact someone who has. External offices should also do this. There will be more information later."*
+"Everyone already knows about the changes, so use the new process and follow the updated instructions. The form has been revised and the old version is no longer valid. Staff should already have read the guidance. If you haven't, contact someone who has. External offices should also do this. There will be more information later."
 :::
 
 Your edited version should:
@@ -4599,13 +4603,13 @@ Read the following excerpt from an internal policy proposal. Answer the question
 ::: example
 Example Text
 
-*Subject: Proposal — Introduction of Standardised Terminology Protocol*
+Subject: Proposal — Introduction of Standardised Terminology Protocol
 
-*Our office recommends the adoption of a standardised terminology protocol for all interagency communications. In accordance with the revised coordination guidelines issued in November, all partner offices are required to use consistent terminology when referring to applicant submission stages.*
+Our office recommends the adoption of a standardised terminology protocol for all interagency communications. In accordance with the revised coordination guidelines issued in November, all partner offices are required to use consistent terminology when referring to applicant submission stages.
 
-*Current practice has resulted in a range of informal terms being used across offices, which has contributed to misunderstandings during case review. The proposed protocol would reduce this inconsistency, support more efficient processing, and align our communications with the updated framework.*
+Current practice has resulted in a range of informal terms being used across offices, which has contributed to misunderstandings during case review. The proposed protocol would reduce this inconsistency, support more efficient processing, and align our communications with the updated framework.
 
-*We recommend piloting the protocol with two partner offices before full implementation.*
+We recommend piloting the protocol with two partner offices before full implementation.
 :::
 
 1. What recommendation does the writer make?
@@ -4623,13 +4627,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We should update the form because people don't like the old version. A new form would be better and easier to use."*
+"We should update the form because people don't like the old version. A new form would be better and easier to use."
 :::
 
 ::: example-good
 Revised Text
 
-*"Updating the form will improve alignment with the revised guidelines issued in August, which require clearer terminology and updated data fields. The new format will also reduce the likelihood of incomplete submissions, supporting the agency's objective of improving processing efficiency. As a result, adopting the revised form is consistent with current policy and enhances overall workflow accuracy."*
+"Updating the form will improve alignment with the revised guidelines issued in August, which require clearer terminology and updated data fields. The new format will also reduce the likelihood of incomplete submissions, supporting the agency's objective of improving processing efficiency. As a result, adopting the revised form is consistent with current policy and enhances overall workflow accuracy."
 
 :::
 
@@ -4736,8 +4740,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Bare rationale | *We should complete portal registration soon.* |
-| Policy-aligned rationale | *Completing portal registration before 30 April is consistent with the revised interagency processing guidelines, which require all partner offices to use the designated submission portal. Early registration will reduce the risk of delayed file transfers and support a consistent audit trail across agencies. As a result, prioritising registration now will improve compliance and reduce avoidable processing disruption.* |
+| Bare rationale | We should complete portal registration soon. |
+| Policy-aligned rationale | Completing portal registration before 30 April is consistent with the revised interagency processing guidelines, which require all partner offices to use the designated submission portal. Early registration will reduce the risk of delayed file transfers and support a consistent audit trail across agencies. As a result, prioritising registration now will improve compliance and reduce avoidable processing disruption. |
 
 This example works because it moves from policy reference, to reason, to expected benefit in a clear sequence.
 :::
@@ -4848,7 +4852,7 @@ Original
 ::: example
 Example Text
 
-*"We think the form should be changed because it is old and confusing. ~~We think the form should be changed because it is old and confusing.~~* **Insert: The form should be revised to align with the updated submission guidelines issued in February, which require standardised data fields across all partner offices.** *A new form would be better and easier. ~~A new form would be better and easier.~~* **Insert: The revised format will reduce incomplete submissions and support consistent data collection.** *We also think it looks unprofessional. ~~We also think it looks unprofessional.~~ Everyone agrees this change is needed."*
+"We think the form should be changed because it is old and confusing. ~~We think the form should be changed because it is old and confusing.~~ **Insert: The form should be revised to align with the updated submission guidelines issued in February, which require standardised data fields across all partner offices.** A new form would be better and easier. ~~A new form would be better and easier.~~ **Insert: The revised format will reduce incomplete submissions and support consistent data collection.** We also think it looks unprofessional. ~~We also think it looks unprofessional.~~ Everyone agrees this change is needed."
 :::
 
 ::: learn
@@ -4961,7 +4965,7 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"The revised document is not good. It has many problems and needs to be improved. Some parts are unclear."*
+"The revised document is not good. It has many problems and needs to be improved. Some parts are unclear."
 :::
 
 ::: example-good
@@ -5071,8 +5075,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Subjective claim | *Nobody will understand this section.* |
-| Evidence-based evaluation | *The explanation in Section 4 may be difficult for new users to follow because key terms are introduced without definition.* |
+| Subjective claim | Nobody will understand this section. |
+| Evidence-based evaluation | The explanation in Section 4 may be difficult for new users to follow because key terms are introduced without definition. |
 
 The revised version works better because it narrows the claim, names the relevant criterion, and ties the judgement to observable evidence.
 :::
@@ -5266,7 +5270,7 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We discussed the form revision issue and people had different views. We need to talk more about it and decide later."*
+"We discussed the form revision issue and people had different views. We need to talk more about it and decide later."
 :::
 
 ::: example-good
@@ -5274,28 +5278,28 @@ Revised Text
 
 **Overview:**
 
-*"The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility."*
+"The working group reviewed the proposed revision to the applicant communication form, focusing on clarity, consistency, and feasibility."
 
 **Key Points:**
 
-- *Several offices raised concerns regarding ambiguous terminology*
-- *The current revision may delay processing due to additional verification steps*
-- *Stakeholders agree that further clarification is required before the form is finalised.*
+- Several offices raised concerns regarding ambiguous terminology
+- The current revision may delay processing due to additional verification steps
+- Stakeholders agree that further clarification is required before the form is finalised.
 
 **Implications:**
 
-*Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.*
+Without revision, inconsistent applicant communication may continue across offices, leading to processing delays and increased error rates.
 
 **Recommendation:**
 
-*Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.*
+Proceed with targeted revisions to terminology and remove the redundant verification steps before circulation.
 
 **Identify Improvements In:**
 
-- *clarity*
-- *structure*
-- *level of detail*
-- *usefulness for decision-making"*
+- clarity
+- structure
+- level of detail
+- usefulness for decision-making"
 :::
 
 ::: learn
@@ -5377,7 +5381,7 @@ The paragraph below is written as an informal meeting summary. Rewrite it as the
 ::: example
 Example Text
 
-*"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."*
+"So basically we talked about the new form and everyone had different opinions. Some offices think the terminology isn't clear and others are worried about the timeline. One of the offices said it could cause delays if we go ahead without fixing it first. We also mentioned that this could affect the processing numbers for next quarter. Anyway, we didn't reach a final decision."
 :::
 
 ::: example-good
@@ -5385,8 +5389,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Detail-heavy note | *One of the offices said it could cause delays if we go ahead without fixing it first.* |
-| Executive-brief wording | *Proceeding without revision may delay processing in the next quarter.* |
+| Detail-heavy note | One of the offices said it could cause delays if we go ahead without fixing it first. |
+| Executive-brief wording | Proceeding without revision may delay processing in the next quarter. |
 
 The second version is shorter, more decision-focused, and removes meeting-room narrative that an executive does not need.
 :::
@@ -5498,7 +5502,7 @@ The text below is a draft executive brief. It contains multiple problems: unnece
 ::: example
 Example Text
 
-*"Hi, just a quick update on the situation with the offices. So as you know we've been having a lot of issues with the way things are being processed and the new form isn't working very well for everyone. I think Office B is having the most problems but Office A also mentioned some stuff. Basically there are delays and it's causing issues. We talked about it last week but didn't really agree on anything. Maybe someone should look at the instructions again? I think that would probably help. Anyway, let me know what you think. Thanks."*
+"Hi, just a quick update on the situation with the offices. So as you know we've been having a lot of issues with the way things are being processed and the new form isn't working very well for everyone. I think Office B is having the most problems but Office A also mentioned some stuff. Basically there are delays and it's causing issues. We talked about it last week but didn't really agree on anything. Maybe someone should look at the instructions again? I think that would probably help. Anyway, let me know what you think. Thanks."
 :::
 
 Your edited version should be a properly structured executive brief with all four components. Aim for 80–100 words.
@@ -5563,7 +5567,7 @@ Read the three short extracts below. They come from three different sources on t
 ::: example
 Example Text
 
-*"We are experiencing delays in the processing of applicant files submitted via the online portal. The instructions do not clearly specify which file format is required, and staff are uploading files that the system rejects."*
+"We are experiencing delays in the processing of applicant files submitted via the online portal. The instructions do not clearly specify which file format is required, and staff are uploading files that the system rejects."
 :::
 
 **Source 2 — Meeting Notes (17 March)**
@@ -5571,7 +5575,7 @@ Example Text
 ::: example
 Example Text
 
-*"Office B representative raised the issue of portal upload failures. It was noted that the portal times out for files over 5MB. Office C confirmed similar delays but attributed them to late receipt of supporting documents rather than technical issues."*
+"Office B representative raised the issue of portal upload failures. It was noted that the portal times out for files over 5MB. Office C confirmed similar delays but attributed them to late receipt of supporting documents rather than technical issues."
 :::
 
 **Source 3 — Internal report (20 March)**
@@ -5579,7 +5583,7 @@ Example Text
 ::: example
 Example Text
 
-*"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."*
+"Analysis of Q1 data shows an increase of 23% in resubmission rates compared with Q4 of the previous year. Both technical and procedural factors appear to be contributing to the increase."
 :::
 
 1. What themes appear across all three sources?
@@ -5595,13 +5599,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Office A says terminology is unclear. Office B says the timeline is unrealistic. Office C says both are issues. There are problems we need to fix."*
+"Office A says terminology is unclear. Office B says the timeline is unrealistic. Office C says both are issues. There are problems we need to fix."
 :::
 
 ::: example-good
 Revised Text
 
-*"Across the three offices, two main concerns emerge: unclear terminology and an unrealistic implementation timeline. While Offices A and C identified terminology as the primary obstacle, Offices B and C raised concerns about the feasibility of the proposed schedule. Taken together, these findings indicate that both the terminology and the implementation timeline require revision before the process can be rolled out consistently."*
+"Across the three offices, two main concerns emerge: unclear terminology and an unrealistic implementation timeline. While Offices A and C identified terminology as the primary obstacle, Offices B and C raised concerns about the feasibility of the proposed schedule. Taken together, these findings indicate that both the terminology and the implementation timeline require revision before the process can be rolled out consistently."
 
 **Identify Improvements In:**
 
@@ -5713,8 +5717,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Source-listing | *Office A says instructions are unclear. Office B says the timeline is too short. Office C says both are issues.* |
-| Integrated synthesis | *Across the three offices, two linked concerns emerge: unclear instructions and an unrealistic implementation timeline. While Office A focuses mainly on instruction clarity, Offices B and C emphasise the pressure created by the current schedule. Taken together, the feedback suggests that both guidance and timing require revision before rollout.* |
+| Source-listing | Office A says instructions are unclear. Office B says the timeline is too short. Office C says both are issues. |
+| Integrated synthesis | Across the three offices, two linked concerns emerge: unclear instructions and an unrealistic implementation timeline. While Office A focuses mainly on instruction clarity, Offices B and C emphasise the pressure created by the current schedule. Taken together, the feedback suggests that both guidance and timing require revision before rollout. |
 
 The integrated version works better because it groups the points by theme, shows contrast, and ends with an insight.
 :::
@@ -5824,7 +5828,7 @@ The text below is a draft synthesis. It contains multiple problems: source-by-so
 ::: example
 Example Text
 
-*"Office A said one thing, Office B said something else, and Office C also had comments. Office A said the instructions were confusing. Office B said the timeline was the problem. Office C said both were issues. Also, Office D didn't say much but they mentioned some delays too. We need to think about these issues because they are all important."*
+"Office A said one thing, Office B said something else, and Office C also had comments. Office A said the instructions were confusing. Office B said the timeline was the problem. Office C said both were issues. Also, Office D didn't say much but they mentioned some delays too. We need to think about these issues because they are all important."
 :::
 
 Your edited version should be a properly synthesised paragraph with grouped themes, contrast or agreement, and a concluding insight. Aim for 60–80 words.
@@ -5913,13 +5917,13 @@ Read the two statements below. Both describe the same policy change.
 ::: example
 Example Text
 
-*"Under Section 12(4), the examining office shall apply the amended verification procedure as specified in Annex 3, paragraph 2(b), effective from the date of entry into force of the circular."*
+"Under Section 12(4), the examining office shall apply the amended verification procedure as specified in Annex 3, paragraph 2(b), effective from the date of entry into force of the circular."
 :::
 
 ::: example
 Example Text
 
-*"From next month, offices must carry out an additional check before moving an application to the review stage. This change is intended to reduce errors and ensure consistency."*
+"From next month, offices must carry out an additional check before moving an application to the review stage. This change is intended to reduce errors and ensure consistency."
 :::
 
 Discuss:
@@ -5941,7 +5945,7 @@ Read the following extract from an internal policy circular.
 ::: example
 Example Text
 
-*"With reference to the revised applicant communication framework (Circular 2024/07), all examining offices are required to implement the updated three-stage verification procedure in substitution for the existing two-stage procedure. Compliance is mandatory with effect from 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to the implementation date. Non-compliance may result in processing delays and referral for procedural review under Article 9."*
+"With reference to the revised applicant communication framework (Circular 2024/07), all examining offices are required to implement the updated three-stage verification procedure in substitution for the existing two-stage procedure. Compliance is mandatory with effect from 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to the implementation date. Non-compliance may result in processing delays and referral for procedural review under Article 9."
 :::
 
 ::: write
@@ -5964,15 +5968,15 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Offices must comply with the updated three-stage verification procedure under Circular 2024/07, effective 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to implementation. Non-compliance may result in referral under Article 9."*
+"Offices must comply with the updated three-stage verification procedure under Circular 2024/07, effective 1 March. Offices that have not completed transitional training must notify the coordinating unit no later than 14 days prior to implementation. Non-compliance may result in referral under Article 9."
 :::
 
 ::: example-good
 Revised Text
 
-*"A new document-checking process will come into effect on 1 March. Offices will now carry out three verification steps instead of two before an application proceeds. This change is designed to reduce errors and create a consistent approach across all offices.*
+"A new document-checking process will come into effect on 1 March. Offices will now carry out three verification steps instead of two before an application proceeds. This change is designed to reduce errors and create a consistent approach across all offices.
 
-*If your office has not yet completed the required training, please inform the coordinating unit at least two weeks before the deadline. Offices that do not follow the updated process may experience delays or be subject to a formal review."*
+If your office has not yet completed the required training, please inform the coordinating unit at least two weeks before the deadline. Offices that do not follow the updated process may experience delays or be subject to a formal review."
 :::
 
 Identify differences in:
@@ -6046,8 +6050,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Technical statement | *Compliance is mandatory with effect from 1 March under Circular 2024/07.* |
-| Reader-facing explanation | *The new process must be used from 1 March. The purpose of the change is to reduce errors and make the same checking steps apply across all offices.* |
+| Technical statement | Compliance is mandatory with effect from 1 March under Circular 2024/07. |
+| Reader-facing explanation | The new process must be used from 1 March. The purpose of the change is to reduce errors and make the same checking steps apply across all offices. |
 
 The second version keeps the core requirement but explains it in terms a general reader can act on.
 :::
@@ -6128,7 +6132,7 @@ Below is an extract from a policy bulletin written for specialists. Convert it i
 ::: example
 Example Text
 
-*"Following the adoption of Resolution 12/2024, examining offices are required to transition to the revised applicant file structure (AFS-2) by Q2 of the current fiscal year. The AFS-2 framework replaces the legacy AFS-1 system and introduces mandatory metadata tagging for all applicant correspondence items. Offices operating hybrid or manual workflows must complete system migration before the deadline. Failure to migrate within the specified timeframe will result in incompatibility with the central processing unit's updated intake protocol."*
+"Following the adoption of Resolution 12/2024, examining offices are required to transition to the revised applicant file structure (AFS-2) by Q2 of the current fiscal year. The AFS-2 framework replaces the legacy AFS-1 system and introduces mandatory metadata tagging for all applicant correspondence items. Offices operating hybrid or manual workflows must complete system migration before the deadline. Failure to migrate within the specified timeframe will result in incompatibility with the central processing unit's updated intake protocol."
 :::
 
 Your plain-language summary must include:
@@ -6219,7 +6223,7 @@ The paragraph below was written for a general staff audience but contains severa
 ::: example
 Example Text
 
-*"Offices shall ensure compliance with Section 9 according to the revised administrative schedule as referenced in Annex 2(c) of the updated framework. It should be noted that non-compliant offices will be subject to Article 7 review procedures. The purpose of this revision is procedural harmonisation vis-à-vis the standardised terminology matrix."*
+"Offices shall ensure compliance with Section 9 according to the revised administrative schedule as referenced in Annex 2(c) of the updated framework. It should be noted that non-compliant offices will be subject to Article 7 review procedures. The purpose of this revision is procedural harmonisation vis-à-vis the standardised terminology matrix."
 :::
 
 Issues to identify:
@@ -6288,7 +6292,7 @@ Read the following attempt at a justification.
 ::: example
 Example Text
 
-*"We decided to change the form because we thought it would be better and easier for everyone to use. The old one was confusing and people kept making mistakes."*
+"We decided to change the form because we thought it would be better and easier for everyone to use. The old one was confusing and people kept making mistakes."
 :::
 
 Discuss:
@@ -6306,13 +6310,13 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"We changed the process because the old one was confusing. The new one should be better."*
+"We changed the process because the old one was confusing. The new one should be better."
 :::
 
 ::: example-good
 Revised Text
 
-*"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."*
+"The applicant communication process has been revised to align with the updated terminology and sequencing requirements issued in Circular 2024/05. The previous process contained duplicated verification steps and inconsistent terminology, which led to variation in how offices interpreted the requirements. The revised process removes the duplication, clarifies each step, and establishes a consistent sequence across offices. This adjustment supports more efficient review and ensures compliance with current interagency standards."
 :::
 
 Identify improvements in:
@@ -6469,8 +6473,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Loose justification | *We should shorten the process because it takes too long.* |
-| Structured justification | *The office will reduce the approval sequence from four steps to two. This change responds to delays identified in the last coordination review and aligns with the revised workflow guidance issued in March. As a result, offices will be able to process routine requests more consistently and with fewer avoidable delays.* |
+| Loose justification | We should shorten the process because it takes too long. |
+| Structured justification | The office will reduce the approval sequence from four steps to two. This change responds to delays identified in the last coordination review and aligns with the revised workflow guidance issued in March. As a result, offices will be able to process routine requests more consistently and with fewer avoidable delays. |
 
 The second version works because it moves from decision, to rationale, to benefit in a clear sequence.
 :::
@@ -6578,7 +6582,7 @@ The paragraph below is a poor justification for an administrative decision. Iden
 ::: example
 Example Text
 
-*"We changed the workflow because the old one wasn't very good and people found it confusing. The new one is simpler and should work better. Everyone agreed it needed to be changed so we went ahead with it."*
+"We changed the workflow because the old one wasn't very good and people found it confusing. The new one is simpler and should work better. Everyone agreed it needed to be changed so we went ahead with it."
 :::
 
 Issues to identify:
@@ -6647,7 +6651,7 @@ The following extract is taken from an internal coordination report.
 ::: example
 Example Text
 
-*"Following the distribution of the revised applicant communication guidelines (Circular 2024/07), offices were asked to submit brief status updates by 30 October. Four offices responded. Office A and Office D reported that staff briefings had been completed and the new procedures were being implemented. Office B noted that it had not yet received the updated forms and required clarification on the revised timeline. Office C reported that implementation had been delayed due to a vacancy in the team lead position; a temporary coordinator had been appointed and training was scheduled for the following week. Two outstanding questions were identified: whether the revised timeline should apply to applications already in progress, and whether the new forms would be made available in both official languages. A follow-up meeting is proposed for 15 November."*
+"Following the distribution of the revised applicant communication guidelines (Circular 2024/07), offices were asked to submit brief status updates by 30 October. Four offices responded. Office A and Office D reported that staff briefings had been completed and the new procedures were being implemented. Office B noted that it had not yet received the updated forms and required clarification on the revised timeline. Office C reported that implementation had been delayed due to a vacancy in the team lead position; a temporary coordinator had been appointed and training was scheduled for the following week. Two outstanding questions were identified: whether the revised timeline should apply to applications already in progress, and whether the new forms would be made available in both official languages. A follow-up meeting is proposed for 15 November."
 :::
 
 Discuss:
@@ -6665,7 +6669,7 @@ Compare Tone and Clarity
 ::: example-bad
 Original Text
 
-*"Some offices are confused about the new guidelines. Other offices have not used the new form. We need to send another message and explain everything again."*
+"Some offices are confused about the new guidelines. Other offices have not used the new form. We need to send another message and explain everything again."
 :::
 
 ::: example-good
@@ -6722,8 +6726,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Office-by-office listing | *Office B is delayed, Office C has not started, and Office B and C submitted several queries.* |
-| Grouped report wording | *Implementation concerns are concentrated in offices that have not yet fully adopted the revised form. Delays or non-start status appear to be linked with unresolved queries and incomplete rollout preparation.* |
+| Office-by-office listing | Office B is delayed, Office C has not started, and Office B and C submitted several queries. |
+| Grouped report wording | Implementation concerns are concentrated in offices that have not yet fully adopted the revised form. Delays or non-start status appear to be linked with unresolved queries and incomplete rollout preparation. |
 
 The second version is more useful because it groups the data into an issue pattern instead of repeating the table row by row.
 :::
@@ -6937,7 +6941,7 @@ Below is a narrative email chain summary from a coordination officer. Convert it
 ::: example
 Example Text
 
-*"So far we have had three offices check in. Office A is doing fine — they've done the training and started using the new forms. Office B has a problem because they don't have the forms yet, apparently they weren't sent correctly, so they're still using the old ones. Office C hasn't responded yet but we know from the last meeting that they had some concerns about terminology. We still don't know whether offices that started processing before the circular need to follow the new timeline. We should probably set a deadline for responses and hold a meeting before the end of the month."*
+"So far we have had three offices check in. Office A is doing fine — they've done the training and started using the new forms. Office B has a problem because they don't have the forms yet, apparently they weren't sent correctly, so they're still using the old ones. Office C hasn't responded yet but we know from the last meeting that they had some concerns about terminology. We still don't know whether offices that started processing before the circular need to follow the new timeline. We should probably set a deadline for responses and hold a meeting before the end of the month."
 :::
 
 Use this space for your first full draft.
@@ -7022,7 +7026,7 @@ The paragraph below is an attempt at a consolidated report. It contains multiple
 ::: example
 Example Text
 
-*"Many offices had problems with the new guidelines and some actions were taken to fix things. We will meet again soon to sort everything out. The issues are quite complicated and it is hard to know exactly who is responsible for what. There are still some questions but hopefully things will be clearer soon."*
+"Many offices had problems with the new guidelines and some actions were taken to fix things. We will meet again soon to sort everything out. The issues are quite complicated and it is hard to know exactly who is responsible for what. There are still some questions but hopefully things will be clearer soon."
 :::
 
 Issues to identify:
@@ -7089,7 +7093,7 @@ Read the four input items below. Before reading further, predict: what type of a
 ::: example
 Example Text
 
-*"We have received the revised guidelines but several staff members are unclear about the new terminology in Section 3. Could you clarify whether the terms 'submitted' and 'received' are now used interchangeably or whether they refer to distinct stages in the process?"*
+"We have received the revised guidelines but several staff members are unclear about the new terminology in Section 3. Could you clarify whether the terms 'submitted' and 'received' are now used interchangeably or whether they refer to distinct stages in the process?"
 :::
 
 **Input 2 — Email from Office B**
@@ -7097,7 +7101,7 @@ Example Text
 ::: example
 Example Text
 
-*"We note that the revised implementation timeline requires full adoption by 1 February. Given that our team is currently reduced due to planned leave, we do not believe this deadline is achievable. We request consideration of an extended transition period."*
+"We note that the revised implementation timeline requires full adoption by 1 February. Given that our team is currently reduced due to planned leave, we do not believe this deadline is achievable. We request consideration of an extended transition period."
 :::
 
 **Input 3 — Internal Meeting Notes**
@@ -7105,7 +7109,7 @@ Example Text
 ::: example
 Example Text
 
-*"Several offices raised concerns during the coordination call about delays caused by outdated forms still in circulation. No resolution was agreed. Action points were not formally assigned. Follow-up is required."*
+"Several offices raised concerns during the coordination call about delays caused by outdated forms still in circulation. No resolution was agreed. Action points were not formally assigned. Follow-up is required."
 :::
 
 **Input 4 — Updated Instructions (Issued Last Week)**
@@ -7113,7 +7117,7 @@ Example Text
 ::: example
 Example Text
 
-*"Circular 2024/11 introduces revised terminology, updated sequencing requirements, and new verification steps. Distribution: all examining offices. Acknowledgement of receipt required within seven days."*
+"Circular 2024/11 introduces revised terminology, updated sequencing requirements, and new verification steps. Distribution: all examining offices. Acknowledgement of receipt required within seven days."
 :::
 
 Now discuss: Which offices need to be contacted? What information does each need? What type of document would best address the full situation?
@@ -7137,15 +7141,15 @@ Now read the integrated response below.
 ::: example-good
 Revised Text
 
-*"This notice summarises the current implementation status of Circular 2024/11 and identifies actions required from all examining offices.*
+"This notice summarises the current implementation status of Circular 2024/11 and identifies actions required from all examining offices.
 
-*Two issues have been reported since distribution. Office A has requested clarification regarding the revised terminology in Section 3 — specifically, whether 'submitted' and 'received' now refer to distinct processing stages. Office B has indicated that the 1 February deadline may not be feasible given current staffing constraints and has requested an extension.*
+Two issues have been reported since distribution. Office A has requested clarification regarding the revised terminology in Section 3 — specifically, whether 'submitted' and 'received' now refer to distinct processing stages. Office B has indicated that the 1 February deadline may not be feasible given current staffing constraints and has requested an extension.
 
-*In addition, meeting notes from the recent coordination call indicate that several offices continue to use outdated forms, and that no formal follow-up was assigned. All offices are reminded that acknowledgement of receipt of Circular 2024/11 is required within seven days of its distribution.*
+In addition, meeting notes from the recent coordination call indicate that several offices continue to use outdated forms, and that no formal follow-up was assigned. All offices are reminded that acknowledgement of receipt of Circular 2024/11 is required within seven days of its distribution.
 
-*To address the above: a clarification note on revised terminology will be circulated by 20 January. Offices facing implementation challenges are asked to submit a brief status update, including any specific obstacles, by 14 January. The coordinating unit will review requests for deadline extensions on a case-by-case basis.*
+To address the above: a clarification note on revised terminology will be circulated by 20 January. Offices facing implementation challenges are asked to submit a brief status update, including any specific obstacles, by 14 January. The coordinating unit will review requests for deadline extensions on a case-by-case basis.
 
-*All offices are expected to confirm transition to the revised forms no later than 1 February. Offices that have not yet acknowledged receipt of the circular should do so immediately."*
+All offices are expected to confirm transition to the revised forms no later than 1 February. Offices that have not yet acknowledged receipt of the circular should do so immediately."
 :::
 :::
 
@@ -7157,7 +7161,7 @@ Compare the integrated response above with a version that addresses only one inp
 ::: example-bad
 Original Text
 
-*"Office A asked about terminology. Please see the attached clarification. Office B said the deadline is too tight. We will consider this. Some offices are using old forms. Please stop doing this. Everyone needs to acknowledge the circular."*
+"Office A asked about terminology. Please see the attached clarification. Office B said the deadline is too tight. We will consider this. Some offices are using old forms. Please stop doing this. Everyone needs to acknowledge the circular."
 :::
 
 Identify how the integrated response differs in:
@@ -7198,7 +7202,7 @@ The paragraph below presents information from multiple sources as a list of disc
 ::: example
 Example Text
 
-*"Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. The circular needs to be acknowledged. These are all different problems."*
+"Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. The circular needs to be acknowledged. These are all different problems."
 :::
 
 ::: rewrite
@@ -7214,8 +7218,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Disconnected listing | *Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues.* |
-| Integrated paragraph | *Several implementation issues have emerged since distribution of the circular, including unresolved terminology questions, concerns about deadline feasibility, and continued use of outdated forms. Taken together, these issues indicate that clearer guidance and more structured follow-up are now required.* |
+| Disconnected listing | Office A has a terminology question. Office B has a deadline problem. The meeting notes say there are form issues. |
+| Integrated paragraph | Several implementation issues have emerged since distribution of the circular, including unresolved terminology questions, concerns about deadline feasibility, and continued use of outdated forms. Taken together, these issues indicate that clearer guidance and more structured follow-up are now required. |
 
 The revised version works better because it identifies a shared implementation theme rather than treating each source as a separate mini-message.
 :::
@@ -7254,7 +7258,7 @@ If you do not have your Unit 18 writing, use this short alternative paragraph in
 ::: example
 Example Text
 
-*"The offices reported several different problems after the new process was introduced. Office A said the terminology was unclear. Office B said the deadline was too short. Office C also mentioned delays, and Office D raised questions about the updated forms. These issues should be reviewed soon."*
+"The offices reported several different problems after the new process was introduced. Office A said the terminology was unclear. Office B said the deadline was too short. Office C also mentioned delays, and Office D raised questions about the updated forms. These issues should be reviewed soon."
 :::
 
 1. Does it synthesise sources or list them?
@@ -7341,7 +7345,7 @@ The administrative document below was submitted by a colleague for review. Read 
 ::: example
 Example Text
 
-*"As per the recent circular which was sent last week, there are some issues that offices have been reporting. Office A had some questions about terms. Office B said they can't meet the deadline. There were also form problems mentioned somewhere in the meeting notes. Everyone needs to do various things to fix these problems. Please send your updates soon."*
+"As per the recent circular which was sent last week, there are some issues that offices have been reporting. Office A had some questions about terms. Office B said they can't meet the deadline. There were also form problems mentioned somewhere in the meeting notes. Everyone needs to do various things to fix these problems. Please send your updates soon."
 :::
 
 After marking the document, write a clean revised version incorporating all your changes.
@@ -7425,19 +7429,19 @@ You receive:
 ::: example
 Response A
 
-*"There are several problems that offices are having. Office A doesn't understand the terminology. Office B is using old forms. The meeting had questions but nothing was decided. The new circular came out. A report is needed. Offices should fix these issues and use the right materials."*
+"There are several problems that offices are having. Office A doesn't understand the terminology. Office B is using old forms. The meeting had questions but nothing was decided. The new circular came out. A report is needed. Offices should fix these issues and use the right materials."
 :::
 
 ::: example
 Response B
 
-*"This report summarises current implementation challenges arising from the distribution of Circular 2024/12.*
+"This report summarises current implementation challenges arising from the distribution of Circular 2024/12.
 
-*Two main issues have been identified. First, terminology in the revised guidelines is being applied inconsistently: Office A has noted that the term 'submission date' is being interpreted differently across examining staff, creating variation in how applications are assessed. Second, implementation delays have been reported because some staff in Office B continue to use a previous version of the applicant form, despite the updated version having been distributed.*
+Two main issues have been identified. First, terminology in the revised guidelines is being applied inconsistently: Office A has noted that the term 'submission date' is being interpreted differently across examining staff, creating variation in how applications are assessed. Second, implementation delays have been reported because some staff in Office B continue to use a previous version of the applicant form, despite the updated version having been distributed.
 
-*Additionally, a number of offices raised questions during the recent coordination call regarding applicant communication timelines. No resolution was reached and no follow-up action was formally assigned.*
+Additionally, a number of offices raised questions during the recent coordination call regarding applicant communication timelines. No resolution was reached and no follow-up action was formally assigned.
 
-*To address these issues, the following steps are proposed: a clarification note on revised terminology will be prepared and circulated within five working days; Office B is asked to confirm full adoption of the updated form by 31 January; and a brief follow-up consultation will be scheduled to resolve outstanding timeline questions. Offices that have not yet acknowledged receipt of Circular 2024/12 are asked to do so by end of week."*
+To address these issues, the following steps are proposed: a clarification note on revised terminology will be prepared and circulated within five working days; Office B is asked to confirm full adoption of the updated form by 31 January; and a brief follow-up consultation will be scheduled to resolve outstanding timeline questions. Offices that have not yet acknowledged receipt of Circular 2024/12 are asked to do so by end of week."
 :::
 
 Identify how Response B demonstrates:
@@ -7475,8 +7479,8 @@ Worked Example
 
 | Version | Text |
 |---|---|
-| Weak sentence | *The meeting didn't really come to any conclusions about what to do next.* |
-| Stronger administrative version | *No follow-up action was agreed during the meeting, and further clarification is required before next steps can be assigned.* |
+| Weak sentence | The meeting didn't really come to any conclusions about what to do next. |
+| Stronger administrative version | No follow-up action was agreed during the meeting, and further clarification is required before next steps can be assigned. |
 
 The stronger version replaces vague commentary with a specific statement of status and consequence.
 :::
@@ -7603,7 +7607,7 @@ The following draft was produced in response to the capstone scenario. It contai
 ::: example
 Example Text
 
-*"There are many problems in the offices at the moment and things are not working well. Someone needs to explain the new guidelines again because not everyone understands them. The forms are also an issue. A meeting needs to happen soon. Offices should respond and let us know what is going on. The situation is not ideal but hopefully it will get better."*
+"There are many problems in the offices at the moment and things are not working well. Someone needs to explain the new guidelines again because not everyone understands them. The forms are also an issue. A meeting needs to happen soon. Offices should respond and let us know what is going on. The situation is not ideal but hopefully it will get better."
 :::
 
 Write one complete version only.

@@ -2,7 +2,7 @@
 
 **For instructor use only. Not for distribution to students.**
 
-Model answers are provided for all exercises with specific expected responses. Guidance notes are given for open-ended exercises (Freer Practice, Transfer Extension, Reflection, Homework). Where model answers are already printed in the student book (e.g., after a revision lab), they are referenced rather than repeated.
+Model answers are provided for all exercises with specific expected responses. Guidance notes are given for open-ended exercises (Freer Practice, Homework & Extension, and Reflection). Where model answers are already printed in the student book (e.g., after a revision lab), they are referenced rather than repeated.
 
 
 ### MODULE 1. Foundations of Clear Administrative Writing
@@ -31,6 +31,8 @@ Model answers are provided for all exercises with specific expected responses. G
 
 ##### C. Language 1 — Practice: Build Clear Sentences
 
+The student book now gives each item its own response space. Model sentences:
+
 1. Our office received your application yesterday.
 2. The examiner requested more information.
 3. We will send a confirmation email tomorrow.
@@ -46,32 +48,25 @@ Model answers are provided for all exercises with specific expected responses. G
 4. If the applicant does not provide the required documents, we cannot continue the examination.
 
 
-##### D. Guided Practice — Rewrite for Clarity
+##### D. Guided Practice — Build a Clear Mini Message
 
-1. We are checking your application and need more time. / We are currently checking your application and require a little more time.
-2. The document attached to your Monday email is different from the one we discussed.
-3. Our guidelines require us to contact the applicant if documents are missing.
-4. We need to confirm the information with another department before we can reply.
+**Model answer:**
 
-
-##### G. Editing Practice — Fix the Reader Problem
-
-1. We are now checking the file that the applicant sent after Monday's meeting.
-   _(Removes embedded clauses; places action at front)_
-2. The supervisor explained that a new review step will be necessary for the application.
-   _(Changes "It has been explained by" to active voice)_
-3. The check could not continue because some form items were incomplete and the database was unavailable.
-   _(Removes doubled "because"; simplifies)_
-4. We are writing to ask you to send the correct version of the attached file.
-   _(Removes "for the purpose of")_
+> We are currently checking your application. The document attached to your email is not the same as the document discussed on Monday. We need a little more time because we must confirm the information with another department. We will contact you again after the confirmation is complete.
 
 
-##### Module 1 Review — Revision Lab
+##### F. Editing Practice — Fix the Reader Problem
 
-**Model answer is printed in the student book** (the `:::example-good` block after the exercise). Key improvements:
-- Split the single long run-on sentence into four shorter ones
-- Changed "please reply quickly" to "Could you please send the missing information by Thursday?"
-- Ended with a polite cooperative closing
+Students should name the reader problem and then rewrite the sentence. Accept similar wording if the problem is correctly identified and the rewrite is clearer.
+
+1. **Label:** A. Main action is hidden.
+   **Rewrite:** Our office is now checking the file that the applicant sent after Monday's meeting.
+2. **Label:** C. Passive or indirect wording.
+   **Rewrite:** The supervisor explained that a new review step will be necessary for the application.
+3. **Label:** B. Extra detail is too long.
+   **Rewrite:** The check could not continue because some form items were incomplete and the database was unavailable.
+4. **Label:** D. Unnecessary purpose phrase.
+   **Rewrite:** We are writing to ask you to send the correct version of the attached file.
 
 
 #### Unit 2. Professional Tone Basics
@@ -121,6 +116,17 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 4. Could you please send the update today at your earliest convenience?
 
 
+##### H. Homework & Extension — Same Message, Better Relationship
+
+Open-ended. Students should write:
+
+1. a direct version that would not be appropriate to send
+2. a professional version of the same request
+3. short notes explaining what changed and why the professional version is better for the reader
+
+The professional version should keep the same meaning, reduce pressure or blame, and use at least one Unit 2 polite request or clarification phrase.
+
+
 #### Unit 3. Paragraph Structure
 
 ##### A. Warm-Up — Which Is a Better Paragraph?
@@ -130,22 +136,32 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 Paragraph A keeps all sentences on the same topic (reviewing the guidelines). Paragraph B mixes four unrelated topics and reads like disconnected notes.
 
 
-##### C. Practice A — Identify the Parts
+##### C. Language — Identify the Parts
 
 **Paragraph 1:**
-1. **T** — Topic sentence (states main action)
-2. **S** — Supporting detail (the finding)
-3. **C** — Closing sentence (connects to the process)
+
+Students should write these labels after the three sentences:
+
+1. We processed your request this morning. _(Topic sentence)_
+2. The attached form was incomplete. _(Supporting detail)_
+3. The missing information will be checked before we proceed to the next step. _(Closing sentence / next point)_
+
+**Labels: T - S - C**
 
 **Paragraph 2:**
-1. **T** — Topic sentence
-2. **S** — Supporting detail
-3. **C** — Closing sentence
+
+Students should write these labels after the three sentences:
+
+1. The system was updated last night. _(Topic sentence)_
+2. Some users reported error messages after the update. _(Supporting detail)_
+3. These observations will be included in the technical report that follows. _(Closing sentence / next point)_
+
+**Labels: T - S - C**
 
 
-##### C. Practice B — Reorder and Extend
+##### C. Language — Build a Short Review Summary
 
-**Best order: B → A → C**
+**Best order: B - A - C**
 
 1. B: We checked the application yesterday. _(background)_
 2. A: Two forms were missing from the submission. _(main finding)_
@@ -153,28 +169,71 @@ Paragraph A keeps all sentences on the same topic (reviewing the guidelines). Pa
 
 **Add one supporting sentence (many correct answers):**
 - The missing forms affect the first documentation check and may delay the next review step.
-  _(This example is suggested in the exercise itself.)_
 - Without these documents, we cannot proceed to the next stage of the review.
 
 
-##### D. Guided Practice — Write a Better Paragraph
+##### D. Guided Practice — Build a Paragraph From Facts
 
-**Original:** "We checked the application yesterday. One document was missing. The missing document is required for further review. It is essential for completing the examination process. The applicant sent the wrong version before."
+Open-ended. Students should use the provided facts to write one paragraph of 4-5 sentences with a topic sentence, supporting details, and a closing sentence.
 
-**Model rewrite (5–6 sentences, T→S→C):**
+**Model answer:**
 
-> We completed the initial review of the submitted application yesterday. During the review, we identified that one required document was missing from the file. This document is an essential part of the examination process and cannot be substituted. Without it, the review cannot proceed to the next stage. We also noted that the applicant had previously submitted an incorrect version of this form. This information will be recorded as part of the preliminary documentation check.
+> The application review started yesterday. During the review, the office found that one required document was missing. The applicant had also sent an older version of the form. Because of these issues, the review cannot move to the next stage yet. A follow-up request will be prepared so the missing and updated documents can be collected.
 
 
-##### G. Editing Practice — Repair the Paragraph Logic
+##### E. Freer Practice — Write One Administrative Paragraph
+
+Open-ended. Strong responses should:
+
+- use one of the provided fact sets
+- stay focused on one main idea
+- include a clear topic sentence
+- include two or three supporting details
+- close with a result, next point, or link forward
+
+
+##### F. Editing Practice — Repair the Paragraph Logic
 
 **Original:** "The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage."
 
-_Problem: One off-topic sentence (printer); remaining sentences need reordering._
+**Unrelated sentence:** "The office printer will be replaced next week."
 
 **Model rewrite:**
 
-> We started the file review this morning. During the review, we found that two sections of the form were incomplete. These missing sections may delay the next stage of the process. We will contact the applicant to request the missing information before the review can continue.
+> The file review started this morning. During the review, we found that two sections of the form were incomplete. These missing sections may delay the next stage. The missing information will be requested before the review continues.
+
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection responses should show that students understand topic, support, closing, and paragraph breaks.
+
+
+##### H. Homework & Extension — Use the Paragraph Structure
+
+Open-ended. Students should turn information from Unit 1 or Unit 2 into one internal paragraph of 4-5 sentences. The paragraph should not read like an email. It should include one topic sentence, two or three supporting sentences, and one closing sentence.
+
+
+#### Module 1 Review Workshop
+
+**Weak vs. Strong Review Case / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Split the single long run-on sentence into shorter sentences.
+- Changed the pressured request to a cooperative request.
+- Ended with a clear next action for the reader.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one piece of writing from Units 1-3, then write one revised sentence and one revised paragraph. The revised sentence should make the main action easier to find. The revised paragraph should show a clearer topic, support, and closing.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- a short internal message of 5-6 sentences
+- clear sentence control from Unit 1
+- polite or neutral tone control from Unit 2
+- one paragraph with a visible topic, support, and closing from Unit 3
+- three short notes explaining the sentence, tone, and paragraph choices
+
+**Preparation for Module 2:** Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
 
 
 ### MODULE 2. Essential Email Writing for Administrative Contexts
@@ -185,7 +244,7 @@ _Problem: One off-topic sentence (printer); remaining sentences need reordering.
 
 **Answer: B**
 
-Email B has: a specific subject line, a professional greeting, a clear purpose in the opening sentence, a specific question, and an appropriate closing. Email A leaves the reader guessing about the topic, document, and writer.
+Email B has: a specific subject line, a professional greeting, a clear purpose in the opening sentence, a specific question, a polite closing sentence, and a sign-off. Email A leaves the reader guessing about the topic, document, and writer.
 
 
 ##### C. Language 1 — Practice: Improve the Subject Line
@@ -222,13 +281,13 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 
 ##### D. Guided Practice — Build a Complete Email
 
-**Situation: Confirm required documents for an application.**
+**Situation: Writing to applicant Ms. Kim to confirm required documents for her application.**
 
 **Model email:**
 
 > Subject: Required Documents — Application Review
 >
-> Dear Mr./Ms. [Name],
+> Dear Ms. Kim,
 >
 > I am writing to confirm the documents required for the current application review. Could you please let me know whether Form A and the supporting identification documents are needed at this stage? This information will help us prepare the file before submission to the next department. Please let me know if you need any further information.
 >
@@ -236,7 +295,16 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 > [Name]
 
 
-##### G. Editing Practice — Repair the Email Structure
+##### E. Freer Practice — Write Your Own Email
+
+Open-ended. A strong response should:
+
+- use one of the three situations (A, B, or C)
+- include all six email parts: a clear subject line, a professional greeting, an opening sentence that states the purpose, a short body (2–3 sentences), a closing sentence, and a sign-off with a name
+- use appropriate language from Activity C (subject line phrases, openings, closings, and useful phrases)
+
+
+##### F. Editing Practice — Repair the Email Structure
 
 **Original:**
 > Subject: Help
@@ -256,6 +324,35 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 > [Name]
 
 
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to name one email part that feels easy, one that feels difficult, and one phrase from Activity C they want to use in real emails. Accept any honest, specific response.
+
+
+##### H. Homework & Extension
+
+**Build Two Purpose Lines — model responses:**
+
+A. asking about a missing document
+
+1. Subject: Missing Document — Application Review
+2. I am writing to ask about a missing document from the application file.
+
+B. confirming a deadline
+
+1. Subject: Deadline Confirmation — Application Review
+2. I would like to confirm the deadline for the current application review.
+
+C. giving an update about a review delay
+
+1. Subject: Update — Application Review Delay
+2. I would like to provide an update regarding a delay in the current review.
+
+**Homework Task:** Open-ended. A strong response rewrites a real or practice email using all six structural parts from Activity A. The email should include a clear subject line, a professional greeting, an opening sentence stating the purpose, a short body, a closing sentence, and a sign-off with a name. The language should match the workplace tone from Activity C.
+
+
 #### Unit 5. Requesting Clarification
 
 ##### A. Warm-Up — What Is Unclear?
@@ -266,7 +363,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. "The deadline has changed." — _What is the new deadline? Which process does it apply to?_
 
 
-##### C. Practice A — Make These Questions Clearer
+##### C. Language — Make These Questions Clearer
 
 1. Could you clarify which section of the document needs to be corrected?
 2. I am not sure I understand Section 3 of the form. Could you explain what information should be included?
@@ -274,7 +371,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. Could you let me know what the next step is and whether I should take any action before then?
 
 
-##### C. Practice B — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. Could you clarify how the current requirement differs from the version you mentioned previously?
 2. Could you explain which specific step in the instructions is unclear? I would like to follow the correct procedure.
@@ -282,7 +379,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. Could you describe the issue you are experiencing with the system so we can investigate further?
 
 
-##### C. Practice C — Clarification from Context
+##### C. Language — Clarification from Context
 
 **Scenario 1:** "Submit the form as soon as possible."
 1. Could you clarify what the specific deadline is for submitting the form?
@@ -297,7 +394,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 2. Could you confirm the expected format and the submission deadline?
 
 
-##### D. Extended Guided Practice — Rewrite and Improve
+##### C. Language — Rewrite and Improve
 
 1. Could you clarify which part of this process is unclear? I want to follow the correct procedure.
 2. We have received two files that appear to be different versions. Could you confirm which one is correct for the current review?
@@ -305,12 +402,43 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. Could you clarify what error was found in this part? I would like to correct it as soon as possible.
 
 
-##### G. Editing Practice — Fix the Clarification Problem
+##### D. Guided Practice — Write a Clarification Email
+
+Open-ended. A strong email should use the situation about unclear form-submission information and include:
+
+- a clear subject line
+- a professional greeting
+- an opening sentence that states the purpose
+- one specific clarification question about where to submit the form
+- a polite closing sentence
+- a sign-off
+
+
+##### E. Freer Practice — Write Two Clarification Emails
+
+Open-ended. Each email should focus on one unclear point only and ask a polite, specific question. Students should not combine several unrelated questions in one message.
+
+
+##### F. Editing Practice — Fix the Clarification Problem
 
 1. Could you clarify which step in the instruction requires attention? I want to follow the correct process.
 2. We received two files with the same name. Could you confirm which version should be used for this review?
 3. The deadline in the notice differs from the one on the form. Could you confirm which date is correct?
 4. Could you let me know what format and content are expected in the report requested by the supervisor?
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to name one useful clarification phrase, explain one difficulty in asking polite questions, and write one usable clarification question.
+
+
+##### H. Homework & Extension
+
+**Clarification Summary Paragraph:** Open-ended. A strong paragraph should explain the background, identify one unclear or missing point, explain why clarification is needed, show the effect on the work, and close with a neutral next-step line.
+
+**Homework Task:** Open-ended. A strong response should identify one unclear point in a real or practice message and write a polite, specific clarification question about that point.
 
 
 #### Unit 6. Communicating Delays or Changes
@@ -323,7 +451,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. "The system will be updated." — _When? Who is affected? For how long?_
 
 
-##### C. Practice A — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. The meeting has been delayed until Thursday because the updated file set is not yet complete.
 2. The submission procedure has been updated. From next week, all forms should be sent directly to the central review office.
@@ -331,7 +459,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 4. The system is running slowly due to a temporary server issue. Access will return to normal once the maintenance is complete.
 
 
-##### C. Practice B — Reorder to Make a Clear Update
+##### C. Language — Reorder to Make a Clear Update
 
 **Best order: B → C → A**
 
@@ -340,7 +468,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 3. A: This may affect the planned timeline. _(broader impact)_
 
 
-##### C. Practice C — Add Supporting Information
+##### C. Language — Add Supporting Information
 
 1. The deadline for this review has been extended to 30 June. This change was made because additional documentation was required. The review will continue once all materials have been received.
 2. The applicant's file will be reviewed next week instead of the original schedule. The required verification documents were only received today. An update will be provided once the review is complete.
@@ -363,12 +491,31 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 > [Name]
 
 
-##### G. Editing Practice — Remove the Reader's Uncertainty
+##### E. Freer Practice — Choose a Scenario and Write
+
+Open-ended. Each email should include the change or delay, a short reason or background sentence if needed, and the effect or next step. The tone should remain neutral and professional.
+
+
+##### F. Editing Practice — Remove the Reader's Uncertainty
 
 1. The meeting has been rescheduled from Tuesday to Thursday at 2 p.m. This change was made because the updated document set will not be ready in time.
 2. We are unable to complete the file check today because the shared folder is temporarily inaccessible. We expect access to be restored tomorrow morning.
 3. A problem was found with two submitted documents. The relevant sections were incomplete, which means the review cannot continue at this stage.
 4. The system update will require approximately three hours. During this period, some review functions may be temporarily unavailable.
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should be able to identify useful delay/change phrases, comment on neutral explanation style, and name one easy or difficult part of the unit.
+
+
+##### H. Homework & Extension
+
+**Turn an Email Update into a Report Paragraph:** Open-ended. Students should keep the same core facts but remove email features such as greeting and sign-off. The paragraph should sound like an internal report or update.
+
+**Homework Task:** Open-ended. A strong response rewrites a real or practice delay/change message using the unit structure and neutral professional language.
 
 
 #### Unit 7. Making Requests Politely
@@ -380,7 +527,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 All b options use polite modal forms. They reduce the pressure of the a options while keeping the request clear.
 
 
-##### C. Practice A — Rewrite the Request
+##### C. Language — Choose a Polite Request Form
 
 1. Could you please send the updated file by end of day? We need it for the next review stage.
 2. Could you let me know the deadline for this application? This will help us plan the next steps.
@@ -388,7 +535,7 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. I would appreciate it if you could provide the applicant's current contact details. This information is needed for the next stage of the review.
 
 
-##### C. Practice B — Make the Request More Specific
+##### C. Language — Make the Request Specific
 
 1. Could you please send the completed version of Form B — the one dated 15 May?
 2. Could you check whether all required signatures are present on page 3 of the application?
@@ -396,7 +543,7 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. Could you update me on whether the missing documents have been uploaded to the shared folder?
 
 
-##### C. Practice C — Soften the Request
+##### C. Language — Reduce Pressure
 
 1. Could you please send this by end of day when you have an opportunity?
 2. Could you let me know the result when it is available?
@@ -420,7 +567,12 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 > [Name]
 
 
-##### G. Editing Practice — Keep the Request, Improve the Tone
+##### E. Freer Practice — Write Two Request Emails
+
+Open-ended. A strong response should choose two situations and write two separate request emails. Each email should include a clear opening, one polite request, a short reason or context sentence, and a softened closing. Accept different request structures if the tone is professional and the action is clear.
+
+
+##### F. Editing Practice — Keep the Request, Improve the Tone
 
 1. Could you please send the corrected file today when you have an opportunity?
 2. Could you let me know the meeting time when it has been confirmed?
@@ -428,14 +580,53 @@ All b options use polite modal forms. They reduce the pressure of the a options 
 4. Could you please provide the missing information? This will help us continue the review.
 
 
-##### Module 2 Review — Email Comparison (Version A vs. B)
+##### G. Self-Check and Reflection
 
-**Answer: B is more professional.**
+Self-check: pass/fail only. No model answer required.
 
-Discussion points:
-1. B uses "Could you please" (polite modal); A uses an imperative ("Send")
-2. B gives a reason ("to complete the report before the afternoon deadline"); A gives no context
-3. B is appropriate for a colleague or external contact; A sounds demanding
+Reflection responses are open-ended. Students should identify a useful polite request phrase, name a softening phrase they can use, and explain when a request should be more formal.
+
+
+##### H. Homework & Extension
+
+Open-ended. The extension response should write two versions of the same request: one safe standard version using 'Could you...?', and one softer version using 'Would you be able to...?' or 'I would appreciate it if...'. The final comparison should state which version fits a colleague and which version fits an outside office.
+
+The homework response should rewrite one real or practice request using two different polite request structures from the unit.
+
+
+#### Module 2 Review Workshop
+
+**Email Comparison Review / Review Response:** Version B is easier for the reader to act on. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and action.
+
+**Revision Lab:** A possible stronger version:
+
+> Subject: Request to Resend the Student Information Form
+>
+> Dear Ms. Lee,
+>
+> Thank you for your previous message. We noticed that page 2 of the student information form is missing from the attachment. Could you please resend the complete form by Friday so that we can continue the review?
+>
+> Best regards,
+> [Your Name]
+
+Key improvements:
+
+- Replaced the vague subject line with a specific subject.
+- Named the exact problem: page 2 is missing.
+- Changed the urgent request into a polite request.
+- Connected the deadline to the review purpose.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one email from Units 4-7, then write a revised subject/opening and a revised email section. The revision should make the purpose, action, or tone clearer for the reader.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one short internal email
+- one short external email about the same situation
+- a clear purpose and action in both emails
+- more controlled tone and background detail in the external version where appropriate
+- three short notes explaining what stayed the same, what changed because of audience, and which unit strategy supported the decision
+
+**Preparation for Module 3:** Self-check only. If a student cannot complete one item confidently, they should revise one more email from the relevant unit before beginning Module 3.
 
 
 ### MODULE 3. Administrative Procedures & Internal Communication
@@ -449,7 +640,7 @@ Discussion points:
 Version B uses numbered steps with one clear action each. Version A mixes instructions, conditions, and explanatory notes in a single step, making the order hard to follow.
 
 
-##### C. Practice A — Improve the Verb Choice
+##### C. Language — Improve the Verb Choice
 
 1. Review the file and confirm all sections are complete.
 2. Enter the applicant's name in the system.
@@ -457,7 +648,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 4. Submit the form to the designated department.
 
 
-##### C. Practice B — Put the Steps in Order
+##### C. Language — Put the Steps in Order
 
 **Best order: A → D → C → B**
 
@@ -494,7 +685,12 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 5. Confirm the document appears correctly in the folder and is accessible to team members.
 
 
-##### G. Editing Practice — Repair the Procedure
+##### E. Freer Practice — Write a Workplace Procedure
+
+Open-ended. A successful response should include 4-6 numbered steps, a clear user or context, one action per step, and a logical order.
+
+
+##### F. Editing Practice — Repair the Procedure
 
 **Original:**
 1. Check the file and maybe look at the applicant number too because this is important.
@@ -509,6 +705,16 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 5. Submit the file to the next department.
 
 
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify one useful instruction verb and one clear step from their own procedure.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should include a short manual-style section or workplace procedure with a clear user, numbered steps, and a closing sentence or end point.
+
+
 #### Unit 9. Internal Notices
 
 ##### A. Warm-Up — Which Notice Is Clearer?
@@ -518,7 +724,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 Notice B has a clear heading, explains what happened, states current status, and gives a next step. Notice A is vague and leaves the reader without useful information.
 
 
-##### C. Practice A — Identify the Parts
+##### C. Language — Identify the Parts
 
 1. **E** (Essential information — the review date)
 2. **H** (Heading)
@@ -526,12 +732,17 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. **N** (Next step)
 
 
-##### C. Language 2 — Rewrite to Make Them Neutral
+##### C. Language — Rewrite These to Make Them Neutral
 
 1. A delay has occurred in the review process. The team has been informed of the updated timeline.
 2. All staff are reminded to check the updated files before the end of the business day.
 3. The system is currently showing a temporary error. The issue is under investigation by the IT team.
 4. The meeting scheduled for this afternoon has been cancelled. A replacement date will be confirmed shortly.
+
+
+##### C. Language — Improve the Clarity
+
+Open-ended. A successful response should add a real topic, a key fact, and an effect or next step.
 
 
 ##### D. Guided Practice — Write a Short Internal Notice
@@ -545,7 +756,12 @@ Notice B has a clear heading, explains what happened, states current status, and
 > The file management system will undergo scheduled maintenance this weekend, from Saturday evening to Sunday morning. During this period, access to shared folders and the review database will be temporarily unavailable. Staff are advised to save all current work before Friday end of day. Normal system access will resume on Monday morning. Further information will be provided if the schedule changes.
 
 
-##### G. Editing Practice — Strengthen the Notice
+##### E. Freer Practice — Write Two Notices
+
+Open-ended. Each notice should have a clear heading, short background, essential information, and a neutral next-step line.
+
+
+##### F. Editing Practice — Strengthen the Notice
 
 **Original:**
 > Notice
@@ -558,6 +774,16 @@ Notice B has a clear heading, explains what happened, states current status, and
 > A temporary issue has been identified with the file access system this morning. Some shared documents may be unavailable or difficult to open. The IT team is currently investigating the cause. An update will be provided once the issue is resolved. Staff are advised to save all work locally until normal access is restored.
 
 
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify which part of the notice structure is most difficult and compare the clarity of their Activity E notices.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should follow the notice structure from the unit. The extension response may expand a short notice into a fuller bulletin-style paragraph by adding background, impact, and a next step.
+
+
 #### Unit 10. Explaining Problems Clearly
 
 ##### A. Warm-Up — Identify the Missing Information
@@ -568,7 +794,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. "We cannot access the document." — _Which document? Since when? Why?_
 
 
-##### C. Practice A — Improve the Explanation
+##### C. Language — Improve the Explanation
 
 1. The uploaded file cannot be reviewed because two required sections are missing. The review will continue once the corrected version is received.
 2. The system is responding slowly due to a high volume of requests this morning. Access is expected to return to normal by early afternoon.
@@ -576,7 +802,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 4. The information in the document does not match the previous version on file. The discrepancy needs to be resolved before the review can continue.
 
 
-##### C. Practice B — Add Details
+##### C. Language — Add Details
 
 1. The application cannot be opened. / _The file appears to be in an unsupported format._ / _The IT team has been notified, and the applicant has been asked to resubmit._
 2. The review is delayed. / _Two supporting documents are still missing from the applicant file._ / _The review can continue once the missing items are uploaded._
@@ -592,13 +818,28 @@ Notice B has a clear heading, explains what happened, states current status, and
 > We are reporting a system error that has affected file access since early this morning. Reviewers are currently unable to open files in the shared review folder. The error appears to be related to yesterday's server update. As a result, the review scheduled for today has been temporarily suspended. The IT team is currently working to resolve the issue, and we will provide an update as soon as normal access is restored.
 
 
-##### G. Editing Practice — Repair the Problem Logic
+##### E. Freer Practice — Write Two Problem Explanations
+
+Open-ended. Each explanation should include the issue, effect, current status, and cause if known.
+
+
+##### F. Editing Practice — Repair the Problem Logic
 
 **Original:** "There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later."
 
 **Model rewrite:**
 
 > A technical issue has been identified with the database this morning. As a result, the review process has been temporarily suspended. We also found that some uploaded files are displaying errors that prevent normal access. The IT team is currently investigating the problem and will provide an update shortly.
+
+
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify which part of the problem-explanation structure is easiest and which is most difficult.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should describe a problem in neutral language and include background or context, issue, effect, and current status.
 
 
 #### Unit 11. Writing Simple Meeting Summaries
@@ -610,7 +851,7 @@ Notice B has a clear heading, explains what happened, states current status, and
 Summary B names specific items (applicant list, updated guidelines), gives a clear decision (IT confirms on Monday), and provides the next meeting date.
 
 
-##### C. Practice A — Identify the Elements
+##### C. Language — Identify the Elements
 
 1. **T** (Topic — what the meeting was for)
 2. **D** (Decision — what the team agreed to)
@@ -618,7 +859,7 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 4. **A** (Action item — what will happen)
 
 
-##### C. Practice B — Improve the Clarity
+##### C. Language — Improve the Clarity
 
 1. The team reviewed the document set during the review preparation meeting. The IT team will confirm system access before Monday.
 2. The meeting covered three areas: scheduling, document review, and IT access. The main decision was to extend the review period by two weeks. A follow-up meeting is planned to confirm next steps.
@@ -634,13 +875,55 @@ Summary B names specific items (applicant list, updated guidelines), gives a cle
 > The team met today to review the April schedule. Two tasks require additional time and will not be completed within the original timeline. The IT team must complete a system update before the review can begin. A follow-up meeting has been scheduled for next Tuesday. Further updates will be provided once the IT update is confirmed.
 
 
-##### G. Editing Practice — Make the Summary Usable
+##### E. Freer Practice — Write Two Summaries
+
+Open-ended. Each summary should include the topic, the main point or decision, and one next step.
+
+
+##### F. Editing Practice — Make the Summary Usable
 
 **Original:** "We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later."
 
 **Model rewrite:**
 
 > The team met to discuss the review schedule and outstanding document issues. The main finding was that two forms still require additional confirmation. The IT team confirmed that system access for the review will be ready by Monday. A follow-up meeting is planned for later this week to finalise the preparation checklist.
+
+
+##### G. Self-Check and Reflection
+
+Self-check and reflection. Students should identify the easiest and most difficult parts of summary writing and choose one useful phrase from the unit.
+
+
+##### H. Homework & Extension
+
+Open-ended. A successful response should record the meeting topic, main point or decision, and next step. The manager version should make the key point and action item more direct.
+
+
+#### Module 3 Review Workshop
+
+**Reader-Purpose Comparison / Review Response:** Version B is stronger. It names the meeting purpose, identifies the main issue, gives the agreed action, and explains when a follow-up meeting will be needed. Version A is weak because it lists general topics without helping the reader act. A successful student response should mention reader purpose, order, and next action.
+
+**Revision Lab model answer:**
+
+> The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
+
+Key improvements:
+
+- Named the exact room change.
+- Gave the reason for the change.
+- Told the reader where and when to submit documents.
+- Added a clear return-to-normal time frame.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one procedure, notice, problem note, or summary from Units 8-11, then write one revised sentence or step and one revised text section. The revision should improve order, factual detail, or reader action.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- a 3-4 step procedure or action list
+- a short notice or explanation paragraph
+- a 4-5 sentence summary of the outcome or next step
+- three short notes explaining organisation, next-step clarity, and the most useful unit strategy
+
+**Preparation for Module 4:** Self-check only. If a student cannot complete one item confidently, they should revise one more internal text from the relevant unit before beginning Module 4.
 
 
 ### MODULE 4. External Communication
@@ -746,6 +1029,29 @@ _Instructor note: Award marks for: clear statement of the issue, specific cause 
 3. Dear Team, We have found that the attached file is not the correct version for this review. Could you please send the updated file? Thank you.
 
 
+#### Module 4 Review Workshop
+
+**Audience-Control Comparison / Review Response:** Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue. A successful student response should mention audience, amount of detail, and answerability.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Removed blame language.
+- Restated the process calmly.
+- Explained the steps in the order the reader needs.
+- Ended with an offer of further help.
+
+**Self-Edit Routine:** Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one outward-facing message
+- one short internal explanation for the team
+- appropriate differences in tone and background detail for each reader
+- three short notes explaining audience wording, detail control, and the unit strategy used
+
+**Preparation for Module 5:** Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
+
+
 ### MODULE 5. Advanced Editing & Revision Skills
 
 #### Unit 16. Editing for Accuracy
@@ -821,6 +1127,29 @@ _Instructor note: Exercise asks students to identify tone problems (too direct, 
 - "Send it now." → "Could you please send it when you have an opportunity today?"
 - "This is unacceptable." → "We would like to discuss how this issue can be resolved."
 - "Why didn't you do this?" → "I have a question about the earlier step. Could you clarify what happened?"
+
+
+#### Module 5 Review Workshop
+
+**Revision Comparison / Review Response:** Version B is stronger. It is more accurate because it describes the file problem without accusation, clearer because it names the requested action, and stronger in tone because it uses a polite request linked to the review purpose. A successful student response should mention accuracy, clarity, and tone.
+
+**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+
+- Made the problem more precise.
+- Separated the problem from the requested action.
+- Replaced blaming or pressured wording with a cooperative request.
+- Kept the administrative meaning while improving tone.
+
+**Self-Edit Routine:** Open-ended. Students should apply the accuracy, clarity, and tone routine to one earlier draft from Modules 1-4, then write a revised sentence or section. The revision should keep the same essential meaning while improving control.
+
+**Transfer Task:** Open-ended. A successful response should include:
+
+- one accuracy-focused revision
+- one clarity-focused revision
+- one tone-focused revision
+- three short notes explaining which pass changed the text most, which felt easiest, and which pass the student needs most in real work
+
+**Preparation for Module 6:** Self-check only. If a student cannot complete one item confidently, they should revise one more draft from the relevant unit before beginning Module 6.
 
 
 ### MODULE 6. Integrated Tasks
@@ -902,9 +1231,31 @@ _All exercises use the student's own previous writing as source material. No fix
 - Does the new Unit 23 document fit the standard set by the rest of the portfolio?
 
 
+#### Module 6 Review Workshop
+
+**Multi-Document Comparison / Review Response:** Version B is stronger. It separates the external message from the internal note, gives each reader the information they need, and keeps the shared fact consistent across both texts. Version A mixes reader jobs and gives no clear workflow control. A successful student response should mention audience control, document purpose, and consistency.
+
+**Revision Lab:** Open-ended. A successful rebuilt set should include:
+
+- an external message that thanks the reader, names the exact document problem, and asks for one clear action
+- an internal message that explains the same fact neutrally and tells the team what to pause, continue, or watch
+- a revision note explaining why the two texts cannot stay the same and which editing pass improved the set most
+
+**Self-Edit Routine:** Open-ended. Students should apply the integrated-task checklist to one set from Units 19-23, then revise one opening or next-step sentence. The revision should improve purpose, audience separation, consistency, or action clarity.
+
+**Final Course Transfer Task:** Open-ended. A successful response should include:
+
+- one external-facing message
+- one internal explanation or notice
+- one style or revision note
+- a final reflection explaining audience control, Module 1 carry-forward skills, explanation/structure support, Module 5 editing habits, and one remaining revision goal
+
+**Portfolio Completion Check:** Self-check only. Students should use the ladder to show that at least one portfolio item moved from draft to controlled revision and that the final portfolio demonstrates a deliberate range of course skills.
+
+
 ### APPENDIX. Grading Notes for Open-Ended Exercises
 
-#### For all Freer Practice, Transfer Extension, Reflection, and Homework exercises:
+#### For all Freer Practice, Homework & Extension, and Reflection exercises:
 
 **Assess holistically.** Does the writing show the target skill from the unit?
 

@@ -1267,11 +1267,11 @@ Rules:
 
 ## 2026-06-01 - INT Unit 3 Confirms First-A Preservation Rule
 
-- Status: `active`
+- Status: `superseded`
 - Scope: project/conventions
 - Observation: Unit 3 required the first visible `A` heading (`A. What Is a Paragraph?`) to remain structural while the later `A` primer/warm-up headings were demoted inside the section. The full Phase 3 pass also worked better after the paragraph model explicitly labeled topic/supporting/closing roles and after the reflection step regained its own placeholder.
 - Decision: when a unit has both a concept primer and a later warm-up, preserve the first intended structural `A` and demote later `A` labels rather than flattening them mechanically. For paragraph-structure tasks, label model roles directly when the learner is later asked to identify those same roles.
-- Preferred behavior: use Unit 3 as the baseline for Units 4 and 8-18 where first-`A` preservation is expected, and size editing-practice placeholders for full paragraph output when the task asks for a complete rewritten paragraph.
+- Superseded by: the later book-wide warm-up standard and the 2026-06-02 Unit 3 pedagogical rewrite. Do not use this entry as current guidance.
 
 ## 2026-06-01 - INT Unit 3 Revealed Book-Wide Warm-Up Standard Must Override Bad Source Labels
 
@@ -1281,3 +1281,73 @@ Rules:
 - Observation: `A. Warm-Up` is the book-wide standard visible `A` activity. In Unit 3, other `A`-level items such as `What Is a Paragraph?` and `When Should You Start a New Paragraph?` were inappropriately labeled at the source level rather than functioning as true co-equal `A` sections.
 - Decision: when duplicate visible `A` headings appear, do not preserve the first one blindly. Normalize the unit to the book-wide shell first: visible `A` should remain `Warm-Up` unless a documented exception is intentionally designed. Reclassify mislabeled primer/explanation material by function and rehome it under the appropriate activity or support block.
 - Preferred behavior: for Unit 3 and similar units, resolve duplicate `A` headings by pedagogical function, not by original order. Also audit each activity for clean div titles, context -> action -> output instruction order, and removal of redundant labels or repeated task wording before considering the unit repaired.
+
+## 2026-06-02 - INT Answer Key Must Track Activity Edits
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: any change to INT lesson activity prompts, task purpose, expected output, item numbering, or placeholder structure must be reflected in `int/md/working/aw-int-answer-key.md` in the same work cycle.
+- Preferred behavior: before marking a unit repair complete, check the corresponding answer-key unit section and update headings, model answers, diagnostic notes, and open-task guidance so teachers do not receive stale activity references.
+
+## 2026-06-02 - INT Unit 3 Pedagogical Rewrite Baseline
+
+- Status: `active`
+- Scope: project/state
+- Observation: Unit 3 has been rewritten from the old lecture-heavy paragraph primer into a clearer Phase 3 sequence: `A. Warm-Up`, `B. Example Check`, `C. Language`, `D. Guided Practice`, `E. Freer Practice`, `F. Editing Practice`, `G. Self-Check and Reflection`, `H. Transfer Extension`.
+- Decision: paragraph-structure units should provide controlled source facts before asking intermediate learners to write report-style paragraphs. Avoid asking students to invent content while they are learning paragraph structure.
+- Preferred behavior: for later paragraph/report-style units, use Unit 3's current sequence as the model: compare, explain, label structure, practise with controlled facts, write from a fact bank, edit paragraph logic, self-check, then transfer. Update the answer key in the same work cycle.
+
+## 2026-06-02 - INT Paragraph Labels And Module Review Workshop Standards
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: when a paragraph-structure activity teaches sentence roles without breaking paragraph flow, model labels such as `(T)`, `(S)`, and `(C)` should appear at the ends of sentences in the model paragraph, and the student labelling task should use the same end-position blank pattern.
+- Decision: duplicate `A-H` repairs should be resolved by pedagogical function, not original heading order. Ordinary units should normally keep `A. Warm-Up` as the visible opening activity; concept-primer material should be rehomed under the activity where it teaches the skill.
+- Decision: module review workshops follow Phase 3 standards even though they are not ordinary `A-H` units: title-case visible headings, no generic `Write Here` labels, placeholders inside task divs, redundant strategy/review blocks combined or removed, and answer-key criteria for open-ended review tasks.
+- Preferred behavior: before signing off a module review workshop, check the source and answer key together, especially transfer and revision tasks with open-ended outputs.
+
+## 2026-06-02 - INT Div Content Styles Are Source-Driven
+
+- Status: `active`
+- Scope: project/tooling/source-contract
+- Decision: the INT Markdown front matter must include `div_content_style_map` for semantic content styles, especially `example`, `example-good`, and `example-bad` mapping to `AW Example`, `AW Example Good`, and `AW Example Bad`.
+- Decision: model/example styling should come from explicit fenced div classification in the Markdown source, not postprocessor inference from phrases, quotation marks, or incidental Word quote styles.
+- Preferred behavior: when adding or repairing model text, wrap it in the correct fenced div class. Do not rely on Textmaker to infer content style from labels such as `Original`, `Strong`, `Possible Stronger Version`, or from quoted paragraphs.
+
+## 2026-06-02 - INT Module Review Workshop Standard Applied Book-Wide
+
+- Status: `active`
+- Scope: project/conventions
+- Decision: all INT module review workshops now follow the same Phase 3 review pattern: key lessons, comparison task with short response space, revision lab, self-edit routine with visible revision space, transfer task with separate reflection/notes where needed, and preparation/final portfolio check.
+- Decision: module review workshops should not accumulate multiple strategy maps, planning grids, rebuild labs, and comparison sets that repeat the same teaching point. Consolidate redundant support into one usable compare/revise/self-edit/transfer sequence.
+- Decision: answer-key review-workshop blocks must appear after the module's final unit and mirror the student-book sequence.
+- Verification: after applying the standard to Modules 2-6, whole-manuscript divs were balanced at 551 opens / 551 closes, placeholder IDs were unique, and Pandoc parsed `int/md/working/aw-int-all_0519.md` with `style_bridge.lua` without warnings.
+- Preferred behavior: when continuing Phase 3 unit work, check module-review workshops alongside units because they are high-risk locations for repeated generic div titles, missing response spaces, and stale answer-key placement.
+
+## 2026-06-03 - INT Unit 4 Follow-Up Consistency Standard
+
+- Status: `active`
+- Scope: project/conventions
+- Context: reviewing the external Claude Code Unit 4 pass against the Module 1 Phase 3 repair standard.
+- Decision: when a unit teaches a named text structure, the primary student-book model must visibly include every component in that structure. Unit 4 teaches a six-part email, so the strong email model must show subject line, greeting, opening sentence, body/question, closing sentence, and sign-off.
+- Decision: avoid nested semantic divs. If a task needs both an instruction wrapper and a styled model/example, use sibling divs and keep the response placeholder inside the relevant production or edit div.
+- Preferred behavior: merge adjacent generic `learn` blocks such as `Why This Works` when they explain the same model, and replace generic div titles like `Teaching Point` with a title that names the exact learner-facing concept.
+
+## 2026-06-03 - INT Units 5-6 Batch Repair Pattern
+
+- Status: `active`
+- Scope: project/conventions
+- Context: first paired Phase 3 batch repair after the Module 1 pilot and Unit 4 follow-up review.
+- Decision: batch processing is acceptable for adjacent units when they share the same old structural pattern and are still checked with the full per-unit Phase 3 standard. Units 5 and 6 were repaired together because both had the repeated `F. Self-Check Before Freer Practice` -> `E. Freer Practice` -> `G. Editing Practice` -> `H/E/F/H` tail pattern.
+- Decision: old `Extended Guided Practice` material should be folded into `C. Language` when it is controlled sentence-level rewrite work, leaving one visible `D. Guided Practice`.
+- Decision: H sections should not keep two near-identical transfer paragraph tasks. Keep the one that best extends the unit skill and remove or merge the redundant one.
+- Preferred behavior: for future batch repairs, run both unit-level and whole-manuscript audits after the batch: visible sequence, div balance, nested divs, placeholders outside divs, generic response labels, stale placeholder IDs, and answer-key headings.
+
+## 2026-06-03 - INT Section H Visible Heading Standard
+
+- Status: `active`
+- Scope: project/conventions
+- Context: Dave compared the current working manuscript against `int/md/final/modules` and the intermediate planning files, and confirmed that `transfer` had drifted from a support function into a visible section title.
+- Decision: the visible ordinary-unit Section H heading for the intermediate book is `### H. Homework & Extension`, matching the final module baseline. `Transfer` remains a pedagogical function: applying, extending, or carrying the unit skill to a new/later context. Do not use `Transfer Extension`, `Transfer and Homework`, or `Transfer / Homework` as the visible Section H heading unless a documented capstone exception requires it.
+- Decision: when Phase 3 folds duplicate old H sections into one visible H area, preserve both functions where they add real learner work: an extension/carry-forward task and a clearly labeled `Homework Task`.
+- Preferred behavior: when repairing later units, replace visible `### H. Transfer Extension` plus `### H. Homework` pairs with one `### H. Homework & Extension` section, keep placeholders inside the relevant task divs, and update `int/md/working/aw-int-answer-key.md` in the same cycle.

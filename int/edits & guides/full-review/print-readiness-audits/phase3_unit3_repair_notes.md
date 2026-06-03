@@ -4,40 +4,55 @@ Source: `int/md/working/aw-int-all_0519.md`
 
 Unit: Unit 3. Paragraph Structure
 
-Date: 2026-06-01
+Date: 2026-06-02
 
 ## Summary
 
-Unit 3 was repaired after Unit 2 to apply the same full Phase 3 method to the first unit with a duplicated `A` shell and a concept-primer section that needed to remain visible.
+Unit 3 was substantially rewritten after review showed that the previous structural repair left major pedagogical problems. The current repair prioritizes a clearer learning sequence: compare paragraphs, explain topic unity, teach topic/support/closing structure, practise with controlled facts, produce one supported paragraph, edit paragraph logic, then self-check and transfer.
 
 ## Repairs Applied
 
-- Normalized the visible unit shell from `AAABCDFEGHFH` to `ABCDEFGH`.
-- Kept `A. What Is a Paragraph?` as the first intended structural `A` section.
-- Demoted `A. When Should You Start a New Paragraph?` and `A. Warm-Up` to subordinate in-section labels instead of leaving duplicate visible `A` headings.
-- Rewrote the paragraph-break examples to remove visible arrow notation and make the progression easier to read.
-- Tightened the `Why This Works` explanation into shorter connected prose.
-- Rebuilt the `C. Language` model paragraph so the topic, supporting detail, and closing roles are labeled explicitly.
-- Replaced the two `Your labels:` prompt blocks with direct response placeholders for Paragraph 1 and Paragraph 2.
-- Removed the redundant generic response box from the `Reorder and Extend` task and kept one task-focused placeholder instead.
-- Rewrote the guided-practice instruction so the structure target, sentence range, and output expectations are explicit.
-- Moved `E. Freer Practice` before `F. Editing Practice` to restore the draft -> edit -> self-check flow.
-- Expanded the editing-practice response space because the task requires a full corrected paragraph, not a short rewrite.
-- Merged the old `F. Self-Check Before Freer Practice` and `F. Reflection` material into `G. Self-Check and Reflection`.
-- Added a reflection response placeholder so the `G` section has a clear written output area.
-- Folded homework under the single visible `H. Transfer Extension` section.
-- Removed leftover generic labels such as `Write Here`, `Use this box for one complete version`, and `Homework Draft` from the unit.
+- Restored the ordinary visible shell to `A. Warm-Up`, `B. Example Check`, `C. Language`, `D. Guided Practice`, `E. Freer Practice`, `F. Editing Practice`, `G. Self-Check and Reflection`, and `H. Transfer Extension`.
+- Removed the old lecture-heavy `A. What Is a Paragraph?` section and folded essential concepts into the example check and language sections.
+- Merged overlapping explanation blocks into one focused `Why Paragraph A Works` teaching point.
+- Rebuilt `C. Language` around the three paragraph jobs: topic sentence, supporting details, and closing sentence.
+- Replaced overloaded label-and-rewrite tasks with separated label, ordering, and support-sentence tasks.
+- Removed answer-like support examples from the student task.
+- Replaced the weak guided rewrite with a controlled fact-bank paragraph task.
+- Added fact banks to freer practice so students do not have to invent content before practising paragraph structure.
+- Converted list-heavy teaching and fact-bank material into prose paragraphs so the unit demonstrates paragraph writing rather than repeatedly presenting paragraph content as lists.
+- Removed the table from the paragraph-structure teaching point and presented the structure as connected prose with a paragraph model and explanation.
+- Reframed editing practice so students remove an unrelated sentence and add a closing point.
+- Clarified self-check references so students can check Activity E or Activity F.
+- Clarified transfer so earlier Unit 1 or Unit 2 content is converted into an internal paragraph, not an email.
+- Updated `int/md/working/aw-int-answer-key.md` for all changed Unit 3 activity labels, expected outputs, and model/guidance notes.
 
 ## Verification
 
 - Visible heading sequence: `ABCDEFGH`.
-- Unit-level fenced div balance: 19 opens / 19 closes.
-- Unit placeholders: 9 total, all with explicit `rows=N`.
-- Duplicate placeholder IDs: none found in Unit 3.
+- Unit-level fenced div balance: 15 opens / 15 closes.
+- Whole-manuscript fenced div balance after repair: 569 opens / 569 closes.
+- Unit placeholders: 10 total, all with explicit `rows=N`.
+- Duplicate placeholder IDs in Unit 3: none.
+- Duplicate placeholder IDs in the whole manuscript: none.
 - Generic response labels in Unit 3: none found.
+- Old Unit 3 placeholder IDs and stale labels in the source: none found.
+- Raw arrow notation in Unit 3 source: none found.
+- Unit 3 answer-key stale labels and old placeholder references: none found.
+- Unit 3 list/table reduction check: 14 bullet list items, 10 numbered items, and 0 tables remain; remaining lists are limited to focus outcomes, labels, ordered sentence items, self-checks, and transfer constraints.
+
+## Phase 3 Checklist Result
+
+- Focus alignment: pass. Activities now build toward identifying, organizing, writing, editing, and transferring paragraph structure.
+- Activity sequencing: pass. The unit now follows warm-up -> example -> language -> guided practice -> freer practice -> editing -> self-check/reflection -> transfer/homework.
+- Instruction quality: pass. Each production task names source facts, action, length, output form, and response space.
+- Intermediate learner readability: pass. Instructions use short direct sentences and controlled administrative context.
+- Formatting and Markdown: pass. Div classes match task function, visible headings are unique, no generic response labels remain, and paragraph teaching content is now mostly prose rather than list/table scaffolding.
+- Response-space calibration: pass. Label/order tasks use short boxes; paragraph-writing tasks use larger boxes.
+- Answer-key alignment: pass. The Unit 3 answer key reflects the repaired activity labels, model answers, and open-ended guidance.
 
 ## Carry-Forward Notes
 
-- Unit 3 confirms that the first intended structural `A` heading must be preserved when a unit contains both a concept primer and a warm-up.
-- Paragraph-structure units benefit from labeling the function of model sentences directly when the activity later asks students to identify `T / S / C` roles.
-- When a task asks for one complete paragraph rewrite, the placeholder should be sized for a full paragraph rather than a sentence-level response.
+- For duplicate `A` repairs, do not preserve the first `A` mechanically. Use the ordinary unit shell unless a documented exception is intentionally designed.
+- Paragraph-structure units need controlled source facts before asking intermediate learners to write report-style paragraphs.
+- Avoid giving a model support sentence immediately before a task that asks students to write the same kind of sentence.

@@ -1,4 +1,5 @@
 # INT Print-Readiness Repair Plan
+
 ## Administrative Writing, Intermediate
 
 **Date:** 2026-05-30
@@ -127,6 +128,7 @@ The user's original problem list is the acceptance checklist for this plan. Do n
 | Redundant student response placeholders | Sections 2.4, 4.7, 6.6, and Definition of Done item 4 | Remove generic or duplicate boxes unless the activity explicitly needs a separate final version. |
 | Excessive redundant titles | Sections 4.2 and 6.5 | Reduce stacked near-synonym titles to one clear activity/div title plus needed prose. |
 | Missing prose after headers or title-like lines | Sections 4.3, Phase 3 step 10, 6.3, and Definition of Done item 9 | Add enough student-facing explanation, task language, or example context after each title/header-like line. |
+| Activity changes not reflected in the answer key | Phase 3 step 16, 6.7, Phase 6 step 4, and Definition of Done item 12 | Update `int/md/working/aw-int-answer-key.md` in the same work cycle whenever prompts, labels, item numbering, expected outputs, or placeholder structure change. |
 | Page-layout defects found in rendered PDF review | Sections 2.8, 4.8, Phase 7, and Definition of Done items 14-18 | Fix running headers, raw Markdown/table rendering, split examples, split prompts/response areas, split tables, orphaned headings, and sparse final pages before print sign-off. |
 
 ### 2.8 PDF visual inspection defects added after Module 1-2 review
@@ -254,9 +256,11 @@ Each ordinary unit has this visible sequence unless a documented capstone except
 6. `### E. Freer Practice`
 7. `### F. Editing Practice`
 8. `### G. Self-Check / Reflection / Review` as appropriate
-9. `### H. Transfer Extension / Homework` as appropriate
+9. `### H. Homework & Extension`
 
-Important: do not use duplicate visible `### A.` to `### H.` headings in the same unit. When repairing duplicate `A` sections, preserve the first intended structural `### A.` heading unless the unit-specific design review deliberately chooses a different `A` activity. If a later warm-up must remain inside the same `A` section, demote it to a body subheading or div label rather than stripping the first `A` marker from the concept primer.
+Important: `transfer` is a pedagogical function, not the preferred visible Section H label. The intermediate final module baseline uses `Homework & Extension`; keep that visible heading unless a specific capstone exception is documented.
+
+Important: do not use duplicate visible `### A.` to `### H.` headings in the same unit. Repair duplicate letter headings by pedagogical function, not by original order. The normal visible `A` activity is `A. Warm-Up`; concept primers, definition blocks, and support explanations should be reclassified or rehomed under the activity where they teach the target skill. Do not preserve the first `A` mechanically if it is not the best visible warm-up for the repaired unit.
 
 ### 4.2 Activity titles
 
@@ -307,6 +311,8 @@ Additional Phase 3 checks:
 - Put draft checks after the relevant draft unless the checklist is clearly a pre-writing planning checklist. Do not create a second response space for a checklist activity unless students are actually revising or redrafting there.
 - Do not place the answer or a full model response immediately after the same question students must answer. If a model is needed, use a different example, a partial example, or move the full answer to teacher material.
 - Check every activity title, div title, and header-like line. If it introduces a task or teaching point, add enough student-facing prose after it so the page does not jump from title to exercise, box, or list with no clear explanation.
+
+For structure-labelling activities, keep labels aligned with the learning purpose. If the goal is to preserve paragraph flow, put role labels such as `(T)`, `(S)`, and `(C)` at the ends of sentences in the model paragraph and use the same end-position blank pattern in the student task. Do not turn paragraph models into list-like sentence fragments unless the task is explicitly about sentence-level analysis.
 
 ### 4.4 Intermediate-level language
 
@@ -448,7 +454,7 @@ Standard target:
 - `E. Freer Practice`
 - `F. Editing Practice`
 - `G. Self-Check and Reflection` or a comparable combined review section
-- `H. Transfer / Homework`
+- `H. Homework & Extension`
 
 Allowed exceptions:
 
@@ -462,7 +468,7 @@ For every duplicate visible heading, choose one of these treatments:
 3. convert it to an internal div title
 4. delete it if it is only a redundant label
 
-Do not let the duplicate-heading repair invert the activity shell. If the first `A` heading is the unit's concept primer and a later `A` heading is the warm-up, keep the concept primer as the structural `### A.` unless the unit design is explicitly changed, then fold the warm-up into that section as a subordinate activity.
+Do not let duplicate-heading repair invert the activity shell. Decide the repaired visible `A-H` sequence from the unit goal and learner action. In ordinary units, `A. Warm-Up` should remain the visible `A` unless a deliberate unit-specific exception is documented; concept-primer material should be folded into `B`, `C`, or the relevant support div when it is not the true opening learner activity.
 
 ### Phase 3 - Repair one unit at a time
 
@@ -483,7 +489,16 @@ Use this workflow for each unit.
 13. Repair div class choices and boundaries.
 14. Calibrate placeholder type and row count.
 15. Proofread examples and model texts.
-16. Run local audits before moving to the next unit.
+16. Update and validate the corresponding section of `int/md/working/aw-int-answer-key.md` for any changed activity labels, prompts, item numbering, expected outputs, placeholder structure, or model guidance.
+17. Run local audits before moving to the next unit.
+
+For module review workshops, apply the same Phase 3 standards even though they are not ordinary `A-H` units:
+
+1. Use title-case visible headings.
+2. Remove repeated title rows, generic `Write Here` labels, and response labels that do not add information.
+3. Keep response placeholders inside the relevant review, extension, homework, revision, or self-check div.
+4. Combine redundant strategy maps, boards, and notes when they repeat the same review purpose.
+5. Ensure the review task explicitly integrates the preceding units and that the answer key covers open-ended evaluation criteria.
 
 Do not batch-rewrite all 23 units at once. The previous failure pattern suggests that broad automated passes can damage structure faster than they improve it.
 
@@ -573,7 +588,7 @@ Use this checklist for each unit and record pass/fail notes.
 - [ ] Freer Practice asks students to produce a meaningful workplace text.
 - [ ] Editing Practice requires revision or correction, not just rereading.
 - [ ] Self-check / Reflection appears after production and editing, unless a pre-draft checklist clearly supports a specific larger draft.
-- [ ] Transfer / Homework extends the unit skill to a new or later context.
+- [ ] Homework & Extension extends the unit skill to a new or later context.
 
 ### 6.3 Instruction quality
 
@@ -614,6 +629,14 @@ Use this checklist for each unit and record pass/fail notes.
 - [ ] Row count matches expected student output.
 - [ ] Paired or multi-document tasks have separate labels.
 - [ ] Placeholder IDs are unique.
+
+### 6.7 Answer-key alignment
+
+- [ ] The answer-key unit section exists and uses the revised visible activity labels.
+- [ ] Activity references, item numbers, and placeholder-dependent tasks match the repaired manuscript.
+- [ ] Model answers or guidance match the revised task purpose and expected student output.
+- [ ] Open-ended writing tasks are marked as model/guidance material rather than fixed answers.
+- [ ] Removed, merged, or reclassified activities are removed, merged, or reclassified in the answer key.
 
 ---
 
@@ -700,14 +723,15 @@ The repair is complete when:
 9. every activity title, div title, and header-like line has enough following prose or task language for students to understand what to do
 10. examples and model texts use correct paragraphing and workplace formatting
 11. the manuscript passes proofreading for spelling, grammar, punctuation, capitalization, and spacing
-12. the answer key is rechecked against revised activity references
+12. the answer key is updated and validated against revised activity labels, prompts, item numbering, expected outputs, placeholder structure, and model guidance
 13. DOCX and PDF builds are produced only after Markdown sign-off
 14. running headers show the correct module, unit, or review context and do not carry stale previous-section labels
 15. rendered pages do not split prompts from their first response space or leave answer lines detached from the task
 16. examples, weak/strong comparisons, model explanations, short checklists, and short tables are kept together or split only with clear continuation context
 17. no raw Markdown syntax, pipe-table syntax, or emphasis markers appear in the DOCX/PDF output
 18. module-ending pages are visually balanced or intentionally designed; sparse trailing pages are fixed or accepted deliberately
-19. the first intended `### A.` structural heading is preserved in every unit, and no concept-primer section has been silently demoted while a later warm-up was kept as the only visible `A`
+19. duplicate `A-H` heading repairs are resolved by pedagogical function, with ordinary units using `A. Warm-Up` as the visible opening activity unless a documented exception is intentionally designed
+20. module review workshops use title-case headings, no redundant generic response labels, placeholders inside the relevant div, and answer-key criteria for open-ended review tasks
 
 ---
 
@@ -726,7 +750,7 @@ For the Unit 1 pilot:
 3. remove redundant `Write Here` / `Use this box` labels unless they distinguish a complete-document box from item-level boxes
 4. keep placeholders inside the correct divs
 5. move `E. Freer Practice` before self-check, or rename and reposition the self-check so the visible sequence is teachable
-6. decide whether `F. Reflection` and `H. Homework` should remain separate visible activities or be folded into a single final `H` area
+6. keep extension and homework work together under the single visible `H. Homework & Extension` heading unless a documented capstone exception applies
 7. run the local audits before proceeding to Unit 2
 
 Once Unit 1 is accepted, compare it against the representative-reading notes from later modules before applying it to Units 2-4. Then proceed through all remaining units and all module review workshops using the whole-book audit inventories, not the opening units alone.

@@ -2122,3 +2122,62 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave reviewed the new Unit 3 PDF and identified that the apparent merge had overridden user edits, that the unit still leaned too heavily on list-style presentation for a paragraph lesson, and that the duplicate-`A` handling had been treated too mechanically.
 - Action: performed a full-file comparison against `aw-int-all_0519_tmp.md`, merged the user backup back into the working manuscript, preserved the structural Unit 3 shell repairs where still wanted, and recorded the clarified normalization rule that book-wide `A. Warm-Up` standard should override bad source labels rather than blindly keeping the first duplicate `A`. Also documented that future Unit 3 repair must explicitly relabel div titles, reorder context/action/output information for clarity, and remove redundant task wording.
 - Outcome: `aw-int-all_0519_tmp.md` remains as the untouched safety backup; `int/md/working/aw-int-all_0519.md` is the new merged baseline; the latest PDF confirms that the placeholder leak is fixed, but the even-page Unit header is still not resolved and Unit 3 remains pedagogically in progress rather than signed off.
+
+## 2026-06-02T00:00:00+09:00 - INT Unit 3 Pedagogical Rewrite Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md` Unit 3, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit3_repair_notes.md`.
+- Trigger: Dave restored the prior Unit 3 repair notes from the office PC and warned that Unit 3 needed a significant pedagogical rewrite.
+- Action: replaced the old lecture-heavy Unit 3 sequence with a clearer warm-up -> example -> language -> guided practice -> freer practice -> editing -> self-check/reflection -> transfer sequence. Added controlled fact banks for guided and freer paragraph-writing tasks, removed answer-like support examples from student prompts, repaired Unit 3 answer-key alignment, and replaced the stale Unit 3 repair notes with current verification results.
+- Verification: Unit 3 heading sequence is `ABCDEFGH`; Unit 3 fenced divs are balanced at 15 opens / 15 closes; whole-manuscript divs are balanced at 569 opens / 569 closes; Unit 3 has 10 placeholders, all with explicit `rows=N`; no duplicate placeholder IDs, generic response labels, stale Unit 3 labels, old Unit 3 placeholder IDs, or raw arrow notation remain.
+
+## 2026-06-02T15:10:57+09:00 - INT Unit 3 Final Label Polish And Module 1 Review Workshop Repair
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`, and project memory.
+- Trigger: Dave identified that the Unit 3 paragraph model was titled as labelled but no longer showed `T/S/C` labels, then requested project memory and repair-plan updates before moving to the Module 1 Review Workshop.
+- Action: changed the Unit 3 model to a continuous paragraph with end-position `(T)`, `(S)`, `(S)`, `(C)` labels, fixed the `rows=1d` typo, updated the repair plan with function-based duplicate-`A` handling, paragraph-label guidance, and module-review workshop standards, and repaired the Module 1 Review Workshop by title-casing headings, removing redundant strategy/map/note blocks, moving placeholders inside task divs, increasing response rows, and updating the answer key.
+- Verification pending: run focused source audits and review the regenerated DOCX/PDF once Dave finishes conversion.
+
+## 2026-06-02T17:21:17+09:00 - INT Module 2-6 Review Workshops Standardized
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `adv/md/working/aw-adv-all_0516.md`, and project memory.
+- Trigger: Dave asked whether the Module 1 Review Workshop repairs needed to be carried across the remaining five module review workshops.
+- Action: audited Modules 2-6 review workshops, found repeated generic titles, lowercase H3s, redundant strategy/planning/rebuild sections, missing comparison response spaces, mixed transfer/reflection outputs, and missing or stale answer-key coverage. Applied the Module 1 pattern across Modules 2-6: key lessons, comparison response, revision lab, self-edit routine, transfer task, and preparation/final portfolio check. Updated answer-key blocks for Modules 2-6 in the correct post-module locations. Added missing `div_content_style_map` to the ADV combined source so semantic example content styles remain source-driven.
+- Verification: whole-manuscript divs balanced at 551 opens / 551 closes; no duplicate placeholder IDs; Pandoc parse with `style_bridge.lua` completed without warnings.
+- Next: regenerate DOCX/PDF for visual inspection and continue Phase 3 unit-by-unit work from Module 2/Unit 4 onward if the review workshops render cleanly.
+
+## 2026-06-03T09:41:31+09:00 - INT Unit 4 Follow-Up Review Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/`.
+- Trigger: Dave asked for a review of the Claude Code Unit 4 edit pass against the Module 1 Phase 3 repair standard.
+- Action: added a missing closing sentence to the strong Email B model, merged redundant B teaching prose, tightened Unit 4 language-section labels, removed leftover `Write your email:` labels, flattened the nested `example-bad` inside the editing task, updated the Unit 4 answer key, marked the old Unit 4 issue list superseded, and created `phase3_unit4_repair_notes.md`.
+- Verification: Unit 4 heading sequence is `ABCDEFGH`; Unit 4 fenced divs are balanced at 22 opens / 22 closes; nested div scan reports none; whole-manuscript div balance is 551 opens / 551 closes; Unit 4 has 16 placeholders, all with `rows=N`; no duplicate placeholder IDs remain.
+- Next: continue Phase 3 with Unit 5 after any desired DOCX/PDF visual check of the revised Unit 4.
+
+## 2026-06-03T11:35:56+09:00 - INT Units 5-6 Phase 3 Batch Repair Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/`.
+- Trigger: Dave asked to begin batch processing while preserving the thorough Module 1 Phase 3 checking standard.
+- Action: reviewed Units 5 and 6 against the repair plan and project-memory superseding decisions, then repaired both units as a paired batch. Normalized both visible shells to `ABCDEFGH`, folded old controlled extended-practice items into C, rebuilt D/E/F/G/H activity boundaries, moved all placeholders inside their divs, removed generic response labels and redundant full-version boxes, removed one redundant Unit 6 report-paragraph transfer task, updated the answer key, and added `phase3_unit5_repair_notes.md` / `phase3_unit6_repair_notes.md`.
+- Verification: Unit 5 sequence `ABCDEFGH`, divs 21/21, 26 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Unit 6 sequence `ABCDEFGH`, divs 20/20, 19 placeholders, 0 without rows, no nested divs, no placeholders outside divs, no duplicate IDs. Whole-manuscript div balance is 547 opens / 547 closes; whole-manuscript placeholder IDs total 407 with 0 duplicates.
+- Next: visually review regenerated DOCX/PDF pages for Units 5-6 if desired, then continue Phase 3 batch processing with Unit 7 or the next shared-pattern pair.
+
+## 2026-06-03T15:57:51+09:00 - INT Section H Heading Standard Restored For Units 1-7
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`, and project memory.
+- Trigger: Dave checked `int/md/final/modules` and noted that the final module baseline uses `H. Homework & Extension`, while the repaired working manuscript had drifted into `Transfer Extension` / `Transfer and Homework`.
+- Action: updated Units 1-7 to use `### H. Homework & Extension`; restored a clear Unit 7 `Homework Task` with its own placeholder; updated the Unit 1-7 answer-key H headings and Unit 7 homework guidance; updated the repair plan so `transfer` is treated as a pedagogical function rather than the visible H label.
+- Verification pending: run full source audits after the current Phase 3 edit batch is complete.
+
+## 2026-06-03T16:26:09.4283299+09:00 - INT Module 3 Phase 3 Review Completed
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 8-11 and Module 3 Review Workshop.
+- Trigger: Dave requested a module-wide review against the Phase 3 repair plan and current project-memory standards from Modules 1-2.
+- Action: reviewed Module 3 source structure, activity language, placeholder placement, answer-key coverage, and review-workshop spoiler risk.
+- Outcome: created int/edits & guides/full-review/print-readiness-audits/phase3_module3_repair_recommendations.md. Module 3 is confirmed unrepaired: Units 8-11 still need A-H normalization, duplicate-H consolidation to H. Homework & Extension, placeholder movement inside divs, generic label removal, task-language consolidation, and answer-key updates.
+
+## 2026-06-03T16:42:10.4295704+09:00 - INT Module 3 Phase 3 Repair Applied
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 8-11, Module 3 Review Workshop, int/md/working/aw-int-answer-key.md, and Module 3 audit notes.
+- Trigger: Dave asked to update the Markdown source with the Module 3 Phase 3 recommendations.
+- Action: normalized Units 8-11 to ABCDEFGH, consolidated duplicate concept-primer A sections, replaced obsolete F. Self-Check Before Freer Practice and split H sections, removed generic response labels, moved Module 3 placeholders inside divs, consolidated redundant support blocks, removed the Module 3 review-workshop spoiler model from the student book, and updated the answer key.
+- Verification: Unit 8-11 sequences are ABCDEFGH; Module 3 divs are balanced at 82/82; Module 3 placeholders total 64 with 0 outside divs; whole-manuscript divs are balanced at 520/520; placeholder IDs total 404 with 0 duplicates; stale Module 3 label scan passed; Pandoc parse with ..\textmaker\scripts\style_bridge.lua passed.
