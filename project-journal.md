@@ -2181,3 +2181,38 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave asked to update the Markdown source with the Module 3 Phase 3 recommendations.
 - Action: normalized Units 8-11 to ABCDEFGH, consolidated duplicate concept-primer A sections, replaced obsolete F. Self-Check Before Freer Practice and split H sections, removed generic response labels, moved Module 3 placeholders inside divs, consolidated redundant support blocks, removed the Module 3 review-workshop spoiler model from the student book, and updated the answer key.
 - Verification: Unit 8-11 sequences are ABCDEFGH; Module 3 divs are balanced at 82/82; Module 3 placeholders total 64 with 0 outside divs; whole-manuscript divs are balanced at 520/520; placeholder IDs total 404 with 0 duplicates; stale Module 3 label scan passed; Pandoc parse with ..\textmaker\scripts\style_bridge.lua passed.
+
+## 2026-06-03T00:00:00+09:00 - Handwritten Test Extraction Workflow Recovered And Logged Explicitly
+
+- Scope: `writing_tests/tests/Nishino/`, `writing_tests/tests/Kuwahara/`, `tmp/pdfs/`, `tmp/docs/`, and repo-root project memory.
+- Trigger: Dave requested the same handwritten-answer extraction and assessment workflow used for Ms Nishino to be applied to Mr Kuwahara's pre-test PDF, then explicitly asked why the method was not findable in project memory or chat history.
+- Problem found: the workflow was not documented as an explicit repo-memory procedure. It was only recoverable from:
+  - commit `060c4cf` (`extraction of Ms Nishino's hand-written answers on her pre-course writing test`)
+  - the Nishino transcript method note
+  - the surviving temp artifacts in that historical commit (`tmp/pdfs/nishino_pretest/`, `tmp/docs/nishino_docx_media/`, `tmp/docs/nishino_groups/`)
+- Recovery result: the actual prior workflow was reconstructed as:
+  1. open the original PDF in Microsoft Word and save as DOCX
+  2. render the original PDF pages to PNG and use those page renders as the source of truth
+  3. extract `word/media/*` from the Word-generated DOCX because Word splits handwritten responses into many image fragments
+  4. compare the full-page renders against the split DOCX fragments
+  5. produce `transcript-raw.md`, `transcript-light.md`, and `transcript.md`
+  6. create `scoring sheet.md` only after the transcript is confirmed
+- Tools confirmed available during the Kuwahara attempt:
+  - Python
+  - `fitz` / `PyMuPDF`
+  - `Pillow`
+  - `python-docx`
+  - `win32com`
+  - Python package extraction via `zipfile`
+- Tools missing during the Kuwahara attempt:
+  - `pandoc`
+  - Poppler CLI tools (`pdftoppm`, `pdftotext`, `pdfinfo`)
+  - `tesseract`
+- Operational note: `PyMuPDF` was sufficient to render the PDF pages, so Poppler absence did not block the extraction attempt.
+- Kuwahara attempt result:
+  - found `writing_tests/tests/Kuwahara/JPO Admin Writing Pre-Test - KUWAHARA (20260602).docx` already present, indicating the Word-save step had already been performed
+  - extracted 59 DOCX media images into `tmp/docs/kuwahara_docx_media/`
+  - rendered 6 PDF pages into `tmp/pdfs/kuwahara_pretest/`
+  - produced draft transcript and scoring-sheet markdown files
+  - stopped before continuing because Dave correctly suspected the visible scan/content was incomplete
+- Durable decision: the handwritten-test extraction method and required tooling must now live in repo-root project memory. Do not rely on chat history search, commit titles, or temp folders as the only record of the workflow.

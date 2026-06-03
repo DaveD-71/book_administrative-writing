@@ -1351,3 +1351,44 @@ Rules:
 - Decision: the visible ordinary-unit Section H heading for the intermediate book is `### H. Homework & Extension`, matching the final module baseline. `Transfer` remains a pedagogical function: applying, extending, or carrying the unit skill to a new/later context. Do not use `Transfer Extension`, `Transfer and Homework`, or `Transfer / Homework` as the visible Section H heading unless a documented capstone exception requires it.
 - Decision: when Phase 3 folds duplicate old H sections into one visible H area, preserve both functions where they add real learner work: an extension/carry-forward task and a clearly labeled `Homework Task`.
 - Preferred behavior: when repairing later units, replace visible `### H. Transfer Extension` plus `### H. Homework` pairs with one `### H. Homework & Extension` section, keep placeholders inside the relevant task divs, and update `int/md/working/aw-int-answer-key.md` in the same cycle.
+
+## 2026-06-03 - Handwritten Test Extraction Workflow Must Be Stored In Repo Memory
+
+- Status: `active`
+- Scope: project/workflow
+- Context: the handwritten pre-test extraction method for `writing_tests/tests/*` was recoverable only indirectly from commit artifacts and transcript notes, not from an explicit project-memory entry. Chat-history search also proved unreliable because chat search may effectively depend on title keywords rather than full procedural recall.
+- Decision: the canonical extraction workflow for handwritten writing-test PDFs must be recorded in repo-root project memory and not left only in chat history, commit titles, or transient temp folders.
+- Canonical workflow for handwritten test extraction:
+  1. Start from the original student PDF in `writing_tests/tests/<Student>/`.
+  2. Open the PDF in Microsoft Word and save it as a `.docx` in the same student folder. This Word-save step is required because Word often converts handwritten answer regions into many separate embedded images that are easier to isolate than the raw PDF alone.
+  3. Treat rendered page images from the original PDF as the source of truth for transcription. The Word-generated DOCX is only a helper for locating and separating fragmented handwriting.
+  4. Extract the DOCX media payload from `word/media/*` into a temp folder such as `tmp/docs/<student>_docx_media/`.
+  5. Render every page of the original PDF to PNG into a temp folder such as `tmp/pdfs/<student>_pretest/`.
+  6. Create contact sheets and focused crops as needed to compare full-page context against the split DOCX image fragments.
+  7. Produce three transcript layers in the student folder:
+     - `transcript-raw.md`: diplomatic transcription with original line breaks, omissions, and uncertainties preserved
+     - `transcript-light.md`: lightly normalized version with forced line breaks joined but wording preserved
+     - `transcript.md`: interpreted reading with method note and explicit marking of missing/incomplete responses
+  8. After transcript confirmation, create `scoring sheet.md` using `writing_tests/Writing Course Scoring Sheet.md`, `writing_tests/Rubric Scoring Guide Writing Course/...`, and `writing_tests/Instructor Marking Guide Writing Course/...` as the scoring framework.
+  9. Generate a DOCX scoring sheet only after the markdown scoring sheet is accepted and only if the required conversion tooling is available.
+- Required tools:
+  - Microsoft Word: required for the PDF -> DOCX save step
+  - Python: required for extraction helpers
+  - `PyMuPDF` / `fitz`: used to render PDF pages to PNG when Poppler tools are unavailable
+  - `Pillow`: used for contact sheets, crops, and visual inspection helpers
+  - `python-docx`: used to inspect DOCX structure and text layer
+  - Python standard library `zipfile` and `shutil`: used to extract `word/media/*` from the DOCX package
+- Optional tools:
+  - `win32com`: may be used for Word automation if Word needs to be driven from Python rather than manually
+  - `pandoc`: optional for converting the final scoring-sheet markdown to DOCX; not required for the extraction/transcription itself
+  - Poppler tools such as `pdftoppm`, `pdftotext`, and `pdfinfo`: useful if installed, but not required when `PyMuPDF` is available
+- Working-file conventions:
+  - PDF page renders go under `tmp/pdfs/<student>_pretest/`
+  - extracted DOCX media goes under `tmp/docs/<student>_docx_media/`
+  - grouped helper images or contact sheets may go under `tmp/docs/<student>_groups/` or adjacent temp folders when useful
+  - the durable deliverables belong only in `writing_tests/tests/<Student>/`
+- Preferred behavior:
+  - do not score from OCR or DOCX text layer alone
+  - confirm apparent blanks against the original PDF page renders before recording `[no handwritten response]`
+  - if the PDF scan appears incomplete, stop before final scoring and request a better scan or user confirmation
+  - after any successful handwritten-test extraction, update `project-learning.md` and `project-journal.md` with the method, tools actually used, and any scan-quality issues so the next run does not depend on recoverable chat history
