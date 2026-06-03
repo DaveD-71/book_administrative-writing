@@ -2216,3 +2216,10 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - produced draft transcript and scoring-sheet markdown files
   - stopped before continuing because Dave correctly suspected the visible scan/content was incomplete
 - Durable decision: the handwritten-test extraction method and required tooling must now live in repo-root project memory. Do not rely on chat history search, commit titles, or temp folders as the only record of the workflow.
+
+## 2026-06-03T18:21:15.1307265+09:00 - INT Module 4 Phase 3 Review Completed
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 12-15 and Module 4 Review Workshop.
+- Trigger: Dave requested a Module 4 review after the Module 3 Phase 3 repair pass.
+- Action: reviewed Module 4 source structure, activity language, placeholder placement, nested div risk, answer-key coverage, and review-workshop spoiler placement against the Phase 3 repair plan and current project-memory decisions.
+- Outcome: created int/edits & guides/full-review/print-readiness-audits/phase3_module4_repair_recommendations.md. Module 4 is confirmed unrepaired: Units 12-15 still need A-H normalization, duplicate-H consolidation to H. Homework & Extension, placeholder movement inside divs, nested mini-example cleanup, generic label removal, task-language consolidation, and answer-key expansion.

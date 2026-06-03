@@ -3596,35 +3596,17 @@ By the end of this unit, I will be able to:
 - write a short external inquiry email with a clear question.
 - provide enough background for another office to understand my question.
 - use polite inquiry phrases in a professional way.
-- explain, in a short paragraph, why an external inquiry is needed.
-
-### A. What Is an External Inquiry?
-
-::: learn
-Definition
-
-An external inquiry is a **polite email** sent to another organisation asking for information or clarification.
-It should:
-
-- Be polite and professional
-- Provide enough background for the reader
-- Ask clear, specific questions
-- Avoid unnecessary details
-:::
-
-::: example
-Example (Part of a Larger Message Chain)
-
-Subject: Inquiry Regarding Updated Application Guidelines
-Dear Review Office Team,
-We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March? Further information will help us complete our internal checks.
-Thank you.
-:::
 
 ### A. Warm-Up
 
+::: learn
+External Inquiry Basics
+
+A **clarification** is information that makes an unclear point clear. An external inquiry is a polite email sent to another organization to ask for information or clarification. It should give enough background for the reader and ask one clear question.
+:::
+
 ::: notice
-Warm-Up: Which Inquiry Is Better?
+Which Inquiry Is Better?
 
 Compare the two versions.
 :::
@@ -3633,7 +3615,9 @@ Compare the two versions.
 Email A
 
 Subject: Question
+
 Hi,
+
 I don't understand the guidelines. Please explain.
 :::
 
@@ -3641,114 +3625,68 @@ I don't understand the guidelines. Please explain.
 Email B
 
 Subject: Question About Guidelines - Section 4
+
 Dear Team,
-We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year? Thank you.
+
+We are reviewing the updated guidelines and have one question about Section 4. Could you clarify how the new rule applies to applications submitted earlier this year?
+
+Thank you.
 :::
 
 **Discussion:** Which email is more appropriate, and why?
 
-::: learn
-A Good External Inquiry
-
-- tells the reader why you are asking
-- gives only the background they need
-- asks one clear question at a time
-:::
-
 ### B. Example Check
 
-::: learn
-Example Check: Why Email B Works Better
+::: example
+Inquiry Email Example
 
-Email B works better because the outside reader gets:
+Subject: Inquiry Regarding Updated Application Guidelines
 
-- enough background to identify the issue
-- one clear question
-- a polite tone
+Dear Review Office Team,
 
-Email A is too short to be useful.
-The reader still has to guess what part of the guidelines is causing the problem.
+We are reviewing the updated guidelines and have a question about Section 4. Could you clarify whether the new requirement applies to applicants who submitted forms before March?
+
+Further information will help us complete our internal checks.
+
+Thank you.
 :::
 
 ::: learn
 Why This Works
 
-External readers do not share all of your office context.
-A strong inquiry gives enough background to answer the question, but not so much that the main question disappears.
+Email B and the example email work because the outside reader gets enough background, one clear question, and a polite tone. External readers do not share all of your office context, so a strong inquiry gives enough background to answer the question without hiding the main point.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Structure of an External Inquiry
+Structure of an External Inquiry
 
 A clear inquiry email usually includes:
 
-1. **Subject line** - clear and specific
-2. **Greeting** - polite and neutral
-3. **Background** - brief context so the reader understands the question
-4. **Inquiry question(s)** - clear, specific questions
-5. **Closing sentence** - neutral, polite
-6. **Sign-off**
+1. **Subject line** - clear and specific.
+2. **Greeting** - polite and neutral.
+3. **Background** - brief context so the reader understands the question.
+4. **Inquiry question** - one clear, specific question.
+5. **Closing sentence** - neutral and polite.
+6. **Sign-off**.
 
-**Background**
+Useful phrases:
 
 - We are currently reviewing...
 - Our office is checking...
 - We have a question regarding...
-
-**Questions**
-
 - Could you clarify...?
 - Would you be able to confirm...?
 - Could you provide more information about...?
-
-**Closing**
-
 - Thank you for your assistance.
-- We appreciate your support.
 - Further information will help us complete our review.
-
-Mini inquiry example:
-
-- Background: We are checking the revised submission notice for next week's review.
-- Question: Could you confirm which version of Form B should be used for corrected applications?
-- Closing: Thank you for your assistance. This confirmation will help us complete the next check accurately.
-:::
-
-::: learn
-Teaching Point
-
-An external inquiry often needs two jobs:
-
-1. show the reader why you are asking
-2. show the reader exactly what answer you need
 :::
 
 ::: rewrite
-Practice A: Improve the Inquiry
+Improve the Inquiry
 
-Rewrite each inquiry to make it clearer, more polite, and more complete.
-
-For each one, make sure you:
-
-- add a short background clue
-- ask one specific question
-- use a polite request form
-- avoid sounding demanding
-
-::: example
-
-Mini example:
-:::
-
-::: example
-
-- Weak: "What is the rule?"
-- Stronger: "We are preparing the updated submission file for next Friday. Could you confirm which version of the new rule applies to re-submitted forms?"
-:::
-
-The stronger version works better because the reader can see the context, the exact question, and the practical reason for replying.
+Rewrite each inquiry to make it clearer, more polite, and more complete. Add a short background clue, ask one specific question, and avoid sounding demanding.
 
 1. I don't understand this part. Tell me.
 
@@ -3768,31 +3706,10 @@ The stronger version works better because the reader can see the context, the ex
 
 :::
 
-**Write Here**
-
-{{PH-1: U12-practice-a-inquiry | rows=6}}
-
 ::: write
-Practice B: Add Background Information
+Add Background Information
 
-Add **one sentence of background** before each question. Use the background sentence to answer:
-
-- What document, message, or rule are you referring to?
-- What part is still unclear?
-- Why do you need the answer now?
-
-::: example
-
-Mini example:
-:::
-
-::: example
-
-- Weak background: "I have a question."
-- Better background: "We are checking the revised applicant-ID guidance before sending the final document set this afternoon."
-:::
-
-The better version helps the reader understand the task situation before they read the question itself.
+Add **one sentence of background** before each question. The background should tell the reader what document, message, or rule you are asking about.
 
 1. Could you clarify the new ID requirement?
 
@@ -3808,56 +3725,26 @@ The better version helps the reader understand the task situation before they re
 
 :::
 
-**Write Here**
-
-{{PH-2: U12-practice-b-background | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write an External Inquiry Email
+Write an External Inquiry Email
 
-Write a complete inquiry email.
+Read the situation. Then write a complete inquiry email.
 
 **Situation:** Your office received updated instructions from another office, but the explanation of the new submission process is unclear. You are writing to that external office for clarification.
 
-Write your email:
+Include a specific subject line, polite greeting, brief background, one clear question, and a polite closing.
 
-Use this box for one complete version.
-:::
-
-**Write Here**
-
-{{PH-3: U12-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own external inquiries, check:
-
-- [ ] Did I give enough background for the outside reader?
-- [ ] Is the question specific?
-- [ ] Did I avoid unnecessary office detail?
-- [ ] Does the closing sound polite and professional?
-- [ ] **Subject:**
-- [ ] **Greeting:**
-- [ ] **Background:**
-- [ ] **Inquiry question(s):**
-- [ ] **Closing sentence:**
-- [ ] **Sign-off:**
+{{PH-3: U12-guided-document | rows=8}}
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two External Inquiry Emails
+Write Two External Inquiry Emails
 
-Choose two situations below.
-For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
-
-**Options**
+Choose two situations below. For each one, write a short email from your office to another office or organization that can answer the question in **3-4 sentences**.
 
 A. You need clarification about a new applicant requirement.
 
@@ -3867,108 +3754,71 @@ C. You have a question about the correct version of a form.
 
 D. You need confirmation about the schedule for an external audit.
 
-Include a specific subject line, brief background, one clear question, and a polite closing in each email. Write your inquiry emails:
+Include a specific subject line, brief background, one clear question, and a polite closing in each email.
 
-Use this box for one complete version.
+**Inquiry Email 1**
+
+{{PH-3: U12-freer-inquiry-1 | rows=8}}
+
+**Inquiry Email 2**
+
+{{PH-3: U12-freer-inquiry-2 | rows=8}}
 :::
 
-**Write Here**
-
-{{PH-3: U12-freer-document | rows=10}}
-
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
 
 Subject: Question
+
 Hi,
+
 We do not understand this and need help. Please explain the rule.
 :::
 
 ::: edit
-Editing Practice: Make the Inquiry Answerable
+Make the Inquiry Answerable
 
 Rewrite this inquiry so the outside reader can answer it more easily.
 
-**Rewrite:**
-
-Write the full corrected version below.
+{{PH-3: U12-editing-rewrite | rows=6}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U12-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your inquiry emails in Activity E and complete the editing practice in Activity F, check your work again:
 
-::: write
-Transfer Extension: Internal Note Before the Inquiry
-
-Choose one inquiry from this unit. Write a short internal note for your team explaining:
-
-- what is unclear
-- why an inquiry is needed
-- what answer you hope to receive
-
-This helps connect external inquiry writing to internal reporting.
-
-Write one sentence on each line where possible.
+- [ ] Did I give enough background for the outside reader?
+- [ ] Is the question specific?
+- [ ] Did I avoid unnecessary office detail?
+- [ ] Does the closing sound polite and professional?
 :::
-
-**Write Here**
-
-{{PH-1: U12-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Inquiry Paragraph
-
-Write a **neutral paragraph** (5-6 sentences) describing why an external inquiry is needed as part of a short internal report for your team or manager.
-Include:
-
-- Background
-- Issue or unclear point
-- Why clarification is necessary
-- What the next section of a report will explain
-
-Helpful structure:
-
-1. State the document or message that created the question.
-2. Explain the unclear point.
-3. Explain why the unclear point matters for the work.
-4. State what clarification is needed.
-5. Show what action or report section will follow.
-
-Mini report-style frame:
-
-- We reviewed the external instruction note received on Monday.
-- One step in the new submission process is still unclear.
-- Clarification is necessary because the team cannot complete the next document check confidently.
-- An inquiry has therefore been prepared for the issuing office.
-- The next section explains the expected effect on the schedule.
-
-Write your paragraph:
-
-Use this box for one complete version.
-:::
-
-**Write Here**
-
-{{PH-3: U12-extended-document | rows=10}}
-
-### F. Reflection
 
 ::: write
 Reflect on This Unit
 
-1. Which part of your inquiry most strongly helped the outside reader answer quickly: the background, the question, or the closing? Why?
-2. When you compare your weaker and stronger versions, what detail made the biggest difference to answerability?
-3. Which question phrase fits best when the reader is an outside office rather than a close colleague?
+Answer the questions in short notes.
+
+1. Which part of your inquiry helps the outside reader answer quickly: the background, the question, or the closing?
+2. What detail made the biggest difference to answerability?
+3. Which question phrase fits best when the reader is an outside office?
+
+{{PH-1: U12-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Homework & Extension
+
+::: write
+Internal Note Before the Inquiry
+
+Choose one inquiry from this unit. Write a short internal note for your team explaining what is unclear, why an inquiry is needed, and what answer you hope to receive.
+
+{{PH-1: U12-transfer-response | rows=5}}
+:::
 
 ::: write
 Homework Task
@@ -3976,13 +3826,9 @@ Homework Task
 Find a real external instruction or notice. Write an inquiry email asking one clear question about it.
 
 If you do not want to use a real instruction or notice, choose one Unit 12 freer-practice situation and write the inquiry email for that case instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U12-homework-document | rows=8}}
+:::
 
 ## Unit 13. Providing Simple Explanations
 
@@ -3993,62 +3839,38 @@ By the end of this unit, I will be able to:
 - explain a process or issue in simple professional language.
 - add the right amount of background and reason information.
 - write a short explanatory text about a workplace issue.
-- write a report-style explanatory paragraph.
-
-### A. What Is a Simple Explanation?
-
-::: learn
-What Is a Simple Explanation?
-
-A simple explanation:
-
-- Gives the reader **background**
-- States **what is happening** or **what changed**
-- Provides **a reason**, if appropriate
-- Avoids unnecessary technical detail
-- Uses **neutral, professional language**
-:::
-
-::: example
-Example (Part of a Larger Document)
-
-The review process will take longer this month because several files require additional checks. These checks are necessary to confirm applicant information. A further update will be provided next week.
-:::
 
 ### A. Warm-Up
 
-::: notice
-Warm-Up: What Information Is Missing?
+::: learn
+Simple Explanation Basics
 
-Read each explanation. Identify what is missing.
-
-1. The schedule changed.
-2. The form is incorrect.
-3. The applicant information is different.
-4. The process will take longer.
-
-What is missing?
-1.
-2.
-3.
-4.
+A simple explanation helps the reader understand the situation, the reason, and the effect on the work. It gives enough information to follow the point, but it does not add unnecessary technical detail.
 :::
 
-::: learn
-A Useful Explanation Helps the Reader
+::: notice
+What Information Is Missing?
 
-- understand the situation
-- see the reason or cause
-- understand the effect on the work
+Read each explanation. Write what information the reader still needs.
+
+1. The schedule changed.
+
+   {{PH-1: U13-warmup-missing-1 | rows=1}}
+
+2. The form is incorrect.
+
+   {{PH-1: U13-warmup-missing-2 | rows=1}}
+
+3. The applicant information is different.
+
+   {{PH-1: U13-warmup-missing-3 | rows=1}}
+
+4. The process will take longer.
+
+   {{PH-1: U13-warmup-missing-4 | rows=1}}
 :::
 
 ### B. Example Check
-
-::: learn
-Example Check: Why a Better Explanation Works
-
-Compare:
-:::
 
 ::: example-bad
 Weak
@@ -4065,19 +3887,13 @@ The process will take longer because two documents require additional checking. 
 ::: learn
 Why This Works
 
-The stronger version works because it gives:
-
-- the situation
-- the reason
-- the effect
-
-The reader does not need to guess the practical meaning.
+The stronger version gives the situation, the reason, and the effect. The reader does not need to guess the practical meaning.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Useful Phrases for Explanations
+Useful Phrases for Explanations
 
 **Giving Background**
 
@@ -4097,47 +3913,13 @@ Language 1. Useful Phrases for Explanations
 - In this case...
 - For this reason...
 
-Mini explanation example:
-
-- Background: We reviewed the updated case file this morning.
-- Reason: Two uploaded documents do not match the information in the system.
-- Effect: As a result, the next review stage may need to be delayed until the correct version is confirmed.
-:::
-
-::: learn
-Why This Works
-
-Simple explanations are useful when they help the reader follow a short chain:
-
-Background -> Reason -> Effect
-
-If one part is missing, the explanation may sound incomplete even when the grammar is correct.
+A useful explanation usually moves from background to reason to effect. If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 :::
 
 ::: rewrite
-Practice A: Improve the Explanation
+Improve the Explanation
 
-Rewrite the sentences to make the explanations clearer.
-
-Do not only change one word.
-Build each answer so the reader can understand:
-
-- what happened
-- why it happened
-- why it matters
-
-::: example
-
-Mini example:
-:::
-
-::: example
-
-- Weak: "The schedule changed."
-- Stronger: "The review schedule changed because two required files were uploaded late, and this will delay the next checking stage."
-:::
-
-This is stronger because the reader can follow fact, cause, and effect in one short explanation.
+Rewrite each sentence to make the explanation clearer. Build each answer so the reader can understand what happened, why it happened, and why it matters.
 
 1. The schedule changed.
 
@@ -4157,26 +3939,11 @@ This is stronger because the reader can follow fact, cause, and effect in one sh
 
 :::
 
-**Write Here**
-
-{{PH-1: U13-practice-a-explanation | rows=6}}
-
 ::: write
-Practice B: Add a Reason or Background
+Add a Reason or Background
 
-Add **one sentence of background** and **one sentence of reason**.
+Add **one sentence of background** and **one sentence of reason** before each main sentence.
 
-Try this pattern:
-
-- Background: what the reader needs to know first
-- Reason: what caused the problem
-- Main sentence: the key situation or result
-
-You can test your answer with three quick questions:
-
-1. Would a new colleague understand the context?
-2. Does the reason explain the main sentence clearly?
-3. Can the reader see why the information matters now?
 1. The applicant list is incomplete.
 
 {{PH-1: U13-C-rewrite-5 | rows=2}}
@@ -4191,58 +3958,33 @@ You can test your answer with three quick questions:
 
 :::
 
-**Write Here**
-
-{{PH-2: U13-practice-b-reason | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write a Clear Explanation
+Write a Clear Explanation
 
-Write 4-5 sentences.
+Read the situation and facts. Then write a clear explanation of **4-5 sentences**.
 
-**Situation:** You are explaining the situation to a colleague or supervisor. A document cannot be reviewed because the attached files do not match the information in the system.
+**Situation:** You are explaining the situation to a colleague or supervisor.
 
-Explain:
+Facts:
 
-- Background
-- Issue
-- Reason
-- Effect
-- Current status
+- A document cannot be reviewed.
+- The attached files do not match the information in the system.
+- The correct version must be confirmed before the next review stage.
+- The review may take longer than planned.
 
-Write your explanation:
-
-Write one sentence on each line where possible.
-:::
-
-**Write Here**
+Include background, issue, reason, effect, and current status.
 
 {{PH-2: U13-guided-paragraph | rows=8}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own explanations, check:
-
-- [ ] Did I give enough background?
-- [ ] Did I explain the reason clearly?
-- [ ] Did I show the effect on work or timing?
-- [ ] Is the explanation neutral and easy to follow?
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two Explanations
+Write Two Explanations
 
-Choose two situations and write explanations.
-For each one, imagine you are writing a short internal explanation for a colleague or supervisor who needs a clear update.
-
-**Options**
+Choose two situations and write explanations. For each one, write a short internal explanation for a colleague or supervisor who needs a clear update.
 
 A. The applicant used an old version of the form.
 
@@ -4252,10 +3994,7 @@ C. A reviewer found inconsistent information in two files.
 
 D. A required field was left blank.
 
-Include background, the main issue, and the reason or effect in each explanation. Write your explanations:
-
-Write each document in its own box.
-:::
+Include background, the main issue, and the reason or effect in each explanation.
 
 **Explanation 1**
 
@@ -4264,8 +4003,9 @@ Write each document in its own box.
 **Explanation 2**
 
 {{PH-2: U13-freer-explanation-2 | rows=8}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
@@ -4274,85 +4014,53 @@ The document cannot be accepted. There is a problem with one section. The proces
 :::
 
 ::: edit
-Editing Practice: Add the Missing Link
+Add the Missing Link
 
 Rewrite this explanation so the reader can see both the reason and the effect.
 
-**Rewrite:**
-
-Write the full corrected version below.
+{{PH-2: U13-editing-rewrite | rows=6}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U13-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your explanations in Activity E and complete the editing practice in Activity F, check your work again:
 
-::: rewrite
-Transfer Extension: Explanation for Two Readers
-
-Choose one explanation from this unit. Rewrite it twice:
-
-- [ ] for a colleague
-- [ ] for a supervisor
-
-Keep the facts the same, but decide how much detail each reader needs.
-
-Write one sentence on each line where possible.
+- [ ] Did I give enough background?
+- [ ] Did I explain the reason clearly?
+- [ ] Did I show the effect on work or timing?
+- [ ] Is the explanation neutral and easy to follow?
 :::
-
-**Write Here**
-
-{{PH-1: U13-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Explanatory Paragraph
-
-Write a paragraph (6-8 sentences) explaining an issue as part of an internal report for your section lead or manager.
-Include:
-
-- Background
-- What was found
-- Why it is an issue
-- Effect on the next steps
-
-Before you write, decide:
-
-- who will read the report
-- which fact is the main problem
-- which sentence should explain the effect on the work
-
-Strong explanatory paragraphs usually move from fact to reason to effect, not from opinion to opinion.
-
-Mini report-style frame:
-
-- During the document check, the team found a mismatch between the uploaded file and the case record.
-- This is an issue because the file cannot be reviewed safely in its current form.
-- The problem appears to come from an earlier data-entry or upload step.
-- As a result, the next review stage may be delayed.
-- The team is now confirming the correct version and preparing the follow-up action.
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U13-extended-paragraph | rows=8}}
-
-### F. Reflection
 
 ::: write
 Reflect on This Unit
 
-1. Which link in your explanation is still weakest: background, reason, or effect? Explain using one sentence from your draft.
-2. If a new colleague read your explanation, which detail would help them understand the situation fastest?
-3. Which phrase from this unit is most useful for making an explanation easier to follow, and why?
+Answer the questions in short notes.
+
+1. Which link in your explanation is still weakest: background, reason, or effect?
+2. Which detail would help a new colleague understand the situation fastest?
+3. Which phrase from this unit is most useful for making an explanation easier to follow?
+
+{{PH-1: U13-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Homework & Extension
+
+::: rewrite
+Explanation for Two Readers
+
+Choose one explanation from this unit. Rewrite it twice: once for a colleague and once for a supervisor. Keep the facts the same, but decide how much detail each reader needs.
+
+**For a colleague**
+
+{{PH-1: U13-transfer-colleague | rows=3}}
+
+**For a supervisor**
+
+{{PH-1: U13-transfer-supervisor | rows=3}}
+:::
 
 ::: write
 Homework Task
@@ -4360,13 +4068,9 @@ Homework Task
 Find a real explanation you wrote or received. Rewrite it using the structure from this unit.
 
 If you do not want to use a real explanation, choose one Unit 13 freer-practice situation and write the explanation for that case instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-2: U13-homework-paragraph | rows=8}}
+:::
 
 ## Unit 14. Responding to Confusion
 
