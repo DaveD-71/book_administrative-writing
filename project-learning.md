@@ -1323,3 +1323,12 @@ Rules:
 - Decision: answer-key review-workshop blocks must appear after the module's final unit and mirror the student-book sequence.
 - Verification: after applying the standard to Modules 2-6, whole-manuscript divs were balanced at 551 opens / 551 closes, placeholder IDs were unique, and Pandoc parsed `int/md/working/aw-int-all_0519.md` with `style_bridge.lua` without warnings.
 - Preferred behavior: when continuing Phase 3 unit work, check module-review workshops alongside units because they are high-risk locations for repeated generic div titles, missing response spaces, and stale answer-key placement.
+
+## 2026-06-03 - INT Unit 4 Follow-Up Consistency Standard
+
+- Status: `active`
+- Scope: project/conventions
+- Context: reviewing the external Claude Code Unit 4 pass against the Module 1 Phase 3 repair standard.
+- Decision: when a unit teaches a named text structure, the primary student-book model must visibly include every component in that structure. Unit 4 teaches a six-part email, so the strong email model must show subject line, greeting, opening sentence, body/question, closing sentence, and sign-off.
+- Decision: avoid nested semantic divs. If a task needs both an instruction wrapper and a styled model/example, use sibling divs and keep the response placeholder inside the relevant production or edit div.
+- Preferred behavior: merge adjacent generic `learn` blocks such as `Why This Works` when they explain the same model, and replace generic div titles like `Teaching Point` with a title that names the exact learner-facing concept.

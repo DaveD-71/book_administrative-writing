@@ -2144,3 +2144,11 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Action: audited Modules 2-6 review workshops, found repeated generic titles, lowercase H3s, redundant strategy/planning/rebuild sections, missing comparison response spaces, mixed transfer/reflection outputs, and missing or stale answer-key coverage. Applied the Module 1 pattern across Modules 2-6: key lessons, comparison response, revision lab, self-edit routine, transfer task, and preparation/final portfolio check. Updated answer-key blocks for Modules 2-6 in the correct post-module locations. Added missing `div_content_style_map` to the ADV combined source so semantic example content styles remain source-driven.
 - Verification: whole-manuscript divs balanced at 551 opens / 551 closes; no duplicate placeholder IDs; Pandoc parse with `style_bridge.lua` completed without warnings.
 - Next: regenerate DOCX/PDF for visual inspection and continue Phase 3 unit-by-unit work from Module 2/Unit 4 onward if the review workshops render cleanly.
+
+## 2026-06-03T09:41:31+09:00 - INT Unit 4 Follow-Up Review Completed
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/`.
+- Trigger: Dave asked for a review of the Claude Code Unit 4 edit pass against the Module 1 Phase 3 repair standard.
+- Action: added a missing closing sentence to the strong Email B model, merged redundant B teaching prose, tightened Unit 4 language-section labels, removed leftover `Write your email:` labels, flattened the nested `example-bad` inside the editing task, updated the Unit 4 answer key, marked the old Unit 4 issue list superseded, and created `phase3_unit4_repair_notes.md`.
+- Verification: Unit 4 heading sequence is `ABCDEFGH`; Unit 4 fenced divs are balanced at 22 opens / 22 closes; nested div scan reports none; whole-manuscript div balance is 551 opens / 551 closes; Unit 4 has 16 placeholders, all with `rows=N`; no duplicate placeholder IDs remain.
+- Next: continue Phase 3 with Unit 5 after any desired DOCX/PDF visual check of the revised Unit 4.

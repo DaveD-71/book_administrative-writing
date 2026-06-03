@@ -122,7 +122,7 @@ Basic Sentence Pattern
 
 Most clear administrative English sentences follow this simple pattern:
 
-> **Subject + Verb + Object/Complement**
+> Subject + Verb + Object/Complement
 
 Examples:
 
@@ -518,15 +518,11 @@ Read the email. Why is it weak?
 ::: example-bad
 Original Email
 
->
->
->Hi,
+> Hi,
 >
 > You didn't send the right file.
 >
 > Send the correct one today. I need it now.
->
->
 :::
 
  Rewrite it as a **3-4 sentence** professional email. Keep the same purpose: Ask for the correct file today. Include:
@@ -1077,6 +1073,8 @@ I have a question about the new application form.
 
 Could you clarify the purpose of Section 3?
 
+Please let me know if you need any further information.
+
 Thank you,
 [Name]
 :::
@@ -1116,7 +1114,7 @@ Email B is stronger because every part has a clear job:
 - the greeting is professional
 - the first sentence gives the reason for writing
 - the question is specific
-- the closing is polite
+- the closing sentence and sign-off are polite
 
 Email A is not wrong because it is short.
 It is weak because the reader still has to ask:
@@ -1124,10 +1122,6 @@ It is weak because the reader still has to ask:
 - what part is unclear?
 - what document is the writer talking about?
 - who is the writer writing to?
-:::
-
-::: learn
-Why This Works
 
 A professional email helps the reader act quickly.
 The reader should understand the purpose without guessing.
@@ -1178,14 +1172,16 @@ Each subject line below is too long. Rewrite it as a short, clear phrase.
 ::: language
 Email Openings and Closings
 
-**Common Openings**
+Use a polite opening and closing that match the reader.
+
+Common openings include:
 
 - Dear Mr./Ms. [Name],
 - Dear Team,
 - Thank you for your email.
 - I hope you are well.
 
-**Common Closings**
+Common closings include:
 
 - Thank you.
 - Kind regards,
@@ -1213,7 +1209,9 @@ Select an appropriate opening and closing for each situation. Write your choices
 :::
 
 ::: language
-Useful Phrases
+Opening Purpose Phrases
+
+Use the opening sentence to tell the reader why you are writing.
 
 - I am writing to ask about...
 - I would like to confirm...
@@ -1222,7 +1220,7 @@ Useful Phrases
 :::
 
 ::: learn
-Teaching Point
+Opening Sentence Job
 
 The opening sentence tells the reader **why you are writing**. It is not only a polite beginning — it also shows what kind of message this is:
 
@@ -1262,7 +1260,7 @@ Use the prompts to write a simple, clear email.
 
 **Situation:** You are writing to an applicant, Ms. Kim. You want to confirm the required documents for her application.
 
-Write your email:
+Use this order:
 
 1. **Subject line:**
 2. **Greeting:**
@@ -1289,8 +1287,6 @@ B. Write to an applicant to confirm the correct deadline.
 
 C. Write to a colleague or partner office to ask one clear question about a submitted file.
 
-Write your email:
-
 {{PH-3: U04-freer-document | rows=10}}
 :::
 
@@ -1300,9 +1296,10 @@ Write your email:
 Repair the Email Structure
 
 Read the email below. Rewrite it using the six-part email structure from Activity A: subject line, greeting, opening sentence, body, closing sentence, and sign-off.
+:::
 
 ::: example-bad
-Original
+Original Email
 
 Subject: Help
 
@@ -1312,6 +1309,9 @@ I saw the file and I do not understand part of it and maybe there is also a prob
 
 Thanks.
 :::
+
+::: edit
+Rewrite the Email
 
 {{PH-3: U04-editing-rewrite | rows=8}}
 :::
@@ -5002,7 +5002,7 @@ Why This Works
 
 Simple explanations are useful when they help the reader follow a short chain:
 
-background -> reason -> effect
+Background -> Reason -> Effect
 
 If one part is missing, the explanation may sound incomplete even when the grammar is correct.
 :::
@@ -6619,8 +6619,8 @@ Language 1. Common Clarity Problems
 
 **Unnecessary Words**
 
-- The reason is because ->The reason is
-- Due to the fact that ->Because
+- The reason is because -> The reason is
+- Due to the fact that -> Because
 
 **Long or Complicated Sentences**
 
@@ -6670,9 +6670,9 @@ Language 2. Improving Flow
 
 Clear writing follows a **logical order**, often:
 
-- Background ->Main point ->Detail
-- Issue ->Cause ->Effect
-- Topic ->Explanation ->Closing idea
+- Background -> Main point -> Detail
+- Issue -> Cause -> Effect
+- Topic -> Explanation -> Closing idea
 
 **Example**
 
@@ -6968,7 +6968,7 @@ Tone editing is successful when the message stays useful and becomes easier to r
 ::: language
 Language 1. Softening Direct Language
 
-**Direct ->Polite**
+**Direct -> Polite**
 
 - You didn't submit the file.
 ->
@@ -7508,25 +7508,25 @@ Practice A: Rewrite for Audience & Tone
 
 Rewrite each sentence for the correct audience.
 
-**External Office ->Make it polite**
+**External Office -> Make it polite**
 
 "Send us the correct form."
 
 {{PH-1: U19-C-rewrite-1 | rows=2}}
 
-**Internal Team ->Make it neutral and concise**
+**Internal Team -> Make it neutral and concise**
 
 "They said the applicant messed up the form again."
 
 {{PH-1: U19-C-rewrite-2 | rows=2}}
 
-**External Office ->Make it complete and professional**
+**External Office -> Make it complete and professional**
 
 "What is the problem?"
 
 {{PH-1: U19-C-rewrite-3 | rows=2}}
 
-**Internal Team ->Make it clear and factual**
+**Internal Team -> Make it clear and factual**
 
 "The form is wrong but they didn't explain well."
 
@@ -7758,7 +7758,7 @@ Reflect on This Unit
 ::: write
 Homework Task
 
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external ->internal, or internal ->external).
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external -> internal, or internal -> external).
 :::
 
 ---
@@ -7889,25 +7889,25 @@ Practice A: Rewrite for Audience & Tone
 
 Rewrite each sentence for the appropriate audience.
 
-**External Office ->Make it polite and clear**
+**External Office -> Make it polite and clear**
 
 "The schedule was wrong. Here is the real date."
 
 {{PH-1: U20-C-rewrite-1 | rows=2}}
 
-**Internal Team ->Make it neutral and concise**
+**Internal Team -> Make it neutral and concise**
 
 "Someone made a mistake in the schedule."
 
 {{PH-1: U20-C-rewrite-2 | rows=2}}
 
-**External Office ->Make it complete**
+**External Office -> Make it complete**
 
 "The day changed."
 
 {{PH-1: U20-C-rewrite-3 | rows=2}}
 
-**Internal Team ->Make it professional**
+**Internal Team -> Make it professional**
 
 "We told them the wrong date."
 

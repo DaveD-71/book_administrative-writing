@@ -123,3 +123,8 @@ timestamp_iso,workspace_root,scope,file_path,reason
 "2026-06-02T00:00:00+09:00","c:\Dev\Code\book_administrative-writing",repo,c:\Dev\Code\book_administrative-writing\project-journal.md,startup read
 "2026-06-02T00:00:00+09:00","c:\Dev\Code\book_administrative-writing",repo,c:\Dev\Code\book_administrative-writing\int\edits & guides\full-review\aw-int_print_readiness_repair_plan_0530.md,task read
 "2026-06-02T00:00:00+09:00","c:\Dev\Code\book_administrative-writing",repo,c:\Dev\Code\book_administrative-writing\int\md\working\aw-int-all_0519.md,task read
+"2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\AGENTS.md","session startup / Phase 3 context refresh"
+"2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\user-learning-mirror.md","session startup / Phase 3 context refresh"
+"2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\project-learning.md","session startup / Phase 3 context refresh"
+"2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\project-journal.md","session startup / Phase 3 context refresh"
+"2026-06-03T09:29:13.7104935+09:00","C:\Dev\Code\book_administrative-writing","startup-read","C:\Dev\Code\book_administrative-writing\int\edits & guides\full-review\aw-int_print_readiness_repair_plan_0530.md","session startup / Phase 3 context refresh"

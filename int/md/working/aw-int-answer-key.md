@@ -244,7 +244,7 @@ Open-ended. Students should turn information from Unit 1 or Unit 2 into one inte
 
 **Answer: B**
 
-Email B has: a specific subject line, a professional greeting, a clear purpose in the opening sentence, a specific question, and an appropriate closing. Email A leaves the reader guessing about the topic, document, and writer.
+Email B has: a specific subject line, a professional greeting, a clear purpose in the opening sentence, a specific question, a polite closing sentence, and a sign-off. Email A leaves the reader guessing about the topic, document, and writer.
 
 
 ##### C. Language 1 — Practice: Improve the Subject Line
@@ -287,7 +287,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 
 > Subject: Required Documents — Application Review
 >
-> Dear Mr./Ms. [Name],
+> Dear Ms. Kim,
 >
 > I am writing to confirm the documents required for the current application review. Could you please let me know whether Form A and the supporting identification documents are needed at this stage? This information will help us prepare the file before submission to the next department. Please let me know if you need any further information.
 >

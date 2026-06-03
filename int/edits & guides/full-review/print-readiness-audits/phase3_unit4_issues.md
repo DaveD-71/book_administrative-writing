@@ -3,7 +3,7 @@
 **Unit:** Unit 4. Email Layout and Standard Phrases
 **Source:** `int/md/working/aw-int-all_0519.md`
 **Date:** 2026-06-02
-**Status:** Pre-repair issue list. To be replaced by `phase3_unit4_repair_notes.md` after implementation.
+**Status:** Superseded by `phase3_unit4_repair_notes.md` after implementation and follow-up review.
 
 ---
 
