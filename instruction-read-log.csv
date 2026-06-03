@@ -137,3 +137,6 @@ timestamp_iso,workspace_root,scope,file_path,reason
 2026-06-03T16:21:52.5693029+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\user-learning-mirror.md,startup memory read
 2026-06-03T16:21:52.5693029+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-learning.md,startup memory read
 2026-06-03T16:21:52.5693029+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-journal.md,startup memory read
+2026-06-03T18:52:43.193646+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\AGENTS.md,post-crash active workspace instruction check
+2026-06-03T18:52:43.193646+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-learning.md,post-crash status and Phase 3 convention check
+2026-06-03T18:52:43.193646+09:00,C:\Dev\Code\book_administrative-writing,project,C:\Dev\Code\book_administrative-writing\project-journal.md,post-crash progress check and journal update

@@ -932,31 +932,28 @@ Key improvements:
 
 ##### A. Warm-Up — Which Inquiry Is Better?
 
-**Answer: B**
+**Answer: B.** Email B gives the reader enough background, asks one specific question, and uses a professional email format. Email A gives no useful context and does not make the question answerable.
 
-Email B gives enough background context for the reader, asks one specific question, and uses a professional format with a clear subject line. Email A leaves the reader with no context and no clear question.
+##### C. Improve the Inquiry
 
+Possible answers:
 
-##### C. Practice A — Improve the Inquiry
+1. We are reviewing the updated submission process and need to confirm one point. Could you clarify which documents must be submitted first?
+2. We are preparing the revised application file for next Friday. Could you confirm whether the current rule applies to applications submitted before this month?
+3. Our team is checking the review schedule for the next stage. Could you confirm the final submission deadline?
+4. We are reviewing Section 2 of the current guidelines. Could you clarify how the updated rule applies to applications submitted before the change?
 
-1. We are reviewing the updated submission guidelines and have a question about the requirements. Could you clarify which specific part of the process applies to applications already submitted?
-2. We are preparing the updated submission file for next Friday. Could you confirm which version of the current rule applies to applications resubmitted this month?
-3. We are reviewing the documentation requirements for this quarter's applications. Could you confirm the final submission deadline?
-4. Our team is reviewing Section 2 of the current guidelines. Could you clarify how the updated rule applies to applications submitted before this month's change?
+##### C. Add Background Information
 
+Possible answers:
 
-##### C. Practice B — Add Background Information
-
-1. We are reviewing the updated identification requirements for this year's application cycle. Could you clarify the new ID requirement?
-2. We are planning the next round of document checks and need to confirm the upcoming schedule. Could you confirm the review schedule?
-3. Our team has been informed of the updated rule, but it is unclear how it applies to our current case. Could you explain how the updated rule applies?
-
+1. We are reviewing the updated identification requirements for this application cycle. Could you clarify the new ID requirement?
+2. We are planning the next round of document checks and need to confirm the timing. Could you confirm the review schedule?
+3. Our team has read the updated rule, but we are not sure how it applies to this case. Could you explain how the updated rule applies?
 
 ##### D. Guided Practice — Write an External Inquiry Email
 
-**Situation: Clarify new submission process from external office.**
-
-**Model email:**
+Possible model:
 
 > Subject: Clarification Request — New Submission Process
 >
@@ -964,93 +961,205 @@ Email B gives enough background context for the reader, asks one specific questi
 >
 > Thank you for the updated instructions regarding the new submission process. We have reviewed the document and have one question about the submission order for applications received before this month.
 >
-> Could you clarify whether applications submitted earlier this year should follow the previous process or the new process? This information will help us handle the current backlog correctly.
+> Could you clarify whether applications submitted earlier this year should follow the previous process or the new process? This information will help us handle the current files correctly.
 >
 > We appreciate your assistance and look forward to your response.
 >
 > Kind regards,
 > [Name]
 
+##### E. Freer Practice
+
+Open-ended. Each email should include a clear subject or context line, a short background sentence, one answerable question, and a polite closing.
+
+##### F. Editing Practice — Make the Inquiry Answerable
+
+Possible model:
+
+> Thank you for your email about the new submission instructions. We are reviewing applications submitted before the update and need to confirm which process applies to those files. Could you clarify whether these applications should follow the old process or the new process? This will help us prepare the files correctly.
+
+##### G-H. Self-Check, Reflection, Homework & Extension
+
+Open-ended. Reflection should identify one inquiry feature that improved. Homework should apply the inquiry structure to either a real message or one Unit 12 freer-practice situation.
 
 #### Unit 13. Providing Simple Explanations
 
-##### A. Warm-Up
+##### A. Warm-Up — What Information Is Missing?
 
-**Answer: B** (clearer explanation) — provides background, states the finding, and includes a next step.
+Possible missing information:
 
+1. What changed, why it changed, and what the reader should do next.
+2. Which part of the form is incorrect and how it affects the review.
+3. Which applicant information is different and which source should be trusted.
+4. Why the process will take longer and what timing effect the reader should expect.
 
-##### C. Practice — Improve the Explanation
+##### C. Improve the Explanation
 
-1. We are reviewing the updated submission form. Could you clarify which section requires the applicant's official identification number? We want to ensure we complete the form correctly before the deadline.
-2. The applicant submitted the form with Section 3 incomplete. We need to confirm which information is required in that section before the review can continue. Could you advise?
+Possible answers:
 
+1. The schedule changed because one required document was submitted late. This means the review will begin one day later than planned.
+2. The file is the wrong version because it does not include the updated signature page. The review cannot continue until the correct version is confirmed.
+3. The review will take longer because two documents need additional checking. The next stage may therefore begin later than planned.
+4. The system is slow because maintenance is still in progress. Some files may take longer to open this morning.
 
-##### G. Editing Practice
+##### C. Add a Reason or Background
 
-**Model approach:** Replace vague language with specific details; add the cause and effect of the issue; end with a neutral next-step line.
+Possible answers:
 
-_Instructor note: Award marks for: clear statement of the issue, specific cause or detail, effect on the current work, and a neutral closing line._
+1. We are checking the applicant list before the next review stage. The list is incomplete because one required name is missing.
+2. The document must include all required signature fields. It cannot be accepted because the final page is incomplete.
+3. The review schedule depends on confirmation from another office. It must be rescheduled because the required confirmation has not arrived.
 
+##### D. Guided Practice — Write a Clear Explanation
+
+Possible model:
+
+> We are reviewing the attached files before the next stage of the document check. At this point, the files do not match the information recorded in the system. The correct version must be confirmed before the review can continue. This means the review may take longer than planned. We are checking which version should be used and will update the team when the information is confirmed.
+
+##### E. Freer Practice
+
+Open-ended. A successful explanation should include background, the main issue, a reason or cause, and the effect on the work or reader.
+
+##### F. Editing Practice — Add the Missing Link
+
+Possible model:
+
+> The document cannot be accepted because Section 3 is incomplete. This section is required before the review can move to the next stage. The applicant should resend the completed document so the process can continue.
+
+##### G-H. Self-Check, Reflection, Homework & Extension
+
+Open-ended. Check that students can name the weakest link in their explanation and revise for a specific reader where required.
 
 #### Unit 14. Responding to Confusion
 
-##### A. Warm-Up
+##### A. Warm-Up — What Is the Confusion?
 
-**Answer: B** — The stronger response directly addresses the source of confusion, names the specific point, and maintains a professional cooperative tone.
+Possible answers:
 
+1. The reader is confused about the deadline.
+2. The reader is confused about which form version applies.
+3. The reader is confused about which file to upload.
+4. The reader is confused because the instructions seem inconsistent.
 
-##### C. Practice — Improve the Response
+##### B. Example Check
 
-1. Thank you for your message. I would like to clarify the point you raised about Section 2. The section refers to the most recently submitted form, not the original version.
-2. I understand the guidelines may be unclear on this point. Could you let me know which specific part is causing confusion? I will do my best to provide a more accurate explanation.
+The model response works because it acknowledges the question, gives the correct information, adds a useful limit or condition, and avoids blaming the reader.
 
+##### C. Improve the Response
 
-##### G. Editing Practice
+Possible answers:
 
-**Model approach:** Address the specific source of confusion; keep tone neutral; provide the correct information; end with an offer of further help if needed.
+1. Thank you for checking. To clarify, the current deadline is Friday, not Monday.
+2. I understand why the instructions may seem unclear. The updated requirement applies only to applications submitted after 1 June.
+3. To clarify, the other form is used for renewal cases. For this application, please use the standard submission form.
+4. Thank you for checking the guidelines. The main point is that only the first two documents are required this Friday.
 
+##### C. Add Clarifying Information
+
+Possible answers:
+
+1. Thank you for checking the file requirement. To clarify, the applicant should upload the revised form, not the earlier version.
+2. I understand why the deadline may be confusing. The correct deadline for this case is Friday because the earlier date applies to a different process.
+3. Thank you for pointing this out. The first instruction refers to new applications, while the second instruction refers to renewal cases.
+
+##### D. Guided Practice — Write a Clarification Response
+
+Possible model:
+
+> Thank you for checking the document deadline. To clarify, only two documents are required this Friday. The remaining documents can be submitted during the next stage of the process. This means the team does not need to prepare the full set by Friday. Please let me know if you would like me to resend the checklist.
+
+##### E. Freer Practice
+
+Open-ended. Each response should acknowledge the confusion, state the correct information, add one useful detail, and avoid defensive wording.
+
+##### F. Editing Practice — Remove the Defensive Tone
+
+Possible model:
+
+> Thank you for checking the rule. To clarify, the current requirement applies only to applications submitted after the update. Applications submitted earlier should follow the previous procedure. Please let me know if any part of the process is still unclear.
+
+##### G-H. Self-Check, Reflection, Homework & Extension
+
+Open-ended. Internal records should state the confusion, the correct information, and the reminder staff should use next time.
 
 #### Unit 15. Maintaining Consistent Email Style
 
 ##### A. Warm-Up — Identify the Inconsistencies
 
-**Email A problems:**
-- Subject line too vague ("Info")
-- Greeting too informal and abbreviated ("Hi")
-- Purpose completely unclear ("I saw it")
-- No professional purpose sentence
-- Closing too casual ("Thx")
+Email A problems:
 
+- subject line is too vague
+- greeting and closing are too casual
+- purpose is unclear
+- formatting is incomplete
+- request or next step is missing
 
-##### C. Practice A — Improve Consistency
+##### B. Example Check
 
-1. Dear [Name], I have reviewed the document and have a question about one section. Could you clarify what action is needed for this part? Thank you.
-2. Dear Team, I have been reviewing the attached file and noticed a possible issue. Could you clarify the situation so I can take the appropriate next step? Thank you.
-3. Dear Team, We have found that the attached file is not the correct version for this review. Could you please send the updated file? Thank you.
+The consistent version works because the subject, greeting, purpose, question, and closing all support the same professional style.
 
+##### C. Improve Consistency
+
+Possible answers:
+
+1. Dear [Name], I reviewed the document and have one question about the next step. Could you let me know what action is needed now? Thank you.
+2. Dear Team, I reviewed the file and noticed a possible issue. Could you check the attached document and confirm the correct next step? Thank you.
+3. Dear Team, We found that the attached file is not the correct version for this review. Could you please send the updated file? Thank you.
+
+##### C. Reformat the Email
+
+Possible model:
+
+> Subject: Question About File Dates
+>
+> Dear [Name],
+>
+> I reviewed the file and noticed that some dates do not match the system record. Could you please check the file and confirm the correct dates?
+>
+> Thank you.
+
+##### D. Guided Practice — Standardize a Draft Email
+
+Possible model:
+
+> Subject: Request to Review Missing Information
+>
+> Dear [Name],
+>
+> I reviewed the file and found that some required information is missing. Could you please check the document again and send the missing details?
+>
+> Thank you.
+
+##### E. Freer Practice
+
+Open-ended. Each email should include a clear subject line, professional greeting, purpose sentence, body, request or next step, and closing.
+
+##### F. Editing Practice — Bring Two Drafts to One Standard
+
+Possible answers:
+
+1. Dear [Name], We found that the file is not the correct version. Could you please send the updated file? Thank you.
+2. Dear Ms. Lee, We found a problem in the form. Could you please send the corrected version? Thank you.
+
+##### G-H. Self-Check, Reflection, Homework & Extension
+
+Open-ended. Mini team style rules should be short, practical rules about subject lines, greetings, body structure, requests, and closings.
 
 #### Module 4 Review Workshop
 
-**Audience-Control Comparison / Review Response:** Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue. A successful student response should mention audience, amount of detail, and answerability.
+**Audience-Control Comparison / Review Response:** Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue.
 
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+**Revision Lab possible model:**
 
-- Removed blame language.
-- Restated the process calmly.
-- Explained the steps in the order the reader needs.
-- Ended with an offer of further help.
+> Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
+
+This version is stronger because it keeps the relationship calm, explains the process in the order the reader needs, removes blame language, and leaves the reader with a clear path forward.
 
 **Self-Edit Routine:** Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
 
-**Transfer Task:** Open-ended. A successful response should include:
-
-- one outward-facing message
-- one short internal explanation for the team
-- appropriate differences in tone and background detail for each reader
-- three short notes explaining audience wording, detail control, and the unit strategy used
+**Transfer Task:** Open-ended. A successful response should include one outward-facing message, one short internal explanation for the team, and three short notes explaining audience wording, detail control, and the unit strategy used.
 
 **Preparation for Module 5:** Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
-
 
 ### MODULE 5. Advanced Editing & Revision Skills
 

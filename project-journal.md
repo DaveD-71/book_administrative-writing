@@ -2223,3 +2223,10 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave requested a Module 4 review after the Module 3 Phase 3 repair pass.
 - Action: reviewed Module 4 source structure, activity language, placeholder placement, nested div risk, answer-key coverage, and review-workshop spoiler placement against the Phase 3 repair plan and current project-memory decisions.
 - Outcome: created int/edits & guides/full-review/print-readiness-audits/phase3_module4_repair_recommendations.md. Module 4 is confirmed unrepaired: Units 12-15 still need A-H normalization, duplicate-H consolidation to H. Homework & Extension, placeholder movement inside divs, nested mini-example cleanup, generic label removal, task-language consolidation, and answer-key expansion.
+
+## 2026-06-03T18:55:00+09:00 - INT Module 4 Phase 3 Repair Applied
+
+- Scope: int/md/working/aw-int-all_0519.md, Units 12-15, Module 4 Review Workshop, int/md/working/aw-int-answer-key.md, and Module 4 audit notes.
+- Trigger: Dave asked to apply the Module 4 recommendations to the Markdown source file after the Phase 3 review.
+- Action: normalized Units 12-15 to ABCDEFGH, merged duplicate concept-primer A sections, consolidated duplicate H/extended-writing tails to H. Homework & Extension, moved placeholders inside divs, removed generic response labels, removed nested mini-example structures, split multi-output task placeholders, removed the Module 4 review-workshop spoiler model from the student book, and updated the answer key.
+- Verification: Unit 12-15 sequences are ABCDEFGH; Module 4 divs are balanced at 75/75; whole-manuscript divs are balanced at 492/492; whole-manuscript placeholder IDs total 407 with 0 duplicates; Module 4 has 0 placeholders outside divs, 0 nested div starts, and no stale generic labels; Pandoc parse with C:\Dev\Code\textmaker\scripts\style_bridge.lua passed.

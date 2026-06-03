@@ -182,3 +182,8 @@ The main pedagogical issue is not only structure. Units 12-15 are about audience
    - stale `Write Here`, `Transfer Extension`, `Self-Check Before Freer Practice`, `Extended Writing Task`, and `Possible Stronger Version` in Module 4.
    - Pandoc parse with `..\textmaker\scripts\style_bridge.lua`.
 
+## Implementation Status
+
+Status: completed on 2026-06-03.
+
+See `phase3_module4_repair_notes.md` for the applied changes and verification results.

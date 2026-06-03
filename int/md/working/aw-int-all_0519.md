@@ -4080,136 +4080,85 @@ By the end of this unit, I will be able to:
 
 - acknowledge confusion politely in writing.
 - restate the correct information clearly.
-- write a short response that corrects a misunderstanding without blaming the reader.
-- write a report-style paragraph describing a misunderstanding and its resolution.
-
-### A. What Does It Mean to Respond to Confusion?
-
-::: learn
-Definition
-
-When someone is confused, your response should:
-
-- Acknowledge the confusion politely
-- Restate the important information clearly
-- Provide additional detail if necessary
-- Avoid blaming language
-:::
-
-::: example
-Example (Part of a Longer Email Thread)
-
-Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
-:::
+- add one useful detail without blaming the reader.
+- write a short response that corrects a misunderstanding.
 
 ### A. Warm-Up
 
-::: notice
-Warm-Up: What Is the Confusion?
+::: learn
+Responding to Confusion Basics
 
-Identify what the reader is confused about.
-
-1. I thought the deadline was next Monday.
-2. This form looks different from the one I used last year.
-3. I'm not sure which file I should upload.
-4. The instructions say two things.
-
-Write the point of confusion:
-1.
-2.
-3.
-4.
+When a reader is confused, the response should make the unclear point clear. A good response acknowledges the question, gives the correct information, adds one useful detail if needed, and avoids blaming language.
 :::
 
-::: learn
-A Good Clarification Response
+::: notice
+What Is the Confusion?
 
-- acknowledges the confusion politely
-- gives the correct information clearly
-- adds one useful detail if needed
+Read each sentence. Write the point the reader is confused about.
+
+1. I thought the deadline was next Monday.
+
+   {{PH-1: U14-warmup-confusion-1 | rows=1}}
+
+2. This form looks different from the one I used last year.
+
+   {{PH-1: U14-warmup-confusion-2 | rows=1}}
+
+3. I am not sure which file I should upload.
+
+   {{PH-1: U14-warmup-confusion-3 | rows=1}}
+
+4. The instructions seem to say two different things.
+
+   {{PH-1: U14-warmup-confusion-4 | rows=1}}
 :::
 
 ### B. Example Check
 
-::: learn
-Example Check: Why the Stronger Response Works
+::: example-good
+Clarification Response Example
 
-The example response is stronger because it does three things in order:
-
-1. acknowledges the question politely
-2. gives the correct information clearly
-3. adds one detail that removes the confusion
-
-That order helps the reader feel supported instead of corrected aggressively.
+Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
 :::
 
 ::: learn
 Why This Works
 
-When someone is confused, the reader often needs both:
-
-- the correction
-- a calm explanation
-
-If the writer gives only the correction, the response may feel too abrupt.
+The response acknowledges the question, gives the correct information, and adds the detail the reader needs. It corrects the misunderstanding without blaming the reader.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Useful Clarification Phrases
+Useful Phrases to Clarify Information
 
-**Acknowledging the Confusion**
+**Acknowledging the Question**
 
 - Thank you for your question.
-- I understand the confusion.
 - Thank you for checking.
+- I understand why this point may be unclear.
 
-**Restating Information**
+**Restating the Correct Information**
 
 - To clarify...
 - The correct information is...
 - The updated requirement is...
 
-**Giving Additional Details**
+**Adding One Useful Detail**
 
 - This applies only to...
 - In this case...
 - One important point is...
-:::
 
-::: learn
-Transfer Reminder
-
-The response should stay focused on solving the confusion.
-Do not turn it into a complaint about the other person's mistake.
+A clarification response should stay focused on solving the confusion. It should not turn into a complaint about the reader's mistake.
 :::
 
 ::: rewrite
-Practice A: Improve the Response
+Improve the Response
 
-Rewrite each response to make it clear and polite.
+Rewrite each response so it is clear and polite. When possible, acknowledge the confusion, state the correct information, and add the next useful detail.
 
-Aim for this order when possible:
-
-1. acknowledge the confusion
-2. state the correct information
-3. add the next useful detail
-
-::: example
-
-Mini example:
-:::
-
-::: example
-
-- Weak: "You misunderstood the instructions."
-- Stronger: "I understand why the instructions seemed unclear. Only the first two documents are required this Friday, and the remaining files can be sent in the next stage."
-:::
-
-The stronger version corrects the information without blaming the reader.
-
-1. No, that's wrong.
+1. No, that is wrong.
 
 {{PH-1: U14-C-rewrite-1 | rows=2}}
 
@@ -4227,12 +4176,8 @@ The stronger version corrects the information without blaming the reader.
 
 :::
 
-**Write Here**
-
-{{PH-1: U14-practice-a-response | rows=6}}
-
 ::: write
-Practice B: Add Clarifying Information
+Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
 
@@ -4250,56 +4195,26 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 :::
 
-**Write Here**
-
-{{PH-2: U14-practice-b-clarify | rows=6}}
-
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write a Clarification Response
+Write a Clarification Response
 
-Write 4-5 sentences.
+Read the situation. Then write a clear, polite response of **4-5 sentences**.
 
-**Situation:** A colleague thinks that all documents must be submitted this Friday, but only two documents are required. You are replying to that colleague to correct the misunderstanding politely.
+**Situation:** A colleague thinks all documents must be submitted this Friday, but only two documents are required by that date.
 
-Write a response that:
+Your response should acknowledge the confusion, state the correct information, and add one useful detail about the remaining documents.
 
-- Acknowledges the confusion
-- States the correct information
-- Gives any important details
-
-Write your response:
-
-Use this box for one complete version.
-:::
-
-**Write Here**
-
-{{PH-3: U14-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own responses, check:
-
-- [ ] Did I acknowledge the confusion politely?
-- [ ] Did I restate the correct information clearly?
-- [ ] Did I add one useful detail?
-- [ ] Did I avoid blame?
+{{PH-3: U14-guided-document | rows=8}}
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two Responses
+Write Two Clarification Responses
 
-Choose two situations and write your responses.
-For each one, write a short response to the person who is confused or has misunderstood the information.
-
-**Options**
+Choose two situations and write a short response for each one.
 
 A. A reviewer believes the system error has been fixed, but it is still under investigation.
 
@@ -4309,20 +4224,18 @@ C. Someone believes the new rule applies to all departments, but it applies only
 
 D. A colleague misunderstood the meeting location.
 
-In each response, acknowledge the confusion, state the correct information, and add one useful detail. Write your responses:
-
-Write each document in its own box.
-:::
+In each response, acknowledge the confusion, state the correct information, and add one useful detail.
 
 **Response 1**
 
-{{PH-3: U14-freer-response-1 | rows=10}}
+{{PH-3: U14-freer-response-1 | rows=8}}
 
 **Response 2**
 
-{{PH-3: U14-freer-response-2 | rows=10}}
+{{PH-3: U14-freer-response-2 | rows=8}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: example-bad
 Original
@@ -4331,84 +4244,47 @@ You misunderstood the message. We already explained this rule before, so please 
 :::
 
 ::: edit
-Editing Practice: Remove the Defensive Tone
+Remove the Defensive Tone
 
-Rewrite this response so it becomes clearer and more professional.
+Rewrite the response so it becomes clearer and more professional.
 
-**Rewrite:**
-
-Write the full corrected version below.
+{{PH-2: U14-editing-rewrite | rows=6}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U14-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your responses in Activity E and complete the editing practice in Activity F, check your work again:
 
-::: write
-Transfer Extension: Clarification for a Team Record
-
-Choose one misunderstanding from this unit. Write a short internal record explaining:
-
-- what the confusion was
-- what the correct information is
-- what staff should remember next time
-
-Write one sentence on each line where possible.
+- [ ] Did I acknowledge the confusion politely?
+- [ ] Did I restate the correct information clearly?
+- [ ] Did I add one useful detail?
+- [ ] Did I avoid blame?
 :::
-
-**Write Here**
-
-{{PH-1: U14-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Clarification Paragraph
-
-Write a paragraph (6-8 sentences) explaining a misunderstanding as part of an internal report for your team or manager.
-Include:
-
-- Background
-- Source of confusion
-- Correct information
-- Summary of next steps
-
-Useful paragraph plan:
-
-1. Introduce the message, process, or rule that caused the misunderstanding.
-2. State what people misunderstood.
-3. Explain the correct information clearly.
-4. Show how the misunderstanding affects the work.
-5. State the next action or reminder for staff.
-
-Mini internal-report frame:
-
-- A misunderstanding arose after staff read the revised guidance email.
-- Several colleagues believed that all documents were due in the first submission stage.
-- In fact, only the initial required forms must be sent at that point.
-- The misunderstanding could delay the internal preparation sequence if it is not corrected.
-- Staff will therefore receive a short reminder note and updated checklist wording.
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U14-extended-paragraph | rows=8}}
-
-### F. Reflection
 
 ::: write
 Reflect on This Unit
 
+Answer the questions in short notes.
+
 1. Which move matters most when responding to confusion: acknowledging the question, restating the fact, or adding one clarifying detail? Why?
-2. In your draft, where did you need to reduce blame or defensiveness most carefully?
+2. Where did you need to reduce blame or defensiveness most carefully?
 3. How would your response change if the reader were a colleague instead of an outside contact?
+
+{{PH-1: U14-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Homework & Extension
+
+::: write
+Clarification for a Team Record
+
+Choose one misunderstanding from this unit. Write a short internal record explaining what the confusion was, what the correct information is, and what staff should remember next time.
+
+{{PH-1: U14-transfer-response | rows=5}}
+:::
 
 ::: write
 Homework Task
@@ -4416,13 +4292,9 @@ Homework Task
 Find an unclear message from a real situation. Write a clear, polite response to correct the misunderstanding.
 
 If you do not want to use a real situation, choose one Unit 14 freer-practice option and write the response for that case instead.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U14-homework-document | rows=8}}
+:::
 
 ## Unit 15. Maintaining Consistent Email Style
 
@@ -4431,132 +4303,96 @@ If you do not want to use a real situation, choose one Unit 14 freer-practice op
 By the end of this unit, I will be able to:
 
 - identify inconsistency in an email's tone, structure, or formatting.
-- rewrite an email to match a more consistent professional style.
+- rewrite an email to match a consistent professional style.
 - write short emails that follow a standard structure.
 - explain why consistent email style matters for a team.
 
-### A. What Is Email Consistency?
-
-::: learn
-Definition
-
-Consistency means:
-
-- Using similar structures in similar situations
-- Keeping tone polite and neutral
-- Using standard openings and closings
-- Formatting emails clearly and uniformly
-
-Consistency helps:
-
-- Readers understand information quickly
-- Teams maintain a professional image
-- Prevent confusion caused by different writing styles
-:::
-
-::: example-bad
-Example: Inconsistent vs. Consistent
-
-**Inconsistent:**
-Hi, I checked it. Please tell me what to do. Thanks.
-:::
-
-::: example-good
-Consistent Version
-
-**Consistent:**
-Dear Team,
-I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?
-Thank you.
-:::
-
 ### A. Warm-Up
 
-::: notice
-Warm-Up: Identify the Inconsistencies
+::: learn
+Email Consistency Basics
 
-Read the two emails. What is inconsistent?
+A consistent email uses the same basic style from start to finish. The subject line, greeting, purpose sentence, body, closing, and sign-off should all feel like parts of the same professional message.
+:::
+
+::: notice
+Identify the Inconsistencies
+
+Read the two emails. Decide what is inconsistent in Email A.
 
 **Email A**
 
 Subject: Info
+
 Hi,
+
 I saw it. What next?
+
 Thx.
 
 **Email B**
 
 Subject: Information Required for Review
+
 Dear Team,
+
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
+
 Thank you.
 
-What is inconsistent in Email A? (tone, clarity, formatting, etc.)
-:::
+What is inconsistent in Email A? Think about tone, clarity, formatting, and email parts.
 
-::: learn
-To Keep Email Style Consistent, Check
-
-- subject line
-- greeting
-- purpose sentence
-- body tone
-- closing and sign-off
+{{PH-1: U15-warmup-inconsistency | rows=3}}
 :::
 
 ### B. Example Check
 
-::: learn
-Example Check: Why the Consistent Version Works
+::: example-bad
+Inconsistent
 
-The consistent version is stronger because every part supports the same professional image:
+Subject: File
 
-- clear subject line
-- professional greeting
-- purpose sentence
-- polite question
-- simple closing
+Hi, I checked it. Please tell me what to do. Thanks.
+:::
 
-Inconsistent emails slow the reader down because the format and tone change from line to line.
+::: example-good
+Consistent
+
+Subject: Question About Document Review
+
+Dear Team,
+
+I reviewed the document and found that two sections require additional information. Could you clarify the details for Section 3?
+
+Thank you.
 :::
 
 ::: learn
 Why This Works
 
-Consistency helps the reader know what to expect.
-It also helps teams sound reliable instead of random.
+The consistent version has a clear subject line, professional greeting, complete purpose sentence, polite question, and simple closing. Each part supports the same professional style.
 :::
 
 ### C. Language
 
 ::: language
-Language 1. Standard Email Elements
+Standard Email Elements
 
-Use standardised components to create consistency.
+Use standard email elements to create consistency.
 
-**Openings**
-
-- Dear Mr./Ms. [Name],
-- Dear Team,
-- Thank you for your email.
-
-**Purpose Statements**
-
-- I am writing to...
-- I would like to confirm...
-- We have a question regarding...
-
-**Closings**
-
-- Thank you.
-- Kind regards,
-- Please let me know if you need further information.
+| Email element | Useful language |
+|---|---|
+| Greeting | Dear Mr./Ms. [Name], / Dear Team, |
+| Opening | Thank you for your email. / I am writing to... |
+| Purpose | I would like to confirm... / We have a question regarding... |
+| Request or detail | Could you clarify...? / Please let me know... |
+| Closing | Thank you. / Kind regards, |
 :::
 
 ::: rewrite
-Practice A: Improve Consistency
+Improve Consistency
 
-Rewrite the emails to make them consistent in tone and structure.
+Rewrite each email so the tone and structure are consistent.
 
 1. Hi, I checked it. What should I do now?
 
@@ -4572,245 +4408,133 @@ Rewrite the emails to make them consistent in tone and structure.
 
 :::
 
-**Write Here**
-
-{{PH-1: U15-practice-a-consistency | rows=6}}
-
-::: learn
-Language 2. Formatting for Clarity and Consistency
-
-Emails should use:
-
-- Clear paragraph breaks
-- Consistent subject line patterns
-- Complete sentences
-- Professional spacing and layout
-
-Consistency is not only about tone. It also includes layout and organization, because formatting affects readability.
-
-A reader can follow an email more easily when the message uses the same visible pattern each time:
-
-- clear subject line
-- short opening
-- one clear purpose sentence near the top
-- body details grouped together
-- predictable closing
-
-If the layout changes every time, the reader has to search for the main point again.
-
-Mini comparison:
-
-- Inconsistent layout makes the reader ask, "Where is the main request?"
-- Consistent layout lets the reader predict where to find the purpose, details, and closing.
-
-That is why formatting supports clarity, not only appearance.
-:::
-
 ::: example-bad
 Original
 
 Subject: Question
-Hi, I saw the file. It looks wrong. Please explain. Thanks.
+
+hi,
+
+I looked at the file. some dates are not same. can you check fast.
+
+thanks
 :::
 
 ::: rewrite
-Practice B: Reformat the Email
+Reformat the Email
 
-Rewrite this email with clear formatting.
-
-When you rewrite it, decide:
-
-- what subject line is specific enough
-- where the background should stop
-- which sentence should become the direct request
-- what closing fits the tone
-
-::: example
-
-Mini example:
-:::
-
-::: example
-
-- Weak:
-  Subject: Question
-  Hi, I saw the file. It looks wrong. Please explain. Thanks.
-:::
-
-- Stronger:
-  Subject: Clarification Request About File Version
-  Hello,
-  We reviewed the file attached to yesterday's message and found a possible version difference.
-  Could you confirm which version should be used for the next submission step?
-  Thank you for your help.
-
-:::
-
-**Write Your Rewritten Email**
+Rewrite the email so the subject line, greeting, body, and closing follow one professional style.
 
 {{PH-2: U15-practice-b-reformat | rows=6}}
+:::
 
 ### D. Guided Practice
 
 ::: example-bad
 Original
 
-Subject: Form
-I checked it. The date is different from the one in the system. What should we do? Thx.
+Subject: Check
+
+Hello,
+
+The file arrived. I need you to look again. It has missing things and some other problem. Can you send it?
+
+Thanks.
 :::
 
 ::: rewrite
-Guided Practice: Standardise a Draft Email
+Standardize a Draft Email
 
-Rewrite the following email to make it consistent. Rewrite it as a short email to a colleague or team mailbox using a consistent professional style.
+Rewrite the email so the subject line, greeting, body, request, closing, and sign-off work together in one consistent style.
 
-**Rewrite:**
-
-Use this box for one complete version.
-:::
-
-**Write Here**
-
-{{PH-3: U15-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your own consistent emails, check:
-
-- [ ] Does the email use a standard opening?
-- [ ] Is the purpose sentence clear?
-- [ ] Does the body sound like the same email as the opening?
-- [ ] Does the closing match the tone?
+{{PH-3: U15-guided-document | rows=8}}
 :::
 
 ### E. Freer Practice
 
 ::: write
-Freer Practice: Write Two Consistent Emails
+Write Two Consistent Emails
 
-Choose two situations and write emails using **consistent tone and structure**.
-For each one, write a short workplace email that matches the same standard opening, body structure, and closing style used in this unit.
+Choose two situations. For each one, write a short email with a clear subject line, greeting, purpose sentence, body, request or next step, and closing.
 
-**Options**
+A. Ask a colleague to confirm a missing date in a document.
 
-A. Asking for clarification about a missing document.
+B. Ask an applicant to resend a form with one missing page.
 
-B. Informing a colleague about a small change in schedule.
+C. Tell a team member that a file name needs to be corrected.
 
-C. Requesting information from another team.
-
-D. Sharing an update after reviewing a file.
-
-Make the reader clear in each email and keep the tone, layout, and sign-off consistent. Write your emails:
-
-Write each document in its own box.
-:::
+D. Ask a supervisor to confirm which version of a guideline should be used.
 
 **Email 1**
 
-{{PH-3: U15-freer-email-1 | rows=10}}
+{{PH-3: U15-freer-email-1 | rows=8}}
 
 **Email 2**
 
-{{PH-3: U15-freer-email-2 | rows=10}}
+{{PH-3: U15-freer-email-2 | rows=8}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
-Editing Practice: Bring Two Drafts to One Standard
+Bring Two Drafts to One Standard
 
-Rewrite the two short messages below so they follow the same team style.
+Rewrite each draft so both messages use the same professional style.
 
-1. Hi, the file is not right. Check it.
+1. Hi, file is wrong. fix?
 
 {{PH-1: U15-G-rewrite-1 | rows=2}}
 
-2. Dear Team, We noticed one issue with the file and need clarification about the date. Thank you.
+2. Dear Ms. Lee, There is problem in form. send again please. Thanks.
 
 {{PH-1: U15-G-rewrite-2 | rows=2}}
 
-Write the full corrected version below.
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U15-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After you write your emails in Activity E and complete the editing practice in Activity F, check your work again:
 
-::: write
-Transfer Extension: Mini Team Style Rule
-
-Write three style rules your team could use for similar emails.
-
-For example:
-
-- subject line pattern
-- opening style
-- closing style
-
-Then use those rules to check one email from your freer practice.
-
-Write one sentence on each line where possible.
+- [ ] Does each email have a clear subject line?
+- [ ] Do the greeting, body, and closing match in tone?
+- [ ] Is each request polite and specific?
+- [ ] Is the formatting easy to scan?
 :::
-
-**Write Here**
-
-{{PH-1: U15-transfer-response | rows=4}}
-
-### E. Extended Writing Task
-
-::: write
-Extended Writing Task: Email Style Guide Paragraph
-
-Write a paragraph (6-8 sentences) explaining why your team should follow a consistent email style and what elements are important.
-
-Try to include both:
-
-- one reason connected to reader confidence or speed
-- one reason connected to fewer misunderstandings
-
-You may also mention a simple team rule such as subject lines, greeting style, paragraphing, or closing format.
-
-Mini content frame:
-
-- why one stable style helps the reader
-- which visible features should stay the same
-- how a shared style reduces wasted follow-up messages
-
-Write your paragraph:
-:::
-
-**Write Your Paragraph**
-
-{{PH-2: U15-extended-paragraph | rows=8}}
-
-### F. Reflection
 
 ::: write
 Reflect on This Unit
 
-1. Which inconsistency causes the biggest reader problem in your workplace: tone, structure, or formatting? Explain your choice.
-2. Which team-writing rule from this unit would improve real email communication most quickly if everyone followed it?
-3. When you revise two emails to the same standard, what should stay consistent and what can still change for the reader or purpose?
+Answer the questions in short notes.
+
+1. Which part of an email is easiest for you to keep consistent?
+2. Which part needs more attention: subject line, greeting, body, request, or closing?
+3. Which standard phrase from this unit could your team use regularly?
+
+{{PH-1: U15-reflection | rows=4}}
 :::
 
-### H. Homework
+### H. Homework & Extension
+
+::: write
+Mini Team Style Rules
+
+Write three simple style rules your team could use for similar emails. Then choose one Activity E email and revise it so it follows those rules.
+
+{{PH-1: U15-transfer-response | rows=5}}
+:::
 
 ::: write
 Homework Task
 
-Find two emails you wrote recently. Rewrite them to follow a **consistent, standard format** based on this unit.
+Find a real short email or message that feels inconsistent in tone or format. Rewrite it using one consistent professional style.
 
-If you do not want to use real emails, choose two Unit 15 freer-practice situations and write the emails using one shared team standard instead.
-:::
-
-**Homework Draft**
+If you do not want to use a real message, choose one Unit 15 freer-practice situation and write the email for that case instead.
 
 {{PH-3: U15-homework-document | rows=8}}
+:::
 
 ## Module 4 Review Workshop
 
@@ -4867,14 +4591,6 @@ Improve the Reader Response
 Rewrite the weak response so it explains the process clearly, removes blame language, and gives the reader a clear way forward.
 
 {{PH-2: M4-revision-lab-response | rows=8}}
-:::
-
-::: example-good
-Possible Stronger Version
-
-Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
-
-This version is stronger because it keeps the relationship calm, explains the process in the order the reader needs, removes blame language, and leaves the reader with a clear path forward.
 :::
 
 ### Self-Edit Routine
