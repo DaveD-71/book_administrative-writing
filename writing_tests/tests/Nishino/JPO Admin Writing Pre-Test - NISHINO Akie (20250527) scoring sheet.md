@@ -89,10 +89,79 @@ Completed for:
 
 ## Marker Comment Summary
 
-| Section | Strengths | Main Weaknesses | Priority for Improvement |
-|---|---|---|---|
-| A1 | One response is fully corrected, and several others show a clear attempt at professional revision. | Residual errors remain after correction, for example `Thank you for [space], sending me your email` and `teach you updated information`. | Build more reliable sentence-level editing control. |
-| A2 | All three responses address the prompt, and `I have attached the amended version of the notification` is strong. | Tone and phrasing are uneven; examples include `it takes two extra days to respond` and the very bare `Please explain a contradictory section...`. | Practice concise but professional 1-2 sentence responses. |
-| B1 | Main purpose, one specific question, and a deadline are identifiable. | The response is severely underlength and underdeveloped; examples include `Please explain a difference...` and `I could appreciate if you reply the inquiry`. | Expand task response and improve email conventions. |
-| B2 | Covers change, reason, and staff action in basic form. | Grammar and sentence control weaken clarity, especially in the central explanatory sentence `The above step added to an application process help examiners...`; the response is also under the word requirement. | Improve sentence control in longer procedural explanations. |
-| C | The rewrite uses paragraphing and keeps the core situation. | Revision is limited, retains weak source features such as `Dear Colleague`, and introduces a new problem in `the applicant ... not explained the procedure accurately`. | Focus on tactful rewriting and stronger restructuring of source texts. |
+<table>
+  <thead>
+    <tr>
+      <th>Section</th>
+      <th>Item</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">A1</td>
+      <td>Strengths</td>
+      <td>One response is fully corrected, and several others show a clear attempt at professional revision.</td>
+    </tr>
+    <tr>
+      <td>Main Weaknesses</td>
+      <td>Residual errors remain after correction, for example <code>Thank you for [space], sending me your email</code> and <code>teach you updated information</code>.</td>
+    </tr>
+    <tr>
+      <td>Priority for Improvement</td>
+      <td>Build more reliable sentence-level editing control.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">A2</td>
+      <td>Strengths</td>
+      <td>All three responses address the prompt, and <code>I have attached the amended version of the notification</code> is strong.</td>
+    </tr>
+    <tr>
+      <td>Main Weaknesses</td>
+      <td>Tone and phrasing are uneven; examples include <code>it takes two extra days to respond</code> and the very bare <code>Please explain a contradictory section...</code>.</td>
+    </tr>
+    <tr>
+      <td>Priority for Improvement</td>
+      <td>Practice concise but professional 1-2 sentence responses.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">B1</td>
+      <td>Strengths</td>
+      <td>Main purpose, one specific question, and a deadline are identifiable.</td>
+    </tr>
+    <tr>
+      <td>Main Weaknesses</td>
+      <td>The response is severely underlength and underdeveloped; examples include <code>Please explain a difference...</code> and <code>I could appreciate if you reply the inquiry</code>.</td>
+    </tr>
+    <tr>
+      <td>Priority for Improvement</td>
+      <td>Expand task response and improve email conventions.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">B2</td>
+      <td>Strengths</td>
+      <td>Covers change, reason, and staff action in basic form.</td>
+    </tr>
+    <tr>
+      <td>Main Weaknesses</td>
+      <td>Grammar and sentence control weaken clarity, especially in the central explanatory sentence <code>The above step added to an application process help examiners...</code>; the response is also under the word requirement.</td>
+    </tr>
+    <tr>
+      <td>Priority for Improvement</td>
+      <td>Improve sentence control in longer procedural explanations.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">C</td>
+      <td>Strengths</td>
+      <td>The rewrite uses paragraphing and keeps the core situation.</td>
+    </tr>
+    <tr>
+      <td>Main Weaknesses</td>
+      <td>Revision is limited, retains weak source features such as <code>Dear Colleague</code>, and introduces a new problem in <code>the applicant ... not explained the procedure accurately</code>.</td>
+    </tr>
+    <tr>
+      <td>Priority for Improvement</td>
+      <td>Focus on tactful rewriting and stronger restructuring of source texts.</td>
+    </tr>
+  </tbody>
+</table>

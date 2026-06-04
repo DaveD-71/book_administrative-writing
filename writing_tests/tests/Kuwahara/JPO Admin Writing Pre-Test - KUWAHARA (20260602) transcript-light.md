@@ -20,7 +20,7 @@ Rules used here:
 
 1.
 ```text
-Thank you for your email. I've checked the contents and found it to be added more information from our college.
+Thank you for your email. I've checked the contents and found it to be added more information from our colleage.
 ```
 
 2.
@@ -30,17 +30,17 @@ The attached file is not the same version as we discussed in the last meeting.
 
 3.
 ```text
-[no handwritten response]
+Please confirm me if the applicant has already submitted the missing documents.
 ```
 
 4.
 ```text
-[no handwritten response]
+We will update you about the situation as soon as possible, but it seems difficult within today because we have a lot of tasks.
 ```
 
 5.
 ```text
-[no handwritten response]
+I would appreciate you if you could check again from the points below and give me your advice.
 ```
 
 ### Task A2. Micro-Writing
@@ -57,7 +57,7 @@ There seems to be a contradiction in the international guideline. Could you expl
 
 3.
 ```text
-[no handwritten response]
+Attached is a corrected version of a notification.
 ```
 
 ## Section B - Task-Based Writing

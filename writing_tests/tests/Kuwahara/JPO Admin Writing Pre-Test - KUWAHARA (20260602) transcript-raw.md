@@ -20,11 +20,11 @@ Rules used here:
 
 1.
 ```text
-Thank you for your email.
+Thank you for your email
 
 I've checked the contents and found it to be added
 
-more information from our college.
+more information from our colleage.
 ```
 
 2.
@@ -36,17 +36,25 @@ in the last meeting.
 
 3.
 ```text
-[no handwritten response]
+Please confirm me if the applicant has already submitted
+
+the missing documents.
 ```
 
 4.
 ```text
-[no handwritten response]
+We will update you about the situation as soon as possible,
+
+but it seems difficult within today because we have a lot of
+
+tasks.
 ```
 
 5.
 ```text
-[no handwritten response]
+I would appreciate you if you could check again
+
+from the points below and give me your advice.
 ```
 
 ### Task A2. Micro-Writing
@@ -65,7 +73,7 @@ guideline. Could you explain the meaning and make it clear?
 
 3.
 ```text
-[no handwritten response]
+Attached is a corrected version of a notification.
 ```
 
 ## Section B - Task-Based Writing
@@ -124,4 +132,4 @@ I couldn't
 
 ## Additional Handwritten Notes And Marginalia
 
-No separate prompt-page notes or marginal planning notes were clearly visible in the handwritten submission beyond the main answer text.
+No separate prompt-page notes or marginal planning notes were clearly visible beyond the main answer text.

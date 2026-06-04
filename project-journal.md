@@ -2237,3 +2237,35 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave clarified that the requested Module 4 review should evaluate each activity one by one against Phase 3 requirements, not redesign the module's developmental purpose.
 - Action: marked the earlier broad review as superseded and created int/edits & guides/full-review/print-readiness-audits/phase3_module4_activity_by_activity_review.md. The corrected review accepts the current Module 4 purpose and flags only Phase 3 compliance issues by activity: instruction clarity, source/output specificity, div function, list use, placeholder fit, model placement, and answer-key impact.
 - Outcome: priority edit list now focuses on concrete Phase 3 fixes: Module Guide wording, Unit 12 B/D/E/H clarity, Unit 13 B/C minor checks, Unit 14 B/C wording, Unit 15 C sign-off support, and Module 4 Review Workshop transfer-output clarification.
+## 2026-06-04T00:00:00+09:00 - Kuwahara Extraction Rerun On Updated PDF/DOCX
+
+- Scope: `writing_tests/tests/Kuwahara/` and `tmp/pdfs/kuwahara_pretest/`, `tmp/docs/kuwahara_docx_media/`.
+- Trigger: Dave supplied a new PDF for Mr Kuwahara's test answers, saved a new Word DOCX from that PDF, and moved the earlier output files into `writing_tests/tests/Kuwahara/old/`.
+- Action:
+  - reset the old Kuwahara temp working folders
+  - rendered the updated PDF to 12 page PNGs
+  - extracted 85 media fragments from the updated DOCX
+  - reread the handwritten content against the full-page renders and rewrote the three transcript files:
+    - `JPO Admin Writing Pre-Test - KUWAHARA (20260602) transcript-raw.md`
+    - `... transcript-light.md`
+    - `... transcript.md`
+- Key finding: the student wrote most answers in the open space directly under each question, not primarily in the designated answer-space continuation pages. The full-page PDF renders therefore remained the source of truth; assuming the continuation pages would contain the main answers would have missed A1-3 to A1-5 and A2-3.
+- Content outcome:
+  - Section A is now fully recoverable from the updated scan, including A1-3 through A1-5 and A2-3
+  - Section B still ends after the visible first response page for each task
+  - Section C still appears genuinely incomplete and breaks off after `I couldn't`
+- Note: no new scoring sheet was generated in this rerun because Dave asked specifically for extraction based on the corrected scan.
+
+## 2026-06-04T13:49:56.6789384+09:00 - Kuwahara Scoring Sheet Completed Against Rubric And Instructor Guide
+
+- Scope: `writing_tests/tests/Kuwahara/` and the repo scoring references under `writing_tests/`.
+- Trigger: Dave requested the Kuwahara scoring sheet and asked that it be aligned explicitly with `Rubric Scoring Guide Writing Course`, `Instructor Marking Guide Writing Course`, and the existing Nishino assessment for fairness and explanation quality.
+- Action:
+  - reread the repo memory and Nishino scoring sheet
+  - scored Kuwahara with the same `/100` framework already used for Nishino
+  - used direct examples from the student's answer-sheet transcript in the marker notes
+  - treated B1 and B2 as underlength responses and treated C1 as genuinely incomplete rather than as a weak full draft
+- Outcome:
+  - created `writing_tests/tests/Kuwahara/JPO Admin Writing Pre-Test - KUWAHARA (20260602) scoring sheet.md`
+  - final totals recorded as `A1 5`, `A2 13`, `B1 15`, `B2 13`, `C 6`, total `52 / 100`
+- Fairness note: the scoring rationale was kept comparable to the Nishino assessment by using the same section architecture, the same rubric-category structure, and similarly specific quoted evidence from the student's own writing.

@@ -4,14 +4,14 @@ Transcript extracted from the student's handwritten responses.
 
 Warning:
 - This file is an interpreted reading, not a strict diplomatic transcription.
-- It may contain minor normalization choices such as sentence joining and explicit marking of omitted or incomplete responses.
+- It may contain minor normalization choices such as sentence joining and explicit marking of incomplete responses.
 - For a correction-free preservation attempt, use the companion file:
   `JPO Admin Writing Pre-Test - KUWAHARA (20260602) transcript-raw.md`
 
 Method note:
 - Page renders from the original PDF were used as the source of truth.
 - The Word-converted DOCX was used only as a helper to confirm where Word had split one answer into multiple image fragments.
-- Where a response appears incomplete or absent, that is recorded directly rather than silently repaired.
+- The student wrote most answers directly in the empty space under each question, so the full-page PDF renders were more reliable than any answer-box-only assumption.
 
 ## Cover Page
 
@@ -22,15 +22,15 @@ Method note:
 
 ### Task A1. Error Correction
 
-1. `Thank you for your email. I've checked the contents and found it to be added more information from our college.`
+1. `Thank you for your email. I've checked the contents and found it to be added more information from our colleage.`
 
 2. `The attached file is not the same version as we discussed in the last meeting.`
 
-3. `[no handwritten response]`
+3. `Please confirm me if the applicant has already submitted the missing documents.`
 
-4. `[no handwritten response]`
+4. `We will update you about the situation as soon as possible, but it seems difficult within today because we have a lot of tasks.`
 
-5. `[no handwritten response]`
+5. `I would appreciate you if you could check again from the points below and give me your advice.`
 
 ### Task A2. Micro-Writing
 
@@ -38,7 +38,7 @@ Method note:
 
 2. `There seems to be a contradiction in the international guideline. Could you explain the meaning and make it clear?`
 
-3. `[no handwritten response]`
+3. `Attached is a corrected version of a notification.`
 
 ## Section B - Task-Based Writing
 
