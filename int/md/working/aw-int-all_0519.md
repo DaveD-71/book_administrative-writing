@@ -5770,38 +5770,21 @@ By the end of this unit, I will be able to:
 - write a short internal explanation of the same issue.
 - adjust tone and detail when the audience changes.
 
-### A. Scenario Overview
-
-::: learn
-Unit Scenario
-
-You receive an update from an external office stating that one of the applicant's documents cannot be accepted because a signature is missing. Your colleague has asked you to follow up and also explain the issue to your team.
-
-In this unit, you will write:
-
-1. **An external inquiry email** requesting the correct information.
-2. **An internal explanation** summarising the situation for colleagues.
-:::
-
-#### A. Warm-Up
+### A. Warm-Up
 
 ::: notice
-Warm-Up: Understanding the Situation
+Understand the Shared Scenario
 
 Read the scenario and answer the questions.
 
-**Scenario:** The external office reports that the applicant's "Form B - Declaration" does not include a required signature. They ask your office to confirm whether a corrected version will be submitted.
+**Scenario:** An external office reports that the applicant's `Form B - Declaration` does not include a required signature. The office asks your team to confirm whether a corrected version will be submitted. Your colleague also needs a short internal explanation of the issue and the next step.
 
 1. What is the problem?
 2. What information does the external office need?
 3. What information does your team need internally?
 4. What tone should you use in each message?
 
-Write your answers:
-1.
-2.
-3.
-4.
+{{PH-1: U19-warmup-response | rows=6}}
 :::
 
 ::: learn
@@ -5815,7 +5798,7 @@ Before You Write Two Texts from One Scenario
 ### B. Example Check
 
 ::: learn
-Example Check: Why Two Documents Are Needed
+Why Two Documents Are Needed
 
 In this unit, one situation produces **two different writing jobs**.
 
@@ -5841,7 +5824,7 @@ Good multi-document writing keeps the same facts but changes:
 ### C. Language
 
 ::: language
-Language: Writing for Two Audiences
+Writing for Two Audiences
 
 **External Email (Polite, Clear, Concise)**
 
@@ -5858,11 +5841,7 @@ Language: Writing for Two Audiences
 - Further updates will follow once...
 :::
 
-::: learn
-Transfer Reminder
-
 If the two texts sound almost the same, the audience control is probably too weak.
-:::
 
 ::: rewrite
 Practice A: Rewrite for Audience & Tone
@@ -5892,43 +5871,31 @@ Rewrite each sentence for the correct audience.
 "The form is wrong but they didn't explain well."
 
 {{PH-1: U19-C-rewrite-4 | rows=2}}
-
 :::
-
-**Write Here**
-
-{{PH-1: U19-practice-a-audience | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write the External Email
+Write the External Email
 
-Write a **4-5 sentence** external follow-up email to the external office based on the scenario.
+Use the Unit 19 scenario. Write a short external follow-up email to the external office.
 
 Include:
 
 - Subject line
 - Thank-you / acknowledgement
 - Background sentence
-- Clear inquiry question(s)
+- One clear question about the missing signature or the resubmission step
 - Polite closing
 
-Write your email:
-
-Use this box for one complete version.
+{{PH-3: U19-guided-external-email | rows=10}}
 :::
 
-**External Email**
-
-{{PH-3: U19-guided-external-email | rows=10}}
-
-#### D. Guided Practice
-
 ::: write
-Guided Practice: Write the Internal Explanation
+Write the Internal Explanation
 
-Write a **4-5 sentence** explanation for your colleagues or team.
+Use the same facts from the scenario. Write a short internal explanation for your colleagues or team.
+
 Include:
 
 - Background
@@ -5936,9 +5903,7 @@ Include:
 - What is needed next
 - Next steps or expected follow-up
 
-Keep the internal explanation different from the external email.
-The email asks for action from the outside office.
-The internal explanation helps colleagues understand the problem and prepare the next step.
+Keep the internal explanation different from the external email. The email asks the outside office for action or clarification. The internal explanation helps colleagues understand the issue and prepare the next step.
 
 You can use this simple frame:
 
@@ -5948,42 +5913,19 @@ You can use this simple frame:
 4. The next step will be ...
 
 ::: example
-
-Mini contrast:
-:::
-
-::: example
+Reader-purpose reminder:
 
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
 :::
 
-If both texts sound the same, the reader-purpose control is still weak. Write your explanation:
-
-Use this box for one complete version.
-:::
-
-**Internal Explanation**
-
 {{PH-3: U19-guided-internal-explanation | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing the full pair, check:
-
-- [ ] Did I change the tone for each reader?
-- [ ] Did I keep the facts consistent?
-- [ ] Does each text have a different immediate purpose?
-- [ ] Will each reader understand what matters to them?
 :::
 
-### E. Reader-Control Planning Board
+### E. Freer Practice
 
 ::: structure
-Planning Board
+Plan the Reader Control
 
 Before writing the full pair, note the same situation in two different ways.
 
@@ -5999,10 +5941,8 @@ Writers often lose audience control because they start drafting too quickly.
 This board slows the decision down just enough to keep the two texts linked but not identical.
 :::
 
-#### E. Freer Practice
-
 ::: write
-Freer Practice: Choose One Integrated Scenario
+Choose One Integrated Scenario
 
 Choose one scenario and write **both**:
 
@@ -6017,116 +5957,88 @@ B. The external office reports inconsistent applicant information.
 
 C. The review team needs clarification about a new submission rule.
 
-Make it clear who each text is for and what that reader needs to know from the same scenario. Write your two texts:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**External Email**
+Make it clear who each text is for and what that reader needs to know from the same scenario. Keep the facts the same, but change the audience and tone.
 
 {{PH-3: U19-paired-external-email | rows=10}}
 
-**Internal Explanation**
-
 {{PH-3: U19-paired-internal-explanation | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
-Editing Practice: Separate The Reader Needs
+Separate the Reader Needs
 
 Rewrite the weak pair below so the external and internal texts do different jobs.
 
 **Weak external draft:** We got your message and there is a signature problem.
 **Weak internal draft:** There is a signature problem and we got their message.
 
-**Rewrite:**
+Write a clearer external version and a clearer internal version.
 
-Write the full corrected version below.
+**External revision**
+
+{{PH-2: U19-editing-external | rows=4}}
+
+**Internal revision**
+
+{{PH-2: U19-editing-internal | rows=4}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U19-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After writing and editing, check:
+
+- [ ] Did I change the tone for each reader?
+- [ ] Did I keep the facts consistent across both texts?
+- [ ] Does each text have a different immediate purpose?
+- [ ] Will each reader understand what matters to them?
+- [ ] Did I keep the internal explanation factual rather than question-focused?
+:::
+
+::: write
+Reflect on the Audience Shift
+
+1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence?
+2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
+3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
+
+{{PH-1: U19-reflection | rows=5}}
+:::
+
+### H. Homework & Extension
 
 ::: rewrite
-Transfer Extension: Same Fact, New Audience Pair
+Same Fact, New Audience Pair
 
 Choose one earlier unit task. Rewrite it as:
 
-- [ ] one external message
-- [ ] one internal message
+- one short external message
+- one short internal message
 
 Use the same core facts, but change the tone and detail for each audience.
 
-Write one sentence on each line where possible.
+**External message**
+
+{{PH-1: U19-extension-external | rows=4}}
+
+**Internal message**
+
+{{PH-1: U19-extension-internal | rows=4}}
 :::
-
-**Write Here**
-
-{{PH-1: U19-transfer-response | rows=4}}
-
-#### E. Extended Writing Task
 
 ::: write
-Extended Writing Task: Multi-Purpose Communication
+Rewrite for an Alternate Audience
 
-Write:
+Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (`external -> internal` or `internal -> external`).
 
-- One external-style email (6-8 sentences)
-- One internal paragraph (6-8 sentences)
-
-Each should:
-
-- Use accurate grammar
-- Be clear and concise
-- Match the correct tone for the audience
-- Present information logically
-
-Write the email for the outside office and the paragraph for your internal team.
-
-Write your extended tasks:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**External Email**
-
-{{PH-3: U19-extended-external-email | rows=10}}
-
-**Internal Explanation**
-
-{{PH-3: U19-extended-internal-explanation | rows=10}}
-
-#### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which audience shift created the biggest writing change in your pair: tone, detail, or sequence? Explain with one example from your draft.
-2. Which fact stayed the same across both texts, and which detail changed because only one reader needed it?
-3. How would this two-audience skill help prevent confusion or extra follow-up in real administrative work?
-:::
-
-#### H. Homework
-
-::: write
-Homework Task
-
-Choose one email you wrote in a previous unit. Rewrite it for an alternate audience (external -> internal, or internal -> external).
-:::
-
----
-
-**Homework Draft**
+Keep the main facts the same, but change the tone, detail, and immediate purpose for the new reader.
 
 {{PH-3: U19-homework-document | rows=8}}
+:::
 
 ## Unit 20. Integrated Task 2: Revision + Notice Writing
 
@@ -6139,50 +6051,21 @@ By the end of this unit, I will be able to:
 - explain a corrected detail clearly and concisely.
 - adapt the same information for external and internal audiences.
 
-### A. Scenario Overview
-
-::: learn
-Unit Scenario
-
-Your office previously shared the monthly review schedule with an external office. A colleague later discovers that **one date in the schedule is incorrect**.
-
-You must:
-
-1. Write a **revision/clarification message** to the external office.
-2. Write an **internal notice** informing colleagues about the correction.
-
-The two documents must match, but they should not sound the same.
-
-- The external message should correct the date politely and clearly.
-- The internal notice should help colleagues avoid repeating the wrong date.
-- Both texts must name the same stage and the same corrected date.
-
-Document-control check:
-
-- shared fact: "Document Verification - Stage 2" is "27 May"
-- external purpose: correct the previously sent information
-- internal purpose: prevent staff from using the wrong date again
-:::
-
-#### A. Warm-Up
+### A. Warm-Up
 
 ::: notice
-Warm-Up: Understanding the Situation
+Understand the Correction Scenario
 
 Read the scenario and answer the questions.
 
-**Scenario:** The review schedule for May was shared last week. The date for "Document Verification - Stage 2" was listed as **24 May**, but the correct date is **27 May**.
+**Scenario:** Your office previously shared the monthly review schedule with an external office. A colleague later discovers that the date for `Document Verification - Stage 2` was listed as `24 May`, but the correct date is `27 May`. You now need to send a polite correction message to the external office and an internal notice for your team.
 
 1. What information needs revision?
 2. Who needs to receive the corrected date?
 3. Should the tone be the same for external and internal communication? Why/why not?
 4. What details must be included in each message?
 
-Write your answers:
-1.
-2.
-3.
-4.
+{{PH-1: U20-warmup-response | rows=6}}
 :::
 
 ::: learn
@@ -6196,7 +6079,7 @@ For Connected Documents, Check
 ### B. Example Check
 
 ::: learn
-Example Check: Why Connected Documents Need Control
+Why Connected Documents Need Control
 
 This unit is not only about writing two texts.
 It is about keeping one corrected fact stable across both texts.
@@ -6213,7 +6096,7 @@ If the correction changes between texts, the writing may create more confusion i
 ### C. Language
 
 ::: language
-Language: Revision vs. Notice
+Revision vs. Notice
 
 **Revision Message (External Office)**
 
@@ -6238,12 +6121,7 @@ Useful phrases:
 - Further updates will follow.
 :::
 
-::: learn
-Teaching Point
-
-The external revision message repairs the relationship with the outside reader.
-The internal notice repairs shared team understanding.
-:::
+The external revision message repairs the relationship with the outside reader. The internal notice repairs shared team understanding.
 
 ::: rewrite
 Practice A: Rewrite for Audience & Tone
@@ -6273,19 +6151,14 @@ Rewrite each sentence for the appropriate audience.
 "We told them the wrong date."
 
 {{PH-1: U20-C-rewrite-4 | rows=2}}
-
 :::
-
-**Write Here**
-
-{{PH-1: U20-practice-a-audience | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write the Revision Message
+Write the Revision Message
 
-Write a **4-5 sentence** message to the external office that received the earlier schedule.
+Use the Unit 20 scenario. Write a short message to the external office that received the earlier schedule.
 
 Include:
 
@@ -6296,21 +6169,13 @@ Include:
 - Optional brief apology
 - Polite closing
 
-Write your message:
-
-Use this box for one complete version.
+{{PH-3: U20-guided-revision-message | rows=10}}
 :::
 
-**Revision Message**
-
-{{PH-3: U20-guided-revision-message | rows=10}}
-
-#### D. Guided Practice
-
 ::: write
-Guided Practice: Write the Internal Notice
+Write the Internal Notice
 
-Write a **4-5 sentence** internal notice for colleagues in your section.
+Use the same facts from the scenario. Write a short internal notice for colleagues in your section.
 
 Include:
 
@@ -6319,32 +6184,13 @@ Include:
 - The corrected date
 - Impact or next steps
 
-Write your notice:
-
-Use this box for one complete version.
-:::
-
-**Internal Notice**
-
 {{PH-3: U20-guided-internal-notice | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing both texts, ask:
-
-- [ ] Is the correction exactly the same in both texts?
-- [ ] Is the external tone more polite?
-- [ ] Is the internal version shorter and more factual?
-- [ ] Can each reader see what happens next?
 :::
 
-### E. Correction Control Board
+### E. Freer Practice
 
 ::: structure
-Control Board
+Correction Control Board
 
 Use this board before drafting the full pair.
 
@@ -6361,10 +6207,8 @@ Many weak correction sets change the wording of the correction itself. If the co
 Keep the corrected fact identical. Change the tone, format, and amount of explanation around that fact.
 :::
 
-#### E. Freer Practice
-
 ::: write
-Freer Practice: Choose One Scenario
+Choose One Scenario
 
 Choose one and write both texts:
 
@@ -6379,119 +6223,83 @@ B. A required document name was written incorrectly.
 
 C. An instruction in a previous email was unclear or incomplete.
 
-Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences. Write your two texts:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Revision Message**
+Keep the two texts connected to the same correction, but change the tone and purpose for the two audiences. Keep the facts the same, but change the audience and tone.
 
 {{PH-3: U20-revision-message | rows=10}}
 
-**Internal Notice**
-
 {{PH-3: U20-internal-notice | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
-Editing Practice: Repair The Correction Set
+Repair the Correction Set
 
 Rewrite this weak pair so both texts stay consistent.
 
 **Weak external draft:** The meeting date may change.
 **Weak internal draft:** The new meeting date is 27 May.
 
-**Rewrite:**
+Write a clearer external revision message and a clearer internal notice.
 
-Write the full corrected version below.
+**External revision**
+
+{{PH-2: U20-editing-external | rows=4}}
+
+**Internal notice revision**
+
+{{PH-2: U20-editing-internal | rows=4}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U20-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After writing and editing, ask:
+
+- [ ] Is the correction exactly the same in both texts?
+- [ ] Is the external tone more polite?
+- [ ] Is the internal version shorter and more factual?
+- [ ] Can each reader see what happens next?
+- [ ] Did both texts name the same corrected detail?
+:::
 
 ::: write
-Transfer Extension: Correction Log
+Reflect on This Unit
 
-Write a short 3-4 line correction log for one scenario in this unit:
+1. Which document did the heavier communication job in your pair: the revision message or the internal notice?
+2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
+3. How can a well-written correction message reduce repeated errors or repeated questions later?
+
+{{PH-1: U20-reflection | rows=5}}
+:::
+
+### H. Homework & Extension
+
+::: write
+Correction Log
+
+Write a short correction log for one scenario in this unit:
 
 - original incorrect detail
 - corrected detail
 - who needs the correction
 - what document each reader receives
 
-Write one sentence on each line where possible.
+{{PH-1: U20-extension-log | rows=4}}
 :::
 
-**Write Here**
-
-{{PH-1: U20-transfer-response | rows=4}}
-
-#### E. Extended Writing Task
-
 ::: write
-Extended Writing Task: Combined Communication Pack
-
-Write:
-
-- One external-style revision message (6-8 sentences)
-- One internal notice (6-8 sentences)
-
-each using:
-
-- Accurate grammar
-- Clear structure
-- Appropriate tone for each audience
-- Logical connections
-- Concise and professional style
-
-Write the first for the outside reader who received the incorrect information and the second for your internal team. Write your extended tasks:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Revision Message**
-
-{{PH-3: U20-extended-revision-message | rows=10}}
-
-**Internal Notice**
-
-{{PH-3: U20-extended-internal-notice | rows=10}}
-
-#### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which document did the heavier communication job in your pair: the revision message or the internal notice? Why?
-2. What changed most between the two texts: the tone, the amount of detail, or the action for the reader?
-3. How can a well-written correction message reduce repeated errors or repeated questions later?
-:::
-
-#### H. Homework
-
-::: write
-Homework Task
+Rewrite One Earlier Message
 
 Choose a message from a previous unit. Rewrite it as:
 
-A) a revision email, or
-
-B) an internal notice.
-:::
-
----
-
-**Homework Draft**
+- a revision email, or
+- an internal notice
 
 {{PH-3: U20-homework-document | rows=8}}
+:::
 
 ## Unit 21. Writing for Consistency Across a Team
 
@@ -6504,10 +6312,12 @@ By the end of this unit, I will be able to:
 - explain simple team writing rules.
 - revise a set of related messages into one professional style.
 
-### A. Why Team Consistency Matters
+### A. Warm-Up
 
-::: learn
-Definition
+::: notice
+Spot the Inconsistencies
+
+Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
 
 When multiple team members write emails and notices, inconsistency can cause:
 
@@ -6531,14 +6341,6 @@ Clear team standards help:
 - formatting basics
 :::
 
-#### A. Warm-Up
-
-::: notice
-Warm-Up: Spot the Inconsistencies
-
-Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
-:::
-
 ::: example-bad
 Email A
 
@@ -6559,17 +6361,14 @@ We reviewed the application this morning and need confirmation about the submiss
 Thank you.
 :::
 
-Write the inconsistencies you notice:
+Write the inconsistencies you notice.
 
-- Tone:
-- Format:
-- Structure:
-- Clarity:
+{{PH-1: U21-warmup-response | rows=5}}
 
 ### B. Example Check
 
 ::: learn
-Example Check: Why Team Consistency Helps
+Why Team Consistency Helps
 
 If one team sends very different styles of email, readers may feel:
 
@@ -6588,7 +6387,7 @@ Consistency helps because the reader can recognize the team's style quickly:
 ### C. Language
 
 ::: language
-Language: Standardising Team Writing
+Standardising Team Writing
 
 **Standard Openings**
 
@@ -6615,11 +6414,7 @@ Language: Standardising Team Writing
 - Consistent subject line format
 :::
 
-::: learn
-Teaching Point
-
 Team consistency is a reader-support tool, not only a style preference.
-:::
 
 ::: rewrite
 Practice A: Improve Team Consistency
@@ -6637,12 +6432,7 @@ Rewrite these sentences/emails to make them consistent with team standards.
 3. Team, The file is wrong. Fix it.
 
 {{PH-1: U21-C-rewrite-3 | rows=2}}
-
 :::
-
-**Write Here**
-
-{{PH-1: U21-practice-a-consistency | rows=6}}
 
 ::: example-bad
 Original
@@ -6651,8 +6441,10 @@ Subject: Document
 Hey, I don't think this is right. Check it and tell me.
 :::
 
+### D. Guided Practice
+
 ::: rewrite
-Practice B: Standardise Format & Tone
+Standardise Format & Tone
 
 Rewrite the email with correct formatting, tone, and clarity. Use one shared team pattern:
 
@@ -6672,17 +6464,11 @@ Mini standard:
 - Detail: one supporting fact or request
 - Closing: neutral and consistent
 
-**Rewrite:**
+{{PH-2: U21-practice-b-standardise | rows=6}}
 :::
 
-**Write Your Rewrite**
-
-{{PH-2: U21-practice-b-standardise | rows=6}}
-
-### D. Guided Practice
-
 ::: rewrite
-Guided Practice: Rewrite Three Short Messages
+Rewrite Three Short Messages
 
 Rewrite all three so they follow **the same team-wide style**.
 Treat them as short draft messages from different colleagues that need to match one shared team standard.
@@ -6699,32 +6485,13 @@ I saw your message. We need more details.
 
 The applicant file is strange. Please check.
 
-Rewrite all messages in a consistent style:
-
-Use this box for one complete version.
-:::
-
-**Write Here**
-
 {{PH-3: U21-guided-document | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing your next rewritten message set, check:
-
-- [ ] Do all messages sound like they come from one team?
-- [ ] Is the tone level stable?
-- [ ] Is the structure similar across the messages?
-- [ ] Is the formatting predictable?
 :::
 
 ### E. Freer Practice
 
 ::: rewrite
-Freer Practice: Rewrite Two Related Messages To One Standard
+Rewrite Two Related Messages to One Standard
 
 Choose **one** of the situations below and rewrite **both** messages so they follow one shared team standard.
 
@@ -6750,42 +6517,60 @@ Use this quick rewrite plan:
 3. keep the body order similar
 4. use the same closing style
 
-Write your revised pair:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Message 1**
+Keep the facts the same, but standardise the style, structure, and visible formatting logic.
 
 {{PH-3: U21-message-1 | rows=10}}
 
-**Message 2**
-
 {{PH-3: U21-message-2 | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
-Editing Practice: Build One Standard
+Build One Standard
 
 Take one message from your guided practice and revise it again so it matches the same team pattern even more clearly. Then note:
 
 - [ ] which consistency rule you applied
 - [ ] how the revised version became easier to read
 
-Write the full corrected version below.
+**Revised message**
+
+{{PH-2: U21-editing-rewrite | rows=4}}
+
+**Team rule**
+
+{{PH-1: U21-editing-rule | rows=3}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U21-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After writing and revising, check:
+
+- [ ] Do all messages sound like they come from one team?
+- [ ] Is the tone level stable?
+- [ ] Is the structure similar across the messages?
+- [ ] Is the formatting predictable?
+- [ ] Could another teammate reuse the same pattern?
+:::
 
 ::: write
-Transfer Extension: Turn Your Rewrite Into A Team Rule
+Reflect on This Unit
+
+1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift?
+2. Which standard phrase or rule from this unit would be most useful as a shared team default?
+3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
+
+{{PH-1: U21-reflection | rows=5}}
+:::
+
+### H. Homework & Extension
+
+::: write
+Turn One Rewrite into a Team Rule
 
 Choose one consistency feature from your freer-practice pair.
 
@@ -6795,79 +6580,18 @@ Write:
 2. one example your team should use
 3. one example your team should avoid
 
-For example:
-
-- Rule: Put the purpose sentence in line 1 or line 2.
-- Use: "We are writing to confirm the updated schedule."
-- Avoid: "I saw the message and have some thoughts about it."
-
-This keeps the unit focused on message rewriting first, then turns one successful pattern into a reusable team rule.
+{{PH-1: U21-extension-notes | rows=4}}
 :::
-
-**Planning Notes**
-
-{{PH-1: U21-transfer-notes | rows=4}}
-
-#### E. Extended Writing Task
-
-::: example-bad
-Original Messages
-
-1. We told them already, but they didn't send the file. Ask again.
-2. Hi, I think the new form is wrong. They need fix it.
-3. Team, The deadline is near. Do something.
-:::
-
-::: rewrite
-Extended Writing Task: Rewrite a Set of Communications
-
-Rewrite the following **three related messages** so they all follow a consistent team style.
-Treat them as messages your team may send to colleagues or external contacts about related work.
-
-**Rewrite all messages in a unified, professional style**
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Message 1**
-
-{{PH-2: U21-extended-message-1 | rows=10}}
-
-**Message 2**
-
-{{PH-2: U21-extended-message-2 | rows=10}}
-
-**Message 3**
-
-{{PH-2: U21-extended-message-3 | rows=10}}
-
-#### F. Reflection
 
 ::: write
-Reflect on This Unit
-
-1. Which kind of inconsistency is most damaging in a team setting: tone drift, structure drift, or formatting drift? Explain why.
-2. Which standard phrase or rule from this unit would be most useful as a shared team default?
-3. When should team messages stay identical in style, and when should they still adapt to audience or purpose?
-:::
-
-#### H. Homework
-
-::: write
-Homework Task
+Rewrite the Pair with a New Team Standard
 
 Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
 
 If you want to use real workplace writing, you may do so, but it is not required.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-5: U21-homework-pack | rows=22}}
+:::
 
 ## Unit 22. Multi-Document Communication Task
 
@@ -6880,41 +6604,25 @@ By the end of this unit, I will be able to:
 - adapt tone, detail, and structure across three related documents.
 - keep multiple related messages clear and consistent.
 
-### A. Scenario Overview
+### A. Warm-Up
 
-::: learn
-Unit Scenario
+::: notice
+Analyse the Three-Reader Situation
 
-You receive an email from an **applicant** asking why their application status has not been updated. After reviewing the system, you discover:
+Read the scenario and answer the questions.
+
+**Scenario:** You receive an email from an applicant asking why their application status has not been updated. After reviewing the system, you discover that one document from the applicant is missing, the review team cannot proceed without it, and a colleague had previously assumed the file was complete.
 
 - One document from the applicant is missing.
 - The review team cannot proceed without it.
 - A colleague had previously assumed the file was complete.
-
-You must produce **three documents**:
-
-1. A **reply to the applicant** (external tone).
-2. A **colleague-to-colleague explanation** (horizontal/internal communication).
-3. A **short internal notice** for the team (vertical/internal communication).
-:::
-
-#### A. Warm-Up
-
-::: notice
-Warm-Up: Analyse the Situation
-
-Answer the questions:
 
 1. What does the applicant need to know?
 2. What does your colleague need to understand?
 3. What information does the team need in a notice?
 4. How should tone differ in each message?
 
-Write your answers:
-1.
-2.
-3.
-4.
+{{PH-1: U22-warmup-response | rows=6}}
 :::
 
 ::: learn
@@ -6928,7 +6636,7 @@ Before You Write a Multi-Document Set
 ### B. Example Check
 
 ::: learn
-Example Check: Why Audience Control Matters
+Why Audience Control Matters
 
 This unit is stronger than earlier units because one situation now requires **three** reader views.
 
@@ -6946,7 +6654,7 @@ If all three texts sound the same, the communication set does not match the real
 ### C. Language
 
 ::: language
-Language: Three Audiences, Three Styles
+Three Audiences, Three Styles
 
 **(A) Applicant Reply - Polite, supportive, clear**
 
@@ -6968,11 +6676,7 @@ Language: Three Audiences, Three Styles
 - The review will continue once the missing document is submitted.
 :::
 
-::: learn
-Transfer Reminder
-
 The applicant reply, colleague explanation, and team notice are linked, but they should not collapse into one generic message.
-:::
 
 ::: rewrite
 Practice A: Match Tone to Audience
@@ -6994,19 +6698,14 @@ Rewrite each sentence for the appropriate audience.
 4. (Applicant) "Send the document quickly."
 
 {{PH-1: U22-C-rewrite-4 | rows=2}}
-
 :::
-
-**Write Here**
-
-{{PH-1: U22-practice-a-audience | rows=6}}
 
 ### D. Guided Practice
 
 ::: write
-Guided Practice: Write the Applicant Reply
+Write the Applicant Reply
 
-Write a **4-5 sentence** email replying directly to the applicant.
+Use the Unit 22 scenario. Write a short email replying directly to the applicant.
 Include:
 
 - Thank-you / acknowledgement
@@ -7015,21 +6714,13 @@ Include:
 - What will happen next
 - Polite closing
 
-Write your reply:
-
-Use this box for one complete version.
+{{PH-3: U22-guided-applicant-reply | rows=6}}
 :::
 
-**Applicant Reply**
-
-{{PH-3: U22-guided-applicant-reply | rows=6}}
-
-#### D. Guided Practice
-
 ::: write
-Guided Practice: Write the Colleague Explanation
+Write the Colleague Explanation
 
-Write a **4-5 sentence** explanation for the colleague who assumed the file was complete.
+Use the same facts from the scenario. Write a short explanation for the colleague who assumed the file was complete.
 Include:
 
 - What you checked
@@ -7037,21 +6728,13 @@ Include:
 - Why the status has not changed
 - What steps will follow
 
-Write your explanation:
-
-Write one sentence on each line where possible.
+{{PH-2: U22-guided-colleague-explanation | rows=6}}
 :::
 
-**Colleague Explanation**
-
-{{PH-2: U22-guided-colleague-explanation | rows=6}}
-
-#### D. Guided Practice
-
 ::: write
-Guided Practice: Write the Internal Notice
+Write the Internal Notice
 
-Write a **3-4 sentence** notice for the wider team.
+Use the same facts from the scenario. Write a short notice for the wider team.
 Include:
 
 - Heading/topic
@@ -7071,35 +6754,16 @@ You can use this pattern:
 2. corrected information
 3. action or reminder for staff
 
-Mini notice example:
+Mini notice reminder:
 
 - Schedule Correction: Stage 2 Review Date
 - The correct date for Stage 2 document verification is 27 May, not 24 May.
 - Please use the corrected date in all team messages and checklist updates.
 
-Write your notice:
-
-Use this box for one complete version.
-:::
-
-**Internal Notice**
-
 {{PH-3: U22-guided-internal-notice | rows=10}}
-
-### F. Self-Check Before Freer Practice
-
-::: edit
-Freer Practice Self-Check
-
-Before writing the full three-document set, check:
-
-- [ ] Did I identify the three readers clearly?
-- [ ] Does each document have a different job?
-- [ ] Are the shared facts consistent across all three?
-- [ ] Is the tone right for each audience?
 :::
 
-### E. Planning Board
+### E. Freer Practice
 
 ::: structure
 Three Documents from One Situation
@@ -7119,10 +6783,8 @@ In a three-document task, the biggest risk is not grammar. It is overlap. One me
 - if a sentence helps the colleague understand the status logic, it may belong only in the colleague version
 :::
 
-#### E. Freer Practice
-
 ::: write
-Freer Practice: Full Multi-Document Set
+Full Multi-Document Set
 
 Choose **one** of the scenarios below and write all three documents:
 
@@ -7138,29 +6800,19 @@ B. Two versions of a form were submitted; one is incomplete.
 
 C. The applicant sent the correct file, but in the wrong format.
 
-Keep the three documents tied to the same scenario, but make the audience difference clear in each one. Write your full set:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Applicant Reply**
+Keep the three documents tied to the same scenario, but make the audience difference clear in each one. Keep the facts the same, but change the audience, detail, and tone.
 
 {{PH-3: U22-freer-applicant-reply | rows=6}}
 
-**Colleague Explanation**
-
 {{PH-3: U22-freer-colleague-explanation | rows=6}}
 
-**Internal Notice**
-
 {{PH-2: U22-freer-internal-notice | rows=10}}
+:::
 
-### G. Editing Practice
+### F. Editing Practice
 
 ::: edit
-Editing Practice: Separate The Three Voices
+Separate the Three Voices
 
 Rewrite the short draft below into three clearer document openings.
 
@@ -7172,14 +6824,44 @@ Write:
 - [ ] colleague opening
 - [ ] team notice opening
 
-Write the full corrected version below.
+**Applicant opening**
+
+{{PH-1: U22-editing-applicant | rows=3}}
+
+**Colleague opening**
+
+{{PH-1: U22-editing-colleague | rows=3}}
+
+**Team notice opening**
+
+{{PH-1: U22-editing-notice | rows=3}}
 :::
 
-**Write Your Revised Version**
+### G. Self-Check and Reflection
 
-{{PH-2: U22-editing-rewrite | rows=2}}
+::: edit
+Final Self-Check
 
-### H. Transfer Extension
+After writing and revising, check:
+
+- [ ] Did I identify the three readers clearly?
+- [ ] Does each document have a different job?
+- [ ] Are the shared facts consistent across all three?
+- [ ] Is the tone right for each audience?
+- [ ] Did I stop the three texts from collapsing into one message type?
+:::
+
+::: write
+Reflect on This Unit
+
+1. Which of the three audiences required the biggest adjustment in tone or detail?
+2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
+3. What planning step would help you control consistency across all three documents next time?
+
+{{PH-1: U22-reflection | rows=5}}
+:::
+
+### H. Homework & Extension
 
 ::: structure
 Cross-Document Consistency Check
@@ -7194,81 +6876,16 @@ Before finalizing the pack, compare the three drafts line by line.
 | tone matches the reader |  |  |  |
 | unnecessary detail removed |  |  |  |
 
-In a multi-document task, the reader may never see the other two texts, but the writer still needs the whole set to agree internally. If one document says the review is paused and another says the review will continue immediately, the communication pack is not yet usable.
-
-Safer final check:
-
-- keep the shared fact language stable
-- let the explanation depth change by reader
-- let the action sentence change only when the reader's job is different
-
-Write one sentence on each line where possible.
+{{PH-1: U22-extension-check | rows=4}}
 :::
 
-**Write Here**
-
-{{PH-1: U22-transfer-response | rows=4}}
-
-#### E. Extended Writing Task
-
 ::: write
-Extended Writing Task: Multi-Audience Communication Pack
-
-From the original scenario (missing applicant document), write a polished communication set:
-
-- **Applicant email (8-10 sentences)**
-- **Colleague explanation (6-8 sentences)**
-- **Internal notice (4-5 sentences)**
-
-All three must:
-
-- Use accurate grammar
-- Be clear and concise
-- Use correct tone for each audience
-- Maintain logical flow and consistency
-
-Make sure the applicant email, colleague explanation, and internal notice do not collapse into the same message type. Write your communication pack:
-
-Keep the facts the same, but change the audience and tone.
-
-Write each document in its own box.
-:::
-
-**Applicant Reply**
-
-{{PH-4: U22-multi-doc-applicant-reply | rows=12}}
-
-**Colleague Explanation**
-
-{{PH-3: U22-multi-doc-colleague-explanation | rows=12}}
-
-**Internal Notice**
-
-{{PH-2: U22-multi-doc-internal-notice | rows=10}}
-
-#### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which of the three audiences required the biggest adjustment in tone or detail, and what exactly changed in your writing?
-2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
-3. What planning step would help you control consistency across all three documents next time?
-:::
-
-#### H. Homework
-
-::: write
-Homework Task
+Rewrite the Three-Document Set
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
-:::
-
----
-
-**Homework Draft**
 
 {{PH-3: U22-homework-document | rows=8}}
+:::
 
 ## Unit 23. Portfolio Writing & Final Revision
 

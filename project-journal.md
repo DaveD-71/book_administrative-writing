@@ -2357,3 +2357,27 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Rechecked the live Module 5 Review Workshop against the current Phase 3 workshop standard.
 - Found that the student book still prints a `Possible Stronger Version` spoiler in the Revision Lab.
 - Found that the answer key still assumes the model remains in the student book and that the tone-focused transfer placeholder is likely under-sized.
+
+## 2026-06-08T18:35:00+09:00 - Unit 19 First-Pass Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit19_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit19_repair_notes.md`.
+- Trigger: Dave asked to continue the Phase 3 unit-by-unit cycle with a first-pass review and repair of Unit 19.
+- Action: rebuilt Unit 19 into a stable `A-H` sequence, merged the scenario overview into the visible warm-up, removed generic labels and detached placeholders, folded planning into `E. Freer Practice`, split editing outputs by reader in `F`, moved self-check and reflection into `G`, consolidated the end-of-unit transfer/homework layer into `H`, and rebuilt the Unit 19 answer-key block to match the repaired tasks.
+
+## 2026-06-08T18:52:00+09:00 - Unit 20 First-Pass Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit20_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit20_repair_notes.md`.
+- Trigger: Dave asked to continue the Phase 3 unit-by-unit cycle with Unit 20 after the first-pass diagnosis confirmed the old duplicate `A/D/E/H` shell and a generic `Units 20–22` answer-key block.
+- Action: rebuilt Unit 20 into a stable `A-H` sequence, merged the scenario overview into the warm-up, removed generic labels and detached placeholders, folded the correction control board into `E. Freer Practice`, split editing outputs by reader in `F`, moved self-check and reflection into `G`, consolidated the transfer/homework layer into `H`, and replaced the generic `Units 20–22` answer-key block with a dedicated Unit 20 section.
+
+## 2026-06-08T19:08:00+09:00 - Unit 21 First-Pass Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit21_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit21_repair_notes.md`.
+- Trigger: Dave asked to continue the Phase 3 unit-by-unit cycle with Unit 21 after the first-pass diagnosis confirmed the old duplicate `A/E/F/H` shell and only a generic `Units 21–22` answer-key block.
+- Action: rebuilt Unit 21 into a stable `A-H` sequence, merged the consistency-definition block into the warm-up, added a real warm-up response area, folded the standardisation work into a clearer `D/E` progression, rebuilt `F. Editing Practice` around a revised message plus a named team rule, moved self-check and reflection into `G`, consolidated transfer/homework into `H`, and replaced the generic answer-key coverage with a dedicated Unit 21 section.
+
+## 2026-06-08T19:24:00+09:00 - Unit 22 First-Pass Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit22_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_unit22_repair_notes.md`.
+- Trigger: Dave asked to continue the Phase 3 unit-by-unit cycle with Unit 22 after the first-pass diagnosis confirmed the old duplicate `A/D/E/F/H` shell and only a generic Unit 22 answer-key block.
+- Action: rebuilt Unit 22 into a stable `A-H` sequence, merged the scenario overview into the warm-up, removed generic labels and detached placeholders, kept the three guided outputs under one visible `D`, folded planning and full-set drafting into `E`, rebuilt `F. Editing Practice` around separate applicant/colleague/team-notice revision outputs, moved self-check and reflection into `G`, consolidated transfer/homework into `H`, and replaced the generic answer-key coverage with a dedicated Unit 22 section.

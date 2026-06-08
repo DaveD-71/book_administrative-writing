@@ -1417,12 +1417,16 @@ Key improvements:
 
 #### Unit 19. Integrated Task 1: Combined Email + Internal Explanation
 
-##### A. Warm-Up — Understanding the Situation
+##### A. Warm-Up — Understand the Shared Scenario
 
 1. **The problem:** Form B - Declaration is missing a required signature.
 2. **External office needs:** Confirmation that a corrected version will be submitted.
 3. **Internal team needs:** An explanation of the issue, what action is required, and the timeline.
 4. **Tone:** External = polite and professional; Internal = neutral and factual.
+
+##### B. Example Check
+
+The key point is that the same situation creates two different writing jobs. The outside reader needs a polite question or confirmation request with limited background. The internal reader needs a factual explanation of the issue, the effect on the work, and the next step for the team.
 
 
 ##### C. Practice A — Rewrite for Audience & Tone
@@ -1454,7 +1458,7 @@ Key improvements:
 >
 > Thank you for your message regarding the submitted documents. We have reviewed your note and would like to follow up on the issue with Form B — Declaration.
 >
-> Could you confirm whether the missing signature should be provided on the original form or whether a new completed form should be submitted? We want to ensure we send the correct version as promptly as possible.
+> Could you confirm whether the missing signature should be provided on the original form or whether a new completed form should be submitted? We want to ensure we prepare the corrected version as promptly as possible.
 >
 > We appreciate your assistance.
 >
@@ -1468,16 +1472,247 @@ Key improvements:
 
 > We received an update from the external office regarding the applicant's submitted documents. The main issue is that Form B — Declaration is missing a required signature. We now need to contact the applicant to request the corrected form and clarify the resubmission requirements with the external office. The next step will depend on their response, and we will update the team once further information is received.
 
+##### E. Freer Practice
 
-#### Units 20–22. Integrated Tasks
+Open-ended. Students should first use the planning board to separate audience, tone, shared fact, and next-step emphasis. Strong responses then produce:
 
-_These units use open-ended scenarios. Student responses will vary based on the scenario selected._
+- one short external email that asks for action or clarification
+- one short internal explanation that prepares the team for the next step
+- clear audience control while keeping the same core facts across both texts
 
-**Instructor assessment guidance:**
-- Does the student adapt tone for different audiences (external vs. internal)?
-- Does the document follow the correct structure for its type (email, notice, explanation, summary)?
-- Is the language neutral, professional, and clear?
-- Does the student use relevant phrases from the unit's language section?
+##### F. Editing Practice — Separate the Reader Needs
+
+Possible model:
+
+**External revision**
+
+> Thank you for your message about the signature issue. We understand that Form B — Declaration is incomplete. Could you please confirm whether a corrected version should now be submitted?
+
+**Internal revision**
+
+> The external office has reported that Form B — Declaration is missing a required signature. We now need to contact the applicant, prepare the corrected form, and confirm the resubmission process.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should show that the student can identify the biggest audience-based change in the pair, distinguish the shared fact from the reader-specific detail, and explain how two-audience writing reduces confusion or extra follow-up.
+
+##### H. Homework & Extension
+
+Open-ended. The extension task should convert one earlier unit text into a short external/internal pair that keeps the same facts but changes tone and detail. The homework task should rewrite one previous email for an alternate audience while preserving the main issue and adjusting immediate purpose.
+
+
+#### Unit 20. Integrated Task 2: Revision + Notice Writing
+
+##### A. Warm-Up — Understand the Correction Scenario
+
+1. **Information needing revision:** The date for `Document Verification - Stage 2` was given incorrectly as `24 May`; the correct date is `27 May`.
+2. **Who needs the correction:** The external office and the internal team both need the corrected date.
+3. **Tone:** No. The external message should be polite and relationship-preserving, while the internal notice should be neutral and efficient.
+4. **Details needed in each message:** the stage name, the corrected date, and the next step or action the reader should understand.
+
+##### B. Example Check
+
+The key point is that one corrected fact must remain stable across both texts. The external reader needs a polite correction that repairs the earlier message clearly. The internal reader needs a factual notice that prevents the wrong date from being reused.
+
+##### C. Practice A — Rewrite for Audience & Tone
+
+**External Office — Make it polite and clear:**
+"The schedule was wrong. Here is the real date." →
+> We would like to provide a correction regarding the previously shared schedule. The correct date for Document Verification - Stage 2 is 27 May.
+
+**Internal Team — Make it neutral and concise:**
+"Someone made a mistake in the schedule." →
+> Please note that the schedule included an incorrect date. The updated date for Document Verification - Stage 2 is 27 May.
+
+**External Office — Make it complete:**
+"The day changed." →
+> We would like to clarify one correction in the review schedule shared last week. The correct date for Document Verification - Stage 2 is 27 May.
+
+**Internal Team — Make it professional:**
+"We told them the wrong date." →
+> The previously shared schedule included an incorrect date. Please use 27 May for Document Verification - Stage 2 in all further communication.
+
+##### D. Guided Practice — Write the Revision Message
+
+**Model message:**
+
+> Dear [External Office] Team,
+>
+> Thank you for your cooperation regarding the monthly review schedule. We would like to provide one correction to the schedule previously shared with your office. The correct date for Document Verification - Stage 2 is 27 May, not 24 May. We apologise for any confusion this may have caused.
+>
+> Kind regards,
+> [Name]
+
+##### D. Guided Practice — Write the Internal Notice
+
+**Model notice:**
+
+> Correction Notice: Document Verification - Stage 2
+>
+> Please note that the date for Document Verification - Stage 2 was listed incorrectly in the May review schedule shared last week. The correct date is 27 May. Please use this updated date in any related planning or communication. Further updates will follow if any other schedule changes are confirmed.
+
+##### E. Freer Practice
+
+Open-ended. Students should first use the correction control board to keep the original error and the corrected fact stable across both texts. Strong responses then produce:
+
+- one short external revision or clarification message
+- one short internal notice
+- clear audience control while keeping the same corrected fact in both texts
+
+##### F. Editing Practice — Repair the Correction Set
+
+Possible model:
+
+**External revision**
+
+> Thank you for your message regarding the meeting schedule. We would like to clarify that the correct date is 27 May. Please use this updated date for the next stage.
+
+**Internal notice revision**
+
+> Please note that the correct meeting date is 27 May. Use this updated date in all internal planning and do not refer to the earlier version.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should show that the student can identify which document carries the heavier communication load, distinguish the reader-specific changes in tone, detail, and action, and explain how clear correction writing reduces later mistakes or repeated questions.
+
+##### H. Homework & Extension
+
+Open-ended. The extension task should produce a short correction log that keeps the original error, corrected detail, audience, and document type visible in one place. The homework task should rewrite one earlier message as either a revision email or an internal notice while preserving the core fact and adjusting audience purpose.
+
+
+#### Unit 21. Writing for Consistency Across a Team
+
+##### A. Warm-Up — Spot the Inconsistencies
+
+Typical inconsistencies:
+
+- **Tone:** Email A is abrupt and too casual; Email B is polite and professional.
+- **Format:** Email A has a vague subject line and incomplete structure; Email B has a clearer subject and a more standard layout.
+- **Structure:** Email A does not clearly state purpose or next step; Email B gives context and a specific request.
+- **Clarity:** Email A is too short and unclear; Email B tells the reader what was reviewed and what needs confirmation.
+
+##### B. Example Check
+
+The main point is that one team should not sound like several unrelated writers. A shared style helps the reader identify correct tone, message purpose, and expected structure quickly.
+
+##### C. Practice A — Improve Team Consistency
+
+Possible answers:
+
+1. Dear Team, I have checked the file and would like to confirm the next step. Could you please advise how we should proceed?
+2. Dear Team, I think there may be a problem with this file. Please review it and let us know whether any correction is needed.
+3. Dear Team, The file appears to contain an error. Could you please review it and take the necessary action?
+
+##### D. Guided Practice — Standardise Format & Tone
+
+Possible model:
+
+> Subject: Document Review Request
+>
+> Dear Team,
+>
+> We reviewed the document and found a point that may need correction. Could you please check the file and confirm whether a revision is required?
+>
+> Thank you.
+
+##### D. Guided Practice — Rewrite Three Short Messages
+
+Open-ended. Strong responses should make all three drafts sound as if they come from one team by using the same opening style, similar body structure, similar tone level, and a consistent closing pattern.
+
+##### E. Freer Practice
+
+Open-ended. Students should revise both messages in the chosen scenario to one shared standard. Strong responses keep the facts of each message but align formality, structure, closing style, and visible formatting logic.
+
+##### F. Editing Practice — Build One Standard
+
+Open-ended. A strong response should show:
+
+- one revised message that follows the shared pattern more clearly
+- one named team rule
+- one clear explanation, implied by the rule, of how consistency improves readability or predictability
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should show that the student can identify the most damaging type of inconsistency, name one reusable shared rule, and explain when a team standard should stay fixed versus when it should still adapt to audience or purpose.
+
+##### H. Homework & Extension
+
+Open-ended. The extension task should turn one successful consistency feature into a short team rule with one use example and one avoid example. The homework task should rewrite a pair of messages again using a slightly different but still consistent standard.
+
+
+#### Unit 22. Multi-Document Communication Task
+
+##### A. Warm-Up — Analyse the Three-Reader Situation
+
+1. **Applicant needs to know:** why the status has not changed, which document is missing, and what will happen once it is submitted.
+2. **Colleague needs to understand:** what was checked, what was found, and why the file is still incomplete in the system.
+3. **Team notice needs to include:** the missing-document status, the effect on the review process, and the next step for staff.
+4. **Tone differences:** applicant = polite and supportive; colleague = neutral and cooperative; team notice = concise and factual.
+
+##### B. Example Check
+
+The key point is that one situation now produces three different reader needs. The shared fact stays the same, but tone, detail, and immediate purpose must shift for each document.
+
+##### C. Practice A — Match Tone to Audience
+
+Possible answers:
+
+1. Thank you for your message. One required document has not yet been received, so your application status has not been updated.
+2. I reviewed the applicant file and found that one required document is still missing. That is why the status has not changed.
+3. Please note that the applicant's file remains incomplete because one required document has not yet been submitted.
+4. Could you please submit the missing document at your earliest convenience so that we can continue the review?
+
+##### D. Guided Practice — Write the Applicant Reply
+
+Possible model:
+
+> Dear [Applicant Name],
+>
+> Thank you for your message regarding your application status. We have checked the file and found that one required document has not yet been received. Because of this, the review process cannot continue at this stage. We will update your status once the missing document is submitted.
+>
+> Kind regards,
+> [Name]
+
+##### D. Guided Practice — Write the Colleague Explanation
+
+Possible model:
+
+> I reviewed the applicant file after the status inquiry and found that one required document is still missing. That is why the system status has not changed. The review team cannot proceed until the document is received. Once it is submitted, we can continue the next stage of the review.
+
+##### D. Guided Practice — Write the Internal Notice
+
+Possible model:
+
+> Applicant File Update
+>
+> The applicant's file remains incomplete because one required document has not yet been submitted. The review process is currently paused. Please continue the next stage only after the missing document is received.
+
+##### E. Freer Practice
+
+Open-ended. Students should first use the planning board to separate the needs of the applicant, colleague, and team readers. Strong responses then produce:
+
+- one short applicant reply
+- one short colleague explanation
+- one short internal notice
+- clear audience separation while keeping the same core facts across all three texts
+
+##### F. Editing Practice — Separate the Three Voices
+
+Open-ended. A strong response should produce three distinct openings:
+
+- one for the applicant
+- one for the colleague
+- one for the team notice
+
+Each should match its reader and avoid collapsing into one generic explanation.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should show that the student can identify the hardest audience distinction, explain which pair of documents was hardest to separate, and name one planning move that improves three-document consistency.
+
+##### H. Homework & Extension
+
+Open-ended. The extension task should check whether the same core facts stay aligned across all three texts while reader-specific detail changes appropriately. The homework task should rewrite a full three-document set with a different but still controlled tone or structure.
 
 
 #### Unit 23. Portfolio Writing & Final Revision
