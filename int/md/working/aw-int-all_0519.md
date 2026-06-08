@@ -1346,6 +1346,8 @@ For each situation below, write:
 1. a clear subject line
 2. a clear opening sentence
 
+Choose one of these situations:
+
 A. asking about a missing document
 
 B. confirming a deadline
@@ -2428,16 +2430,10 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Procedure Basics
-
-A **procedure** is a set of steps that explains how to complete a task. A useful procedure is clear, follows the real order of the task, and uses the same format from start to finish.
-:::
-
 ::: notice
 Which Procedure Is Better?
 
-Compare the two versions. Choose the clearer one.
+Read both procedures. Choose the clearer one and explain one reason.
 :::
 
 ::: example-bad
@@ -2459,7 +2455,7 @@ Version B
 ::: learn
 Why Version B Is Clearer
 
-Version B is easier to follow because each step has one clear action, the steps are numbered, and the order matches the real task.
+A **procedure** is a set of steps that explains how to complete a task. Version B is easier to follow because each step has one clear action, the steps are numbered, and the order matches the real task from start to finish.
 :::
 
 ### B. Example Check
@@ -2557,27 +2553,33 @@ Each procedure below is incomplete. Add **one or two steps** to make it clearer.
 1. Open the shared folder.
 2. Download the file.
 
-{{PH-1: U08-practice-c-steps-1 | rows=3}}
+{{PH-1: U08-practice-c-steps-1 | rows=4}}
 
 **Procedure 2**
 
 1. Review the applicant's form.
 2. Check for required signatures.
 
-{{PH-1: U08-practice-c-steps-2 | rows=3}}
+{{PH-1: U08-practice-c-steps-2 | rows=4}}
 
 :::
 
 ### D. Guided Practice
 
 ::: write
-Write a Simple Procedure
+Complete a Simple Procedure
 
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
-Write a short procedure for that team member. Use **4-5 numbered steps**.
+Use the step notes below to write a clear procedure for that team member. Put the steps in the best order and turn them into **4-5 numbered steps**.
 
-{{PH-3: U08-guided-document | rows=8}}
+- open the shared team folder
+- choose the correct subfolder for the document type
+- rename the file using the team naming format
+- save the document in that folder
+- confirm the file appears correctly in the folder
+
+{{PH-3: U08-guided-document | rows=9}}
 :::
 
 ### E. Freer Practice
@@ -2585,7 +2587,7 @@ Write a short procedure for that team member. Use **4-5 numbered steps**.
 ::: write
 Write a Workplace Procedure
 
-Choose **one** situation below and write a clear workplace procedure.
+Choose **one** situation below and write a clear workplace procedure for a new colleague.
 
 A. A new colleague needs to know how to prepare a file for internal review.
 
@@ -2595,9 +2597,9 @@ C. A new staff member needs to know how to check and update applicant informatio
 
 D. A colleague needs to know how to submit a form to another department.
 
-Write **4-6 numbered steps**. Make clear who will use the procedure and what task it helps them complete.
+Write **one opening sentence** and **4-6 numbered steps**. Make clear who will use the procedure and what task it helps them complete.
 
-{{PH-3: U08-freer-document | rows=10}}
+{{PH-3: U08-freer-document | rows=11}}
 :::
 
 ### F. Editing Practice
@@ -2640,33 +2642,23 @@ Answer the questions in short notes.
 2. Which instruction verbs are useful for your work?
 3. Which step from your Activity E procedure is the clearest?
 
-{{PH-1: U08-reflection | rows=4}}
+{{PH-1: U08-reflection | rows=5}}
 :::
 
 ### H. Homework & Extension
 
 ::: write
-Procedure for a New User
+Real-World Procedure Task
 
-Choose one workplace task you know well. If you do not want to use a real workplace task, choose one Unit 8 freer-practice situation instead.
+Choose one routine workplace task you know well. If you do not want to use a real workplace task, choose one Unit 8 freer-practice situation instead.
 
-Write a short manual-style section. Include:
+Write a short manual-style procedure. Include:
 
 - one sentence explaining who the procedure is for
-- a 4-6 step procedure
+- a 5-7 step procedure
 - one closing sentence explaining what happens after the task
 
-{{PH-3: U08-transfer-response | rows=8}}
-:::
-
-::: write
-Homework Task
-
-Choose a routine task from your job. Write a **6-8 step procedure** explaining how to complete it.
-
-If you do not want to use a task from your job, revise your Activity E procedure and add one opening sentence and one closing sentence.
-
-{{PH-3: U08-homework-document | rows=8}}
+{{PH-3: U08-homework-document | rows=11}}
 :::
 
 ## Unit 9. Internal Notices
@@ -2681,16 +2673,10 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Internal Notice Basics
-
-A **notice** is a short message shared inside a department or organization. It gives important information, explains updates or changes, and uses neutral language.
-:::
-
 ::: notice
-Which Notice Is Clearer?
+Compare Two Notices
 
-Read the two notices. Choose the clearer one.
+Read both notices. Which notice is clearer and more useful? Give two reasons.
 
 **Notice A**
 
@@ -2701,11 +2687,18 @@ There was a problem with the system today. Please be careful. We will check it. 
 System Notice - Temporary Error
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
 
-**Discussion:** Which notice is clearer and more useful, and why?
+:::
+
+::: learn
+Internal Notice Basics
+
+A **notice** is a short message shared inside a department or organization. It gives important information, explains updates or changes, and uses neutral language.
 :::
 
 ::: learn
 Quick Notice Check
+
+Use this checklist when you review or write a notice:
 
 - Is the topic clear in the heading or first line?
 - Does the reader understand what is happening?
@@ -2909,29 +2902,24 @@ Answer the questions in short notes.
 ### H. Homework & Extension
 
 ::: write
-From Notice to Bulletin
+Real-World Notice Transfer
 
-Choose one short notice you wrote in this unit.
+Use one of these sources:
 
-Expand it into a longer bulletin-style paragraph by adding:
+- one notice you wrote in Activity E
+- a real internal notice in English or Japanese
 
-- one background sentence
-- one impact sentence
-- one next-step sentence
+Rewrite or expand it as a fuller internal bulletin for colleagues.
 
-This shows how a short internal message can grow into a fuller internal information text.
+- a clear heading
+- brief background
+- essential information
+- impact if needed
+- a neutral next step
 
-{{PH-2: U09-transfer-response | rows=6}}
-:::
+If you use your own Activity E notice, add at least two new supporting sentences.
 
-::: write
-Homework Task
-
-Find an internal notice (English or Japanese). Rewrite it to follow the structure in this unit.
-
-If you do not want to use a real notice, choose one Unit 9 freer-practice scenario and rewrite it as a stronger notice instead.
-
-{{PH-3: U09-homework-document | rows=8}}
+{{PH-2: U09-transfer-response | rows=8}}
 :::
 
 ## Unit 10. Explaining Problems Clearly
@@ -2945,12 +2933,6 @@ By the end of this unit, I will be able to:
 - write a short explanation of a problem or issue.
 
 ### A. Warm-Up
-
-::: learn
-Problem Explanation Basics
-
-A good problem explanation tells the reader what was expected, what went wrong, what effect this has, and what is happening now. It is not a request or a complaint. It gives neutral information.
-:::
 
 ::: notice
 Identify the Missing Information
@@ -2971,7 +2953,13 @@ Read the sentences. Write one question the reader may still have.
 
 4. We cannot access the document.
 
-   {{PH-1: U10-warmup-missing-4 | rows=1}}
+   {{PH-1: U10-warmup-missing-4 | rows=2}}
+:::
+
+::: learn
+Problem Explanation Basics
+
+A good problem explanation tells the reader what was expected, what went wrong, what effect this has, and what is happening now. It is not a request or a complaint. It gives neutral information.
 :::
 
 ### B. Example Check
@@ -3179,9 +3167,15 @@ Answer the questions in short notes.
 ### H. Homework & Extension
 
 ::: write
-Problem Note for a Manager
+Real-World Problem Update
 
-Choose one problem from your workplace or from an earlier unit. Write a short **5-6 sentence** manager update.
+Use one of these sources:
+
+- one problem from your workplace
+- one unclear problem message from email or conversation
+- one Unit 10 freer-practice scenario
+
+Write a short **5-6 sentence** update for a manager or colleague who needs clear factual information.
 
 Include:
 
@@ -3193,16 +3187,6 @@ Include:
 Keep the tone factual and neutral.
 
 {{PH-2: U10-transfer-response | rows=8}}
-:::
-
-::: write
-Homework Task
-
-Find an example of unclear problem communication (from email or conversation). Rewrite it using the structure from this unit.
-
-If you do not want to use a real example, choose one Unit 10 freer-practice scenario and rewrite it using the unit structure instead.
-
-{{PH-3: U10-homework-document | rows=8}}
 :::
 
 ## Unit 11. Writing Simple Meeting Summaries
@@ -3217,16 +3201,10 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Meeting Summary Basics
-
-A meeting summary is a brief record of important points from a meeting. It highlights key information, records decisions, and notes action items. It does not include personal opinions or long explanations.
-:::
-
 ::: notice
-Which Summary Is Clearer?
+Compare Two Summaries
 
-Compare the two versions.
+Read both summaries. Which summary is clearer and more useful for a colleague who missed the meeting? Give two reasons.
 :::
 
 ::: example-bad
@@ -3241,7 +3219,11 @@ Summary B
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
 :::
 
-**Discussion:** Which summary is clearer, and why?
+::: learn
+Meeting Summary Basics
+
+A meeting summary is a brief record of important points from a meeting. It highlights key information, records decisions, and notes action items. It does not include personal opinions or long explanations.
+:::
 
 ::: learn
 A Useful Meeting Summary
@@ -3410,23 +3392,23 @@ Answer the questions in short notes.
 ### H. Homework & Extension
 
 ::: revise
-Summary for a Manager
+Real-World Summary Transfer
 
-Choose one summary you wrote in this unit. Rewrite it for a manager by making:
+Use one of these sources:
 
-- the key point more direct
-- the action item clearer
-- the next step easier to see
+- one summary you wrote in this unit
+- a real meeting you attended this week
+- one Unit 11 freer-practice scenario
 
-{{PH-2: U11-transfer-response | rows=6}}
-:::
+Write a short **5-6 sentence** meeting summary for a manager or colleague who needs a clear internal record.
 
-::: write
-Homework Task
+Make sure the summary includes:
 
-Write a summary of a real meeting you attended this week. Keep it to 5-6 sentences.
+- the meeting topic
+- the main point or decision
+- one action item or next step
 
-If you do not want to use a real meeting, choose one Unit 11 freer-practice scenario and write the summary for that case instead.
+If you revise one of your own summaries, make the key point and next step easier to see.
 
 {{PH-2: U11-homework-paragraph | rows=8}}
 :::
@@ -3599,16 +3581,10 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-External Inquiry Basics
-
-A **clarification** is information that makes an unclear point clear. An external inquiry is a polite email sent to another organization to ask for information or clarification. It should give enough background for the reader and ask one clear question.
-:::
-
 ::: notice
-Which Inquiry Is Better?
+Compare Two Inquiry Emails
 
-Compare the two versions.
+Read both emails. Which inquiry is more appropriate and more answerable for an outside reader? Give two reasons.
 :::
 
 ::: example-bad
@@ -3633,7 +3609,11 @@ We are reviewing the updated guidelines and have one question about Section 4. C
 Thank you.
 :::
 
-**Discussion:** Which email is more appropriate, and why?
+::: learn
+External Inquiry Basics
+
+A **clarification** is information that makes an unclear point clear. An external inquiry is a polite email sent to another organization to ask for information or clarification. It should give enough background for the reader and ask one clear question.
+:::
 
 ### B. Example Check
 
@@ -3842,12 +3822,6 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Simple Explanation Basics
-
-A simple explanation helps the reader understand the situation, the reason, and the effect on the work. It gives enough information to follow the point, but it does not add unnecessary technical detail.
-:::
-
 ::: notice
 What Information Is Missing?
 
@@ -3868,6 +3842,12 @@ Read each explanation. Write what information the reader still needs.
 4. The process will take longer.
 
    {{PH-1: U13-warmup-missing-4 | rows=1}}
+:::
+
+::: learn
+Simple Explanation Basics
+
+A simple explanation helps the reader understand the situation, the reason, and the effect on the work. It gives enough information to follow the point, but it does not add unnecessary technical detail.
 :::
 
 ### B. Example Check
@@ -4085,12 +4065,6 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Responding to Confusion Basics
-
-When a reader is confused, the response should make the unclear point clear. A good response acknowledges the question, gives the correct information, adds one useful detail if needed, and avoids blaming language.
-:::
-
 ::: notice
 What Is the Confusion?
 
@@ -4111,6 +4085,12 @@ Read each sentence. Write the point the reader is confused about.
 4. The instructions seem to say two different things.
 
    {{PH-1: U14-warmup-confusion-4 | rows=1}}
+:::
+
+::: learn
+Responding to Confusion Basics
+
+When a reader is confused, the response should make the unclear point clear. A good response acknowledges the question, gives the correct information, adds one useful detail if needed, and avoids blaming language.
 :::
 
 ### B. Example Check
@@ -4309,12 +4289,6 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: learn
-Email Consistency Basics
-
-A consistent email uses the same basic style from start to finish. The subject line, greeting, purpose sentence, body, closing, and sign-off should all feel like parts of the same professional message.
-:::
-
 ::: notice
 Identify the Inconsistencies
 
@@ -4343,6 +4317,12 @@ Thank you.
 What is inconsistent in Email A? Think about tone, clarity, formatting, and email parts.
 
 {{PH-1: U15-warmup-inconsistency | rows=3}}
+:::
+
+::: learn
+Email Consistency Basics
+
+A consistent email uses the same basic style from start to finish. The subject line, greeting, purpose sentence, body, closing, and sign-off should all feel like parts of the same professional message.
 :::
 
 ### B. Example Check
@@ -4523,7 +4503,13 @@ Mini Team Style Rules
 
 Write three simple style rules your team could use for similar emails. Then choose one Activity E email and revise it so it follows those rules.
 
-{{PH-1: U15-transfer-response | rows=5}}
+**Team style rules**
+
+{{PH-1: U15-transfer-rules | rows=3}}
+
+**Revised email**
+
+{{PH-3: U15-transfer-response | rows=8}}
 :::
 
 ::: write
@@ -6175,7 +6161,7 @@ Choose one scenario and write **both**:
 1. A short external inquiry email (4-5 sentences)
 2. A short internal explanation (4-5 sentences)
 
-**Options**
+Choose from these options:
 
 A. A document is submitted in the wrong file format.
 
@@ -6537,7 +6523,7 @@ Choose one and write both texts:
 1. A revision/clarification message (4-5 sentences)
 2. A short internal notice (4-5 sentences)
 
-**Options**
+Choose from these options:
 
 A. A deadline was listed incorrectly.
 
@@ -7296,7 +7282,7 @@ Choose **one** of the scenarios below and write all three documents:
 2. Colleague message (4-5 sentences)
 3. Internal notice (3-4 sentences)
 
-**Options**
+Choose from these options:
 
 A. A system error prevented an applicant's file from uploading correctly.
 

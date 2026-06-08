@@ -274,3 +274,12 @@ Sync rule:
 - Failure: valid UTF-8 punctuation or apostrophes are misdecoded through a Windows default code page such as `cp932` / Shift-JIS and then saved back, which turns punctuation-heavy text into persistent mojibake
 - Correct behavior: treat this as an encoding mismatch first, not as a content-editing issue; read and write project text files explicitly as UTF-8, avoid tools that silently fall back to the system code page, and verify encoding before bulk rewrite passes
 - Preferred behavior: when mojibake appears, stop normal editing, scan the active source set for the corruption pattern, repair the file text under explicit UTF-8 handling, and only then continue content work so the corruption does not spread
+
+### 2026-06-08T14:50:00+09:00 - PowerShell Display Mojibake Is Not The Same As File Mojibake
+
+- Status: `workaround`
+- Scope: user/environment
+- Pattern: PowerShell output for UTF-8 markdown shows display artifacts such as `窶・` even though the file opens normally in the editor
+- Failure: shell-rendered punctuation artifacts are mistaken for stored file corruption, which can trigger unnecessary edits to otherwise clean files
+- Correct behavior: if a file looks normal in the editor but odd in shell output, verify with an explicit UTF-8 read or byte-level scan before assuming the markdown itself is corrupted
+- Preferred behavior: treat `Get-Content` display as potentially unreliable for punctuation-heavy UTF-8 text in this environment; confirm corruption with Python or another explicit UTF-8 reader before repairing content

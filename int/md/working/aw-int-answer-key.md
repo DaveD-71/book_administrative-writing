@@ -18,7 +18,7 @@ Model answers are provided for all exercises with specific expected responses. G
 - 3b: Reduces relative clause to participial phrase; shorter and cleaner
 
 
-##### C. Language 1 — Practice: Identify the Parts
+##### C. Language — Practice: Identify the Parts
 
 | # | Subject | Verb | Object / Complement |
 |---|---------|------|---------------------|
@@ -29,7 +29,7 @@ Model answers are provided for all exercises with specific expected responses. G
 | 5 | The examiner | requested | more information |
 
 
-##### C. Language 1 — Practice: Build Clear Sentences
+##### C. Language — Practice: Build Clear Sentences
 
 The student book now gives each item its own response space. Model sentences:
 
@@ -40,7 +40,7 @@ The student book now gives each item its own response space. Model sentences:
 5. The system showed an error message this morning.
 
 
-##### C. Language 2 — Simplify the Sentence
+##### C. Language — Simplify the Sentence
 
 1. We are checking the details from your email. / We received your email yesterday and are now checking the details.
 2. Our department has decided to extend the document submission deadline to 30 June.
@@ -78,7 +78,7 @@ Students should name the reader problem and then rewrite the sentence. Accept si
 All b options use polite modal question forms ("Could you", "Could you explain") which reduce the imperative pressure of the a options.
 
 
-##### C. Language 1 — Practice: Make the Request Polite
+##### C. Language — Practice: Make the Request Polite
 
 1. Could you please send the updated form?
 2. Could you please let me know the deadline?
@@ -86,7 +86,7 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 4. Could you please provide the information I need? / Could you please send me the information?
 
 
-##### C. Language 2 — Change the Tone
+##### C. Language — Change the Tone
 
 1. I notice the document has not yet been received. / It appears the document has not been sent yet.
 2. I am unable to complete this at the moment as the system is currently under maintenance.
@@ -94,7 +94,7 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 4. As mentioned in my previous message, ... / I would like to follow up on the information I shared yesterday.
 
 
-##### D. Guided Practice — Rewrite the Email
+##### D. Guided Practice — Improve the Email
 
 **Original:** "Hi, You didn't send the right file. Send the correct one today. I need it now."
 
@@ -108,7 +108,7 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 > Thank you.
 
 
-##### G. Editing Practice — Remove the Tone Problem
+##### F. Editing Practice — Remove the Tone Problem
 
 1. The incorrect file was received. Could you please send the correct version when you have an opportunity?
 2. Could you please let me know what happened?
@@ -247,7 +247,7 @@ Open-ended. Students should turn information from Unit 1 or Unit 2 into one inte
 Email B has: a specific subject line, a professional greeting, a clear purpose in the opening sentence, a specific question, a polite closing sentence, and a sign-off. Email A leaves the reader guessing about the topic, document, and writer.
 
 
-##### C. Language 1 — Practice: Improve the Subject Line
+##### C. Language — Practice: Improve the Subject Line
 
 1. Question About Yesterday's Document → **Question About Document / Document Clarification Needed**
 2. I want to ask about submitting the missing form → **Missing Form Submission — Query**
@@ -257,7 +257,7 @@ Email B has: a specific subject line, a professional greeting, a clear purpose i
 _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..."_
 
 
-##### C. Language 2 — Practice: Choose an Opening and Closing
+##### C. Language — Practice: Choose an Opening and Closing
 
 1. **Colleague (internal document):**
    - Opening: Dear [Name], / Dear Team,
@@ -272,7 +272,7 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
    - Closing: Thank you for your assistance. / Kind regards,
 
 
-##### C. Language 3 — Practice: Write the Opening Sentence
+##### C. Language — Practice: Write the Opening Sentence
 
 1. I am writing to ask about a missing document from the recent submission.
 2. I would like to confirm the deadline for the current application review.
@@ -658,7 +658,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 4. B: Save the updated file. _(final step)_
 
 
-##### C. Practice C — Add Missing Steps
+##### C. Language — Add Missing Steps
 
 **Procedure 1:**
 1. Open the shared folder.
@@ -673,11 +673,11 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 4. **Submit the completed form to the review department.**
 
 
-##### D. Guided Practice — Write a Simple Procedure
+##### D. Guided Practice — Complete a Simple Procedure
 
 **Situation: Save a document in the correct team folder.**
 
-**Model procedure:**
+**Suggested step order and model procedure:**
 1. Open the shared team folder on the network drive.
 2. Select the correct subfolder for the document type (e.g., Applications / Internal Reports).
 3. Rename the document using the standard naming format: [Date]_[Type]_[Reference].
@@ -687,7 +687,7 @@ Version B uses numbered steps with one clear action each. Version A mixes instru
 
 ##### E. Freer Practice — Write a Workplace Procedure
 
-Open-ended. A successful response should include 4-6 numbered steps, a clear user or context, one action per step, and a logical order.
+Open-ended. A successful response should include an opening sentence that identifies the user or context, 4-6 numbered steps, one clear action per step, and a logical order.
 
 
 ##### F. Editing Practice — Repair the Procedure
@@ -707,17 +707,17 @@ Open-ended. A successful response should include 4-6 numbered steps, a clear use
 
 ##### G. Self-Check and Reflection
 
-Self-check and reflection. Students should identify one useful instruction verb and one clear step from their own procedure.
+Self-check and reflection. Students should identify what makes procedure writing difficult, name one instruction verb that is useful in their own work, and point to one clear step from their Activity E procedure.
 
 
-##### H. Homework & Extension
+##### H. Homework & Extension — Real-World Procedure Task
 
-Open-ended. A successful response should include a short manual-style section or workplace procedure with a clear user, numbered steps, and a closing sentence or end point.
+Open-ended. A successful response should include a short manual-style procedure with a clear user sentence, 5-7 numbered steps in logical order, and a closing sentence that explains the end point or next step.
 
 
 #### Unit 9. Internal Notices
 
-##### A. Warm-Up — Which Notice Is Clearer?
+##### A. Warm-Up - Compare Two Notices
 
 **Answer: B**
 
@@ -747,13 +747,13 @@ Open-ended. A successful response should add a real topic, a key fact, and an ef
 
 ##### D. Guided Practice — Write a Short Internal Notice
 
-**Situation: System maintenance this weekend.**
+**Situation: System update tomorrow from 9:00-12:00. Some functions may be unavailable.**
 
 **Model notice:**
 
-> **Internal Notice — Scheduled System Maintenance**
+> **Internal Notice - Scheduled System Update**
 >
-> The file management system will undergo scheduled maintenance this weekend, from Saturday evening to Sunday morning. During this period, access to shared folders and the review database will be temporarily unavailable. Staff are advised to save all current work before Friday end of day. Normal system access will resume on Monday morning. Further information will be provided if the schedule changes.
+> A system update will take place tomorrow between 9:00 and 12:00. During this period, some functions may be temporarily unavailable. Staff may experience limited access to selected tools while the update is in progress. A further update will be shared after the work is completed.
 
 
 ##### E. Freer Practice — Write Two Notices
@@ -776,12 +776,12 @@ Open-ended. Each notice should have a clear heading, short background, essential
 
 ##### G. Self-Check and Reflection
 
-Self-check and reflection. Students should identify which part of the notice structure is most difficult and compare the clarity of their Activity E notices.
+Students should use the checklist to review their Activity E notices and the Activity F rewrite. In reflection, they should identify what makes a notice effective, which part of the structure is most difficult, and which of their Activity E notices is clearer.
 
 
-##### H. Homework & Extension
+##### H. Homework & Extension - Real-World Notice Transfer
 
-Open-ended. A successful response should follow the notice structure from the unit. The extension response may expand a short notice into a fuller bulletin-style paragraph by adding background, impact, and a next step.
+Open-ended. A successful response should use either one Activity E notice or a real internal notice as the source and produce a fuller internal bulletin for colleagues. A strong response should include a clear heading, brief background, essential information, impact if needed, and a neutral next step. If the student uses an Activity E notice, the revised version should add at least two new supporting sentences.
 
 
 #### Unit 10. Explaining Problems Clearly
@@ -834,17 +834,17 @@ Open-ended. Each explanation should include the issue, effect, current status, a
 
 ##### G. Self-Check and Reflection
 
-Self-check and reflection. Students should identify which part of the problem-explanation structure is easiest and which is most difficult.
+Students should use the checklist to review whether their explanation clearly states the issue, cause if known, effect, and current status. In reflection, they should identify which part of the structure is easiest and which is most difficult.
 
 
-##### H. Homework & Extension
+##### H. Homework & Extension - Real-World Problem Update
 
-Open-ended. A successful response should describe a problem in neutral language and include background or context, issue, effect, and current status.
+Open-ended. A successful response should use a workplace problem, an unclear real message, or one Unit 10 freer-practice scenario as the source and produce a clear 5-6 sentence update for a manager or colleague. A strong response should include background, issue, effect, and current status in factual neutral language.
 
 
 #### Unit 11. Writing Simple Meeting Summaries
 
-##### A. Warm-Up — Which Summary Is Clearer?
+##### A. Warm-Up - Compare Two Summaries
 
 **Answer: B**
 
@@ -891,12 +891,12 @@ Open-ended. Each summary should include the topic, the main point or decision, a
 
 ##### G. Self-Check and Reflection
 
-Self-check and reflection. Students should identify the easiest and most difficult parts of summary writing and choose one useful phrase from the unit.
+Students should use the checklist to review whether their summary clearly names the topic, includes the main point or decision, adds one next step, and removes unnecessary detail. In reflection, they should identify the easiest and most difficult parts of summary writing and choose one useful phrase from the unit.
 
 
-##### H. Homework & Extension
+##### H. Homework & Extension - Real-World Summary Transfer
 
-Open-ended. A successful response should record the meeting topic, main point or decision, and next step. The manager version should make the key point and action item more direct.
+Open-ended. A successful response should use one unit summary, a real meeting, or one Unit 11 freer-practice scenario as the source and produce a clear 5-6 sentence internal meeting summary for a manager or colleague. A strong response should include the meeting topic, the main point or decision, and one visible action item or next step.
 
 
 #### Module 3 Review Workshop
@@ -930,11 +930,11 @@ Key improvements:
 
 #### Unit 12. Writing Simple External Inquiries
 
-##### A. Warm-Up — Which Inquiry Is Better?
+##### A. Warm-Up - Compare Two Inquiry Emails
 
 **Answer: B.** Email B gives the reader enough background, asks one specific question, and uses a professional email format. Email A gives no useful context and does not make the question answerable.
 
-##### C. Improve the Inquiry
+##### C. Language — Improve the Inquiry
 
 Possible answers:
 
@@ -943,7 +943,7 @@ Possible answers:
 3. Our team is checking the review schedule for the next stage. Could you confirm the final submission deadline?
 4. We are reviewing Section 2 of the current guidelines. Could you clarify how the updated rule applies to applications submitted before the change?
 
-##### C. Add Background Information
+##### C. Language — Add Background Information
 
 Possible answers:
 
@@ -968,7 +968,7 @@ Possible model:
 > Kind regards,
 > [Name]
 
-##### E. Freer Practice
+##### E. Freer Practice — Write Two External Inquiry Emails
 
 Open-ended. Each email should include a clear subject or context line, a short background sentence, one answerable question, and a polite closing.
 
@@ -978,9 +978,13 @@ Possible model:
 
 > Thank you for your email about the new submission instructions. We are reviewing applications submitted before the update and need to confirm which process applies to those files. Could you clarify whether these applications should follow the old process or the new process? This will help us prepare the files correctly.
 
-##### G-H. Self-Check, Reflection, Homework & Extension
+##### G. Self-Check and Reflection
 
-Open-ended. Reflection should identify one inquiry feature that improved. Homework should apply the inquiry structure to either a real message or one Unit 12 freer-practice situation.
+Open-ended. Reflection should identify which inquiry feature improved, what detail made the message more answerable for an outside reader, and which question phrase best fits an external office.
+
+##### H. Homework & Extension - Internal Note Before the Inquiry
+
+Open-ended. The first H task should explain what is unclear, why an inquiry is needed, and what answer the team hopes to receive. The homework task should then apply the inquiry structure to a real external instruction or notice, or to one Unit 12 freer-practice situation, using one clear answerable question and enough background for the outside reader.
 
 #### Unit 13. Providing Simple Explanations
 
@@ -993,7 +997,7 @@ Possible missing information:
 3. Which applicant information is different and which source should be trusted.
 4. Why the process will take longer and what timing effect the reader should expect.
 
-##### C. Improve the Explanation
+##### C. Language — Improve the Explanation
 
 Possible answers:
 
@@ -1002,7 +1006,7 @@ Possible answers:
 3. The review will take longer because two documents need additional checking. The next stage may therefore begin later than planned.
 4. The system is slow because maintenance is still in progress. Some files may take longer to open this morning.
 
-##### C. Add a Reason or Background
+##### C. Language — Add a Reason or Background
 
 Possible answers:
 
@@ -1016,7 +1020,7 @@ Possible model:
 
 > We are reviewing the attached files before the next stage of the document check. At this point, the files do not match the information recorded in the system. The correct version must be confirmed before the review can continue. This means the review may take longer than planned. We are checking which version should be used and will update the team when the information is confirmed.
 
-##### E. Freer Practice
+##### E. Freer Practice — Write Two Explanations
 
 Open-ended. A successful explanation should include background, the main issue, a reason or cause, and the effect on the work or reader.
 
@@ -1026,9 +1030,13 @@ Possible model:
 
 > The document cannot be accepted because Section 3 is incomplete. This section is required before the review can move to the next stage. The applicant should resend the completed document so the process can continue.
 
-##### G-H. Self-Check, Reflection, Homework & Extension
+##### G. Self-Check and Reflection
 
-Open-ended. Check that students can name the weakest link in their explanation and revise for a specific reader where required.
+Open-ended. Reflection should help students identify the weakest link in their explanation, name which detail would help a new colleague understand the situation fastest, and choose one phrase that makes an explanation easier to follow.
+
+##### H. Homework & Extension — Explanation for Two Readers
+
+Open-ended. The first H task should revise one explanation for two readers by controlling how much detail a colleague and a supervisor need. The homework task should then apply the unit structure to a real explanation or to one Unit 13 freer-practice situation, using clear background, reason, and effect.
 
 #### Unit 14. Responding to Confusion
 
@@ -1045,7 +1053,7 @@ Possible answers:
 
 The model response works because it acknowledges the question, gives the correct information, adds a useful limit or condition, and avoids blaming the reader.
 
-##### C. Improve the Response
+##### C. Language — Improve the Response
 
 Possible answers:
 
@@ -1054,7 +1062,7 @@ Possible answers:
 3. To clarify, the other form is used for renewal cases. For this application, please use the standard submission form.
 4. Thank you for checking the guidelines. The main point is that only the first two documents are required this Friday.
 
-##### C. Add Clarifying Information
+##### C. Language — Add Clarifying Information
 
 Possible answers:
 
@@ -1068,7 +1076,7 @@ Possible model:
 
 > Thank you for checking the document deadline. To clarify, only two documents are required this Friday. The remaining documents can be submitted during the next stage of the process. This means the team does not need to prepare the full set by Friday. Please let me know if you would like me to resend the checklist.
 
-##### E. Freer Practice
+##### E. Freer Practice — Write Two Clarification Responses
 
 Open-ended. Each response should acknowledge the confusion, state the correct information, add one useful detail, and avoid defensive wording.
 
@@ -1078,9 +1086,13 @@ Possible model:
 
 > Thank you for checking the rule. To clarify, the current requirement applies only to applications submitted after the update. Applications submitted earlier should follow the previous procedure. Please let me know if any part of the process is still unclear.
 
-##### G-H. Self-Check, Reflection, Homework & Extension
+##### G. Self-Check and Reflection
 
-Open-ended. Internal records should state the confusion, the correct information, and the reminder staff should use next time.
+Open-ended. Reflection should help students compare acknowledgement, correction, and clarifying-detail choices, identify where they most needed to reduce blame or defensiveness, and consider how the response would change for a colleague versus an outside contact.
+
+##### H. Homework & Extension — Clarification for a Team Record
+
+Open-ended. The first H task should record the confusion, the correct information, and the reminder staff should use next time. The homework task should then write a clear, polite clarification response to a real unclear message or to one Unit 14 freer-practice situation, keeping the tone corrective but non-defensive.
 
 #### Unit 15. Maintaining Consistent Email Style
 
@@ -1098,7 +1110,7 @@ Email A problems:
 
 The consistent version works because the subject, greeting, purpose, question, and closing all support the same professional style.
 
-##### C. Improve Consistency
+##### C. Language — Improve Consistency
 
 Possible answers:
 
@@ -1106,7 +1118,7 @@ Possible answers:
 2. Dear Team, I reviewed the file and noticed a possible issue. Could you check the attached document and confirm the correct next step? Thank you.
 3. Dear Team, We found that the attached file is not the correct version for this review. Could you please send the updated file? Thank you.
 
-##### C. Reformat the Email
+##### C. Language — Reformat the Email
 
 Possible model:
 
@@ -1130,7 +1142,7 @@ Possible model:
 >
 > Thank you.
 
-##### E. Freer Practice
+##### E. Freer Practice — Write Two Consistent Emails
 
 Open-ended. Each email should include a clear subject line, professional greeting, purpose sentence, body, request or next step, and closing.
 
@@ -1141,9 +1153,13 @@ Possible answers:
 1. Dear [Name], We found that the file is not the correct version. Could you please send the updated file? Thank you.
 2. Dear Ms. Lee, We found a problem in the form. Could you please send the corrected version? Thank you.
 
-##### G-H. Self-Check, Reflection, Homework & Extension
+##### G. Self-Check and Reflection
 
-Open-ended. Mini team style rules should be short, practical rules about subject lines, greetings, body structure, requests, and closings.
+Open-ended. Reflection should identify which email part is easiest to keep consistent, which needs more attention, and which standard phrase could help the team keep a shared professional style.
+
+##### H. Homework & Extension — Mini Team Style Rules
+
+Open-ended. The first H task should produce three short, practical team rules about subject lines, greetings, body structure, requests, or closings, and then apply those rules in one revised Activity E email. The homework task should then rewrite one real inconsistent message or one Unit 15 freer-practice situation in one clear professional style.
 
 #### Module 4 Review Workshop
 

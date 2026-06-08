@@ -1821,14 +1821,16 @@ Units 6–23 (instructor guidance frameworks):
 - Workspace: \\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing
 - Source: writing_tests\Rubric Scoring Guide Writing Course.docx
 - Tooling review: confirmed 	extmaker.cmd supports docx-to-markdown, docx-to-pdf, export-docx-package, generate-reference, image-to-markdown, markdown-to-docx, pdf-to-markdown, postprocess-docx, postprocess-markdown, pptx-to-package, preprocess-docx, split-docx-units, and yaml-to-audio.
-- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced split Markdown units, ssets\shapes, and eference.docx.
+- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced split Markdown units, ssets\shapes, and 
+eference.docx.
 - Follow-up handling: assembled the generated unit files into writing_tests\Rubric Scoring Guide Writing Course.md and normalized escaped LINEBREAK / SHAPE markers so the file is practical to edit directly.
 
 ## 2026-05-21T12:45:11.9327538+09:00 - Instructor Marking Guide Converted From DOCX To Editable Markdown
 
 - Workspace: \\prod-fs-gen01\WorkFile\04_在宅勤務\★グローバルビジネス推進部（在宅）\ランゲージサービス課\Dobson（在宅）\04. Projects\code\book_administrative-writing
 - Source: writing_tests\Instructor Marking Guide Writing Course.docx
-- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\instructor_textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced 12 split Markdown units, ssets\shapes, and eference.docx.
+- Conversion result: ran 	extmaker.cmd docx-to-markdown with --output-dir writing_tests\instructor_textmaker_out, --keep-temp-md, and --shape-output inline-text-only; TextMaker produced 12 split Markdown units, ssets\shapes, and 
+eference.docx.
 - Follow-up handling: assembled the generated unit files into writing_tests\Instructor Marking Guide Writing Course.md and normalized escaped LINEBREAK / SHAPE markers so the file is practical to edit directly.
 
 ## 2026-05-21T12:52:00+09:00 - Writing Test Conversion Outputs Reorganized Into Per-Document Bundles
@@ -2269,3 +2271,66 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - created `writing_tests/tests/Kuwahara/JPO Admin Writing Pre-Test - KUWAHARA (20260602) scoring sheet.md`
   - final totals recorded as `A1 5`, `A2 13`, `B1 15`, `B2 13`, `C 6`, total `52 / 100`
 - Fairness note: the scoring rationale was kept comparable to the Nishino assessment by using the same section architecture, the same rubric-category structure, and similarly specific quoted evidence from the student's own writing.
+## 2026-06-08T14:18:00+09:00 - Unit 9 Phase 3 Assessment Logged Before Repair
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit9_repair_plan.md`.
+- Trigger: Dave asked for a Unit 9 assessment in accordance with `aw-int_print_readiness_repair_plan_0530.md` and requested a repair-plan file before editing.
+- Action: reviewed Unit 9 against the Phase 3 repair plan, the intermediate activity framework, and the master activity menu; verified shell order, div balance, placeholder inventory, stale-label status, and answer-key alignment.
+- Outcome: Unit 9 is structurally stable but still needs a quality pass. The main repair targets are the front-loaded `A. Warm-Up`, redundant `H. Homework & Extension`, guided-practice answer-key scenario mismatch, and post-repair placeholder calibration.
+
+## 2026-06-08T14:36:00+09:00 - Unit 9 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit9_repair_notes.md`.
+- Trigger: Dave asked to implement the Unit 9 repair plan after the Phase 3 assessment.
+- Action: moved the learner comparison task to the front of `A. Warm-Up`, simplified the opening prompt flow, consolidated `H. Homework & Extension` into one transfer task, and updated Unit 9 answer-key guidance to match the repaired task sequence and live guided-practice scenario.
+- Verification: Unit 9 remains `A B C D E F G H`; Unit 9 divs are balanced at `17/17`; Unit 9 placeholders total `14`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T14:52:00+09:00 - Confirmed Shell-Display Mojibake False Positive In INT Markdown Review
+
+- Scope: `int/md/working/aw-int-all_0519.md` and `int/md/working/aw-int-answer-key.md`.
+- Trigger: apparent `窶・`-style corruption appeared in PowerShell output during Unit 9 answer-key review.
+- Action: verified both files with explicit UTF-8 reads and byte-level checks instead of relying on `Get-Content` display.
+- Outcome: both files are valid UTF-8 without BOM and contain no project mojibake markers; the apparent corruption was a shell-rendering issue, not a file-content issue.
+- Carry-forward: when shell output suggests mojibake but the editor view is clean, confirm with Python or another explicit UTF-8 reader before making content repairs.
+
+## 2026-06-08T15:08:00+09:00 - Unit 10 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit10_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit10_repair_notes.md`.
+- Trigger: Dave requested a unit-by-unit Phase 3 assessment of Unit 10 and then asked to proceed with the repair.
+- Action: created the Unit 10 repair plan, moved the warm-up task ahead of the concept primer, consolidated `H. Homework & Extension` into one real-world transfer task, and updated the Unit 10 answer key so the `G` and `H` guidance matches the repaired end-of-unit structure.
+- Verification: Unit 10 remains `A B C D E F G H`; Unit 10 divs are balanced at `15/15`; Unit 10 placeholders total `17`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T15:24:00+09:00 - Unit 11 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit11_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit11_repair_notes.md`.
+- Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 11.
+- Action: created the Unit 11 repair plan, moved the warm-up comparison task ahead of the concept primer, removed the redundant discussion prompt, consolidated `H. Homework & Extension` into one real-world transfer task, and updated the Unit 11 answer key so `A`, `G`, and `H` guidance matches the repaired end-of-unit structure.
+- Verification: Unit 11 remains `A B C D E F G H`; Unit 11 divs are balanced at `17/17`; Unit 11 placeholders total `9`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T15:38:00+09:00 - Unit 12 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit12_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit12_repair_notes.md`.
+- Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 12.
+- Action: created the Unit 12 repair plan, moved the warm-up comparison task ahead of the concept primer, removed the redundant discussion prompt, kept both `H` subactivities because they serve distinct transfer functions, and updated the Unit 12 answer key so `A`, `G`, and `H` guidance matches the repaired unit.
+- Verification: Unit 12 remains `A B C D E F G H`; Unit 12 divs are balanced at `17/17`; Unit 12 placeholders total `14`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T15:49:00+09:00 - Unit 13 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit13_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit13_repair_notes.md`.
+- Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 13.
+- Action: created the Unit 13 repair plan, moved the warm-up information-gap task ahead of the concept primer, kept both `H` subactivities because they serve different transfer purposes, and updated the Unit 13 answer key so `G` and `H` guidance matches the repaired unit.
+- Verification: Unit 13 remains `A B C D E F G H`; Unit 13 divs are balanced at `16/16`; Unit 13 placeholders total `19`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T16:05:00+09:00 - Unit 14 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit14_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit14_repair_notes.md`.
+- Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 14.
+- Action: created the Unit 14 repair plan, moved the warm-up confusion-identification task ahead of the concept primer, kept both `H` subactivities because they serve distinct transfer functions, and updated the Unit 14 answer key so `G` and `H` guidance explicitly covers both the team-record task and the clarification-response homework task.
+- Verification: Unit 14 remains `A B C D E F G H`; Unit 14 divs are balanced at `15/15`; Unit 14 placeholders total `18`, all with explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T16:22:00+09:00 - Unit 15 Phase 3 Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, `int/edits & guides/full-review/print-readiness-audits/phase3_unit15_repair_plan.md`, and `int/edits & guides/full-review/print-readiness-audits/phase3_unit15_repair_notes.md`.
+- Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 15.
+- Action: created the Unit 15 repair plan, moved the warm-up inconsistency-identification task ahead of the concept primer, kept both `H` subactivities because they serve distinct transfer functions, split the first `H` task into separate response spaces for team rules and the revised email, and updated the Unit 15 answer key so `G` and `H` guidance matches the repaired task structure.
+- Verification: Unit 15 remains `A B C D E F G H`; Unit 15 placeholders all retain explicit `rows=N`; no duplicate placeholder IDs were found.

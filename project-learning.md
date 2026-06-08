@@ -1392,3 +1392,28 @@ Rules:
   - confirm apparent blanks against the original PDF page renders before recording `[no handwritten response]`
   - if the PDF scan appears incomplete, stop before final scoring and request a better scan or user confirmation
   - after any successful handwritten-test extraction, update `project-learning.md` and `project-journal.md` with the method, tools actually used, and any scan-quality issues so the next run does not depend on recoverable chat history
+
+## 2026-06-08 - Activity Realignment Must Use The Planning Guides, Not Shell Position Alone
+
+- Status: `active`
+- Scope: project/review-method
+- Context: Unit-quality review work on INT Units 8-15 must not judge or realign activities only by visible `A-H` shell order or by local heading labels. The planning guides define the pedagogical function of each activity family and therefore constrain valid realignment decisions.
+- Decision: whenever reviewing or realigning INT unit activities, use both planning guides as active reference sources, together with the pedagogical-goal and activity-requirement guidance in `int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md`:
+  - `adv/edits & guides/planning/guide-set/aw-master_activity_menu.md`
+  - `int/edits & guides/planning/guide-set/aw-int_activity_framework.md`
+- Required next-time behavior:
+  - judge `A-H` sections by intended activity function, not just by their current position
+  - distinguish genuine progression failures from acceptable scaffold variation
+  - treat `Guided Practice`, `Freer Practice`, `Extension`, `Reflection`, and `Homework` as pedagogically distinct layers that should not be merged or rehomed casually
+  - when recommending realignment, cite the relevant functional expectation from the planning guides alongside the repair plan's pedagogical and production requirements
+
+## 2026-06-08 - PowerShell Can Display Clean UTF-8 INT Markdown As Mojibake Even When The File Content Is Fine
+
+- Status: `active`
+- Scope: project/tooling
+- Context: `int/md/working/aw-int-all_0519.md` and `int/md/working/aw-int-answer-key.md` can display tokens such as `窶・` in PowerShell output even when the files themselves are valid UTF-8 and contain no mojibake markers.
+- Observation: byte-level and Python UTF-8 scans confirmed both files decode cleanly as UTF-8 without BOM and contain none of the project corruption markers (`窶`, `遯ｶ`, `ﾂｷ`, replacement character). The apparent corruption came from shell rendering of punctuation such as em dashes, not from the stored file text.
+- Preferred behavior:
+  - do not treat PowerShell `Get-Content` output alone as proof of file corruption
+  - confirm suspected mojibake with an explicit UTF-8 read or byte-level scan before editing
+  - if the file is clean, fix or work around the shell-display assumption rather than rewriting good markdown

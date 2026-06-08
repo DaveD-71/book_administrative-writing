@@ -89,79 +89,20 @@ Completed for:
 
 ## Marker Comment Summary
 
-<table>
-  <thead>
-    <tr>
-      <th>Section</th>
-      <th>Item</th>
-      <th>Comment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="3">A1</td>
-      <td>Strengths</td>
-      <td>One correction is fully successful, and several others clearly aim at a more professional sentence form.</td>
-    </tr>
-    <tr>
-      <td>Main Weaknesses</td>
-      <td>Residual editing errors remain in phrases such as <code>found it to be added more information</code>, <code>confirm me if</code>, and <code>I would appreciate you if</code>.</td>
-    </tr>
-    <tr>
-      <td>Priority for Improvement</td>
-      <td>Improve sentence-level correction accuracy and professional phrasing.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">A2</td>
-      <td>Strengths</td>
-      <td>All three responses directly answer the prompt, and <code>Attached is a corrected version of a notification</code> is especially strong.</td>
-    </tr>
-    <tr>
-      <td>Main Weaknesses</td>
-      <td>Short-response wording is sometimes repetitive or slightly awkward, for example <code>explain the meaning and make it clear</code>.</td>
-    </tr>
-    <tr>
-      <td>Priority for Improvement</td>
-      <td>Practice concise but fully polished administrative micro-writing.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">B1</td>
-      <td>Strengths</td>
-      <td>The response includes purpose, background, one specific procedural question, and a deadline in a recognisable email shape.</td>
-    </tr>
-    <tr>
-      <td>Main Weaknesses</td>
-      <td>It is underlength and linguistically uneven, with examples such as <code>Applicant need to submit document A</code> and <code>Our question to EPO procedure</code>.</td>
-    </tr>
-    <tr>
-      <td>Priority for Improvement</td>
-      <td>Develop fuller task coverage and improve grammatical control in professional emails.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">B2</td>
-      <td>Strengths</td>
-      <td>The explanation covers the new step, the reason, and the examiner's action in a clear basic order.</td>
-    </tr>
-    <tr>
-      <td>Main Weaknesses</td>
-      <td>Frequent grammar and spelling problems weaken accuracy, including <code>bellow</code>, <code>which prove</code>, and <code>speicied term</code>; the response is also substantially underlength.</td>
-    </tr>
-    <tr>
-      <td>Priority for Improvement</td>
-      <td>Strengthen sentence control in longer procedural explanations.</td>
-    </tr>
-    <tr>
-      <td rowspan="3">C</td>
-      <td>Strengths</td>
-      <td>The opening shows some awareness of professional framing in <code>I've reviewed your draft</code>.</td>
-    </tr>
-    <tr>
-      <td>Main Weaknesses</td>
-      <td>The response is incomplete and stops at <code>I couldn't</code>, so it does not demonstrate meaningful rewriting or editing skill.</td>
-    </tr>
-    <tr>
-      <td>Priority for Improvement</td>
-      <td>Complete full revision tasks and practice restructuring a weak source text, not just opening it.</td>
-    </tr>
-  </tbody>
-</table>
+| Section | Item | Comment |
+|---|---|---|
+| A1 | Strengths | One correction is fully successful, and several others clearly aim at a more professional sentence form. |
+| A1 | Main Weaknesses | Residual editing errors remain in phrases such as `found it to be added more information`, `confirm me if`, and `I would appreciate you if`. |
+| A1 | Priority for Improvement | Improve sentence-level correction accuracy and professional phrasing. |
+| A2 | Strengths | All three responses directly answer the prompt, and `Attached is a corrected version of a notification` is especially strong. |
+| A2 | Main Weaknesses | Short-response wording is sometimes repetitive or slightly awkward, for example `explain the meaning and make it clear`. |
+| A2 | Priority for Improvement | Practice concise but fully polished administrative micro-writing. |
+| B1 | Strengths | The response includes purpose, background, one specific procedural question, and a deadline in a recognisable email shape. |
+| B1 | Main Weaknesses | It is underlength and linguistically uneven, with examples such as `Applicant need to submit document A` and `Our question to EPO procedure`. |
+| B1 | Priority for Improvement | Develop fuller task coverage and improve grammatical control in professional emails. |
+| B2 | Strengths | The explanation covers the new step, the reason, and the examiner's action in a clear basic order. |
+| B2 | Main Weaknesses | Frequent grammar and spelling problems weaken accuracy, including `bellow`, `which prove`, and `speicied term`; the response is also substantially underlength. |
+| B2 | Priority for Improvement | Strengthen sentence control in longer procedural explanations. |
+| C | Strengths | The opening shows some awareness of professional framing in `I've reviewed your draft`. |
+| C | Main Weaknesses | The response is incomplete and stops at `I couldn't`, so it does not demonstrate meaningful rewriting or editing skill. |
+| C | Priority for Improvement | Complete full revision tasks and practice restructuring a weak source text, not just opening it. |
