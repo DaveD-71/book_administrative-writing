@@ -1417,3 +1417,13 @@ Rules:
   - do not treat PowerShell `Get-Content` output alone as proof of file corruption
   - confirm suspected mojibake with an explicit UTF-8 read or byte-level scan before editing
   - if the file is clean, fix or work around the shell-display assumption rather than rewriting good markdown
+
+## 2026-06-08 - Phase 3 Audit Files Now Live Under `print-readiness-audits/phase 3`
+
+- Status: `active`
+- Scope: project/file-organization
+- Context: the user relocated the Phase 3 review and repair files into `int/edits & guides/full-review/print-readiness-audits/phase 3`.
+- Decision: create new Phase 3 unit, module, and workshop review files in that `phase 3` subfolder rather than at the top level of `print-readiness-audits`.
+- Required next-time behavior:
+  - treat `int/edits & guides/full-review/print-readiness-audits/phase 3` as the canonical location for current Phase 3 review artifacts
+  - if a new Phase 3 file is accidentally created at the parent audit level, move it into `phase 3` promptly so the audit trail stays consolidated

@@ -2334,3 +2334,26 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave asked to continue the unit-by-unit Phase 3 cycle with Unit 15.
 - Action: created the Unit 15 repair plan, moved the warm-up inconsistency-identification task ahead of the concept primer, kept both `H` subactivities because they serve distinct transfer functions, split the first `H` task into separate response spaces for team rules and the revised email, and updated the Unit 15 answer key so `G` and `H` guidance matches the repaired task structure.
 - Verification: Unit 15 remains `A B C D E F G H`; Unit 15 placeholders all retain explicit `rows=N`; no duplicate placeholder IDs were found.
+
+## 2026-06-08T17:40:00+09:00 - Module 3 Review Workshop Recheck
+
+- Rechecked the live Module 3 Review Workshop separately from the older June 3 repair recommendations.
+- Confirmed the current workshop is structurally acceptable at the Phase 3 markdown-review level.
+- Found only low-priority style drift around `organise` / `organisation`.
+
+## 2026-06-08T17:48:00+09:00 - Phase 3 Audit Folder Relocation Noted
+
+- User relocated Phase 3 review files into `int/edits & guides/full-review/print-readiness-audits/phase 3`.
+- Moved the fresh Module 3 workshop recheck note into that folder and recorded the new path as the default location for future Phase 3 artifacts.
+
+## 2026-06-08T17:57:00+09:00 - Module 4 Review Workshop Recheck
+
+- Rechecked the live Module 4 Review Workshop separately from the older Module 4 activity-by-activity review.
+- Confirmed the workshop is largely acceptable at the Phase 3 markdown-review level.
+- Found one remaining issue: the transfer-task outward-facing message is not defined tightly enough, and the current response space is likely undersized if a complete email is intended.
+
+## 2026-06-08T18:08:00+09:00 - Module 5 Review Workshop Recheck
+
+- Rechecked the live Module 5 Review Workshop against the current Phase 3 workshop standard.
+- Found that the student book still prints a `Possible Stronger Version` spoiler in the Revision Lab.
+- Found that the answer key still assumes the model remains in the student book and that the tone-focused transfer placeholder is likely under-sized.

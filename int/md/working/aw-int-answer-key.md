@@ -217,7 +217,11 @@ Open-ended. Students should turn information from Unit 1 or Unit 2 into one inte
 
 **Weak vs. Strong Review Case / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
 
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+**Revision Lab possible model:**
+
+> The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
+
+Key improvements:
 
 - Split the single long run-on sentence into shorter sentences.
 - Changed the pressured request to a cooperative request.
@@ -1173,7 +1177,7 @@ This version is stronger because it keeps the relationship calm, explains the pr
 
 **Self-Edit Routine:** Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
 
-**Transfer Task:** Open-ended. A successful response should include one outward-facing message, one short internal explanation for the team, and three short notes explaining audience wording, detail control, and the unit strategy used.
+**Transfer Task:** Open-ended. A successful response should include one short outward-facing email with a clear purpose, only the detail the reader needs, and a respectful closing; one short internal explanation for the team; and three short notes explaining audience wording, detail control, and the unit strategy used.
 
 **Preparation for Module 5:** Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
 
@@ -1181,84 +1185,216 @@ This version is stronger because it keeps the relationship calm, explains the pr
 
 #### Unit 16. Editing for Accuracy
 
-##### A. Warm-Up
+##### A. Warm-Up - Spot the Errors
 
-_Instructor note: Exercise asks students to identify grammar problems. Common issues: subject-verb agreement, wrong article (a/the), tense inconsistency, wrong preposition._
+Possible corrections:
 
-**Typical problem types in this unit:**
-- Incorrect verb agreement: "The files was received" → "The files were received"
-- Wrong article: "a information" → "the information" / "information"
-- Tense inconsistency: mixing past and present in one paragraph
-- Wrong preposition: "Check the system for errors on it" → "Check the system for errors in it"
+1. The applicant submitted the form yesterday.
+2. Please confirm the information.
+3. We are checking the files now.
+4. The review starts next week.
 
+##### B. Example Check
 
-##### G. Editing Practice
+The stronger version works because the verb form is correct and the time is clear. In administrative writing, even a small grammar error can confuse who acted, when something happened, or what information is correct.
 
-**Model approach:** Correct all grammar errors; do not change meaning. Assess for: correct verb forms, article use, tense consistency, and preposition accuracy.
+##### C. Language - Practice A: Correct the Sentences
 
+Possible answers:
+
+1. The system is under maintenance today.
+2. We will check the documents.
+3. Please send me information about the new procedure.
+4. The documents are complete.
+
+##### C. Language - Practice B: Edit for Accuracy
+
+Possible models:
+
+**Text 1**
+
+> The file is not complete. We need to check it again before sending it to the next team. The applicant did not submit the correct form.
+
+**Text 2**
+
+> We are reviewing the documents now. There is a lot of missing information. Please confirm the deadline for us.
+
+##### D. Guided Practice - Edit a Short Administrative Email
+
+Possible model:
+
+> Subject: Form Review
+>
+> Dear [Name],
+>
+> I checked the document yesterday and found some mistakes. The information in Section 2 is not correct, and the applicant did not submit the signature. Could you please fix these points?
+>
+> Thank you.
+
+##### E. Freer Practice - Edit Two Short Texts
+
+Open-ended. Strong responses should keep the original meaning but correct the grammar, article use, prepositions, spelling, and tense so the final version is accurate and usable.
+
+##### F. Editing Practice - Explain the Change
+
+Open-ended. Strong responses should identify the original error, explain why the corrected version is better for the reader, and name one check to use next time.
+
+##### F. Editing Practice - Edit a Paragraph
+
+Possible model:
+
+> The review process starts tomorrow. The team is preparing the documents now. Some information is missing from the applicant. We are also checking the system. The final schedule will be shared later. This may affect the next steps.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should help students identify which accuracy problem still causes the most delay, which correction improved meaning or clarity most clearly, and which check should come first in their own editing routine.
+
+##### H. Homework & Extension - Accuracy Review Routine
+
+Open-ended. The first H task should produce a short editing routine that the student could actually reuse at work. The homework task should then apply the unit's accuracy checks to one real message or to one Unit 16 freer-practice text.
 
 #### Unit 17. Editing for Clarity
 
-##### A. Warm-Up — What Makes These Sentences Unclear?
+##### A. Warm-Up - What Makes These Sentences Unclear?
 
-1. "It looks like maybe there is something wrong with the form in some places."
-   — _Vague hedges ("looks like", "maybe"); vague noun ("something"); vague location ("in some places")_
-2. "We think the system might not be working correctly for some users."
-   — _Hedges ("think", "might"); vague scope ("some users")_
-3. "There are many things to check so it will maybe take a bit longer."
-   — _Vague ("many things", "a bit"); unnecessary hedge ("maybe")_
-4. "The information is kind of different from the last version."
-   — _Informal hedge ("kind of"); vague ("different" — how different? which part?)_
+Typical problems:
 
+1. vague words such as "maybe" and "in some places"
+2. weak wording such as "might not be working correctly" without a clear main point
+3. too many vague ideas in one sentence
+4. informal or unclear wording such as "kind of different"
 
-##### C. Practice A — Make the Sentences Clearer
+##### B. Example Check
 
-1. The file has two incomplete sections.
-2. Three items are missing from the form.
-3. The review will be delayed by two days due to missing documentation.
+The clearer version works because it combines related ideas, states the cause directly, and removes extra information that slows the reader down.
+
+##### C. Language - Practice A: Make the Sentences Clearer
+
+Possible answers:
+
+1. The file has a few problems.
+2. Some items are missing from the form.
+3. The process may be delayed.
 4. Could you please check the document again?
 
+##### C. Language - Practice B: Reorganise for Better Flow
 
-##### C. Practice B — Reorganise for Better Flow
+**Best order:** B -> A -> C
 
-**Best order: B → A → C**
+Possible clear version:
 
-1. B: We reviewed the applicant's file this morning. _(background)_
-2. A: Two forms are incomplete. _(finding)_
-3. C: This will delay the next review stage. _(result)_
+> We reviewed the applicant's file this morning. Two forms are incomplete. This will delay the next review stage.
 
+##### D. Guided Practice - Edit for Clarity
 
-##### D. Guided Practice — Edit for Clarity
+Possible model:
 
-**Original:** "The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later."
+> The system was slow today, so the team could not complete all planned work. Some files also could not be opened. Because of these problems, the schedule may need to change. A further update will be shared later.
 
-**Model rewrite:**
+##### E. Freer Practice - Edit Two Texts for Clarity
 
-> The system was slow today due to a temporary server issue. As a result, some reviewers were unable to access the shared files. The review schedule will need to be adjusted because of this delay. An update will be provided once the system is fully operational.
+Open-ended. Strong responses should keep the original meaning but remove vague language, shorten unnecessary wording, and present the ideas in a clearer order.
 
+##### F. Editing Practice - From Vague to Usable
+
+Possible model:
+
+> There were problems with the forms, so the review will take longer. More information will be shared later.
+
+##### F. Editing Practice - Clear Paragraph Revision
+
+Possible model:
+
+> We checked several items and found a few problems. The system also behaved unexpectedly. In addition, some document names are incorrect. Because of these issues, the review schedule may be delayed. More information will be shared later.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should help students identify whether vagueness, wordiness, or poor order causes the most trouble in their writing, and which clarity strategy improved a draft most effectively.
+
+##### H. Homework & Extension - Explain Your Revision Choice
+
+Open-ended. The first H task should compare one weak sentence and one stronger version, then explain why the revision is easier for the reader. The homework task should then revise one earlier paragraph for clarity using the unit strategies.
 
 #### Unit 18. Editing for Tone
 
-##### A. Warm-Up
+##### A. Warm-Up - What Is Wrong with the Tone?
 
-_Instructor note: Exercise asks students to identify tone problems (too direct, too casual, emotionally charged). Key patterns to watch for: bare imperatives ("Send it now"), emotional language ("This is unacceptable"), and informal language ("Hey", "ASAP")._
+Typical tone problems:
 
+1. too direct
+2. harsh judgment
+3. blaming wording
+4. overly casual or pressuring language
 
-##### C. Practice — Improve the Tone
+##### B. Example Check
 
-**Model approach:** Replace direct imperatives with polite modals; remove emotional or pressuring language; add professional framing phrases.
+The softer version works because it removes blame, keeps the focus on the file, and still asks clearly for the needed action.
 
-**Example transformations:**
-- "Send it now." → "Could you please send it when you have an opportunity today?"
-- "This is unacceptable." → "We would like to discuss how this issue can be resolved."
-- "Why didn't you do this?" → "I have a question about the earlier step. Could you clarify what happened?"
+##### C. Language - Practice A: Make the Tone Polite
 
+Possible answers will vary. Strong responses should remove blame, use neutral description, and turn commands into polite requests.
+
+##### C. Language - Practice B: Improve the Email Tone
+
+Possible models:
+
+**Email 1**
+
+> Subject: Document
+>
+> Thank you for your message. It appears that a different file was attached. Could you please send the correct version when available?
+
+**Email 2**
+
+> Subject: Problem
+>
+> Thank you for your update. It appears that we now have a delay, so I would like to clarify what happened earlier. Could you please share any relevant details?
+
+##### D. Guided Practice - Edit a Full Email
+
+Possible model:
+
+> Subject: Form
+>
+> Dear [Name],
+>
+> It appears that the current form does not yet match the instructions. Could you please revise the form and send it back when ready?
+>
+> Thank you.
+
+##### E. Freer Practice - Write Two Tone-Improved Emails
+
+Open-ended. Strong responses should keep the original purpose but remove blame, emotional language, and abrupt wording while preserving a clear request or next step.
+
+##### F. Editing Practice - Keep the Meaning, Change the Tone
+
+Possible model:
+
+> It appears that some information in the current version may not be correct. This is causing delays for our team. Could you please review it and send a corrected version?
+
+##### F. Editing Practice - Tone Revision Paragraph
+
+Possible model:
+
+> The applicant submitted a different file from the one requested. As a result, the review has been delayed. We may need to explain the required format again so the next version can be processed more smoothly.
+
+##### G. Self-Check and Reflection
+
+Open-ended. Reflection should help students identify which tone problem is hardest to revise and how tone choices should change for different readers while still keeping the message useful.
+
+##### H. Homework & Extension - Tone Choice for Two Readers
+
+Open-ended. The first H task should compare a colleague-facing version and an outside-reader version of the same message, then explain what changed and why. The homework task should then apply the unit's tone strategies to one real or scenario-based email.
 
 #### Module 5 Review Workshop
 
 **Revision Comparison / Review Response:** Version B is stronger. It is more accurate because it describes the file problem without accusation, clearer because it names the requested action, and stronger in tone because it uses a polite request linked to the review purpose. A successful student response should mention accuracy, clarity, and tone.
 
-**Revision Lab:** Model answer is printed in the student book after the exercise. Key improvements:
+**Revision Lab possible model:**
+
+> The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
+
+Key improvements:
 
 - Made the problem more precise.
 - Separated the problem from the requested action.
