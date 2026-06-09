@@ -6898,12 +6898,12 @@ By the end of this unit, I will be able to:
 - produce a new final document that matches the portfolio standard.
 - review my writing for accuracy, clarity, tone, coherence, and conciseness.
 
-### A. What Is a Writing Portfolio?
+### A. Warm-Up
 
-::: learn
-Definition
+::: structure
+Warm-Up: Build Your Portfolio Set
 
-A writing portfolio is a collection of your **best revised work**, showing your full range of skills.
+A writing portfolio is a collection of your **best revised work**. It should show range, revision quality, and professional control across different writing jobs.
 
 In this unit, your portfolio will contain:
 
@@ -6912,57 +6912,42 @@ In this unit, your portfolio will contain:
 3. **One paragraph for a report** (revised and final)
 4. **One new document created in Unit 23**
 
-Your final submission should show:
+Look back at your writing from Units 1-22. Choose the three earlier drafts you want to revise for your portfolio:
 
-- Clear structure
-- Accurate grammar
-- Professional tone
-- Logical flow
-- Concise style
-- Consistency across documents
-:::
+1. one email
+2. one paragraph
+3. one short notice, message, or internal explanation
 
-#### A. Warm-Up
-
-::: structure
-Warm-Up: Select Your Drafts
-
-Look back at your writing from Units 1-22.
-Choose **three drafts** you want to improve:
-
-1. One email (internal or external)
-2. One paragraph (explanation, summary, procedure, or problem description)
-3. One short notice or message
-
-Write the titles or sources of the drafts you chose:
-1.
-2.
-3.
+Write the titles or sources of the drafts you chose.
+{{PH-1: U23-warmup-draft-selection | rows=5}}
 :::
 
 ### B. Example Check
 
 ::: learn
-Why Portfolio Revision Matters
+What a Strong Portfolio Shows
 
-A portfolio is not only a collection of old drafts.
-It should show that you can:
+A portfolio is not only a folder of old drafts. It should show that you can:
 
-- notice problems
-- improve a draft
+- notice problems in earlier writing
+- improve a document for a real reader
 - choose the right tone and structure
-- produce a final usable version
+- produce final versions that feel usable
 
-**Why this works**
+Choose **two priorities** you most want your portfolio to show. Write one short reason for each choice.
 
-Revision shows professional control.
-A strong final version proves that the writer can improve a document for a real reader, not only write a first draft.
+1. revision quality
+2. audience and tone control
+3. clear structure and flow
+4. consistent professional style
+
+{{PH-1: U23-portfolio-priorities | rows=4}}
 :::
 
 ### C. Language
 
 ::: language
-Advanced Editing Checklist
+Portfolio Revision Checklist
 
 Before revising your drafts, check for:
 
@@ -6994,29 +6979,30 @@ Before revising your drafts, check for:
 ::: learn
 Final Revision Order
 
+Use this order each time you revise:
+
 1. check accuracy
 2. check clarity and flow
 3. check tone for the reader
 4. check formatting and consistency
 :::
 
+### D. Guided Practice
+
 ::: revise
-Practice A: Edit a Draft Email
+Guided Revision Set
+
+Revise three earlier pieces for your portfolio. Use the checklist in Activity C each time.
+
+**1. Revise one email**
 
 Choose **one email** from your previous work.
 Rewrite it to meet portfolio standards. Choose one that is meant for a clear reader such as an applicant, colleague, supervisor, team, or outside office.
 
-**Original email:**
-
-**Revised email:**
-:::
-
-**Revised Email**
-
+Write the revised version below.
 {{PH-3: U23-practice-a-email | rows=6}}
 
-::: revise
-Practice B: Edit a Paragraph
+**2. Revise one paragraph**
 
 Choose **one paragraph** from earlier units.
 Rewrite it using your full editing skills. Choose one explanation, summary, procedure, or report-style paragraph.
@@ -7035,17 +7021,10 @@ Revision focus:
 - connect supporting details to that main point
 - remove wording that sounds casual, repetitive, or unfocused
 
-**Original paragraph:**
-
-**Revised paragraph:**
-:::
-
-**Revised Paragraph**
-
+Write the revised version below.
 {{PH-2: U23-practice-b-paragraph | rows=6}}
 
-::: revise
-Practice C: Edit a Notice or Short Message
+**3. Revise one notice or short message**
 
 Choose **one notice or message** from previous units.
 Rewrite it clearly and professionally. Choose one short text with a clear internal or external audience. Use this quick editing routine:
@@ -7061,32 +7040,14 @@ Mini edit test:
 - Does the message sound neutral and workplace-appropriate?
 - Would the reader know what to do next?
 
-**Original message:**
-
-**Revised message:**
-:::
-
-**Revised Message**
-
+Write the revised version below.
 {{PH-2: U23-practice-c-message | rows=6}}
-
-### F. Self-Check Before Final Submission
-
-::: edit
-Final Submission Check
-
-Before you submit your portfolio, ask:
-
-- [ ] Does each document match its reader and purpose?
-- [ ] Did I improve accuracy, clarity, and tone?
-- [ ] Are the final versions consistent in formatting and style?
-- [ ] Does the new Unit 23 document fit the rest of the portfolio?
 :::
 
-### E. Portfolio Assembly Board
+### E. Freer Practice
 
 ::: structure
-Assembly Board
+Portfolio Assembly Board
 
 Use this board before creating the final set.
 
@@ -7109,10 +7070,8 @@ Before finalizing, check:
 - Does the new Unit 23 document add a skill the earlier pieces do not already show?
 :::
 
-### D. Guided Practice
-
 ::: write
-Guided Practice: Create a New Document
+Create a New Portfolio Document
 
 Write **one new document** based on a scenario below.
 Choose ONE:
@@ -7122,19 +7081,12 @@ Choose ONE:
 - A short external inquiry email to another office (5-6 sentences)
 - A problem explanation for an internal report (6-8 sentences)
 
-Write your new document:
-
-Use this box for one complete version.
+Write your new document below.
+{{PH-3: U23-guided-document | rows=10}}
 :::
 
-**Write Here**
-
-{{PH-3: U23-guided-document | rows=10}}
-
-#### E. Final Portfolio Submission
-
 ::: structure
-Submission Task
+Final Portfolio Submission
 
 Your final portfolio should contain **four items**:
 
@@ -7164,35 +7116,7 @@ Short submission check:
 3. Did I revise, not just copy, the earlier texts?
 4. Does the new document match the quality of the revised pieces?
 
-Portfolio quality reminder:
-
-- the set should show range, not repetition
-- each document should feel finished enough to keep in a real workplace file set
-- the new Unit 23 piece should not feel weaker than the revised earlier pieces
-:::
-
-#### F. Portfolio Balance Check
-
-::: structure
-Balance Check
-
-Before submission, test whether the portfolio really shows range.
-
-| Check question | Yes / No |
-| --- | --- |
-| Does the set include more than one audience type? |  |
-| Does at least one piece explain a problem or status clearly? |  |
-| Does at least one piece ask for or guide action? |  |
-| Does at least one piece show revision from a weaker earlier draft? |  |
-| Does the new Unit 23 document add a fresh skill rather than repeat the easiest earlier task? |  |
-
-**If you answer No to any item**
-
-Do not only polish sentence-level grammar.
-Replace the weakest piece or rebuild it so the portfolio shows a wider professional range.
-
-Write each document in its own box.
-:::
+Write each final document in its own box.
 
 **Revised External Email**
 
@@ -7209,11 +7133,12 @@ Write each document in its own box.
 **New Unit 23 Document**
 
 {{PH-4: U23-portfolio-new-document | rows=12}}
+:::
 
-### G. Capstone Rebuild Routine
+### F. Editing Practice
 
-::: revise
-Rebuild Routine
+::: edit
+Rebuild the Weakest Piece
 
 If one portfolio item still feels weaker than the rest, do not only proofread it.
 Run this short rebuild routine:
@@ -7229,12 +7154,30 @@ Run this short rebuild routine:
 What is this document supposed to help the reader do next?
 
 If that answer is not obvious, the document still needs revision even if the grammar looks acceptable.
+
+Write a short revision note for that piece:
+
+- one problem in the original draft
+- how you revised it
+- why the new version works better for the reader
+{{PH-2: U23-editing-rewrite | rows=6}}
 :::
 
-#### F. Portfolio Review Rubric
+### G. Self-Check and Reflection
+
+::: edit
+Final Submission Check
+
+Before you submit your portfolio, ask:
+
+- [ ] Does each document match its reader and purpose?
+- [ ] Did I improve accuracy, clarity, and tone?
+- [ ] Are the final versions consistent in formatting and style?
+- [ ] Does the new Unit 23 document fit the rest of the portfolio?
+:::
 
 ::: structure
-Review Rubric
+Portfolio Review Rubric
 
 Use this rubric to check your final portfolio. Mark each criterion as:
 
@@ -7251,33 +7194,24 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 | Key information and next steps | Did I include the needed background, main point, and next action or outcome where needed? | Units 6, 10, 11, 13, 20 |
 | Consistency and revision quality | Did I improve earlier drafts and keep a consistent professional style across the whole portfolio? | Units 15, 18, 21 |
 
-Your teacher or reviewer can use a companion marking note aligned to this rubric.
+Use the checklist and rubric together. If any area is still weak, rebuild that document before final submission.
 :::
-
-#### G. Editing Practice
-
-::: edit
-Editing Practice: Explain One Revision Decision
-
-Choose one document from your portfolio.
-
-Write:
-
-- [ ] one problem in the original draft
-- [ ] how you revised it
-- [ ] why the new version works better for the reader
-
-Write the full corrected version below.
-:::
-
-**Write Your Revised Version**
-
-{{PH-2: U23-editing-rewrite | rows=2}}
-
-### H. Transfer Extension
 
 ::: write
-Transfer Extension: Next-Time Writing Plan
+Reflection
+
+Reflect on this unit.
+
+1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
+2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
+3. Which revision habit from this course should become part of your real workplace writing routine from now on?
+{{PH-1: U23-reflection | rows=6}}
+:::
+
+### H. Homework & Extension
+
+::: write
+Extension: Next-Time Writing Plan
 
 Write a short plan for future workplace writing.
 
@@ -7288,33 +7222,15 @@ Include:
 - one area you still want to improve
 
 Write one sentence on each line where possible.
-:::
-
-**Write Here**
-
 {{PH-1: U23-transfer-response | rows=4}}
-
-#### F. Reflection
-
-::: write
-Reflect on This Unit
-
-1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
-2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
-3. Which revision habit from this course should become part of your real workplace writing routine from now on?
 :::
 
-#### H. Homework
-
 ::: write
-Final Course Task
+Homework: Final Course Task
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.
-:::
-
-**Homework Draft**
-
 {{PH-3: U23-homework-document | rows=8}}
+:::
 
 ## Module 6 Review Workshop
 

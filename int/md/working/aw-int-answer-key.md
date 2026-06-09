@@ -1719,12 +1719,28 @@ Open-ended. The extension task should check whether the same core facts stay ali
 
 _All exercises use the student's own previous writing as source material. No fixed model answers apply._
 
-**Instructor assessment guidance:**
-- Has the student improved accuracy (grammar, articles, tense)?
-- Is the revised version clearer and better organised than the original?
-- Does the tone match the stated audience (external, internal, colleague, supervisor)?
-- Are formatting and structure consistent across portfolio pieces?
-- Does the new Unit 23 document fit the standard set by the rest of the portfolio?
+**A. Warm-Up:** Students should select one earlier email, one earlier paragraph, and one earlier notice / message / internal explanation. The set should give the student a workable spread of reader, purpose, and document type rather than three very similar pieces.
+
+**B. Example Check:** Open-ended. A strong response should identify two priorities such as revision quality, audience control, clear structure, or consistent professional style, and should explain why those priorities matter for a final portfolio.
+
+**C. Language:** Students should use the revision categories in this order: accuracy, clarity and flow, tone for the reader, then formatting and consistency. Teachers should encourage students to apply the same sequence across all portfolio pieces.
+
+**D. Guided Practice:** Open-ended. The revised email, paragraph, and message should each be stronger than the original source piece. Look for clearer reader awareness, more direct organization, better tone control, and more complete next-step logic where needed.
+
+**E. Freer Practice:** Open-ended. A successful Unit 23 document should match the standard of the revised earlier pieces and should not repeat the weakest or easiest earlier writing job. The final four-piece portfolio should show:
+
+- one revised external-style email
+- one revised internal explanation or notice
+- one revised report-style paragraph
+- one new Unit 23 document
+- visible range across reader, purpose, and writing job
+- consistent professional formatting and tone
+
+**F. Editing Practice:** Open-ended. The revision note should name one real weakness in the original draft, explain the revision made, and show why the new version works better for the reader or document purpose.
+
+**G. Self-Check and Reflection:** Self-check and reflection only. A strong reflection should connect one clear improvement to a specific editing decision and should identify one revision habit the student can carry into future workplace writing.
+
+**H. Homework & Extension:** Open-ended. The extension plan should identify one strength, one editing habit to keep using, and one area for further improvement. The homework task should show a genuine third revision, not just a copied second version with very small grammar edits.
 
 
 #### Module 6 Review Workshop
