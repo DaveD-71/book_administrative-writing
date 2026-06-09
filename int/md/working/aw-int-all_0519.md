@@ -246,7 +246,7 @@ Write a short message to the applicant in **3-4 clear sentences**. Include:
 ::: edit
 Fix the Reader Problem
 
-It is sometimes difficult for the reader to understand fully the writer's intended message.
+Sometimes the reader cannot understand the message clearly.
 
 Common problem types:
 
@@ -637,9 +637,9 @@ Then write short notes about:
 ::: write
 Homework Task
 
-Find one English email you received that had a **very polite** or **not polite** tone. Do not copy private information. Make brief notes:
+Find one English email you received that had a **very polite** tone or a tone that sounded **too direct**. Do not copy private information. Make brief notes:
 
-- What part sounded polite or not polite?
+- What part sounded polite or too direct?
 - How would you rewrite it in a more professional way?
 
 If you do not want to use a real email, use the weak email in Activity D or one of the Activity E situations instead.
@@ -969,7 +969,7 @@ Write one short internal message of **5-6 sentences**. Include:
 
 - two clear sentences that show Unit 1 sentence control
 - one polite request or explanation that shows Unit 2 tone control
-- one short paragraph structure that shows Unit 3 organisation
+- one clear paragraph with a topic, support, and closing that shows Unit 3 organisation
 
 {{PH-2: M1-transfer-message | rows=8}}
 
@@ -1174,7 +1174,6 @@ Common openings include:
 - Dear Mr./Ms. [Name],
 - Dear Team,
 - Thank you for your email.
-- I hope you are well.
 
 Common closings include:
 
@@ -2696,7 +2695,7 @@ A temporary system error occurred this morning. Some users may have experienced 
 ::: learn
 Internal Notice Basics
 
-A **notice** is a short message shared inside a department or organization. It gives important information, explains updates or changes, and uses neutral language.
+A **notice** is a short message shared inside a department or organisation. It gives important information, explains updates or changes, and uses neutral language.
 :::
 
 ::: learn
@@ -2839,7 +2838,7 @@ Write a short internal notice. Include:
 ::: write
 Write Two Notices
 
-Choose two situations and write two internal notices for colleagues inside your organization.
+Choose two situations and write two internal notices for colleagues inside your organisation.
 
 A. A scheduled meeting time has changed for your team.
 
@@ -3429,7 +3428,7 @@ If you revise one of your own summaries, make the key point and next step easier
 Core Takeaways
 
 - Unit 8: A procedure succeeds when each step is visible, ordered, and easy for a new reader to follow.
-- Unit 9: A notice works when it explains the change, the reason, and the action the reader must take.
+- Unit 9: A notice works when it explains the change, the reason, and what happens next.
 - Unit 10: A problem explanation becomes more useful when it separates the problem, cause, effect, and current action.
 - Unit 11: A meeting summary should help future action, not simply repeat the meeting in time order.
 :::
@@ -3620,7 +3619,7 @@ Thank you.
 ::: learn
 External Inquiry Basics
 
-A **clarification** is information that makes an unclear point clear. An external inquiry is a polite email sent to another organization to ask for information or clarification. It should give enough background for the reader and ask one clear question.
+A **clarification** is information that makes an unclear point clear. An external inquiry is a polite email sent to another organisation to ask for information or clarification. It should give enough background for the reader and ask one clear question.
 :::
 
 ### B. Example Check
@@ -3732,7 +3731,7 @@ Include a specific subject line, polite greeting, brief background, one clear qu
 ::: write
 Write Two External Inquiry Emails
 
-Choose two situations below. For each one, write a short email from your office to another office or organization that can answer the question in **3-4 sentences**.
+Choose two situations below. For each one, write a short email from your office to another office or organisation that can answer the question in **3-4 sentences**.
 
 A. You need clarification about a new applicant requirement.
 
@@ -3961,6 +3960,7 @@ Facts:
 - The attached files do not match the information in the system.
 - The correct version must be confirmed before the next review stage.
 - The review may take longer than planned.
+- Your team is now confirming which file version is correct.
 
 Include background, issue, reason, effect, and current status.
 
@@ -5786,14 +5786,14 @@ The five units ask learners to manage more than one document, reader, or revisio
 - Unit 20 develops revision combined with new writing — improving an existing draft while producing a related notice.
 - Unit 21 addresses writing for consistency across a team — aligning the style and structure of multiple writers into one shared standard.
 - Unit 22 extends to multi-document communication — managing email, explanation, and notice as a connected set for different readers.
-- Unit 23 is the portfolio and final revision unit — reviewing a selection of writing from the whole book and explaining revision decisions.
+- Unit 23 is the portfolio and final revision unit — reviewing a selection of writing from the whole book and explaining key revision choices.
 
 By the end of this module, you should be able to:
 
 - produce connected documents for different readers from one scenario
 - control the differences between external, internal, and team-facing communication
 - standardise multiple drafts into one clear team style
-- review a small portfolio of writing and explain revision decisions
+- review a small portfolio of writing and explain key revision choices
 
 When you use this module, do not skip the support layer:
 
@@ -5885,7 +5885,7 @@ Writing for Two Audiences
 - Further updates will follow once...
 :::
 
-If the two texts sound almost the same, the audience control is probably too weak.
+If the two texts sound almost the same, the reader focus is probably too weak.
 
 ::: rewrite
 Practice A: Rewrite for Audience & Tone
@@ -5969,7 +5969,7 @@ Reader-purpose reminder:
 ### E. Freer Practice
 
 ::: structure
-Plan the Reader Control
+Plan for Each Reader
 
 Before writing the full pair, note the same situation in two different ways.
 
@@ -5981,7 +5981,7 @@ Before writing the full pair, note the same situation in two different ways.
 | Detail that this reader needs most |  |  |
 | Next step to mention |  |  |
 
-Writers often lose audience control because they start drafting too quickly.
+Writers often lose reader focus because they start drafting too quickly.
 This board slows the decision down just enough to keep the two texts linked but not identical.
 :::
 
@@ -6383,7 +6383,6 @@ Clear team standards help:
 - tone level
 - structure of the body
 - formatting basics
-:::
 
 ::: example-bad
 Email A
@@ -6408,6 +6407,7 @@ Thank you.
 Write the inconsistencies you notice.
 
 {{PH-1: U21-warmup-response | rows=5}}
+:::
 
 ### B. Example Check
 
@@ -6511,6 +6511,8 @@ Mini standard:
 {{PH-2: U21-practice-b-standardise | rows=6}}
 :::
 
+### E. Freer Practice
+
 ::: rewrite
 Rewrite Three Short Messages
 
@@ -6531,8 +6533,6 @@ The applicant file is strange. Please check.
 
 {{PH-3: U21-guided-document | rows=10}}
 :::
-
-### E. Freer Practice
 
 ::: rewrite
 Rewrite Two Related Messages to One Standard
@@ -6795,14 +6795,14 @@ Think about what the wider team needs most:
 You can use this pattern:
 
 1. topic or heading
-2. corrected information
+2. key issue
 3. action or reminder for staff
 
 Mini notice reminder:
 
-- Schedule Correction: Stage 2 Review Date
-- The correct date for Stage 2 document verification is 27 May, not 24 May.
-- Please use the corrected date in all team messages and checklist updates.
+- Team Notice: Missing Applicant Document
+- One required document is still missing from the applicant's file.
+- The review will continue after the missing document is received and checked.
 
 {{PH-3: U22-guided-internal-notice | rows=10}}
 :::
@@ -6892,14 +6892,14 @@ After writing and revising, check:
 - [ ] Does each document have a different job?
 - [ ] Are the shared facts consistent across all three?
 - [ ] Is the tone right for each audience?
-- [ ] Did I stop the three texts from collapsing into one message type?
+- [ ] Did I keep the three texts from sounding too similar?
 :::
 
 ::: write
 Reflect on This Unit
 
 1. Which of the three audiences required the biggest adjustment in tone or detail?
-2. Which two documents were easiest to separate clearly, and which pair was hardest not to let collapse into one message type?
+2. Which two documents were easiest to separate clearly, and which pair was hardest to keep separate?
 3. What planning step would help you control consistency across all three documents next time?
 
 {{PH-1: U22-reflection | rows=5}}
@@ -6940,12 +6940,12 @@ By the end of this unit, I will be able to:
 - revise earlier writing to a higher standard.
 - choose portfolio pieces that show different administrative writing skills.
 - produce a new final document that matches the portfolio standard.
-- review my writing for accuracy, clarity, tone, coherence, and conciseness.
+- review my writing for accuracy, clarity, tone, clear connections, and concise wording.
 
 ### A. Warm-Up
 
 ::: structure
-Warm-Up: Build Your Portfolio Set
+Build Your Portfolio Set
 
 A writing portfolio is a collection of your **best revised work**. It should show range, revision quality, and professional control across different writing jobs.
 
@@ -7009,12 +7009,12 @@ Before revising your drafts, check for:
 - Polite, neutral, professional
 - Appropriate for audience (external, internal, colleague)
 
-**Coherence**
+**Clear connections**
 
 - Clear connections between ideas
 - Logical flow
 
-**Conciseness**
+**Concise wording**
 
 - Remove unnecessary repetition
 - Avoid long or wordy expressions
@@ -7144,7 +7144,7 @@ Each item must:
 - Use accurate grammar
 - Be clear and concise
 - Have professional tone
-- Show coherence and consistent formatting
+- Show clear connections and consistent formatting
 
 Before you submit, confirm that the four items show a useful range of skills:
 
@@ -7233,7 +7233,7 @@ Use this rubric to check your final portfolio. Mark each criterion as:
 | --- | --- | --- |
 | Task completion | Did I include all four required portfolio items, and does each document match its purpose? | Units 4, 9, 11, 12, 22 |
 | Audience and tone | Does each piece match its reader and sound professional? | Units 2, 12, 14, 18, 22 |
-| Clarity and organization | Is each document easy to follow, with a clear main point and logical order? | Units 1, 3, 10, 17 |
+| Clarity and organisation | Is each document easy to follow, with a clear main point and logical order? | Units 1, 3, 10, 17 |
 | Accuracy and control | Are grammar, word forms, sentence structure, and punctuation accurate enough for workplace writing? | Units 1, 16 |
 | Key information and next steps | Did I include the needed background, main point, and next action or outcome where needed? | Units 6, 10, 11, 13, 20 |
 | Consistency and revision quality | Did I improve earlier drafts and keep a consistent professional style across the whole portfolio? | Units 15, 18, 21 |
@@ -7247,7 +7247,7 @@ Reflection
 Reflect on this unit.
 
 1. Which portfolio item improved the most after revision, and what specific editing decision caused that improvement?
-2. Which skill area now feels strongest in your work: accuracy, clarity, tone, audience control, or document structure? Why?
+2. Which skill area now feels strongest in your work: accuracy, clarity, tone, reader focus, or document structure? Why?
 3. Which revision habit from this course should become part of your real workplace writing routine from now on?
 {{PH-1: U23-reflection | rows=6}}
 :::
