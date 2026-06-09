@@ -85,15 +85,9 @@ For a clear sentence:
 
 ### B. Example Check
 
-Look again at the three pairs in the warm-up.
-
-The clearer sentence usually improves one or more of these points: the **main subject** appears earlier, the **main action** is expressed by a simple verb, extra information is kept shorter, and the reader can understand the message in one reading.
-
-::: notice
-Compare
-
-Look at the second pair of sentences from the Warm-Up again.
-:::
+Look at the second pair from the Warm-Up again.
+Compare the weaker and stronger versions.
+Notice how the clearer version shows the main action earlier.
 
 ::: example-bad
 Weak
@@ -178,13 +172,12 @@ Rewrite the word groups as clear SVO or SVC sentences.
 ::: learn
 Simplification Strategies
 
-Administrative English should be **short, direct, and clear**. Three common ways to simplify a sentence are:
+Administrative English should be **short, direct, and clear**.
+Use these three moves when you simplify a sentence:
 
 1. Change long formal openings to direct verbs.
 2. Cut extra explanation that the reader does not need.
 3. Move the main action closer to the subject.
-
-These strategies help the reader find the main point quickly. When you simplify a sentence, you are not making it "less professional." You are making it **more useful** for the reader.
 :::
 
 ::: rewrite
@@ -262,7 +255,9 @@ C. Passive or indirect wording
 
 D. Unnecessary purpose phrase
 
-Each sentence below has a common clarity problem. First label the problem with A-D from the list above. Then rewrite the sentence so the reader can understand the point more easily.
+Each sentence below has one clarity problem.
+First label it with A-D from the list above.
+Then rewrite it so the main point is easier to understand.
 
 1. The file, which was sent by the applicant after the meeting that was held on Monday, is now being checked by our office. (____)
 
@@ -453,12 +448,7 @@ Use these questions about different points in tone to check whether a workplace 
 | Clear | The message is not too long or complicated. | Does it tell the reader what they need to know? |
 | Neutral | The message is not emotional or blaming. | Does it avoid emotional or blaming language? |
 | Respectful | The message is polite and calm. | Does it sound calm enough to send at work? |
-:::
-
-::: learn
-Why Tone Matters
-
-A professional message helps the reader receive your message calmly. If a message sounds too direct, the reader may focus on the tone instead of the information. If a message sounds calm and clear, the reader can focus on what is needed, what needs to be checked, and what happens next.
+A calm professional message helps the reader focus on the information instead of the tone.
 :::
 
 ::: rewrite
@@ -917,17 +907,15 @@ Read the weak draft. Then improve it in three steps: split the long sentence int
 {{PH-2: M1-revision-lab | rows=8}}
 :::
 
-::: example-good
-Possible Stronger Version
+::: learn
+Check Your Revision
 
-We checked your application yesterday. At present, we need one more piece of information before the review can continue.
+After you revise, check these three points:
 
-Could you please send the missing information by Thursday?
-
-Thank you for your cooperation.
+- Does each sentence have one clear job?
+- Does the request sound cooperative?
+- Does the final sentence show the next step clearly?
 :::
-
-This version is stronger because each sentence has one clear job, the request sounds cooperative rather than pressuring, and the paragraph ends with a visible next step.
 
 ### Self-Edit Routine
 
@@ -2614,9 +2602,6 @@ Original Procedure
 3. Send it later.
 :::
 
-::: edit
-Write your revised procedure here:
-
 {{PH-2: U08-editing-rewrite | rows=6}}
 :::
 
@@ -3366,9 +3351,6 @@ Original Summary
 
 We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
 :::
-
-::: edit
-Write your revised summary here:
 
 {{PH-2: U11-editing-rewrite | rows=6}}
 :::
@@ -4231,9 +4213,6 @@ Original Response
 You misunderstood the message. We already explained this rule before, so please read it again carefully.
 :::
 
-::: edit
-Write your revised response here:
-
 {{PH-2: U14-editing-rewrite | rows=6}}
 :::
 
@@ -4878,9 +4857,6 @@ Hi,
 I check the document yesterday and it have some mistake. The informations in section 2 is not correct and applicant no submit the signature. Please fix it. Thank you.
 :::
 
-::: edit
-Write your revised email here:
-
 {{PH-3: U16-guided-document | rows=10}}
 :::
 
@@ -5175,9 +5151,6 @@ Original Paragraph
 
 The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 :::
-
-::: edit
-Write your revised paragraph here:
 
 {{PH-2: U17-guided-paragraph | rows=8}}
 :::
@@ -5501,9 +5474,6 @@ Subject: Form
 Hi,
 The applicant did not follow the instructions again. This is causing problems for us. Fix the form and send it back quickly.
 :::
-
-::: edit
-Write your revised email here:
 
 {{PH-3: U18-guided-document | rows=10}}
 :::
@@ -6468,19 +6438,13 @@ Rewrite these sentences/emails to make them consistent with team standards.
 {{PH-1: U21-C-rewrite-3 | rows=2}}
 :::
 
-::: example-bad
-Original
-
-Subject: Document
-Hey, I don't think this is right. Check it and tell me.
-:::
-
 ### D. Guided Practice
 
 ::: rewrite
 Standardise Format & Tone
 
-Rewrite the email with correct formatting, tone, and clarity. Use one shared team pattern:
+Read the draft email below.
+Rewrite it with correct formatting, tone, and clarity. Use one shared team pattern:
 
 - clear subject line
 - short professional greeting
@@ -6497,6 +6461,17 @@ Mini standard:
 - Purpose: one direct sentence near the top
 - Detail: one supporting fact or request
 - Closing: neutral and consistent
+:::
+
+::: example-bad
+Original Draft
+
+Subject: Document
+Hey, I don't think this is right. Check it and tell me.
+:::
+
+::: rewrite
+Revised Email
 
 {{PH-2: U21-practice-b-standardise | rows=6}}
 :::
@@ -6938,6 +6913,8 @@ By the end of this unit, I will be able to:
 Build Your Portfolio Set
 
 A writing portfolio is a collection of your **best revised work**. It should show range, revision quality, and professional control across different writing jobs.
+
+This opening task prepares the three earlier pieces before you build the full portfolio set.
 
 In this unit, your portfolio will contain:
 
