@@ -2967,3 +2967,13 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - a student-facing `Activity Guide` for the active div-class set used in the INT book
 - Final adjustment:
   - reordered the activity-class descriptions alphabetically so the guide is easier to scan
+
+### 2026-06-09T00:00:00+09:00 - Example Div `No Title` Candidate Audit Added
+
+- Added:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_example_div_notitle_candidate_audit_0609.md`
+- Scope:
+  - reviewed all INT `example`, `example-good`, and `example-bad` divs against the new `textmaker` hidden-label behavior for `No Title`
+- Outcome:
+  - identified 36 example blocks whose visible title is redundant and can be safely replaced with `No Title`
+  - excluded paired visible comparison labels such as `Version A / Version B`, `Email A / Email B`, and the current Unit 1 `Weak / Stronger` pair because those still serve a live identification role in the local activity flow

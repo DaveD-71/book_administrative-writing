@@ -503,7 +503,7 @@ Use these phrases when you need to give information, ask a question, or refer to
 Read the email below. Why is it weak?
 
 ::: example-bad
-Original Email
+No Title
 
 Hi,
 You didn't send the right file.
@@ -683,7 +683,7 @@ Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph s
 Three-Part Paragraph Structure
 
 ::: example-good
-Example of Paragraph Structure
+No Title
 
 We reviewed the applicant's file yesterday (T). During the review, we found that two pages were missing (S). One form was also incomplete (S). These issues will be recorded before the next review stage begins (C).
 :::
@@ -720,7 +720,7 @@ A paragraph should follow one clear path. Before you write, decide the main poin
 :::
 
 ::: example
-Review Summary Example
+No Title
 
 We reviewed the payment records this morning. During the review, we found that one receipt was missing from the file. This missing receipt should be noted before the monthly summary is completed.
 :::
@@ -795,7 +795,7 @@ Repair the Paragraph Logic
 This paragraph has one unrelated sentence and one missing closing point.
 
 ::: example-bad
-Original
+No Title
 
 The file review started this morning. The office printer will be replaced next week. Two sections of the form were incomplete. These missing sections may delay the next stage.
 :::
@@ -894,7 +894,7 @@ Write **2-3 sentences** explaining which version is stronger. Mention sentence c
 ### Revision Lab
 
 ::: example-bad
-Weak Draft
+No Title
 
 We checked your application yesterday and there are some problems and we need more information and also the office is busy now so please reply quickly because the review cannot continue.
 :::
@@ -1268,7 +1268,7 @@ Read the email below. Rewrite it using the six-part email structure from Activit
 :::
 
 ::: example-bad
-Original Email
+No Title
 
 Subject: Help
 
@@ -1790,7 +1790,7 @@ A clear update message usually follows this pattern:
 :::
 
 ::: example-good
-Example Paragraph (Part of a Report or Update)
+No Title
 
 The review process will take longer than expected. Additional checks are required because two documents were incomplete. This delay may affect the planned schedule for the next stage. Further updates will be provided once the remaining documents are ready.
 :::
@@ -2283,7 +2283,7 @@ Write **2-3 sentences** explaining why Version B is easier for the reader to act
 ### Revision Lab
 
 ::: example-bad
-Weak Email
+No Title
 
 Subject: Document
 
@@ -2433,7 +2433,7 @@ A **procedure** is a set of steps that explains how to complete a task. Version 
 ### B. Example Check
 
 ::: example-good
-Procedure Example
+No Title
 
 Steps to create a new file record:
 
@@ -2583,7 +2583,7 @@ Rewrite the procedure so it becomes clearer and easier to follow. Use numbered s
 :::
 
 ::: example-bad
-Original Procedure
+No Title
 
 1. Check the file and maybe look at the applicant number too because this is important.
 2. If everything is okay then save it, but first rename it if necessary.
@@ -2717,7 +2717,7 @@ A clear internal notice usually includes:
 :::
 
 ::: example-good
-Example Notice
+No Title
 
 Internal Notice - Document Review Schedule
 The document review for this month will begin on 16 April. Teams may receive requests for additional information during this period. A summary of the review results will be shared in early May.
@@ -2841,7 +2841,7 @@ For each notice, include a clear heading, short background, essential informatio
 ### F. Editing Practice
 
 ::: example-bad
-Original
+No Title
 
 Notice
 
@@ -3108,7 +3108,7 @@ In each explanation, include the issue, the effect, and the current status. Add 
 ### F. Editing Practice
 
 ::: example-bad
-Original
+No Title
 
 There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
 :::
@@ -3212,7 +3212,7 @@ A useful meeting summary records only the important points, separates decisions 
 ### B. Example Check
 
 ::: example
-Meeting Summary Example
+No Title
 
 Meeting Summary - Review Preparation Meeting
 
@@ -3335,7 +3335,7 @@ Rewrite the summary so it becomes clearer for a colleague who missed the meeting
 :::
 
 ::: example-bad
-Original Summary
+No Title
 
 We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
 :::
@@ -3432,7 +3432,7 @@ Write **2-3 sentences** explaining which version is stronger. Mention reader pur
 ### Revision Lab
 
 ::: example-bad
-Weak Notice
+No Title
 
 The office will use a different room next week. There were some schedule problems and some people may need to move. Please understand.
 :::
@@ -3589,7 +3589,7 @@ A **clarification** is information that makes an unclear point clear. An externa
 ### B. Example Check
 
 ::: example
-Inquiry Email Example
+No Title
 
 Subject: Inquiry Regarding Updated Application Guidelines
 
@@ -3719,7 +3719,7 @@ Include a specific subject line, brief background, one clear question, and a pol
 ### F. Editing Practice
 
 ::: example-bad
-Original
+No Title
 
 Subject: Question
 
@@ -3960,7 +3960,7 @@ Include background, the main issue, and the reason or effect in each explanation
 ### F. Editing Practice
 
 ::: example-bad
-Original
+No Title
 
 The document cannot be accepted. There is a problem with one section. The process will change.
 :::
@@ -4068,7 +4068,7 @@ When a reader is confused, the response should make the unclear point clear. A g
 ### B. Example Check
 
 ::: example-good
-Clarification Response Example
+No Title
 
 Thank you for your question. To clarify, the updated instructions apply only to applications submitted after 1 June. Applications from earlier months will follow the previous procedure. I hope this resolves the confusion.
 :::
@@ -4196,7 +4196,7 @@ Rewrite the response so it becomes clearer and more professional.
 :::
 
 ::: example-bad
-Original Response
+No Title
 
 You misunderstood the message. We already explained this rule before, so please read it again carefully.
 :::
@@ -4362,7 +4362,7 @@ Rewrite each email so the tone and structure are consistent.
 :::
 
 ::: example-bad
-Original
+No Title
 
 Subject: Question
 
@@ -4390,7 +4390,7 @@ Rewrite the email so the subject line, greeting, body, request, closing, and sig
 :::
 
 ::: example-bad
-Original Draft Email
+No Title
 
 Subject: Check
 
@@ -4539,7 +4539,7 @@ Write **2-3 sentences** explaining which version is stronger. Mention audience, 
 ### Revision Lab
 
 ::: example-bad
-Weak Response
+No Title
 
 You misunderstood the process. We already explained it before, so please read the instructions again and follow them correctly.
 :::
@@ -4838,7 +4838,7 @@ Rewrite the corrected, professional version.
 :::
 
 ::: example-bad
-Original Email
+No Title
 
 Subject: Form
 Hi,
@@ -4905,7 +4905,7 @@ For each one, explain:
 :::
 
 ::: example-bad
-Original
+No Title
 
 The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
 :::
@@ -5135,7 +5135,7 @@ Treat it as a draft update that a colleague wrote for internal use.
 :::
 
 ::: example-bad
-Original Paragraph
+No Title
 
 The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 :::
@@ -5184,7 +5184,7 @@ Rewrite the draft so it becomes clearer for an internal reader.
 :::
 
 ::: example-bad
-Original Draft
+No Title
 
 There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
 :::
@@ -5203,7 +5203,7 @@ Treat it as a draft internal paragraph that needs revision before it is shared.
 :::
 
 ::: example-bad
-Original Paragraph
+No Title
 
 We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
 :::
@@ -5456,7 +5456,7 @@ Treat it as a draft message that will be sent to an applicant or colleague after
 :::
 
 ::: example-bad
-Original Email
+No Title
 
 Subject: Form
 Hi,
@@ -5507,7 +5507,7 @@ Rewrite the draft so it stays clear but sounds more professional.
 :::
 
 ::: example-bad
-Original Draft
+No Title
 
 You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
 :::
@@ -5526,7 +5526,7 @@ Treat it as a draft internal note that needs a more neutral and professional ton
 :::
 
 ::: example-bad
-Original Paragraph
+No Title
 
 We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
 :::
@@ -5627,7 +5627,7 @@ Write **2-3 sentences** explaining which version is stronger. Mention accuracy, 
 ### Revision Lab
 
 ::: example-bad
-Weak Draft
+No Title
 
 The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
 :::
@@ -5889,7 +5889,7 @@ You can use this simple frame:
 4. The next step will be ...
 
 ::: example
-Reader-purpose reminder:
+No Title
 
 - External email: asks the outside office for action or confirmation.
 - Internal explanation: helps colleagues understand the issue, the effect on the work, and the next internal step.
@@ -6452,7 +6452,7 @@ Mini standard:
 :::
 
 ::: example-bad
-Original Draft
+No Title
 
 Subject: Document
 Hey, I don't think this is right. Check it and tell me.
@@ -7274,7 +7274,7 @@ Write **2-3 sentences** explaining why Version B is stronger. Mention audience c
 ### Revision Lab
 
 ::: example-bad
-Single Weak Response
+No Title
 
 There is a document problem. Please send the correct form. We will also tell the team there is a delay and everyone should wait.
 :::
