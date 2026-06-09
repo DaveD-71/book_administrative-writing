@@ -24,9 +24,9 @@ div_content_style_map:
 
 ## Module Guide
 
-Module 1 builds the first control layer for the whole book. The goal is not only to write simple English, but to write English that is easy for a workplace reader to process quickly. Each unit therefore asks you to notice the difference between a weaker version and a stronger version, explain why the stronger version helps the reader, and revise your own writing before moving on.
+Module 1 gives you the basic writing skills for the rest of the book. In this module, you learn how to write clear sentences, use a professional tone, and build a paragraph that is easy to follow. Each unit asks you to compare a weaker version with a stronger version, explain why the stronger version helps the reader, and revise your own writing.
 
-The three units build from individual sentences to complete paragraphs:
+The three units move from individual sentences to complete paragraphs:
 
 - Unit 1 focuses on sentence structure — writing short, clear sentences that are easy for a workplace reader to process quickly.
 - Unit 2 develops professional tone — choosing language that sounds polite and appropriate for different workplace relationships.
@@ -37,6 +37,14 @@ By the end of this module, you should be able to:
 - write short sentences with a clear main message
 - choose tone that sounds polite and professional
 - organise one paragraph so the reader can follow the idea from start to finish
+
+Use each part of this module to help your writing:
+
+- compare the weaker and stronger examples
+- read the explanation about why the stronger version works
+- use the self-check before freer practice
+- use the editing practice to repair common reader problems
+- finish the transfer extension so the skill works in a new situation
 
 ## Unit 1. Clear Sentence Structure
 
@@ -77,13 +85,9 @@ For a clear sentence:
 
 ### B. Example Check
 
-::: notice
-Look at the Stronger Sentence
-
 Look again at the three pairs in the warm-up.
 
 The clearer sentence usually improves one or more of these points: the **main subject** appears earlier, the **main action** is expressed by a simple verb, extra information is kept shorter, and the reader can understand the message in one reading.
-:::
 
 ::: notice
 Compare
@@ -106,7 +110,7 @@ Please send the missing form as soon as possible.
 ::: learn
 Why This Works
 
-The stronger version works because the reader can see the action immediately:
+Version B works better because the reader can see the action immediately:
 
 1. **send**
 2. **the missing form**
@@ -376,20 +380,16 @@ Professional tone usually does three things. It:
 
 ### B. Example Check
 
-::: learn
-Why the Stronger Tone Works
+Read the two versions. Notice how one version asks for help without blaming the reader.
 
-Read the weak and stronger versions. Notice how the stronger version asks for help without blaming the reader.
-:::
-
-::: example-bad
-Weak
+::: example
+Version A
 
 I don't understand this. Explain it.
 :::
 
-::: example-good
-Stronger
+::: example
+Version B
 
 I'm not sure I understand this part. Could you explain it?
 :::
@@ -397,7 +397,7 @@ I'm not sure I understand this part. Could you explain it?
 ::: learn
 Why This Works
 
-The stronger version is better because it:
+Version B is better because it:
 
 - reduces pressure on the reader
 - sounds cooperative, not demanding
@@ -659,11 +659,7 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: notice
-Which Is a Better Paragraph?
-
 Read both paragraphs. Decide which one is **better organised**.
-:::
 
 ::: example
 Paragraph A
@@ -697,6 +693,7 @@ Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph s
 Three-Part Paragraph Structure
 
 ::: example-good
+Example of Paragraph Structure
 
 We reviewed the applicant's file yesterday (T). During the review, we found that two pages were missing (S). One form was also incomplete (S). These issues will be recorded before the next review stage begins (C).
 :::
@@ -880,21 +877,17 @@ Core Takeaways
 - Unit 3: A paragraph becomes easier to read when the topic, support, and closing work together instead of competing for attention.
 :::
 
-### Weak vs. Strong Review Case
-
-::: notice
-Compare the Versions
+### Review Case Comparison
 
 Read these two versions of the same message. Decide which version is easier to read quickly, tells the reader exactly what to do next, and uses a stronger paragraph structure.
-:::
 
-::: example-bad
+::: example
 Version A
 
 The office checked many things yesterday and there was also a discussion, and because of that your request is not complete and maybe you need to send more information soon.
 :::
 
-::: example-good
+::: example
 Version B
 
 We checked your request yesterday. At present, one required document is missing. Please send the missing document by Friday so that we can continue the review.
@@ -1001,7 +994,7 @@ If one of these still feels weak, return to the unit that teaches it and revise 
 
 ## Module Guide
 
-Module 2 turns the foundation skills from Module 1 into usable workplace email writing. The focus is not only email form, but reader guidance: the subject line, opening, request, explanation, and closing all need to help the reader understand purpose, action, and tone quickly. The units in this module work together, so you should keep comparing how message purpose changes the order, tone, and level of detail.
+Module 2 builds on Module 1 and focuses on workplace email writing. In this module, you learn how to write emails that are clear, polite, and easy to answer. As you move through the units, pay attention to how email purpose changes the order, tone, and level of detail.
 
 The four units move through progressively demanding email writing tasks:
 
@@ -1017,7 +1010,7 @@ By the end of this module, you should be able to:
 - explain delays or changes without creating confusion
 - choose polite request language that matches the relationship and context
 
-Use the module support actively:
+Use each part of this module to help your writing:
 
 - compare the example versions before you draft
 - use the "Why this works" notes to understand reader effect
@@ -1038,12 +1031,20 @@ By the end of this unit, I will be able to:
 ### A. Warm-Up
 
 ::: notice
-Which Email Is Better?
+What Makes an Email Clear?
 
-Read the two emails and choose which one is clearer and more professional.
+Before you compare full emails, think about what helps a professional email work well.
+
+Write two features that make an email clear and professional.
+
+{{PH-1: U04-warmup-response | rows=3}}
 :::
 
-::: example-bad
+### B. Example Check
+
+Read the two emails and choose which one is clearer and more professional.
+
+::: example
 Email A
 
 Subject: Question
@@ -1057,7 +1058,7 @@ Can you tell me what it means?
 Thanks,
 :::
 
-::: example-good
+::: example
 Email B
 
 Subject: Question About Application Form
@@ -1075,30 +1076,6 @@ Thank you,
 :::
 
 **Discussion:** Which email is more professional, and why?
-
-::: learn
-Basic Email Layout
-
-A professional email has a **clear structure** so that the reader can easily understand the purpose.
-
-1. **Subject line** - a short summary of the purpose
-2. **Greeting** - polite opening
-3. **Opening sentence** - main purpose of the email
-4. **Body** - details, explanation, or information
-5. **Closing sentence** - final point or next step (not a command)
-6. **Sign-off** - polite closing phrase + name
-:::
-
-::: learn
-Quick Email Check
-
-- Does the subject line show the topic clearly?
-- Does the first sentence tell the reader why you are writing?
-- Does the body give the needed detail or question?
-- Does the closing sound polite and professional?
-:::
-
-### B. Example Check
 
 ::: learn
 Why Email B Works Better
@@ -1123,6 +1100,28 @@ The reader should understand the purpose without guessing.
 :::
 
 ### C. Language
+
+::: learn
+Basic Email Layout
+
+A professional email has a **clear structure** so that the reader can easily understand the purpose.
+
+1. **Subject line** - a short summary of the purpose
+2. **Greeting** - polite opening
+3. **Opening sentence** - main purpose of the email
+4. **Body** - details, explanation, or information
+5. **Closing sentence** - final point or next step (not a command)
+6. **Sign-off** - polite closing phrase + name
+:::
+
+::: learn
+Quick Email Check
+
+- Does the subject line show the topic clearly?
+- Does the first sentence tell the reader why you are writing?
+- Does the body give the needed detail or question?
+- Does the closing sound polite and professional?
+:::
 
 ::: language
 Subject Lines
@@ -1340,7 +1339,7 @@ Build Two Purpose Lines
 
 This helps you practise separating the job of the subject line from the job of the opening sentence.
 
-For each situation below, write:
+For one situation below, write:
 
 1. a clear subject line
 2. a clear opening sentence
@@ -1410,28 +1409,24 @@ A strong clarification question asks for clearer information. It does three thin
 
 ### B. Example Check
 
-::: learn
-Why a Better Clarification Question Works
+Compare the two questions.
 
-Compare the weak and stronger questions.
-:::
-
-::: example-bad
-Weak
+::: example
+Question A
 
 What do you mean?
 :::
 
-::: example-good
-Stronger
+::: example
+Question B
 
 Could you clarify which version of the form we should use for applications submitted this month?
 :::
 
 ::: learn
-Why the Stronger Question Works
+Why Question B Works Better
 
-The stronger question names the exact unclear point, limits the question to one topic, and helps the reader give a useful answer. The weak question may sound frustrated and gives the reader no clear starting point.
+Question B names the exact unclear point, limits the question to one topic, and helps the reader give a useful answer. Question A may sound frustrated and gives the reader no clear starting point.
 :::
 
 ### C. Language
@@ -1732,24 +1727,24 @@ A useful update answers these questions:
 
 ### B. Example Check
 
-Compare the weak and stronger updates.
+Compare the two updates.
 
-::: example-bad
-Weak
+::: example
+Update A
 
 The review will be delayed.
 :::
 
-::: example-good
-Stronger
+::: example
+Update B
 
 The review will be delayed because two documents still need additional checks. A new schedule will be shared tomorrow.
 :::
 
 ::: learn
-Why the Stronger Update Works
+Why Update B Works Better
 
-The stronger update tells the reader what changed, why it changed, and what happens next. This reduces uncertainty and extra follow-up questions.
+Update B tells the reader what changed, why it changed, and what happens next. This reduces uncertainty and extra follow-up questions.
 :::
 
 ### C. Language
@@ -2019,14 +2014,14 @@ A good request is polite, specific, and easy to answer. It tells the reader what
 
 ### B. Example Check
 
-::: example-bad
-Weak
+::: example
+Request A
 
 Send the updated file.
 :::
 
-::: example-good
-Stronger
+::: example
+Request B
 
 Could you please send the updated file? We need it for the next review stage.
 :::
@@ -2034,7 +2029,7 @@ Could you please send the updated file? We need it for the next review stage.
 ::: learn
 Why the Polite Version Works
 
-The stronger version sounds cooperative rather than forceful. It also names the exact action and gives a short reason, so the reader can understand why the file is needed.
+Request B sounds cooperative rather than forceful. It also names the exact action and gives a short reason, so the reader can understand why the file is needed.
 :::
 
 ### C. Language
@@ -2077,15 +2072,15 @@ Rewrite each direct message as one polite request sentence. Use a suitable form 
 
 {{PH-1: U07-C-rewrite-1 | rows=2}}
 
-2. Tell me the deadline.
+1. Tell me the deadline.
 
 {{PH-1: U07-C-rewrite-2 | rows=2}}
 
-3. Check this.
+1. Check this.
 
 {{PH-1: U07-C-rewrite-3 | rows=2}}
 
-4. Give me the information.
+1. Give me the information.
 
 {{PH-1: U07-C-rewrite-4 | rows=2}}
 :::
@@ -2105,15 +2100,15 @@ Stronger: "Could you update me on whether the signed form has been uploaded to t
 
 {{PH-1: U07-C-rewrite-5 | rows=2}}
 
-2. Could you check this?
+1. Could you check this?
 
 {{PH-1: U07-C-rewrite-6 | rows=2}}
 
-3. Could you confirm the information?
+1. Could you confirm the information?
 
 {{PH-1: U07-C-rewrite-7 | rows=2}}
 
-4. Could you update me?
+1. Could you update me?
 
 {{PH-1: U07-C-rewrite-8 | rows=2}}
 
@@ -2134,15 +2129,15 @@ Rewrite each message so it is polite and low-pressure, but still clear.
 
 {{PH-1: U07-C-rewrite-9 | rows=2}}
 
-2. Tell me the result now.
+1. Tell me the result now.
 
 {{PH-1: U07-C-rewrite-10 | rows=2}}
 
-3. Check this immediately.
+1. Check this immediately.
 
 {{PH-1: U07-C-rewrite-11 | rows=2}}
 
-4. Give me the corrected file as soon as possible.
+1. Give me the corrected file as soon as possible.
 
 {{PH-1: U07-C-rewrite-12 | rows=2}}
 
@@ -2208,15 +2203,15 @@ Rewrite each message so it keeps the same request but sounds more professional.
 
 {{PH-1: U07-G-rewrite-1 | rows=2}}
 
-2. Tell me the meeting time now.
+1. Tell me the meeting time now.
 
 {{PH-1: U07-G-rewrite-2 | rows=2}}
 
-3. Check this and reply quickly.
+1. Check this and reply quickly.
 
 {{PH-1: U07-G-rewrite-3 | rows=2}}
 
-4. Give me the missing information.
+1. Give me the missing information.
 
 {{PH-1: U07-G-rewrite-4 | rows=2}}
 
@@ -2289,13 +2284,13 @@ Module 2 showed how a short workplace email guides the reader. A good email make
 
 Compare these two request openings.
 
-::: example-bad
+::: example
 Version A
 
 Send the updated file today. I need it for the report.
 :::
 
-::: example-good
+::: example
 Version B
 
 Could you please send the updated file today? I need it to complete the report before the afternoon deadline.
@@ -2399,7 +2394,7 @@ If one of these still feels weak, return to the unit that teaches it and revise 
 
 ## Module Guide
 
-Module 3 develops writing that helps internal readers understand process, change, problems, and meeting outcomes. In this module, the reader often needs to do something after reading, so order and logic matter as much as grammar. The support sections in these units are designed to help you see how better organisation reduces mistakes, confusion, and extra follow-up questions.
+Module 3 focuses on internal documents. In this module, you write procedures, notices, problem explanations, and meeting summaries for readers inside your organisation. Because these readers often need to act after reading, clear order and clear logic are as important as grammar.
 
 The four units address distinct but related internal document types:
 
@@ -2415,7 +2410,13 @@ By the end of this module, you should be able to:
 - describe a problem in a logical order
 - summarise a meeting so the key outcomes are easy to use later
 
-In each unit, compare weak and strong versions before drafting, practise the key structure, write your own text, repair one weak example, and then use the self-check and homework section to carry the skill into a new internal-writing context.
+Use each part of this module to help your writing:
+
+- compare the weaker and stronger versions before you draft
+- practise the key structure before longer writing
+- use the editing task to repair one weak example
+- check your work with the self-check section
+- use the homework and extension task in a new internal-writing situation
 
 ## Unit 8. Writing Simple Procedures
 
@@ -2429,13 +2430,9 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: notice
-Which Procedure Is Better?
-
 Read both procedures. Choose the clearer one and explain one reason.
-:::
 
-::: example-bad
+::: example
 Version A
 
 - Check the form.
@@ -2443,7 +2440,7 @@ Version A
 - After you check everything, send it.
 :::
 
-::: example-good
+::: example
 Version B
 
 1. Check the form for complete and correct information.
@@ -2504,15 +2501,15 @@ Rewrite each instruction using a **clear action verb**.
 
 {{PH-1: U08-C-rewrite-1 | rows=2}}
 
-2. Put the name in the system.
+1. Put the name in the system.
 
 {{PH-1: U08-C-rewrite-2 | rows=2}}
 
-3. Look at the form to see if something is missing.
+1. Look at the form to see if something is missing.
 
 {{PH-1: U08-C-rewrite-3 | rows=2}}
 
-4. Send it to the right place.
+1. Send it to the right place.
 
 {{PH-1: U08-C-rewrite-4 | rows=2}}
 
@@ -2677,20 +2674,46 @@ By the end of this unit, I will be able to:
 ### A. Warm-Up
 
 ::: notice
-Compare Two Notices
+What Makes a Notice Useful?
+
+Before you compare full notices, think about what colleagues need from an internal notice.
+
+Write two features that make an internal notice clear and useful.
+
+{{PH-1: U09-warmup-response | rows=3}}
+:::
+
+### B. Example Check
 
 Read both notices. Which notice is clearer and more useful? Give two reasons.
 
-**Notice A**
+::: example
+Notice A
 
 There was a problem with the system today. Please be careful. We will check it. Thank you.
+:::
 
-**Notice B**
+::: example
+Notice B
 
 System Notice - Temporary Error
 A temporary system error occurred this morning. Some users may have experienced slow access. The issue is currently being reviewed by the IT team. An update will be provided later today.
-
 :::
+
+::: learn
+Why Notice B Works Better
+
+Notice B is stronger because it gives the reader a usable structure:
+
+1. topic
+2. issue
+3. current status
+4. next update
+
+Notice A feels weak because the reader still does not know what exactly happened, who is checking the problem, or what to expect next.
+:::
+
+### C. Language
 
 ::: learn
 Internal Notice Basics
@@ -2708,23 +2731,6 @@ Use this checklist when you review or write a notice:
 - Is the message neutral and factual?
 - Does the notice show what happens next?
 :::
-
-### B. Example Check
-
-::: learn
-Why Notice B Works Better
-
-Notice B is stronger because it gives the reader a usable structure:
-
-1. topic
-2. issue
-3. current status
-4. next update
-
-Notice A feels weak because the reader still does not know what exactly happened, who is checking the problem, or what to expect next.
-:::
-
-### C. Language
 
 ::: language
 Notice Structure
@@ -2773,15 +2779,15 @@ Rewrite These to Make Them Neutral
 
 {{PH-1: U09-C-rewrite-1 | rows=2}}
 
-2. Everyone MUST check the new files today!
+1. Everyone MUST check the new files today!
 
 {{PH-1: U09-C-rewrite-2 | rows=2}}
 
-3. I think the system is acting strange again.
+1. I think the system is acting strange again.
 
 {{PH-1: U09-C-rewrite-3 | rows=2}}
 
-4. Sorry everyone, but the meeting is suddenly cancelled.
+1. Sorry everyone, but the meeting is suddenly cancelled.
 
 {{PH-1: U09-C-rewrite-4 | rows=2}}
 
@@ -2802,15 +2808,15 @@ Make each one more useful by adding:
 
 {{PH-1: U09-C-rewrite-5 | rows=2}}
 
-2. There is something wrong with the file.
+1. There is something wrong with the file.
 
 {{PH-1: U09-C-rewrite-6 | rows=2}}
 
-3. We are doing something with the system tomorrow.
+1. We are doing something with the system tomorrow.
 
 {{PH-1: U09-C-rewrite-7 | rows=2}}
 
-4. The documents are not ready yet.
+1. The documents are not ready yet.
 
 {{PH-1: U09-C-rewrite-8 | rows=2}}
 
@@ -2967,14 +2973,14 @@ A good problem explanation tells the reader what was expected, what went wrong, 
 
 ### B. Example Check
 
-::: example-bad
-Weak
+::: example
+Version A
 
 The system isn't working.
 :::
 
-::: example-good
-Stronger
+::: example
+Version B
 
 Reviewers cannot access the file system this morning because the server is temporarily unavailable. The document review is delayed, and the IT team is checking the issue now.
 :::
@@ -2982,7 +2988,7 @@ Reviewers cannot access the file system this morning because the server is tempo
 ::: learn
 Why This Works
 
-The stronger version helps because it gives the issue, the cause, the effect, and the current status. Professional readers often need this information before they can decide what to do next.
+Version B helps because it gives the issue, the cause, the effect, and the current status. Professional readers often need this information before they can decide what to do next.
 :::
 
 ### C. Language
@@ -3034,15 +3040,15 @@ Try to make the reader understand:
 
 {{PH-1: U10-C-rewrite-1 | rows=2}}
 
-2. The system is slow.
+1. The system is slow.
 
 {{PH-1: U10-C-rewrite-2 | rows=2}}
 
-3. We can't finish the work.
+1. We can't finish the work.
 
 {{PH-1: U10-C-rewrite-3 | rows=2}}
 
-4. The document is wrong.
+1. The document is wrong.
 
 {{PH-1: U10-C-rewrite-4 | rows=2}}
 
@@ -3063,11 +3069,11 @@ Use them to give:
 
 {{PH-1: U10-C-rewrite-5 | rows=2}}
 
-2. The review is delayed.
+1. The review is delayed.
 
 {{PH-1: U10-C-rewrite-6 | rows=2}}
 
-3. The uploaded form is incomplete.
+1. The uploaded form is incomplete.
 
 {{PH-1: U10-C-rewrite-7 | rows=2}}
 
@@ -3204,19 +3210,15 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: notice
-Compare Two Summaries
-
 Read both summaries. Which summary is clearer and more useful for a colleague who missed the meeting? Give two reasons.
-:::
 
-::: example-bad
+::: example
 Summary A
 
 We talked about many things. Some documents were mentioned. IT will do something with the system. We will meet again.
 :::
 
-::: example-good
+::: example
 Summary B
 
 The team reviewed the preparation checklist. Two items still require confirmation: the applicant list and the updated guidelines. IT will confirm system access on Monday. The next meeting will be held on Wednesday.
@@ -3298,11 +3300,11 @@ Rewrite each summary to make it clearer.
 
 {{PH-1: U11-C-rewrite-1 | rows=2}}
 
-2. The meeting was long. Many ideas were shared. We will do more later.
+1. The meeting was long. Many ideas were shared. We will do more later.
 
 {{PH-1: U11-C-rewrite-2 | rows=2}}
 
-3. The form was discussed. Someone needs to fix it.
+1. The form was discussed. Someone needs to fix it.
 
 {{PH-1: U11-C-rewrite-3 | rows=2}}
 
@@ -3435,19 +3437,15 @@ Core Takeaways
 
 ### Reader-Purpose Comparison
 
-::: notice
-Compare Internal Summaries
-
 Read these two short summaries. Decide which version better helps the reader understand the purpose, main issue, and next action.
-:::
 
-::: example-bad
+::: example
 Version A
 
 We had a meeting on Monday. Many things were discussed. The team talked about the new system, some delays, and several questions. Another meeting may be needed.
 :::
 
-::: example-good
+::: example
 Version B
 
 The team met on Monday to review the new system schedule. The main issue was a document delay from one office. We agreed to request the missing file by Wednesday. A follow-up meeting will be held only if the file does not arrive.
@@ -3552,7 +3550,7 @@ If one of these still feels weak, return to the unit that teaches it and revise 
 
 ## Module Guide
 
-Module 4 moves the book into outward-facing communication. The writing in this module must stay simple, but it also needs stronger audience control because the reader may be outside your team or may not share the same background knowledge. The unit support therefore focuses on why sequence, explanation, clarification, and consistency matter when the reader cannot easily ask for help in person.
+Module 4 moves from internal writing to communication with readers outside your team. In this module, the writing must stay simple, but it must also give enough explanation because the reader may not share your background knowledge. These units focus on sequence, explanation, clarification, and consistency when the reader cannot easily ask you for help in person.
 
 The four units address the challenges of outward-facing and reader-specific communication:
 
@@ -3568,12 +3566,12 @@ By the end of this module, you should be able to:
 - respond to confusion without sounding defensive
 - maintain one consistent email standard across repeated communication
 
-Use this module carefully:
+Use each part of this module to help your writing:
 
 - notice how the example versions change for audience, not only for grammar
 - pay attention to the "Why this works" notes about reader confidence and clarity
 - use the self-check to confirm that your message is answerable and well sequenced
-- complete the editing practice so you can repair weak audience control
+- complete the editing practice so you can repair weak reader focus
 - use the transfer extension to move the unit skill into a related external or team context
 
 ## Unit 12. Writing Simple External Inquiries
@@ -3588,13 +3586,9 @@ By the end of this unit, I will be able to:
 
 ### A. Warm-Up
 
-::: notice
-Compare Two Inquiry Emails
-
 Read both emails. Which inquiry is more appropriate and more answerable for an outside reader? Give two reasons.
-:::
 
-::: example-bad
+::: example
 Email A
 
 Subject: Question
@@ -3604,7 +3598,7 @@ Hi,
 I don't understand the guidelines. Please explain.
 :::
 
-::: example-good
+::: example
 Email B
 
 Subject: Question About Guidelines - Section 4
@@ -3679,15 +3673,15 @@ Rewrite each inquiry to make it clearer, more polite, and more complete. Add a s
 
 {{PH-1: U12-C-rewrite-1 | rows=2}}
 
-2. What is the rule?
+1. What is the rule?
 
 {{PH-1: U12-C-rewrite-2 | rows=2}}
 
-3. When is the deadline?
+1. When is the deadline?
 
 {{PH-1: U12-C-rewrite-3 | rows=2}}
 
-4. Explain Section 2.
+1. Explain Section 2.
 
 {{PH-1: U12-C-rewrite-4 | rows=2}}
 
@@ -3702,11 +3696,11 @@ Add **one sentence of background** before each question. The background should t
 
 {{PH-1: U12-C-rewrite-5 | rows=2}}
 
-2. Could you confirm the review schedule?
+1. Could you confirm the review schedule?
 
 {{PH-1: U12-C-rewrite-6 | rows=2}}
 
-3. Could you explain how the updated rule applies?
+1. Could you explain how the updated rule applies?
 
 {{PH-1: U12-C-rewrite-7 | rows=2}}
 
@@ -3859,14 +3853,14 @@ A simple explanation helps the reader understand the situation, the reason, and 
 
 ### B. Example Check
 
-::: example-bad
-Weak
+::: example
+Version A
 
 The process will take longer.
 :::
 
-::: example-good
-Stronger
+::: example
+Version B
 
 The process will take longer because two documents require additional checking. This means the next review stage will begin later than planned.
 :::
@@ -3874,7 +3868,7 @@ The process will take longer because two documents require additional checking. 
 ::: learn
 Why This Works
 
-The stronger version gives the situation, the reason, and the effect. The reader does not need to guess the practical meaning.
+Version B gives the situation, the reason, and the effect. The reader does not need to guess the practical meaning.
 :::
 
 ### C. Language
@@ -3912,15 +3906,15 @@ Rewrite each sentence to make the explanation clearer. Build each answer so the 
 
 {{PH-1: U13-C-rewrite-1 | rows=2}}
 
-2. The file is wrong.
+1. The file is wrong.
 
 {{PH-1: U13-C-rewrite-2 | rows=2}}
 
-3. The review will take longer.
+1. The review will take longer.
 
 {{PH-1: U13-C-rewrite-3 | rows=2}}
 
-4. The system is slow.
+1. The system is slow.
 
 {{PH-1: U13-C-rewrite-4 | rows=2}}
 
@@ -3935,11 +3929,11 @@ Add **one sentence of background** and **one sentence of reason** before each ma
 
 {{PH-1: U13-C-rewrite-5 | rows=2}}
 
-2. The document cannot be accepted.
+1. The document cannot be accepted.
 
 {{PH-1: U13-C-rewrite-6 | rows=2}}
 
-3. The review must be rescheduled.
+1. The review must be rescheduled.
 
 {{PH-1: U13-C-rewrite-7 | rows=2}}
 
@@ -4150,15 +4144,15 @@ Rewrite each response so it is clear and polite. When possible, acknowledge the 
 
 {{PH-1: U14-C-rewrite-1 | rows=2}}
 
-2. You misunderstood the instructions.
+1. You misunderstood the instructions.
 
 {{PH-1: U14-C-rewrite-2 | rows=2}}
 
-3. The other form is for something else.
+1. The other form is for something else.
 
 {{PH-1: U14-C-rewrite-3 | rows=2}}
 
-4. Read the guidelines again.
+1. Read the guidelines again.
 
 {{PH-1: U14-C-rewrite-4 | rows=2}}
 
@@ -4173,11 +4167,11 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 {{PH-1: U14-C-rewrite-5 | rows=2}}
 
-2. The deadline mentioned in the email is incorrect.
+1. The deadline mentioned in the email is incorrect.
 
 {{PH-1: U14-C-rewrite-6 | rows=2}}
 
-3. The instructions refer to two different processes.
+1. The instructions refer to two different processes.
 
 {{PH-1: U14-C-rewrite-7 | rows=2}}
 
@@ -4339,16 +4333,16 @@ A consistent email uses the same basic style from start to finish. The subject l
 
 ### B. Example Check
 
-::: example-bad
-Inconsistent
+::: example
+Version A
 
 Subject: File
 
 Hi, I checked it. Please tell me what to do. Thanks.
 :::
 
-::: example-good
-Consistent
+::: example
+Version B
 
 Subject: Question About Document Review
 
@@ -4390,11 +4384,11 @@ Rewrite each email so the tone and structure are consistent.
 
 {{PH-1: U15-C-rewrite-1 | rows=2}}
 
-2. Hello, Please check. I think there is a problem.
+1. Hello, Please check. I think there is a problem.
 
 {{PH-1: U15-C-rewrite-2 | rows=2}}
 
-3. Team, The file is wrong. Fix it.
+1. Team, The file is wrong. Fix it.
 
 {{PH-1: U15-C-rewrite-3 | rows=2}}
 
@@ -4481,7 +4475,7 @@ Rewrite each draft so both messages use the same professional style.
 
 {{PH-1: U15-G-rewrite-1 | rows=2}}
 
-2. Dear Ms. Lee, There is problem in form. send again please. Thanks.
+1. Dear Ms. Lee, There is problem in form. send again please. Thanks.
 
 {{PH-1: U15-G-rewrite-2 | rows=2}}
 
@@ -4553,19 +4547,15 @@ Core Takeaways
 
 ### Audience-Control Comparison
 
-::: notice
-Compare External Openings
-
 Read these two openings. Decide which version is easier for the reader to answer.
-:::
 
-::: example-bad
+::: example
 Version A
 
 I am writing because there are some things we do not understand and we want more information about the process you explained before.
 :::
 
-::: example-good
+::: example
 Version B
 
 I am writing to ask for clarification about the document submission process described in your previous email.
@@ -4667,7 +4657,7 @@ If one of these still feels weak, return to the unit that teaches it and revise 
 
 ## Module Guide
 
-Module 5 changes the learner role from writer to editor. The purpose is not only to find mistakes, but to understand what each revision does for the reader. In this module, you practise checking accuracy, clarity, and tone as separate editing lenses, then using them together to improve a real workplace draft.
+Module 5 shifts your role from writer to editor. In this module, you do not only find mistakes. You also learn what each revision does for the reader. The units help you check accuracy, clarity, and tone separately, and then use them together to improve a real workplace draft.
 
 The three units address accuracy, clarity, and tone as separate editing skills:
 
@@ -4682,7 +4672,7 @@ By the end of this module, you should be able to:
 - change tone without changing the main meaning
 - explain revision choices in simple professional language
 
-Use the module support in this order:
+Use each part of this module in this order:
 
 - compare the weak and strong versions first
 - read the explanation of why the revised version helps the reader
@@ -4727,20 +4717,16 @@ Quick Accuracy Check
 
 ### B. Example Check
 
-::: learn
-Why Accuracy Matters to the Reader
+Compare the two versions.
 
-Compare:
-:::
-
-::: example-bad
-Weak
+::: example
+Sentence A
 
 The applicant have submit the form yesterday.
 :::
 
-::: example-good
-Stronger
+::: example
+Sentence B
 
 The applicant submitted the form yesterday.
 :::
@@ -4748,7 +4734,7 @@ The applicant submitted the form yesterday.
 ::: learn
 Why This Works
 
-The stronger version works because the reader does not need to stop and repair the grammar mentally.
+Sentence B works because the reader does not need to stop and repair the grammar mentally.
 
 Accuracy matters in administrative writing because errors can create:
 
@@ -4843,15 +4829,15 @@ Accuracy check:
 
 {{PH-1: U16-C-rewrite-1 | rows=2}}
 
-2. *We will checking the documents.*
+1. *We will checking the documents.*
 
 {{PH-1: U16-C-rewrite-2 | rows=2}}
 
-3. *Please send me informations about new procedure.*
+1. *Please send me informations about new procedure.*
 
 {{PH-1: U16-C-rewrite-3 | rows=2}}
 
-4. *The documents is complete.*
+1. *The documents is complete.*
 
 {{PH-1: U16-C-rewrite-4 | rows=2}}
 :::
@@ -5058,20 +5044,16 @@ Quick Clarity Check
 
 ### B. Example Check
 
-::: learn
-Why the Clearer Version Works
+Compare the two versions.
 
-Compare:
-:::
-
-::: example-bad
-Weak
+::: example
+Version A
 
 The review was delayed. There is missing information. The new schedule will be announced tomorrow. The original deadline was Friday.
 :::
 
-::: example-good
-Stronger
+::: example
+Version B
 
 The review was delayed because some information is missing. A new schedule will be announced tomorrow.
 :::
@@ -5079,7 +5061,7 @@ The review was delayed because some information is missing. A new schedule will 
 ::: learn
 Why This Works
 
-The stronger version works because the reader can see the relationship between the ideas.
+Version B works because the reader can see the relationship between the ideas.
 
 Clarity editing is not only "make it shorter." It is also:
 
@@ -5144,15 +5126,15 @@ Rewrite each sentence.
 
 {{PH-1: U17-C-rewrite-1 | rows=2}}
 
-2. There are things missing from the form somewhere.
+1. There are things missing from the form somewhere.
 
 {{PH-1: U17-C-rewrite-2 | rows=2}}
 
-3. We think that it could possibly be delayed for some reason.
+1. We think that it could possibly be delayed for some reason.
 
 {{PH-1: U17-C-rewrite-3 | rows=2}}
 
-4. It would be appreciated if you could maybe check the document again.
+1. It would be appreciated if you could maybe check the document again.
 
 {{PH-1: U17-C-rewrite-4 | rows=2}}
 :::
@@ -5355,20 +5337,16 @@ Quick Tone Check
 
 ### B. Example Check
 
-::: learn
-Why the Softer Version Works
+Compare the two versions.
 
-Compare:
-:::
-
-::: example-bad
-Weak
+::: example
+Message A
 
 You didn't send the right file. Send the correct one now.
 :::
 
-::: example-good
-Stronger
+::: example
+Message B
 
 Thank you for your message. The attached file appears to be a different version. Could you please send the correct version when available?
 :::
@@ -5376,7 +5354,7 @@ Thank you for your message. The attached file appears to be a different version.
 ::: learn
 Why This Works
 
-The stronger version works because it:
+Message B works because it:
 
 - removes blame
 - keeps the focus on the file, not the person
@@ -5444,15 +5422,15 @@ Try to soften the message by changing:
 
 {{PH-1: U18-C-rewrite-1 | rows=2}}
 
-2. You made a mistake.
+1. You made a mistake.
 
 {{PH-1: U18-C-rewrite-2 | rows=2}}
 
-3. Check it again.
+1. Check it again.
 
 {{PH-1: U18-C-rewrite-3 | rows=2}}
 
-4. This is not acceptable.
+1. This is not acceptable.
 
 {{PH-1: U18-C-rewrite-4 | rows=2}}
 :::
@@ -5666,19 +5644,15 @@ Core Takeaways
 
 ### Revision Comparison
 
-::: notice
-Compare Editing Choices
-
 Read these two versions. Decide which version better controls accuracy, clarity, and tone.
-:::
 
-::: example-bad
+::: example
 Version A
 
 You did not send the correct file. This caused a problem again. We need you to fix it now.
 :::
 
-::: example-good
+::: example
 Version B
 
 The attached file does not appear to match the requested format. Could you please send the correct file today so that we can continue the review?
@@ -5778,7 +5752,7 @@ If one of these still feels weak, return to the unit that teaches it and revise 
 
 ## Module Guide
 
-Module 6 is the applied stage of the book. The units in this module ask you to manage more than one document, more than one reader, or more than one revision decision at the same time. The support in this module is therefore designed to help you keep audience, purpose, tone, and consistency under control while still writing at an intermediate level.
+Module 6 is the final applied stage of the book. In this module, you work with more than one document, more than one reader, or more than one revision decision at the same time. The units help you keep purpose, tone, detail, and consistency clear while still writing at an intermediate level.
 
 The five units ask learners to manage more than one document, reader, or revision task at the same time:
 
@@ -5795,10 +5769,10 @@ By the end of this module, you should be able to:
 - standardise multiple drafts into one clear team style
 - review a small portfolio of writing and explain key revision choices
 
-When you use this module, do not skip the support layer:
+Use each part of this module to help your writing:
 
 - compare the example versions before you draft
-- read the "Why this works" note for audience and document control
+- read the "Why this works" note for reader and document control
 - use the self-check before freer or final writing
 - complete the editing practice so you separate reader needs clearly
 - use the transfer extension to show that the skill can move to a new multi-document context
@@ -6359,32 +6333,23 @@ By the end of this unit, I will be able to:
 ### A. Warm-Up
 
 ::: notice
+What Should Stay Consistent?
+
+Before you compare full messages, think about what a team should keep consistent in its writing.
+
+Write two areas where team messages should follow a shared standard.
+
+{{PH-1: U21-warmup-standard | rows=3}}
+:::
+
+### B. Example Check
+
+::: notice
 Spot the Inconsistencies
 
 Compare the two emails. Identify inconsistencies in tone, format, structure, and clarity.
 
-When multiple team members write emails and notices, inconsistency can cause:
-
-- Confusion for external offices
-- Mixed tone (too direct / too soft)
-- Different formats for similar tasks
-- Repeated questions or follow-up emails
-
-Clear team standards help:
-
-- Maintain a professional image
-- Improve readability
-- Reduce miscommunication
-- Support smoother administrative procedures
-
-**A shared team standard usually covers**
-
-- opening and closing style
-- tone level
-- structure of the body
-- formatting basics
-
-::: example-bad
+::: example
 Email A
 
 Subject: Info
@@ -6394,7 +6359,7 @@ I saw it. What next?
 Thx.
 :::
 
-::: example-good
+::: example
 Email B
 
 Subject: Information Required for Review
@@ -6408,8 +6373,6 @@ Write the inconsistencies you notice.
 
 {{PH-1: U21-warmup-response | rows=5}}
 :::
-
-### B. Example Check
 
 ::: learn
 Why Team Consistency Helps
@@ -6429,6 +6392,33 @@ Consistency helps because the reader can recognize the team's style quickly:
 :::
 
 ### C. Language
+
+::: learn
+When multiple team members write emails and notices, inconsistency can cause:
+
+- Confusion for external offices
+- Mixed tone (too direct / too soft)
+- Different formats for similar tasks
+- Repeated questions or follow-up emails
+:::
+
+::: learn
+Clear team standards help:
+
+- Maintain a professional image
+- Improve readability
+- Reduce miscommunication
+- Support smoother administrative procedures
+:::
+
+::: learn
+A shared team standard usually covers:
+
+- opening and closing style
+- tone level
+- structure of the body
+- formatting basics
+:::
 
 ::: language
 Standardising Team Writing
@@ -6469,11 +6459,11 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 {{PH-1: U21-C-rewrite-1 | rows=2}}
 
-2. Hello, Please check. I think there is a problem.
+1. Hello, Please check. I think there is a problem.
 
 {{PH-1: U21-C-rewrite-2 | rows=2}}
 
-3. Team, The file is wrong. Fix it.
+1. Team, The file is wrong. Fix it.
 
 {{PH-1: U21-C-rewrite-3 | rows=2}}
 :::
@@ -6731,15 +6721,15 @@ Rewrite each sentence for the appropriate audience.
 
 {{PH-1: U22-C-rewrite-1 | rows=2}}
 
-2. (Colleague) "The applicant didn't follow the instructions again."
+1. (Colleague) "The applicant didn't follow the instructions again."
 
 {{PH-1: U22-C-rewrite-2 | rows=2}}
 
-3. (Internal Notice) "The file is wrong and causing trouble."
+1. (Internal Notice) "The file is wrong and causing trouble."
 
 {{PH-1: U22-C-rewrite-3 | rows=2}}
 
-4. (Applicant) "Send the document quickly."
+1. (Applicant) "Send the document quickly."
 
 {{PH-1: U22-C-rewrite-4 | rows=2}}
 :::
@@ -7292,19 +7282,15 @@ Core Takeaways
 
 ### Multi-Document Comparison
 
-::: notice
-Compare Communication Sets
+Read these two communication sets for the same situation: an applicant submitted the wrong form and the team needs to react.
 
-Read these two responses to the same situation: an applicant submitted the wrong form and the team needs to react.
-:::
-
-::: example-bad
+::: example
 Version A
 
 Please send the correct form. We also need to tell the team there is a delay. Everyone should know there is a problem.
 :::
 
-::: example-good
+::: example
 Version B
 
 External message: Thank you for your submission. We noticed that the attached form is not the required version. Could you please send the updated form by Thursday?
@@ -7343,7 +7329,7 @@ Rebuild the weak response as a stronger set:
 
 {{PH-2: M6-revision-external | rows=6}}
 
-2. Internal message:
+1. Internal message:
    - explain the same fact neutrally
    - tell the team what to pause, continue, or watch
    - remove any sentence that only belongs in the external message
@@ -7352,7 +7338,7 @@ Rebuild the weak response as a stronger set:
 
 {{PH-2: M6-revision-internal | rows=6}}
 
-3. Revision note:
+1. Revision note:
    - explain why the external and internal versions need different wording
    - explain which reader needed different detail or tone
    - explain which Module 5 editing pass improved the set most

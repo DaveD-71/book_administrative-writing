@@ -1442,3 +1442,14 @@ Rules:
 - Preferred behavior:
   - use the current `int/md/working/aw-int-all_0519.md` plus `int/md/working/aw-int-answer-key.md` as the post-Phase-3 manuscript baseline
   - treat future work from this point as production verification, reconciliation, or later QA rather than reopening routine Phase 3 structural repairs unless new evidence appears
+
+## 2026-06-09 - Student-Judgment Comparison Tasks Must Use Neutral Example Labels
+
+- Status: `active`
+- Scope: project/conventions
+- Context: during Phase 5 review, several comparison activities were found to pre-answer the task because the paired examples were labeled as `example-bad` / `example-good` or visibly titled `Weak / Stronger`, `Inconsistent / Consistent` even though the student was being asked to decide which example was better.
+- Decision: when a task asks the student to judge between paired examples, the pair must use neutral styling and neutral visible labels such as `Version A / Version B`, `Email A / Email B`, `Notice A / Notice B`, `Summary A / Summary B`, `Question A / Question B`, `Update A / Update B`, `Sentence A / Sentence B`, or `Message A / Message B`.
+- Decision: explicit `example-bad`, `example-good`, `Weak`, `Stronger`, `Inconsistent`, and `Consistent` labels should be reserved for true model, repair, editing, or revision-lab contexts where the student is not meant to make that judgment independently.
+- Required next-time behavior:
+  - when neutralizing a comparison pair, also scan the local follow-up explanation for dependent wording such as `stronger version`, `weak version`, `better one`, `consistent version`, and repair those references so they point to the neutral labels directly
+  - distinguish broken local label references from valid generic pedagogy and from valid explicit bad/good model contexts before making further replacements

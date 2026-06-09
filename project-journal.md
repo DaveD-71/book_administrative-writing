@@ -2403,3 +2403,45 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Action: rescanned the full manuscript under the stricter rule, recorded the confirmed matches in the new Phase 3 audit file, then rewrote the ten selected source sections so the task instruction comes first, the example follows, and a task-appropriate lead-in line appears immediately before the placeholder.
 - Verification: the edited source returned to balanced div counts after the cleanup (`opens=477`, `closes=477`).
 - Decision: Phase 3 is now locked in as complete at the markdown-review layer for the INT manuscript, answer key, and review workshops; remaining work belongs to later production / print-verification stages rather than routine Phase 3 structural repair.
+
+## 2026-06-09T15:20:00+09:00 - Phase 5 First-Div Intro Redundancy Scan Added
+
+- Scope: full `int/md/working/aw-int-all_0519.md` manuscript.
+- Trigger: Dave asked for a full-book scan of sections where a heading is followed immediately by a div whose text is really just a section introduction and may not need semantic div styling.
+- Action: ran a conservative scan for short `notice` / `learn` divs directly under headings with no placeholder and another div immediately after, then recorded the usable cleanup list in `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_first_div_intro_redundancy_scan_0609.md`.
+- Outcome: the strongest pattern appears in `B. Example Check` sections and module-review comparison sections, with a smaller set of warm-up comparison sections also flagged for likely cleanup.
+
+## 2026-06-09T15:45:00+09:00 - First-Div Intro Redundancy Repairs Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md` and `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_first_div_intro_redundancy_scan_0609.md`.
+- Trigger: Dave asked for the suggested redundancy fixes in the new Phase 5 scan to be applied.
+- Action: removed the redundant first `notice` / `learn` divs from the high-confidence matches, converting those thin intro layers into plain section-intro text while preserving the actual example/model divs.
+- Outcome: the scan now leaves only the two intentionally deferred borderline warm-ups in Units 2 and 9, and the manuscript remains div-balanced at `461/461`.
+
+## 2026-06-09T16:10:00+09:00 - Unit 9 A/B Boundary Repair Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_first_div_intro_redundancy_scan_0609.md`.
+- Trigger: Dave identified that Unit 9 had a deeper structural problem than simple intro-div redundancy: `A. Warm-Up` was carrying most of the Example Check content.
+- Action: rewrote the Unit 9 opening sequence so `A` is a short activation task with a response space, `B` now contains the notice-model comparison plus explanation, and `C` now carries the concept and checklist support. Updated the answer key to match the new `A` and `B` activity purposes.
+- Outcome: Unit 9 now follows a clearer `A -> B -> C` progression. A follow-up book-wide `A/B` check found the same boundary problem still present in Units 4 and 21, with lighter but less critical drift in Units 11 and 12.
+
+## 2026-06-09T16:25:00+09:00 - Units 4 And 21 A/B Boundary Repairs Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_first_div_intro_redundancy_scan_0609.md`.
+- Trigger: Dave asked for the other confirmed `A/B` boundary failures to be repaired after Unit 9.
+- Action: rewrote Unit 4 `A. Warm-Up` into a short activation task, moved the email-model comparison back into `B`, and moved the layout/checklist support into `C`. Rewrote Unit 21 `A. Warm-Up` into a short standard-setting task, kept the email comparison in `B`, and moved the broader team-consistency support material into `C`. Updated the answer key to match both units.
+- Outcome: the confirmed collapsed `A/B` boundary cases identified in this pass are now repaired for Units 4, 9, and 21. Whole-manuscript placeholder IDs remain unique and div balance remains valid.
+
+## 2026-06-09T16:55:00+09:00 - Neutralized Pre-Answered Comparison Labels Across INT
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_first_div_intro_redundancy_scan_0609.md`.
+- Trigger: Dave identified that some comparison activities asked students to decide which example was better even though the source had already labeled the pair as `example-good` / `example-bad` or `Weak` / `Stronger`.
+- Action: changed the student-judgment comparison pairs to neutral styling and neutral visible labels such as `Version A / Version B`, `Email A / Email B`, `Notice A / Notice B`, `Summary A / Summary B`, `Question A / Question B`, `Update A / Update B`, `Sentence A / Sentence B`, and `Message A / Message B`. Also renamed the Module 1 workshop heading from `Weak vs. Strong Review Case` to `Review Case Comparison` and aligned the answer key wording.
+- Outcome: comparison tasks no longer visibly answer themselves through good/bad labeling. Remaining `example-bad` / `example-good` usage is confined to genuine model or repair contexts. Whole-manuscript div balance remains valid.
+
+## 2026-06-09T17:10:00+09:00 - Broader Neutral-Comparison Reference Audit Recorded
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_neutral_comparison_reference_audit_0609.md`.
+- Trigger: Dave pointed out that checking only the phrase `stronger version` was too narrow and that the audit should instead derive a broader term family from the changed labels.
+- Action: recorded a dedicated Phase 5 audit that identifies the changed comparison-label families, builds the wider search set (`weak`, `strong`, `stronger`, `weaker`, `better`, `worse`, `consistent`, `inconsistent`, etc.), and classifies results into broken local reference chains, valid generic pedagogy, valid explicit model/repair contexts, and valid self-comparison language.
+- Outcome: the project now has an explicit audit trail for why some remaining `weak/strong/better/consistent` language is acceptable and why some local references needed repair after the neutral-label pass.

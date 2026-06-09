@@ -215,7 +215,7 @@ Open-ended. Students should turn information from Unit 1 or Unit 2 into one inte
 
 #### Module 1 Review Workshop
 
-**Weak vs. Strong Review Case / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
+**Review Case Comparison / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
 
 **Revision Lab possible model:**
 
@@ -244,7 +244,17 @@ Key improvements:
 
 #### Unit 4. Email Layout and Standard Phrases
 
-##### A. Warm-Up — Which Email Is Better?
+##### A. Warm-Up — What Makes an Email Clear?
+
+Open-ended. Strong responses should mention two features such as:
+
+- a clear subject line
+- a professional greeting
+- a first sentence that states the purpose
+- a specific question or request
+- a polite closing
+
+##### B. Example Check — Which Email Is Better?
 
 **Answer: B**
 
@@ -721,7 +731,16 @@ Open-ended. A successful response should include a short manual-style procedure 
 
 #### Unit 9. Internal Notices
 
-##### A. Warm-Up - Compare Two Notices
+##### A. Warm-Up - What Makes a Notice Useful?
+
+Open-ended. Strong responses should mention two features such as:
+
+- a clear topic or heading
+- a clear explanation of what happened
+- neutral factual language
+- a next step or update
+
+##### B. Example Check - Compare Two Notices
 
 **Answer: B**
 
@@ -1582,7 +1601,17 @@ Open-ended. The extension task should produce a short correction log that keeps 
 
 #### Unit 21. Writing for Consistency Across a Team
 
-##### A. Warm-Up — Spot the Inconsistencies
+##### A. Warm-Up — What Should Stay Consistent?
+
+Open-ended. Strong responses should mention two areas such as:
+
+- subject lines
+- opening and closing style
+- tone level
+- body structure
+- basic formatting
+
+##### B. Example Check — Spot the Inconsistencies
 
 Typical inconsistencies:
 
