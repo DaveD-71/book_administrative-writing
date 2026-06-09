@@ -2445,3 +2445,280 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave pointed out that checking only the phrase `stronger version` was too narrow and that the audit should instead derive a broader term family from the changed labels.
 - Action: recorded a dedicated Phase 5 audit that identifies the changed comparison-label families, builds the wider search set (`weak`, `strong`, `stronger`, `weaker`, `better`, `worse`, `consistent`, `inconsistent`, etc.), and classifies results into broken local reference chains, valid generic pedagogy, valid explicit model/repair contexts, and valid self-comparison language.
 - Outcome: the project now has an explicit audit trail for why some remaining `weak/strong/better/consistent` language is acceptable and why some local references needed repair after the neutral-label pass.
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Summary Checklist Scaffolded
+
+- Created the Phase 5 review summary table at:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Matched the corrected Phase 4 row order:
+  - Units 1-23 with module reviews inserted after Units 3, 7, 11, 15, 18, and 23
+- Used activity-letter columns A to H so the file can track both standard units and non-standard module review structures with N/A where needed
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 1 Checklist Row Filled
+
+- Reviewed Unit 1 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_unit1_activity_rewrite_review_0609.md
+- Filled the Unit 1 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 1 summary:
+  - A needs light tightening
+  - B needs repair due to fragmented activity structure
+  - C mostly passes with response-space and density notes
+  - D, E, and G pass
+  - F passes with minor wording heaviness
+  - H passes with a structural note about two write divs under one heading
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 2 Checklist Row Filled
+
+- Reviewed Unit 2 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 2 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 2 summary:
+  - A passes with a light tightening note because the `Professional Tone` support block sits outside the main comparison flow
+  - B, D, E, F, and G pass
+  - C mostly passes but remains somewhat layered under one heading
+  - H passes with a minor density note because the two-task homework block is fairly full
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 3 Checklist Row Filled
+
+- Reviewed Unit 3 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 3 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 3 summary:
+  - A and B pass
+  - C mostly passes, but the support layer is somewhat dense and `Identify the Parts` still has no response space
+  - D, E, F, and G pass
+  - H passes with a minor density note because it carries two writing tasks under one heading
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Checklist Now Includes The Review Standard
+
+- Updated:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Added the visible Phase 5 requirements block from:
+  - int/edits & guides/full-review/aw-int_print_readiness_repair_plan_0530.md
+- Included:
+  - the activity template shape
+  - the Phase 5 `Avoid` list
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Review Restarted For Units 1 To 3
+
+- Re-ran the Phase 5 checklist pass for Units 1 to 3 as one stricter review step.
+- Revised the summary judgments in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Main correction:
+  - cases previously treated as near-passes because they carried two separate `write` tasks under one visible heading are now marked as repair items rather than soft passes
+- Current stricter outcomes:
+  - Unit 1: `A`, `B`, and `H` now clearly require repair
+  - Unit 2: `C` and `H` require repair; `A` is downgraded from pass to mostly pass
+  - Unit 3: `C` and `H` require repair
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Module 1 Review Workshop Checklist Row Filled
+
+- Reviewed the Module 1 review workshop against:
+  - int/md/working/aw-int-all_0519.md
+  - the stricter restarted Phase 5 standard already applied to Units 1 to 3
+- Filled the Module 1 Review row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Module 1 workshop summary:
+  - `Key Lessons to Keep` passes as a compact recap block
+  - `Review Case Comparison` passes
+  - `Revision Lab` requires repair because a model answer appears immediately below the prompt students are supposed to complete
+  - `Transfer Task` requires repair because the main writing task and the follow-up notes are separate tasks under one visible heading
+  - `Self-Edit Routine` and `Preparation for Module 2` pass
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 4 Checklist Row Filled
+
+- Reviewed Unit 4 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 4 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 4 summary:
+  - A and B pass
+  - C requires repair because the section is over-layered under one visible heading
+  - D, E, F, and G pass
+  - H requires repair because the extension task and homework task are separate write activities under one heading
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 5 Checklist Row Filled
+
+- Reviewed Unit 5 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 5 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 5 summary:
+  - A is mostly pass because the main task is clear, but the support block after it sits as a separate mini-activity
+  - B, D, E, F, and G pass
+  - C requires repair because the section is over-layered under one visible heading
+  - H requires repair because the extension task and homework task are separate activities under one heading
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 6 Checklist Row Filled
+
+- Reviewed Unit 6 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 6 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 6 summary:
+  - A is mostly pass because the main task is clear, but the four-question support block sits as a separate mini-activity
+  - B, D, E, F, and G pass
+  - C requires repair because the section is over-layered under one visible heading
+  - H requires repair because the extension task and homework task are separate activities under one heading
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Checklist Cells Corrected Against Repo Memory
+
+- Re-reviewed the current checklist entries in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Correction basis:
+  - `project-learning.md` entries on the Section H standard, Units 5-6 batch repair pattern, Unit 3 paragraph-structure model, and module-review transfer-task conventions
+- Main corrections made:
+  - restored Units 1-6 `H` cells from false repair flags to pass judgments where the section correctly preserves both extension and homework functions
+  - downgraded several `C` repair judgments to `mostly pass` where the density reflects intentional consolidation already documented in repo memory
+  - restored Module 1 Review transfer-task judgment from false repair flag to pass because separate follow-up notes are part of the workshop standard
+- Remaining genuine early-phase concerns in the updated rows:
+  - Unit 1 `B` still needs repair
+  - Module 1 Review revision-lab spoiler still needs repair
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 7 Checklist Row Filled
+
+- Reviewed Unit 7 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+- Filled the Unit 7 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 7 summary:
+  - A passes with a light note because the warm-up is followed by one short support paragraph
+  - B, D, E, F, and G pass
+  - C mostly passes as an intentionally consolidated language block, though it remains somewhat dense
+  - H passes because the section preserves both extension and clearly labeled homework functions, which matches the repo standard
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Module 2 Review Workshop Checklist Row Filled
+
+- Reviewed the Module 2 review workshop against:
+  - int/md/working/aw-int-all_0519.md
+  - the repo-memory-aware Phase 5 standard now applied to the earlier rows
+- Filled the Module 2 Review row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Module 2 workshop summary:
+  - `Key Lessons to Keep` passes as a compact recap block
+  - `Email Comparison Review` passes
+  - `Revision Lab` passes because the prompt does not immediately reveal a stronger model answer underneath
+  - `Self-Edit Routine` passes
+  - `Transfer Task` plus follow-up audience notes matches the workshop standard and passes
+  - `Preparation for Module 3` passes
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 8 Checklist Row Filled
+
+- Reviewed Unit 8 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+  - adv/edits & guides/planning/guide-set/aw-master_activity_menu.md
+- Filled the Unit 8 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 8 summary:
+  - A passes with a light note because the warm-up includes one short explanatory support block that still fits the contrastive procedure-opening function
+  - B, D, E, G, and H pass
+  - C mostly passes as a consolidated procedure-language block, though it is somewhat dense
+  - F passes with a minor note because `Write your revised procedure here:` is a redundant response label above the placeholder
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 9 Checklist Row Filled
+
+- Reviewed Unit 9 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+  - adv/edits & guides/planning/guide-set/aw-master_activity_menu.md
+- Filled the Unit 9 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 9 summary:
+  - A and B pass
+  - C mostly passes because the consolidated notice-language block is somewhat dense, but the current `A/B/C` progression is coherent after the earlier boundary repair
+  - D, E, F, and G pass
+  - H passes because one transfer task carries the end-of-unit notice extension cleanly
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 10 Checklist Row Filled
+
+- Reviewed Unit 10 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 10 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 10 summary:
+  - A passes with a light note because the warm-up is followed by one short explanatory support block
+  - B, D, E, F, G, and H pass
+  - C mostly passes because the consolidated problem-explanation block is somewhat dense, but still coherent and well sequenced
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 11 Checklist Row Filled
+
+- Reviewed Unit 11 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 11 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 11 summary:
+  - A passes with a light note because the warm-up is followed by two short support blocks that still fit the summary-contrast setup
+  - B, D, E, G, and H pass
+  - C mostly passes because the consolidated meeting-summary block is somewhat dense, but coherent and functionally sequenced
+  - F passes with a minor note because `Write your revised summary here:` is a redundant response label above the placeholder
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Module 3 Review Workshop Checklist Row Filled
+
+- Reviewed the Module 3 review workshop against:
+  - int/md/working/aw-int-all_0519.md
+  - the repo-memory-aware Phase 5 workshop standard already used for Modules 1 and 2
+- Filled the Module 3 Review row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Module 3 workshop summary:
+  - `Key Lessons to Keep` passes as a compact recap block
+  - `Reader-Purpose Comparison` passes
+  - `Revision Lab` passes because the prompt does not immediately reveal a stronger model answer underneath
+  - `Self-Edit Routine` passes
+  - `Transfer Task` plus follow-up notes matches the workshop standard and passes
+  - `Preparation for Module 4` passes
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 12 Checklist Row Filled
+
+- Reviewed Unit 12 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 12 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 12 summary:
+  - A passes with a light note because the warm-up is followed by one short explanatory support block
+  - B, D, E, F, G, and H pass
+  - C mostly passes because the consolidated external-inquiry block is somewhat dense, but coherent and well sequenced for the skill
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 13 Checklist Row Filled
+
+- Reviewed Unit 13 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 13 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 13 summary:
+  - A passes with a light note because the warm-up is followed by one short explanatory support block
+  - B, D, E, F, G, and H pass
+  - C mostly passes because the consolidated explanation block is somewhat dense, but coherent and well sequenced for the skill
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 14 Checklist Row Filled
+
+- Reviewed Unit 14 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 14 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 14 summary:
+  - A passes with a light note because the warm-up is followed by one short explanatory support block
+  - B, D, E, G, and H pass
+  - C mostly passes because the consolidated clarification-response block is somewhat dense, but coherent and well sequenced for the skill
+  - F passes with a minor note because `Write your revised response here:` is a redundant response label above the placeholder
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Unit 15 Checklist Row Filled
+
+- Reviewed Unit 15 activity structure against:
+  - int/md/working/aw-int-all_0519.md
+  - int/edits & guides/planning/guide-set/aw-int_activity_framework.md
+- Filled the Unit 15 row in:
+  - int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_activity_review_summary_checklist_0609.md
+- Current Unit 15 summary:
+  - A passes with a light note because the warm-up is followed by one short explanatory support block
+  - B, D, E, F, G, and H pass
+  - C mostly passes because the consolidated consistency-email block is somewhat dense, but coherent and well sequenced for the skill
