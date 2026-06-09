@@ -1,4 +1,4 @@
-# TOC Table Layout
+# Table of Contents
 
 | Unit | Title | A. Warm-Up | B. Example Check | C. Language | D. Guided Practice | E. Freer Practice | F. Editing Practice | G. Self-Check and Reflection | H. Homework & Extension |
 |---|---|---|---|---|---|---|---|---|---|
