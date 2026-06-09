@@ -78,6 +78,32 @@ Historical note:
 - Added named requirement sources for those new checks using:
   - `adv/edits & guides/planning/supporting/aw-adv_project_context.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_prompt-writing-policy.md`
+
+
+### 2026-06-09T00:00:00+09:00 - Language List Formatting Inventory Added
+
+- Scanned the intermediate full-book manuscript for student-facing language banks rather than all lists.
+- Recorded the inventory at:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_language_list_format_inventory_0609.md`
+- Captured the main format families now in use:
+  - simple phrase banks with no function labels
+  - bold subgroup labels without colons
+  - plain-text subgroup labels with colons
+  - mixed structure-plus-language blocks
+  - one table-based language bank
+- Confirmed that punctuation is mostly already grammar-based, but function-label presentation remains inconsistent across comparable language-support lists.
+
+
+### 2026-06-09T00:00:00+09:00 - Language List Policy Set And Applied
+
+- Added the durable language-list formatting rule to `project-learning.md`.
+- Standardized the current INT manuscript against that rule in the main language-support blocks.
+- Main source updates in `int/md/working/aw-int-all_0519.md`:
+  - converted plain colon list-category labels such as `Common openings include:` and `Neutral phrases:` into bold title-style list labels with no ending punctuation
+  - normalized the Unit 8 instruction-verb bank to lowercase fragment items
+  - normalized fragment-style element lists in Unit 11 and Unit 21 to lowercase with no ending punctuation
+  - normalized the Unit 12 inquiry-structure list so the numbered items read as lowercase fragment entries rather than pseudo-sentences
+  - converted repeated `Useful phrases:` labels in Unit 20 to the new bold category format
   - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Recorded the focused second-pass review at:
@@ -2892,3 +2918,12 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - Unit 21 Guided Practice boundary cleanup by moving the weak draft into the guided activity that uses it
   - Unit 23 capstone-framing line added to the portfolio opening task
 - Completed the Phase 5 action log by replacing `pending` reports with either implemented-change reports or explicit reviewed-and-retained decisions where additional edits would have caused drift.
+
+### 2026-06-09T00:00:00+09:00 - Unit 4 C To D Rebalance For List Density
+
+- Trigger: Dave flagged `Unit 4 C. Language` as too long and too list-heavy, with `D. Guided Practice` too short by comparison.
+- Action:
+  - kept the subject-line controlled rewrite task in `C. Language`
+  - moved the opening/closing selection task and the opening-sentence task from `C` into `D`
+  - retitled `D` to `Build the Email Step by Step` so the moved tasks now function as visible guided support before the full email
+- Decision: this follows the existing project rule for list-heavy sections: reduce clustered list/practice density by rehoming guided production tasks into `D`, not by flattening all support lists indiscriminately.

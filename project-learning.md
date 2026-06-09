@@ -1453,3 +1453,19 @@ Rules:
 - Required next-time behavior:
   - when neutralizing a comparison pair, also scan the local follow-up explanation for dependent wording such as `stronger version`, `weak version`, `better one`, `consistent version`, and repair those references so they point to the neutral labels directly
   - distinguish broken local label references from valid generic pedagogy and from valid explicit bad/good model contexts before making further replacements
+
+## 2026-06-09 - Language-List Formatting Policy
+
+- Status: `active`
+- Scope: project/style
+- Context: the INT manuscript contains many student-facing language banks, phrase lists, and short vocabulary / function lists. Their function labels, capitalization, and punctuation had drifted across units.
+- Decision:
+  - complete-sentence list items use normal sentence capitalization and sentence punctuation
+  - fragment list items and one- or two-word items use lowercase with no ending punctuation
+  - when a list is divided by function, purpose, or another list-intro category, the category line immediately above that sublist should be a bold line in word capitalization with no ending punctuation
+- Operational clarification:
+  - keep normal sentence capitalization for model phrases that operate as actual sentence starters or full message lines, even when they end with ellipses or question marks
+  - apply the lowercase fragment rule to lexical items, noun-phrase support lists, short element lists, verb banks, and similar non-sentence items
+- Required next-time behavior:
+  - standardize new language banks to this pattern when adding or revising INT content
+  - do not mix plain-colon list labels and bold list labels inside comparable language-support blocks unless there is a deliberate genre reason

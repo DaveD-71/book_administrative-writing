@@ -1114,18 +1114,14 @@ Quick Email Check
 ::: language
 Subject Lines
 
-A good subject line is:
-
-- short
-- clear
-- specific
+A good subject line is **short**, **clear**, and **specific**.
 
 **Examples of Clear Subject Lines**
 
-- Question About Document Requirements
-- Information Needed for Application Review
-- Update on Internal Procedure
-- Request for Corrected File
+- Question About Missing Signature on Form B
+- Information Needed for March Application Review
+- Update on Monday System Maintenance
+- Request for Corrected Applicant ID File
 :::
 
 ::: rewrite
@@ -1156,37 +1152,18 @@ Email Openings and Closings
 
 Use a polite opening and closing that match the reader.
 
-Common openings include:
+**Common Openings**
 
 - Dear Mr./Ms. [Name],
 - Dear Team,
 - Thank you for your email.
 
-Common closings include:
+**Common Closings**
 
 - Thank you.
 - Kind regards,
 - Best regards,
 - Please let me know if you need further information.
-:::
-
-::: rewrite
-Practice: Choose an Opening and Closing
-
-Select an appropriate opening and closing for each situation. Write your choices in the box below each situation.
-
-1. You are writing to a colleague about an internal document.
-
-   {{PH-1: U04-C-lang2-1 | rows=2}}
-
-2. You are writing to an applicant.
-
-   {{PH-1: U04-C-lang2-2 | rows=2}}
-
-3. You are writing to a foreign office.
-
-   {{PH-1: U04-C-lang2-3 | rows=2}}
-
 :::
 
 ::: language
@@ -1213,10 +1190,30 @@ The opening sentence tells the reader **why you are writing**. It is not only a 
 That helps the reader prepare for the rest of the email.
 :::
 
-::: write
-Practice: Write the Opening Sentence
+### D. Guided Practice
 
-Write a clear opening sentence for each situation.
+::: write
+Build the Email Step by Step
+
+Use the same skill parts from Section C to build one complete email.
+
+**Situation:** You are writing to an applicant, Ms. Kim. You want to confirm the required documents for her application.
+
+First choose an opening and closing for each situation.
+
+1. You are writing to a colleague about an internal document.
+
+   {{PH-1: U04-C-lang2-1 | rows=2}}
+
+2. You are writing to an applicant.
+
+   {{PH-1: U04-C-lang2-2 | rows=2}}
+
+3. You are writing to a foreign office.
+
+   {{PH-1: U04-C-lang2-3 | rows=2}}
+
+Now write a clear opening sentence for each situation.
 
 1. You want to ask about a missing document.
 
@@ -1230,16 +1227,7 @@ Write a clear opening sentence for each situation.
 
    {{PH-1: U04-C-rewrite-7 | rows=2}}
 
-:::
-
-### D. Guided Practice
-
-::: write
-Build a Complete Email
-
-Use the prompts to write a simple, clear email.
-
-**Situation:** You are writing to an applicant, Ms. Kim. You want to confirm the required documents for her application.
+Then use this order to write one complete email for Ms. Kim.
 
 Use this order:
 
@@ -1742,7 +1730,7 @@ Useful Phrases for Delays and Changes
 
 Use neutral phrases so the update explains the situation without sounding emotional.
 
-Neutral phrases:
+**Neutral Phrases**
 
 - There will be a delay in...
 - The schedule has been adjusted.
@@ -1750,14 +1738,14 @@ Neutral phrases:
 - There has been a change in...
 - The update will affect...
 
-Reasons:
+**Reasons**
 
 - due to additional checks
 - because further review is required
 - because the system is under maintenance
 - due to missing information
 
-Next steps:
+**Next Steps**
 
 - The next update will be provided when available.
 - Further details will follow.
@@ -2466,16 +2454,16 @@ This procedure works because the reader can see what to do first, what to do nex
 ::: language
 Clear Instruction Verbs
 
-Common verbs used in procedures include:
+**Common Procedure Verbs**
 
-- Check
-- Confirm
-- Review
-- Select
-- Enter
-- Attach
-- Save
-- Submit
+- check
+- confirm
+- review
+- select
+- enter
+- attach
+- save
+- submit
 
 Choose verbs that tell the reader exactly what action to take. Avoid vague verbs such as handle, do, or fix when a more exact action is possible.
 :::
@@ -3248,12 +3236,12 @@ Summary A feels weak because it uses vague words like many things and something.
 ::: language
 Key Elements of a Meeting Summary
 
-A clear summary usually includes:
+**A Clear Summary Usually Includes**
 
-- **Topic / purpose of the meeting**
-- **Main points discussed**
-- **Decisions made**
-- **Next steps / action items**
+- topic / purpose of the meeting
+- main points discussed
+- decisions made
+- next steps / action items
 
 **Useful Phrases**
 
@@ -3625,16 +3613,16 @@ Email B and the example email work because the outside reader gets enough backgr
 ::: language
 Structure of an External Inquiry
 
-A clear inquiry email usually includes:
+**A Clear Inquiry Email Usually Includes**
 
-1. **Subject line** - clear and specific.
-2. **Greeting** - polite and neutral.
-3. **Background** - brief context so the reader understands the question.
-4. **Inquiry question** - one clear, specific question.
-5. **Closing sentence** - neutral and polite.
-6. **Sign-off**.
+1. **subject line** - clear and specific
+2. **greeting** - polite and neutral
+3. **background** - brief context so the reader understands the question
+4. **inquiry question** - one clear, specific question
+5. **closing sentence** - neutral and polite
+6. **sign-off**
 
-Useful phrases:
+**Useful Phrases**
 
 - We are currently reviewing...
 - Our office is checking...
@@ -6090,7 +6078,7 @@ Revision vs. Notice
 
 Purpose: Correct previously shared information.
 Tone: Polite, clear, concise.
-Useful phrases:
+**Useful Phrases**
 
 - Thank you for your cooperation.
 - We would like to provide a correction regarding...
@@ -6101,7 +6089,7 @@ Useful phrases:
 
 Purpose: Inform staff of the correction.
 Tone: Neutral, informative.
-Useful phrases:
+**Useful Phrases**
 
 - Please note the following correction...
 - The updated schedule is...
@@ -6412,10 +6400,10 @@ Standardising Team Writing
 
 **Formatting Standards**
 
-- Clear paragraph breaks
-- Professional spacing
-- Complete sentences
-- Consistent subject line format
+- clear paragraph breaks
+- professional spacing
+- complete sentences
+- consistent subject line format
 :::
 
 Team consistency is a reader-support tool, not only a style preference.
