@@ -115,7 +115,7 @@ The weaker version makes the reader wait too long before the real action appears
 
 ### C. Language
 
-::: language
+::: structure
 Basic Sentence Pattern
 
 Most clear administrative English sentences follow this simple pattern:
@@ -143,7 +143,7 @@ Identify the parts of each sentence: **underline** the subject, **circle** the v
 5. The examiner requested more information.
 :::
 
-::: write
+::: rewrite
 Practice: Build Clear Sentences
 
 Rewrite the word groups as clear SVO or SVC sentences.
@@ -679,7 +679,7 @@ Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph s
 
 ### C. Language
 
-::: language
+::: structure
 Three-Part Paragraph Structure
 
 ::: example-good
@@ -725,7 +725,7 @@ Review Summary Example
 We reviewed the payment records this morning. During the review, we found that one receipt was missing from the file. This missing receipt should be noted before the monthly summary is completed.
 :::
 
-::: write
+::: structure
 Build a Short Review Summary
 
 Put the sentences below in a logical order for a short **review summary**. The paragraph should first say what was checked, then say what was found, and then explain what the finding means.
@@ -1089,7 +1089,7 @@ The reader should understand the purpose without guessing.
 
 ### C. Language
 
-::: learn
+::: structure
 Basic Email Layout
 
 A professional email has a **clear structure** so that the reader can easily understand the purpose.
@@ -1801,7 +1801,7 @@ Why This Order Works
 The paragraph moves from topic to reason, then to effect, and finally to the next step. This order helps the reader understand both the situation and the practical meaning of the delay.
 :::
 
-::: write
+::: structure
 Reorder to Make a Clear Update
 
 Put the sentences in a logical order.
@@ -1819,7 +1819,7 @@ Write the best order with the sentence letters only.
 {{PH-1: U06-practice-b-reorder | rows=2}}
 :::
 
-::: write
+::: rewrite
 Add Supporting Information
 
 Expand each message to 2-3 sentences by adding supporting information.
@@ -2128,13 +2128,13 @@ Write a Request Email
 
 Write a complete request email. Include these parts:
 
-- **Subject:**
-- **Greeting:**
-- **Opening sentence:**
-- **Request (1-2 sentences):**
-- **Context / reason (1 sentence):**
-- **Softened closing sentence:**
-- **Sign-off:**
+- Subject
+- Greeting
+- Opening sentence
+- Request (1-2 sentences)
+- Context / reason (1 sentence)
+- Softened closing sentence
+- Sign-off
 
 {{PH-3: U07-guided-document | rows=10}}
 :::
@@ -2142,7 +2142,7 @@ Write a complete request email. Include these parts:
 ### E. Freer Practice
 
 ::: write
-Write Two Request Emails
+Request Emails
 
 Write **two short emails** (3-4 sentences each) requesting information or action.
 Choose two situations below.
@@ -2515,7 +2515,7 @@ Write the correct order using the letters only.
 {{PH-1: U08-practice-b-order | rows=2}}
 :::
 
-::: write
+::: structure
 Add Missing Steps
 
 Each procedure below is incomplete. Add **one or two steps** to make it clearer.
@@ -2705,7 +2705,7 @@ Use this checklist when you review or write a notice:
 - Does the notice show what happens next?
 :::
 
-::: language
+::: structure
 Notice Structure
 
 A clear internal notice usually includes:
@@ -3027,7 +3027,7 @@ Try to make the reader understand:
 
 :::
 
-::: write
+::: rewrite
 Add Details
 
 Add **two additional sentences** to explain the situation more clearly.
@@ -3233,7 +3233,7 @@ Summary A feels weak because it uses vague words like many things and something.
 
 ### C. Language
 
-::: language
+::: structure
 Key Elements of a Meeting Summary
 
 **A Clear Summary Usually Includes**
@@ -3610,7 +3610,7 @@ Email B and the example email work because the outside reader gets enough backgr
 
 ### C. Language
 
-::: language
+::: structure
 Structure of an External Inquiry
 
 **A Clear Inquiry Email Usually Includes**
@@ -3657,7 +3657,7 @@ Rewrite each inquiry to make it clearer, more polite, and more complete. Add a s
 
 :::
 
-::: write
+::: rewrite
 Add Background Information
 
 Add **one sentence of background** before each question. The background should tell the reader what document, message, or rule you are asking about.
@@ -3843,7 +3843,7 @@ Version B gives the situation, the reason, and the effect. The reader does not n
 
 ### C. Language
 
-::: language
+::: structure
 Useful Phrases for Explanations
 
 **Giving Background**
@@ -3890,7 +3890,7 @@ Rewrite each sentence to make the explanation clearer. Build each answer so the 
 
 :::
 
-::: write
+::: rewrite
 Add a Reason or Background
 
 Add **one sentence of background** and **one sentence of reason** before each main sentence.
@@ -4081,7 +4081,7 @@ The response acknowledges the question, gives the correct information, and adds 
 
 ### C. Language
 
-::: language
+::: structure
 Useful Phrases to Clarify Information
 
 **Acknowledging the Question**
@@ -4128,7 +4128,7 @@ Rewrite each response so it is clear and polite. When possible, acknowledge the 
 
 :::
 
-::: write
+::: rewrite
 Add Clarifying Information
 
 Add **one sentence that acknowledges the confusion** and **one sentence that clarifies**.
@@ -4328,7 +4328,7 @@ The consistent version has a clear subject line, professional greeting, complete
 
 ### C. Language
 
-::: language
+::: structure
 Standard Email Elements
 
 Use standard email elements to create consistency.
@@ -6266,7 +6266,7 @@ Write a short correction log for one scenario in this unit:
 {{PH-1: U20-extension-log | rows=4}}
 :::
 
-::: write
+::: revise
 Rewrite One Earlier Message
 
 Choose a message from a previous unit. Rewrite it as:
@@ -6369,7 +6369,7 @@ Clear team standards help:
 - Support smoother administrative procedures
 :::
 
-::: learn
+::: structure
 A shared team standard usually covers:
 
 - opening and closing style
@@ -6580,7 +6580,7 @@ Write:
 {{PH-1: U21-extension-notes | rows=4}}
 :::
 
-::: write
+::: revise
 Rewrite the Pair with a New Team Standard
 
 Choose one of the Unit 21 situations and rewrite the two messages again using a slightly different but still consistent team standard.
@@ -6876,7 +6876,7 @@ Before finalizing the pack, compare the three drafts line by line.
 {{PH-1: U22-extension-check | rows=4}}
 :::
 
-::: write
+::: revise
 Rewrite the Three-Document Set
 
 Choose one scenario from the freer practice section. Rewrite the three documents again using a different tone or structure.
@@ -6945,7 +6945,7 @@ Choose **two priorities** you most want your portfolio to show. Write one short 
 
 ### C. Language
 
-::: language
+::: structure
 Portfolio Revision Checklist
 
 Before revising your drafts, check for:
@@ -7224,7 +7224,7 @@ Write one sentence on each line where possible.
 {{PH-1: U23-transfer-response | rows=4}}
 :::
 
-::: write
+::: revise
 Homework: Final Course Task
 
 Choose any earlier writing task and complete a **third revision**, focusing on perfecting tone, flow, and accuracy.

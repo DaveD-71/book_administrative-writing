@@ -104,6 +104,20 @@ Historical note:
   - normalized fragment-style element lists in Unit 11 and Unit 21 to lowercase with no ending punctuation
   - normalized the Unit 12 inquiry-structure list so the numbered items read as lowercase fragment entries rather than pseudo-sentences
   - converted repeated `Useful phrases:` labels in Unit 20 to the new bold category format
+
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Div Class Semantic Re-Audit Added
+
+- Added a targeted Phase 5 review file at:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_div_class_semantic_reaudit_0609.md`
+- Scope of the re-audit:
+  - `language` / `learn` candidates that may be more accurate as `structure`
+  - `write` candidates that may be more accurate as `rewrite`, `revise`, or `structure`
+  - the status of `example-bad` / `example-good` relative to the approved core div system
+- Main conclusion:
+  - the INT manuscript includes the full approved 9-class core system
+  - `example-bad` and `example-good` can be treated as `example` sub-classes
+  - semantic drift remains strongest in underused `structure` / `revise` and overused `write`
   - `adv/edits & guides/planning/guide-set/aw-adv_unit_structural_profiles_revised.md`
   - `adv/edits & guides/planning/guide-set/aw-adv_project_todo_list.md`
 - Recorded the focused second-pass review at:
@@ -2927,3 +2941,29 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - moved the opening/closing selection task and the opening-sentence task from `C` into `D`
   - retitled `D` to `Build the Email Step by Step` so the moved tasks now function as visible guided support before the full email
 - Decision: this follows the existing project rule for list-heavy sections: reduce clustered list/practice density by rehoming guided production tasks into `D`, not by flattening all support lists indiscriminately.
+
+### 2026-06-09T00:00:00+09:00 - Phase 5 Semantic Div Class Corrections Applied
+
+- Followed the recommended next step from:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_div_class_semantic_reaudit_0609.md`
+- Applied a controlled source-level class correction pass in:
+  - `int/md/working/aw-int-all_0519.md`
+- Corrections made:
+  - `language` / `learn` -> `structure` where the div primarily teaches text or document organisation
+  - `write` -> `rewrite` where the task extends or transforms supplied text
+  - `write` -> `structure` where the task is mainly ordering or completing an existing framework
+  - `write` -> `revise` where the task explicitly reworks earlier learner output
+- Decision:
+  - this pass addresses the strongest confirmed semantic mismatches without reopening the already-completed broader Phase 5 activity review
+  - `example-bad` / `example-good` remain handled as controlled sub-classes of `example`, not as a separate top-level class family
+
+### 2026-06-09T00:00:00+09:00 - TOC Layout Expanded With Section And Activity Guide
+
+- Updated:
+  - `int/edits & guides/full-review/toc_table_layout_0609.md`
+- Added and refined:
+  - a full unit-by-section TOC table with unit titles and short activity summaries
+  - a student-facing `Section Guide` for sections `A` to `H`
+  - a student-facing `Activity Guide` for the active div-class set used in the INT book
+- Final adjustment:
+  - reordered the activity-class descriptions alphabetically so the guide is easier to scan
