@@ -1751,7 +1751,7 @@ _All exercises use the student's own previous writing as source material. No fix
 
 - an external message that thanks the reader, names the exact document problem, and asks for one clear action
 - an internal message that explains the same fact neutrally and tells the team what to pause, continue, or watch
-- a revision note explaining why the two texts cannot stay the same and which editing pass improved the set most
+- a revision note explaining why the external and internal versions need different wording, which reader needed different detail or tone, and which editing pass improved the set most
 
 **Self-Edit Routine:** Open-ended. Students should apply the integrated-task checklist to one set from Units 19-23, then revise one opening or next-step sentence. The revision should improve purpose, audience separation, consistency, or action clarity.
 

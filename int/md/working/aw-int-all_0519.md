@@ -2604,8 +2604,14 @@ Write **one opening sentence** and **4-6 numbered steps**. Make clear who will u
 
 ### F. Editing Practice
 
+::: edit
+Repair the Procedure
+
+Rewrite the procedure so it becomes clearer and easier to follow. Use numbered steps.
+:::
+
 ::: example-bad
-Original
+Original Procedure
 
 1. Check the file and maybe look at the applicant number too because this is important.
 2. If everything is okay then save it, but first rename it if necessary.
@@ -2613,9 +2619,7 @@ Original
 :::
 
 ::: edit
-Repair the Procedure
-
-Rewrite this procedure so it becomes clearer and easier to follow. Use numbered steps.
+Write your revised procedure here:
 
 {{PH-2: U08-editing-rewrite | rows=6}}
 :::
@@ -3350,16 +3354,20 @@ Include the topic, the main point or decision, and one next step in each summary
 
 ### F. Editing Practice
 
+::: edit
+Make the Summary Usable
+
+Rewrite the summary so it becomes clearer for a colleague who missed the meeting.
+:::
+
 ::: example-bad
-Original
+Original Summary
 
 We talked about the forms and some schedule issues. IT also said something about access. More discussion will happen later.
 :::
 
 ::: edit
-Make the Summary Usable
-
-Rewrite this summary so it becomes clearer for a colleague who missed the meeting.
+Write your revised summary here:
 
 {{PH-2: U11-editing-rewrite | rows=6}}
 :::
@@ -4217,16 +4225,20 @@ In each response, acknowledge the confusion, state the correct information, and 
 
 ### F. Editing Practice
 
+::: edit
+Remove the Defensive Tone
+
+Rewrite the response so it becomes clearer and more professional.
+:::
+
 ::: example-bad
-Original
+Original Response
 
 You misunderstood the message. We already explained this rule before, so please read it again carefully.
 :::
 
 ::: edit
-Remove the Defensive Tone
-
-Rewrite the response so it becomes clearer and more professional.
+Write your revised response here:
 
 {{PH-2: U14-editing-rewrite | rows=6}}
 :::
@@ -4410,8 +4422,14 @@ Rewrite the email so the subject line, greeting, body, and closing follow one pr
 
 ### D. Guided Practice
 
+::: rewrite
+Standardize a Draft Email
+
+Rewrite the email so the subject line, greeting, body, request, closing, and sign-off work together in one consistent style.
+:::
+
 ::: example-bad
-Original
+Original Draft Email
 
 Subject: Check
 
@@ -4423,9 +4441,7 @@ Thanks.
 :::
 
 ::: rewrite
-Standardize a Draft Email
-
-Rewrite the email so the subject line, greeting, body, request, closing, and sign-off work together in one consistent style.
+Write your revised email here:
 
 {{PH-3: U15-guided-document | rows=8}}
 :::
@@ -4860,6 +4876,14 @@ Each short text contains 4-5 errors. Rewrite the corrected version.
 
 ### D. Guided Practice
 
+::: edit
+Edit a Short Administrative Email
+
+You are editing a short email draft before it is sent to a colleague or applicant.
+
+Rewrite the corrected, professional version.
+:::
+
 ::: example-bad
 Original Email
 
@@ -4869,11 +4893,7 @@ I check the document yesterday and it have some mistake. The informations in sec
 :::
 
 ::: edit
-Edit a Short Administrative Email
-
-You are editing a short email draft before it is sent to a colleague or applicant.
-
-Rewrite the corrected, professional version.
+Write your revised email here:
 
 {{PH-3: U16-guided-document | rows=10}}
 :::
@@ -5161,17 +5181,21 @@ Write the best order and then write one clear version.
 
 ### D. Guided Practice
 
+::: edit
+Edit for Clarity
+
+Rewrite the paragraph in 4-5 clear sentences.
+Treat it as a draft update that a colleague wrote for internal use.
+:::
+
 ::: example-bad
-Original
+Original Paragraph
 
 The system was slow today and we couldn't do much because of it. Also, there was a problem with the files and some people couldn't open them. So the schedule might change, and maybe we will need more time. There might be more information later.
 :::
 
 ::: edit
-Edit for Clarity
-
-Rewrite this paragraph in 4-5 clear sentences.
-Treat it as a draft update that a colleague wrote for internal use.
+Write your revised paragraph here:
 
 {{PH-2: U17-guided-paragraph | rows=8}}
 :::
@@ -5210,31 +5234,39 @@ D. Meeting summary
 
 ### F. Editing Practice
 
+::: edit
+From Vague to Usable
+
+Rewrite the draft so it becomes clearer for an internal reader.
+:::
+
 ::: example-bad
-Original
+Original Draft
 
 There were maybe some issues with the forms and things will probably take a bit longer because of that, and more information will maybe come later.
 :::
 
 ::: edit
-From Vague to Usable
-
-Rewrite this draft so it becomes clearer for an internal reader.
+Write your revised message here:
 
 {{PH-2: U17-editing-rewrite | rows=5}}
-:::
-
-::: example-bad
-Original
-
-We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
 :::
 
 ::: edit
 Clear Paragraph Revision
 
-Rewrite this paragraph in 6-8 sentences to improve clarity and flow.
+Rewrite the paragraph in 6-8 sentences to improve clarity and flow.
 Treat it as a draft internal paragraph that needs revision before it is shared.
+:::
+
+::: example-bad
+Original Paragraph
+
+We checked some things and there are maybe a few issues. The system did something unexpected. There is also something strange with the document names. So it could change the review schedule and it might take longer. More information will be available later.
+:::
+
+::: edit
+Write your revised paragraph here:
 
 {{PH-2: U17-extended-paragraph | rows=8}}
 :::
@@ -5477,8 +5509,15 @@ Why didn't you tell me about this earlier? Now we have a delay.
 
 ### D. Guided Practice
 
+::: edit
+Edit a Full Email
+
+Rewrite the email to make the tone neutral and professional.
+Treat it as a draft message that will be sent to an applicant or colleague after revision.
+:::
+
 ::: example-bad
-Original
+Original Email
 
 Subject: Form
 Hi,
@@ -5486,10 +5525,7 @@ The applicant did not follow the instructions again. This is causing problems fo
 :::
 
 ::: edit
-Edit a Full Email
-
-Rewrite the email to make the tone neutral and professional.
-Treat it as a draft message that will be sent to an applicant or colleague after revision.
+Write your revised email here:
 
 {{PH-3: U18-guided-document | rows=10}}
 :::
@@ -5528,31 +5564,39 @@ D. Clarifying a misunderstanding
 
 ### F. Editing Practice
 
+::: edit
+Keep the Meaning, Change the Tone
+
+Rewrite the draft so it stays clear but sounds more professional.
+:::
+
 ::: example-bad
-Original
+Original Draft
 
 You gave us the wrong information again. This is causing delays for our team. Please fix it immediately.
 :::
 
 ::: edit
-Keep the Meaning, Change the Tone
-
-Rewrite this draft so it stays clear but sounds more professional.
+Write your revised message here:
 
 {{PH-2: U18-editing-rewrite | rows=5}}
-:::
-
-::: example-bad
-Original
-
-We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
 :::
 
 ::: edit
 Tone Revision Paragraph
 
-Rewrite this paragraph in 6-8 sentences to improve tone while keeping the same information.
+Rewrite the paragraph in 6-8 sentences to improve tone while keeping the same information.
 Treat it as a draft internal note that needs a more neutral and professional tone before it is shared.
+:::
+
+::: example-bad
+Original Paragraph
+
+We told the applicant many times, but they still submitted the wrong file. This is very frustrating. They clearly didn't follow the instructions again. Now everything is delayed. We can't work like this. Someone needs to explain the rules again.
+:::
+
+::: edit
+Write your revised paragraph here:
 
 {{PH-2: U18-extended-paragraph | rows=8}}
 :::
@@ -7294,27 +7338,29 @@ Rebuild the weak response as a stronger set:
    - name the exact document problem
    - ask for one clear action
    - give a professional deadline or next step
-2. Internal message:
-   - explain the same fact neutrally
-   - tell the team what to pause, continue, or watch
-   - remove any sentence that only belongs in the external message
-3. Revision note:
-   - explain why the two texts cannot stay the same
-   - explain which audience needed more detail
-   - explain which Module 5 editing pass improved the set most
-:::
 
 **External Message**
 
 {{PH-2: M6-revision-external | rows=6}}
 
+2. Internal message:
+   - explain the same fact neutrally
+   - tell the team what to pause, continue, or watch
+   - remove any sentence that only belongs in the external message
+
 **Internal Message**
 
 {{PH-2: M6-revision-internal | rows=6}}
 
+3. Revision note:
+   - explain why the external and internal versions need different wording
+   - explain which reader needed different detail or tone
+   - explain which Module 5 editing pass improved the set most
+
 **Revision Note**
 
 {{PH-1: M6-revision-note | rows=5}}
+:::
 
 ### Self-Edit Routine
 

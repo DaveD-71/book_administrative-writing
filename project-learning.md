@@ -1427,3 +1427,18 @@ Rules:
 - Required next-time behavior:
   - treat `int/edits & guides/full-review/print-readiness-audits/phase 3` as the canonical location for current Phase 3 review artifacts
   - if a new Phase 3 file is accidentally created at the parent audit level, move it into `phase 3` promptly so the audit trail stays consolidated
+
+## 2026-06-09 - INT Phase 3 Is Now Complete At The Markdown Review Layer
+
+- Status: `active`
+- Scope: project/state
+- Context: the unit-by-unit and workshop-by-workshop Phase 3 repair cycle has now been carried through Unit 23, the Module 6 Review Workshop recheck, and the follow-up source cleanup for example-first backward-reference task ordering.
+- Decision: treat INT Phase 3 as complete at the **manuscript / answer-key / workshop markdown-review layer**. The working source now has:
+  - Units 1-23 normalized through the Phase 3 repair standard
+  - Module 3-6 review workshops rechecked under the workshop standard, with Module 4-6 fixes applied where needed
+  - Unit 23 and Module 6 recorded in the Phase 3 audit trail under `int/edits & guides/full-review/print-readiness-audits/phase 3`
+  - the identified example-first backward-reference cases rewritten so the task instruction comes before the example in the source
+- Important boundary: this does **not** mean final print sign-off is complete. PDF / DOCX visual verification, running-header checks, split-content checks, and any final production-layer fixes still belong to the later print-readiness / production stage.
+- Preferred behavior:
+  - use the current `int/md/working/aw-int-all_0519.md` plus `int/md/working/aw-int-answer-key.md` as the post-Phase-3 manuscript baseline
+  - treat future work from this point as production verification, reconciliation, or later QA rather than reopening routine Phase 3 structural repairs unless new evidence appears

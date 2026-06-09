@@ -2388,3 +2388,18 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Trigger: Dave asked to complete the Phase 3 unit-by-unit cycle with Unit 23 and then finish the full verification process.
 - Action: rebuilt Unit 23 into a stable capstone `A-H` sequence, restored `A. Warm-Up` as the visible opening activity by folding the portfolio definition into the draft-selection task, grouped the three earlier-draft revision tasks under `D. Guided Practice`, consolidated the assembly board, new-document task, and four-piece portfolio submission under `E. Freer Practice`, rebuilt `F. Editing Practice` around the weakest-piece rebuild routine plus a revision note, moved final checks, rubric use, and reflection into `G`, consolidated extension and final homework under `H`, and replaced the generic Unit 23 answer-key note with heading-by-heading open-ended guidance.
 - Verification: Unit 23 now reads `A B C D E F G H`; subordinate `#### A-H` activity headings are gone; generic labels are gone; all 14 placeholders retain explicit `rows=N`; no duplicate placeholder IDs were found; and the Unit 23 placeholders are now inside their relevant activity divs.
+
+## 2026-06-09T10:55:00+09:00 - Module 6 Review Workshop Recheck Applied
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/md/working/aw-int-answer-key.md`, and `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_module6_workshop_recheck_0609.md`.
+- Trigger: Dave asked to continue with the Module 6 review workshop review and repair after the Unit 23 commit / sync checkpoint.
+- Action: rechecked the live Module 6 workshop against the current Phase 3 workshop standard, confirmed that the answer key already provides usable open-ended criteria, and applied the only required markdown repair by moving the three Revision Lab placeholders back inside the relevant `revise` div.
+- Verification: workshop headings remain coherent; placeholders total `10`; all placeholders retain explicit `rows=N`; no duplicate placeholder IDs were found; no generic response labels were found; and no Module 6 workshop placeholders remain outside their relevant divs.
+
+## 2026-06-09T11:20:00+09:00 - Phase 3 Example-Ordering Cleanup Applied And Phase 3 Locked In
+
+- Scope: `int/md/working/aw-int-all_0519.md`, `int/edits & guides/full-review/print-readiness-audits/phase 3/phase3_example_first_backward_reference_scan_0609.md`, `project-learning.md`, and `project-journal.md`.
+- Trigger: Dave identified a recurring source-pattern defect where a section began with an example and only later introduced the task with backward-reference wording such as `this procedure`.
+- Action: rescanned the full manuscript under the stricter rule, recorded the confirmed matches in the new Phase 3 audit file, then rewrote the ten selected source sections so the task instruction comes first, the example follows, and a task-appropriate lead-in line appears immediately before the placeholder.
+- Verification: the edited source returned to balanced div counts after the cleanup (`opens=477`, `closes=477`).
+- Decision: Phase 3 is now locked in as complete at the markdown-review layer for the INT manuscript, answer key, and review workshops; remaining work belongs to later production / print-verification stages rather than routine Phase 3 structural repair.
