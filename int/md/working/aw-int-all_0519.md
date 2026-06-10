@@ -1231,12 +1231,12 @@ Then use this order to write one complete email for Ms. Kim.
 
 Use this order:
 
-1. **Subject line:**
-2. **Greeting:**
-3. **Opening sentence:**
-4. **Body (2-3 sentences):**
-5. **Closing sentence:**
-6. **Sign-off:**
+1. **Subject line**
+2. **Greeting**
+3. **Opening sentence**
+4. **Body (2-3 sentences)**
+5. **Closing sentence**
+6. **Sign-off**
 
 {{PH-3: U04-guided-document | rows=10}}
 :::
@@ -2804,10 +2804,10 @@ Write a Short Internal Notice
 
 Write a short internal notice. Include:
 
-- **Heading:**
-- **Background:**
-- **Essential information:**
-- **Next step:**
+- **Heading**
+- **Background**
+- **Essential information**
+- **Next step**
 
 {{PH-3: U09-guided-document | rows=8}}
 :::

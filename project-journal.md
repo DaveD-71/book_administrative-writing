@@ -2977,3 +2977,39 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
 - Outcome:
   - identified 36 example blocks whose visible title is redundant and can be safely replaced with `No Title`
   - excluded paired visible comparison labels such as `Version A / Version B`, `Email A / Email B`, and the current Unit 1 `Weak / Stronger` pair because those still serve a live identification role in the local activity flow
+
+### 2026-06-10T00:00:00+09:00 - Phase 5 Bold-Colon List Recheck Added
+
+- Added:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_bold_colon_list_recheck_0610.md`
+- Trigger:
+  - Dave spotted more bold-colon list patterns in the rendered PDF and asked whether the Phase 5 files had fully addressed them
+- Outcome:
+  - confirmed that the earlier language-list inventory did not fully close the issue because its scope excluded non-language structural lists
+  - identified two remaining live pattern families in `int/md/working/aw-int-all_0519.md`:
+    - structural slot lists such as `**Subject line:**`
+    - bold label-plus-explanation list items such as `**Topic:** What is delayed or changed`
+
+### 2026-06-10T00:00:00+09:00 - Phase 5 Bold-Colon Follow-Up Applied Selectively
+
+- Trigger:
+  - Dave reviewed the recheck findings and asked to correct only the structural slot-list cases, not the bold label-plus-explanation cases
+- Applied in:
+  - `int/md/working/aw-int-all_0519.md`
+- Changes made:
+  - removed trailing colons from the six bold structural slot items in Unit 4 `D. Guided Practice`
+  - removed trailing colons from the four bold structural slot items in Unit 9 `E. Freer Practice`
+- Retained intentionally:
+  - the Unit 3 and Unit 6 bold label-plus-explanation list items remain unchanged by user instruction
+
+### 2026-06-10T00:00:00+09:00 - TOC Front Matter Expanded For Students
+
+- Updated:
+  - `int/edits & guides/full-review/toc_table_layout_0609.md`
+- Added:
+  - a longer student-facing textbook introduction
+  - a paragraph explaining that the book teaches several message types, not only external emails
+  - a six-paragraph student-facing module overview placed before the TOC
+  - a new leftmost `Module` column in the TOC table
+- Refinement:
+  - simplified the module-overview wording so it is clearer for intermediate-level students and avoids teacher-facing phrases such as `core writing control`
