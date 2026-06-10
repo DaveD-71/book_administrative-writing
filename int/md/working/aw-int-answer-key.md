@@ -18,6 +18,17 @@ Model answers are provided for all exercises with specific expected responses. G
 - 3b: Reduces relative clause to participial phrase; shorter and cleaner
 
 
+##### B. Example Check
+
+Version B is stronger because the main action appears immediately:
+
+1. send
+2. the missing form
+3. as soon as possible
+
+The weaker version delays the real action behind indirect formal wording.
+
+
 ##### C. Language — Practice: Identify the Parts
 
 | # | Subject | Verb | Object / Complement |
@@ -55,6 +66,16 @@ The student book now gives each item its own response space. Model sentences:
 > We are currently checking your application. The document attached to your email is not the same as the document discussed on Monday. We need a little more time because we must confirm the information with another department. We will contact you again after the confirmation is complete.
 
 
+##### E. Freer Practice — Write Clear Administrative Sentences
+
+Open-ended. A strong response should:
+
+- explain the problem clearly
+- state what the applicant needs to send
+- include the deadline
+- use short direct sentences rather than long formal openings
+
+
 ##### F. Editing Practice — Fix the Reader Problem
 
 Students should name the reader problem and then rewrite the sentence. Accept similar wording if the problem is correctly identified and the rewrite is clearer.
@@ -69,6 +90,20 @@ Students should name the reader problem and then rewrite the sentence. Accept si
    **Rewrite:** We are writing to ask you to send the correct version of the attached file.
 
 
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should identify one difficulty from the unit, name one point they want to remember for workplace email writing, and rewrite one clear sentence from their own work.
+
+
+##### H. Homework & Extension — Turn Sentences into a Mini Message
+
+Open-ended. In the extension task, students should first write two simple sentences: one stating the issue and one stating the next important fact. The final message should then turn the same information into a short professional 3-4 sentence message.
+
+The homework response should translate the main message of one real Japanese work email, or one Unit 1 practice situation, into 3-4 clear English sentences using direct SVO structure.
+
+
 #### Unit 2. Professional Tone Basics
 
 ##### A. Warm-Up — Which Sounds More Professional?
@@ -76,6 +111,17 @@ Students should name the reader problem and then rewrite the sentence. Accept si
 **Answers: 1b, 2b, 3b**
 
 All b options use polite modal question forms ("Could you", "Could you explain") which reduce the imperative pressure of the a options.
+
+
+##### B. Example Check
+
+**Answer: B**
+
+Version B is stronger because it:
+
+- reduces pressure on the reader
+- sounds cooperative rather than demanding
+- keeps the focus on the task instead of blame
 
 
 ##### C. Language — Practice: Make the Request Polite
@@ -108,12 +154,30 @@ All b options use polite modal question forms ("Could you", "Could you explain")
 > Thank you.
 
 
+##### E. Freer Practice — Write Your Own Professional Email
+
+Open-ended. A strong response should:
+
+- choose one situation only
+- include a clear opening
+- use one polite request or clarification question
+- close in a calm professional way
+- avoid blame or pressure language
+
+
 ##### F. Editing Practice — Remove the Tone Problem
 
 1. The incorrect file was received. Could you please send the correct version when you have an opportunity?
 2. Could you please let me know what happened?
 3. I have a question about the earlier check. Could you help me understand what occurred?
 4. Could you please send the update today at your earliest convenience?
+
+
+##### G. Self-Check and Reflection
+
+Self-check: pass/fail only. No model answer required.
+
+Reflection responses are open-ended. Students should name one polite expression they want to keep using, one tone problem they want to avoid, and one professional request sentence they can use at work.
 
 
 ##### H. Homework & Extension — Same Message, Better Relationship
@@ -134,6 +198,11 @@ The professional version should keep the same meaning, reduce pressure or blame,
 **Answer: A**
 
 Paragraph A keeps all sentences on the same topic (reviewing the guidelines). Paragraph B mixes four unrelated topics and reads like disconnected notes.
+
+
+##### B. Example Check
+
+Paragraph A is stronger because all sentences connect to one main idea: reviewing the updated guidelines. The paragraph also moves in a clear order from review, to problem found, to effect, to next step. Paragraph B is weaker because it mixes unrelated topics and forces the reader to reorganise the information.
 
 
 ##### C. Language — Identify the Parts
@@ -215,9 +284,19 @@ Open-ended. Students should turn information from Unit 1 or Unit 2 into one inte
 
 #### Module 1 Review Workshop
 
-**Review Case Comparison / Review Response:** Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
+##### Key Lessons to Keep
 
-**Revision Lab possible model:**
+Open-ended recap. Students should be able to name the core Module 1 controls: clear sentence structure, professional tone, and paragraph organisation.
+
+
+##### Review Case Comparison
+
+Version B is stronger. It is easier to read quickly because it uses shorter sentences, states the missing document clearly, and gives the next action with a deadline. Version A is weak because it runs several ideas together and does not clearly separate the review, the problem, and the request. A successful student response should mention sentence clarity, tone, and paragraph structure.
+
+
+##### Revision Lab
+
+Possible model:
 
 > The office checked your file yesterday and found several errors in the attached section. Could you please send a corrected version by Thursday so that we can continue the review? If you would like, we can also clarify the required format.
 
@@ -227,9 +306,13 @@ Key improvements:
 - Changed the pressured request to a cooperative request.
 - Ended with a clear next action for the reader.
 
-**Self-Edit Routine:** Open-ended. Students should apply the checklist to one piece of writing from Units 1-3, then write one revised sentence and one revised paragraph. The revised sentence should make the main action easier to find. The revised paragraph should show a clearer topic, support, and closing.
+##### Self-Edit Routine
 
-**Transfer Task:** Open-ended. A successful response should include:
+Open-ended. Students should apply the checklist to one piece of writing from Units 1-3, then write one revised sentence and one revised paragraph. The revised sentence should make the main action easier to find. The revised paragraph should show a clearer topic, support, and closing.
+
+##### Transfer Task
+
+Open-ended. A successful response should include:
 
 - a short internal message of 5-6 sentences
 - clear sentence control from Unit 1
@@ -237,7 +320,9 @@ Key improvements:
 - one paragraph with a visible topic, support, and closing from Unit 3
 - three short notes explaining the sentence, tone, and paragraph choices
 
-**Preparation for Module 2:** Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
+##### Preparation for Module 2
+
+Self-check only. If a student cannot complete one item confidently, they should revise one more piece of writing from the relevant unit before beginning Module 2.
 
 
 ### MODULE 2. Essential Email Writing for Administrative Contexts
@@ -250,9 +335,9 @@ Open-ended. Strong responses should mention two features such as:
 
 - a clear subject line
 - a professional greeting
-- a first sentence that states the purpose
+- an opening sentence that states the purpose
 - a specific question or request
-- a polite closing
+- a polite closing sentence
 
 ##### B. Example Check — Which Email Is Better?
 
@@ -274,16 +359,16 @@ _Goal: Short (2–4 words), compound-noun style, no first-person "I am writing..
 ##### C. Language — Practice: Choose an Opening and Closing
 
 1. **Colleague (internal document):**
-   - Opening: Dear [Name], / Dear Team,
-   - Closing: Thank you. / Kind regards,
+   - Greeting: Dear [Name], / Dear Team,
+   - Closing sentence: Thank you. / Kind regards,
 
 2. **Applicant:**
-   - Opening: Dear Mr./Ms. [Name],
-   - Closing: Thank you. / Please let me know if you need further information.
+   - Greeting: Dear Mr./Ms. [Name],
+   - Closing sentence: Thank you. / Please let me know if you need further information.
 
 3. **Foreign office:**
-   - Opening: Dear [Office Name] Team,
-   - Closing: Thank you for your assistance. / Kind regards,
+   - Greeting: Dear [Office Name] Team,
+   - Closing sentence: Thank you for your assistance. / Kind regards,
 
 
 ##### C. Language — Practice: Write the Opening Sentence
@@ -315,7 +400,7 @@ Open-ended. A strong response should:
 
 - use one of the three situations (A, B, or C)
 - include all six email parts: a clear subject line, a professional greeting, an opening sentence that states the purpose, a short body (2–3 sentences), a closing sentence, and a sign-off with a name
-- use appropriate language from Activity C (subject line phrases, openings, closings, and useful phrases)
+- use appropriate language from Activity C (subject line phrases, greetings, closing sentences, and useful phrases)
 
 
 ##### F. Editing Practice — Repair the Email Structure
@@ -375,6 +460,13 @@ C. giving an update about a review delay
 2. "Please check it again." — _Check what? Which specific part?_
 3. "We need information about the form." — _Which form? What specific information?_
 4. "The deadline has changed." — _What is the new deadline? Which process does it apply to?_
+
+
+##### B. Example Check
+
+**Answer: Question B**
+
+Question B is stronger because it names the exact unclear point, limits the question to one topic, and gives the reader a clear starting point for a useful answer. Question A sounds frustrated and does not identify what needs clarification.
 
 
 ##### C. Language — Make These Questions Clearer
@@ -465,6 +557,19 @@ Reflection responses are open-ended. Students should be able to name one useful 
 4. "The system will be updated." — _When? Who is affected? For how long?_
 
 
+##### B. Example Check
+
+**Answer: Update B**
+
+Update B works better because it tells the reader:
+
+- what changed
+- why it changed
+- what happens next
+
+This reduces uncertainty and avoids unnecessary follow-up questions.
+
+
 ##### C. Language — Improve the Clarity
 
 1. The meeting has been delayed until Thursday because the updated file set is not yet complete.
@@ -541,6 +646,13 @@ Reflection responses are open-ended. Students should be able to identify useful 
 All b options use polite modal forms. They reduce the pressure of the a options while keeping the request clear.
 
 
+##### B. Example Check
+
+**Answer: Request B**
+
+Request B is stronger because it sounds cooperative rather than forceful. It also names the exact action and gives a short reason, which helps the reader understand why the request matters.
+
+
 ##### C. Language — Choose a Polite Request Form
 
 1. Could you please send the updated file by end of day? We need it for the next review stage.
@@ -610,9 +722,19 @@ The homework response should rewrite one real or practice request using two diff
 
 #### Module 2 Review Workshop
 
-**Email Comparison Review / Review Response:** Version B is easier for the reader to act on. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and action.
+##### Key Lessons to Keep
 
-**Revision Lab:** A possible stronger version:
+Open-ended recap. Students should be able to identify the main Module 2 controls: clear email structure, specific requests, controlled tone, and reader-friendly purpose lines.
+
+
+##### Email Comparison Review
+
+Version B is easier for the reader to act on. It sounds more cooperative because it uses "Could you please" instead of an imperative. It gives the reader a clear reason for the action: the report deadline. A successful student response should mention tone, reason, and action.
+
+
+##### Revision Lab
+
+A possible stronger version:
 
 > Subject: Request to Resend the Student Information Form
 >
@@ -630,9 +752,13 @@ Key improvements:
 - Changed the urgent request into a polite request.
 - Connected the deadline to the review purpose.
 
-**Self-Edit Routine:** Open-ended. Students should apply the checklist to one email from Units 4-7, then write a revised subject/opening and a revised email section. The revision should make the purpose, action, or tone clearer for the reader.
+##### Self-Edit Routine
 
-**Transfer Task:** Open-ended. A successful response should include:
+Open-ended. Students should apply the checklist to one email from Units 4-7, then write a revised subject/opening and a revised email section. The revision should make the purpose, action, or tone clearer for the reader.
+
+##### Transfer Task
+
+Open-ended. A successful response should include:
 
 - one short internal email
 - one short external email about the same situation
@@ -640,7 +766,9 @@ Key improvements:
 - more controlled tone and background detail in the external version where appropriate
 - three short notes explaining what stayed the same, what changed because of audience, and which unit strategy supported the decision
 
-**Preparation for Module 3:** Self-check only. If a student cannot complete one item confidently, they should revise one more email from the relevant unit before beginning Module 3.
+##### Preparation for Module 3
+
+Self-check only. If a student cannot complete one item confidently, they should revise one more email from the relevant unit before beginning Module 3.
 
 
 ### MODULE 3. Administrative Procedures & Internal Communication
@@ -652,6 +780,11 @@ Key improvements:
 **Answer: B**
 
 Version B uses numbered steps with one clear action each. Version A mixes instructions, conditions, and explanatory notes in a single step, making the order hard to follow.
+
+
+##### B. Example Check
+
+The example procedure works because the reader can see what to do first, what to do next, and when the task is complete. A strong procedure follows the real order of the task and gives each step one clear job.
 
 
 ##### C. Language — Improve the Verb Choice
@@ -817,6 +950,11 @@ Open-ended. A successful response should use either one Activity E notice or a r
 4. "We cannot access the document." — _Which document? Since when? Why?_
 
 
+##### B. Example Check
+
+Version B is stronger because it gives the issue, the cause, the effect, and the current status. Professional readers often need all four points before they can decide what to do next.
+
+
 ##### C. Language — Improve the Explanation
 
 1. The uploaded file cannot be reviewed because two required sections are missing. The review will continue once the corrected version is received.
@@ -874,6 +1012,17 @@ Open-ended. A successful response should use a workplace problem, an unclear rea
 Summary B names specific items (applicant list, updated guidelines), gives a clear decision (IT confirms on Monday), and provides the next meeting date.
 
 
+##### B. Example Check
+
+Summary B is stronger because it groups the meeting content by function:
+
+- what the meeting was about
+- what issues matter
+- what happens next
+
+Summary A is weak because it uses vague wording and does not help a reader act quickly.
+
+
 ##### C. Language — Identify the Elements
 
 1. **T** (Topic — what the meeting was for)
@@ -924,9 +1073,19 @@ Open-ended. A successful response should use one unit summary, a real meeting, o
 
 #### Module 3 Review Workshop
 
-**Reader-Purpose Comparison / Review Response:** Version B is stronger. It names the meeting purpose, identifies the main issue, gives the agreed action, and explains when a follow-up meeting will be needed. Version A is weak because it lists general topics without helping the reader act. A successful student response should mention reader purpose, order, and next action.
+##### Key Lessons to Keep
 
-**Revision Lab model answer:**
+Open-ended recap. Students should be able to identify the main Module 3 controls: procedure order, notice clarity, problem explanation, and concise meeting-summary logic.
+
+
+##### Reader-Purpose Comparison
+
+Version B is stronger. It names the meeting purpose, identifies the main issue, gives the agreed action, and explains when a follow-up meeting will be needed. Version A is weak because it lists general topics without helping the reader act. A successful student response should mention reader purpose, order, and next action.
+
+
+##### Revision Lab
+
+Model answer:
 
 > The office will use Room 304 from next Monday because Room 201 will be unavailable for maintenance. Please submit documents at the new room from 9:00 to 4:00 during that period. Normal use of Room 201 will resume the following week.
 
@@ -937,16 +1096,22 @@ Key improvements:
 - Told the reader where and when to submit documents.
 - Added a clear return-to-normal time frame.
 
-**Self-Edit Routine:** Open-ended. Students should apply the checklist to one procedure, notice, problem note, or summary from Units 8-11, then write one revised sentence or step and one revised text section. The revision should improve order, factual detail, or reader action.
+##### Self-Edit Routine
 
-**Transfer Task:** Open-ended. A successful response should include:
+Open-ended. Students should apply the checklist to one procedure, notice, problem note, or summary from Units 8-11, then write one revised sentence or step and one revised text section. The revision should improve order, factual detail, or reader action.
+
+##### Transfer Task
+
+Open-ended. A successful response should include:
 
 - a 3-4 step procedure or action list
 - a short notice or explanation paragraph
 - a 4-5 sentence summary of the outcome or next step
 - three short notes explaining organisation, next-step clarity, and the most useful unit strategy
 
-**Preparation for Module 4:** Self-check only. If a student cannot complete one item confidently, they should revise one more internal text from the relevant unit before beginning Module 4.
+##### Preparation for Module 4
+
+Self-check only. If a student cannot complete one item confidently, they should revise one more internal text from the relevant unit before beginning Module 4.
 
 
 ### MODULE 4. External Communication
@@ -956,6 +1121,11 @@ Key improvements:
 ##### A. Warm-Up - Compare Two Inquiry Emails
 
 **Answer: B.** Email B gives the reader enough background, asks one specific question, and uses a professional email format. Email A gives no useful context and does not make the question answerable.
+
+
+##### B. Example Check
+
+The example inquiry works because the outside reader gets enough background, one clear question, and a polite tone. External readers do not share the writer's full office context, so a strong inquiry gives enough information to answer the question without hiding the main point.
 
 ##### C. Language — Improve the Inquiry
 
@@ -1019,6 +1189,11 @@ Possible missing information:
 2. Which part of the form is incorrect and how it affects the review.
 3. Which applicant information is different and which source should be trusted.
 4. Why the process will take longer and what timing effect the reader should expect.
+
+
+##### B. Example Check
+
+Version B is stronger because it gives the situation, the reason, and the effect. The reader does not need to guess the practical meaning of the delay.
 
 ##### C. Language — Improve the Explanation
 
@@ -1131,7 +1306,7 @@ Email A problems:
 
 ##### B. Example Check
 
-The consistent version works because the subject, greeting, purpose, question, and closing all support the same professional style.
+The consistent version works because the subject line, greeting, opening sentence, question, and closing sentence all support the same professional style.
 
 ##### C. Language — Improve Consistency
 
@@ -1167,7 +1342,7 @@ Possible model:
 
 ##### E. Freer Practice — Write Two Consistent Emails
 
-Open-ended. Each email should include a clear subject line, professional greeting, purpose sentence, body, request or next step, and closing.
+Open-ended. Each email should include a clear subject line, professional greeting, opening sentence, body, request or next step, and closing sentence.
 
 ##### F. Editing Practice — Bring Two Drafts to One Standard
 
@@ -1186,19 +1361,35 @@ Open-ended. The first H task should produce three short, practical team rules ab
 
 #### Module 4 Review Workshop
 
-**Audience-Control Comparison / Review Response:** Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue.
+##### Key Lessons to Keep
 
-**Revision Lab possible model:**
+Open-ended recap. Students should be able to identify the main Module 4 controls: answerable external inquiries, clear explanations, calm clarification responses, and consistent outward-facing email style.
+
+
+##### Audience-Control Comparison
+
+Version B is stronger. It narrows the topic to the document submission process, refers to the previous email, and gives the reader a more answerable question. Version A is vague and gives too much general language without identifying the exact issue.
+
+
+##### Revision Lab
+
+Possible model:
 
 > Thank you for your question. To clarify the process, the supporting document should be uploaded after the main form is submitted. If you upload the main form first, the system will then allow the second document to be added. Please let us know if any part of the process is still unclear.
 
 This version is stronger because it keeps the relationship calm, explains the process in the order the reader needs, removes blame language, and leaves the reader with a clear path forward.
 
-**Self-Edit Routine:** Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
+##### Self-Edit Routine
 
-**Transfer Task:** Open-ended. A successful response should include one short outward-facing email with a clear purpose, only the detail the reader needs, and a respectful closing; one short internal explanation for the team; and three short notes explaining audience wording, detail control, and the unit strategy used.
+Open-ended. Students should apply the checklist to one inquiry, explanation, clarification response, or repeated email from Units 12-15, then write a revised opening/question and a revised message section. The revision should improve purpose, answerability, detail control, or trust.
 
-**Preparation for Module 5:** Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
+##### Transfer Task
+
+Open-ended. A successful response should include one short outward-facing email with a clear purpose, only the detail the reader needs, and a respectful closing; one short internal explanation for the team; and three short notes explaining audience wording, detail control, and the unit strategy used.
+
+##### Preparation for Module 5
+
+Self-check only. If a student cannot complete one item confidently, they should revise one more external message from the relevant unit before beginning Module 5.
 
 ### MODULE 5. Advanced Editing & Revision Skills
 
@@ -1606,7 +1797,7 @@ Open-ended. The extension task should produce a short correction log that keeps 
 Open-ended. Strong responses should mention two areas such as:
 
 - subject lines
-- opening and closing style
+- greeting and closing-sentence style
 - tone level
 - body structure
 - basic formatting
@@ -1646,7 +1837,7 @@ Possible model:
 
 ##### D. Guided Practice — Rewrite Three Short Messages
 
-Open-ended. Strong responses should make all three drafts sound as if they come from one team by using the same opening style, similar body structure, similar tone level, and a consistent closing pattern.
+Open-ended. Strong responses should make all three drafts sound as if they come from one team by using the same greeting and opening-sentence pattern, similar body structure, similar tone level, and a consistent closing-sentence pattern.
 
 ##### E. Freer Practice
 
@@ -1748,15 +1939,25 @@ Open-ended. The extension task should check whether the same core facts stay ali
 
 _All exercises use the student's own previous writing as source material. No fixed model answers apply._
 
-**A. Warm-Up:** Students should select one earlier email, one earlier paragraph, and one earlier notice / message / internal explanation. The set should give the student a workable spread of reader, purpose, and document type rather than three very similar pieces.
+##### A. Warm-Up
 
-**B. Example Check:** Open-ended. A strong response should identify two priorities such as revision quality, audience control, clear structure, or consistent professional style, and should explain why those priorities matter for a final portfolio.
+Students should select one earlier email, one earlier paragraph, and one earlier notice / message / internal explanation. The set should give the student a workable spread of reader, purpose, and document type rather than three very similar pieces.
 
-**C. Language:** Students should use the revision categories in this order: accuracy, clarity and flow, tone for the reader, then formatting and consistency. Teachers should encourage students to apply the same sequence across all portfolio pieces.
+##### B. Example Check
 
-**D. Guided Practice:** Open-ended. The revised email, paragraph, and message should each be stronger than the original source piece. Look for clearer reader awareness, more direct organization, better tone control, and more complete next-step logic where needed.
+Open-ended. A strong response should identify two priorities such as revision quality, audience control, clear structure, or consistent professional style, and should explain why those priorities matter for a final portfolio.
 
-**E. Freer Practice:** Open-ended. A successful Unit 23 document should match the standard of the revised earlier pieces and should not repeat the weakest or easiest earlier writing job. The final four-piece portfolio should show:
+##### C. Language
+
+Students should use the revision categories in this order: accuracy, clarity and flow, tone for the reader, then formatting and consistency. Teachers should encourage students to apply the same sequence across all portfolio pieces.
+
+##### D. Guided Practice
+
+Open-ended. The revised email, paragraph, and message should each be stronger than the original source piece. Look for clearer reader awareness, more direct organization, better tone control, and more complete next-step logic where needed.
+
+##### E. Freer Practice
+
+Open-ended. A successful Unit 23 document should match the standard of the revised earlier pieces and should not repeat the weakest or easiest earlier writing job. The final four-piece portfolio should show:
 
 - one revised external-style email
 - one revised internal explanation or notice
@@ -1765,33 +1966,54 @@ _All exercises use the student's own previous writing as source material. No fix
 - visible range across reader, purpose, and writing job
 - consistent professional formatting and tone
 
-**F. Editing Practice:** Open-ended. The revision note should name one real weakness in the original draft, explain the revision made, and show why the new version works better for the reader or document purpose.
+##### F. Editing Practice
 
-**G. Self-Check and Reflection:** Self-check and reflection only. A strong reflection should connect one clear improvement to a specific editing decision and should identify one revision habit the student can carry into future workplace writing.
+Open-ended. The revision note should name one real weakness in the original draft, explain the revision made, and show why the new version works better for the reader or document purpose.
 
-**H. Homework & Extension:** Open-ended. The extension plan should identify one strength, one editing habit to keep using, and one area for further improvement. The homework task should show a genuine third revision, not just a copied second version with very small grammar edits.
+##### G. Self-Check and Reflection
+
+Self-check and reflection only. A strong reflection should connect one clear improvement to a specific editing decision and should identify one revision habit the student can carry into future workplace writing.
+
+##### H. Homework & Extension
+
+Open-ended. The extension plan should identify one strength, one editing habit to keep using, and one area for further improvement. The homework task should show a genuine third revision, not just a copied second version with very small grammar edits.
 
 
 #### Module 6 Review Workshop
 
-**Multi-Document Comparison / Review Response:** Version B is stronger. It separates the external message from the internal note, gives each reader the information they need, and keeps the shared fact consistent across both texts. Version A mixes reader jobs and gives no clear workflow control. A successful student response should mention audience control, document purpose, and consistency.
+##### Key Lessons to Keep
 
-**Revision Lab:** Open-ended. A successful rebuilt set should include:
+Open-ended recap. Students should be able to identify the main Module 6 controls: audience separation, cross-document consistency, deliberate revision, and portfolio-level quality control.
+
+
+##### Multi-Document Comparison
+
+Version B is stronger. It separates the external message from the internal note, gives each reader the information they need, and keeps the shared fact consistent across both texts. Version A mixes reader jobs and gives no clear workflow control. A successful student response should mention audience control, document purpose, and consistency.
+
+##### Revision Lab
+
+Open-ended. A successful rebuilt set should include:
 
 - an external message that thanks the reader, names the exact document problem, and asks for one clear action
 - an internal message that explains the same fact neutrally and tells the team what to pause, continue, or watch
 - a revision note explaining why the external and internal versions need different wording, which reader needed different detail or tone, and which editing pass improved the set most
 
-**Self-Edit Routine:** Open-ended. Students should apply the integrated-task checklist to one set from Units 19-23, then revise one opening or next-step sentence. The revision should improve purpose, audience separation, consistency, or action clarity.
+##### Self-Edit Routine
 
-**Final Course Transfer Task:** Open-ended. A successful response should include:
+Open-ended. Students should apply the integrated-task checklist to one set from Units 19-23, then revise one opening or next-step sentence. The revision should improve purpose, audience separation, consistency, or action clarity.
+
+##### Final Course Transfer Task
+
+Open-ended. A successful response should include:
 
 - one external-facing message
 - one internal explanation or notice
 - one style or revision note
 - a final reflection explaining audience control, Module 1 carry-forward skills, explanation/structure support, Module 5 editing habits, and one remaining revision goal
 
-**Portfolio Completion Check:** Self-check only. Students should use the ladder to show that at least one portfolio item moved from draft to controlled revision and that the final portfolio demonstrates a deliberate range of course skills.
+##### Portfolio Completion Check
+
+Self-check only. Students should use the ladder to show that at least one portfolio item moved from draft to controlled revision and that the final portfolio demonstrates a deliberate range of course skills.
 
 
 ### APPENDIX. Grading Notes for Open-Ended Exercises
@@ -1804,7 +2026,7 @@ _All exercises use the student's own previous writing as source material. No fix
 
 | Type | Markers |
 |------|---------|
-| Email | Clear subject line; polite greeting; purpose in first sentence; specific body; professional closing |
+| Email | Clear subject line; polite greeting; clear opening sentence; specific body; professional closing sentence |
 | Paragraph | Clear topic → supporting details → closing/next step |
 | Procedure | Numbered; imperative verbs; logical order; one action per step |
 | Clarification | Named unclear point; specific question; polite form |

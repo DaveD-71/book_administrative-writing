@@ -970,7 +970,7 @@ Ready for Email Writing?
 
 Before you start the email module, check whether you can do these four things without help:
 
-- [ ] write one clear purpose sentence
+- [ ] write one clear opening sentence
 - [ ] soften a request without losing the main meaning
 - [ ] build one short paragraph with a topic, support, and closing
 - [ ] explain why your revised version is easier for the reader to understand
@@ -1014,7 +1014,7 @@ By the end of this unit, I will be able to:
 
 - identify the main parts of a professional email.
 - write a short, clear subject line for a workplace email.
-- write a simple professional email with an appropriate opening and closing.
+- write a simple professional email with an appropriate greeting and closing sentence.
 
 ### A. Warm-Up
 
@@ -1072,7 +1072,7 @@ Email B is stronger because every part has a clear job:
 
 - the subject line names the topic
 - the greeting is professional
-- the first sentence gives the reason for writing
+- the opening sentence gives the reason for writing
 - the question is specific
 - the closing sentence and sign-off are polite
 
@@ -1148,17 +1148,16 @@ Each subject line below is too long. Rewrite it as a short, clear phrase.
 :::
 
 ::: language
-Email Openings and Closings
+Email Greetings and Closings
 
-Use a polite opening and closing that match the reader.
+Use a polite greeting and closing sentence that match the reader.
 
-**Common Openings**
+**Common Greetings**
 
 - Dear Mr./Ms. [Name],
 - Dear Team,
-- Thank you for your email.
 
-**Common Closings**
+**Common Closing Sentences**
 
 - Thank you.
 - Kind regards,
@@ -1199,7 +1198,7 @@ Use the same skill parts from Section C to build one complete email.
 
 **Situation:** You are writing to an applicant, Ms. Kim. You want to confirm the required documents for her application.
 
-First choose an opening and closing for each situation.
+First choose a greeting and closing sentence for each situation.
 
 1. You are writing to a colleague about an internal document.
 
@@ -4295,7 +4294,7 @@ What is inconsistent in Email A? Think about tone, clarity, formatting, and emai
 ::: learn
 Email Consistency Basics
 
-A consistent email uses the same basic style from start to finish. The subject line, greeting, purpose sentence, body, closing, and sign-off should all feel like parts of the same professional message.
+A consistent email uses the same basic style from start to finish. The subject line, greeting, opening sentence, body, closing sentence, and sign-off should all feel like parts of the same professional message.
 :::
 
 ### B. Example Check
@@ -4323,7 +4322,7 @@ Thank you.
 ::: learn
 Why This Works
 
-The consistent version has a clear subject line, professional greeting, complete purpose sentence, polite question, and simple closing. Each part supports the same professional style.
+The consistent version has a clear subject line, professional greeting, complete opening sentence, polite question, and simple closing sentence. Each part supports the same professional style.
 :::
 
 ### C. Language
@@ -4336,10 +4335,10 @@ Use standard email elements to create consistency.
 | Email element | Useful language |
 |---|---|
 | Greeting | Dear Mr./Ms. [Name], / Dear Team, |
-| Opening | Thank you for your email. / I am writing to... |
-| Purpose | I would like to confirm... / We have a question regarding... |
+| Opening sentence | Thank you for your email. / I am writing to... |
+| Request or purpose detail | I would like to confirm... / We have a question regarding... |
 | Request or detail | Could you clarify...? / Please let me know... |
-| Closing | Thank you. / Kind regards, |
+| Closing sentence | Thank you. / Kind regards, |
 :::
 
 ::: rewrite
@@ -4376,7 +4375,7 @@ thanks
 ::: rewrite
 Reformat the Email
 
-Rewrite the email so the subject line, greeting, body, and closing follow one professional style.
+Rewrite the email so the subject line, greeting, body, and closing sentence follow one professional style.
 
 {{PH-2: U15-practice-b-reformat | rows=6}}
 :::
@@ -4386,7 +4385,7 @@ Rewrite the email so the subject line, greeting, body, and closing follow one pr
 ::: rewrite
 Standardize a Draft Email
 
-Rewrite the email so the subject line, greeting, body, request, closing, and sign-off work together in one consistent style.
+Rewrite the email so the subject line, greeting, body, request, closing sentence, and sign-off work together in one consistent style.
 :::
 
 ::: example-bad
@@ -4412,7 +4411,7 @@ Write your revised email here:
 ::: write
 Write Two Consistent Emails
 
-Choose two situations. For each one, write a short email with a clear subject line, greeting, purpose sentence, body, request or next step, and closing.
+Choose two situations. For each one, write a short email with a clear subject line, greeting, opening sentence, body, request or next step, and closing sentence.
 
 A. Ask a colleague to confirm a missing date in a document.
 
@@ -4467,7 +4466,7 @@ Reflect on This Unit
 Answer the questions in short notes.
 
 1. Which part of an email is easiest for you to keep consistent?
-2. Which part needs more attention: subject line, greeting, body, request, or closing?
+2. Which part needs more attention: subject line, greeting, opening sentence, request/detail, or closing sentence?
 3. Which standard phrase from this unit could your team use regularly?
 
 {{PH-1: U15-reflection | rows=4}}
@@ -6372,7 +6371,7 @@ Clear team standards help:
 ::: structure
 A shared team standard usually covers:
 
-- opening and closing style
+- greeting and closing-sentence style
 - tone level
 - structure of the body
 - formatting basics
@@ -6381,18 +6380,18 @@ A shared team standard usually covers:
 ::: language
 Standardising Team Writing
 
-**Standard Openings**
+**Standard Greetings**
 
 - Dear [Office/Team],
+
+**Standard Opening Sentences**
+
 - Thank you for your message.
-
-**Standard Purpose Statements**
-
-- I am writing to confirm...
+- We are writing to confirm...
 - We would like to request...
 - We have a question regarding...
 
-**Standard Closings**
+**Standard Closing Sentences**
 
 - Thank you.
 - Please let us know if you need further information.
@@ -6436,19 +6435,19 @@ Rewrite it with correct formatting, tone, and clarity. Use one shared team patte
 
 - clear subject line
 - short professional greeting
-- one main purpose sentence
+- one main opening sentence
 - one supporting detail or request
-- consistent closing
+- consistent closing sentence
 
 After rewriting, check whether another teammate could send the same message style without changing the structure.
 
 Mini standard:
 
 - Subject: clear topic
-- Opening: short professional greeting
-- Purpose: one direct sentence near the top
+- Greeting: short professional greeting
+- Opening sentence: one direct sentence near the top
 - Detail: one supporting fact or request
-- Closing: neutral and consistent
+- Closing sentence: neutral and consistent
 :::
 
 ::: example-bad
@@ -6509,8 +6508,8 @@ For each pair, make sure both messages show:
 
 Use this quick rewrite plan:
 
-1. decide the shared opening pattern
-2. place the purpose sentence near the top in both messages
+1. decide the shared greeting and opening-sentence pattern
+2. place the opening sentence near the top in both messages
 3. keep the body order similar
 4. use the same closing style
 
