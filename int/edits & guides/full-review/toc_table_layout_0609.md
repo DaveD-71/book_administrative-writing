@@ -12,47 +12,50 @@ By the end of the book, you should be able to write short administrative texts w
 
 ## Module Overview
 
-`Module 1` gives you the basic writing skills you need for the rest of the book. In these units, you learn how to write clear sentences, use a professional tone, and build a short paragraph that stays focused on one main idea. This module prepares you for longer and more detailed workplace messages.
+`Module 1` gives you the basic writing skills you need for the rest of the book.
 
-`Module 2` focuses on short professional emails. You learn how to organise an email clearly, ask for clarification, explain delays or changes, and make requests in a polite and useful way. The main goal is to help you write messages that are easy for the reader to understand and answer.
+- `Unit 1: Clear Sentence Structure` teaches you how to compare sentences, study sentence patterns, build a short message, and fix reader problems caused by weak sentence control.
+- `Unit 2: Professional Tone Basics` teaches you how to compare tone, use polite request phrases, write a more professional email, and remove tone problems from weak writing.
+- `Unit 3: Paragraph Structure` teaches you how to compare paragraphs, study paragraph structure, build one paragraph from facts, and repair paragraph logic so your writing stays focused.
 
-`Module 3` moves into common internal communication tasks. You practise writing procedures, internal notices, problem explanations, and meeting summaries. In this module, you learn how to give clear information inside an office or team.
+`Module 2` focuses on short professional emails.
 
-`Module 4` develops writing for outside communication and clearer explanation. You learn how to write external inquiries, explain situations more fully, respond to confusion, and keep email style consistent across similar messages. This module helps you choose the right tone and the right amount of detail for the reader.
+- `Unit 4: Email Layout and Standard Phrases` teaches you how to identify clear email organisation, use standard email parts, and repair weak email structure.
+- `Unit 5: Requesting Clarification` teaches you how to ask clear questions, use clarification phrases, and write messages that help the reader answer easily.
+- `Unit 6: Communicating Delays or Changes` teaches you how to explain delays or changes clearly, include missing information, and reduce reader uncertainty.
+- `Unit 7: Making Requests Politely` teaches you how to choose polite request forms, write useful request emails, and vary politeness for different situations.
 
-`Module 5` focuses on editing and revision skills. You practise checking writing for accuracy, clarity, and tone, and you learn how to improve weak drafts step by step. This module helps you become a more independent writer who can review and improve your own work.
+`Module 3` moves into common internal communication tasks.
 
-`Module 6` brings the earlier skills together in larger final tasks. You write related documents for different readers, keep several messages consistent, and complete a final set of revised work. The goal of this module is to help you write clearly for different readers and improve your work across a full set of workplace writing tasks.
+- `Unit 8: Writing Simple Procedures` teaches you how to analyse a procedure model, use instruction verbs, complete missing steps, and write a clear workplace procedure.
+- `Unit 9: Internal Notices` teaches you how to identify a useful notice, study notice basics, write internal notices, and repair weak notice writing.
+- `Unit 10: Explaining Problems Clearly` teaches you how to include missing details, use problem explanation phrases, and write explanations that help the reader understand the situation.
+- `Unit 11: Writing Simple Meeting Summaries` teaches you how to compare summaries, study summary elements, write short summaries, and improve weak summary writing.
 
-## Table of Contents
+`Module 4` develops writing for outside communication and clearer explanation.
 
-| Module | Unit | Title | A. Warm-Up | B. Example Check | C. Language | D. Guided Practice | E. Freer Practice | F. Editing Practice | G. Self-Check and Reflection | H. Homework & Extension |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 1 | Clear Sentence Structure | Compare sentences | Check second pair | Sentence pattern | Build mini message | Write clear sentences | Fix reader problem | Final self-check | Expand into message |
-| 1 | 2 | Professional Tone Basics | Compare tone | Compare request versions | Polite request phrases | Diagnose weak email | Write professional email | Remove tone problem | Final self-edit | Improve relationship tone |
-| 1 | 3 | Paragraph Structure | Compare paragraphs | Analyze paragraph model | Paragraph structure | Build from facts | Write one paragraph | Repair paragraph logic | Self-check | Reuse paragraph structure |
-| 2 | 4 | Email Layout and Standard Phrases | Identify clear email | Compare two emails | Email layout basics | Build email stepwise | Write your email | Repair email structure | Self-check | Build purpose lines |
-| 2 | 5 | Requesting Clarification | Identify unclear point | Compare two questions | Clarification phrases | Write clarification email | Write two clarifications | Fix clarification problem | Self-check | Summarize clarification task |
-| 2 | 6 | Communicating Delays or Changes | Find missing information | Compare two updates | Delay update phrases | Write update email | Write scenario update | Reduce reader uncertainty | Self-check | Turn update into report |
-| 2 | 7 | Making Requests Politely | Compare request tone | Analyze request model | Polite request choices | Write request email | Write two requests | Improve request tone | Self-check | Vary politeness level |
-| 3 | 8 | Writing Simple Procedures | Compare procedures | Analyze procedure model | Instruction verbs | Complete procedure | Write workplace procedure | Repair procedure | Final self-check | Real-world procedure task |
-| 3 | 9 | Internal Notices | Identify useful notice | Compare two notices | Notice basics | Write internal notice | Write two notices | Repair weak notice | Final self-check | Real-world notice transfer |
-| 3 | 10 | Explaining Problems Clearly | Find missing details | Compare example versions | Problem explanation phrases | Write problem explanation | Write two explanations | Repair weak explanation | Final self-check | Real-world update task |
-| 3 | 11 | Writing Simple Meeting Summaries | Compare summaries | Analyze summary model | Summary elements | Write short summary | Write two summaries | Improve weak summary | Final self-check | Real-world summary transfer |
-| 4 | 12 | Writing Simple External Inquiries | Compare inquiry emails | Analyze inquiry model | Inquiry structure | Write inquiry email | Write two inquiries | Repair weak inquiry | Final self-check | Draft inquiry note |
-| 4 | 13 | Providing Simple Explanations | Find missing information | Compare example versions | Explanation phrases | Write clear explanation | Write two explanations | Repair weak explanation | Final self-check | Adapt for two readers |
-| 4 | 14 | Responding to Confusion | Identify confusion point | Analyze response model | Clarification phrases | Write clarification response | Write two responses | Remove defensive tone | Final self-check | Clarify for team record |
-| 4 | 15 | Maintaining Consistent Email Style | Spot inconsistencies | Compare example versions | Standard email elements | Standardize draft email | Write two emails | Unify two drafts | Final self-check | Create style rules |
-| 5 | 16 | Editing for Accuracy | Spot errors | Compare edited versions | Accuracy basics | Edit short email | Edit two texts | Explain the change | Accuracy check | Accuracy review routine |
-| 5 | 17 | Editing for Clarity | Spot unclear sentences | Compare edited versions | Clarity basics | Edit for clarity | Edit two texts | Improve vague writing | Clarity check | Explain revision choice |
-| 5 | 18 | Editing for Tone | Spot tone problem | Compare edited versions | Tone basics | Edit full email | Write improved emails | Change tone only | Tone check | Adjust tone by reader |
-| 6 | 19 | Integrated Task 1: Combined Email + Internal Explanation | Understand shared scenario | Compare document roles | Two audience writing | Write external email | Plan for readers | Separate reader needs | Final self-check | Adapt same fact |
-| 6 | 20 | Integrated Task 2: Revision + Notice Writing | Understand correction scenario | Compare document control | Revision vs notice | Write revision message | Manage correction board | Repair document set | Final self-check | Keep correction log |
-| 6 | 21 | Writing for Consistency Across a Team | Define consistency | Spot inconsistencies | Team consistency risks | Standardise format tone | Rewrite short messages | Build one standard | Final self-check | Turn rewrite into rule |
-| 6 | 22 | Multi-Document Communication Task | Analyze three readers | Compare audience control | Three audience styles | Write applicant reply | Write three documents | Separate three voices | Final self-check | Check cross-document consistency |
-| 6 | 23 | Portfolio Writing & Final Revision | Build portfolio set | Define strong portfolio | Revision checklist | Guided revision set | Assemble portfolio | Rebuild weakest piece | Final submission check | Plan next-time writing |
+- `Unit 12: Writing Simple External Inquiries` teaches you how to study inquiry structure, write inquiry emails, and repair weak inquiry writing.
+- `Unit 13: Providing Simple Explanations` teaches you how to use explanation phrases, write clear explanations, and adapt your explanation for different readers.
+- `Unit 14: Responding to Confusion` teaches you how to identify the point of confusion, write a clarification response, and remove defensive tone.
+- `Unit 15: Maintaining Consistent Email Style` teaches you how to spot inconsistencies, study standard email elements, and make related emails follow one clear professional style.
+
+`Module 5` focuses on editing and revision skills.
+
+- `Unit 16: Editing for Accuracy` teaches you how to spot errors, compare edited versions, edit short texts, and explain why a correction is needed.
+- `Unit 17: Editing for Clarity` teaches you how to find unclear sentences, compare clearer versions, and improve vague writing.
+- `Unit 18: Editing for Tone` teaches you how to identify tone problems, compare improved versions, and adjust tone for different readers while keeping the message useful.
+
+`Module 6` brings the earlier skills together in larger final tasks.
+
+- `Unit 19: Integrated Task 1: Combined Email + Internal Explanation` teaches you how to write from one shared situation for two readers with different needs.
+- `Unit 20: Integrated Task 2: Revision + Notice Writing` teaches you how to manage a correction situation across a revision message and a notice.
+- `Unit 21: Writing for Consistency Across a Team` teaches you how to identify team consistency problems, standardise short messages, and turn rewrites into shared rules.
+- `Unit 22: Multi-Document Communication Task` teaches you how to write for three readers and keep each document suited to its audience.
+- `Unit 23: Portfolio Writing & Final Revision` teaches you how to revise a guided set of work, rebuild a weaker piece, and assemble a final portfolio of stronger writing.
 
 ## Section Guide
+
+The book uses the same section pattern in each unit because a clear learning sequence makes new writing skills easier to understand and practise. Recognise each stage of the lesson, focus on the writing itself and build the target skill step by step and with less confusion.
 
 `A. Warm-Up` helps you start the unit. It introduces the topic, connects it to real work, and helps you notice the main writing problem before the lesson begins.
 
@@ -71,6 +74,8 @@ By the end of the book, you should be able to write short administrative texts w
 `H. Homework & Extension` helps you transfer the unit skill to another task. It may ask you to continue the same kind of writing at home or use the skill in a more real-world situation.
 
 ## Activity Guide
+
+The book also reuses a consistent set of activity types which help you learn more efficiently. Learn what each activity type is designed to do, approach the task with a clearer focus and develop stronger control over planning, writing, checking, and revising.
 
 `Edit` asks you to correct or polish writing carefully. You focus on fixing problems, improving accuracy, and making the text more professional.
 

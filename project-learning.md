@@ -1469,3 +1469,34 @@ Rules:
 - Required next-time behavior:
   - standardize new language banks to this pattern when adding or revising INT content
   - do not mix plain-colon list labels and bold list labels inside comparable language-support blocks unless there is a deliberate genre reason
+
+## 2026-06-10 - INT Answer Key Headings Must Follow Live Unit Section And Div Titles
+
+- Status: `active`
+- Scope: project/conventions
+- Context: the INT answer key had drifted back toward an older section pattern, especially with repeated `C. Language` labels and a few subsection labels that no longer matched the live manuscript after section rebalancing and later Phase 5 changes.
+- Decision:
+  - `int/md/working/aw-int-answer-key.md` should use the live section letters and activity labels from `int/md/working/aw-int-all_0519.md` as its source of truth
+  - where an answer-key subsection maps to a specific activity, the subsection heading should reflect the current section heading plus the current div title
+  - when activities move between sections in the manuscript, update the answer-key subsection letter as well, not only the wording
+- Required next-time behavior:
+  - when revising a unit structure or renaming a div title in the manuscript, recheck the corresponding answer-key subsection headings in the same pass
+  - treat repeated legacy labels such as older multi-`C. Language` patterns as drift unless they still match the live manuscript exactly
+
+## 2026-06-10 - Flattened Instruction Lines Should Not Serve As Div Titles
+
+- Status: `active`
+- Scope: project/conventions
+- Context: several later INT units contained support divs where the visible div title had effectively become the instruction line, leaving the block as `title + list only` with no real support title.
+- Decision:
+  - if a support block needs a short checklist or planning list, keep the instruction as a sentence in the body
+  - give the div a separate stable title that describes the support function rather than repeating the instruction
+  - avoid option-style internal labels such as `A / B / C` inside explanatory audience-category blocks unless the task is actually presenting options or answer choices
+- Applied examples:
+  - Unit 19 `Before You Write Two Texts from One Scenario` -> `Two-Reader Planning Check`
+  - Unit 20 `For Connected Documents, Check` -> `Connected-Document Planning Check`
+  - Unit 22 `Before You Write a Multi-Document Set` -> `Multi-Document Planning Check`
+  - Unit 22 audience sublabels changed from `(A) / (B) / (C)` to plain bold audience names
+- Required next-time behavior:
+  - when auditing later support divs, distinguish true phrase banks and takeaway lists from flattened instruction-title cases
+  - if the title reads like an imperative or pre-task instruction, prefer restoring it as body text and writing a proper support title

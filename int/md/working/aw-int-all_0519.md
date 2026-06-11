@@ -106,9 +106,9 @@ Why This Works
 
 Version B works better because the reader can see the action immediately:
 
-1. **send**
-2. **the missing form**
-3. **as soon as possible**
+1. send
+2. the missing form
+3. as soon as possible
 
 The weaker version makes the reader wait too long before the real action appears.
 :::
@@ -682,6 +682,8 @@ Paragraph B is weaker because it mixes unrelated topics. A workplace paragraph s
 ::: structure
 Three-Part Paragraph Structure
 
+Study how the paragraph is organised into topic, support, and closing parts.
+
 ::: example-good
 No Title
 
@@ -778,11 +780,11 @@ Choose **one** situation below. Write **one paragraph** of **4-5 sentences** for
 
 Use the facts provided. Do not add a request or greeting.
 
-1. **Review delay:** One review stage is delayed because two documents need to be checked again. The team needs one more day, and the updated result will be added to the review record.
+1. Review delay: One review stage is delayed because two documents need to be checked again. The team needs one more day, and the updated result will be added to the review record.
 
-2. **System problem:** Staff could not open several files this morning because the system showed an error message. IT checked the problem before lunch, and the affected files will be reviewed again this afternoon.
+2. System problem: Staff could not open several files this morning because the system showed an error message. IT checked the problem before lunch, and the affected files will be reviewed again this afternoon.
 
-3. **Rule change:** The office changed one internal filing rule because the old rule created confusion for new staff. The new rule uses one standard file name, and the change will help staff find documents faster.
+3. Rule change: The office changed one internal filing rule because the old rule created confusion for new staff. The new rule uses one standard file name, and the change will help staff find documents faster.
 
 {{PH-2: U03-freer-paragraph | rows=8}}
 :::
@@ -893,16 +895,16 @@ Write **2-3 sentences** explaining which version is stronger. Mention sentence c
 
 ### Revision Lab
 
+::: revise
+Improve the Weak Draft
+
+Read the weak draft. Then improve it in three steps: split the long sentence into smaller sentences, change wording that sounds sudden or forceful, and end with a clear next action for the reader.
+
 ::: example-bad
 No Title
 
 We checked your application yesterday and there are some problems and we need more information and also the office is busy now so please reply quickly because the review cannot continue.
 :::
-
-::: revise
-Improve the Weak Draft
-
-Read the weak draft. Then improve it in three steps: split the long sentence into smaller sentences, change wording that sounds sudden or forceful, and end with a clear next action for the reader.
 
 {{PH-2: M1-revision-lab | rows=8}}
 :::
@@ -1094,12 +1096,12 @@ Basic Email Layout
 
 A professional email has a **clear structure** so that the reader can easily understand the purpose.
 
-1. **Subject line** - a short summary of the purpose
-2. **Greeting** - polite opening
-3. **Opening sentence** - main purpose of the email
-4. **Body** - details, explanation, or information
-5. **Closing sentence** - final point or next step (not a command)
-6. **Sign-off** - polite closing phrase + name
+1. Subject line - a short summary of the purpose
+2. Greeting - polite opening
+3. Opening sentence - main purpose of the email
+4. Body - details, explanation, or information
+5. Closing sentence - final point or next step (not a command)
+6. Sign-off - polite closing phrase + name
 :::
 
 ::: learn
@@ -1230,12 +1232,12 @@ Then use this order to write one complete email for Ms. Kim.
 
 Use this order:
 
-1. **Subject line**
-2. **Greeting**
-3. **Opening sentence**
-4. **Body (2-3 sentences)**
-5. **Closing sentence**
-6. **Sign-off**
+1. Subject line
+2. Greeting
+3. Opening sentence
+4. Body (2-3 sentences)
+5. Closing sentence
+6. Sign-off
 
 {{PH-3: U04-guided-document | rows=10}}
 :::
@@ -1782,10 +1784,10 @@ Logical Order for Update Messages
 
 A clear update message usually follows this pattern:
 
-1. **Topic:** What is delayed or changed
-2. **Reason:** Why (optional)
-3. **Effect:** What this means for the reader
-4. **Next step / What will happen later:** Neutral, not a request
+1. Topic: What is delayed or changed
+2. Reason: Why (optional)
+3. Effect: What this means for the reader
+4. Next step / What will happen later: Neutral, not a request
 :::
 
 ::: example-good
@@ -1989,6 +1991,8 @@ A good request is polite, specific, and easy to answer. It tells the reader what
 
 ### B. Example Check
 
+Compare the two requests. Decide which one is more polite and easier to answer.
+
 ::: example
 Request A
 
@@ -2018,12 +2022,12 @@ The table shows common request forms from direct to more formal.
 
 | Example request | Tone/Use |
 |-----------------|----------|
-| [Can you]{.underline} send the file? | Casual, spoken English; too direct for administrative emails. |
-| [Could you]{.underline} send the file? | Standard polite request; appropriate for most situations. |
-| [Could you please]{.underline} send the file? | Polite and slightly more formal. |
-| [Would you be able to]{.underline} send the file? | Polite, softer, useful when asking for something more difficult. |
-| [Would it be possible to]{.underline} send the file? | Formal, respectful, avoids pressure. |
-| [I would appreciate it if you could]{.underline} send the file. | Very polite, used when the request requires effort or cooperation. |
+| **Can you** send the file? | Casual, spoken English; too direct for administrative emails. |
+| **Could you** send the file? | Standard polite request; appropriate for most situations. |
+| **Could you please** send the file? | Polite and slightly more formal. |
+| **Would you be able to** send the file? | Polite, softer, useful when asking for something more difficult. |
+| **Would it be possible to** send the file? | Formal, respectful, avoids pressure. |
+| **I would appreciate it if you could** send the file. | Very polite, used when the request requires effort or cooperation. |
 :::
 
 ::: learn
@@ -2047,15 +2051,15 @@ Rewrite each direct message as one polite request sentence. Use a suitable form 
 
 {{PH-1: U07-C-rewrite-1 | rows=2}}
 
-1. Tell me the deadline.
+2. Tell me the deadline.
 
 {{PH-1: U07-C-rewrite-2 | rows=2}}
 
-1. Check this.
+3. Check this.
 
 {{PH-1: U07-C-rewrite-3 | rows=2}}
 
-1. Give me the information.
+4. Give me the information.
 
 {{PH-1: U07-C-rewrite-4 | rows=2}}
 :::
@@ -2075,15 +2079,15 @@ Stronger: "Could you update me on whether the signed form has been uploaded to t
 
 {{PH-1: U07-C-rewrite-5 | rows=2}}
 
-1. Could you check this?
+2. Could you check this?
 
 {{PH-1: U07-C-rewrite-6 | rows=2}}
 
-1. Could you confirm the information?
+3. Could you confirm the information?
 
 {{PH-1: U07-C-rewrite-7 | rows=2}}
 
-1. Could you update me?
+4. Could you update me?
 
 {{PH-1: U07-C-rewrite-8 | rows=2}}
 
@@ -2104,15 +2108,15 @@ Rewrite each message so it is polite and low-pressure, but still clear.
 
 {{PH-1: U07-C-rewrite-9 | rows=2}}
 
-1. Tell me the result now.
+2. Tell me the result now.
 
 {{PH-1: U07-C-rewrite-10 | rows=2}}
 
-1. Check this immediately.
+3. Check this immediately.
 
 {{PH-1: U07-C-rewrite-11 | rows=2}}
 
-1. Give me the corrected file as soon as possible.
+4. Give me the corrected file as soon as possible.
 
 {{PH-1: U07-C-rewrite-12 | rows=2}}
 
@@ -2178,15 +2182,15 @@ Rewrite each message so it keeps the same request but sounds more professional.
 
 {{PH-1: U07-G-rewrite-1 | rows=2}}
 
-1. Tell me the meeting time now.
+2. Tell me the meeting time now.
 
 {{PH-1: U07-G-rewrite-2 | rows=2}}
 
-1. Check this and reply quickly.
+3. Check this and reply quickly.
 
 {{PH-1: U07-G-rewrite-3 | rows=2}}
 
-1. Give me the missing information.
+4. Give me the missing information.
 
 {{PH-1: U07-G-rewrite-4 | rows=2}}
 
@@ -2281,6 +2285,11 @@ Write **2-3 sentences** explaining why Version B is easier for the reader to act
 
 ### Revision Lab
 
+::: revise
+Improve the Weak Email
+
+Rewrite the weak email. Include a clearer subject line, a professional opening, the exact problem, and one polite request.
+
 ::: example-bad
 No Title
 
@@ -2290,11 +2299,6 @@ Hello,
 About the form, there is a problem, so please send it again soon because we need it.
 Thank you.
 :::
-
-::: revise
-Improve the Weak Email
-
-Rewrite the weak email. Include a clearer subject line, a professional opening, the exact problem, and one polite request.
 
 {{PH-2: M2-revision-lab-email | rows=8}}
 :::
@@ -2431,6 +2435,8 @@ A **procedure** is a set of steps that explains how to complete a task. Version 
 
 ### B. Example Check
 
+Notice how this procedure uses one clear action in each step and follows the real task order.
+
 ::: example-good
 No Title
 
@@ -2476,15 +2482,15 @@ Rewrite each instruction using a **clear action verb**.
 
 {{PH-1: U08-C-rewrite-1 | rows=2}}
 
-1. Put the name in the system.
+2. Put the name in the system.
 
 {{PH-1: U08-C-rewrite-2 | rows=2}}
 
-1. Look at the form to see if something is missing.
+3. Look at the form to see if something is missing.
 
 {{PH-1: U08-C-rewrite-3 | rows=2}}
 
-1. Send it to the right place.
+4. Send it to the right place.
 
 {{PH-1: U08-C-rewrite-4 | rows=2}}
 
@@ -2517,7 +2523,9 @@ Write the correct order using the letters only.
 ::: structure
 Add Missing Steps
 
-Each procedure below is incomplete. Add **one or two steps** to make it clearer.
+Each procedure below is incomplete. Add **one or two missing steps** so the reader can complete the task in a clear, logical order.
+
+Your goal is to identify what important action is missing between the existing steps or at the end of the procedure.
 
 **Procedure 1**
 
@@ -2542,13 +2550,15 @@ Complete a Simple Procedure
 
 **Situation:** A new team member needs to know how to save a document in the correct folder for your team.
 
-Use the step notes below to write a clear procedure for that team member. Put the steps in the best order and turn them into **4-5 numbered steps**.
+Use the step notes below to write a clear procedure that the new team member can follow successfully without extra help.
 
-- open the shared team folder
-- choose the correct subfolder for the document type
-- rename the file using the team naming format
-- save the document in that folder
-- confirm the file appears correctly in the folder
+Your goal is to turn the notes into a complete workplace procedure with the steps in the best order and one clear action in each step. Write **4-5 numbered steps**.
+
+- Open the shared team folder.
+- Choose the correct subfolder for the document type.
+- Rename the file using the team naming format.
+- Save the document in that folder.
+- Confirm the file appears correctly in the folder.
 
 {{PH-3: U08-guided-document | rows=9}}
 :::
@@ -2579,7 +2589,6 @@ Write **one opening sentence** and **4-6 numbered steps**. Make clear who will u
 Repair the Procedure
 
 Rewrite the procedure so it becomes clearer and easier to follow. Use numbered steps.
-:::
 
 ::: example-bad
 No Title
@@ -2709,10 +2718,10 @@ Notice Structure
 
 A clear internal notice usually includes:
 
-1. **Heading / Topic**
-2. **Background or brief explanation**
-3. **Essential information**
-4. **Next step or what happens later** (neutral, not a request)
+1. Heading / Topic
+2. Background or brief explanation
+3. Essential information
+4. Next step or what happens later (neutral, not a request)
 :::
 
 ::: example-good
@@ -2751,15 +2760,15 @@ Rewrite These to Make Them Neutral
 
 {{PH-1: U09-C-rewrite-1 | rows=2}}
 
-1. Everyone MUST check the new files today!
+2. Everyone MUST check the new files today!
 
 {{PH-1: U09-C-rewrite-2 | rows=2}}
 
-1. I think the system is acting strange again.
+3. I think the system is acting strange again.
 
 {{PH-1: U09-C-rewrite-3 | rows=2}}
 
-1. Sorry everyone, but the meeting is suddenly cancelled.
+4. Sorry everyone, but the meeting is suddenly cancelled.
 
 {{PH-1: U09-C-rewrite-4 | rows=2}}
 
@@ -2780,15 +2789,15 @@ Make each one more useful by adding:
 
 {{PH-1: U09-C-rewrite-5 | rows=2}}
 
-1. There is something wrong with the file.
+2. There is something wrong with the file.
 
 {{PH-1: U09-C-rewrite-6 | rows=2}}
 
-1. We are doing something with the system tomorrow.
+3. We are doing something with the system tomorrow.
 
 {{PH-1: U09-C-rewrite-7 | rows=2}}
 
-1. The documents are not ready yet.
+4. The documents are not ready yet.
 
 {{PH-1: U09-C-rewrite-8 | rows=2}}
 
@@ -2803,10 +2812,10 @@ Write a Short Internal Notice
 
 Write a short internal notice. Include:
 
-- **Heading**
-- **Background**
-- **Essential information**
-- **Next step**
+- Heading
+- Background
+- Essential information
+- Next step
 
 {{PH-3: U09-guided-document | rows=8}}
 :::
@@ -2839,6 +2848,11 @@ For each notice, include a clear heading, short background, essential informatio
 
 ### F. Editing Practice
 
+::: edit
+Strengthen the Notice
+
+Rewrite this weak internal notice as a clearer one. Give it a specific heading, explain the real issue, and make the next step clear.
+
 ::: example-bad
 No Title
 
@@ -2846,11 +2860,6 @@ Notice
 
 There is a problem with the files today. Please be careful. More later.
 :::
-
-::: edit
-Strengthen the Notice
-
-Rewrite this weak internal notice as a clearer one. Give it a specific heading, explain the real issue, and make the next step clear.
 
 {{PH-2: U09-editing-rewrite | rows=6}}
 :::
@@ -2945,6 +2954,8 @@ A good problem explanation tells the reader what was expected, what went wrong, 
 
 ### B. Example Check
 
+Compare the two explanations. Decide which one helps the reader understand the problem more clearly.
+
 ::: example
 Version A
 
@@ -3012,15 +3023,15 @@ Try to make the reader understand:
 
 {{PH-1: U10-C-rewrite-1 | rows=2}}
 
-1. The system is slow.
+2. The system is slow.
 
 {{PH-1: U10-C-rewrite-2 | rows=2}}
 
-1. We can't finish the work.
+3. We can't finish the work.
 
 {{PH-1: U10-C-rewrite-3 | rows=2}}
 
-1. The document is wrong.
+4. The document is wrong.
 
 {{PH-1: U10-C-rewrite-4 | rows=2}}
 
@@ -3041,11 +3052,11 @@ Use them to give:
 
 {{PH-1: U10-C-rewrite-5 | rows=2}}
 
-1. The review is delayed.
+2. The review is delayed.
 
 {{PH-1: U10-C-rewrite-6 | rows=2}}
 
-1. The uploaded form is incomplete.
+3. The uploaded form is incomplete.
 
 {{PH-1: U10-C-rewrite-7 | rows=2}}
 
@@ -3106,16 +3117,16 @@ In each explanation, include the issue, the effect, and the current status. Add 
 
 ### F. Editing Practice
 
+::: edit
+Repair the Problem Logic
+
+Rewrite this explanation so it is clearer and better organized. Include the issue, effect, and current status.
+
 ::: example-bad
 No Title
 
 There is a problem with the database. We cannot continue some work. Something is different in the uploaded files. Maybe more information will come later.
 :::
-
-::: edit
-Repair the Problem Logic
-
-Rewrite this explanation so it is clearer and better organized. Include the issue, effect, and current status.
 
 {{PH-2: U10-editing-rewrite | rows=6}}
 :::
@@ -3200,15 +3211,13 @@ The team reviewed the preparation checklist. Two items still require confirmatio
 Meeting Summary Basics
 
 A meeting summary is a brief record of important points from a meeting. It highlights key information, records decisions, and notes action items. It does not include personal opinions or long explanations.
-:::
-
-::: learn
-A Useful Meeting Summary
 
 A useful meeting summary records only the important points, separates decisions from general discussion, and tells the reader what happens next.
 :::
 
 ### B. Example Check
+
+Notice how this meeting summary focuses on the main points, the key issue, and what happens next.
 
 ::: example
 No Title
@@ -3272,11 +3281,11 @@ Rewrite each summary to make it clearer.
 
 {{PH-1: U11-C-rewrite-1 | rows=2}}
 
-1. The meeting was long. Many ideas were shared. We will do more later.
+2. The meeting was long. Many ideas were shared. We will do more later.
 
 {{PH-1: U11-C-rewrite-2 | rows=2}}
 
-1. The form was discussed. Someone needs to fix it.
+3. The form was discussed. Someone needs to fix it.
 
 {{PH-1: U11-C-rewrite-3 | rows=2}}
 
@@ -3331,7 +3340,6 @@ Include the topic, the main point or decision, and one next step in each summary
 Make the Summary Usable
 
 Rewrite the summary so it becomes clearer for a colleague who missed the meeting.
-:::
 
 ::: example-bad
 No Title
@@ -3430,16 +3438,16 @@ Write **2-3 sentences** explaining which version is stronger. Mention reader pur
 
 ### Revision Lab
 
+::: revise
+Improve the Internal Notice
+
+Rewrite the weak notice so it names the change, gives the reason, and tells the reader what action to take.
+
 ::: example-bad
 No Title
 
 The office will use a different room next week. There were some schedule problems and some people may need to move. Please understand.
 :::
-
-::: revise
-Improve the Internal Notice
-
-Rewrite the weak notice so it names the change, gives the reason, and tells the reader what action to take.
 
 {{PH-2: M3-revision-lab-notice | rows=6}}
 :::
@@ -3587,6 +3595,8 @@ A **clarification** is information that makes an unclear point clear. An externa
 
 ### B. Example Check
 
+Notice how the inquiry gives enough background and asks one clear question.
+
 ::: example
 No Title
 
@@ -3614,12 +3624,12 @@ Structure of an External Inquiry
 
 **A Clear Inquiry Email Usually Includes**
 
-1. **subject line** - clear and specific
-2. **greeting** - polite and neutral
-3. **background** - brief context so the reader understands the question
-4. **inquiry question** - one clear, specific question
-5. **closing sentence** - neutral and polite
-6. **sign-off**
+1. subject line - clear and specific
+2. greeting - polite and neutral
+3. background - brief context so the reader understands the question
+4. inquiry question - one clear, specific question
+5. closing sentence - neutral and polite
+6. sign-off
 
 **Useful Phrases**
 
@@ -3642,15 +3652,15 @@ Rewrite each inquiry to make it clearer, more polite, and more complete. Add a s
 
 {{PH-1: U12-C-rewrite-1 | rows=2}}
 
-1. What is the rule?
+2. What is the rule?
 
 {{PH-1: U12-C-rewrite-2 | rows=2}}
 
-1. When is the deadline?
+3. When is the deadline?
 
 {{PH-1: U12-C-rewrite-3 | rows=2}}
 
-1. Explain Section 2.
+4. Explain Section 2.
 
 {{PH-1: U12-C-rewrite-4 | rows=2}}
 
@@ -3665,11 +3675,11 @@ Add **one sentence of background** before each question. The background should t
 
 {{PH-1: U12-C-rewrite-5 | rows=2}}
 
-1. Could you confirm the review schedule?
+2. Could you confirm the review schedule?
 
 {{PH-1: U12-C-rewrite-6 | rows=2}}
 
-1. Could you explain how the updated rule applies?
+3. Could you explain how the updated rule applies?
 
 {{PH-1: U12-C-rewrite-7 | rows=2}}
 
@@ -3717,6 +3727,11 @@ Include a specific subject line, brief background, one clear question, and a pol
 
 ### F. Editing Practice
 
+::: edit
+Make the Inquiry Answerable
+
+Rewrite this inquiry so the outside reader can answer it more easily.
+
 ::: example-bad
 No Title
 
@@ -3726,11 +3741,6 @@ Hi,
 
 We do not understand this and need help. Please explain the rule.
 :::
-
-::: edit
-Make the Inquiry Answerable
-
-Rewrite this inquiry so the outside reader can answer it more easily.
 
 {{PH-3: U12-editing-rewrite | rows=6}}
 :::
@@ -3822,6 +3832,8 @@ A simple explanation helps the reader understand the situation, the reason, and 
 
 ### B. Example Check
 
+Compare the two explanations. Decide which one makes the reason and effect clearer.
+
 ::: example
 Version A
 
@@ -3842,7 +3854,7 @@ Version B gives the situation, the reason, and the effect. The reader does not n
 
 ### C. Language
 
-::: structure
+::: language
 Useful Phrases for Explanations
 
 **Giving Background**
@@ -3875,15 +3887,15 @@ Rewrite each sentence to make the explanation clearer. Build each answer so the 
 
 {{PH-1: U13-C-rewrite-1 | rows=2}}
 
-1. The file is wrong.
+2. The file is wrong.
 
 {{PH-1: U13-C-rewrite-2 | rows=2}}
 
-1. The review will take longer.
+3. The review will take longer.
 
 {{PH-1: U13-C-rewrite-3 | rows=2}}
 
-1. The system is slow.
+4. The system is slow.
 
 {{PH-1: U13-C-rewrite-4 | rows=2}}
 
@@ -3898,11 +3910,11 @@ Add **one sentence of background** and **one sentence of reason** before each ma
 
 {{PH-1: U13-C-rewrite-5 | rows=2}}
 
-1. The document cannot be accepted.
+2. The document cannot be accepted.
 
 {{PH-1: U13-C-rewrite-6 | rows=2}}
 
-1. The review must be rescheduled.
+3. The review must be rescheduled.
 
 {{PH-1: U13-C-rewrite-7 | rows=2}}
 
@@ -3958,16 +3970,18 @@ Include background, the main issue, and the reason or effect in each explanation
 
 ### F. Editing Practice
 
+::: edit
+Add the Missing Link
+
+Rewrite this explanation so the reader can see both the reason and the effect.
+
+Look at this weak explanation:
+
 ::: example-bad
 No Title
 
 The document cannot be accepted. There is a problem with one section. The process will change.
 :::
-
-::: edit
-Add the Missing Link
-
-Rewrite this explanation so the reader can see both the reason and the effect.
 
 {{PH-2: U13-editing-rewrite | rows=6}}
 :::
@@ -4066,6 +4080,8 @@ When a reader is confused, the response should make the unclear point clear. A g
 
 ### B. Example Check
 
+Notice how the response answers the confusion clearly without blaming the reader.
+
 ::: example-good
 No Title
 
@@ -4113,15 +4129,15 @@ Rewrite each response so it is clear and polite. When possible, acknowledge the 
 
 {{PH-1: U14-C-rewrite-1 | rows=2}}
 
-1. You misunderstood the instructions.
+2. You misunderstood the instructions.
 
 {{PH-1: U14-C-rewrite-2 | rows=2}}
 
-1. The other form is for something else.
+3. The other form is for something else.
 
 {{PH-1: U14-C-rewrite-3 | rows=2}}
 
-1. Read the guidelines again.
+4. Read the guidelines again.
 
 {{PH-1: U14-C-rewrite-4 | rows=2}}
 
@@ -4136,11 +4152,11 @@ Add **one sentence that acknowledges the confusion** and **one sentence that cla
 
 {{PH-1: U14-C-rewrite-5 | rows=2}}
 
-1. The deadline mentioned in the email is incorrect.
+2. The deadline mentioned in the email is incorrect.
 
 {{PH-1: U14-C-rewrite-6 | rows=2}}
 
-1. The instructions refer to two different processes.
+3. The instructions refer to two different processes.
 
 {{PH-1: U14-C-rewrite-7 | rows=2}}
 
@@ -4266,7 +4282,8 @@ Identify the Inconsistencies
 
 Read the two emails. Decide what is inconsistent in Email A.
 
-**Email A**
+::: example
+Email A
 
 Subject: Info
 
@@ -4275,8 +4292,10 @@ Hi,
 I saw it. What next?
 
 Thx.
+:::
 
-**Email B**
+::: example
+Email B
 
 Subject: Information Required for Review
 
@@ -4285,6 +4304,7 @@ Dear Team,
 We reviewed the application this morning and need confirmation about the submission date. Could you clarify this point?
 
 Thank you.
+:::
 
 What is inconsistent in Email A? Think about tone, clarity, formatting, and email parts.
 
@@ -4298,6 +4318,8 @@ A consistent email uses the same basic style from start to finish. The subject l
 :::
 
 ### B. Example Check
+
+Compare the two emails. Decide which one keeps a more consistent professional style.
 
 ::: example
 Version A
@@ -4350,15 +4372,20 @@ Rewrite each email so the tone and structure are consistent.
 
 {{PH-1: U15-C-rewrite-1 | rows=2}}
 
-1. Hello, Please check. I think there is a problem.
+2. Hello, Please check. I think there is a problem.
 
 {{PH-1: U15-C-rewrite-2 | rows=2}}
 
-1. Team, The file is wrong. Fix it.
+3. Team, The file is wrong. Fix it.
 
 {{PH-1: U15-C-rewrite-3 | rows=2}}
 
 :::
+
+::: rewrite
+Reformat the Email
+
+Rewrite the email so the subject line, greeting, body, and closing sentence follow one professional style.
 
 ::: example-bad
 No Title
@@ -4371,11 +4398,6 @@ I looked at the file. some dates are not same. can you check fast.
 
 thanks
 :::
-
-::: rewrite
-Reformat the Email
-
-Rewrite the email so the subject line, greeting, body, and closing sentence follow one professional style.
 
 {{PH-2: U15-practice-b-reformat | rows=6}}
 :::
@@ -4441,7 +4463,7 @@ Rewrite each draft so both messages use the same professional style.
 
 {{PH-1: U15-G-rewrite-1 | rows=2}}
 
-1. Dear Ms. Lee, There is problem in form. send again please. Thanks.
+2. Dear Ms. Lee, There is problem in form. send again please. Thanks.
 
 {{PH-1: U15-G-rewrite-2 | rows=2}}
 
@@ -4537,16 +4559,16 @@ Write **2-3 sentences** explaining which version is stronger. Mention audience, 
 
 ### Revision Lab
 
+::: revise
+Improve the Reader Response
+
+Rewrite the weak response so it explains the process clearly, removes blame language, and gives the reader a clear way forward.
+
 ::: example-bad
 No Title
 
 You misunderstood the process. We already explained it before, so please read the instructions again and follow them correctly.
 :::
-
-::: revise
-Improve the Reader Response
-
-Rewrite the weak response so it explains the process clearly, removes blame language, and gives the reader a clear way forward.
 
 {{PH-2: M4-revision-lab-response | rows=8}}
 :::
@@ -4683,7 +4705,7 @@ Quick Accuracy Check
 
 ### B. Example Check
 
-Compare the two versions.
+Compare Sentence A and Sentence B. Which sentence is accurate, and why?
 
 ::: example
 Sentence A
@@ -4795,15 +4817,15 @@ Accuracy check:
 
 {{PH-1: U16-C-rewrite-1 | rows=2}}
 
-1. *We will checking the documents.*
+2. *We will checking the documents.*
 
 {{PH-1: U16-C-rewrite-2 | rows=2}}
 
-1. *Please send me informations about new procedure.*
+3. *Please send me informations about new procedure.*
 
 {{PH-1: U16-C-rewrite-3 | rows=2}}
 
-1. *The documents is complete.*
+4. *The documents is complete.*
 
 {{PH-1: U16-C-rewrite-4 | rows=2}}
 :::
@@ -4834,7 +4856,6 @@ Edit a Short Administrative Email
 You are editing a short email draft before it is sent to a colleague or applicant.
 
 Rewrite the corrected, professional version.
-:::
 
 ::: example-bad
 No Title
@@ -4854,29 +4875,29 @@ Edit Two Short Texts
 
 Choose two situations. For each one, read the short draft and rewrite it so the final version is accurate and ready to use.
 
-A. Status update
+**A. Status update**
 
-*We check the file yesterday and find two missing pages. The review continue tomorrow after the team receive the complete copy.*
+  *We check the file yesterday and find two missing pages. The review continue tomorrow after the team receive the complete copy.*
 
-B. Filing problem
+**B. Filing problem**
 
-*The signed form is in wrong folder and one attachment is missing from package. Please look at record in shared drive and move it to correct case file.*
+  *The signed form is in wrong folder and one attachment is missing from package. Please look at record in shared drive and move it to correct case file.*
 
-C. Request email
+**C. Request email**
 
-*Dear Team, We needs the updated checklist before Friday. Could you send it after you review the last version?*
+  *Dear Team, We needs the updated checklist before Friday. Could you send it after you review the last version?*
 
-D. Meeting summary
+**D. Meeting summary**
 
-*The team discuss the schedule this morning and decide the next review happen on Wednesday. Ms. Tanaka prepare the revised file and Mr. Lee send the notice later.*
+  *The team discuss the schedule this morning and decide the next review happen on Wednesday. Ms. Tanaka prepare the revised file and Mr. Lee send the notice later.*
 
 Keep the original meaning, but correct the language so the final version is accurate and usable.
 
-**Version 1**
+**Rewritten Text 1**
 
 {{PH-2: U16-freer-version-1 | rows=8}}
 
-**Version 2**
+**Rewritten Text 2**
 
 {{PH-2: U16-freer-version-2 | rows=8}}
 :::
@@ -4903,16 +4924,17 @@ For each one, explain:
 {{PH-1: U16-editing-note-2 | rows=4}}
 :::
 
+::: edit
+Edit a Paragraph
+
+Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
+
 ::: example-bad
 No Title
 
 The review process start tomorrow. The team are preparing the documents now. There is some informations missing from applicant. We checking the system also. The final schedule will share later. This may affect the next steps.
 :::
 
-::: edit
-Edit a Paragraph
-
-Rewrite this paragraph (6-8 sentences) to correct errors and improve clarity.
 Treat it as a draft internal update that needs editing before your team shares it.
 
 {{PH-2: U16-extended-paragraph | rows=8}}
@@ -5047,9 +5069,17 @@ Clear writing:
 - presents ideas in a logical order
 - avoids vague or ambiguous wording
 
-**Before:** The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.
+::: example-bad
+Before
 
-**After:** The document appears to be missing some parts.
+The document, which was previously reviewed and looked at by two people, seems like it maybe has some missing parts.
+:::
+
+::: example-good
+After
+
+The document appears to be missing some parts.
+:::
 :::
 
 ::: language
@@ -5057,7 +5087,7 @@ Common Clarity Problems
 
 **Vague Language**
 
-- "kind of" "maybe" "a bit" "something" "in some places"
+- kind of, maybe, a bit, something, in some places
 
 **Unnecessary Words**
 
@@ -5075,9 +5105,18 @@ When you edit for clarity, ask:
 - What is the main point?
 - Which detail can move later or be deleted?
 
-**Mini contrast - Weak:** "There is something about the file that may cause a kind of delay."
+**Mini contrast**
 
-**Stronger:** "The file is missing two pages, so the next review step will be delayed."
+::: example-bad
+Weak
+
+There is something about the file that may cause a kind of delay.
+:::
+
+::: example-good
+Stronger
+
+The file is missing two pages, so the next review step will be delayed.
 :::
 
 ::: rewrite
@@ -5089,15 +5128,15 @@ Rewrite each sentence.
 
 {{PH-1: U17-C-rewrite-1 | rows=2}}
 
-1. There are things missing from the form somewhere.
+2. There are things missing from the form somewhere.
 
 {{PH-1: U17-C-rewrite-2 | rows=2}}
 
-1. We think that it could possibly be delayed for some reason.
+3. We think that it could possibly be delayed for some reason.
 
 {{PH-1: U17-C-rewrite-3 | rows=2}}
 
-1. It would be appreciated if you could maybe check the document again.
+4. It would be appreciated if you could maybe check the document again.
 
 {{PH-1: U17-C-rewrite-4 | rows=2}}
 :::
@@ -5149,27 +5188,27 @@ Edit Two Texts for Clarity
 
 Choose two situations. For each one, read the short draft and rewrite it so the final version is clearer, shorter, and better organized.
 
-A. Delay explanation
+**A. Delay explanation**
 
-*There were some things wrong with the file and because of that it seems like the review might take a bit longer, and we will maybe send the new timing later.*
+  *There were some things wrong with the file and because of that it seems like the review might take a bit longer, and we will maybe send the new timing later.*
 
-B. Missing documents
+**B. Missing documents**
 
-*We checked the package and there are some missing things and it is kind of difficult to move to the next stage right now because not everything is there yet.*
+  *We checked the package and there are some missing things and it is kind of difficult to move to the next stage right now because not everything is there yet.*
 
-C. Status update
+**C. Status update**
 
-*Something about the system is affecting some users, so maybe the work today is not moving in the normal way and more information will probably come later.*
+  *Something about the system is affecting some users, so maybe the work today is not moving in the normal way and more information will probably come later.*
 
-D. Meeting summary
+**D. Meeting summary**
 
-*We talked about the schedule, and some people said different things, and there were also some actions, so the next step is not completely clear yet.*
+  *We talked about the schedule, and some people said different things, and there were also some actions, so the next step is not completely clear yet.*
 
-**Version 1**
+**Rewritten Text 1**
 
 {{PH-2: U17-freer-version-1 | rows=8}}
 
-**Version 2**
+**Rewritten Text 2**
 
 {{PH-2: U17-freer-version-2 | rows=8}}
 :::
@@ -5279,11 +5318,21 @@ What Is Wrong with the Tone?
 Identify the main tone problem in each sentence.
 
 1. Send it now.
+
+  {{PH-1: U18-warmup-tone-1 | rows=2}}
+
 2. This is unacceptable.
+
+  {{PH-1: U18-warmup-tone-2 | rows=2}}
+
 3. Why didn't you do this?
+
+  {{PH-1: U18-warmup-tone-3 | rows=2}}
+
 4. Hey, please fix this ASAP.
 
-{{PH-1: U18-warmup-tone | rows=6}}
+  {{PH-1: U18-warmup-tone-4 | rows=2}}
+
 :::
 
 ::: learn
@@ -5374,25 +5423,35 @@ Try to soften the message by changing:
 - command to request
 - harsh judgment to workable explanation
 
-**Mini contrast - Weak:** "You made a mistake."
+**Mini contrast**
 
-**Stronger:** "There seems to be an error in the current version."
+::: example-bad
+Weak
+
+You made a mistake.
+:::
+
+::: example-good
+Stronger
+
+There seems to be an error in the current version.
+:::
 
 1. This is wrong.
 
-{{PH-1: U18-C-rewrite-1 | rows=2}}
+  {{PH-1: U18-C-rewrite-1 | rows=2}}
 
-1. You made a mistake.
+2. You made a mistake.
 
-{{PH-1: U18-C-rewrite-2 | rows=2}}
+  {{PH-1: U18-C-rewrite-2 | rows=2}}
 
-1. Check it again.
+3. Check it again.
 
-{{PH-1: U18-C-rewrite-3 | rows=2}}
+  {{PH-1: U18-C-rewrite-3 | rows=2}}
 
-1. This is not acceptable.
+4. This is not acceptable.
 
-{{PH-1: U18-C-rewrite-4 | rows=2}}
+  {{PH-1: U18-C-rewrite-4 | rows=2}}
 :::
 
 ::: language
@@ -5430,17 +5489,23 @@ Practice B: Improve the Email Tone
 
 Rewrite each short email to improve tone.
 
-**Email 1**
+::: example
+Email 1
 
 Subject: Document
+
 You didn't attach the correct file. Attach the right one now.
+:::
 
 {{PH-2: U18-practice-b-tone-1 | rows=4}}
 
-**Email 2**
+::: example
+Email 2
 
 Subject: Problem
+
 Why didn't you tell me about this earlier? Now we have a delay.
+:::
 
 {{PH-2: U18-practice-b-tone-2 | rows=4}}
 :::
@@ -5472,27 +5537,27 @@ Write Two Tone-Improved Emails
 
 Choose two situations. For each one, read the rough draft and rewrite it so the final email is more polite, neutral, and suitable for workplace communication.
 
-A. Missing information
+**A. Missing information**
 
-*You still didn't send the missing page. We asked before, and now this is causing a delay. Send it today.*
+  *You still didn't send the missing page. We asked before, and now this is causing a delay. Send it today.*
 
-B. Inconsistent file set
+**B. Inconsistent file set**
 
-*There is a problem with your files again. You sent the wrong version, and this is making extra work for us.*
+  *There is a problem with your files again. You sent the wrong version, and this is making extra work for us.*
 
-C. Delay notice
+**C. Delay notice**
 
-*This process will take longer because your earlier message was incomplete, and now we have to check everything again.*
+  *This process will take longer because your earlier message was incomplete, and now we have to check everything again.*
 
-D. Clarifying a misunderstanding
+**D. Clarifying a misunderstanding**
 
-*You understood this incorrectly. Read the earlier message again and follow the correct process this time.*
+  *You understood this incorrectly. Read the earlier message again and follow the correct process this time.*
 
-**Email 1**
+**Rewritten Email 1**
 
 {{PH-2: U18-freer-email-1 | rows=8}}
 
-**Email 2**
+**Rewritten Email 2**
 
 {{PH-2: U18-freer-email-2 | rows=8}}
 :::
@@ -5625,16 +5690,16 @@ Write **2-3 sentences** explaining which version is stronger. Mention accuracy, 
 
 ### Revision Lab
 
+::: revise
+Improve the Weak Draft
+
+Revise the weak draft in three passes: first improve accuracy, then improve clarity, and then improve tone.
+
 ::: example-bad
 No Title
 
 The office checked your file yesterday but there is a mistake in many parts and this creates trouble for us. You need to correct it fast because this kind of thing happens again and again.
 :::
-
-::: revise
-Improve the Weak Draft
-
-Revise the weak draft in three passes: first improve accuracy, then improve clarity, and then improve tone.
 
 {{PH-2: M5-revision-lab-message | rows=6}}
 :::
@@ -5763,7 +5828,9 @@ Read the scenario and answer the questions.
 :::
 
 ::: learn
-Before You Write Two Texts from One Scenario
+Two-Reader Planning Check
+
+Before you write the two texts, check these points:
 
 - decide who each reader is
 - decide what each reader needs to know
@@ -6044,7 +6111,9 @@ Read the scenario and answer the questions.
 :::
 
 ::: learn
-For Connected Documents, Check
+Connected-Document Planning Check
+
+Before you write the connected documents, check these points:
 
 - the correction is the same in both texts
 - the important date or detail is consistent
@@ -6416,11 +6485,11 @@ Rewrite these sentences/emails to make them consistent with team standards.
 
 {{PH-1: U21-C-rewrite-1 | rows=2}}
 
-1. Hello, Please check. I think there is a problem.
+2. Hello, Please check. I think there is a problem.
 
 {{PH-1: U21-C-rewrite-2 | rows=2}}
 
-1. Team, The file is wrong. Fix it.
+3. Team, The file is wrong. Fix it.
 
 {{PH-1: U21-C-rewrite-3 | rows=2}}
 :::
@@ -6609,9 +6678,13 @@ Read the scenario and answer the questions.
 
 **Scenario:** You receive an email from an applicant asking why their application status has not been updated. After reviewing the system, you discover that one document from the applicant is missing, the review team cannot proceed without it, and a colleague had previously assumed the file was complete.
 
+**Notes:**
+
 - One document from the applicant is missing.
 - The review team cannot proceed without it.
 - A colleague had previously assumed the file was complete.
+
+**Think***
 
 1. What does the applicant need to know?
 2. What does your colleague need to understand?
@@ -6622,7 +6695,9 @@ Read the scenario and answer the questions.
 :::
 
 ::: learn
-Before You Write a Multi-Document Set
+Multi-Document Planning Check
+
+Before you write the multi-document set, check these points:
 
 - list the three readers
 - note the main fact all three documents must share
@@ -6652,20 +6727,20 @@ If all three texts sound the same, the communication set does not match the real
 ::: language
 Three Audiences, Three Styles
 
-**(A) Applicant Reply - Polite, supportive, clear**
+**Applicant Reply - Polite, supportive, clear**
 
 - Thank you for your message.
 - We have checked your application status.
 - One document has not yet been received.
 - We will update the status once...
 
-**(B) Colleague Message - Neutral, cooperative**
+**Colleague Message - Neutral, cooperative**
 
 - I reviewed the applicant file and noticed...
 - The status has not been updated because...
 - Once the document is received, we can...
 
-**(C) Internal Notice - Concise, factual**
+**Internal Notice - Concise, factual**
 
 - Please note the following update...
 - The applicant's file remains incomplete.
@@ -6683,15 +6758,15 @@ Rewrite each sentence for the appropriate audience.
 
 {{PH-1: U22-C-rewrite-1 | rows=2}}
 
-1. (Colleague) "The applicant didn't follow the instructions again."
+2. (Colleague) "The applicant didn't follow the instructions again."
 
 {{PH-1: U22-C-rewrite-2 | rows=2}}
 
-1. (Internal Notice) "The file is wrong and causing trouble."
+3. (Internal Notice) "The file is wrong and causing trouble."
 
 {{PH-1: U22-C-rewrite-3 | rows=2}}
 
-1. (Applicant) "Send the document quickly."
+4. (Applicant) "Send the document quickly."
 
 {{PH-1: U22-C-rewrite-4 | rows=2}}
 :::
@@ -6905,10 +6980,10 @@ This opening task prepares the three earlier pieces before you build the full po
 
 In this unit, your portfolio will contain:
 
-1. **One external-style email** (revised and final)
-2. **One internal explanation or notice** (revised and final)
-3. **One paragraph for a report** (revised and final)
-4. **One new document created in Unit 23**
+1. One external-style email (revised and final)
+2. One internal explanation or notice (revised and final)
+3. One paragraph for a report (revised and final)
+4. One new document created in Unit 23
 
 Look back at your writing from Units 1-22. Choose the three earlier drafts you want to revise for your portfolio:
 
@@ -7272,16 +7347,16 @@ Write **2-3 sentences** explaining why Version B is stronger. Mention audience c
 
 ### Revision Lab
 
+::: revise
+Rebuild the Communication Set
+
+Rebuild the weak response as a stronger set:
+
 ::: example-bad
 No Title
 
 There is a document problem. Please send the correct form. We will also tell the team there is a delay and everyone should wait.
 :::
-
-::: revise
-Rebuild the Communication Set
-
-Rebuild the weak response as a stronger set:
 
 1. External message:
    - thank the reader
@@ -7293,7 +7368,7 @@ Rebuild the weak response as a stronger set:
 
 {{PH-2: M6-revision-external | rows=6}}
 
-1. Internal message:
+2. Internal message:
    - explain the same fact neutrally
    - tell the team what to pause, continue, or watch
    - remove any sentence that only belongs in the external message
@@ -7302,7 +7377,7 @@ Rebuild the weak response as a stronger set:
 
 {{PH-2: M6-revision-internal | rows=6}}
 
-1. Revision note:
+3. Revision note:
    - explain why the external and internal versions need different wording
    - explain which reader needed different detail or tone
    - explain which Module 5 editing pass improved the set most

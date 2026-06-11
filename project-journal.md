@@ -3013,3 +3013,34 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - a new leftmost `Module` column in the TOC table
 - Refinement:
   - simplified the module-overview wording so it is clearer for intermediate-level students and avoids teacher-facing phrases such as `core writing control`
+
+### 2026-06-10T00:00:00+09:00 - INT Answer Key Headings Realigned To Live Manuscript Structure
+
+- Updated:
+  - `int/md/working/aw-int-answer-key.md`
+- Trigger:
+  - Dave flagged that the answer key was still reflecting the older section pattern, especially repeated `C. Language` labels, rather than the current unit headings and div titles in the live INT manuscript.
+- Action:
+  - rechecked the answer-key subsection headings against `int/md/working/aw-int-all_0519.md`
+  - renamed subsection labels so they follow the current section letters and current activity / div titles
+  - corrected cases where older answer-key headings still pointed to the wrong section after tasks had moved, especially in later INT units and Unit 4
+- Outcome:
+  - the answer-key heading layer now matches the live manuscript structure mechanically at the subsection-label level
+
+### 2026-06-10T00:00:00+09:00 - Flattened Instruction Title Audit Added And Definite Cases Repaired
+
+- Added:
+  - `int/edits & guides/full-review/print-readiness-audits/phase 5/phase5_flattened_instruction_title_audit_0610.md`
+- Trigger:
+  - Dave identified a later-unit pattern where a div title appeared to be a promoted instruction line, leaving a support block as little more than `title + list only`
+- Audit outcome:
+  - 18 blocks matched the broad surface pattern
+  - 3 were treated as definite flattened-title cases requiring source repair
+  - several others were retained as genuine phrase-bank, takeaway, or checklist-style support blocks
+- Source repairs applied in:
+  - `int/md/working/aw-int-all_0519.md`
+- Changes made:
+  - Unit 19 `Before You Write Two Texts from One Scenario` -> `Two-Reader Planning Check`, with the instruction restored as body text
+  - Unit 20 `For Connected Documents, Check` -> `Connected-Document Planning Check`, with the instruction restored as body text
+  - Unit 22 `Before You Write a Multi-Document Set` -> `Multi-Document Planning Check`, with the instruction restored as body text
+  - Unit 22 `Three Audiences, Three Styles` block changed from `(A) / (B) / (C)` audience labels to plain bold audience names
