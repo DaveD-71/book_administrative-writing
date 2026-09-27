@@ -1,0 +1,57 @@
+schema_version: 1
+repository_scope:
+  id: repository
+  name: Administrative Writing repository
+  strong_phrases:
+    - repository-wide
+    - repo-wide
+multi_scope_phrases:
+  - both books
+  - both textbooks
+  - advanced and intermediate
+  - adv and int
+  - int and adv
+  - combined advanced and intermediate
+scopes:
+  - id: advanced
+    name: Advanced track
+    level: workstream
+    parent: repository
+    path_prefixes:
+      - adv/
+    strong_phrases:
+      - advanced track
+      - advanced book
+      - advanced planning
+      - advanced source of truth
+    weak_terms:
+      - advanced
+      - n10
+      - n11
+  - id: intermediate
+    name: Intermediate track
+    level: workstream
+    parent: repository
+    path_prefixes:
+      - int/
+    strong_phrases:
+      - intermediate track
+      - intermediate book
+      - intermediate planning
+      - intermediate print-readiness
+    weak_terms:
+      - intermediate
+      - int-
+  - id: writing-tests
+    name: Writing tests
+    level: workstream
+    parent: repository
+    path_prefixes:
+      - writing_tests/
+    strong_phrases:
+      - writing test
+      - writing-test
+      - pre-test scoring
+    weak_terms:
+      - pre-test
+      - scoring sheet
