@@ -530,3 +530,24 @@ Persistent notes about user/environment-level behaviors that can affect work acr
   4. AI-internal memory (e.g. Claude Code memory) is secondary only — never the sole record of project decisions
   5. After writing to repo memory files, commit and push so all AIs see the update
 - Why: writing memory only to AI-specific internal storage makes it invisible to other AIs working in the same repo, breaking shared context across tools
+
+### 2026-09-16T16:30:00+09:00 - LLM-Agnostic User Bootstrap Files Live Directly Under `%USERPROFILE%`
+
+- Entry-ID: `ul-67ce9220-79c9-5e81-9cc7-eb293076c062`
+
+- Status: `workaround`
+- Scope: user/workflow
+- Pattern: maintaining shared memory/bootstrap files across Codex, Claude Code, and other LLM assistants
+- Decision: canonical user-level bootstrap files are `%USERPROFILE%\AGENTS.md` and `%USERPROFILE%\memories\user-learning.md`, not an assistant-specific folder.
+- Preferred behavior: treat assistant-specific copies such as `%USERPROFILE%\.codex\AGENTS.md` only as compatibility/discovery copies; update their contents from the canonical LLM-agnostic files, but do not treat them as the source of truth.
+- Recheck trigger: any future bootstrap rule that names a tool-specific user-level folder as canonical should be corrected back to the shared `%USERPROFILE%` layout unless the user explicitly changes the architecture.
+
+### 2026-09-24T00:00:00+09:00 - Prefer Ordered Sublists in Structured Documents
+
+- Entry-ID: `ul-050a6295-2b9e-5f23-b882-eb23efedb0dc`
+
+- Status: `resolved`
+- Scope: user/document-formatting preference
+- Pattern: long sentences under numbered action items need to be divided into sub-items
+- Decision: use numbered or lettered sublists, not bullet points; in Markdown, use nested numeric markers because CommonMark does not recognize `a.`, `b.`, `c.` as list syntax
+- Preferred behavior: preserve the ordered hierarchy by default when restructuring action lists and use syntax that renders each sub-item on a separate line

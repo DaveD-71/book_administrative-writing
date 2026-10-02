@@ -3044,3 +3044,11 @@ The PH type (PH-1 through PH-5) retains its pedagogical meaning (nature of respo
   - Unit 20 `For Connected Documents, Check` -> `Connected-Document Planning Check`, with the instruction restored as body text
   - Unit 22 `Before You Write a Multi-Document Set` -> `Multi-Document Planning Check`, with the instruction restored as body text
   - Unit 22 `Three Audiences, Three Styles` block changed from `(A) / (B) / (C)` audience labels to plain bold audience names
+
+### 2026-10-02T10:08:29.1069146+09:00 - GitHub Sync Rebased Through Safety Checkpoint
+
+- Fetched and inspected `origin/main`, which was three commits ahead with shared-memory policy updates.
+- Verified seven apparent INT file relocations as byte-identical Git renames before checkpointing local work.
+- Created `safety/sync-2026-10-02`, committed the complete local state, and rebased it cleanly onto `origin/main`.
+- Reconciled the updated LLM-neutral `AGENTS.md` policy and synchronized the paired user-learning files, retaining two newer user-level entries that were absent from the remote mirror.
+- Preserved the pre-rebase checkpoint as commit `0b4b304`; the rebased checkpoint is `d4deb09` before the final memory-audit amendment.
